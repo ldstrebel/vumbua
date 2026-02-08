@@ -1,0 +1,22 @@
+title: Vumbua Campaign
+description: A Daggerheart campaign in a Magitek-Steampunk world of exploration and integration
+theme: jekyll-theme-cayman
+
+# Navigation
+header_pages:
+  - lore/index.md
+  - characters/index.md
+  - sessions/index.md
+  - mechanics/index.md
+
+# Exclude GM notes from site
+exclude:
+  - gm-notes/
+  - README.md
+  - Vumbua/
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
