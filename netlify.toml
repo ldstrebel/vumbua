@@ -1,0 +1,17 @@
+[build]
+  publish = "docs/"
+  command = "echo 'Static site - no build needed'"
+
+# Redirects for clean URLs
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+  conditions = {Role = ["admin"]}
+
+# Headers for caching
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "DENY"
+    X-XSS-Protection = "1; mode=block"
