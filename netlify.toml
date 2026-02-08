@@ -1,13 +1,10 @@
 [build]
-  publish = "docs/"
-  command = "echo 'Static site - no build needed'"
+  base = "docs/"
+  publish = "_site/"
+  command = "jekyll build"
 
-# Redirects for clean URLs
-[[redirects]]
-  from = "/*"
-  to = "/index.html"
-  status = 200
-  conditions = {Role = ["admin"]}
+[build.environment]
+  RUBY_VERSION = "3.2.0"
 
 # Headers for caching
 [[headers]]
