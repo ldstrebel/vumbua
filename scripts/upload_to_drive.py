@@ -18,7 +18,7 @@ except ImportError:
     from googleapiclient.http import MediaFileUpload
 
 
-SCOPES = ["https://www.googleapis.com/auth/drive.file"]
+SCOPES = ["https://www.googleapis.com/auth/drive"]
 EXPORTS_DIR = Path(__file__).resolve().parent.parent / "exports"
 MIME_MD = "text/markdown"
 MIME_GDOC = "application/vnd.google-apps.document"
@@ -38,6 +38,8 @@ def list_existing(service, folder_id):
         q=f"'{folder_id}' in parents and trashed = false",
         fields="files(id, name)",
         pageSize=100,
+        supportsAllDrives=True,
+        includeItemsFromAllDrives=True,
     ).execute()
     return {f["name"]: f["id"] for f in results.get("files", [])}
 
@@ -51,6 +53,7 @@ def upload_or_update(service, folder_id, local_path, existing_files):
         service.files().update(
             fileId=file_id,
             media_body=media,
+            supportsAllDrives=True,
         ).execute()
         print(f"  Updated: {name}")
     else:
@@ -62,6 +65,7 @@ def upload_or_update(service, folder_id, local_path, existing_files):
             body=metadata,
             media_body=media,
             fields="id",
+            supportsAllDrives=True,
         ).execute()
         print(f"  Created: {name}")
 
@@ -84,7 +88,7 @@ def main():
 
     stale = set(existing.keys()) - {f.name for f in md_files}
     for name in stale:
-        service.files().delete(fileId=existing[name]).execute()
+        service.files().delete(fileId=existing[name], supportsAllDrives=True).execute()
         print(f"  Deleted stale: {name}")
 
     for f in md_files:
