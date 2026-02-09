@@ -1,5 +1,8 @@
 Jan 28, 2026
 
+> [!NOTE]
+> **Lore Update**: The character introduced as "Serra Vox" is canonically **Seraphina "Serra" Vox**, heir to House Vox. She uses "Fox" as an alias.
+
 ## Session **1** \- Transcript
 
 ### 00:00:00
@@ -1576,7 +1579,7 @@ Jan 28, 2026
 **Loami or Britt:** I think Brit puts her hand on her shoulder and says,  
 **GM or Aggie:** gaggle.  
 **Loami or Britt:** "I came off as aggressive. I apologize.  
-**GM or Aggie:** It's okay. I sorry if I insulted you. Um, we're just like, that's really cool that you're from here. I don't I'm trying. I just want, you know, I'm an ally. Is that okay to say? Did I say that right? I think Agie's gonna fight up like don't mind my cousin. Hi, I'm Aggie. Hi. Uh, my name's Sarah. Sarah Fox. and she uh like has her little notebook tucked tucked in and she walks up it to give you a long hand uh handshake. She'll give her a handshake. How How are y'all settling in? Uh I I don't know. We just found these guys. She looks up again. Well, I guess he's down outside like Yeah. Uh, quite a crowd. I do think she's looking up to see if there's another.  
+**GM or Aggie:** It's okay. I sorry if I insulted you. Um, we're just like, that's really cool that you're from here. I don't I'm trying. I just want, you know, I'm an ally. Is that okay to say? Did I say that right? I think Agie's gonna fight up like don't mind my cousin. Hi, I'm Aggie. Hi. Uh, my name's Serra. Serra Vox. and she uh like has her little notebook tucked tucked in and she walks up it to give you a long hand uh handshake. She'll give her a handshake. How How are y'all settling in? Uh I I don't know. We just found these guys. She looks up again. Well, I guess he's down outside like Yeah. Uh, quite a crowd. I do think she's looking up to see if there's another.  
    
  
 
@@ -1655,7 +1658,7 @@ Jan 28, 2026
 ### 01:40:13
 
    
-**GM or Aggie:** Uh and so that's yeah that's how you met Sarah.  
+**GM or Aggie:** Uh and so that's yeah that's how you met Serra.  
 **Loami or Britt:** Okay.  
 **GM or Aggie:** Uh and then now Lomi has kind of like joined the group as as y'all are talking. Um,  
 **Loami or Britt:** All right.  

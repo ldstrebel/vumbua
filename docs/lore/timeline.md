@@ -100,7 +100,7 @@
 ### Intake Week - Day 2 (Session 1)
 - Dorm assignments issued
 - Iggy climbs crane to "touch the sky"
-- Sarah Fox approaches as potential "ally"
+- **Seraphina "Serra" Vox** approaches as potential "ally" (hiding her noble status)
 - Party learns about Rill from clan members
 - Lucky hustles his first deals
 - First class tomorrow: Gen-Ed Exploration, 8:00 AM

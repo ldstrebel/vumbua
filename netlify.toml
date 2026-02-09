@@ -1,7 +1,7 @@
 [build]
   base = "docs/"
   publish = "_site/"
-  command = "jekyll build"
+  command = "bundle install && jekyll build"
 
 [build.environment]
   RUBY_VERSION = "3.2.0"

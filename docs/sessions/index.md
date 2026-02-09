@@ -26,12 +26,12 @@ The largest intake class in Vumbua's history begins. Five unlikely candidates me
 ### [Session 1: First Day](session-01.md)
 **Date:** [Next session]
 
-Housing assignments scatter the group, but curiosity brings them back together. A mysterious student named Sarah Fox extends an olive branch, and secrets begin to surface.
+Housing assignments scatter the group, but curiosity brings them back together. A mysterious student named **Seraphina "Serra" Vox** (posing as "Serra Vox") extends an olive branch, and secrets begin to surface.
 
 **Key Events:**
 - Dorm assignments (Block 12, Block 99, Block 04)
 - Iggy climbs a crane to "touch the sky"
-- Sarah Fox introduces herself as an "ally"
+- **Seraphina "Serra" Vox** introduces herself as an "ally" (hiding her noble status)
 - The group learns about Rill, a Wadi researcher at the Academy
 - Lucky the hustler makes his first deals
 
