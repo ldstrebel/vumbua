@@ -1,35 +1,36 @@
 #!/usr/bin/env python3
-import json
 import os
 import sys
 from pathlib import Path
 
-try:
-    from google.oauth2 import service_account
-    from googleapiclient.discovery import build
-    from googleapiclient.http import MediaFileUpload
-except ImportError:
-    print("Installing google-api-python-client...")
-    import subprocess
-    subprocess.check_call([sys.executable, "-m", "pip", "install",
-                           "google-api-python-client", "google-auth"])
-    from google.oauth2 import service_account
-    from googleapiclient.discovery import build
-    from googleapiclient.http import MediaFileUpload
+from google.oauth2.credentials import Credentials
+from google.auth.transport.requests import Request
+from googleapiclient.discovery import build
+from googleapiclient.http import MediaFileUpload
 
-
-SCOPES = ["https://www.googleapis.com/auth/drive.file"]
 EXPORTS_DIR = Path(__file__).resolve().parent.parent / "exports"
 MIME_MD = "text/markdown"
-MIME_GDOC = "application/vnd.google-apps.document"
 
 
 def get_service():
-    key_json = os.environ.get("GOOGLE_SERVICE_ACCOUNT_KEY")
-    if not key_json:
-        sys.exit("GOOGLE_SERVICE_ACCOUNT_KEY env var not set")
-    info = json.loads(key_json)
-    creds = service_account.Credentials.from_service_account_info(info, scopes=SCOPES)
+    client_id = os.environ.get("GOOGLE_CLIENT_ID")
+    client_secret = os.environ.get("GOOGLE_CLIENT_SECRET")
+    refresh_token = os.environ.get("GOOGLE_REFRESH_TOKEN")
+
+    if not all([client_id, client_secret, refresh_token]):
+        sys.exit(
+            "Missing env vars. Need: GOOGLE_CLIENT_ID, GOOGLE_CLIENT_SECRET, GOOGLE_REFRESH_TOKEN"
+        )
+
+    creds = Credentials(
+        token=None,
+        refresh_token=refresh_token,
+        token_uri="https://oauth2.googleapis.com/token",
+        client_id=client_id,
+        client_secret=client_secret,
+        scopes=["https://www.googleapis.com/auth/drive.file"],
+    )
+    creds.refresh(Request())
     return build("drive", "v3", credentials=creds)
 
 
