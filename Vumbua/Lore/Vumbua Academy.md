@@ -207,9 +207,9 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 
 ## **THE REMNANT CLANS (The Primal Elements)**
 
-*You represent the raw, unrefined building blocks of the world. Harmony needs you because they have forgotten how to survive without machines.*
+*Public Knowledge: There are FOUR known Remnant Clans: Ash-Bloods (New), Mizizi (New), Wadi (Dying), and Renali (First Contact era). Two others (Trench/Storm) are theoretically possible but currently unknown.*
 
-### **5\. The Pyre-Keepers (Volcano Clan)**
+### **5\. The Pyre-Keepers (Volcano Clan) [KNOWN / ACTIVE]**
 
 * **The Element:** **MAGMA (Thermal Energy).**  
 * **Rarity:** **Regional / Intense.**  
@@ -225,7 +225,9 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 * **First Contact Story:** **"The Beacon of Despair."**  
   * The Ash-Bloods realized their fires were dying. They deliberately created a massive smoke signal—a black pillar visible for miles—to *invite* Harmony. They traded their independence for heat.
 
-    ### **6\. The Wadi (River Clan)**
+    ### **6\. The Wadi (River Clan) [RARE / DECLINING]**
+
+*Academy Status: Known but scarce. Their home node is fading, so few travel to the Academy.*
 
 * **The Element:** **FRESH WATER (Hydrology).**  
 * **Rarity:** **Scarce / Critical.**  
@@ -241,7 +243,9 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 * **First Contact Story:** **"The Stolen Water."**  
   * Strangers in metal suits walked into the Sacred Canyon. They carried canteens of sweet water but did not offer it. We thought they were mocking us. We took their moisture to survive. Then the "Paper-Man" (The Scrivener) came. He did not bring a weapon; he brought a contract. We signed it because he promised the water would flow again.
 
-    ### **7\. The Renali (Air Clan)**
+    ### **7\. The Renali (Air Clan) [RARE / REMOTE]**
+
+*Academy Status: Known but elusive. They rarely land, making them a curiosity rather than a political force.*
 
 * **The Element:** **WIND (Gas/Gravity).**  
 * **Rarity:** **Abundant / Untamed.**  
@@ -257,7 +261,7 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 * **First Contact Story:** **"The Caught Cloud."**  
   * The sky broke. A massive metal cloud (Harmony Airship) fell from the upper stream. It was heavy and dead, tumbling toward the ocean. We flew our Bees to catch it. We wove a net of silk and saved the metal-men. They were strange—they did not know how to fly, only how to burn fuel to fight gravity. We pity them.
 
-    ### **8\. The Mizizi (Deep-Root Clan)**
+    ### **8\. The Mizizi (Deep-Root Clan) [KNOWN]**
 
 * **The Element:** **BIOMASS (Carbon/Life).**  
 * **Rarity:** **Common / Overgrown.**  
@@ -277,7 +281,9 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 
 *Elements pushed to their physical limit.*
 
-### **9\. The Trench-Kin (The Abyssal)**
+### **9\. The Trench-Kin (The Abyssal) [UNKNOWN / SECRET]**
+
+*Academy Status: Completely unknown. Even the Faculty doesn't know.*
 
 * **The Element:** **TECTONIC PRESSURE (Deep Earth).**  
 * **Rarity:** **Inaccessible.**  
@@ -291,7 +297,9 @@ These Clans stagnated because they stayed "Natural" and "Low Tech." They adapted
 * **First Contact Story:** **"The Deafening Whale."**  
   * We have never seen a "Human." But last cycle, a **"Deafening Metal Whale"** (Submarine) passed through the water above our cave. It did not swim like a beast; it hummed with a rhythm that hurt our ears. It dropped a glowing metal egg (probe) near our entrance. We buried it in sand because the light hurt our eyes.
 
-    ### **10\. The Fulgur-Born (The Storm-Chasers)**
+    ### **10\. The Fulgur-Born (The Storm-Chasers) [RUMORED / ANOMALY]**
+
+*Academy Status: Treated as a singular anomaly (Zephyr).*
 
 * **The Element:** **PLASMA (Lightning).**  
 * **Rarity:** **Volatile / Fleeting.**  
@@ -345,12 +353,14 @@ The Mizizi still participate in The Exchange, but their recent adoptees are reac
 
 * **Zephyr (The Storm Voice):**  
   * **Origin:** **The Cloud-Kin (Storm Chasers).**  
-  * **The Outlier:** She arrived in the last exchange (18 months ago). Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless.  
+  * **Public Status:** **"Foreign Dignitary" / Classified.**  
+  * **The Outlier:** She arrived in the last exchange (18 months ago). Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless. Most students assume she is an eccentric **Renali (Air Clan)** pilot, unaware she represents a completely different storm-based faction to the north. Only the Dean knows her true origin.  
   * **The Breach:** Zephyr breaks the Taboo not out of malice, but out of sheer, uncontainable excitement. She doesn't fear "The Shattering." She speaks openly of the "High-Jet Streams" and the "Thunder-Node."  
   * **Academy Relation:** Dean Vane has personally invited Zephyr into the inner circle. There are no spies here; the Dean and Zephyr can be found late at night in the Sky-Spire, eating sunflower seeds and frantically sketching wind-patterns on a chalkboard. Vane believes Zephyr holds the key to high-altitude flight.  
 * **Rill (The River-Born):**  
   * **Origin:** **The Wadi (River Clan).**  
-  * **The Dilemma:** She arrived 6 years ago (previous cycle). She is deeply disciplined and has never spoken of her home.  
+  * **Public Status:** **Mizizi Researcher.**  
+  * **The Dilemma:** She arrived 6 years ago (previous cycle). She is deeply disciplined. While she doesn't hide her Wadi heritage, she focuses entirely on her work, making her seem like just another scholar.  
   * **The Conflict:** Her home Node is dying—a river reduced to a trickle. Her people sacrifice their own rainwater to feed the Node rather than drink it themselves. To see the Mizizi deliberately destroying their own "clan-blood" (the Forest) breaks her heart.  
   * **The Ruse:** She came to Vumbua last year claiming she wanted to study "Accelerated Decay" to help the Mizizi destroy the forest faster.  
   * **The Reality:** She is secretly researching to see if the forest *needs* to be destroyed at all. She is on the verge of a eureka moment regarding the forest's true nature, but she cannot act alone. She needs to find a Mizizi clan member to bring into the great discovery she has made.

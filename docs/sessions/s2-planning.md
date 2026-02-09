@@ -48,11 +48,26 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
     - *The Grinders*: Industrial workers (like Loami) looking to break out.
 
 **Encounters**:
-1.  **The Mnemonics**: A group of students trying to memorize the 6 clans. They keep forgetting one (usually Trench-Kin or Wadi).
+1.  **The Speculators**: A group of students arguing about the "Two Missing Clans". Everyone knows the Four (Ash-Blood, Mizizi, Wadi, Renali), but the "Sixfold Theory" claims there must be Earth and Lightning clans too. They are placing bets on where they are hiding (e.g., "Under the crust?" "In the storm clouds?").
 2.  **The "Fake" Map**: Someone selling a "map of the test". It's actually a map of the cafeteria menu.
 3.  **Ash-Blood & Mizizi Interest**: Students circling Ignatius and the Mizizi cousins, asking insensitive questions ("Do you really eat rocks?", "Can I smoke your moss?").
 
-## Scene 2: Gen-Ed - Exploration 101 (The Written Assessment)
+## Scene 2: The Semester Montage (Weeks 1-4)
+
+**Concept**: A narrative montage covering the first month of classes. Players describe one key moment of their studies.
+
+**Mechanic: Focus & Describe**
+1.  **Choose a Focus**: Pick a Skill or Domain (e.g., Piloting, Arcana, Skullduggery).
+2.  **Describe a Moment**: Narrate a scene of struggle, breakthrough, or trouble.
+3.  **The Roll**: Make an Action Roll (Stat + 2d12).
+
+**Outcomes**:
+-   **Success with Hope**: **Top of the Class**. Gain a temporary **Experience** (e.g., *"Aced the Midterm"*) usable once during the Exam.
+-   **Success with Fear**: **Passed, but...**: You passed, but attracted unwanted attention or owe a favor.
+-   **Failure with Hope**: **Hard Lesson**: You failed the specific task, but learned from it. Clear 1 Stress or gain a **Hope**.
+-   **Failure with Fear**: **Academic Probation**: The Professor hates you. Mark a Condition (e.g., *Stressed* or *Insecure*).
+
+## Scene 3: Gen-Ed - Exploration 101 (The Written Assessment)
 
 **Setting**:
 - A massive "Exam Hall" with thousands of clacking brass terminals.
@@ -70,7 +85,7 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
 **The Twist**:
 - Mid-exam, the screens glitch. A "Live Feed" from a real explorer pops up, showing something terrifying (a void-beast? a total wipeout?) before being cut. The Dean claims it was "Part of the stress test".
 
-## Scene 3: Practical Assessment - "The Simulations" (Afternoon)
+## Scene 4: Practical Assessment - "The Simulations" (Afternoon)
 
 **Setting**:
 - The "Prove-It Grounds" and "Sim-Pods".
