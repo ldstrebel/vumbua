@@ -313,11 +313,11 @@ The players take the assessment (a meta-game survey).
 
 - [x] Update [Knowledge Tracker](../lore/knowledge-tracker.md) - Nothing new revealed to players
 - [x] Update [Timeline](../lore/timeline.md) - Intake Day added
-- [ ] Create [Britt](../characters/player-characters/britt.md) profile
-- [ ] Create [Aggie](../characters/player-characters/aggie.md) profile
-- [ ] Create [Ignatius](../characters/player-characters/ignatius.md) profile
-- [ ] Create [Lomi](../characters/player-characters/lomi.md) profile
-- [ ] Create [Iggy](../characters/player-characters/iggy.md) profile
+- [x] Create [Britt](../characters/player-characters/britt.md) profile
+- [x] Create [Aggie](../characters/player-characters/aggie.md) profile
+- [x] Create [Ignatius](../characters/player-characters/ignatius.md) profile
+- [x] Create [Lomi](../characters/player-characters/lomi.md) profile
+- [x] Create [Iggy](../characters/player-characters/iggy.md) profile
 
 ---
 

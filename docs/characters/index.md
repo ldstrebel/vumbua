@@ -5,10 +5,10 @@
 ### The Party
 
 - **[Britt](player-characters/britt.md)** - Mizizi (Gray fungal-turtle) - Gold Rank
-- **[Aggie](player-characters/aggie.md)** - Mizizi (Red-spotted turtle) - Silver Rank
-- **[Ignatius](player-characters/ignatius.md)** - Ash-Blood - Silver Rank
-- **[Lomi](player-characters/lomi.md)** - Harmony-born (Iron-Union) - Copper Rank
-- **[Iggy](player-characters/iggy.md)** - Earthkin - Gold Rank
+- **[Aggie](player-characters/aggie.md)** - Mizizi (Red-and-white spotted mushroom-turtle) - Silver Rank
+- **[Ignatius](player-characters/ignatius.md)** - Ash-Blood (Ember Islander) - Silver Rank
+- **[Lomi](player-characters/lomi.md)** - Harmony-born (Octoumba, Iron-Union) - Copper Rank
+- **[Iggy](player-characters/iggy.md)** - "Earthkin" (Trench-Kin) - Gold Rank
 
 ---
 

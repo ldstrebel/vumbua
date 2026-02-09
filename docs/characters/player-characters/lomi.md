@@ -7,9 +7,9 @@
 | | |
 |---|---|
 | **Origin** | Harmony (Octoumba region) |
-| **Rank** | Copper |
+| **Rank** | 🥉 Copper |
 | **Class** | Daggerheart Character |
-| **Player** | TBD |
+| **Player** | Luke F (Luke Foreman) |
 
 ## Appearance
 
