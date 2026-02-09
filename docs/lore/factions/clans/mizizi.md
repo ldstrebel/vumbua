@@ -47,7 +47,7 @@ This year, far more Mizizi were invited to join Vumbua Academy than ever before.
 
 - **Britt** - Gray, dusty fungal-turtle. Outspoken, suspicious of Harmony
 - **Aggie** - Red-and-white spotted mushroom-turtle. More reserved cousin of Britt
-- **Rill** - A mysterious researcher who left the forest 2 years ago (see [Rill](../characters/npcs/rill.md))
+- **Rill** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [Rill](../characters/npcs/rill.md))
 
 ### Cultural Notes
 

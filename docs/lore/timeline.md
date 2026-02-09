@@ -73,10 +73,10 @@
 
 ### 2 Months Ago
 - **Rill arrives at Vumbua Academy**
-  - Wadi (River Clan) exchange member from 6 years ago
-  - Left Mizizi forest claiming to study "Accelerated Decay"
-  - Actually researching if forest needs to be destroyed at all
-  - Sends letters welcoming other Mizizi to join her
+  - **Secretly Wadi (River Clan):** Originally entered Mizizi Forest as an exchange member **6 years ago**.
+  - **2 Years Ago:** Left Mizizi forest claiming to study "Accelerated Decay" (The "Traitor" event).
+  - **Now:** Actually researching if forest needs to be destroyed at all.
+  - Sends letters welcoming other Mizizi to join her.
 - Zephyr joins Dean Vane's inner circle
   - Late night sessions in Sky-Spire sketching wind-patterns
   - Dean believes she's key to high-altitude flight
