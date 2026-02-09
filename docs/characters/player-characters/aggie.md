@@ -7,9 +7,9 @@
 | | |
 |---|---|
 | **Clan** | [Mizizi (Root-Kin)](/lore/factions/clans/mizizi.md) |
-| **Rank** | TBD |
+| **Rank** | 🥈 Silver |
 | **Class** | Daggerheart Character |
-| **Player** | Christina |
+| **Player** | Christina (Kristina) |
 
 ## Appearance
 

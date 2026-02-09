@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Origin** | Unknown (possibly Trench-Kin) |
-| **Rank** | TBD (receipt was... used as a tissue) |
+| **Rank** | 🥇 Gold (receipt was... used as a tissue) |
 | **Class** | Daggerheart Character |
 | **Player** | Holly |
 
