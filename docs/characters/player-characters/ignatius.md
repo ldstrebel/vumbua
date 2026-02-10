@@ -7,7 +7,7 @@
 | | |
 |---|---|
 | **Clan** | [Ash Bloods](/lore/factions/clans/ash-bloods.md) |
-| **Rank** | TBD |
+| **Rank** | 🥈 Silver |
 | **Class** | Daggerheart Character |
 | **Player** | John |
 
