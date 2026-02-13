@@ -9,14 +9,16 @@ parent: Harmony Factions
 
 | | |
 |---|---|
-| **Sphere** | Capital, Energy Storage, Investment |
-| **Element** | Pure Crystal (The Battery) |
+| **Sphere** | Capital, Banking, Resonance Technology |
+| **Element** | Chime Spires (Resonators) |
 | **Council** | Venture (Core Four) |
 | **Era of Rise** | Era 1 (The First Spark) |
 
 ## What Players Know
 
-House Gilded is the aristocratic elite of Harmony. They perfected the storage of raw magic via Crystal Batteries, allowing civilization to exist at night. Their students wear polished uniforms and carry themselves with an air of entitlement. Valerius Sterling is the most visible Gilded student at the Academy.
+House Gilded is the aristocratic elite of Harmony. In the earliest days of the empire, they built the **Chime Spires**---musical resonators that synchronize raw ether into usable power. For the first 30-50 years, these Tesla-like spires sat atop buildings and harnessed ether directly into lights and other devices. House Gilded grew enormously wealthy from this monopoly on power.
+
+When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major node integration caused a 30% surge in the Global Amplitude, spiking all currents and causing massive fires---they pivoted from energy production to **banking**. They are now Harmony's treasury and financial backbone, though they retain deep ties to the resonator infrastructure. Their students wear polished uniforms and carry themselves with an air of entitlement.
 
 ## Key NPCs
 
@@ -33,6 +35,8 @@ House Gilded is the aristocratic elite of Harmony. They perfected the storage of
 ### The "Minimum" Motive
 
 The Crystal Banks are insolvent. They need the "Great Surge" (500 years of power) not just to keep the lights on, but to hide the fact that they leveraged the empire's future on bad energy bets during the Silent Era. House Gilded isn't just wealthy---they're hiding bankruptcy.
+
+The irony: they survived the Night of Sparks only because they had already diversified into banking. Now their banks are failing for the opposite reason---not enough power flowing through the system.
 
 ### Valerius Sterling Sr.
 

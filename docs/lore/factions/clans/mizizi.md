@@ -20,7 +20,7 @@ The elders have been increasingly terrified, convinced that this fulfills the an
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived (led by "The Paper Man" in his sterile metal-studded outfit), they offered something the Mizizi desperately wanted: **tools to destroy the forest**.
+When Harmony's explorers arrived---led by **Valerius Sterling Sr.** (known to the Mizizi as "The Paper Man" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the Ash-Blood Isles, but he quickly moved on---integration work bored him.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood

@@ -24,7 +24,7 @@ The Vane family built the walls that keep the monsters out. They are the militar
 - **Lord Commander Titus Vane** - The Dean's militant rival. Believes the Academy is too soft. Pushes for aggressive "Find and Secure" exploration. Views the Clans as strategic assets to be conscripted.
 - **Celia Vance** - Compliance Proctor. Cold, precise, bureaucratic. Carries a brass clipboard. The Rulebook is her only weapon against her "superior" relatives.
 - **Kaelo "Ghost" Vane** - Captain. The black-ops wing of the family.
-- **Captain Elara Thorne** - The exploranaut who first contacted the Ash-Bloods and escorted Lady Ignis to Harmony Seat. Recently returned to assist with intake.
+- **Captain Elara Thorne** - The exploranaut who discovered the Ash-Blood Isles 24 months ago and escorted Lady Ignis to Harmony Seat. Recently returned to assist with intake. A veteran exploranaut who had been on many ventures before this first major success.
 
 ---
 

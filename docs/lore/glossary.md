@@ -21,9 +21,18 @@
 
 ## C
 
-**Crystal Batteries**
-- Harmony's primary energy storage technology
-- Links to the central power network
+**Chime Spires** (Resonators)
+- Musical, organ-like structures built by House Gilded during Era 1
+- Synchronize raw ether into usable power (like antennas tuning into a broadcast)
+- The original power infrastructure of Harmony
+- No surge protection---caused the Night of Sparks when overloaded
+
+**Crystal Batteries** (Vox Batteries)
+- Built by House Vox using umber crystals from Umbra Mountain
+- NOT traditional batteries---they regulate the connection to the ether field, like wireless chargers
+- Two innovations: surge protection (caps power intake) and stored connection (allows operation away from nodes)
+- Current generation: **Panda line** (550 amps, car-battery sized, lasts ~1 year)
+- Scrapped next generation: **Apex 1** (designed for a post-Ash-Blood surge that never came)
 - Currently running lean (secret)
 
 **Copper** (Aes)
@@ -51,6 +60,13 @@
 - Now returning to original meaning
 
 ## G
+
+**Global Amplitude** [GM ONLY]
+- Total ether energy available across Harmony's integrated territory
+- Not stored energy---a living field that rises as nodes are integrated
+- Has small natural surges and oscillations ("breathes like a living thing")
+- Historical: ~350 (400 years ago) → ~450+ (post-Night of Sparks) → ~600 (Era 4 peak) → ~600 declining (present)
+- The Ash-Blood integration should have added +300 to +800 but only added ~20
 
 **Gold** (Aurum)
 - Highest rank - 1% of students
@@ -116,12 +132,20 @@
 - Integration stalled at 15%
 - Primary name: **Mizizi**
 
+**Night of Sparks** [GM ONLY]
+- ~400 years ago, a major node integration caused a 30% surge in Global Amplitude (from ~350)
+- Without surge protection, every Gilded resonator in Harmony overloaded
+- Massive fires; nearly destroyed House Gilded
+- Led to House Vox developing the first Crystal Batteries
+- House Gilded pivoted from energy production to banking
+
 ## N
 
 **Node**
 - Pocket of concentrated reality/power
 - Each represents specific physics (Heat, Growth, Water, etc.)
 - Weak when isolated, powerful when integrated
+- Major vs. minor determined by degree of sentient transformation, not raw power alone
 
 ## O
 
@@ -151,6 +175,19 @@
 - Stripped of receipts, assigned maintenance or trap detection (Squad 09)
 - Effectively non-citizens
 - None of the party are Rust
+
+**Panda Line** [GM ONLY]
+- Current generation of Vox crystal batteries
+- Set at 550 amps (below ~600 Global Amplitude max)
+- First battery capable of storing the connection to the land (up to 3 days outside a node)
+- Released ~20 years ago; enabled the Ash-Blood and Mizizi discoveries
+- Car-battery sized; lasts ~1 year before surge protection degrades
+
+**Professor Kante**
+- Tortoise professor of harmonics at Vumbua Academy
+- From House Gilded, sponsored by House Vox
+- Key researcher in battery technology; released multiple Vox battery generations
+- Currently investigating the Ash-Blood Anomaly (missing surge)
 
 ## S
 

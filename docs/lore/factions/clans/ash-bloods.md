@@ -16,7 +16,7 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the Ash-Blood Isles just one week after Valerius Sterling Sr. had found the Mizizi---the Panda line batteries (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 **What the Integration Brought:**
 
