@@ -105,7 +105,7 @@
 
 ## Current Timeline (Session 0-1)
 
-### Intake Week - Day 1 (Session 0)
+### Intake Week - Day 1 (Sessions 0-1)
 - **100,000 candidates** take the trials
 - Largest intake class in Vumbua history
 - The Loom assigns ranks via typewriter system
@@ -114,16 +114,32 @@
   - Ignatius (Ash-Blood) - on pilgrimage for new heat
   - Lomi (Harmony-born) - boiler room worker
   - Iggy (disguised Trench-Kin) - infiltrator seeking answers
-- Dean Isolde welcomes class
-- Bonfire gathering at Block 99
-
-### Intake Week - Day 2 (Session 1)
+- Dean Isolde welcomes class; Rill pulls her off stage
 - Dorm assignments issued
 - Iggy climbs crane to "touch the sky"
-- **Seraphina "Serra" Vox** approaches as potential "ally" (hiding her noble status)
-- Party learns about Rill from clan members
 - Lucky hustles his first deals
-- First class tomorrow: Gen-Ed Exploration, 8:00 AM
+
+### Intake Week - Night of Day 1 (Session 2: The Bonfire)
+- Bonfire at Block 99; party socializes with new NPCs
+- **Cassius Thorne** arranges logs obsessively, charmed by Lomi
+- **Serra Vox** approaches Britt/Aggie; slips about political connections to The Seat
+- **The Speculators' Debate:** Percy argues the Sixfold Theory; Jax dismisses it; Bramble asks *"What if we are the ones who forgot?"*
+- Serra explains the **Inverse Power Doctrine** to Ignatius (Lady Ignis holds highest voting power)
+- Cultural exchange: Mizizi view death as natural ("Congratulations!"); Harmony fears death
+- Serra reveals the Mizizi forest has no clear "purpose"---unusual among nodes
+- Lomi brings **Engine Grease** (moonshine); Zephyr drinks it
+- **Zephyr's Lightning:** Purple bolt from clear sky strikes her; she's unharmed
+- **Rill** appears, retrieves Zephyr, invites Britt/Aggie to find her after class (grass-covered building)
+- Ignatius reveals Ash-Blood cultural divide: traditionalists (himself) vs modernizers (Ember)
+- Leidian properties discussed: 80% hotter, halflife oscillation, distance decay
+- Party heads to the **Celestial Lounge** for a nightcap
+
+### Intake Week - Day 1 (Session 2.5: Iggy's Power Room) [Planned]
+- While others are at bonfire, Iggy explores the power room
+- Meets Tommy (gnome clerk), Lucina (dwarf maintenance), Marla (human who failed out)
+- Discovers over-engineered surge protection
+- Finds historical records on Global Amplitude decline
+- **Professor Kante** appears with whiteboard of questions about the Ash-Blood Anomaly
 
 ---
 
@@ -131,9 +147,10 @@
 
 ### Next Session
 - First day of classes
-- Squad assignments likely
-- Captain interviews?
-- More of campus revealed
+- The Loom assigns teams after first-week exam
+- Rest week with captain interviews
+- Month-long trial venture
+- Meeting Rill at the grass-covered building after class
 
 ### Expected Timeline (GM Notes)
 - Another 20,000 will be sent home after "Intro Voyages"

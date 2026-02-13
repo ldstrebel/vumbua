@@ -9,6 +9,10 @@
 - ✅ Harmony is helping them destroy it with solvents and tools
 - ✅ The Mizizi philosophy: "When things stop dying, we start dying"
 - ✅ Rill left the forest 2 years ago to research at Vumbua
+- ✅ The forest doesn't have a clear "purpose" like other nodes---this puzzles Harmony scholars (Session 2)
+- ✅ There's a problem: "too much life"---things aren't dying properly (Session 2)
+- ✅ Mizizi view death as natural and celebrate the cycle; Harmony culture fears death (Session 2)
+- ✅ The Mizizi have NOT been formally integrated---no seat at Harmony, just a "semi-short-term weapons trade" (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ The forest is a **data archive/library**
@@ -24,6 +28,11 @@
 ### What Players Know
 - ✅ Vumbua has "flickering lights" occasionally (might not have noticed)
 - ✅ The Academy relocated recently to the Ash-Blood Isles
+- ✅ Leidian is burning 80% hotter per gram in the last 2 years since integration (Session 2)
+- ✅ Leidian has a halflife oscillation---heat tapers then rises again (Session 2)
+- ✅ Leidian loses some potency with distance from Ash-Blood isle (Session 2)
+- ✅ The boiler room uses both crystal batteries and leidian (Session 2)
+- ✅ Boilers are exploding because leidian is too hot (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ "The Minimum" crisis exists
@@ -81,6 +90,12 @@
 - ✅ Ash-Bloods are volcanic forge-keepers with obsidian skin
 - ✅ The Exchange Ritual exists (genetic diversity system)
 - ✅ Zephyr is a Storm-Kin who breaks the taboo openly
+- ✅ The "Sixfold Theory" exists---Percy theorizes Earth, Air, Water clans must exist (Session 2)
+- ✅ Ash-Bloods release heat by burning hotter, not sweating (Session 2)
+- ✅ Ash-Bloods were going through a "Great Cooling" before Harmony found them (Session 2)
+- ✅ Cultural divide: traditionalists (Ignatius) vs modernizers (Ember) on fire vs batteries (Session 2)
+- ✅ ~200 Ash-Bloods at the Academy among 70,000 students (Session 2)
+- ✅ Zephyr can cause purple lightning---struck by bolt from clear sky, unharmed (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ The clans are **specialized castes** of one ancient civilization
@@ -104,6 +119,11 @@
 - ✅ 100,000 in the intake, expecting massive attrition
 - ✅ Using spare buildings temporarily (Block 99 is a geothermal plant)
 - ✅ This is the first class at the new location
+- ✅ Academy structure: first week classes → exam → Loom team formation → rest week → month-long trial venture (Session 2)
+- ✅ The Loom assigns teams; if one member fails, whole team gets expelled (Session 2)
+- ✅ Campus layout: northwest side has manors, shops, Celestial Lounge (Session 2)
+- ✅ The Celestial Lounge is an upscale club on top floor of tallest building in fancy district (Session 2)
+- ✅ Rank receipts can be flashed for VIP access at clubs, but it's voluntary (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ The Academy CAN'T return home if they fail (not enough power)
@@ -113,12 +133,30 @@
 
 ---
 
+## Harmony Governance
+
+### What Players Know
+- ✅ The **Inverse Power Doctrine**: newest integrated member gets highest voting power (Session 2)
+- ✅ Lady Ignis is essentially "President" of Harmony because of this rule (Session 2)
+- ✅ *"The least of us should become the most of us"* (Session 2)
+- ✅ This prevents exploitation of new members' resources (Session 2)
+- ✅ It's kept the peace for a thousand years (Session 2)
+- ✅ Harmony Seat has ~8 million people (Session 2)
+
+### GM Secrets (Players Don't Know)
+- ❌ The doctrine is partly self-serving---it gives new members a stake so they don't rebel
+- ❌ Lady Ignis used this power to sign the Expansion Bill authorizing Vumbua's relocation
+
+---
+
 ## Timeline Status
 
 ### What Players Know
 - ✅ 80 years of no new discoveries (the "Silent Era")
 - ✅ Ash-Bloods discovered "recently"
 - ✅ Vumbua just relocated
+- ✅ Rill was the Dean's exchange to the Mizizi village (Session 2)
+- ✅ Rill is now the Dean's assistant (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ Ash-Blood integration: 24 months ago

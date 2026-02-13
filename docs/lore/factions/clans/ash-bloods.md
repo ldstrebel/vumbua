@@ -48,11 +48,39 @@ Harmony retrofitted the entire port engine to run on **Direct Obsidian Transfer*
 
 Ignatius likely worked these same boilers during construction.
 
+### The Cultural Divide (Session 2)
+
+Integration has split the Ash-Bloods into two ideological camps:
+
+**Traditionalists** (e.g. Ignatius):
+- Fire and volcanic heritage are sacred, non-negotiable
+- Ash-Bloods should find new sources of leidian and master their own element
+- Harmony's crystal batteries are useful tools, not replacements for true fire
+- Ignatius's personal quest: *"I want to find the heart of the volcano"*
+
+**Modernizers** (e.g. Ember):
+- Embrace Harmony's "clean" crystal battery energy
+- Refuse to touch organic fire---see it as outdated and dangerous
+- View integration as liberation from the harsh volcanic lifestyle
+- Ember (Ignatius's childhood cousin) is excited to never touch fire again
+
+This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
+
+### Ash-Blood Physiology (Session 2)
+
+- Ash-Bloods release heat by **burning hotter** (thermodynamic heat transfer), not sweating
+- Their clothing is designed to withstand extreme heat; leidian doesn't burn through it
+- They were going through a **"Great Cooling"** (volcanoes dying) before Harmony found them
+- Integration revived the heat---but the mechanism isn't fully understood
+- Ignatius carries a piece of leidian (obsidian-like heat stone) in his pocket
+
 ### Known Ash-Bloods
 
-- **Ignatius** - Student on a "pilgrimage" to find new heat for his clan
-- **Lady Ignis** - Representative on Harmony's High Council (distant, in capital)
+- **Ignatius** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
+- **Ember** - Ignatius's childhood cousin, modernizer who rejects traditional fire
+- **Lady Ignis** - Matriarch, holds highest voting power in Harmony via Inverse Power Doctrine
 - **"The Chad Student"** - Met Ignatius at intake, suspicious of soot
+- ~200 Ash-Bloods at the Academy among 70,000 students
 
 ### Cultural Notes
 
@@ -60,6 +88,7 @@ Ignatius likely worked these same boilers during construction.
 - True Flame (orange, consuming oxygen) is sacred
 - Safe-Flame (teal, stable) is considered "fake fire" and shameful
 - Physical contact doesn't burn others (despite appearances)
+- Ash-Bloods stand out at Academy---mostly wearing black because of soot, skin glowing
 
 ---
 
