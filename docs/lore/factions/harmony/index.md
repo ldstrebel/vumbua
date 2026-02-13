@@ -14,7 +14,7 @@ The expeditionary forces running Vumbua Academy. Focused on **Exploration & Surv
 
 | House | Sphere | Element | Philosophy | Key NPCs |
 |---|---|---|---|---|
-| [House Gilded](house-gilded.md) | Capital, Energy Storage | Pure Crystal (Battery) | "Assimilation is Profit" | Valerius Sterling, Lady Vespera |
+| [House Gilded](house-gilded.md) | Capital, Banking, Resonance | Chime Spires (Resonators) | "Assimilation is Profit" | Valerius Sterling, Lady Vespera |
 | [The Vane Lineage](vane-lineage.md) | Defense, Reality Anchors | Cold Iron (Magnetism) | "Defense is Survival" | Lord Commander Titus Vane, Celia Vance, Kaelo "Ghost" Vane |
 | [The Scrivener Guild](scrivener-guild.md) | Navigation, Maps, Data | Aether (Data/Echoes) | "Discovery is Truth" | Dean Isolde Vane, Professor Ink, Senior Historian Nadine |
 | [The Iron-Union](iron-union.md) | Engines, Labor, Industry | Steam (Pressure/Force) | "Stabilization is Duty" | Lomi (PC), "Old Man" Silas, "Hammer" |

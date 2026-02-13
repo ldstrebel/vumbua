@@ -7,6 +7,8 @@ Welcome to the world of **The Great Stitching**.
 - [World Overview](world/index.md) - Core concepts, integration mechanics, and map zones
 - [The Bleed](world/the-bleed.md) - Where reality dissolves at the map's edge
 - [The Minimum](world/the-minimum.md) - The energy crisis threatening Harmony
+- [The Power System](world/power-system.md) - Global Amplitude, Resonators, and Crystal Batteries
+- [Harmony's Integrated Nodes](world/harmony-nodes.md) - The 16+ nodes that form Harmony's territory
 - [Pre-Stitch Artifacts](world/pre-stitch-artifacts.md) - Ancient tech that works without magic
 
 ## Locations
@@ -18,7 +20,7 @@ Welcome to the world of **The Great Stitching**.
 
 ### Harmony Houses
 - [Harmony Factions Overview](factions/harmony/index.md) - Venture Council vs. Domestic Council
-- [House Gilded](factions/harmony/house-gilded.md) - Capital and energy storage (The Highborne)
+- [House Gilded](factions/harmony/house-gilded.md) - Capital, banking, and resonance (The Highborne)
 - [Vane Lineage](factions/harmony/vane-lineage.md) - Defense and walls (The Orderborne)
 - [Scrivener Guild](factions/harmony/scrivener-guild.md) - Knowledge and maps (The Loreborne)
 - [Iron-Union](factions/harmony/iron-union.md) - Engines and industry (The Ridgeborne)

@@ -26,7 +26,12 @@ For centuries, Harmony had excess power. Now, for the first time, they are appro
 
 - [The Bleed](the-bleed.md) - Where reality dissolves at the map's edge
 - [The Minimum](the-minimum.md) - The energy crisis threatening all of Harmony
+- [The Power System](power-system.md) - Global Amplitude, Resonators, and Crystal Batteries
 - [Pre-Stitch Artifacts](pre-stitch-artifacts.md) - Ancient tech that works without magic
+
+## Territory
+
+- [Harmony's Integrated Nodes](harmony-nodes.md) - The 16+ nodes that form Harmony's territory and power grid
 
 ## Integration Mechanics
 
