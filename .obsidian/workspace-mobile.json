@@ -4,37 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "848c00e79134f4bb",
+        "id": "d6befa9d33f6e9c6",
         "type": "tabs",
         "children": [
           {
-            "id": "2e59d0a8170b80f8",
+            "id": "c2cdae8d43247fab",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Valerius Sterling.md",
+                "file": "characters/player-characters/iggy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Valerius Sterling"
-            }
-          },
-          {
-            "id": "77d9acc4a38419a9",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Devin OCR test.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Devin OCR test"
+              "title": "iggy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -125,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Devin OCR test.md",
+            "file": "characters/player-characters/iggy.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -182,14 +169,15 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "77d9acc4a38419a9",
+  "active": "c2cdae8d43247fab",
   "lastOpenFiles": [
+    "sessions/transcripts/session-02.5.md",
+    "Excalidraw/Devin OCR test.md",
     "sessions/planning/s2/s2.5-planning.md",
     "sessions/planning/s2/s2-planning.md",
     "sessions/planning/s2/index.md",
     "sessions/planning/s2/bonfire_scene.md",
     "sessions/transcripts/session-02.md",
-    "sessions/transcripts/session-02.5.md",
     "sessions/transcripts/session-01.md",
     "sessions/transcripts/session-00.md",
     "sessions/transcripts/s2.5-raw.md",
@@ -214,7 +202,6 @@
     "lore/factions/harmony/high-justiciars.md",
     "lore/factions/harmony/grand-architects.md",
     "lore/factions/clans/wadi.md",
-    "lore/factions/clans/trench-kin.md",
     "lore/factions/harmony",
     "lore/factions/clans",
     "lore/characters/npcs",
