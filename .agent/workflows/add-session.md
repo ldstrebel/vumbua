@@ -61,6 +61,7 @@ Use this workflow after each game session to properly document what happened.
    - ❌ **Never**: Summarize, compress, or skip dialogue
    - ❌ **Never**: Add descriptions or details not in the transcript (no hallucination)
    - ❌ **Never**: Change character voices, word choices, or story details
+   - 🚨 **FAILURE STATE**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
    - ❓ **Tag for review**: Ambiguous NPC names, unclear speaker attribution, uncertain corrections
 
    **NPC Handling:**
