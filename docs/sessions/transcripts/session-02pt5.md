@@ -146,29 +146,20 @@ About halfway through jotting down the board...
 
 He speaks slowly — every word deliberate. Like a slow Indian accent, careful and measured.
 
-**Professor Kante:** "I have been watching you for a little while. What have you learned?"
+**Professor Kante:** "I have been watching you for a little while. You are student? What do you think?
+
+**Iggy:** "Ya Got an interesting thing going on over here"
+
+**Professor Kante:** "Indeed! What have you learned?"
 
 Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Leaning on a cane, wearing a jaunty top hat, very dapperly dressed in a Bridgerton-style outfit. But his hands are covered in dust that matches the colors of the chalk on the board. He looks at Iggy with a lot of curiosity and openness. Zero suspicion.
 
-**Professor Kante:** "Got an interesting thing going on over here."
-
-**Iggy:** "Tha's not…" *(trails off, regroups)*
-
-**Professor Kante:** "Yes, we are there. What we have built..." *(pauses)* "I'm sorry — you are a student here?"
-
-**Iggy:** "That is what I have been told as I walked in."
-
-**Professor Kante:** "Yeah."
-
-**Iggy:** "I guess I am."
-
-**Professor Kante:** "About the Panda 5 —"
-
 **Iggy:** "I dunno where I am, who you are, what this is. I was just lookin' up here."
+
 
 **Professor Kante:** "But wow, we are learning a lot. Where are you from? I don't recognize your accent."
 
-**Iggy:** "We do not think of it."
+**Iggy:** "We do not talk of it."
 
 **Professor Kante:** "Oh, I did not mean to offend. I am most apologetic. Forgive me. I only meant to say — if you are not that familiar with the Panda 5, are you from somewhere rural? Do you not have power?"
 
@@ -300,7 +291,7 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 
 **Iggy:** *(deflects)*
 
-**Professor Kante:** "I very, very much want to know — I did not mean... that is the second time. Forgive me. It is very... there are some very small sects in Harmony. I have heard — not as integrated with the rest of society, but they still use the Harmony resonator batteries. You must be from a very special place, but also one that I don't think I would want to live in, if you don't mind me saying."
+**Professor Kante:** "Sorry sorry sorry it is just that I very, very much want to know — I did not mean... that is the second time. Forgive me. It is very... there are some very small sects in Harmony. I have heard — not as integrated with the rest of society, but they still use the Harmony resonator batteries. You must be from a very special place, but also one that I don't think I would want to live in, if you don't mind me saying."
 
 "The connection between people is very important. And not knowing it is causing me physical pain — not to ask you where you're from — because I want to build this connection with you. It is very important. It's how we grow up. It is very important to our kind."
 
@@ -312,7 +303,7 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 
 **Professor Kante:** *(starts sliding his hand down the x-axis of the chart, past the Ash-Blood green line, past dates — 84, 10, 363, 30)* "If I mean quite honest, there is not — as far as I know, and I know, but I think good about history — the last major conflict between peoples was hundreds of years ago. We left on this chart."
 
-"So the only other... perhaps... I do not want to undermine our connection by hypothesizing what you are from. But there are other places in the Veil — the Vein — who are responsible for guarding our borders from very serious threats. Especially when the amplitude started to decline, the threats got very real. So I do understand this need for protection."
+"So the only other... perhaps... I do not want to undermine our connection by hypothesizing what you are from. But there are other places in the the Vane's who are responsible for guarding our borders from very serious threats. Especially when the amplitude started to decline, the threats got very real. So I do understand this need for protection."
 
 "But maybe I'll leave you with this: it is hard to defend alone. The thing that makes Harmony able to defend from the Aether beasts was the connections between the other peoples."
 
