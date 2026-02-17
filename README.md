@@ -12,19 +12,19 @@ A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlanti
 
 | For... | Go to... |
 |--------|----------|
-| **AI agents** — rapid orientation | [`.agent/workflows/lore-index.md`](.agent/workflows/lore-index.md) |
-| **Humans** — how to use AI workflows | [`.agent/workflows/human-instructions.md`](.agent/workflows/human-instructions.md) |
+| **AI agents** — rapid orientation | [[Lore Index|`.agent/workflows/lore-index.md`]] |
+| **Humans** — how to use AI workflows | [[Human Instructions|`.agent/workflows/human-instructions.md`]] |
 | **Players** — catching up on sessions | [`docs/sessions/index.md`](docs/sessions/index.md) |
 | **Players** — learning the world | [`docs/lore/index.md`](docs/lore/index.md) |
-| **Quick reference** — terms & definitions | [`docs/lore/glossary.md`](docs/lore/glossary.md) |
-| **Quick reference** — timeline | [`docs/lore/timeline.md`](docs/lore/timeline.md) |
+| **Quick reference** — terms & definitions | [[Glossary|`docs/lore/glossary.md`]] |
+| **Quick reference** — timeline | [[Timeline|`docs/lore/timeline.md`]] |
 | **Quick reference** — characters | [`docs/characters/index.md`](docs/characters/index.md) |
 
 ---
 
 ## The Setting
 
-**The Great Stitching** is a process where isolated civilizations and their reality-Nodes are physically integrated into a growing empire called **Harmony**. Vumbua Academy is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation.
+**The Great Stitching** is a process where isolated civilizations and their reality-Nodes are physically integrated into a growing empire called **Harmony**. [[Vumbua Academy]] is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation.
 
 Our party of five unlikely students must navigate:
 - Political intrigue between Harmony's houses
@@ -102,7 +102,7 @@ Lore pages include both **player-facing information** and **GM narration** (not 
 
 - **"What Players Know"** sections are safe to share
 - **"GM Narration"** sections contain unrevealed DM content, marked with caution boxes
-- The [Knowledge Tracker](docs/lore/knowledge-tracker.md) tracks what's been revealed
+- The [[Knowledge Tracker]] tracks what's been revealed
 
 ---
 
@@ -138,7 +138,7 @@ When completing any task, the AI must update all downstream files. Use this as a
 
 ## Changelog
 
-All AI-driven changes are logged in [`CHANGELOG.md`](CHANGELOG.md) with date stamps. Every workflow appends to this file upon completion.
+All AI-driven changes are logged in [[Changelog|`CHANGELOG.md`]] with date stamps. Every workflow appends to this file upon completion.
 
 ---
 

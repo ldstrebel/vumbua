@@ -13,7 +13,7 @@ import os
 import re
 import sys
 
-DOCS_DIR = os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))), "docs")
+DOCS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 REGISTRY = {
     "Britt": {
@@ -693,13 +693,22 @@ def process_file(filepath):
         return True
     return False
 
+SKIP_DIRS = {
+    "notebooklm", ".obsidian", ".git", ".trash", "node_modules",
+    "Daggerheart-Core", "Vumbua", "exports", "lore-dump", "Ink",
+    "docs",
+}
+
 def collect_all_md_files():
     files = []
     for root, dirs, filenames in os.walk(DOCS_DIR):
-        if "notebooklm" in root or ".obsidian" in root:
+        dirs[:] = [d for d in dirs if d not in SKIP_DIRS]
+        if any(s in root for s in SKIP_DIRS):
             continue
         for f in filenames:
             if f.endswith(".md") and f != "_template.md":
+                if f.endswith(".excalidraw.md"):
+                    continue
                 files.append(os.path.join(root, f))
     return sorted(files)
 

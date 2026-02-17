@@ -45,7 +45,7 @@ Use this workflow to add new lore pages or update existing ones with new informa
 
    ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-   > [!CAUTION]
+   > [!warning]-
    > The following information has been narrated by the GM but is NOT known to the player characters.
 
    [Hidden lore, future revelations, secret connections — from GM planning/narration only]

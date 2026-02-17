@@ -50,7 +50,7 @@ Use this workflow after each game session to properly document what happened.
      - Key events and actions
 
    **Speaker Attribution Rules:**
-   - Use **character name** (Iggy, Britt, Ignatius, etc.) when speaking **in-character**
+   - Use **character name** ([[Iggy]], [[Britt]], [[Ignatius]], etc.) when speaking **in-character**
    - Use **player name** (Holly, Sophie, John, etc.) when speaking **out-of-character**
    - Determine IC vs OOC from context (tone, content, GM responses)
    - When uncertain, default to character name and flag for review
@@ -64,7 +64,7 @@ Use this workflow after each game session to properly document what happened.
    - ❌ **Never**: Change character voices, word choices, or story details
    - 🚨 **FAILURE STATE — Overwriting history**: When updating character profiles, lore pages, or knowledge trackers with new session info, **ADD** new entries — never replace or overwrite earlier descriptions. A character's journey should be visible over time. If Iggy was described as "an infiltrator" in Session 1 notes but Session 2.5 reveals he's "genuinely trying to help his people," add the new understanding alongside the old — don't delete the original framing. Session canon is always additive.
    - 🚨 **FAILURE STATE — PC Dialect**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
-   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If Professor Kante says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
+   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If [[Professor Kante]] says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
    - ❌ **Never**: Present OOC player thoughts as IC dialogue. If Holly is *thinking out loud* about what Iggy might feel or ask (as a player brainstorming), that is OOC and should be formatted as `> **Holly (OOC):**`. Only attribute dialogue to Iggy if she is *performing* as him.
    - ❓ **Tag for review**: Ambiguous NPC names, unclear speaker attribution, uncertain corrections
 
@@ -115,7 +115,7 @@ Use this workflow after each game session to properly document what happened.
 
 These are real errors that were made and corrected. Do not repeat them:
 
-1. **Smoothing PC dialect** — Iggy's `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
+1. **Smoothing PC dialect** — [[Iggy]]'s `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
 
 2. **Smoothing NPC voice** — Kante's fumbled phrasing `"What do you like, know?"` was "corrected" to `"What do you know?"`. His broken English is his character.
 

@@ -126,7 +126,7 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 ### Handling Uncertain Attributions
 - The AI will tag anything uncertain with `[review needed]`
 - Just tell it: *"That line was Serra, not an unidentified NPC"* and it will fix it
-- Batch corrections are fine: *"Lines tagged for review: 1 is Serra, 2 is Jax, 3 is the GM describing the room"*
+- Batch corrections are fine: *"Lines tagged for review: 1 is Serra, 2 is [[Iron-Jaw Jax|Jax]], 3 is the GM describing the room"*
 
 ### Requesting Corrections
 - Be specific: *"Change all instances of 'Lasidian' to 'Leidian'"*
@@ -135,7 +135,7 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 
 ### Player Names vs Character Names
 - The AI will use **player names** (Sophie, Holly, etc.) for out-of-character moments
-- And **character names** (Britt, Iggy, etc.) for in-character dialogue
+- And **character names** ([[Britt]], [[Iggy]], etc.) for in-character dialogue
 - If you prefer a different convention, just say so
 
 ---

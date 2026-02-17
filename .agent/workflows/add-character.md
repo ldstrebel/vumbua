@@ -70,7 +70,7 @@ Use this workflow to create a new player character or NPC profile.
 
    ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-   > [!CAUTION]
+   > [!warning]-
    > The following information has been narrated by the GM but is not known to the player characters.
 
    [Secret information, plot hooks, future plans — only from GM narration, never invented]
