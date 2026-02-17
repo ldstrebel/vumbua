@@ -82,9 +82,9 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Dean Isolde Vane** | Head of Vumbua Academy | `docs/lore/characters/npcs/dean-isolde-vane.md` |
 | **Celia Vance** | Operations Director | `docs/lore/characters/npcs/celia-vance.md` |
 | **Senior Exploranaut Hesperus** | Instructor, Field Training | `docs/lore/characters/npcs/hesperus.md` |
-| **Ratchet** | Engineer (The Maintenance) | `docs/lore/characters/npcs/ratchet.md` |
-| **Kojo** | Integrator | `docs/lore/characters/npcs/kojo.md` |
-| **Pyrrhus** | Ash-Blood Technician | `docs/lore/characters/npcs/pyrrhus.md` |
+| **Ratchet** | Copper-Rank Student, Block 99-Piston | `docs/lore/characters/npcs/ratchet.md` |
+| **Kojo** | Mizizi Student, Help Desk Tutor | `docs/lore/characters/npcs/kojo.md` |
+| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `docs/lore/characters/npcs/pyrrhus.md` |
 | **Professor Kante** | Tortoise professor of harmonics | `docs/lore/characters/npcs/professor-kante.md` |
 
 ### Student Squads
@@ -100,6 +100,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **07: The Bathysphere** | Captain Barnacle (Cpt), Pressure, Depth | `captain-barnacle.md`, `pressure.md`, `depth.md` |
 | **08: The Legacy** | Percival Vane-Smythe III (Cpt), Lady Glimmer, Baron Bolt | `percival-vane-smythe-iii.md`, `lady-glimmer.md`, `baron-bolt.md` |
 | **09: The Ablative** | Sarge (Cpt, Rust Tier), Lucky, Pudge | `sarge.md`, `lucky.md`, `pudge.md` |
+| **Block 99-Piston** | Ratchet, Soot (Lomi's roommates) | `ratchet.md`, `soot.md` |
 
 *All NPC files are in `docs/lore/characters/npcs/`*
 

@@ -4,7 +4,7 @@
 > — *Valerius Sterling*
 
 **Role:** Squad 01 (The Echelon) - Captain (Gold Rank) / Paladin
-**Affiliation:** Harmony (Sterling Family), Vumbua Academy, The Guilds (House Sterling)
+**Affiliation:** Harmony (Sterling Family), Vumbua Academy, House Gilded
 **Status:** Active
 **Archetype:** The Burdened Legacy
 
@@ -19,3 +19,19 @@ Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He ca
 - **Seraphina Vox:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
 - **The Party:** Rivals. He specifically targets them during assessments.
 - **Valerius Sterling Sr.:** His father, a renowned explorer whose shadow looms large over him.
+
+---
+
+## GM Narration [NOT YET REVEALED TO PLAYERS]
+
+> [!CAUTION]
+> The following information has been narrated by the GM but is not known to the player characters.
+
+### Backstory
+Groomed to lead the Venture since birth. He has never actually touched dirt; his hands are magically calloused to look "rugged." The Sterling family reputation is a heavy, gilded shield he carries everywhere.
+
+### Flaw
+Narcissism. He cannot process the idea of someone being more "efficient" than him.
+
+### Valerius Sterling Sr.
+During the Silent Era, Sterling Sr. led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.
