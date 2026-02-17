@@ -23,7 +23,7 @@ While the rest of the party socializes at the Block 99 bonfire, Iggy Irish-goodb
 
 *GM Narration:*
 
-Iggy has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the Mizizi clan explaining why death is a part of life. As Nick — as Ignatius got very excited about going to light the fire, and Nisha was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
+Iggy has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the Mizizi clan explaining why death is a part of life. As Nick — as Ignatius got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
 
 He just kind of Irish-goodbyed. Didn't say anything to anybody. Slipped away the moment he could sneak out without them noticing.
 
@@ -52,25 +52,25 @@ At the same time, something else caught his eye: just next to where the fire was
 
 *GM Narration:*
 
-Iggy walks right up to the power plant — the building with "L POWER" over the archway — and opens the door. He's never been told he's not allowed to be anywhere, so he just walks right in.
+Iggy walks right up to the power plant — the building with "Vumbua POWER" over the archway — and opens the door. He's never been told he's not allowed to be anywhere, so he just walks right in.
 
 Inside, all he can see is the very top of a red pointed hat, walking back and forth behind a desk.
 
 **Tommy:** "Hello?"
 
-**Iggy:** *(doesn't really answer properly — just makes a noise)*
+**Iggy:** "Nime."
 
 The gnome leans forward on the desk and looks down, revealing a cute, feminine bearded face with a pointy chin, big green eyes, and a pointy red hat. Very much like the goblin clerk in Harry Potter.
 
 **Tommy:** "Oh, hello! Who are you?"
 
-**Iggy:** "Very good. Thank you. Thank you for asking. Iggy."
+**Iggy:** "Nime."
 
-**Tommy:** "I am Tommy! Can I help you? Is there something you're looking for?"
+**Tommy:** "Ah, very good, thank you, thank you, thank you for asking. Iggy. I am Tommy! Can I help you? Is there something you're looking for?"
 
-**Iggy:** "Oh, no. Just looking."
+**Iggy:** "Oh, no. Just lookin'. 'S nice to meet ya."
 
-And he turns to walk away.
+And he turns and walks away.
 
 **Tommy:** *(muttering)* "Well, I guess it's nice to meet you too..." *(continues muttering to himself)* "Am I supposed to leave you a book? Can I let... dude, it's in here. Are you a student?"
 
@@ -150,23 +150,15 @@ He speaks slowly — every word deliberate. Like a slow Indian accent, careful a
 
 Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Leaning on a cane, wearing a jaunty top hat, very dapperly dressed in a Bridgerton-style outfit. But his hands are covered in dust that matches the colors of the chalk on the board. He looks at Iggy with a lot of curiosity and openness. Zero suspicion.
 
-**Iggy:** "Got an interesting thing going on over here."
+**Iggy:** "Tha's not…" *(trails off, regroups)* "I dunno where I am, who you are, what this is. I was just lookin' up here."
 
-**Professor Kante:** "Yes. We are there. What we have built..." *(pauses)* "I'm sorry — you are a student here?"
-
-**Iggy:** "That is what I have been told as I walked in."
-
-**Professor Kante:** "Yeah."
-
-**Iggy:** "I guess I am."
-
-**Professor Kante:** "About the Panda 5 — I don't know where I am, who you are, what this is. I listen it up here. But wow, we are learning a lot. Where are you from? I don't recognize your accent."
+**Professor Kante:** "But wow, we are learning a lot. Where are you from? I don't recognize your accent."
 
 **Iggy:** "We do not think of it."
 
-**Professor Kante:** "Oh, I did not mean to offend. Most apologetic. Forgive me. I only meant to say — if you are not that familiar with the Panda 5, are you from somewhere rural? Do you not have power?"
+**Professor Kante:** "Oh, I did not mean to offend. I am most apologetic. Forgive me. I only meant to say — if you are not that familiar with the Panda 5, are you from somewhere rural? Do you not have power?"
 
-**Iggy:** "Let's just say I'm not from around here. And I don't know these parts. But I'm learning. Very fast. What can you tell me?"
+**Iggy:** "Let's just say I'm not from around here. An' I don' know these parts. But I'm learnin' very fast. What can you tell me?"
 
 **Professor Kante:** "What is one thing you have learned so far? What do you know?"
 
@@ -174,11 +166,11 @@ Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Lean
 
 **Professor Kante:** *(closes the door behind him)* "I do not mean to interrogate you, but I saw the way that you are taking notes. And I was thinking to myself — maybe he is understanding."
 
-**Iggy:** "Well, of course I understand."
+**Iggy:** "Well, 'course I understand."
 
 **Professor Kante:** "You do? Maybe you can tell me what you think about the Ash-Blood surge."
 
-**Iggy:** "I don't know nothing about no Ash-Bloods. I just met the first two today. But I do feel like you got a big give-and-take situation over here. And I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
+**Iggy:** "I don't know nothin' about no Ash-Bloods. I just met the first two t'day. But I do feel like you got a big give‑and‑take situation over here, an' I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
 
 **Player Discoveries:**
 - The Panda 5 is the current generation of resonator battery
@@ -284,11 +276,11 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 
 **Professor Kante:** "That seems to have made you think of something."
 
-**Iggy:** "Knowing where you're from. And embracing where I'm from. I don't know if it's normal or not. There is this thing called the Exchange."
+**Iggy:** "Knowin' where you're from, an' embracin' where I'm from. I don't know if it's normal or not. There is this thing called the Exchange."
 
 **Professor Kante:** "The Exchange? I have not heard of this."
 
-**Iggy:** "It introduces somebody new. But we don't know whether they're not able to tell us the connection."
+**Iggy:** "It introduces somebody new. But we don't know — they're not able to tell us the connection."
 
 **Professor Kante:** "Very interesting. If I gave you a map, would you be able to show me which part of Harmony you're from?"
 
