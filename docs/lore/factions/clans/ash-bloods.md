@@ -77,7 +77,7 @@ Integration has split the Ash-Bloods into two ideological camps:
 
 This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
 
-
+This is not a thing??
 
 ### Ash-Blood Physiology (Session 2)
 
