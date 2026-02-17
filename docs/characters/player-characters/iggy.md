@@ -21,13 +21,25 @@ Iggy is **bewildered, curious, and unconventional**. He navigates the world with
 
 **Key Traits:**
 - Constantly confused about his surroundings
-- Curious to the point of causing problems
+- Curious to the point of causing problems — prone to "shiny penny" moments
+- Secretly enjoys being included — when invited to the bonfire he was thrilled, but he'll never admit it
+- His grumpy side emerges when people interfere with what he wants to do
+- Not anti-social, just unaccustomed to attention
 - "If you have a god, please pray" - what attendants say after meeting him
 - Physically unusual enough to require supervisor intervention
+
+**Core Motivation:** Despite his home never serving him well, Iggy deeply cares for his people and his clan. His ultimate goal is gathering information that could help the Trench. He's the unsung hero type who will never stop trying to help, even if no one appreciates it.
 
 ## Background
 
 Iggy's origins are deliberately mysterious. He may be connected to the **Trench-Kin**—an uncontacted clan that players don't yet know about.
+
+- Parents were on the council — gave him access to most places in the Trench
+- Found the obsidian tablet (sent by Ash-Bloods rejecting the Exchange)
+- Didn't fit in with the normal crowd — always the odd one out
+- Has a hidden "treasure trove" of collected trinkets and findings
+- Has never been caught sneaking anywhere — combination of parental access, nobody caring, and a natural ability to blend in
+- "The nature of his people — they're so one with the soil, they are part of the earth" — he's not clumsy
 
 ### What He Doesn't Know
 - Basically everything about how civilization works
@@ -35,12 +47,35 @@ Iggy's origins are deliberately mysterious. He may be connected to the **Trench-
 - Where he is
 - Why things work the way they do
 
-### What He Did Know
-*To be determined through play*
+### What He Now Knows (Session 2.5)
+- The Global Amplitude measures Harmony's total ether power — and it's declining
+- The Ash-Blood integration only produced ~20 amps (expected +300 to +800)
+- Crystal batteries (Panda 5) are surge regulators, not storage
+- Integration works through cultural connection, not resource extraction
+- The Night of Sparks burned the world for two months before umber crystals existed
+- "Trail tales from the Trench" — his people are known to Harmony as border defenders
+- His worldview is being challenged: he was told connection with the outside world would destroy his people, but Kante argues the opposite
 
-## Skills & Experiences
+## Skills & Abilities
 
-*Based on survey responses—details to be filled after character sheet review.*
+**Daggerheart Mechanics (revised in Session 2.5):**
+- **Passive stealth** — a stress-triggered blending ability he doesn't realize he's using. When stressed, he unconsciously blends into his surroundings. He may crash and wake up in a random place a day later.
+- **Active earth manipulation** — spending hope to intentionally move or shape earth, tied to hyperfixation states
+- **Strange Patterns:** When Iggy rolls a **7** on either die, he gains a hope and clears a stress
+
+**Natural Talents:**
+- Exceptional technical/mechanical intuition — figured out battery design philosophy before Kante explained it
+- Detailed sketching and note-taking
+- Natural stealth (earth-bonded physiology)
+
+## Inventory
+
+| Item | Source | Notes |
+|------|--------|-------|
+| Dark cloak | Given on arrival | Helps him blend into shadows |
+| Notepad | Personal | Constantly sketching machinery and notes |
+| Umber crystal | Gift from Professor Kante (Session 2.5) | Core component of resonator batteries — small enough to pocket |
+| Gold rank receipt | Entrance exam | Used as a tissue |
 
 ## Session Appearances
 
@@ -51,14 +86,34 @@ Iggy's origins are deliberately mysterious. He may be connected to the **Trench-
 - Supervisor had to personally escort him through
 - Guards waved him through after exchanging confused looks with the supervisor
 
+### Session 2 - The Bonfire
+- Socialized at the Block 99 bonfire — secretly enjoyed being included
+- Climbed a crane to "touch the sky"
+- Noticed Ignatius looking back at him — connection building
+
+### Session 2.5 - The Power Room (1-on-1 with Holly)
+- Irish-goodbyed from the bonfire when nobody was actively talking to him
+- Walked into the power plant uninvited — nobody stopped him
+- Met Tommy (gnome clerk) and Lucina (dwarf mechanic) in the lobby
+- Sketched the Panda 5 resonator batteries and decoded their design philosophy (Knowledge roll: 22 with Hope)
+- Discovered by Professor Kante, who was impressed by his technical intuition
+- Learned about the Global Amplitude decline and the Ash-Blood Anomaly
+- Mentioned the Exchange to Kante — who had never heard of it
+- Received an umber crystal from Kante and an invitation to return as a collaborator
+- Designed five experiments to test "connection" with people
+- Rejoined the group for the Celestial Lounge trip
+
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **Britt** | Fellow candidate—met at Vumbua |
-| **Aggie** | Fellow candidate—met at Vumbua |
-| **Ignatius** | Fellow candidate—met at Vumbua |
-| **Lomi** | Fellow candidate—met at Vumbua |
+| **Britt** | Fellow candidate — met at Vumbua |
+| **Aggie** | Fellow candidate — met at Vumbua |
+| **Ignatius** | Fellow candidate — Iggy noticed him looking back during the Irish goodbye; connection building |
+| **Lomi** | Fellow candidate — met at Vumbua |
+| **Professor Kante** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal (Session 2.5) |
+| **Tommy** | Power plant clerk (gnome) — briefly met during Iggy's sneaking in (Session 2.5) |
+| **Lucina** | Power plant mechanic (dwarf) — briefly met during Iggy's sneaking in (Session 2.5) |
 
 ---
 

@@ -227,6 +227,8 @@
 - Released ~20 years ago; enabled the Ash-Blood and Mizizi discoveries
 - Car-battery sized; lasts ~1 year before surge protection degrades
 
+**Panda 5** → See **Panda Line**
+
 **Professor Kante**
 - Tortoise professor of harmonics at Vumbua Academy
 - From House Gilded, sponsored by House Vox
@@ -294,6 +296,16 @@
 - Natural fire that consumes oxygen (orange-colored)
 - What Ignatius uses despite Harmony's preference
 - Casts dancing shadows, has spiritual significance
+
+## U
+
+**Umber Crystal** (Resonator Crystal)
+- Black crystal mined from Umbra Mountain
+- The core component of all Crystal Batteries — forms the internal matrix of hexes and triangles that glow softly
+- Acts as a surge capacitor, regulating ether intake to maintain consistent output
+- Without umber crystals, power surges cause catastrophic events (see Night of Sparks)
+- Iggy now possesses a small umber crystal, given to him by Professor Kante (Session 2.5)
+- The crystal is the same material that makes up the Panda 5 battery interior
 
 ## V
 
