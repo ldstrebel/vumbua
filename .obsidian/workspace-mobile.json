@@ -27,10 +27,10 @@
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "Excalidraw/Drawing 2026-02-17 10.14.23.excalidraw.md"
+                "file": "Excalidraw/Devin OCR test.md"
               },
               "icon": "excalidraw-icon",
-              "title": "Drawing 2026-02-17 10.14.23.excalidraw"
+              "title": "Devin OCR test"
             }
           }
         ],
@@ -125,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Drawing 2026-02-17 10.14.23.excalidraw.md",
+            "file": "Excalidraw/Devin OCR test.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,7 +184,8 @@
   },
   "active": "77d9acc4a38419a9",
   "lastOpenFiles": [
-    "Excalidraw/Drawing 2026-02-17 10.14.23.excalidraw.md",
+    "Excalidraw/Devin OCR test.png",
+    "Excalidraw/Devin OCR test.md",
     "Valerius Sterling.md",
     "Excalidraw",
     "Untitled.base",
