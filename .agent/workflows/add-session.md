@@ -21,6 +21,7 @@ Use this workflow after each game session to properly document what happened.
    - Located at `docs/sessions/transcripts/sN-raw.md`
    - If it doesn't exist, ask the user to provide one
    - Read `lore-index.md` canonical spellings section before starting cleanup
+   - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure
 
 3. **Create the cleaned session file**
    // turbo
@@ -61,7 +62,9 @@ Use this workflow after each game session to properly document what happened.
    - ❌ **Never**: Summarize, compress, or skip dialogue
    - ❌ **Never**: Add descriptions or details not in the transcript (no hallucination)
    - ❌ **Never**: Change character voices, word choices, or story details
-   - 🚨 **FAILURE STATE**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
+   - 🚨 **FAILURE STATE — PC Dialect**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
+   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If Professor Kante says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
+   - ❌ **Never**: Present OOC player thoughts as IC dialogue. If Holly is *thinking out loud* about what Iggy might feel or ask (as a player brainstorming), that is OOC and should be formatted as `> **Holly (OOC):**`. Only attribute dialogue to Iggy if she is *performing* as him.
    - ❓ **Tag for review**: Ambiguous NPC names, unclear speaker attribution, uncertain corrections
 
    **NPC Handling:**
@@ -69,6 +72,13 @@ Use this workflow after each game session to properly document what happened.
    - Record any GM description of an NPC verbatim as "GM Description"
    - If an NPC is new (not in `lore-index.md`), flag them for character creation in step 6
    - Never invent NPC details — only record what the DM actually says
+   - **Always check existing NPC files** before asking the user about canonical names or details. If `professor-kante.md` already exists, never ask "is Kante canonical?" — just read the file
+
+   **Speaker Attribution Pitfalls:**
+   - Raw transcripts mash speakers together with no labels — slow down and parse who is talking
+   - The GM often says a line *as an NPC*, then immediately follows with narration; don't attribute narration to the NPC
+   - When the GM says a line like `"Got an interesting thing going on over here"` — determine if this is the NPC speaking or the GM describing what the PC sees. Context clues: does the next line respond to it? Is the GM still doing scene description?
+   - When fixing one line of dialogue, re-read the surrounding 5-10 lines to make sure you didn't accidentally delete or orphan adjacent exchanges
 
 5. **Update the session index**
    - Add entry to `docs/sessions/index.md`
@@ -99,3 +109,19 @@ Use this workflow after each game session to properly document what happened.
 - Template: `docs/sessions/_template.md`
 - Session index: `docs/sessions/index.md`
 - Lore index (AI reference): `.agent/workflows/lore-index.md`
+
+## Common Mistakes (learned from Session 2.5)
+
+These are real errors that were made and corrected. Do not repeat them:
+
+1. **Smoothing PC dialect** — Iggy's `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
+
+2. **Smoothing NPC voice** — Kante's fumbled phrasing `"What do you like, know?"` was "corrected" to `"What do you know?"`. His broken English is his character.
+
+3. **Swapping speaker attribution** — `"Your home sounds like a very hard place to live"` was attributed to Iggy (deadpan) when it was actually Kante (deadpan). Raw transcripts don't label speakers — you must infer from context and get it right.
+
+4. **Presenting OOC as IC** — Holly thinking out loud about the Exchange (`"If connection is so important, why does the Exchange force people to forget?"`) was formatted as an Iggy IC line. It was Holly brainstorming OOC.
+
+5. **Deleting exchanges during fixes** — When fixing Iggy's opening dialect, the entire Kante/Iggy student exchange (`"Are you a student here?"` / `"That is what I have been told"`) was accidentally removed.
+
+6. **Asking about canonical names** — Asked the user if "Kante" was canonical when `professor-kante.md` already existed in the NPC files. Always check existing files first.
