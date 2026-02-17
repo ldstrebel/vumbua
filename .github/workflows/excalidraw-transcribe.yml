@@ -36,10 +36,11 @@ jobs:
           python-version: '3.12'
 
       - name: Install dependencies
-        run: pip install openai
+        run: pip install google-genai openai
 
       - name: Run transcription
         env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           FORCE_ALL: ${{ inputs.force_all || 'false' }}
           DRY_RUN: ${{ inputs.dry_run || 'false' }}

@@ -2,16 +2,20 @@
 """
 Part 1: Excalidraw Transcribe
 
-Scans Excalidraw/ for new or modified PNG files, sends them to GPT-4o vision
+Scans Excalidraw/ for new or modified PNG files, sends them to a vision model
 for transcription, and writes companion markdown files.
 
 Uses .excalidraw-manifest.json for incremental processing (only new/changed PNGs).
 
+Supports Gemini (default) and OpenAI as vision providers.
+
 Environment variables:
-  OPENAI_API_KEY  -- Required. GPT-4o API key.
+  GEMINI_API_KEY  -- Gemini API key (default provider).
+  OPENAI_API_KEY  -- OpenAI API key (fallback if GEMINI_API_KEY not set).
+  VISION_PROVIDER -- Optional. "gemini" (default) or "openai".
+  VISION_MODEL    -- Optional. Defaults to "gemini-2.0-flash" or "gpt-4o" based on provider.
   FORCE_ALL       -- Optional. "true" to re-process all PNGs regardless of manifest.
   DRY_RUN         -- Optional. "true" to log what would be processed without calling API.
-  VISION_MODEL    -- Optional. Defaults to "gpt-4o".
   MAX_IMAGES      -- Optional. Safety limit per run. Defaults to 20.
 """
 
@@ -26,7 +30,19 @@ REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 EXCALIDRAW_DIR = os.path.join(REPO_ROOT, "Excalidraw")
 MANIFEST_PATH = os.path.join(REPO_ROOT, ".excalidraw-manifest.json")
 
-VISION_MODEL = os.environ.get("VISION_MODEL", "gpt-4o")
+def _detect_provider():
+    provider = os.environ.get("VISION_PROVIDER", "").lower()
+    if provider:
+        return provider
+    if os.environ.get("GEMINI_API_KEY"):
+        return "gemini"
+    if os.environ.get("OPENAI_API_KEY"):
+        return "openai"
+    return "gemini"
+
+VISION_PROVIDER = _detect_provider()
+DEFAULT_MODELS = {"gemini": "gemini-2.0-flash", "openai": "gpt-4o"}
+VISION_MODEL = os.environ.get("VISION_MODEL", DEFAULT_MODELS.get(VISION_PROVIDER, "gemini-2.0-flash"))
 MAX_IMAGES = int(os.environ.get("MAX_IMAGES", "20"))
 FORCE_ALL = os.environ.get("FORCE_ALL", "false").lower() == "true"
 DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
@@ -109,8 +125,44 @@ def needs_processing(filepath, manifest):
     return False, current_hash
 
 
-def transcribe_image(filepath):
-    """Send a PNG to GPT-4o vision and return the transcription text."""
+def transcribe_image_gemini(filepath):
+    """Send a PNG to Gemini vision and return the transcription text."""
+    try:
+        from google import genai
+    except ImportError:
+        print("ERROR: google-genai package not installed. Run: pip install google-genai")
+        sys.exit(1)
+
+    api_key = os.environ.get("GEMINI_API_KEY")
+    if not api_key:
+        print("ERROR: GEMINI_API_KEY environment variable not set")
+        sys.exit(1)
+
+    client = genai.Client(api_key=api_key)
+
+    with open(filepath, "rb") as f:
+        image_data = f.read()
+
+    entity_list = ", ".join(KNOWN_ENTITIES)
+    prompt = TRANSCRIPTION_PROMPT.format(entities=entity_list)
+
+    response = client.models.generate_content(
+        model=VISION_MODEL,
+        contents=[
+            genai.types.Content(
+                parts=[
+                    genai.types.Part.from_text(prompt),
+                    genai.types.Part.from_bytes(data=image_data, mime_type="image/png"),
+                ]
+            )
+        ],
+    )
+
+    return response.text
+
+
+def transcribe_image_openai(filepath):
+    """Send a PNG to OpenAI GPT-4o vision and return the transcription text."""
     try:
         from openai import OpenAI
     except ImportError:
@@ -146,6 +198,13 @@ def transcribe_image(filepath):
     )
 
     return response.choices[0].message.content
+
+
+def transcribe_image(filepath):
+    """Send a PNG to the configured vision provider and return the transcription text."""
+    if VISION_PROVIDER == "openai":
+        return transcribe_image_openai(filepath)
+    return transcribe_image_gemini(filepath)
 
 
 def write_transcription(png_path, text, sha):

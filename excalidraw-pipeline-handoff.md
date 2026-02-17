@@ -50,7 +50,7 @@ When Luke draws in Excalidraw (on tablet or desktop), the Excalidraw plugin auto
 
 **Key design decisions:**
 - **Incremental only** -- SHA-256 manifest tracks what's been processed. Only new/modified PNGs trigger work.
-- **GPT-4o vision over Tesseract** -- Luke's drawings are handwritten. GPT-4o vision reads handwriting far more accurately than Tesseract (~95% vs ~60-80%).
+- **Gemini vision over Tesseract** -- Luke's drawings are handwritten. Gemini (or GPT-4o) vision reads handwriting far more accurately than Tesseract (~95% vs ~60-80%). Gemini is the default provider since Luke has a Google API key.
 - **PNG over SVG** -- PNG is a rasterized image that vision models can interpret. SVG stores vector paths that are no more readable than the raw Excalidraw JSON.
 - **Two separate workflows** -- Part 1 is stateless (image in, text out). Part 2 requires understanding the full repo structure. Separating them allows re-running Part 2 independently and makes debugging easier.
 
@@ -149,7 +149,7 @@ Each transcription file (`<name>-transcription.md`) will have:
 source: "Excalidraw/Drawing A.png"
 transcribed: "2026-02-17T06:00:00Z"
 sha256: "abc123..."
-model: "gpt-4o"
+model: "gemini-2.0-flash"
 ---
 
 # Transcription: Drawing A
@@ -263,13 +263,20 @@ tags: [stub, needs-review]
 
 | Secret | Purpose | Required By |
 |--------|---------|-------------|
-| `OPENAI_API_KEY` | GPT-4o vision API calls | Part 1 |
+| `GEMINI_API_KEY` | Gemini vision API calls (default provider) | Part 1 |
+
+### Optional GitHub Secrets
+
+| Secret | Purpose | Required By |
+|--------|---------|-------------|
+| `OPENAI_API_KEY` | GPT-4o vision (fallback if Gemini not set) | Part 1 |
 
 ### Optional Configuration
 
 | Variable | Default | Description |
 |----------|---------|-------------|
-| `VISION_MODEL` | `gpt-4o` | Model for OCR. Can swap to `gemini-1.5-pro` if Google is preferred |
+| `VISION_PROVIDER` | `gemini` | `"gemini"` or `"openai"`. Auto-detected from which API key is set. |
+| `VISION_MODEL` | `gemini-2.0-flash` | Model for OCR. Use `gpt-4o` if switching to OpenAI. |
 | `MAX_IMAGES_PER_RUN` | `20` | Safety limit to prevent runaway API costs |
 | `DRY_RUN` | `false` | If true, logs what would be processed without calling the API |
 
@@ -277,9 +284,10 @@ tags: [stub, needs-review]
 
 | Item | Cost | Notes |
 |------|------|-------|
-| GPT-4o vision per image | ~$0.01-0.05 | Depends on image size and detail level |
-| Typical nightly run (1-5 new drawings) | ~$0.05-0.25 | Very low cost |
-| Re-processing all images (first run) | ~$0.50-2.00 | One-time bootstrap cost |
+| Gemini 2.0 Flash per image | ~$0.001-0.01 | Very cheap, good quality |
+| GPT-4o vision per image | ~$0.01-0.05 | Higher quality, higher cost |
+| Typical nightly run (1-5 new drawings) | ~$0.01-0.05 | Negligible with Gemini |
+| Re-processing all images (first run) | ~$0.05-0.50 | One-time bootstrap cost |
 
 ---
 
@@ -313,7 +321,7 @@ Before enabling the GitHub Actions, test locally:
 
 ```bash
 # Part 1: Transcribe
-export OPENAI_API_KEY="sk-..."
+export GEMINI_API_KEY="your-gemini-key"
 python scripts/excalidraw_transcribe.py
 
 # Check output
@@ -343,7 +351,7 @@ git diff  # See what changed
 
 ### Known Limitations
 
-1. **Handwriting accuracy**: GPT-4o is good but not perfect. Unusual spellings (campaign-specific terms) may be misread. The entity list in the prompt helps, but novel terms won't be in it.
+1. **Handwriting accuracy**: Gemini/GPT-4o are good but not perfect. Unusual spellings (campaign-specific terms) may be misread. The entity list in the prompt helps, but novel terms won't be in it.
 2. **Spatial relationships**: The transcription captures text and notes arrows/boxes, but complex diagrams (relationship maps, battle plans) lose spatial meaning when flattened to markdown.
 3. **GitSync race condition**: If Part 1 commits while GitSync is also committing, there could be a merge conflict. The nightly schedule (running at 6 AM when Luke is likely not editing) mitigates this.
 4. **New entity classification**: Part 2 guesses the category (NPC, location, faction) based on context. It may guess wrong. All stubs are tagged `needs-review`.
