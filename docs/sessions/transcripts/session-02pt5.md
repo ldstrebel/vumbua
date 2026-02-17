@@ -150,7 +150,21 @@ He speaks slowly — every word deliberate. Like a slow Indian accent, careful a
 
 Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Leaning on a cane, wearing a jaunty top hat, very dapperly dressed in a Bridgerton-style outfit. But his hands are covered in dust that matches the colors of the chalk on the board. He looks at Iggy with a lot of curiosity and openness. Zero suspicion.
 
-**Iggy:** "Tha's not…" *(trails off, regroups)* "I dunno where I am, who you are, what this is. I was just lookin' up here."
+**Professor Kante:** "Got an interesting thing going on over here."
+
+**Iggy:** "Tha's not…" *(trails off, regroups)*
+
+**Professor Kante:** "Yes, we are there. What we have built..." *(pauses)* "I'm sorry — you are a student here?"
+
+**Iggy:** "That is what I have been told as I walked in."
+
+**Professor Kante:** "Yeah."
+
+**Iggy:** "I guess I am."
+
+**Professor Kante:** "About the Panda 5 —"
+
+**Iggy:** "I dunno where I am, who you are, what this is. I was just lookin' up here."
 
 **Professor Kante:** "But wow, we are learning a lot. Where are you from? I don't recognize your accent."
 
@@ -160,11 +174,11 @@ Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Lean
 
 **Iggy:** "Let's just say I'm not from around here. An' I don' know these parts. But I'm learnin' very fast. What can you tell me?"
 
-**Professor Kante:** "What is one thing you have learned so far? What do you know?"
+**Professor Kante:** "What is one thing you have learned so far? What do you like, know? Yes, very much so."
 
-**Iggy:** *(confirms understanding)*
+*(He closes the door behind him.)*
 
-**Professor Kante:** *(closes the door behind him)* "I do not mean to interrogate you, but I saw the way that you are taking notes. And I was thinking to myself — maybe he is understanding."
+**Professor Kante:** "I do not mean to interrogate you, but I saw the way that you are taking notes. And it was — I was thinking to myself — maybe he is understanding."
 
 **Iggy:** "Well, 'course I understand."
 
@@ -270,9 +284,9 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 >
 > **GM (OOC):** He doesn't know a lot about Harmony, but he knows Kante, who seems like a kindred soul — a bit of an outsider. Well-dressed, clearly a normal member of society, but there's something that Harmony doesn't understand either about this energy. They seem to have an entirely different problem. But a similar, different problem.
 
-**Iggy:** *(thinking about how connection seems so important, yet the Exchange ritual forces people to forget)* "If this connection and knowing about other cultures is so important — why does the Exchange happen where the person has to be forced to forget?"
-
-*(The GM flags that this is a great insight, but Iggy doesn't know enough about Harmony's culture yet to fully contextualize it. The Exchange is a niche, once-every-three-to-five-years thing that most people wouldn't know about.)*
+> **Holly (OOC):** If this connection and knowing about other cultures is so important — why does the Exchange happen where the person has to be forced to forget? Like, if connection is important and learning about everyone's culture — we're destroying connection.
+>
+> **GM (OOC):** That's a really good insight for Iggy to ask. But Iggy hasn't had enough time to know what Harmony's culture is and what they do and don't do. The Exchange is a niche, once-every-three-to-five-years thing that happens in the clans. Probably few people know it exists.
 
 **Professor Kante:** "That seems to have made you think of something."
 
@@ -290,11 +304,11 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 
 "The connection between people is very important. And not knowing it is causing me physical pain — not to ask you where you're from — because I want to build this connection with you. It is very important. It's how we grow up. It is very important to our kind."
 
-**Iggy:** "We protect each other. And we don't think of the westward danger from Aether beasts."
+**Iggy:** "We protect each other. An' we don't think of the westward danger from Aether beasts."
 
 **Professor Kante:** "What type of danger?"
 
-**Iggy:** *(deadpan)* "Your home sounds like a very hard place to live."
+**Professor Kante:** *(deadpan)* "Your home sounds like a very hard place to live."
 
 **Professor Kante:** *(starts sliding his hand down the x-axis of the chart, past the Ash-Blood green line, past dates — 84, 10, 363, 30)* "If I mean quite honest, there is not — as far as I know, and I know, but I think good about history — the last major conflict between peoples was hundreds of years ago. We left on this chart."
 
