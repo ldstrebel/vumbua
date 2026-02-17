@@ -131,6 +131,7 @@ Iggy is likely from the **Trench-Kin**—one of the uncontacted clans. This orig
 - His slimy nature may connect to deep-sea or underground origins
 - Harmony may not even realize what they've let into the academy
 - His "innocence" could be a mask or genuine naivety
+- **(Session 2.5):** Holly confirmed Iggy genuinely cares for his people despite them never caring for him. He's not a spy — he's an earnest oddball who wants to bring knowledge home to help. His "infiltration" is just a kid walking through an unlocked door because nobody told him he couldn't.
 
 ### Secret Character Arc
 - Discovery of his true heritage

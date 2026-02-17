@@ -30,6 +30,8 @@ Use this workflow to create a new player character or NPC profile.
 4. **Fill in the profile**
 
    > **CORE RULE: Never hallucinate.** Only include details explicitly stated in session transcripts or GM narration. If a field is unknown, leave it blank or write "Unknown".
+   >
+   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time. If early sessions describe a character one way and later sessions reveal more depth, keep both perspectives with session tags. Session canon is always additive.
 
    Use this template:
    ```markdown

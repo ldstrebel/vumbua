@@ -69,6 +69,9 @@ Use this workflow to add new lore pages or update existing ones with new informa
    - Identify what moved from "GM Narration" to "Players Know"
 
 2. **Update the lore page**
+
+   > **CORE RULE: Add, don't replace.** Session canon is always additive. When new sessions reveal updated information, add new entries alongside old ones — never delete or overwrite earlier descriptions. The evolution of understanding should be visible. For example, if a faction was described as "mysterious" in Session 1 but Session 3 reveals their true motives, keep the original note and add the new revelation with its session tag.
+
    - Move revealed info from GM section to player section
    - Add new discoveries to player section
    - Update GM section with new narrated implications
