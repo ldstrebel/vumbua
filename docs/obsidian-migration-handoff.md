@@ -524,6 +524,90 @@ Use **Obsidian Sync** for seamless cross-device experience. Keep the **Git integ
 
 ## 10. Maintenance & Future AI Workflows
 
+### How New Content Flows Through the System
+
+This section walks through exactly what happens when new lore arrives -- whether from an AI processing a lore dump, a session transcript, or you manually creating a note in Obsidian.
+
+**Example: The February 17, 2026 Lore Dump**
+
+This is a real example. PR #7 processed a lore dump and produced:
+- A rewritten Dean Isolde Vane profile (85 lines, added GM backstory)
+- A brand new NPC: **Soot** (Lomi's roommate)
+- Backstory/bond/flaw additions to 7 existing NPCs (Sarge, Lucky, Pudge, Pyrrhus, Kojo, Ratchet, Valerius Sterling)
+- Updated harmony-nodes.md and power-system.md with new GM-only details
+- Updated lore-index.md with new NPC roles
+
+Here's how each workflow would handle it:
+
+#### Flow A: AI commits to Git, you consume in Obsidian
+
+```
+1. AI (Devin) processes lore dump on a branch
+2. AI commits changes + creates PR
+3. PR is merged to main
+4. Obsidian Git plugin auto-pulls (or you pull manually)
+5. New/updated files appear instantly in your vault
+6. Obsidian Copilot re-indexes (the AI chat now knows about Soot, Dean Isolde's secrets, etc.)
+```
+
+**What works automatically:**
+- All existing `[[wikilinks]]` to updated files (e.g., `[[Dean Isolde Vane]]`) now show the new content on hover/click
+- Backlinks panel updates -- if Soot's page mentions `[[Lomi]]`, Lomi's backlinks now show Soot
+- Search finds the new content immediately
+- Graph view adds Soot as a new node connected to Lomi, Ratchet, Block 99
+
+**What needs manual attention:**
+- If the AI created Soot's file in standard markdown format (no frontmatter, no wikilinks), you need to:
+  1. Add YAML frontmatter with aliases and tags
+  2. Convert inline mentions to wikilinks (e.g., "Lomi" -> `[[Lomi]]`)
+- Existing files that mention "Soot" as plain text won't auto-link -- you'd search for "Soot" and add `[[Soot]]` links where appropriate
+- The `Various Complements` plugin helps here: once Soot's page exists, the plugin auto-suggests `[[Soot]]` as you type in other notes
+
+**How to minimize manual work:** Update the AI workflows (`.agent/workflows/add-character.md`, etc.) to output Obsidian-native format:
+- Always include YAML frontmatter with aliases and tags
+- Use `[[wikilinks]]` instead of markdown links
+- Use `> [!warning]-` callouts instead of `> [!CAUTION]`
+- This way, AI-generated content arrives vault-ready
+
+#### Flow B: You create/edit content directly in Obsidian
+
+```
+1. You create a new note in Obsidian (e.g., maps/battle-map.excalidraw.md)
+2. You type [[Soot]] and it auto-links because the page exists
+3. You edit Dean Isolde's page -- add a relationship, fix a detail
+4. Obsidian Git plugin auto-commits and pushes to GitHub
+5. Next time Devin (or any AI) reads the repo, it sees your changes
+6. The GitHub Action extracts text from Excalidraw files (if applicable)
+```
+
+**What works automatically:**
+- Wikilinks resolve immediately as you type
+- Hover preview shows the target note
+- Backlinks update in real time
+- Graph view updates in real time
+- If you use Templater, new NPC notes come pre-filled with the right frontmatter structure
+
+**What needs attention:**
+- If you create a note for a new entity, existing files that mention it as plain text won't auto-link retroactively. You can:
+  - Use Obsidian's "Find and Replace" (Ctrl+Shift+H) to convert `Soot` -> `[[Soot]]` across the vault
+  - Or let it happen organically -- old files link when you next edit them
+- Excalidraw drawings: text labels inside drawings are NOT searchable by Obsidian or AI until the GitHub Action extracts them (see Section 8.2)
+
+#### Flow C: Hybrid (Recommended)
+
+The most realistic workflow combines both:
+
+| Task | Who Does It | Where |
+|------|------------|-------|
+| Process raw session transcripts | AI (Devin) | Git branch -> PR -> merge |
+| Bulk lore dumps / NPC backstories | AI (Devin) | Git branch -> PR -> merge |
+| Quick edits (fix a typo, add a relationship) | You | Obsidian (auto-pushes via Git plugin) |
+| Create Excalidraw maps | You | Obsidian |
+| Creative brainstorming | You + Obsidian Copilot | Obsidian AI chat panel |
+| Review AI-generated content | You | Obsidian (after pull) |
+
+The key principle: **Git is the single source of truth.** Both Obsidian and AI read/write to the same repo. Obsidian Sync handles device-to-device convenience; Git handles version history and AI access.
+
 ### After Each Session
 
 1. Drop raw transcript into `sessions/transcripts/sN-raw.md`
@@ -563,7 +647,7 @@ If you want to keep the Jekyll site running alongside Obsidian:
 ### Phase 1: Conversion (Automated Script)
 
 - [ ] Build proper noun registry from all entity files + glossary + lore-index
-- [ ] Generate YAML frontmatter with aliases for all 49 character files (44 NPC + 5 PC)
+- [ ] Generate YAML frontmatter with aliases for all 50 character files (45 NPC + 5 PC)
 - [ ] Generate YAML frontmatter for all faction, location, bestiary, and world pages
 - [ ] Convert all markdown links (`[text](path.md)`) to wikilinks (`[[Page]]`)
 - [ ] Scan all files and convert inline proper noun mentions to wikilinks (first occurrence per section)
@@ -623,7 +707,7 @@ The following is the full list of entities that should be wikilinked. This regis
 | Lomi | Lomi Sultano |
 | Iggy | -- |
 
-### NPCs (44)
+### NPCs (45)
 
 | Page Name | Aliases |
 |-----------|---------|
@@ -671,6 +755,7 @@ The following is the full list of entities that should be wikilinked. This regis
 | Tommy | -- |
 | Lucina | -- |
 | Marla | -- |
+| Soot | -- |
 
 ### Factions & Clans
 
