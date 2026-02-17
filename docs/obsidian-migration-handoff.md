@@ -399,68 +399,256 @@ After each session:
 - Cannot be searched as text
 - Embedded text (labels, annotations) is invisible to search and AI
 
-**The solution: OCR + text extraction after each push.**
+**The solution: A two-stage pipeline — automated text/OCR extraction on push, then AI review for linking.**
 
-**Recommended workflow:**
+### Stage 1: Automated Text + OCR Extraction (GitHub Action)
 
-1. **Create drawings in Obsidian** using the Excalidraw plugin (maps, diagrams, relationship charts)
-2. **Save as `.excalidraw.md`** in the `maps/` folder
-3. **On push to Git**, a GitHub Action extracts all text from Excalidraw files and writes companion `.md` files:
+Runs on every push, but only processes **new or modified** drawings. Uses a manifest file to track what's already been extracted, saving time and tokens.
+
+**What gets extracted:**
+1. **Text elements** — typed labels, annotations, titles inside the Excalidraw JSON
+2. **Embedded images** — any imported screenshots, photos, hand-drawn sketches get OCR'd via Tesseract (free, open-source) so handwriting and image text become searchable
+3. **Embedded note references** — any `[[wikilinks]]` used inside the drawing
+4. **Freehand text** — Excalidraw's "text-to-diagram" labels
 
 ```yaml
-# .github/workflows/excalidraw-ocr.yml
-name: Excalidraw Text Extraction
+# .github/workflows/excalidraw-extract.yml
+name: Excalidraw Text + OCR Extraction
 
 on:
   push:
     paths:
       - 'docs/maps/**/*.excalidraw.md'
+      - 'docs/maps/**/*.png'
+      - 'docs/maps/**/*.jpg'
 
 jobs:
-  extract-text:
+  extract:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      
-      - name: Extract Excalidraw text
+        with:
+          fetch-depth: 2  # Need parent commit to detect changes
+
+      - name: Install dependencies
         run: |
-          for file in docs/maps/*.excalidraw.md; do
-            if [ -f "$file" ]; then
-              basename="${file%.excalidraw.md}"
-              # Extract text elements from Excalidraw JSON
-              # The JSON is embedded between ```json and ``` markers
-              python3 -c "
-          import json, sys, re
-          content = open('$file').read()
-          # Find JSON block in excalidraw.md
-          match = re.search(r'\`\`\`json\n(.*?)\n\`\`\`', content, re.DOTALL)
-          if match:
-              data = json.loads(match.group(1))
-              texts = [e.get('text','') for e in data.get('elements',[]) if e.get('type')=='text']
-              with open('${basename}-text.md', 'w') as f:
-                  f.write('# Text from ${file}\n\n')
-                  f.write('> Auto-extracted from Excalidraw drawing. Do not edit manually.\n\n')
-                  for t in texts:
-                      if t.strip():
-                          f.write(f'- {t.strip()}\n')
-          " 2>/dev/null || true
-            fi
-          done
-      
+          sudo apt-get update -qq
+          sudo apt-get install -y tesseract-ocr python3-pip
+          pip3 install Pillow pytesseract
+
+      - name: Extract text from changed Excalidraw files only
+        run: |
+          # Load manifest of already-processed files + their hashes
+          MANIFEST="docs/maps/.extraction-manifest.json"
+          if [ ! -f "$MANIFEST" ]; then
+            echo '{}' > "$MANIFEST"
+          fi
+
+          python3 << 'EXTRACT_SCRIPT'
+          import json, hashlib, os, re, glob, subprocess
+
+          MANIFEST_PATH = "docs/maps/.extraction-manifest.json"
+          MAPS_DIR = "docs/maps"
+
+          with open(MANIFEST_PATH) as f:
+              manifest = json.load(f)
+
+          changed = False
+
+          for filepath in glob.glob(f"{MAPS_DIR}/**/*.excalidraw.md", recursive=True):
+              # Hash the file to check if it's changed since last extraction
+              with open(filepath, "rb") as f:
+                  file_hash = hashlib.sha256(f.read()).hexdigest()
+
+              if manifest.get(filepath) == file_hash:
+                  print(f"SKIP (unchanged): {filepath}")
+                  continue
+
+              print(f"PROCESSING: {filepath}")
+              changed = True
+
+              with open(filepath) as f:
+                  content = f.read()
+
+              output_lines = []
+              wikilinks = []
+
+              # 1. Extract typed text elements from Excalidraw JSON
+              json_match = re.search(r'```json\n(.*?)\n```', content, re.DOTALL)
+              if json_match:
+                  try:
+                      data = json.loads(json_match.group(1))
+                      elements = data.get("elements", [])
+                      for el in elements:
+                          if el.get("type") == "text" and el.get("text", "").strip():
+                              text = el["text"].strip()
+                              output_lines.append(text)
+                              # Find wikilinks within text elements
+                              wikilinks.extend(re.findall(r'\[\[([^\]]+)\]\]', text))
+                  except json.JSONDecodeError:
+                      output_lines.append("[ERROR: Could not parse Excalidraw JSON]")
+
+              # 2. OCR any embedded images (base64 data URIs in the JSON)
+              if json_match:
+                  try:
+                      data = json.loads(json_match.group(1))
+                      files_data = data.get("files", {})
+                      for file_id, file_info in files_data.items():
+                          if file_info.get("mimeType", "").startswith("image/"):
+                              # Decode base64 image and OCR it
+                              import base64
+                              from PIL import Image
+                              from io import BytesIO
+                              import pytesseract
+
+                              img_data = base64.b64decode(file_info.get("dataURL", "").split(",")[-1])
+                              img = Image.open(BytesIO(img_data))
+                              ocr_text = pytesseract.image_to_string(img).strip()
+                              if ocr_text:
+                                  output_lines.append(f"[OCR from embedded image]: {ocr_text}")
+                  except Exception as e:
+                      output_lines.append(f"[OCR error: {e}]")
+
+              # 3. Write companion text file
+              basename = filepath.replace(".excalidraw.md", "")
+              output_path = f"{basename}-extracted.md"
+
+              with open(output_path, "w") as f:
+                  f.write(f"---\n")
+                  f.write(f"source: \"{os.path.basename(filepath)}\"\n")
+                  f.write(f"type: excalidraw-extraction\n")
+                  f.write(f"auto_generated: true\n")
+                  f.write(f"---\n\n")
+                  f.write(f"# Extracted Content: {os.path.basename(basename)}\n\n")
+                  f.write(f"> Auto-extracted from Excalidraw drawing. Do not edit — regenerated on each push.\n\n")
+
+                  if wikilinks:
+                      f.write("## Linked Notes\n\n")
+                      for link in sorted(set(wikilinks)):
+                          f.write(f"- [[{link}]]\n")
+                      f.write("\n")
+
+                  if output_lines:
+                      f.write("## Text Content\n\n")
+                      for line in output_lines:
+                          f.write(f"- {line}\n")
+                  else:
+                      f.write("*No text content found in this drawing.*\n")
+
+              # Update manifest
+              manifest[filepath] = file_hash
+
+          # Also OCR standalone images (screenshots, photos dropped in maps/)
+          for img_path in glob.glob(f"{MAPS_DIR}/**/*.png", recursive=True) + \
+                          glob.glob(f"{MAPS_DIR}/**/*.jpg", recursive=True):
+              with open(img_path, "rb") as f:
+                  file_hash = hashlib.sha256(f.read()).hexdigest()
+
+              if manifest.get(img_path) == file_hash:
+                  print(f"SKIP (unchanged): {img_path}")
+                  continue
+
+              print(f"OCR IMAGE: {img_path}")
+              changed = True
+
+              try:
+                  from PIL import Image
+                  import pytesseract
+                  img = Image.open(img_path)
+                  ocr_text = pytesseract.image_to_string(img).strip()
+
+                  basename = os.path.splitext(img_path)[0]
+                  output_path = f"{basename}-ocr.md"
+
+                  with open(output_path, "w") as f:
+                      f.write(f"---\nsource: \"{os.path.basename(img_path)}\"\ntype: image-ocr\nauto_generated: true\n---\n\n")
+                      f.write(f"# OCR: {os.path.basename(img_path)}\n\n")
+                      f.write(f"> Auto-extracted via Tesseract OCR. Do not edit.\n\n")
+                      if ocr_text:
+                          f.write(ocr_text + "\n")
+                      else:
+                          f.write("*No text detected in this image.*\n")
+
+                  manifest[img_path] = file_hash
+              except Exception as e:
+                  print(f"OCR failed for {img_path}: {e}")
+
+          # Save updated manifest
+          with open(MANIFEST_PATH, "w") as f:
+              json.dump(manifest, f, indent=2)
+
+          if not changed:
+              print("No new or modified files to process.")
+          EXTRACT_SCRIPT
+
       - name: Commit extracted text
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add docs/maps/*-text.md
-          git diff --staged --quiet || git commit -m "chore: extract text from Excalidraw drawings"
+          git add docs/maps/.extraction-manifest.json
+          git add docs/maps/*-extracted.md docs/maps/*-ocr.md 2>/dev/null || true
+          git diff --staged --quiet || git commit -m "chore: extract text + OCR from new/modified drawings"
           git push
 ```
 
-This means:
-- `maps/world-map.excalidraw.md` (the drawing)
-- `maps/world-map-text.md` (auto-generated searchable text)
+**Output per drawing:**
+- `maps/world-map.excalidraw.md` — the drawing itself
+- `maps/world-map-extracted.md` — auto-generated: all text labels, OCR'd image text, wikilinks found
+- `maps/world-map.svg` — auto-exported by Excalidraw plugin (visual preview)
 
-The companion text file is searchable by both Obsidian and external AI.
+**Output per standalone image:**
+- `maps/whiteboard-photo.png` — the image
+- `maps/whiteboard-photo-ocr.md` — auto-generated: OCR'd text from the image
+
+The manifest (`docs/maps/.extraction-manifest.json`) tracks SHA-256 hashes. Only files with new/changed hashes get reprocessed — no wasted compute on untouched drawings.
+
+### Stage 2: AI Review for Linking (Devin Workflow)
+
+After the GitHub Action extracts text, an AI review pass can be triggered to:
+1. Read all `*-extracted.md` and `*-ocr.md` files
+2. Identify proper nouns that match the registry (Appendix A)
+3. Create stub pages for any NEW entities not yet in the registry
+4. Add `[[wikilinks]]` in the extracted companion files
+5. Optionally update the Excalidraw JSON itself to add links to text elements
+
+**This should also be incremental.** The AI workflow should:
+- Check the extraction manifest to see which files were just processed
+- Only review those files (not the whole `maps/` folder)
+- Update `.agent/workflows/lore-index.md` if new entities are discovered
+
+**Suggested AI workflow file** (`.agent/workflows/review-drawings.md`):
+
+```markdown
+# Review Excalidraw Drawings
+
+## When to Run
+After the GitHub Action `excalidraw-extract.yml` commits new `*-extracted.md` or `*-ocr.md` files.
+
+## Steps
+1. Read `docs/maps/.extraction-manifest.json` to identify recently processed files
+2. Read the corresponding `*-extracted.md` / `*-ocr.md` companion files
+3. Cross-reference all text against the proper noun registry in this lore-index
+4. For each proper noun found:
+   - If a page exists: add `[[wikilink]]` in the extracted companion file
+   - If NO page exists: create a stub page with frontmatter, add to lore-index
+5. Update `CHANGELOG.md` with what was reviewed and linked
+6. Do NOT reprocess files whose companion .md files already contain wikilinks
+   unless the source drawing was modified (check manifest hash)
+```
+
+### Why This Gives You OneNote-Like Searchability
+
+In OneNote, everything is searchable because Microsoft runs server-side OCR on all your content. This pipeline replicates that:
+
+| Content Type | OneNote | Our Pipeline |
+|-------------|---------|--------------|
+| Typed text in drawings | Searchable | Extracted to companion `.md` -> searchable in Obsidian |
+| Handwritten annotations | OCR'd server-side | OCR'd via Tesseract in GitHub Action |
+| Imported images/photos | OCR'd server-side | OCR'd via Tesseract in GitHub Action |
+| Embedded file text | Indexed | Extracted via JSON parsing |
+| Proper noun linking | Manual `@mentions` only | Auto-linked by AI review pass |
+
+The difference: OneNote does OCR silently in the cloud. Here, the GitHub Action does it on push, and the results live as searchable markdown files in your vault. **You never have to think about it** — push a drawing, and within minutes the text is searchable everywhere (Obsidian search, AI chat, Git grep).
 
 ### 8.3 Excalidraw Plugin Config
 
