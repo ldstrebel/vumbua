@@ -95,4 +95,3 @@ Ignatius attended the **Stitching ceremony** where:
 ### Secret Knowledge
 - The Integration ceremony connected [[Ash-Bloods|Ash Blood]] volcanic power to Harmony's grid
 - Lady Ignis's power comes with strings attached
-[[]]
