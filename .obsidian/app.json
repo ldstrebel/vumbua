@@ -21,6 +21,6 @@
     "editor:unindent-list",
     "editor:configure-toolbar",
     "ink:create-drawing-section",
-    "ink:embed-drawing-file"
+    "ink:create-handwritten-section"
   ]
 }
