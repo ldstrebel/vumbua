@@ -71,6 +71,32 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 
 ---
 
+### [Session 2.5: The Power Room](transcripts/session-02pt5.md)
+**Date:** 2026-02-16
+**Type:** 1-on-1 side session (Iggy / Holly)
+
+While the party socializes at the bonfire, Iggy slips away to explore the Academy's power plant. He discovers the resonator battery infrastructure and meets **Professor Kante**, a tortoise professor of harmonics who draws him into a conversation about the Global Amplitude decline and the Ash-Blood Anomaly.
+
+**Key Events:**
+- Iggy Irish-goodbyes from the bonfire to investigate the power plant
+- Meets Tommy (gnome clerk) and Lucina (dwarf mechanic) in the lobby
+- Discovers over-engineered Panda 5 resonator batteries and charts showing the Global Amplitude decline
+- Professor Kante appears and explains the Minimum Crisis and the missing Ash-Blood surge
+- Kante gives Iggy an umber crystal and invites him to return as a collaborator
+- Iggy rejoins the group for the Celestial Lounge trip
+
+**Players Discovered:**
+- The Global Amplitude measures Harmony's total ether power — it increases with each node integration
+- The amplitude has been declining for 30-40 years — unprecedented in recorded history
+- The Ash-Blood integration produced only ~20 amps instead of expected +300 to +800
+- Panda 5 batteries are surge regulators/receptors, not storage — powered by umber crystals
+- The Night of Sparks (~400 years ago) burned the world for two months due to unregulated surge
+- The Apex 1 next-gen battery line was scrapped because the expected surge never came
+- Professor Kante's theory: integration works through cultural connection, not resource extraction
+- The Trench-Kin are known to Harmony as border defenders ("trail tales from the Trench")
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)

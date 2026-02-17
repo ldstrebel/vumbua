@@ -21,7 +21,16 @@ He is devoted to his work as a professor and researcher at the Academy, spending
 
 ## What Players Know
 
-*Players have not yet met Professor Kante.*
+**Iggy only (Session 2.5):**
+- Met Kante in the power room late at night — Kante was watching him sketch machinery
+- Kante is a tortoise professor of harmonics; slow-speaking, Indian accent, wears a top hat and Bridgerton-style outfit
+- He explained the Global Amplitude, the Ash-Blood Anomaly, and the Night of Sparks
+- His theory: integration works through cultural connection between peoples
+- He gave Iggy an umber crystal and invited him to return for more collaboration
+- Iggy mentioned "the Exchange" — Kante had never heard of it
+- Kante suspects Iggy is from an isolated, unintegrated sect but didn't push further
+
+*Other players have not met Professor Kante.*
 
 ---
 

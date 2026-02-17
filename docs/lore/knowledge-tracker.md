@@ -34,20 +34,25 @@
 - ✅ The boiler room uses both crystal batteries and leidian (Session 2)
 - ✅ Boilers are exploding because leidian is too hot (Session 2)
 
+### Iggy Only (Session 2.5 — via Professor Kante)
+- 🔶 The Global Amplitude measures total ether energy across Harmony — increases with each node integration
+- 🔶 The Global Amplitude has been declining for 30-40 years (first decline in recorded history)
+- 🔶 The Ash-Blood integration only produced ~20 amp increase instead of expected +300 to +800
+- 🔶 House Vox scrapped the Apex 1 battery line (Kante's next-gen battery is useless)
+- 🔶 Professor Kante is investigating the Ash-Blood Anomaly — invited Iggy to collaborate
+- 🔶 The Night of Sparks (~400 years ago) burned the world for two months before umber crystals existed
+- 🔶 Crystal batteries (Panda 5) are surge regulators/receptors, not storage — powered by umber crystals
+- 🔶 Integration works through cultural connection between peoples — not resource extraction
+- 🔶 Iggy now possesses an umber crystal given by Kante
+
 ### GM Secrets (Players Don't Know)
-- ❌ "The Minimum" crisis exists
-- ❌ Harmony is running out of power
-- ❌ The Global Amplitude has been declining for 80 years (first decline in recorded history)
-- ❌ The Panda line batteries (550 amps) are approaching failure threshold
-- ❌ The Ash-Blood integration only produced ~20 amp increase instead of expected +300 to +800
-- ❌ House Vox scrapped the Apex 1 battery line
-- ❌ Professor Kante is investigating the Ash-Blood Anomaly
-- ❌ The Night of Sparks (~400 years ago) nearly destroyed House Gilded
-- ❌ House Gilded built the original resonators; House Vox built the crystal batteries
-- ❌ Crystal batteries are not storage---they regulate the ether connection
+- ❌ "The Minimum" crisis has a name (Iggy understands the concept but hasn't heard the term)
+- ❌ Harmony is running out of power (Iggy senses this but doesn't know the full scope)
+- ❌ The Panda line batteries (550 amps) are approaching failure threshold (specific number not shared)
+- ❌ House Gilded built the original resonators; House Vox built the crystal batteries (partial — Kante mentioned his family and the Guild)
 - ❌ This is why the massive intake happened
 - ❌ If they fail, the lights go out forever
-- ❌ Even discussing power levels is taboo
+- ❌ Even discussing power levels is taboo (Kante spoke freely, but he may be breaking protocol)
 
 ---
 

@@ -6,25 +6,26 @@ description: AI-facing quick reference for the Vumbua campaign repo
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 >
-> **Last Updated**: Session 2 (February 2026)
+> **Last Updated**: Session 2.5 (February 2026)
 
 ---
 
-## Last Session Delta (Session 2: The Bonfire)
+## Last Session Delta (Session 2.5: The Power Room)
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
-**New NPCs introduced**: Cassius Thorne, Percival "Percy" Vane-Smythe III, Iron-Jaw Jax, Bramble, Serra Vox (deeper role), Ember, Lucky
-**New locations**: Block 99 (bonfire site), Celestial Lounge
-**Key reveals**:
-- Inverse Power Doctrine — newest member gets highest voting power; Lady Ignis is effectively President
-- Sixfold Theory — Percy theorizes Earth, Air, Water clans must exist
-- Leidian properties — 80% hotter since integration, halflife oscillation, distance decay
-- Ash-Blood cultural divide — traditionalists (Ignatius) vs modernizers (Ember)
-- Zephyr's purple lightning — struck from clear sky, completely unharmed
-- Mizizi forest has no clear "purpose" unlike other nodes
-- Academy structure: classes → exam → Loom teams → rest week → trial venture
-**Plot threads opened**: Rill invites Britt/Aggie to find her after class; party heading to Celestial Lounge
+**New NPCs introduced**: None (Tommy, Lucina, Marla, Professor Kante already had files)
+**New locations**: Power Plant interior (Walker-Core)
+**Key reveals** (Iggy only):
+- Global Amplitude measures total ether energy — has been declining 30-40 years (unprecedented)
+- Ash-Blood integration produced only ~20 amps (expected +300 to +800)
+- Panda 5 batteries are surge regulators/receptors, not storage — powered by umber crystals
+- Night of Sparks (~400 years ago) burned the world for two months before umber crystals
+- Kante's theory: integration works through cultural connection, not resource extraction
+- Apex 1 battery line scrapped — Kante's career in jeopardy
+- "Trail tales from the Trench" — Trench-Kin known to Harmony as border defenders
+**Iggy's new assets**: Umber crystal from Kante, five connection experiments planned
+**Plot threads opened**: Kante invited Iggy to return for tea and collaboration; Iggy's worldview challenged (connection vs. isolation)
 
 ---
 
@@ -188,7 +189,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | Session 0 | `transcripts/s0-raw.md` | `transcripts/session-00.md` | ✅ Complete |
 | Session 1 | `transcripts/s1-raw.md` | `transcripts/session-01.md` | ✅ Complete |
 | Session 2 | (in s1-raw / bonfire_scene) | `transcripts/session-02.md` | ✅ Complete |
-| Session 2.5 | `transcripts/s2.5-raw.md` | `transcripts/session-02pt5.md` | 🔄 In Progress |
+| Session 2.5 | `transcripts/s2.5-raw.md` | `transcripts/session-02pt5.md` | ✅ Complete |
 
 ---
 

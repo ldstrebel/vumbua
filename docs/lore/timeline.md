@@ -134,12 +134,16 @@
 - Leidian properties discussed: 80% hotter, halflife oscillation, distance decay
 - Party heads to the **Celestial Lounge** for a nightcap
 
-### Intake Week - Day 1 (Session 2.5: Iggy's Power Room) [Planned]
-- While others are at bonfire, Iggy explores the power room
-- Meets Tommy (gnome clerk), Lucina (dwarf maintenance), Marla (human who failed out)
-- Discovers over-engineered surge protection
-- Finds historical records on Global Amplitude decline
-- **Professor Kante** appears with whiteboard of questions about the Ash-Blood Anomaly
+### Intake Week - Night of Day 1 (Session 2.5: The Power Room)
+- While others are at bonfire, Iggy Irish-goodbyes and sneaks into the power plant
+- Meets Tommy (gnome clerk) and Lucina (dwarf mechanic) in the lobby — neither stops him
+- Discovers over-engineered Panda 5 resonator batteries and charts showing Global Amplitude decline
+- **Professor Kante** appears — has been watching Iggy sketch; impressed by his technical intuition
+- Kante explains the Minimum Crisis: amplitude declining 30-40 years, Ash-Blood surge only produced ~20 amps (expected +300 to +800)
+- Kante's theory: integration works through cultural connection, not resource extraction
+- Iggy mentions "the Exchange" — Kante has never heard of it
+- Kante gives Iggy an **umber crystal** and invites him to return as a collaborator
+- Iggy designs five experiments to test "connection" — rejoins group for Celestial Lounge
 
 ---
 

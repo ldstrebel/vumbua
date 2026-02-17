@@ -6,6 +6,8 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ## 2026-02-16
 
+- **Session 2.5 processed**: Cleaned transcript (`session-02pt5.md`) — Iggy's 1-on-1 power room exploration with Professor Kante. Updated session index, knowledge tracker, timeline, professor-kante.md, lore-index
+
 - **Workflow overhaul**: Rewrote `add-session.md` with zero-detail-loss cleanup rules, IC/OOC speaker attribution, GM Narration terminology → `.agent/workflows/add-session.md`
 - **Workflow update**: Updated `add-character.md` with GM Description/Narration terminology, no-hallucination rule → `.agent/workflows/add-character.md`
 - **Workflow update**: Updated `add-lore.md` with GM Narration terminology, lore-index update steps → `.agent/workflows/add-lore.md`
