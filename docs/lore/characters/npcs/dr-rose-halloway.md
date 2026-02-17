@@ -1,7 +1,15 @@
+---
+aliases:
+  - "Rose Halloway"
+tags:
+  - npc
+  - squad-05
+---
+
 # Dr. Rose Halloway
 
 **Role:** Squad 05 (The Harvesters) - Captain / Druid
-**Affiliation:** Vumbua Academy, Mizizi (Expatriate?)
+**Affiliation:** [[Vumbua Academy]], [[Mizizi]] (Expatriate?)
 **Status:** Active
 
 ## Overview

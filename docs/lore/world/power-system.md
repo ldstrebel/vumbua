@@ -1,6 +1,9 @@
 ---
-title: "The Power System (Global Amplitude & Batteries)"
-parent: World
+aliases:
+  - "Power System"
+  - "Global Amplitude"
+tags:
+  - world-lore
 ---
 
 # The Power System
@@ -15,7 +18,7 @@ Harmony runs on ether---a pervasive energy field that flows through integrated l
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### The Global Amplitude
@@ -37,7 +40,7 @@ The **Global Amplitude** is the total ether energy available across all of Harmo
 
 ### The Resonators (House Gilded)
 
-The original power infrastructure, built by House Gilded during Era 1.
+The original power infrastructure, built by [[House Gilded]] during Era 1.
 
 **How They Work:**
 - **Chime Spires** are musical, almost organ-like structures mounted on buildings
@@ -84,9 +87,9 @@ Developed after the Night of Sparks using **umber crystals** mined from **Umbra 
 
 ### The Ash-Blood Anomaly
 
-This is the central mystery that Professor Kante is investigating:
+This is the central mystery that [[Professor Kante]] is investigating:
 
-**Expected:** A major node integration (like the Ash-Bloods) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
+**Expected:** A major node integration (like the [[Ash-Bloods]]) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
 
 **Actual:** The Ash-Blood integration produced only a ~20 amp increase---barely better than a minor node discovered 80 years ago.
 
@@ -101,7 +104,7 @@ This is the central mystery that Professor Kante is investigating:
 The Shattered Circuit theory predicts that when ALL SIX ancient clans are fully integrated, the Global Amplitude will spike to **2,000+**---far beyond anything in recorded history. This would be catastrophic for current infrastructure:
 
 - **Vox Crystal Batteries will shatter:** The Panda line is rated at 550 amps. Even the scrapped Apex 1 was only designed for 900-1,400. A 2,000+ surge would overwhelm every crystal battery in Harmony, repeating the Night of Sparks on a vastly larger scale.
-- **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with Trench-Kin grounding to safely absorb and distribute the surge.
+- **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with [[Trench-Kin]] grounding to safely absorb and distribute the surge.
 - **The paradox:** Harmony must integrate all six clans to survive, but doing so will destroy the very battery infrastructure keeping the lights on---unless they solve the surge problem first.
 
 ### The Ticking Clock
@@ -110,4 +113,4 @@ If the Global Amplitude continues to decline:
 - **Above 550:** Business as usual (current Panda line works)
 - **At 550:** Batteries begin inconsistent output as natural amplitude surges dip below the cap
 - **Below 550:** Systematic power failures begin
-- **Well below 550:** The Minimum---lights go out, medical devices fail, Harmony's infrastructure collapses
+- **Well below 550:** [[The Minimum]]---lights go out, medical devices fail, Harmony's infrastructure collapses

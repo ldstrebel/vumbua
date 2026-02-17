@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-04
+---
+
 # Calculus Prime
 
 **Role:** Squad 04 (The Axiom) - Captain
-**Affiliation:** Vumbua Academy, Warforged/Construct Community
+**Affiliation:** [[Vumbua Academy]], Warforged/Construct Community
 **Status:** Active
 
 ## Overview

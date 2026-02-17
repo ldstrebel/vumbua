@@ -1,7 +1,14 @@
+---
+tags:
+  - npc
+  - faculty
+  - ash-blood
+---
+
 # Pyrrhus
 
 **Role:** Ash-Blood Student / Map Room Researcher
-**Affiliation:** Vumbua Academy, Ash-Blood
+**Affiliation:** [[Vumbua Academy]], Ash-Blood
 **Status:** Active
 
 ## Overview
@@ -16,7 +23,7 @@ An Ash-Blood student who spends time in the Great Library's map room, tracing ch
 
 ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Backstory

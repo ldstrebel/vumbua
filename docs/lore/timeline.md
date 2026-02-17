@@ -5,21 +5,21 @@
 ### 3,000 Years Ago - Era 1: The First Spark
 - The Weavers and Navigators meet on a dying shard
 - First "Stitch" creates Harmony Prime
-- House Gilded builds the first **Chime Spires**---musical resonators that synchronize raw ether into usable power
+- [[House Gilded]] builds the first **Chime Spires**---musical resonators that synchronize raw ether into usable power
 - For the first 30-50 years, Tesla-like spires on buildings harness ether directly into lights and devices
 
 ### 2,500 - 1,500 Years Ago - Era 2: Resource Wars
 - Harmony's aggressive expansion causes "Dissolved Lands"
-- Vane Lineage rises to power building defensive walls
+- [[Vane Lineage]] rises to power building defensive walls
 - Lesson learned: "One-way flow leads to Dissolution"
 
 ### 1,500 - 1,000 Years Ago - Era 3: The Golden Stitch
-- Scrivener Guild decodes Symbiotic Resonance laws
+- [[Scrivener Guild]] decodes Symbiotic Resonance laws
 - Golden Age of integration - massive continent growth
-- Vumbua Academy built as first "Teleporting City"
+- [[Vumbua Academy]] built as first "Teleporting City"
 
 ### ~400 Years Ago - The Night of Sparks
-- A major node is integrated, causing the Global Amplitude to surge from ~350 by over 100 (a 30% increase)
+- A major node is integrated, causing the [[The Power System|Global Amplitude]] to surge from ~350 by over 100 (a 30% increase)
 - Without surge protection, the spike overloads every Gilded resonator in Harmony
 - Massive fires erupt across the empire; nearly ruins House Gilded
 - **Aftermath:** House Vox develops the first Crystal Batteries using umber crystals from Umbra Mountain
@@ -114,31 +114,31 @@
   - Ignatius (Ash-Blood) - on pilgrimage for new heat
   - Lomi (Harmony-born) - boiler room worker
   - Iggy (disguised Trench-Kin) - infiltrator seeking answers
-- Dean Isolde welcomes class; Rill pulls her off stage
+- [[Dean Isolde Vane|Dean Isolde]] welcomes class; [[Rill]] pulls her off stage
 - Dorm assignments issued
-- Iggy climbs crane to "touch the sky"
-- Lucky hustles his first deals
+- [[Iggy]] climbs crane to "touch the sky"
+- [[Lucky]] hustles his first deals
 
 ### Intake Week - Night of Day 1 (Session 2: The Bonfire)
 - Bonfire at Block 99; party socializes with new NPCs
-- **Cassius Thorne** arranges logs obsessively, charmed by Lomi
-- **Serra Vox** approaches Britt/Aggie; slips about political connections to The Seat
-- **The Speculators' Debate:** Percy argues the Sixfold Theory; Jax dismisses it; Bramble asks *"What if we are the ones who forgot?"*
-- Serra explains the **Inverse Power Doctrine** to Ignatius (Lady Ignis holds highest voting power)
-- Cultural exchange: Mizizi view death as natural ("Congratulations!"); Harmony fears death
+- **[[Cassius Thorne]]** arranges logs obsessively, charmed by [[Lomi]]
+- **[[Serra Vox]]** approaches [[Britt]]/[[Aggie]]; slips about political connections to The Seat
+- **The Speculators' Debate:** [[Percival Vane-Smythe III|Percy]] argues the Sixfold Theory; [[Iron-Jaw Jax|Jax]] dismisses it; [[Bramble]] asks *"What if we are the ones who forgot?"*
+- Serra explains the **Inverse Power Doctrine** to [[Ignatius]] ([[Lady Ignis]] holds highest voting power)
+- Cultural exchange: [[Mizizi]] view death as natural ("Congratulations!"); Harmony fears death
 - Serra reveals the Mizizi forest has no clear "purpose"---unusual among nodes
-- Lomi brings **Engine Grease** (moonshine); Zephyr drinks it
+- Lomi brings **Engine Grease** (moonshine); [[Zephyr]] drinks it
 - **Zephyr's Lightning:** Purple bolt from clear sky strikes her; she's unharmed
 - **Rill** appears, retrieves Zephyr, invites Britt/Aggie to find her after class (grass-covered building)
-- Ignatius reveals Ash-Blood cultural divide: traditionalists (himself) vs modernizers (Ember)
+- Ignatius reveals Ash-Blood cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
 - Leidian properties discussed: 80% hotter, halflife oscillation, distance decay
 - Party heads to the **Celestial Lounge** for a nightcap
 
 ### Intake Week - Night of Day 1 (Session 2.5: The Power Room)
 - While others are at bonfire, Iggy Irish-goodbyes and sneaks into the power plant
-- Meets Tommy (gnome clerk) and Lucina (dwarf mechanic) in the lobby — neither stops him
-- Discovers over-engineered Panda 5 resonator batteries and charts showing Global Amplitude decline
-- **Professor Kante** appears — has been watching Iggy sketch; impressed by his technical intuition
+- Meets [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby — neither stops him
+- Discovers over-engineered Panda 5 resonator batteries and charts showing [[The Power System|Global Amplitude]] decline
+- **[[Professor Kante]]** appears — has been watching Iggy sketch; impressed by his technical intuition
 - Kante explains the Minimum Crisis: amplitude declining 30-40 years, Ash-Blood surge only produced ~20 amps (expected +300 to +800)
 - Kante's theory: integration works through cultural connection, not resource extraction
 - Iggy mentions "the Exchange" — Kante has never heard of it
@@ -154,7 +154,7 @@
 - The Loom assigns teams after first-week exam
 - Rest week with captain interviews
 - Month-long trial venture
-- Meeting Rill at the grass-covered building after class
+- Meeting [[Rill]] at the grass-covered building after class
 
 ### Expected Timeline (GM Notes)
 - Another 20,000 will be sent home after "Intro Voyages"

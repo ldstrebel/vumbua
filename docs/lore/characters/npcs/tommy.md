@@ -1,18 +1,18 @@
 ---
-title: "Tommy"
-parent: NPCs
+tags:
+  - npc
 ---
 
 # Tommy
 
 **Role:** Clerk, Power Room Front Desk
 **Race:** Gnome
-**Affiliation:** Vumbua Academy (staff)
+**Affiliation:** [[Vumbua Academy]] (staff)
 **Status:** Active
 
 ## Overview
 
-Tommy is a chipper gnome who works the front desk of Vumbua Academy's power room. He's not a student---he's looking to apply to Vumbua Academy next year and took this job to be close to the action.
+Tommy is a chipper gnome who works the front desk of [[Vumbua Academy]]'s power room. He's not a student---he's looking to apply to Vumbua Academy next year and took this job to be close to the action.
 
 ## Personality
 
@@ -23,5 +23,5 @@ Tommy is a chipper gnome who works the front desk of Vumbua Academy's power room
 ## Session Appearances
 
 ### Session 2.5 - The Power Room
-- Iggy encounters Tommy at the front desk when sneaking into the power room
+- [[Iggy]] encounters Tommy at the front desk when sneaking into the power room
 - Tommy is easily convinced that Iggy has legitimate business there

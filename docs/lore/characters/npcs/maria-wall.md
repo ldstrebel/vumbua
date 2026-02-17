@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-02
+---
+
 # "Wall" Maria
 
 **Role:** Squad 02 (The Breakers) - Tank
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

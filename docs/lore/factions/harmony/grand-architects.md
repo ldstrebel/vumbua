@@ -1,6 +1,9 @@
 ---
-title: "The Grand Architects (House Mason)"
-parent: Harmony Factions
+aliases:
+  - "House Mason"
+tags:
+  - faction
+  - harmony-house
 ---
 
 # The Grand Architects (House Mason)
@@ -15,24 +18,24 @@ parent: Harmony Factions
 
 ## What Players Know
 
-Not yet encountered directly. The Grand Architects build Harmony's permanent cities. They are the other half of the original Weavers (the Iron-Union being the first half).
+Not yet encountered directly. The Grand Architects build Harmony's permanent cities. They are the other half of the original Weavers (the [[Iron-Union]] being the first half).
 
 ---
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Agenda in Vumbua
 
-They hate the "Modular City" aesthetic of Vumbua. They want to pave the Ash-Blood Isles and build a static stone fortress. They are trying to evict the Mizizi from their "unsafe" cliffside dorms (Block 04).
+They hate the "Modular City" aesthetic of Vumbua. They want to pave the Ash-Blood Isles and build a static stone fortress. They are trying to evict the [[Mizizi]] from their "unsafe" cliffside dorms (Block 04).
 
 ### Conflict Lines
 
-- Despise the Iron-Union's "temporary" metal machines
+- Despise the [[Iron-Union]]'s "temporary" metal machines
 - Want to replace Vumbua's modular construction with permanent stone
-- Their efforts to "condemn" Block 04 directly threaten Britt and Aggie's housing
+- Their efforts to "condemn" Block 04 directly threaten [[Britt]] and [[Aggie]]'s housing
 
 ### Key Agent
 

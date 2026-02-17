@@ -1,3 +1,10 @@
+---
+aliases:
+  - "Glissade"
+tags:
+  - npc
+---
+
 # Lady Glissade
 
 **Role:** Noble / Patron?

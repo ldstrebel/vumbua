@@ -1,10 +1,20 @@
+---
+aliases:
+  - "Val"
+  - "Val Sterling"
+tags:
+  - npc
+  - squad-01
+  - gold-rank
+---
+
 # Valerius "Val" Sterling
 
 > "Chaos is just failure you haven't named yet."
 > — *Valerius Sterling*
 
 **Role:** Squad 01 (The Echelon) - Captain (Gold Rank) / Paladin
-**Affiliation:** Harmony (Sterling Family), Vumbua Academy, House Gilded
+**Affiliation:** Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]]
 **Status:** Active
 **Archetype:** The Burdened Legacy
 
@@ -16,7 +26,7 @@ Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He ca
 - **Hidden Depth:** He is terrified of failure. He believes that order is the only thing keeping the Venture from falling apart. His antagonism comes from fear that the party's chaotic methods will destroy the fragile balance he fights to maintain.
 
 ## Relationships
-- **Seraphina Vox:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
+- **[[Serra Vox|Seraphina Vox]]:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
 - **The Party:** Rivals. He specifically targets them during assessments.
 - **Valerius Sterling Sr.:** His father, a renowned explorer whose shadow looms large over him.
 
@@ -24,7 +34,7 @@ Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He ca
 
 ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Backstory

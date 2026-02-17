@@ -1,6 +1,6 @@
 ---
-title: "Rot-Shepherd"
-parent: Bestiary
+tags:
+  - creature
 ---
 
 # The Rot-Shepherd
@@ -21,7 +21,7 @@ The Academy considers these hostile biological threats to be burned on sight.
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Clan Lore (Mizizi / Britt & Aggie): "The Gardener"
@@ -32,4 +32,4 @@ These are the **immune system of the forest**. They collect the dead to recycle 
 
 ### Recent Incident
 
-Dr. Rose Halloway (Squad 05) burned a patch of "weeds" near the perimeter. A Rot-Shepherd retaliated by throwing a boulder through her lab window. Harmony calls it an "Unprovoked Attack."
+[[Dr. Rose Halloway]] (Squad 05) burned a patch of "weeds" near the perimeter. A Rot-Shepherd retaliated by throwing a boulder through her lab window. Harmony calls it an "Unprovoked Attack."

@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-03
+---
+
 # Nyx
 
 **Role:** Squad 03 (The Silence) - Captain (Silver/Gold) / Rogue
-**Affiliation:** Vumbua Academy, The Guilds (Shadows)
+**Affiliation:** [[Vumbua Academy]], The Guilds (Shadows)
 **Status:** Active
 
 ## Overview

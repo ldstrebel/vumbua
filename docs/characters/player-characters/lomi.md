@@ -1,3 +1,13 @@
+---
+aliases:
+  - "Lomi Sultano"
+tags:
+  - pc
+  - harmony-born
+  - iron-union
+  - copper-rank
+---
+
 # Lomi
 
 > *"They paying you well here?"*
@@ -33,7 +43,7 @@ Unlike the clan characters, Lomi is a **Harmony native** from the Octoumba conti
 - The academy (Vumbua) moves every 50 years to a new location
 - The two main vessels (ironclad cruise ship and massive airship) form the academy's core
 - Islands slowly drift toward each other over centuries
-- The discovery of two new clans (Mizizi and Ash Bloods) is the biggest news in a thousand years
+- The discovery of two new clans ([[Mizizi]] and [[Ash-Bloods|Ash Bloods]]) is the biggest news in a thousand years
 - No major civilizations had been found in ages—only ancient bones
 
 ### The Explorer Dream
@@ -64,7 +74,7 @@ Like many Harmony citizens, Lomi has been swept up in the resurgence of explorer
 
 ## GM Notes [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Plot Hooks

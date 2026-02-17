@@ -1,6 +1,6 @@
 ---
-title: "Whispering Moth"
-parent: Bestiary
+tags:
+  - creature
 ---
 
 # The Whispering Moth
@@ -21,7 +21,7 @@ The Academy warns students to wear masks in moth-heavy areas.
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Clan Lore (Universal): "The Liar-Bug"
@@ -32,4 +32,4 @@ They mimic the voices of loved ones to lure travelers off cliffs.
 
 ### Recent Incident
 
-Lucky (Squad 09) claims he heard his little sister calling from a ventilation shaft in the Deep-Hull. He was found clawing at a sealed grate, hallucinating that she was trapped inside.
+[[Lucky]] (Squad 09) claims he heard his little sister calling from a ventilation shaft in the Deep-Hull. He was found clawing at a sealed grate, hallucinating that she was trapped inside.

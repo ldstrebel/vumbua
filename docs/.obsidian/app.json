@@ -1,0 +1,12 @@
+{
+  "strictLineBreaks": false,
+  "showFrontmatter": true,
+  "livePreview": true,
+  "defaultViewMode": "source",
+  "readableLineLength": true,
+  "showLineNumber": false,
+  "useMarkdownLinks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "attachments",
+  "alwaysUpdateLinks": true
+}

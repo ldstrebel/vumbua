@@ -1,7 +1,7 @@
 # Session 2: The Bonfire
 
 **Session Number:** 02
-**Players Present:** Britt (Sophie), Aggie (GM/Luke), Ignatius (John), Lomi (Luke F), Iggy (absent---off-screen in power room)
+**Players Present:** [[Britt]] (Sophie), [[Aggie]] (GM/Luke), [[Ignatius]] (John), [[Lomi]] (Luke F), [[Iggy]] (absent---off-screen in power room)
 
 ---
 
@@ -15,27 +15,27 @@ The party's first night at Vumbua Academy. A bonfire at Block 99 becomes the sta
 
 ### Scene 1: Establishing Shot -- Vumbua Academy
 
-**Location:** Vumbua Academy campus, night of the first day
+**Location:** [[Vumbua Academy]] campus, night of the first day
 **NPCs Present:** None (establishing)
 **Time:** Evening
 
 The night of the first day of school. Students have made it through intake and the Culling. Vumbua is a repurposed expedition city: the Main Hall, the sprawling courtyard, and the Spire-Scape (a chaotic mix of temporary scaffolding and dorms clinging to the permanent cores). Airships zoom overhead.
 
-In the main courtyard, students light bonfires using construction trash. Over in the northwest "High-Rise" district, wealthy Legacy students hold formal receptions. The Ash-Bloods stand out---only ~200 of them among 70,000 students, mostly wearing black because of soot, their skin glowing.
+In the main courtyard, students light bonfires using construction trash. Over in the northwest "High-Rise" district, wealthy Legacy students hold formal receptions. The [[Ash-Bloods]] stand out---only ~200 of them among 70,000 students, mostly wearing black because of soot, their skin glowing.
 
 ---
 
 ### Scene 2: The Bonfire & The Spark
 
 **Location:** Block 99 (Industrial District), a makeshift fire pit
-**NPCs Present:** Cassius Thorne
+**NPCs Present:** [[Cassius Thorne]]
 **Time:** Evening
 
-Lomi approaches Ignatius near a fire pit where Cassius (a nervous student) is trying to arrange logs with mathematical precision. Lomi lights a scrap of paper and hands it to Ignatius, who casually tosses it into the pit. The fire erupts instantly.
+[[Lomi]] approaches [[Ignatius]] near a fire pit where Cassius (a nervous student) is trying to arrange logs with mathematical precision. Lomi lights a scrap of paper and hands it to Ignatius, who casually tosses it into the pit. The fire erupts instantly.
 
 Cassius panics: *"No! It was not ready! The thermal distribution was---this is very non-optimal!"*
 
-Lomi rolls a critical success on Instinct to charm him. Cassius calms down, cheeks rosy, glancing over at Serra Vox nearby. *"I have to admit, I wasn't planning to come here tonight. But I felt like this was the place to be."*
+Lomi rolls a critical success on Instinct to charm him. Cassius calms down, cheeks rosy, glancing over at [[Serra Vox]] nearby. *"I have to admit, I wasn't planning to come here tonight. But I felt like this was the place to be."*
 
 **Player Discoveries:**
 - Cassius is a nervous, bookish student obsessed with optimal thermal distribution
@@ -49,7 +49,7 @@ Lomi rolls a critical success on Instinct to charm him. Cassius calms down, chee
 **NPCs Present:** Seraphina "Serra" Vox
 **Time:** Evening
 
-Serra approaches Britt and Aggie, struggling to lead conversation but clearly wanting to interrogate them. She's nervous and eager, calling the gathering "the most important anthropological cauldron in years."
+Serra approaches [[Britt]] and [[Aggie]], struggling to lead conversation but clearly wanting to interrogate them. She's nervous and eager, calling the gathering "the most important anthropological cauldron in years."
 
 She claims to be from the far east side of the main continent (near Settika). When asked about Harmony's capital: *"The Seat of Harmony. It's the biggest city... huge. 8 million people. Honestly, it's a little big for my taste. I've unfortunately had to spend quite a lot of time in The Seat."*
 
@@ -65,14 +65,14 @@ Britt tries to charm her to get more info (rolls Presence: 11, Failure with Fear
 ### Scene 4: The Speculators' Debate
 
 **Location:** Nearby the fire
-**NPCs Present:** Percy Vane-Smythe III, Iron-Jaw Jax (Warforged), Bramble (Plant-kin), Zephyr
+**NPCs Present:** [[Percival Vane-Smythe III|Percy Vane-Smythe III]], [[Iron-Jaw Jax]] (Warforged), [[Bramble]] (Plant-kin), [[Zephyr]]
 **Time:** Evening
 
-An argument breaks out. Percy (well-dressed, Bridgerton-style outfit) is loudly theorizing:
+An argument breaks out. [[Percival Vane-Smythe III|Percy]] (well-dressed, Bridgerton-style outfit) is loudly theorizing:
 
 *"I'll wager 50 sovereigns that there's an Earth clan underground! We've got Plants, Fire... there's going to be Water, Earth, Air---it's got to be all sorts of other ones!"*
 
-Jax dismisses it: *"That's nonsense. We found Ash Blood and Maze. That's probably all there is."*
+[[Iron-Jaw Jax|Jax]] dismisses it: *"That's nonsense. We found [[Ash-Bloods|Ash Blood]] and Maze. That's probably all there is."*
 
 Bramble (plant-kin) offers a philosophical counter: *"What if they are not the missing? What if we are the ones who forgot?"*
 
@@ -83,11 +83,11 @@ Lomi steps in, mentioning noises heard in the boiler room and his belief in frie
 Ignatius loses interest in the topic. Lomi and Percy bond. Zephyr interrupts wanting "storms and grease."
 
 **Player Discoveries:**
-- The "Sixfold Theory" exists: the idea that Plants, Fire, Ash-Blood, and Mizizi are known, but Earth, Air, and Water clans must exist to complete the symmetry
+- The "Sixfold Theory" exists: the idea that Plants, Fire, Ash-Blood, and [[Mizizi]] are known, but Earth, Air, and Water clans must exist to complete the symmetry
 - Percy is a genuine theorist, not just a rich kid
 - Jax is a skeptic warforged (young, still has "curves," hasn't slimmed out)
 - Bramble is a thoughtful plant-kin philosopher
-- Earthkin are a common enough race in Harmony (not the same as a hypothetical Earth Clan)
+- [[Trench-Kin|Earthkin]] are a common enough race in Harmony (not the same as a hypothetical Earth Clan)
 
 ---
 
@@ -123,7 +123,7 @@ Serra is horrified but fascinated: *"I think... I think they really like death."
 
 Serra asks Ignatius about Ash-Blood energy. He pulls out a piece of leidian (obsidian-like heat stone) from his pocket, explaining their clothes are designed to withstand heat and that Ash-Bloods release heat by burning hotter rather than sweating.
 
-Ignatius explains the Ash-Bloods were going through a "Great Cooling"---their volcanoes were dying---but when Harmony found them, the heat picked back up. He mentions Lady Ignis as a prominent member of Harmony.
+Ignatius explains the Ash-Bloods were going through a "Great Cooling"---their volcanoes were dying---but when Harmony found them, the heat picked back up. He mentions [[Lady Ignis]] as a prominent member of Harmony.
 
 Serra corrects him: Lady Ignis holds the **highest voting power** in all of Harmony. She explains the **Inverse Power Doctrine**: Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."*
 
@@ -147,10 +147,10 @@ Serra also reveals that the Mizizi haven't been formally integrated yet---no sea
 ### Scene 7: The Lightning Incident
 
 **Location:** The fire pit
-**NPCs Present:** Zephyr, Real/Rill (Dean's assistant/Mizizi exchange)
+**NPCs Present:** Zephyr, Real/[[Rill]] (Dean's assistant/Mizizi exchange)
 **Time:** Late evening
 
-Lomi returns from Lucky's corner with six jars of "Engine Grease" (moonshine). Zephyr runs over immediately: *"Oh! Things to drink! I love drinking things."*
+Lomi returns from [[Lucky]]'s corner with six jars of "Engine Grease" (moonshine). Zephyr runs over immediately: *"Oh! Things to drink! I love drinking things."*
 
 Lomi takes a swig and spits it into the fire, creating a fireball. Zephyr tries---chokes on the first attempt, then tries again. She bottles it up, turns purple, her hair stands up with static electricity...
 
@@ -162,9 +162,9 @@ Jax's jaw literally falls off. The whole bonfire area is stunned.
 
 Suddenly, **Real/Rill** appears from the crowd, grabs Zephyr by the arm: *"There you are! We've been looking all over for you."* Zephyr protests but is lured back with promises of hot chocolate.
 
-Ignatius yells after them: *"What's Lightning Girl's name?"*
+Ignatius yells after them: *"What's [[Zephyr|Lightning Girl]]'s name?"*
 
-Rill: *"Her name is Zephyr, Lava Boy."* She spots Britt and Aggie, waves happily, and tells them to come find her tomorrow after class---points to the grass-covered building inset into the hill.
+Rill: *"Her name is Zephyr, [[Ignatius|Lava Boy]]."* She spots Britt and Aggie, waves happily, and tells them to come find her tomorrow after class---points to the grass-covered building inset into the hill.
 
 **Player Discoveries:**
 - Zephyr can cause purple lightning---seemingly involuntarily triggered by the grease
@@ -184,7 +184,7 @@ Rill: *"Her name is Zephyr, Lava Boy."* She spots Britt and Aggie, waves happily
 
 Serra whispers that Rill was the Dean on stage earlier---*"one of the greatest inventors in our age"*---and lived in the Mizizi village as an exchange student.
 
-Lomi introduces himself properly to Britt and Aggie as "Lomi Sultano, Boiler Room, Diamond Union." Engine Grease is the drink of choice down there. Britt and Aggie prefer Pine Needle Tea.
+Lomi introduces himself properly to Britt and Aggie as "[[Lomi|Lomi Sultano]], Boiler Room, [[Iron-Union|Diamond Union]]." Engine Grease is the drink of choice down there. Britt and Aggie prefer Pine Needle Tea.
 
 The conversation turns to the boiler room's power sources: condensed crystal batteries and leidian (the obsidian heat stone from Ash-Blood isle). Ignatius names it "Leidian" on the spot (lava + obsidian).
 
@@ -192,7 +192,7 @@ The GM reveals to Lomi that leidian has been measuring **80% more heat per gram*
 
 Ignatius shares his personal motivation: find a new source of leidian or discover why it's reheating. *"I want to find the heart of the volcano."*
 
-Serra/Aggie mention Ember---an Ash-Blood who is excited to use Harmony's "clean" energy and refuses to touch organic fire. Ignatius considers this disrespectful to Ash-Blood heritage.
+Serra/Aggie mention [[Ember]]---an Ash-Blood who is excited to use Harmony's "clean" energy and refuses to touch organic fire. Ignatius considers this disrespectful to Ash-Blood heritage.
 
 **Player Discoveries:**
 - Leidian is burning 80% hotter per gram in the last 2 years (since integration)
@@ -229,22 +229,22 @@ Session ends with the party heading inside for a nightcap before classes begin.
 ## Session Outcomes
 
 ### Character Development
-- **Britt:** Established the Mizizi philosophy of death as a core character trait. Made strong eye contact with Aggie when Ignatius questioned whether the Ash-Blood/Harmony relationship was truly beneficial.
+- **[[Britt]]:** Established the [[Mizizi]] philosophy of death as a core character trait. Made strong eye contact with [[Aggie]] when [[Ignatius]] questioned whether the Ash-Blood/Harmony relationship was truly beneficial.
 - **Aggie:** Provided levity with cultural misunderstandings ("Congratulations!" on death). Began connecting dots about Harmony's pattern of manipulation.
-- **Ignatius:** Revealed passion for finding new heat sources. Showed cultural pride defending traditional fire against Harmony's batteries. Got nicknamed "Lava Boy" by Zephyr.
-- **Lomi:** Emerged as the social glue---introduced himself to everyone, brought the grease, talked up Cassius. Established boiler room expertise and Diamond Union membership.
-- **Iggy:** Absent from bonfire (off-screen in power room with Professor Kante).
+- **Ignatius:** Revealed passion for finding new heat sources. Showed cultural pride defending traditional fire against Harmony's batteries. Got nicknamed "[[Ignatius|Lava Boy]]" by [[Zephyr]].
+- **[[Lomi]]:** Emerged as the social glue---introduced himself to everyone, brought the grease, talked up Cassius. Established boiler room expertise and [[Iron-Union|Diamond Union]] membership.
+- **[[Iggy]]:** Absent from bonfire (off-screen in power room with [[Professor Kante]]).
 
 ### Party Relationships
 - Lomi and Ignatius have a strong working bond (boiler room connection)
 - Britt and Aggie share knowing glances about Harmony's true motives
 - The whole group is now loosely connected through the bonfire
-- Percy Vane-Smythe III has attached himself to the group as a "theories" friend
-- Rill/Real is a known Mizizi contact who wants to reconnect with Britt/Aggie
+- [[Percival Vane-Smythe III|Percy Vane-Smythe III]] has attached himself to the group as a "theories" friend
+- [[Rill]]/Real is a known Mizizi contact who wants to reconnect with Britt/Aggie
 
 ### World State Changes
 - The Inverse Power Doctrine is now known to the party
-- Lady Ignis's political power is now understood
+- [[Lady Ignis]]'s political power is now understood
 - The Sixfold Theory has been introduced
 - Zephyr's lightning abilities are public knowledge (whole bonfire saw it)
 - Leidian properties are now party knowledge (80% hotter, halflife, distance decay)
@@ -260,18 +260,18 @@ Session ends with the party heading inside for a nightcap before classes begin.
 
 ## Lore Updates
 
-- [x] Update [Cassius Thorne](../../lore/characters/npcs/cassius-thorne.md) - nervous bookish student, not "muscle"
-- [x] Update [Serra Vox](../../lore/characters/npcs/serra-vox.md) - Session 2 dialogue and Inverse Power Doctrine
-- [x] Update [Percy Vane-Smythe III](../../lore/characters/npcs/percival-vane-smythe-iii.md) - genuine theorist from Shepta
-- [x] Update [Iron-Jaw Jax](../../lore/characters/npcs/iron-jaw-jax.md) - young warforged skeptic
-- [x] Update [Bramble](../../lore/characters/npcs/bramble.md) - philosophical plant-kin
-- [x] Update [Zephyr](../../lore/characters/npcs/zephyr.md) - purple lightning, managed by Rill
-- [x] Update [Rill](../../lore/characters/npcs/rill.md) - Dean's assistant, retrieves Zephyr
-- [x] Update [Lady Ignis](../../lore/characters/npcs/lady-ignis.md) - Inverse Power Doctrine
-- [x] Update [Lucky](../../lore/characters/npcs/lucky.md) - sold grease at bonfire
-- [x] Update [Sarge](../../lore/characters/npcs/sarge.md) - watching Lucky disapprovingly
-- [x] Create [Ember](../../lore/characters/npcs/ember.md) - Ash-Blood modernizer
-- [x] Update [Knowledge Tracker](../../lore/knowledge-tracker.md)
-- [x] Update [Timeline](../../lore/timeline.md)
-- [x] Update [Glossary](../../lore/glossary.md)
-- [x] Update [Ash-Bloods](../../lore/factions/clans/ash-bloods.md) - cultural divide
+- [x] Update [[Cassius Thorne]] - nervous bookish student, not "muscle"
+- [x] Update [[Serra Vox]] - Session 2 dialogue and Inverse Power Doctrine
+- [x] Update [[Percival Vane-Smythe III]] - genuine theorist from Shepta
+- [x] Update [[Iron-Jaw Jax]] - young warforged skeptic
+- [x] Update [[Bramble]] - philosophical plant-kin
+- [x] Update [[Zephyr]] - purple lightning, managed by [[Rill]]
+- [x] Update [[Rill]] - Dean's assistant, retrieves [[Zephyr]]
+- [x] Update [[Lady Ignis]] - Inverse Power Doctrine
+- [x] Update [[Lucky]] - sold grease at bonfire
+- [x] Update [[Sarge]] - watching [[Lucky]] disapprovingly
+- [x] Create [[Ember]] - Ash-Blood modernizer
+- [x] Update [[Knowledge Tracker]]
+- [x] Update [[Timeline]]
+- [x] Update [[Glossary]]
+- [x] Update [[Ash-Bloods]] - cultural divide

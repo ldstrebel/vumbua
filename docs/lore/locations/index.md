@@ -8,7 +8,7 @@ nav_order: 2
 
 ## The Academy
 
-- [Vumbua Academy](vumbua-academy.md) - The mobile city and primary campaign setting
+- [[Vumbua Academy]] - The mobile city and primary campaign setting
 
 ## Clan Territories
 

@@ -1,6 +1,6 @@
 ---
-title: "Pre-Stitch Artifacts"
-parent: World
+tags:
+  - world-lore
 ---
 
 # Pre-Stitch Artifacts (Ancient Tech)
@@ -19,7 +19,7 @@ Old mechanical parts occasionally turn up in scrap heaps. The Academy considers 
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Clan View (Earthkin/Mizizi): "The Old Iron"
@@ -28,7 +28,7 @@ Remnants of the "First Weavers" who built the world without magic.
 
 ### The Critical Truth
 
-This tech doesn't require the Loom to function. **It is immune to "The Minimum."**
+This tech doesn't require the Loom to function. **It is immune to "[[The Minimum]]."**
 
 When the magic fails---and it will---Pre-Stitch technology is the only thing that will still work. Combustion engines, kinetic weapons, mechanical clocks---all of it runs on physics, not on the Harmony grid.
 
@@ -38,7 +38,7 @@ Old Man Silas (Squad 05) found a "Combustion Generator" (a diesel engine). He go
 
 ### Silas Thorne's Collection
 
-Silas Thorne collects Pre-Stitch tech not for greed, but because he believes these machines are the only things that will work when the magic/Venture fails. He is the party's best source for these items.
+[[Silas Thorne]] collects Pre-Stitch tech not for greed, but because he believes these machines are the only things that will work when the magic/Venture fails. He is the party's best source for these items.
 
 ### Plot Significance
 

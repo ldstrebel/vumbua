@@ -4,11 +4,11 @@
 
 ### The Party
 
-- **[Britt](player-characters/britt.md)** - Mizizi (Gray fungal-turtle) - Gold Rank
-- **[Aggie](player-characters/aggie.md)** - Mizizi (Red-and-white spotted mushroom-turtle) - Silver Rank
-- **[Ignatius](player-characters/ignatius.md)** - Ash-Blood (Ember Islander) - Silver Rank
-- **[Lomi](player-characters/lomi.md)** - Harmony-born (Octoumba, Iron-Union) - Copper Rank
-- **[Iggy](player-characters/iggy.md)** - "Earthkin" (Trench-Kin) - Gold Rank
+- **[[Britt]]** - [[Mizizi]] (Gray fungal-turtle) - Gold Rank
+- **[[Aggie]]** - Mizizi (Red-and-white spotted mushroom-turtle) - Silver Rank
+- **[[Ignatius]]** - Ash-Blood ([[Ember]] Islander) - Silver Rank
+- **[[Lomi]]** - Harmony-born (Octoumba, [[Iron-Union]]) - Copper Rank
+- **[[Iggy]]** - "[[Trench-Kin|Earthkin]]" ([[Trench-Kin]]) - Gold Rank
 
 ---
 
@@ -16,66 +16,66 @@
 
 ### Academy Faculty & Staff
 
-- **[Dean Isolde Vane](npcs/dean-isolde-vane.md)** - Head of Vumbua Academy, "The Desperate Architect"
-- **[Celia Vance](npcs/celia-vance.md)** - Operations Director
-- **[Senior Exploranaut Hesperus](npcs/hesperus.md)** - Instructor, Field Training
-- **[Ratchet](npcs/ratchet.md)** - Engineer (The Maintenance)
-- **[Kojo](npcs/kojo.md)** - Integrator
-- **[Pyrrhus](npcs/pyrrhus.md)** - Ash-Blood Technician
+- **[[Dean Isolde Vane]]** - Head of Vumbua Academy, "The Desperate Architect"
+- **[[Celia Vance]]** - Operations Director
+- **[[Hesperus]]** - Instructor, Field Training
+- **[[Ratchet]]** - Engineer (The Maintenance)
+- **[[Kojo]]** - Integrator
+- **[[Pyrrhus]]** - Ash-Blood Technician
 
 ### Student Squads
 
 #### Squad 01: The Echelon
-- **[Valerius "Val" Sterling](npcs/valerius-sterling.md)** - Captain (Gold), Rival
-- **[Seraphina "Serra" Vox](npcs/serra-vox.md)** - Bard (Gold), "Serra Vox"
-- **[Cassius Thorne](npcs/cassius-thorne.md)** - The Muscle
+- **[[Valerius Sterling|Valerius "Val" Sterling]]** - Captain (Gold), Rival
+- **[[Serra Vox|Seraphina "Serra" Vox]]** - Bard (Gold), "Serra Vox"
+- **[[Cassius Thorne]]** - The Muscle
 
 #### Squad 02: The Breakers
-- **[Iron-Jaw Jax](npcs/iron-jaw-jax.md)** - Captain, Brawler
-- **["Wall" Maria](npcs/maria-wall.md)** - Tank
-- **[Brawn](npcs/brawn.md)** - Heavy Hitter
+- **[[Iron-Jaw Jax]]** - Captain, Brawler
+- **[[Maria Wall|"Wall" Maria]]** - Tank
+- **[[Brawn]]** - Heavy Hitter
 
 #### Squad 03: The Silence
-- **[Nyx](npcs/nyx.md)** - Captain, Stealth
-- **[Kaelen](npcs/kaelen.md)** - Infiltrator
-- **[Mira](npcs/mira.md)** - Spotter
+- **[[Nyx]]** - Captain, Stealth
+- **[[Kaelen]]** - Infiltrator
+- **[[Mira]]** - Spotter
 
 #### Squad 04: The Axiom
-- **[Calculus Prime](npcs/calculus-prime.md)** - Captain, Construct
-- **[Theorem](npcs/theorem.md)** - Strategist
-- **[Lemma](npcs/lemma.md)** - Support
+- **[[Calculus Prime]]** - Captain, Construct
+- **[[Theorem]]** - Strategist
+- **[[Lemma]]** - Support
 
 #### Squad 05: The Harvesters
-- **[Dr. Rose Halloway](npcs/dr-rose-halloway.md)** - Captain, Druid
-- **[Silas "Old Man" Thorne](npcs/silas-thorne.md)** - Scrapper, Tech Vendor
-- **[Bramble](npcs/bramble.md)** - Plant-Kin Tank
+- **[[Dr. Rose Halloway]]** - Captain, Druid
+- **[[Silas Thorne|Silas "Old Man" Thorne]]** - Scrapper, Tech Vendor
+- **[[Bramble]]** - Plant-Kin Tank
 
 #### Squad 06: The Kiln
-- **[Cinder-4](npcs/cinder-4.md)** - Captain, Ash-Blood Construct
-- **[Hearth](npcs/hearth.md)** - Support
-- **[Kindle](npcs/kindle.md)** - Striker
+- **[[Cinder-4]]** - Captain, Ash-Blood Construct
+- **[[Hearth]]** - Support
+- **[[Kindle]]** - Striker
 
 #### Squad 07: The Bathysphere
-- **[Captain Barnacle](npcs/captain-barnacle.md)** - Captain, Heavy Armor
-- **[Pressure](npcs/pressure.md)** - Member
-- **[Depth](npcs/depth.md)** - Member
+- **[[Captain Barnacle]]** - Captain, Heavy Armor
+- **[[Pressure]]** - Member
+- **[[Depth]]** - Member
 
 #### Squad 08: The Legacy
-- **[Percival Vane-Smythe III](npcs/percival-vane-smythe-iii.md)** - Captain, Noble
-- **[Lady Glimmer](npcs/lady-glimmer.md)** - Member
-- **[Baron Bolt](npcs/baron-bolt.md)** - Member
+- **[[Percival Vane-Smythe III]]** - Captain, Noble
+- **[[Lady Glimmer]]** - Member
+- **[[Baron Bolt]]** - Member
 
 #### Squad 09: The Ablative
-- **[Sarge](npcs/sarge.md)** - Captain (Rust Tier), "Safety Inspector"
-- **[Lucky](npcs/lucky.md)** - Hustler/Procurer
-- **[Pudge](npcs/pudge.md)** - The Heart
+- **[[Sarge]]** - Captain (Rust Tier), "Safety Inspector"
+- **[[Lucky]]** - Hustler/Procurer
+- **[[Pudge]]** - The Heart
 
 ### Notable Figures & Others
 
-- **[Lady Ignis](npcs/lady-ignis.md)** - Ash-Blood Matriarch, Harmony High Councilor
-- **[Rill](npcs/rill.md)** - Mizizi Researcher/Futurist (Traitor?)
-- **[Zephyr](npcs/zephyr.md)** - Storm-Kin Exchange Member
-- **[Lance](npcs/lance.md)** - Harmony Student (Independent?)
-- **[Valerius Sterling Sr.](npcs/valerius-sterling-sr.md)** - Legendary Explorer
-- **[Lady Glissade](npcs/lady-glissade.md)** - Harmony Noble
+- **[[Lady Ignis]]** - Ash-Blood Matriarch, Harmony High Councilor
+- **[[Rill]]** - Mizizi Researcher/Futurist (Traitor?)
+- **[[Zephyr]]** - Storm-Kin Exchange Member
+- **[[Lance]]** - Harmony Student (Independent?)
+- **[[Valerius Sterling Sr.]]** - Legendary Explorer
+- **[[Lady Glissade]]** - Harmony Noble
 - **Captain Aara Thorne** - Legendary explorer (Historical)

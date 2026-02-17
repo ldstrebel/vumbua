@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-06
+---
+
 # Kindle
 
 **Role:** Squad 06 (The Kiln) - Member
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

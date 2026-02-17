@@ -1,6 +1,6 @@
 ---
-title: "Void-Beast"
-parent: Bestiary
+tags:
+  - creature
 ---
 
 # The Void-Beast
@@ -21,7 +21,7 @@ The Academy trains students to fight these with floodlights and force. They are 
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Clan Lore (Ash-Blood / Ignatius): "Smoke-Stalkers"

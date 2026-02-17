@@ -1,7 +1,15 @@
+---
+aliases:
+  - "Barnacle"
+tags:
+  - npc
+  - squad-07
+---
+
 # Captain Barnacle
 
 **Role:** Squad 07 (The Bathysphere) - Captain
-**Affiliation:** Vumbua Academy, Trench-Kin?
+**Affiliation:** [[Vumbua Academy]], [[Trench-Kin]]?
 **Status:** Active
 
 ## Overview

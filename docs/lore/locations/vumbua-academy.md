@@ -1,6 +1,9 @@
 ---
-title: "Vumbua Academy"
-parent: Locations
+aliases:
+  - "Vumbua"
+  - "The Safiri"
+tags:
+  - location
 ---
 
 # Vumbua Academy (The Mobile City)
@@ -42,7 +45,7 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Magic & Technology
@@ -61,4 +64,4 @@ The *only* official proof of status. A narrow strip of parchment printed by 1920
 
 ### The Desperate Truth
 
-Vumbua teleported for the first time in a century because a deep-scan revealed two faint pulses---the Ash-Bloods (Heat) and the Mizizi (Memory). If this expedition fails, the Academy cannot travel back. They are stranded.
+Vumbua teleported for the first time in a century because a deep-scan revealed two faint pulses---the [[Ash-Bloods]] (Heat) and the [[Mizizi]] (Memory). If this expedition fails, the Academy cannot travel back. They are stranded.

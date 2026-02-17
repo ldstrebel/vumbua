@@ -1,6 +1,6 @@
 ---
-title: "Ether-Jelly"
-parent: Bestiary
+tags:
+  - creature
 ---
 
 # The Ether-Jelly
@@ -21,7 +21,7 @@ The Academy treats these as pests to be zapped. Standard protocol is electric di
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Clan Lore (Trench-Kin / Iggy): "The Soul-Drifters"

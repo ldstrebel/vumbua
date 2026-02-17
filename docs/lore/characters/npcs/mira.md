@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-03
+---
+
 # Mira
 
 **Role:** Squad 03 (The Silence) - Member
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

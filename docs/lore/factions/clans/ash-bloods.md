@@ -1,3 +1,14 @@
+---
+aliases:
+  - "Ember-Kin"
+  - "Pyre-Keepers"
+  - "Ash Bloods"
+  - "Ash Blood"
+tags:
+  - faction
+  - clan
+---
+
 # The Ash-Bloods
 
 *Volcanic forge-keepers with hearts of fire*
@@ -16,7 +27,7 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the Ash-Blood Isles just one week after Valerius Sterling Sr. had found the Mizizi---the Panda line batteries (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the Ash-Blood Isles just one week after [[Valerius Sterling]] Sr. had found the [[Mizizi]]---the Panda line batteries (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 **What the Integration Brought:**
 
@@ -46,7 +57,7 @@ Ash-Bloods aren't forced to work in Vumbua's boiler rooms—they **beg** for the
 
 Harmony retrofitted the entire port engine to run on **Direct Obsidian Transfer** instead of generic energy cores. It's 300% more efficient, and the Ash-Bloods take immense pride in being the literal heartbeat of the city.
 
-Ignatius likely worked these same boilers during construction.
+[[Ignatius]] likely worked these same boilers during construction.
 
 ### The Cultural Divide (Session 2)
 
@@ -58,7 +69,7 @@ Integration has split the Ash-Bloods into two ideological camps:
 - Harmony's crystal batteries are useful tools, not replacements for true fire
 - Ignatius's personal quest: *"I want to find the heart of the volcano"*
 
-**Modernizers** (e.g. Ember):
+**Modernizers** (e.g. [[Ember]]):
 - Embrace Harmony's "clean" crystal battery energy
 - Refuse to touch organic fire---see it as outdated and dangerous
 - View integration as liberation from the harsh volcanic lifestyle
@@ -78,7 +89,7 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 
 - **Ignatius** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
 - **Ember** - Ignatius's childhood cousin, modernizer who rejects traditional fire
-- **Lady Ignis** - Matriarch, holds highest voting power in Harmony via Inverse Power Doctrine
+- **[[Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via Inverse Power Doctrine
 - **"The Chad Student"** - Met Ignatius at intake, suspicious of soot
 - ~200 Ash-Bloods at the Academy among 70,000 students
 
@@ -94,7 +105,7 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is NOT known to the player characters.
 
 ### The Broken Exchange
@@ -102,14 +113,14 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 This year (18 months ago), the Ash-Bloods committed a grave insult to one of the hidden clans.
 
 **What Happened:**
-- The Ash-Bloods were scheduled to send a bride to the **Trench-Kin** in the traditional Exchange
+- The Ash-Bloods were scheduled to send a bride to the **[[Trench-Kin]]** in the traditional Exchange
 - With their volcanoes reignited by Harmony, they felt they'd "ascended beyond the old ways"
 - Instead of sending a person, they dropped an **Obsidian Tablet** down the exchange shaft
 - The tablet read: *"The Heat has returned. We need nothing from the Dark. Look to the Light."*
 
 **The Consequences:**
 - The Trench-Kin Elders buried the tablet, fearing curiosity about "the Light"
-- One young Trench-Kin named Iggy found it and read it as an *invitation*
+- One young Trench-Kin named [[Iggy]] found it and read it as an *invitation*
 - This is why Iggy came to the surface—to find out why the Ash-Bloods stopped coming
 - The Ash-Bloods don't know they triggered an infiltration
 
@@ -129,7 +140,7 @@ If Harmony successfully integrates all six clans, the Ash-Bloods would burn hott
 
 ### Lady Ignis and Political Power
 
-**Lady Ignis** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **Harmony Prime** (the static capital) to join the High Council as the **Representative of the Clans**.
+**[[Lady Ignis]]** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **Harmony Prime** (the static capital) to join the High Council as the **Representative of the Clans**.
 
 **Her Power:**
 Under Harmony's "Inverse Power Doctrine" (newest members get most political weight to prevent tyranny), she instantly became one of the **most powerful people in the Empire**.
@@ -138,7 +149,7 @@ Under Harmony's "Inverse Power Doctrine" (newest members get most political weig
 - **SHE** signed the "Expansion Bill" authorizing Vumbua's relocation to the Ash-Blood Isles
 - She traveled with most of the Ash-Blood Elders fit for travel
 - She was escorted by Captain Elara Thorne (who just returned to Vumbua)
-- She attempted to bring the Mizizi Elders too, but they refused
+- She attempted to bring the [[Mizizi]] Elders too, but they refused
 
 **Her Philosophy:**
 "Political integration at the highest level is the only way to ensure my people are partners, not fuel."
@@ -150,7 +161,7 @@ She fundamentally believes in Harmony's mission and views integration as **salva
 The Ash-Bloods don't know this, but their integration is the **only thing** keeping Harmony from collapsing.
 
 **The Truth:**
-- The Iron-Union can physically feel the "Ghost Charge" (flickering power)
+- The [[Iron-Union]] can physically feel the "Ghost Charge" (flickering power)
 - The Obsidian direct-transfer is the only thing preventing boiler explosions
 - Without the Ash-Bloods, Harmony would already be dark
 - Each clan integration buys **1-2 years** of power at most
@@ -159,7 +170,7 @@ The Ash-Bloods think they joined a thriving empire. In reality, they're **life s
 
 ### What the Players Don't Know About Ignatius
 
-**Ignatius's Cover Story:**
+**[[Ignatius]]'s Cover Story:**
 - He tells people he's on a "pilgrimage" to find new heat for his clan
 - The elders say he's "banished" to the trial of adventure
 
@@ -176,8 +187,8 @@ In the six-clan system, the Ash-Bloods represent **POWER** (The Engines):
 - Mizizi (Memory) - The Archivists
 - **Ash-Bloods (Power) - The Engines**
 - Trench-Kin (Resources) - The Miners
-- Renali (Vision) - The Architects
-- Wadi (Life) - The Sustainers
+- [[Renali]] (Vision) - The Architects
+- [[Wadi]] (Life) - The Sustainers
 - Harmony (Direction) - The Navigators
 
 They are the metaphorical (and literal) **furnace** that powers the machine. Without them, nothing else works.

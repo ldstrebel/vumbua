@@ -1,7 +1,9 @@
 ---
-title: "The Trench-Kin (The Abyssal)"
-parent: Clans
-nav_order: 3
+aliases:
+  - "Earthkin"
+tags:
+  - faction
+  - clan
 ---
 
 # The Trench-Kin (The Abyssal)
@@ -10,15 +12,15 @@ nav_order: 3
 
 ## What Players Know
 
-Almost nothing. The Trench-Kin are completely unknown to Harmony and to the other player characters. The only surface contact they have maintained is the Exchange Ritual with the Wadi (River Clan), trading members through deep underwater shafts.
+Almost nothing. The Trench-Kin are completely unknown to Harmony and to the other player characters. The only surface contact they have maintained is the Exchange Ritual with the [[Wadi]] ([[Wadi|River Clan]]), trading members through deep underwater shafts.
 
-Iggy---the party's "Earthkin" roommate---emerged from the water at the docks on Intake Day, clearly uncomfortable in the open air. He wears heavy fluid-filled goggles, crumbles in low pressure, and finds comfort in weight and compression. No one has questioned his origin beyond assuming he's some kind of earth-elemental mutation.
+[[Iggy]]---the party's "Earthkin" roommate---emerged from the water at the docks on Intake Day, clearly uncomfortable in the open air. He wears heavy fluid-filled goggles, crumbles in low pressure, and finds comfort in weight and compression. No one has questioned his origin beyond assuming he's some kind of earth-elemental mutation.
 
 ---
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### The Element & The Node
@@ -46,7 +48,7 @@ The light above burns the eyes. Trench-Kin wear heavy, fluid-filled goggles when
 
 ### The Broken Exchange
 
-The Ash-Bloods were scheduled to send a bride to the Trench-Kin. They didn't show up. Instead, they dropped an Obsidian Tablet down the exchange shaft:
+The [[Ash-Bloods]] were scheduled to send a bride to the Trench-Kin. They didn't show up. Instead, they dropped an Obsidian Tablet down the exchange shaft:
 
 > *"The Heat has returned. We need nothing from the Dark. Look to the Light."*
 
@@ -54,7 +56,7 @@ The Trench-Kin Elders were terrified. They buried the tablet, fearing that curio
 
 ### Iggy's True Origin
 
-**Iggy** was a deep-tunnel scrapper who found the buried tablet. He didn't read it as an insult---he read it as an invitation. He isn't on the surface to conquer; he is here to find out why the Ash-Bloods stopped coming. He suspects the surface isn't a "Burning Hellscape" (as the Elders teach) but a place of infinite energy.
+**[[Iggy]]** was a deep-tunnel scrapper who found the buried tablet. He didn't read it as an insult---he read it as an invitation. He isn't on the surface to conquer; he is here to find out why the Ash-Bloods stopped coming. He suspects the surface isn't a "Burning Hellscape" (as the Elders teach) but a place of infinite energy.
 
 He is not a diplomat---he is an **Unregistered Infiltrator**. He passed the entrance exams by simply not listing a home address and letting the registrars assume he was a generic "Earth-Elemental" construct. He represents the potential of a people who have not yet introduced themselves.
 
@@ -67,4 +69,4 @@ If Harmony ever discovers the Trench-Kin:
 
 ### The Shattered Circuit Role
 
-In Dean Vane's theory, the Trench-Kin are **The Miners (Resources)**---the stabilizing foundation of the ancient empire.
+In [[Dean Isolde Vane|Dean Vane]]'s theory, the Trench-Kin are **The Miners (Resources)**---the stabilizing foundation of the ancient empire.

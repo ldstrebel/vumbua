@@ -14,7 +14,7 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
 
 2.  **Resonance: The Weeping Node**
     - *Scenario*: A Node "weeping" spores. Standard protocol is C-Major Pulse.
-    - *Hint*: **Rill** (the only other Mizizi on campus, currently a researcher) is seen arguing with a professor about "Standard Protocol". She whispers to Britt/Aggie: "You can't cure sadness with a hammer. You have to cry with it."
+    - *Hint*: **[[Rill]]** (the only other [[Mizizi]] on campus, currently a researcher) is seen arguing with a professor about "Standard Protocol". She whispers to [[Britt]]/[[Aggie]]: "You can't cure sadness with a hammer. You have to cry with it."
 
 3.  **The Anchor of Self: The Dissolution**
     - *Scenario*: Legs turning to steam/mist.
@@ -34,7 +34,7 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
 
 ## Establishing Shot: The Academy at Night
 
-**Location:** Vumbua Academy - The sprawling mobile city-state, currently at rest
+**Location:** [[Vumbua Academy]] - The sprawling mobile city-state, currently at rest
 
 ## Scene 1: The Bonfire at Block 99
 
@@ -42,11 +42,11 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
 
 **[Out of Character - Setting the Stage]**
 
-Vumbua Academy doesn't do anything small. 
+[[Vumbua Academy]] doesn't do anything small. 
 
 Tonight, scattered across the temporary industrial sprawl of Block 99, there are maybe 150-200 first-years gathered around makeshift fires. Construction scraps burn in metal drums. Contraband engine-hooch makes the rounds. Among the 70,000 students crammed into this repurposed expedition city, these bonfires are where the real introductions happen.
 
-Your party—Ignatius, Britt, Aggie, Loami, and Iggy—are vanishingly rare. Clan members at Vumbua number in the hundreds at most. You WILL be noticed.
+Your party—[[Ignatius]], [[Britt]], [[Aggie]], Loami, and [[Iggy]]—are vanishingly rare. Clan members at Vumbua number in the hundreds at most. You WILL be noticed.
 
 ---
 
@@ -76,7 +76,7 @@ The bonfire in Block 99 is one of dozens happening tonight across the Academy. T
 ## NPC Knowledge Boundaries
 
 **What is PUBLIC knowledge (most students know):**
-- **Harmony** is the ruling coalition that governs from Vumbua Academy
+- **Harmony** is the ruling coalition that governs from [[Vumbua Academy]]
 - The Academy trains **Exploranauts** (explorers/scouts) to map and integrate new territories
 - **Two clans** have been discovered and are being integrated:
   - **Ash-Bloods** (volcanic fire people) - discovered 24 months ago, ~200 at Academy
@@ -90,22 +90,22 @@ The bonfire in Block 99 is one of dozens happening tonight across the Academy. T
 **What is FRINGE knowledge (conspiracy theorists, academics, some nobles):**
 - The **"Sixfold Theory"** - a fringe academic theory that there should be six clans based on symbolic patterns
 - Speculation about "missing" Earth and Lightning clans (most people think this is nonsense)
-- Some wonder if there are other undiscovered clans beyond Ash-Bloods and Mizizi
+- Some wonder if there are other undiscovered clans beyond [[Ash-Bloods]] and [[Mizizi]]
 - Theories that the two known clans might be connected somehow (very fringe)
 
-**What is SECRET (Dean Isolde, researchers like Rill, maybe a few professors):**
+**What is SECRET ([[Dean Isolde Vane|Dean Isolde]], researchers like [[Rill]], maybe a few professors):**
 - The clans are parts of an ancient system/circuit
 - The integration percentages and why they matter
 - The Imperial Archive / Mizizi forest being a data storage system
 - The actual mechanics of "The Great Stitching"
-- **That other clans exist** (Wadi, Trench-Kin, Renali are completely unknown to Harmony)
+- **That other clans exist** ([[Wadi]], [[Trench-Kin]], [[Renali]] are completely unknown to Harmony)
 
 **NPC Knowledge by Background:**
-- **Harmony Nobles** (Percy, Val, Glimmer): Know official doctrine about Ash-Bloods and Mizizi, family business interests, political maneuvering
+- **Harmony Nobles** ([[Percival Vane-Smythe III|Percy]], Val, Glimmer): Know official doctrine about Ash-Bloods and Mizizi, family business interests, political maneuvering
 - **Legacy Kids** (Cassius, Silas): Read the manuals about the two known clans, know explorer protocols, heard family stories
-- **Workers/Grinders** (Ratchet, Brawn, Sarge): Practical knowledge about working with Ash-Bloods in boiler rooms, how things actually work
+- **Workers/Grinders** ([[Ratchet]], [[Brawn]], [[Sarge]]): Practical knowledge about working with Ash-Bloods in boiler rooms, how things actually work
 - **Researchers** (Rill): Secretly knows about other clans from Exchange system, but can't reveal this without exposing herself
-- **Students** (Serra, Mira, Lucky): Mix of textbook learning about the two clans and rumors, trying to piece things together
+- **Students** (Serra, [[Mira]], [[Lucky]]): Mix of textbook learning about the two clans and rumors, trying to piece things together
 
 **CRITICAL:** When NPCs say "the clans," they mean Ash-Bloods and Mizizi. Period. They don't know Wadi, Renali, or Trench-Kin exist.
 
@@ -118,15 +118,15 @@ The bonfire in Block 99 is one of dozens happening tonight across the Academy. T
 **NPCs (4):**
 
 - **Percival "Percy" Vane-Smythe III** (Human, Clean-Suit, pampered Harmony noble)
-- **Iron-Jaw Jax** (Construct/Warforged, veteran, scarred)
-- **Bramble** (Plant-person, possibly Mizizi-adjacent, vine-covered)
-- **Zephyr** (Mysterious student, crackling with static, rumored to be "void-touched") - students recognize her from the intake incident
+- **[[Iron-Jaw Jax]]** (Construct/Warforged, veteran, scarred)
+- **[[Bramble]]** (Plant-person, possibly Mizizi-adjacent, vine-covered)
+- **[[Zephyr]]** (Mysterious student, crackling with static, rumored to be "void-touched") - students recognize her from the intake incident
 
 **The Scene:**
 Percy is holding court about a fringe theory he read in some obscure academic journal. Most people think he's ridiculous, but he's got a chalkboard and he's very enthusiastic.
 
 - **Percy**: "I'll wager 50 sovereigns there's an Earth Clan underground! The 'Sixfold Theory' says there must be six total, not just two!"
-- **Jax**: (Dismissive) "Kid, that's academic nonsense. We found the Ash-Bloods and the Mizizi. That's probably all there is."
+- **[[Iron-Jaw Jax|Jax]]**: (Dismissive) "Kid, that's academic nonsense. We found the Ash-Bloods and the Mizizi. That's probably all there is."
 - **Percy**: "But the symmetry! Fire, Plant... there must be Water, Metal, Earth, Lightning! It *must* be complete!"
 - **Bramble**: (Quiet, thoughtful) "What if... they're not missing? What if we're the ones who forgot?"
 - **Zephyr**: (Nervous, crackling louder) "Or maybe the world really IS just broken. Not everything needs to be a pattern."
@@ -175,8 +175,8 @@ Percy is holding court about a fringe theory he read in some obscure academic jo
 - Some students recognize Zephyr from the intake incident and whisper about her
 - The players might be asked to weigh in (do the clans have theories about other clans?)
 - Percy might try to recruit them for an expedition to find the "missing" clans
-- Bramble will be particularly interested in Britt/Aggie as "forest kin"—might ask about "the flow" in the Petrified Forest
-- Jax might pull Ignatius aside and warn: "Kid, they'll work you till you burn out. Literally."
+- Bramble will be particularly interested in [[Britt]]/[[Aggie]] as "forest kin"—might ask about "the flow" in the Petrified Forest
+- Jax might pull [[Ignatius]] aside and warn: "Kid, they'll work you till you burn out. Literally."
 - Zephyr seems unusually nervous about this topic - why? And why did she sneak out to come here?
 
 ---
@@ -187,7 +187,7 @@ Percy is holding court about a fringe theory he read in some obscure academic jo
 
 - **Lucky** (Human, street-smart hustler, carrying a satchel)
 - **Sarge** (Gruff veteran, Loami's friend, drunk on engine-hooch)
-- **Pudge** (Rotund cook, soft-hearted enabler)
+- **[[Pudge]]** (Rotund cook, soft-hearted enabler)
 
 **The Scene:**
 Lucky is selling "answers" to tomorrow's Gen-Ed test. They're wrapped in sealed envelopes. Sarge is slumped nearby, muttering warnings that nobody listens to. Pudge is trying (and failing) to stop people from buying.
@@ -247,8 +247,8 @@ ts glory"
 **NPCs (3):**
 
 - **Seraphina "Serra" Vox** (Hiding her noble identity, eager anthropologist)
-- **Cassius Thorne** (Nervous bookish student, clearly smitten)
-- **Silas Thorne** (Cassius's rebellious cousin, amused spectator)
+- **[[Cassius Thorne]]** (Nervous bookish student, clearly smitten)
+- **[[Silas Thorne]]** (Cassius's rebellious cousin, amused spectator)
 
 **The Scene:**
 Serra has set up a cozy spot and is interviewing students about clan culture. Cassius is trying desperately to impress her by building an elaborate fire and demonstrating his knowledge, while Silas watches with barely concealed amusement.
@@ -305,8 +305,8 @@ Serra has set up a cozy spot and is interviewing students about clan culture. Ca
 **NPCs (4):**
 
 - **Valerius "Val" Sterling** (Dashing noble, Guild House Sterling heir)
-- **Lady Glimmer** (Elegant socialite, dripping with jewelry)
-- **Kindle** (Ash-Blood student, trying desperately to fit in)
+- **[[Lady Glimmer]]** (Elegant socialite, dripping with jewelry)
+- **[[Kindle]]** (Ash-Blood student, trying desperately to fit in)
 - **Mira** (Young student, starry-eyed, taking notes on everything)
 
 **The Scene:**
@@ -347,8 +347,8 @@ The "Legacy Kids"—descendants of famous explorers and wealthy families—have 
 
 - **Ratchet** (Goblin-ish mechanic, covered in oil)
 - **Brawn** (Large gentle construct, maintenance worker)
-- **Celia Vance** (Academy administrator, checking in on students)
-- **Theorem** (Academic student, slumming it, out of place)
+- **[[Celia Vance]]** (Academy administrator, checking in on students)
+- **[[Theorem]]** (Academic student, slumming it, out of place)
 
 **The Scene:**
 A group of Grinders—the maintenance crew and industrial workers—are eating "Fungal-Chips" and drinking engine-hooch. They're loud, laughing, and sharing war stories. Theorem (an upper-class academic type) is awkwardly trying to fit in. Celia Vance is doing her rounds, making sure nobody's getting *too* drunk.
@@ -390,7 +390,7 @@ A group of Grinders—the maintenance crew and industrial workers—are eating "
 
 - **Rill** (Mizizi/secretly Wadi researcher, always studying)
 - **Professor Ink** (Fungal biology specialist)
-- **Dean Isolde Vane** (possibly, if she's checking on research progress)
+- **[[Dean Isolde Vane]]** (possibly, if she's checking on research progress)
 
 **How to Find Her:**
 Rill is NOT at the bonfire—she's *always* studying. If Britt/Aggie (or curious PCs) ask around about "the other Mizizi," students will point them to the Fungal Labs.
@@ -416,19 +416,19 @@ Rill is deep in research, surrounded by glowing spore samples and resonance equi
 
 **Setting**:
 - A makeshift gathering in the "industrial" sector (Block 99).
-- The "Bonfire" is a burning pile of construction scraps in a pit, lit by chemical accelerants (or maybe a young Ash-Blood showing off—though with only ~200 Ash-Bloods at the Academy, that would draw a crowd).
+- The "Bonfire" is a burning pile of construction scraps in a pit, lit by chemical accelerants (or maybe a young Ash-Blood showing off—though with only ~200 [[Ash-Bloods]] at the Academy, that would draw a crowd).
 - About 150-200 students gathered, mostly first-years with some upperclassmen.
 
 **Key Dynamic**:
-The PCs (especially Ignatius, Britt, and Aggie) will likely attract attention simply for being clan members. Among 70,000 students, perhaps only a few hundred are from the clans—making them exotic curiosities to most Harmony citizens.
+The PCs (especially [[Ignatius]], [[Britt]], and [[Aggie]]) will likely attract attention simply for being clan members. Among 70,000 students, perhaps only a few hundred are from the clans—making them exotic curiosities to most Harmony citizens.
 
 **Key NPCs & Encounters**:
 See **The Bonfire Hooks** section above for detailed encounter groups:
-1. The Speculators' Debate (Percy, Jax, Bramble, Zephyr)
-2. Lucky's Scam Operation (Lucky, Sarge, Pudge)
+1. The Speculators' Debate ([[Percival Vane-Smythe III|Percy]], [[Iron-Jaw Jax|Jax]], [[Bramble]], [[Zephyr]])
+2. [[Lucky]]'s Scam Operation (Lucky, [[Sarge]], [[Pudge]])
 3. Serra's Fire Pit (Serra, Cassius, Silas)
-4. The Legacy Table (Val, Glimmer, Kindle, Mira)
-5. The Grinder's Truth (Ratchet, Brawn, Celia, Theorem)
+4. The Legacy Table (Val, Glimmer, [[Kindle]], [[Mira]])
+5. The Grinder's Truth ([[Ratchet]], [[Brawn]], Celia, [[Theorem]])
 
 **Additional Encounters**:
 - **Seraphina "Serra" Vox**: Hiding her family identity, eager to learn about the clans. She'll seek out Ignatius/Britt/Aggie to ask (possibly insensitive) questions.
@@ -440,11 +440,11 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
     - "Did you see that girl with the static? The one who kept crackling?"
     - "She refused to take the exam, just sat there babbling in some language no one understood."
     - "Then the DEAN herself came down and took the exam WITH her, like they were old friends or something."
-    - "I saw them leave together afterward. The Dean took her somewhere. Probably the fungal labs?"
+    - "I saw them leave together afterward. [[Dean Isolde Vane|The Dean]] took her somewhere. Probably the fungal labs?"
     - "Wait—isn't that HER over there by the fire? How did she get out?"
-    - "She's definitely some kind of clan member, right? But which one? She didn't look like Ash-Blood or Mizizi..."
+    - "She's definitely some kind of clan member, right? But which one? She didn't look like Ash-Blood or [[Mizizi]]..."
     - This creates mystery and makes Zephyr a person of interest to observant PCs
-    - **GM Note**: Zephyr got bored with Dean Isolde and Rill studying/talking, so she snuck out to see what the bonfire was about
+    - **GM Note**: Zephyr got bored with [[Dean Isolde Vane|Dean Isolde]] and [[Rill]] studying/talking, so she snuck out to see what the bonfire was about
 
 ## Scene 2: The Semester Montage (Weeks 1-4)
 
@@ -465,7 +465,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 
 **Setting**:
 - A massive "Exam Hall" with thousands of clacking brass terminals.
-- **Dean Isolde Vane** presides from a floating podium.
+- **[[Dean Isolde Vane]]** presides from a floating podium.
 
 **The Assessment**:
 **The Assessment**:
@@ -477,7 +477,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 - The default "harmony" answers are technically correct, but the "Savant" answers show you know the *reality* of the world (e.g. Steam powered by Crystal Batteries = Arcane Tech).
 
 **The Twist**:
-- Mid-exam, the screens glitch. A "Live Feed" from a real explorer pops up, showing something terrifying (a void-beast? a total wipeout?) before being cut. The Dean claims it was "Part of the stress test".
+- Mid-exam, the screens glitch. A "Live Feed" from a real explorer pops up, showing something terrifying (a void-beast? a total wipeout?) before being cut. [[Dean Isolde Vane|The Dean]] claims it was "Part of the stress test".
 
 ## Scene 4: Practical Assessment - "The Simulations" (Afternoon)
 
@@ -487,7 +487,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 
 **The Activity (Dice Rolls from Survey)**:
 1.  **Aether-Graph Plot (Agility)**: Plotting navigation in a non-Euclidean archipelago.
-    -   *Iggy's Secret*: The shapes make sense to him (+2 Bonus).
+    -   *[[Iggy]]'s Secret*: The shapes make sense to him (+2 Bonus).
 2.  **The Density Chamber (Constitution/Strength)**: Surviving 400% gravity.
     -   *Iggy's Secret*: He's used to deep pressure (+2 Bonus).
 3.  **The Blind Fly (Instinct)**: Landing a ship with no visibility.
@@ -504,7 +504,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 ## World Building Details
 
 **Food & Drink**:
-- *Bonfire Snacks*: "Magma-Pop" (spicy popcorn cooked on Ash-Blood skin), "Fungal-Chips" (Mizizi snacks, widely popular), "Engine-Hooch" (strong, oily alcohol).
+- *Bonfire Snacks*: "Magma-Pop" (spicy popcorn cooked on Ash-Blood skin), "Fungal-Chips" ([[Mizizi]] snacks, widely popular), "Engine-Hooch" (strong, oily alcohol).
 - *Academy Food*: "Nutri-Paste" (efficient, bland) vs "Captain's Table" (real food for high ranks).
 
 **Music & Culture**:
@@ -526,7 +526,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
     - *Decision*: Hard clock times for Academy (regimented, industrial).
 
 3.  **Names**:
-    - *Decision*: "Ignatius of Magma" is a pretentious title. Rill is the only other Mizizi.
+    - *Decision*: "[[Ignatius]] of Magma" is a pretentious title. [[Rill]] is the only other [[Mizizi]].
 
 4.  **Tech Level**:
     - *Clarification*: **Crystal-Punk**. Common tech is Steam/Mechanical, but the *energy source* is Harmony Crystal Batteries (Arcane-like).

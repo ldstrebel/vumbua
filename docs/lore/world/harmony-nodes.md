@@ -1,11 +1,13 @@
 ---
-title: "Harmony's Integrated Nodes"
-parent: World
+aliases:
+  - "Harmony's Integrated Nodes"
+tags:
+  - world-lore
 ---
 
 # Harmony's Integrated Nodes
 
-Every territory in Harmony is anchored by a **node**---a pocket of concentrated reality that produces a unique elemental resource. When integrated, these nodes contribute to Harmony's Global Amplitude and provide materials that shape civilization.
+Every territory in Harmony is anchored by a **node**---a pocket of concentrated reality that produces a unique elemental resource. When integrated, these nodes contribute to Harmony's [[The Power System|Global Amplitude]] and provide materials that shape civilization.
 
 ## Node Power Scale
 
@@ -24,7 +26,7 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 1. Gilded (Major)
 - **Resource:** Chime Spires (Resonators)
-- **Faction:** House Gilded (The Highborne)
+- **Faction:** [[House Gilded]] ([[House Gilded|The Highborne]])
 - **Description:** Home city of House Gilded. The Chime Spires are musical, organ-like structures that synchronize raw ether into usable power. They are the foundation of Harmony's entire energy infrastructure.
 - **Status:** Core Harmony territory. The original spires still function as the backbone of the power grid.
 
@@ -71,7 +73,7 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 10. Bloomfield
 - **Resource:** Clockwork Blooms
-- **Faction:** Scrivener Guild (The Loreborne)
+- **Faction:** [[Scrivener Guild]] ([[Scrivener Guild|The Loreborne]])
 - **Description:** Flowers that bloom with mechanical precision every 60 seconds. For centuries, Clockwork Blooms were the standard unit of timekeeping across Harmony before more precise instruments were developed. The Scriveners adopted these as their timekeeping standard, essential for synchronizing maps, logs, and research across the empire.
 - **Status:** Integrated. Historical significance; still used ceremonially.
 
@@ -118,5 +120,5 @@ The six ancient clan nodes exist outside Harmony's network. They are Major in si
 ### The Trail-Tail Trench (Minor, Unintegrated)
 
 - **Resource:** Trail-Tail Seeds
-- **Description:** When ingested, these seeds cause the consumer to leave a glowing trail of light behind them, like a Tron light-cycle. Found in the deep waters of the Trench-Kin territory. Fish there use the seeds naturally, creating bioluminescent trails through the dark water.
+- **Description:** When ingested, these seeds cause the consumer to leave a glowing trail of light behind them, like a Tron light-cycle. Found in the deep waters of the [[Trench-Kin]] territory. Fish there use the seeds naturally, creating bioluminescent trails through the dark water.
 - **Status:** Not integrated. No city or settlement---this is a wild node in Trench-Kin territory.

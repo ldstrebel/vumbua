@@ -1,15 +1,21 @@
+---
+tags:
+  - npc
+  - squad-05
+---
+
 # Bramble
 
 **Role:** Squad 05 (The Harvesters) - Member
 **Race:** Plant-kin
-**Affiliation:** Vumbua Academy, Mizizi (Plant-Kin?)
+**Affiliation:** [[Vumbua Academy]], [[Mizizi]] (Plant-Kin?)
 **Status:** Active
 
 ## Overview
-Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure what Bramble is---plant-person? Harmony botanist who got weird? Mizizi-adjacent? Member of Squad 05, The Harvesters.
+Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure what Bramble is---plant-person? Harmony botanist who got weird? [[Mizizi]]-adjacent? Member of Squad 05, The Harvesters.
 
 ## Session 2 Appearance
-At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While Percy argued for missing clans and Jax dismissed the idea, Bramble offered the most provocative perspective:
+At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While [[Percival Vane-Smythe III|Percy]] argued for missing clans and [[Iron-Jaw Jax|Jax]] dismissed the idea, Bramble offered the most provocative perspective:
 
 *"What if they are not the missing? What if we are the ones who forgot?"*
 

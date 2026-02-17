@@ -8,18 +8,18 @@ Vumbua is a **Daggerheart campaign** set in a Magitek-Steampunk world inspired b
 
 ### The Setting
 
-**Vumbua Academy** is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation. For the first time in generations, new lands have been discovered—and new mysteries await.
+**[[Vumbua Academy]]** is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation. For the first time in generations, new lands have been discovered—and new mysteries await.
 
 The Academy has accepted its largest intake class ever: 100,000 candidates. Most won't make it through the trials.
 
 ### The Players
 
 Our story follows five unlikely students:
-- **Britt** - A gray fungal-turtle Mizizi, suspicious of Harmony's motives
-- **Aggie** - Britt's cousin, a red-spotted Mizizi seeking answers
-- **Ignatius** - An Ash-Blood on a pilgrimage to find new heat for his clan
-- **Lomi** - A Harmony-born boiler room worker, proud of his craft
-- **Iggy** - A mysterious Earthkin tinkerer with endless curiosity
+- **[[Britt]]** - A gray fungal-turtle [[Mizizi]], suspicious of Harmony's motives
+- **[[Aggie]]** - Britt's cousin, a red-spotted Mizizi seeking answers
+- **[[Ignatius]]** - An Ash-Blood on a pilgrimage to find new heat for his clan
+- **[[Lomi]]** - A Harmony-born boiler room worker, proud of his craft
+- **[[Iggy]]** - A mysterious [[Trench-Kin|Earthkin]] tinkerer with endless curiosity
 
 ---
 

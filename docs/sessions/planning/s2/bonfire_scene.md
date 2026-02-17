@@ -1,8 +1,8 @@
 # Scene 1: The Bonfire (Block 99)
 
-**Setting:** Night. The industrial sector around Block 99 (Copper/Worker dorms). A geothermal plant with steam stacks forms the backdrop. The "Bonfire" is a burning pile of construction scraps in a pit---the students managed the airflow but couldn't light it until Ignatius arrived. Far above, the lights of the Sky-Spire shimmer where the Gold-tier galas are held. Down here, the air smells of smoke, engine grease, and possibility.
+**Setting:** Night. The industrial sector around Block 99 (Copper/Worker dorms). A geothermal plant with steam stacks forms the backdrop. The "Bonfire" is a burning pile of construction scraps in a pit---the students managed the airflow but couldn't light it until [[Ignatius]] arrived. Far above, the lights of the Sky-Spire shimmer where the Gold-tier galas are held. Down here, the air smells of smoke, engine grease, and possibility.
 
-**Arrived via:** Serra Vox's invitation at the crane (end of Session 1).
+**Arrived via:** [[Serra Vox]]'s invitation at the crane (end of Session 1).
 
 **Time Pressure:** Tomorrow at 8:00 AM is the first class: **Gen-Ed Exploration 101**. Players can stay as long as they want, but sleep deprivation could have consequences.
 
@@ -55,9 +55,9 @@ Serra is still buzzing from meeting the party at the crane. She's planted hersel
 > "So I was thinking---and please tell me if this is weird---but what if we formed a study group? I mean, not a *formal* one, obviously. I just think it would be really, really fascinating to compare notes. You know, cross-cultural academic synergy?"
 
 **If players are receptive:**
-> "Can I ask you something? The fire---Ignatius's fire---it's *different*, right? It's not Safe-Flame. I've been studying Harmonic Theory for six years and I've never seen anything resonate like that. The frequency is all wrong. It should be chaotic but it's... beautiful?"
+> "Can I ask you something? The fire---[[Ignatius]]'s fire---it's *different*, right? It's not Safe-Flame. I've been studying Harmonic Theory for six years and I've never seen anything resonate like that. The frequency is all wrong. It should be chaotic but it's... beautiful?"
 
-**If players are hostile (likely from Britt/Ignatius):**
+**If players are hostile (likely from [[Britt]]/Ignatius):**
 > (Deflating) "I'm sorry. I know I'm being a lot. I just... nobody at the Spire parties actually *talks* about anything real. They just compare receipts. You're the first people who seem like you're actually *here* for something."
 
 > [!TIP]
@@ -65,7 +65,7 @@ Serra is still buzzing from meeting the party at the crane. She's planted hersel
 > Serra knows the difference between Geometric (Harmony) and Variance (Wild) magic. She's noticed Ignatius's fire doesn't follow Harmony's frequency patterns. This is the first hint that Wild Magic operates on different physics.
 
 **GM Notes:**
-- Serra is genuinely kind but socially clumsy. She is from House Vox (Gold-tier nobility) but is hiding that from the party. She's assigned to Squad 01 (The Echelon) with Valerius Sterling, who she privately dislikes.
+- Serra is genuinely kind but socially clumsy. She is from House Vox (Gold-tier nobility) but is hiding that from the party. She's assigned to Squad 01 (The Echelon) with [[Valerius Sterling]], who she privately dislikes.
 - If Britt pushes hard on "what's your deal?", Serra will nervously deflect but drop breadcrumbs: she mentions "the gala" at the Spire (implying she was invited but chose to come here instead).
 - Her notebook contains surprisingly accurate sketches of Ash-Blood fire patterns. She's been observing Ignatius since the intake.
 
@@ -80,7 +80,7 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 > (Jumping when approached) "Shh! I'm not supposed to be here. My family is at the Arch-Duke's gala, but... I needed to study. Did you know the manual actually recommends a Synchronized Helix for the Z-Axis Paradox? Everyone else just brute-forces it."
 
 **If players study with him:**
-> "The Gen-Ed exam tomorrow isn't what you think. It's not written. It's a field exercise. Professor Hesperus takes you outside the perimeter. Like, *actually* outside. Past the construction zone. My brother told me---he said the first ten minutes are fine, and then the fog rolls in."
+> "The Gen-Ed exam tomorrow isn't what you think. It's not written. It's a field exercise. Professor [[Hesperus]] takes you outside the perimeter. Like, *actually* outside. Past the construction zone. My brother told me---he said the first ten minutes are fine, and then the fog rolls in."
 
 **If players ask about his family:**
 > (Uncomfortable) "My family is... Thorne. As in, the Thornes. Captain Elara Thorne is my... it doesn't matter. I'm just tired of being 'a Thorne.' I want to earn something myself."
@@ -94,7 +94,7 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 > It's a field exercise, not a written test. Professor Hesperus takes students outside the perimeter. Fog is involved. Cassius's brother warned him about the first ten minutes.
 
 **GM Notes:**
-- Cassius is Cassius **Thorne**---son of Captain Elara Thorne, the exploranaut who first contacted the Ash-Bloods and escorted Lady Ignis to Harmony Seat. He's Squad 01 but hates the pressure of his family name.
+- Cassius is Cassius **Thorne**---son of Captain Elara Thorne, the exploranaut who first contacted the [[Ash-Bloods]] and escorted [[Lady Ignis]] to Harmony Seat. He's Squad 01 but hates the pressure of his family name.
 - He is genuinely nice and could become a real ally if the party treats him well.
 - His "brother" is an older Thorne who graduated two years ago and is currently stationed at the Ash-Blood Integration Site.
 
@@ -103,7 +103,7 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 ### Lucky
 *The Hustler (Rust / Rogue / Squad 09)*
 
-Lucky is working the crowd with a bag of dubiously-acquired goods. He's already wearing a different hat than when the party last saw him (he traded Iggy's trumpet for something better). He recognizes Iggy immediately.
+[[Lucky]] is working the crowd with a bag of dubiously-acquired goods. He's already wearing a different hat than when the party last saw him (he traded [[Iggy]]'s trumpet for something better). He recognizes Iggy immediately.
 
 **Opening:**
 > "Hey! Bug-Eyes! You owe me---that trumpet thing you gave me? It works. Too well. Blew it in the barracks and three guys went deaf for an hour. I love it." (Grinning) "So, what do you need tonight? Maps? Answers? Or the truth about the Void-Lily?"
@@ -132,7 +132,7 @@ Lucky is working the crowd with a bag of dubiously-acquired goods. He's already 
 **GM Notes:**
 - Lucky is Rust-rank (Squad 09 / The Ablative---trap detection duty). He survived by being fast and useful.
 - He already traded with Iggy in Session 1. He views Iggy as a fellow outsider and potential business partner.
-- The Broker Silas (Syndicate of Sails) is already trying to recruit Lucky as an informant. If players befriend Lucky, they may accidentally get on the Syndicate's radar.
+- The Broker Silas ([[Syndicate of Sails]]) is already trying to recruit Lucky as an informant. If players befriend Lucky, they may accidentally get on the Syndicate's radar.
 - Lucky's "maps" are real but incomplete. The maintenance tunnels connect to the Walker-Core---and the Loom.
 
 ---
@@ -140,7 +140,7 @@ Lucky is working the crowd with a bag of dubiously-acquired goods. He's already 
 ### Sarge
 *The Veteran (Copper / Warrior / Squad 09)*
 
-Sarge is sitting on an overturned crate near the steam vents, nursing a flask of something that smells like engine coolant. He recognizes Lomi from the workers' campfires before the Academy existed.
+[[Sarge]] is sitting on an overturned crate near the steam vents, nursing a flask of something that smells like engine coolant. He recognizes [[Lomi]] from the workers' campfires before the Academy existed.
 
 **Opening:**
 > (To Lomi specifically) "Loaves! You made it past Day One. That's more than I can say for about ten thousand of those poor bastards." (Takes a drink) "You kids worry too much about the test. You should worry about what's left of you when the mist takes your legs."
@@ -164,7 +164,7 @@ Sarge is sitting on an overturned crate near the steam vents, nursing a flask of
 
 > [!TIP]
 > **Gain Insight: The Boiler Problem** *(Lomi only)*
-> The engines are stuttering. The official line is "upgrades," but Sarge---who has worked engines his whole life---says something is dying. This is the first breadcrumb toward The Minimum.
+> The engines are stuttering. The official line is "upgrades," but Sarge---who has worked engines his whole life---says something is dying. This is the first breadcrumb toward [[The Minimum]].
 
 **GM Notes:**
 - Sarge is Lomi's strongest existing relationship at the Academy. They bonded over campfires during the construction phase, before the intake.
@@ -176,7 +176,7 @@ Sarge is sitting on an overturned crate near the steam vents, nursing a flask of
 ### Nyx
 *The Shadow (Silver / Rogue / Squad 03 "The Silence")*
 
-Nyx is barely visible at the edge of the firelight. She's a Whisper-Elf with ash-grey skin who looks like she's part of the smoke. She doesn't approach anyone---but she watches everything. If a player specifically seeks her out, she speaks in a near-whisper.
+[[Nyx]] is barely visible at the edge of the firelight. She's a Whisper-Elf with ash-grey skin who looks like she's part of the smoke. She doesn't approach anyone---but she watches everything. If a player specifically seeks her out, she speaks in a near-whisper.
 
 **Opening:**
 > (Not looking at the player) "You're loud. All of you. The fire is loud. The laughter is loud. Do you know what happens when you're loud near a Node?" (Pause) "It weeps."
@@ -192,7 +192,7 @@ Nyx is barely visible at the edge of the firelight. She's a Whisper-Elf with ash
 
 > [!TIP]
 > **Gain Insight: Resonance**
-> You can't cure sadness with a hammer. You have to cry with it. **(Sympathetic Dissonance/Match Frequency)** --- this is the key to the Mizizi integration puzzle.
+> You can't cure sadness with a hammer. You have to cry with it. **(Sympathetic Dissonance/Match Frequency)** --- this is the key to the [[Mizizi]] integration puzzle.
 
 **GM Notes:**
 - Nyx is the most dangerous NPC at this bonfire. She is perceptive enough to notice something is off about Iggy. Her question about "deep water and stone" is the first time anyone has questioned Iggy's cover story.
@@ -204,7 +204,7 @@ Nyx is barely visible at the edge of the firelight. She's a Whisper-Elf with ash
 ### Kojo
 *The Help Desk (Silver / Mizizi / Faculty-Adjacent)*
 
-Kojo is a Mizizi Silver-rank student who has been at the Academy for over a year. He's physically similar to Britt and Aggie---a fungal-turtle hybrid---but his coloring is different: deep amber with golden spots. He's tending the bonfire, adding carefully selected scraps to maintain the burn.
+[[Kojo]] is a Mizizi Silver-rank student who has been at the Academy for over a year. He's physically similar to Britt and [[Aggie]]---a fungal-turtle hybrid---but his coloring is different: deep amber with golden spots. He's tending the bonfire, adding carefully selected scraps to maintain the burn.
 
 **Opening (to Britt and Aggie specifically):**
 > (In Mizizi, then switching to Common) "Cousins! I heard we had new roots arriving. Welcome to the Sterile Field." (Gestures at the Academy) "Don't worry---you get used to the lack of rot. Eventually."
@@ -212,15 +212,15 @@ Kojo is a Mizizi Silver-rank student who has been at the Academy for over a year
 **If Britt/Aggie ask about the Academy:**
 > "The Harmony students are... kind. In the way that people are kind to a pet. They admire the shell, they ask about the spores, but they don't understand that we are the scroll *and* the ink." (Beat) "We are not just roots. Remember that."
 
-**If they ask about Rill:**
+**If they ask about [[Rill]]:**
 > "Rill? She's been here longer than me. She came from the forest, but she's... different now. Cleaner. Faster. She works directly with the Dean. I barely see her anymore." (Carefully) "She's been asking questions about the trees. Not the usual questions. Deeper ones. About what the trees *remember*."
 
 **If they ask about the forest:**
-> "They want to burn it. The Verdant Trust---the food people from the capital---they want to mulch every tree and ship the soil home. They say Harmony Prime's farms are dying." (Drops voice) "But Exploranaut Mosi is fighting them. He says the trees aren't just wood. He says they're... libraries."
+> "They want to burn it. [[The Verdant Trust]]---the food people from the capital---they want to mulch every tree and ship the soil home. They say Harmony Prime's farms are dying." (Drops voice) "But Exploranaut Mosi is fighting them. He says the trees aren't just wood. He says they're... libraries."
 
 > [!TIP]
 > **Gain Insight: The Mizizi Crisis**
-> The Verdant Trust wants to mulch the Petrified Forest for fertilizer. Exploranaut Mosi believes the trees are "libraries." Rill is asking deep questions about what the trees remember.
+> The [[The Verdant Trust|Verdant Trust]] wants to mulch the Petrified Forest for fertilizer. Exploranaut Mosi believes the trees are "libraries." Rill is asking deep questions about what the trees remember.
 
 > [!TIP]
 > **Gain Insight: Rill's Research**
@@ -245,7 +245,7 @@ The bonfire is burning Ignatius's True Flame---Variance (Wild) magic, not Harmon
 **What Ignatius notices (Ash-Blood perception):**
 > The fire is... hungry. It's eating the construction scraps, but it's reaching for something else. The flames lean toward Iggy, then toward the Mizizi students, then back to you. It's tasting the air around each clan member. You've never seen fire do this before.
 
-**What Iggy notices (Trench-Kin perception):**
+**What Iggy notices ([[Trench-Kin]] perception):**
 > The ground under the bonfire pit is vibrating. Not from the heat---from something deeper. You can feel it through your feet like a low hum. It's the same frequency as the pressure waves back home. Something underground is... responding to the fire.
 
 **What Britt/Aggie notice (Mizizi perception):**
@@ -267,7 +267,7 @@ The bonfire is burning Ignatius's True Flame---Variance (Wild) magic, not Harmon
 ### Wander Away
 *The Industrial Zone at Night*
 
-If a player (likely Iggy) decides to wander away from the bonfire:
+If a player (likely [[Iggy]]) decides to wander away from the bonfire:
 
 **The Construction Zone:** Cranes stand still like sleeping giants. Worker-Constructs are in low-power mode, occasionally twitching. The half-built campus stretches into darkness.
 
@@ -286,17 +286,17 @@ If a player (likely Iggy) decides to wander away from the bonfire:
 
 If a player goes to bed early, they get a full night's rest (mechanical benefit for tomorrow's exam). But they dream:
 
-- **Ignatius dreams:** His volcano, roaring. But the lava is flowing *toward* something, not erupting outward. It's reaching.
+- **[[Ignatius]] dreams:** His volcano, roaring. But the lava is flowing *toward* something, not erupting outward. It's reaching.
 - **Iggy dreams:** The pressure of home. But for the first time, the darkness isn't comforting. Something is pushing *back* from below.
-- **Britt/Aggie dream:** The Petrified Forest. The trees are humming. Not the usual creaking---humming. Like they're trying to sing a song they've forgotten.
-- **Lomi dreams:** The boiler room. The gauges are all red. A voice says: "Patch the engine. Patch the engine. Patch the engine." When he reaches for the wrench, his hand passes through it.
+- **[[Britt]]/[[Aggie]] dream:** The Petrified Forest. The trees are humming. Not the usual creaking---humming. Like they're trying to sing a song they've forgotten.
+- **[[Lomi]] dreams:** The boiler room. The gauges are all red. A voice says: "Patch the engine. Patch the engine. Patch the engine." When he reaches for the wrench, his hand passes through it.
 
 ---
 
 ## Scene Transitions
 
-**If players stay late:** They see the Gold-tier students leaving the Sky-Spire gala. One of them---Valerius Sterling---pauses at the railing and looks down at the bonfire with visible contempt. Serra notices and goes quiet.
+**If players stay late:** They see the Gold-tier students leaving the Sky-Spire gala. One of them---[[Valerius Sterling]]---pauses at the railing and looks down at the bonfire with visible contempt. Serra notices and goes quiet.
 
-**If players leave together:** Walking back to their dorms, they pass the Clan Assistance Office. The lights are on. Inside, Rill is alone at a desk, surrounded by stacks of bark samples. She doesn't notice them.
+**If players leave together:** Walking back to their dorms, they pass the Clan Assistance Office. The lights are on. Inside, [[Rill]] is alone at a desk, surrounded by stacks of bark samples. She doesn't notice them.
 
 **Morning After:** Regardless of choices, all players wake to a bullhorn announcement: *"GEN-ED EXPLORATION 101. COURTYARD. 0800. DO NOT BE LATE. PROFESSOR HESPERUS DOES NOT WAIT."*

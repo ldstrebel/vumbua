@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-07
+---
+
 # Pressure
 
 **Role:** Squad 07 (The Bathysphere) - Member
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

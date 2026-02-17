@@ -2,7 +2,7 @@
 
 **Date:** 2026-02-16  
 **Session Number:** 2.5  
-**Players Present:** Iggy (Holly)  
+**Players Present:** [[Iggy]] (Holly)  
 **Type:** 1-on-1 side session (concurrent with Session 2 bonfire)
 
 ---
@@ -23,7 +23,7 @@ While the rest of the party socializes at the Block 99 bonfire, Iggy Irish-goodb
 
 *GM Narration:*
 
-Iggy has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the Mizizi clan explaining why death is a part of life. As Nick — as Ignatius got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
+[[Iggy]] has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the [[Mizizi]] clan explaining why death is a part of life. As Nick — as [[Ignatius]] got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
 
 He just kind of Irish-goodbyed. Didn't say anything to anybody. Slipped away the moment he could sneak out without them noticing.
 
@@ -47,7 +47,7 @@ At the same time, something else caught his eye: just next to where the fire was
 ### Scene 2: The Lobby — Tommy and Lucina
 
 **Location:** Power Plant lobby, Walker-Core  
-**NPCs Present:** Tommy (gnome clerk), Lucina (dwarf mechanic)  
+**NPCs Present:** [[Tommy]] (gnome clerk), [[Lucina]] (dwarf mechanic)  
 **Time:** Evening, Day 1
 
 *GM Narration:*
@@ -83,14 +83,14 @@ They both watched Iggy walk by. Neither of them really followed him. Lucina aske
 **Player Discoveries:**
 - The power plant is staffed by non-students (Tommy is a clerk, Lucina is a maintenance worker)
 - Security is minimal — nobody stopped Iggy from walking through
-- Tommy wants to apply to Vumbua Academy next year
+- Tommy wants to apply to [[Vumbua Academy]] next year
 
 ---
 
 ### Scene 3: The Warehouse Floor
 
 **Location:** Power Plant main floor, Walker-Core  
-**NPCs Present:** Marla (background, human maintenance worker)  
+**NPCs Present:** [[Marla]] (background, human maintenance worker)  
 **Time:** Evening, Day 1
 
 *GM Narration:*
@@ -115,7 +115,7 @@ He goes in to compare notes — not to copy someone else's work, but to check if
 ### Scene 4: The Chalkboard — Panda 5 Resonator Battery
 
 **Location:** Power Plant office / chalkboard area  
-**NPCs Present:** Professor Kante (appears mid-scene)  
+**NPCs Present:** [[Professor Kante]] (appears mid-scene)  
 **Time:** Late evening, Day 1
 
 *GM Narration:*
@@ -126,7 +126,7 @@ Two items are on the chalkboard:
 The blue box with all the arrows inside it matches the little glowing gems. They're about car-battery sized, with an internal matrix of hexes and triangles that glow softly. These are plugged into the panels downstairs. There's also a large filing cabinet with several of them stored inside. A bunch of terms Iggy wouldn't understand, but he can read all of it. The closest thing to what he's already drawn: a battery-looking thing with a handle and a little antenna sticking out of the top corner.
 
 **Right side — Chart and annotations:**
-A chart with words, numbers, red scratch-outs, stars, and question marks. A number keeps appearing: "Global Amplitude" — the absolute highest amount of energy, the faucet turned on full. A red line drawn across, a blue line going right, then a second red line. The line tapers, plateaus, then starts to drop toward a dotted line.
+A chart with words, numbers, red scratch-outs, stars, and question marks. A number keeps appearing: "[[The Power System|Global Amplitude]]" — the absolute highest amount of energy, the faucet turned on full. A red line drawn across, a blue line going right, then a second red line. The line tapers, plateaus, then starts to drop toward a dotted line.
 
 *Knowledge roll: 22 with Hope*
 
@@ -175,7 +175,7 @@ Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Lean
 
 **Professor Kante:** "You do? Maybe you can tell me what you think about the Ash-Blood surge."
 
-**Iggy:** "I don't know nothin' about no Ash-Bloods. I just met the first two t'day. But I do feel like you got a big give‑and‑take situation over here, an' I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
+**Iggy:** "I don't know nothin' about no [[Ash-Bloods]]. I just met the first two t'day. But I do feel like you got a big give‑and‑take situation over here, an' I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
 
 **Player Discoveries:**
 - The Panda 5 is the current generation of resonator battery
@@ -329,7 +329,7 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 - **Panda 5 batteries are regulators, not storage** — they cap the faucet and output consistent energy; they are "receptors"
 - **The Apex line was scrapped** — Kante's next-gen battery designed for a post-surge world is now useless
 - **Kante's theory**: The key to integration is connection between cultures — finding something so internal to your culture that it bridges the divide. Like two tribes discovering fire separately and teaching each other the word for flame.
-- **The Trench-Kin are known to Harmony** — Kante mentions "trail tales from the Trench" as part of what defends Harmony's borders
+- **The [[Trench-Kin]] are known to Harmony** — Kante mentions "trail tales from the Trench" as part of what defends Harmony's borders
 - **The Exchange ritual is unknown to Kante** — this surprises him, suggesting it's a clan-only practice
 - **Kante suspects Iggy is from an isolated, unintegrated sect** but doesn't push further
 
@@ -392,17 +392,17 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 ## Session Outcomes
 
 ### Character Development
-- **Iggy:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
+- **[[Iggy]]:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
 
 ### Party Relationships
 - Iggy Irish-goodbyed from the bonfire but rejoined the group for the Celestial Lounge trip
-- He noticed Ignatius looking back at him — the connection is building even when Iggy wanders
+- He noticed [[Ignatius]] looking back at him — the connection is building even when Iggy wanders
 - Iggy is now running "connection experiments" with his new friends
 
 ### World State Changes
-- **Professor Kante** is now an active NPC — he's recruited Iggy as a collaborator
+- **[[Professor Kante]]** is now an active NPC — he's recruited Iggy as a collaborator
 - **The Ash-Blood Anomaly** is now directly known to Iggy (but not the rest of the party)
-- **The Global Amplitude decline** has been revealed (to one player)
+- **The [[The Power System|Global Amplitude]] decline** has been revealed (to one player)
 - Iggy possesses an **umber crystal** — a physical piece of the power infrastructure
 - Iggy mentioned **the Exchange** to Kante, who had never heard of it
 
@@ -417,25 +417,25 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 
 ## Lore Updates
 
-- [x] Update [Professor Kante](../../lore/characters/npcs/professor-kante.md) — now met by Iggy
-- [x] Update [Knowledge Tracker](../../lore/knowledge-tracker.md) — Iggy now knows about GA decline, batteries, anomaly
-- [x] Update [Timeline](../../lore/timeline.md) — Session 2.5 is no longer [Planned]
-- [x] Update [Iggy](../../characters/player-characters/iggy.md) — new mechanics, umber crystal, Kante connection
-- [x] Add new entries about umber crystals and Panda 5 to [Glossary](../../lore/glossary.md)
+- [x] Update [[Professor Kante]] — now met by [[Iggy]]
+- [x] Update [[Knowledge Tracker]] — Iggy now knows about GA decline, batteries, anomaly
+- [x] Update [[Timeline]] — Session 2.5 is no longer [Planned]
+- [x] Update [[Iggy]] — new mechanics, umber crystal, Kante connection
+- [x] Add new entries about umber crystals and Panda 5 to [[Glossary]]
 
 ---
 
 ## GM Reflections
 
 ### What Worked Well
-- The slow reveal through Iggy's own technical aptitude — he figured out the battery philosophy *before* Kante explained it
+- The slow reveal through [[Iggy]]'s own technical aptitude — he figured out the battery philosophy *before* Kante explained it
 - Kante's voice and personality — the slow-speaking tortoise professor was charming and memorable
 - Holly's player instincts — the Exchange question was the exact right insight
 - The umber crystal as a physical takeaway — gives Iggy something to tinker with
 
 ### Adjustments for Next Time
 - Kante's lecture could be tighter — he acknowledges "I feel like I am talking around in circles"
-- Marla (human mechanic on the floor) was present but never interacted with Iggy — could be revisited in a future visit for her backstory about failing out of the Academy
+- [[Marla]] (human mechanic on the floor) was present but never interacted with Iggy — could be revisited in a future visit for her backstory about failing out of the Academy
 
 ### Future Plot Threads to Develop
 - Iggy's five connection experiments — what does he test? What does he learn?

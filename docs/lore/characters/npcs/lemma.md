@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-04
+---
+
 # Lemma
 
 **Role:** Squad 04 (The Axiom) - Member
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

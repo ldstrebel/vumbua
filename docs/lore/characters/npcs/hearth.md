@@ -1,7 +1,13 @@
+---
+tags:
+  - npc
+  - squad-06
+---
+
 # Hearth
 
 **Role:** Squad 06 (The Kiln) - Member
-**Affiliation:** Vumbua Academy
+**Affiliation:** [[Vumbua Academy]]
 **Status:** Active
 
 ## Overview

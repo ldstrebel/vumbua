@@ -1,13 +1,13 @@
 ---
-title: "Lucina"
-parent: NPCs
+tags:
+  - npc
 ---
 
 # Lucina
 
 **Role:** Maintenance Worker, Power Room
 **Race:** Dwarf
-**Affiliation:** Vumbua Academy (staff)
+**Affiliation:** [[Vumbua Academy]] (staff)
 **Status:** Active
 
 ## Overview
@@ -23,4 +23,4 @@ Lucina sees no appeal in the danger and uncertainty of exploration. She's conten
 ## Session Appearances
 
 ### Session 2.5 - The Power Room
-- Present doing routine maintenance work when Iggy arrives
+- Present doing routine maintenance work when [[Iggy]] arrives

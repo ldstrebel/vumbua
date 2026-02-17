@@ -1,6 +1,10 @@
 ---
-title: "House Gilded (The Highborne)"
-parent: Harmony Factions
+aliases:
+  - "The Highborne"
+  - "The Vault"
+tags:
+  - faction
+  - harmony-house
 ---
 
 # House Gilded (The Highborne)
@@ -18,7 +22,7 @@ parent: Harmony Factions
 
 House Gilded is the aristocratic elite of Harmony. In the earliest days of the empire, they built the **Chime Spires**---musical resonators that synchronize raw ether into usable power. For the first 30-50 years, these Tesla-like spires sat atop buildings and harnessed ether directly into lights and other devices. House Gilded grew enormously wealthy from this monopoly on power.
 
-When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major node integration caused a 30% surge in the Global Amplitude, spiking all currents and causing massive fires---they pivoted from energy production to **banking**. They are now Harmony's treasury and financial backbone, though they retain deep ties to the resonator infrastructure. Their students wear polished uniforms and carry themselves with an air of entitlement.
+When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major node integration caused a 30% surge in the [[The Power System|Global Amplitude]], spiking all currents and causing massive fires---they pivoted from energy production to **banking**. They are now Harmony's treasury and financial backbone, though they retain deep ties to the resonator infrastructure. Their students wear polished uniforms and carry themselves with an air of entitlement.
 
 ## Key NPCs
 
@@ -29,7 +33,7 @@ When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major no
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### The "Minimum" Motive

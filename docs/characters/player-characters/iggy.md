@@ -1,3 +1,12 @@
+---
+aliases:
+  - "The Mole"
+tags:
+  - pc
+  - trench-kin
+  - gold-rank
+---
+
 # Iggy
 
 > *"Where am I?"*
@@ -32,10 +41,10 @@ Iggy is **bewildered, curious, and unconventional**. He navigates the world with
 
 ## Background
 
-Iggy's origins are deliberately mysterious. He may be connected to the **Trench-Kin**—an uncontacted clan that players don't yet know about.
+Iggy's origins are deliberately mysterious. He may be connected to the **[[Trench-Kin]]**—an uncontacted clan that players don't yet know about.
 
 - Parents were on the council — gave him access to most places in the Trench
-- Found the obsidian tablet (sent by Ash-Bloods rejecting the Exchange)
+- Found the obsidian tablet (sent by [[Ash-Bloods]] rejecting the Exchange)
 - Didn't fit in with the normal crowd — always the odd one out
 - Has a hidden "treasure trove" of collected trinkets and findings
 - Has never been caught sneaking anywhere — combination of parental access, nobody caring, and a natural ability to blend in
@@ -48,7 +57,7 @@ Iggy's origins are deliberately mysterious. He may be connected to the **Trench-
 - Why things work the way they do
 
 ### What He Now Knows (Session 2.5)
-- The Global Amplitude measures Harmony's total ether power — and it's declining
+- The [[The Power System|Global Amplitude]] measures Harmony's total ether power — and it's declining
 - The Ash-Blood integration only produced ~20 amps (expected +300 to +800)
 - Crystal batteries (Panda 5) are surge regulators, not storage
 - Integration works through cultural connection, not resource extraction
@@ -89,15 +98,15 @@ Iggy's origins are deliberately mysterious. He may be connected to the **Trench-
 ### Session 2 - The Bonfire
 - Socialized at the Block 99 bonfire — secretly enjoyed being included
 - Climbed a crane to "touch the sky"
-- Noticed Ignatius looking back at him — connection building
+- Noticed [[Ignatius]] looking back at him — connection building
 
 ### Session 2.5 - The Power Room (1-on-1 with Holly)
 - Irish-goodbyed from the bonfire when nobody was actively talking to him
 - Walked into the power plant uninvited — nobody stopped him
-- Met Tommy (gnome clerk) and Lucina (dwarf mechanic) in the lobby
+- Met [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby
 - Sketched the Panda 5 resonator batteries and decoded their design philosophy (Knowledge roll: 22 with Hope)
-- Discovered by Professor Kante, who was impressed by his technical intuition
-- Learned about the Global Amplitude decline and the Ash-Blood Anomaly
+- Discovered by [[Professor Kante]], who was impressed by his technical intuition
+- Learned about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly
 - Mentioned the Exchange to Kante — who had never heard of it
 - Received an umber crystal from Kante and an invitation to return as a collaborator
 - Designed five experiments to test "connection" with people
@@ -119,12 +128,12 @@ Iggy's origins are deliberately mysterious. He may be connected to the **Trench-
 
 ## GM Notes [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### True Origin: Trench-Kin [MAJOR SECRET]
 
-Iggy is likely from the **Trench-Kin**—one of the uncontacted clans. This origin is hidden from other players and should be revealed through gameplay.
+Iggy is likely from the **[[Trench-Kin]]**—one of the uncontacted clans. This origin is hidden from other players and should be revealed through gameplay.
 
 ### Plot Hooks
 - His bewilderment is genuine—he's from an entirely different society

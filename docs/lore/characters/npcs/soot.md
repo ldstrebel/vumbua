@@ -1,11 +1,17 @@
+---
+tags:
+  - npc
+  - rust-rank
+---
+
 # Soot
 
 **Role:** Rust-Rank Student / Block 99-Piston Roommate
-**Affiliation:** Vumbua Academy, Technical Track
+**Affiliation:** [[Vumbua Academy]], Technical Track
 **Status:** Active
 
 ## Overview
-A wide-eyed, anxious student who bunks with Lomi and Ratchet in Block 99-Piston. He treats Lomi like an expert because Lomi actually knows how a wrench works.
+A wide-eyed, anxious student who bunks with [[Lomi]] and [[Ratchet]] in Block 99-Piston. He treats Lomi like an expert because Lomi actually knows how a wrench works.
 
 ## Personality
 - Stuttering, quiet voice
@@ -16,7 +22,7 @@ A wide-eyed, anxious student who bunks with Lomi and Ratchet in Block 99-Piston.
 
 ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Bond

@@ -7,8 +7,8 @@
 ### What Players Know
 - ✅ The forest is petrified/stone
 - ✅ Harmony is helping them destroy it with solvents and tools
-- ✅ The Mizizi philosophy: "When things stop dying, we start dying"
-- ✅ Rill left the forest 2 years ago to research at Vumbua
+- ✅ The [[Mizizi]] philosophy: "When things stop dying, we start dying"
+- ✅ [[Rill]] left the forest 2 years ago to research at Vumbua
 - ✅ The forest doesn't have a clear "purpose" like other nodes---this puzzles Harmony scholars (Session 2)
 - ✅ There's a problem: "too much life"---things aren't dying properly (Session 2)
 - ✅ Mizizi view death as natural and celebrate the cycle; Harmony culture fears death (Session 2)
@@ -59,15 +59,15 @@
 ## Iggy's Origin
 
 ### What Players Know
-- ✅ Iggy is "Earthkin"
+- ✅ [[Iggy]] is "[[Trench-Kin|Earthkin]]"
 - ✅ He came up from the docks/water
 - ✅ He's extremely curious and inventive
 
 ### GM Secrets (Players Don't Know)
-- ❌ Iggy is **Trench-Kin** (from the deep earth/ocean)
+- ❌ Iggy is **[[Trench-Kin]]** (from the deep earth/ocean)
 - ❌ The Trench-Kin are completely uncontacted by Harmony
 - ❌ He's an infiltrator investigating the surface
-- ❌ The Ash-Bloods rejected the Exchange ritual (insulting the Trench-Kin)
+- ❌ The [[Ash-Bloods]] rejected the Exchange ritual (insulting the Trench-Kin)
 - ❌ He found the obsidian tablet and came to learn why
 
 ---
@@ -76,8 +76,8 @@
 
 ### What Players Know
 - ✅ Harmony "integrates" clans somehow
-- ✅ The Ash-Bloods are successfully integrated (volcanoes roaring)
-- ✅ The Mizizi integration is "incomplete" or "stalled"
+- ✅ The [[Ash-Bloods]] are successfully integrated (volcanoes roaring)
+- ✅ The [[Mizizi]] integration is "incomplete" or "stalled"
 
 ### GM Secrets (Players Don't Know)
 - ❌ Integration requires **two-way energy flow** (Inward + Outward)
@@ -91,14 +91,14 @@
 ## The Clans
 
 ### What Players Know
-- ✅ Mizizi live in petrified forest, fungal-turtle people
-- ✅ Ash-Bloods are volcanic forge-keepers with obsidian skin
+- ✅ [[Mizizi]] live in petrified forest, fungal-turtle people
+- ✅ [[Ash-Bloods]] are volcanic forge-keepers with obsidian skin
 - ✅ The Exchange Ritual exists (genetic diversity system)
-- ✅ Zephyr is a Storm-Kin who breaks the taboo openly
-- ✅ The "Sixfold Theory" exists---Percy theorizes Earth, Air, Water clans must exist (Session 2)
+- ✅ [[Zephyr]] is a Storm-Kin who breaks the taboo openly
+- ✅ The "Sixfold Theory" exists---[[Percival Vane-Smythe III|Percy]] theorizes Earth, Air, Water clans must exist (Session 2)
 - ✅ Ash-Bloods release heat by burning hotter, not sweating (Session 2)
 - ✅ Ash-Bloods were going through a "Great Cooling" before Harmony found them (Session 2)
-- ✅ Cultural divide: traditionalists (Ignatius) vs modernizers (Ember) on fire vs batteries (Session 2)
+- ✅ Cultural divide: traditionalists ([[Ignatius]]) vs modernizers ([[Ember]]) on fire vs batteries (Session 2)
 - ✅ ~200 Ash-Bloods at the Academy among 70,000 students (Session 2)
 - ✅ Zephyr can cause purple lightning---struck by bolt from clear sky, unharmed (Session 2)
 
@@ -132,7 +132,7 @@
 
 ### GM Secrets (Players Don't Know)
 - ❌ The Academy CAN'T return home if they fail (not enough power)
-- ❌ Dean Isolde knows about the Shattered Circuit
+- ❌ [[Dean Isolde Vane|Dean Isolde]] knows about the Shattered Circuit
 - ❌ The Loom calculates "Savant" flags based on variance
 - ❌ Lord Commander Titus Vane wants aggressive tactics vs. Dean's empathy
 
@@ -142,7 +142,7 @@
 
 ### What Players Know
 - ✅ The **Inverse Power Doctrine**: newest integrated member gets highest voting power (Session 2)
-- ✅ Lady Ignis is essentially "President" of Harmony because of this rule (Session 2)
+- ✅ [[Lady Ignis]] is essentially "President" of Harmony because of this rule (Session 2)
 - ✅ *"The least of us should become the most of us"* (Session 2)
 - ✅ This prevents exploitation of new members' resources (Session 2)
 - ✅ It's kept the peace for a thousand years (Session 2)
@@ -158,14 +158,14 @@
 
 ### What Players Know
 - ✅ 80 years of no new discoveries (the "Silent Era")
-- ✅ Ash-Bloods discovered "recently"
+- ✅ [[Ash-Bloods]] discovered "recently"
 - ✅ Vumbua just relocated
-- ✅ Rill was the Dean's exchange to the Mizizi village (Session 2)
+- ✅ [[Rill]] was the Dean's exchange to the [[Mizizi]] village (Session 2)
 - ✅ Rill is now the Dean's assistant (Session 2)
 
 ### GM Secrets (Players Don't Know)
 - ❌ Ash-Blood integration: 24 months ago
-- ❌ Last Exchange Ritual: 18 months ago (when Zephyr arrived)
+- ❌ Last Exchange Ritual: 18 months ago (when [[Zephyr]] arrived)
 - ❌ Vumbua relocation: 6 months ago
 - ❌ Rill arrived at Academy: 2 months ago
 - ❌ The 3,000-year history of Harmony

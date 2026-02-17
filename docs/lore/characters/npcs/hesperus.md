@@ -1,7 +1,15 @@
+---
+aliases:
+  - "Senior Exploranaut Hesperus"
+tags:
+  - npc
+  - faculty
+---
+
 # Senior Exploranaut Hesperus
 
 **Role:** Senior Exploranaut / Instructor
-**Affiliation:** Vumbua Academy, The Guilds
+**Affiliation:** [[Vumbua Academy]], The Guilds
 **Status:** Active
 
 ## Overview

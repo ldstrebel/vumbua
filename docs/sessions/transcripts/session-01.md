@@ -40,7 +40,7 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **GM (LUKE S)** (Narrating) As you are working your way through, about one in five is being pulled in a different direction than you. Their flags went up... but the attendants aren't checking receipts until the end. It's like Costco—there’s two guys with a Sharpie checking it off. They are soldier types, wearing thicker jerkens wrapped in an intricate pattern.
 
-**LOMI (LUKE F)** I think just during the general stroll... Lomi's talking with the guy. (In Character) "Hey, there's quite a lot of you here. How's your benefits? You all right? Everybody doing well? They paying you well here?"
+**LOMI (LUKE F)** I think just during the general stroll... [[Lomi]]'s talking with the guy. (In Character) "Hey, there's quite a lot of you here. How's your benefits? You all right? Everybody doing well? They paying you well here?"
 
 **GM (LUKE S)** (As Attendant) "You are a Copper. It is always good to know your options. I hope you make it through the next round. Do you need a job?"
 
@@ -58,7 +58,7 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **INT. INTAKE PAVILION \- IGGY'S CUBICLE \- CONTINUOUS**
 
-**IGGY (HOLLY)** I think Iggy is gonna ask... (In Character) "Sir... do you have a tissue? I could use a tissue."
+**IGGY (HOLLY)** I think [[Iggy]] is gonna ask... (In Character) "Sir... do you have a tissue? I could use a tissue."
 
 **GM (LUKE S)** (As Attendant) "No."
 
@@ -90,7 +90,7 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **GM (LUKE S)** (Narrating) You come through these large marble pillars into this huge courtyard. A monstrous ironclad cruise ship with brass fittings sits in a harbor. Next to it is a smaller version of it that has this airship balloon tied to it. The people are just so small compared to these vessels.
 
-**GM (LUKE S)** (To John) Ignatius, you want to roll me something to see how the hell you're processing here? Because I don't think he's seen anything like this.
+**GM (LUKE S)** (To John) [[Ignatius]], you want to roll me something to see how the hell you're processing here? Because I don't think he's seen anything like this.
 
 **IGNATIUS (JOHN)** (Rolling) I think that... nine with Fear.
 
@@ -98,7 +98,7 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **IGNATIUS (JOHN)** I think Ignatius had this facade of confidence walking in and getting through this, it just melts away. Like, "What the f\*\*\*?"
 
-**GM (LUKE S)** (As "Chad" Student) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, Chad. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The Ember Isles?"
+**GM (LUKE S)** (As "Chad" Student) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, Chad. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The [[Ember]] Isles?"
 
 **IGNATIUS (JOHN)** "What gave it away? Was it the soot or the literal flames?"
 
@@ -118,9 +118,9 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **GM (LUKE S)** (Narrating) Lomi, you might have even seen some of the inside of Vumbua because you came across as part of the maintenance crew. It wouldn't be a huge surprise to you. But I think you're maybe a little bit proud? It is getting pretty close to holding students and it was just a boat and a ship like half a year ago.
 
-**LOMI (LUKE F)** (Previously "Loami or Britt") I think he he's coming out and just looking around and going... (In Character) "Yeah, this will do. They do good work. You know? What can we say? It's a little more cushy than the Boiler Room. I'll say it. Doesn't take as much grit... but they do good work."
+**LOMI (LUKE F)** (Previously "Loami or [[Britt]]") I think he he's coming out and just looking around and going... (In Character) "Yeah, this will do. They do good work. You know? What can we say? It's a little more cushy than the Boiler Room. I'll say it. Doesn't take as much grit... but they do good work."
 
-**GM (LUKE S)** (Narrating) Lomi, you recognize someone. There is someone else who surprises you coming out of the exams. All you know him by is **Sarge**. You know him because the workers would have these campfires set up... the social hour. (As Sarge) He catches your eye. "Loaves? Loaves, we made it. Can you believe it?"
+**GM (LUKE S)** (Narrating) Lomi, you recognize someone. There is someone else who surprises you coming out of the exams. All you know him by is **[[Sarge]]**. You know him because the workers would have these campfires set up... the social hour. (As Sarge) He catches your eye. "Loaves? Loaves, we made it. Can you believe it?"
 
 **LOMI (LUKE F)** "Hey, Sarge\! You made it in\! Hey, I was feeling pretty good about myself until I saw *you* come in, huh? They let anyone in here, huh?"
 
@@ -144,17 +144,17 @@ The candidates are herded into a massive auditorium.
 
 **GM (LUKE S)** (Narrating) The flow takes all of you across into this massive auditorium. It sits 10,000. It's mostly all from Harmony... you all are a quite a bit of a minority. Every time someone recognizes you're from a different place, it's like a minor celebrity status.
 
-(Beat) After a few minutes, a small figure—if you've seen *Arcane*, think Professor Heimerdinger but a female version—bounces onto the stage. This is **Dean Isolde Vane**.
+(Beat) After a few minutes, a small figure—if you've seen *Arcane*, think Professor Heimerdinger but a female version—bounces onto the stage. This is **[[Dean Isolde Vane]]**.
 
-**GM (LUKE S)** (As Dean Isolde) "Hello students\! Hello candidates\! Hello potential adventurers\! I'm just so excited for this next class. It's going to be amazing. We, all of us, are the inheritors of great discovery\!" (Pacing frantically) "For 80 years... 80 years our maps have been static\! We've missed the thrill of adventure. No one's wanted to do it. I've been lonely, honestly. Not to say my thousand weren't great, but more is better\!"
+**GM (LUKE S)** (As [[Dean Isolde Vane|Dean Isolde]]) "Hello students\! Hello candidates\! Hello potential adventurers\! I'm just so excited for this next class. It's going to be amazing. We, all of us, are the inheritors of great discovery\!" (Pacing frantically) "For 80 years... 80 years our maps have been static\! We've missed the thrill of adventure. No one's wanted to do it. I've been lonely, honestly. Not to say my thousand weren't great, but more is better\!"
 
-**BRITT (SOPHIE)** (Previously "Loami or Britt") I think during this part of the speech, I whisper to Aggie. (In Character) "I don't trust this f\*\*\*ing guy."
+**BRITT (SOPHIE)** (Previously "Loami or Britt") I think during this part of the speech, I whisper to [[Aggie]]. (In Character) "I don't trust this f\*\*\*ing guy."
 
-**GM (LUKE S)** (As Dean Isolde) "We've got Ash Bloods whose mastery of heat brings new fire to our Core\! We've got the Mizizi... who, well, we don't really know what they do, and that's amazing\! We don't know\! It's been so long since we could say that about anything\!"
+**GM (LUKE S)** (As Dean Isolde) "We've got [[Ash-Bloods|Ash Bloods]] whose mastery of heat brings new fire to our Core\! We've got the [[Mizizi]]... who, well, we don't really know what they do, and that's amazing\! We don't know\! It's been so long since we could say that about anything\!"
 
 (Beat) "But... unfortunately, we do have to lose another 20,000 of you by the end of the week. So, study hard. Listen to your professors. Welcome to Vumbua\!"
 
-**GM (LUKE S)** (Narrating) She pops back out from the curtain. "Oh\! I'm Dean. I'm Dean Isolde\! If you need me... well, I'm kind of busy." (Narrating) Then, an attendant comes out. For the Mizizi, you recognize **Rill** (The River-Born). She leans out, pulls the Dean back behind the curtain. She seems to have a very familiar relationship with the Dean. She waves good luck to you and goes in.
+**GM (LUKE S)** (Narrating) She pops back out from the curtain. "Oh\! I'm Dean. I'm Dean Isolde\! If you need me... well, I'm kind of busy." (Narrating) Then, an attendant comes out. For the Mizizi, you recognize **[[Rill]]** ([[Rill|The River-Born]]). She leans out, pulls the Dean back behind the curtain. She seems to have a very familiar relationship with the Dean. She waves good luck to you and goes in.
 
 ---
 
@@ -162,13 +162,13 @@ The candidates are herded into a massive auditorium.
 
 **INT. GREAT HALL EXIT \- CONTINUOUS**
 
-The group is being herded out. Iggy (The Earthkin) is dripping wet and sneezing.
+The group is being herded out. Iggy (The [[Trench-Kin|Earthkin]]) is dripping wet and sneezing.
 
 **IGGY (HOLLY)** "Hey... did you guys feel that? Is that... wind? What is that?"
 
 **LOMI (LUKE F)** "Yeah. The door opened. We're getting directed out. Iggy. Ignatius. All right. I can remember that."
 
-**GM (LUKE S)** (Narrating) There is a little kid walking around to people. He's holding a little ball of fire. (As Lucky) "Hey you\! I'm **Lucky**. You need something? You let Lucky know. That guy's red hot hair? Look at it. Got it right here. Authentic. Probably an Ash Blood. Two gold pieces. Hot off the rock." (To Iggy) "You? I'm Lucky. I'm as tall as you are. Do you need more height? I can get it for you."
+**GM (LUKE S)** (Narrating) There is a little kid walking around to people. He's holding a little ball of fire. (As [[Lucky]]) "Hey you\! I'm **Lucky**. You need something? You let Lucky know. That guy's red hot hair? Look at it. Got it right here. Authentic. Probably an [[Ash-Bloods|Ash Blood]]. Two gold pieces. Hot off the rock." (To Iggy) "You? I'm Lucky. I'm as tall as you are. Do you need more height? I can get it for you."
 
 **IGGY (HOLLY)** "No, I like my height. But I could use a Kleenex."
 
@@ -377,7 +377,7 @@ Based on this specific conversation, here are the narrative levers you need to p
 
 1. **Britt (The Unintentional Ace):** Sophie explicitly stated Britt is "unintentionally very, very good in class" \[`1205`\].
 
-   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like Valerius or Calculus Prime) who actually studied. This frees her up to snoop on the **Politics**.  
+   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like Valerius or [[Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
 2. **Lomi (The Process Guy):** Luke F is interested in the *mechanics* of the transition—"How do you get selected?" \[`1205`\].
 
    * *Session 1 Goal:* Make the "Squad Assignment" and the "Captain Interviews" feel bureaucratic and weighty. He wants to see the gears of the institution turning.  

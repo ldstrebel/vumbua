@@ -2,7 +2,7 @@
 
 **Date:** [Campaign Start]  
 **Session Number:** 0  
-**Players Present:** Britt (Sophie), Aggie (Kristina), Ignatius (John), Lomi (Luke F), Iggy (Holly)
+**Players Present:** [[Britt]] (Sophie), [[Aggie]] (Kristina), [[Ignatius]] (John), [[Lomi]] (Luke F), [[Iggy]] (Holly)
 
 ---
 
@@ -38,7 +38,7 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 **GM (LUKE S)** It's weird... like a relationship with life and death that's not normal. It's scary when things stop dying. And that's why your clan has been really concerned lately because things *have* started to not die. The forest, which kept you segregated for hundreds of years, failed. The lore often talks about how the purpose of the forest is to keep you apart from the world because when the world comes, things stop dying.
 
 **Player Discoveries:**
-- Mizizi are turtle-mushroom hybrid people
+- [[Mizizi]] are turtle-mushroom hybrid people
 - Core philosophy: "When things stop dying, we start dying"
 - They live in hollowed fossilized mega-trees
 - The forest recently "failed" - things won't die properly anymore
@@ -61,11 +61,11 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 
 **(RETURN TO TABLE)**
 
-**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the Mycelium clan can now join the Vumbua Academy this year, and the two of you elected to join.
+**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the Mycelium clan can now join the [[Vumbua Academy]] this year, and the two of you elected to join.
 
 **Player Discoveries:**
 - Harmony made contact 1-2 cycles ago
-- "The Paper Man" led the expedition (sterile metal outfit)
+- "[[Valerius Sterling Sr.|The Paper Man]]" led the expedition (sterile metal outfit)
 - Harmony provides tools to destroy the forest (solvents, weapons)
 - In return, Harmony takes soil, roots, bark, and stone
 - Neither side fully understands what the other wants
@@ -80,7 +80,7 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 ### Scene 3: The Cousins
 
 **Location:** Virtual Tabletop  
-**NPCs:** Britt and Aggie establishing relationship
+**NPCs:** [[Britt]] and [[Aggie]] establishing relationship
 
 **GM (LUKE S)** (To Sophie) Sophie, your character is maybe a little bit outspoken... uncertain about their relationship with Harmony, maybe even a little suspicious of it. And Kristina (Aggie), maybe you have had some gossip together about Harmony... but she may not be quite as aggressive as you.
 
@@ -132,7 +132,7 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 
 **SOPHIE (BRITT)** I'm going to be a similar vibe... but much more gray and sort of dusty, powdery.
 
-**GM (LUKE S)** As you exit this forest, you're close enough to the Ash Bloods' homes that you can see on the horizon the smoke of their perpetual volcano. And the only people out here are the folks who have made arrangements with the Mycelium clan to come and harvest some of the wood... logging is helping kill the forest and then it's just growing right back.
+**GM (LUKE S)** As you exit this forest, you're close enough to the [[Ash-Bloods|Ash Bloods]]' homes that you can see on the horizon the smoke of their perpetual volcano. And the only people out here are the folks who have made arrangements with the Mycelium clan to come and harvest some of the wood... logging is helping kill the forest and then it's just growing right back.
 
 **Player Discoveries:**
 - Vumbua is a sprawling city with towers and metal constructs
@@ -148,9 +148,9 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 
 **Location:** Vumbua Docks  
 **Time:** Day of Arrival  
-**NPCs:** The Mole/Iggy, Old Man
+**NPCs:** [[Iggy|The Mole]]/Iggy, Old Man
 
-**THE MOLE (HOLLY)**, a chronically sickly Earthkin made of packed, crumbling dirt, emerges from the water. He wears large goggles over giant bug eyes.
+**THE MOLE (HOLLY)**, a chronically sickly [[Trench-Kin|Earthkin]] made of packed, crumbling dirt, emerges from the water. He wears large goggles over giant bug eyes.
 
 **THE MOLE (HOLLY)** (Mumbling, frantic) I gotta get more sunscreen.
 
@@ -161,7 +161,7 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 **THE MOLE (HOLLY)** (Exhales deeply) (Blinks, shooting water out of goggles) ...Contentment as he has weight back on him.
 
 **Player Discoveries:**
-- Iggy is an Earthkin (small, dirt/earth-based)
+- [[Iggy]] is an Earthkin (small, dirt/earth-based)
 - He emerged from the water at the docks
 - Extremely light-sensitive (needs goggles, sunscreen)
 - Pressure-sensitive (feels relief when weight is applied)
@@ -170,15 +170,15 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 **GM Notes:**
 > [!NOTE]
-> Iggy is actually Trench-Kin from deep ocean/earth. The pressure sensitivity, light sensitivity, and water emergence are all clues. Players don't know this yet.
+> Iggy is actually [[Trench-Kin]] from deep ocean/earth. The pressure sensitivity, light sensitivity, and water emergence are all clues. Players don't know this yet.
 
 ---
 
 ### Scene 6: The Pilgrimage
 
-**Location:** The Ember Trail to Vumbua  
+**Location:** The [[Ember]] Trail to Vumbua  
 **Time:** Day of Arrival  
-**NPCs:** Ignatius
+**NPCs:** [[Ignatius]]
 
 **IGNATIUS (JOHN)**, a rebellious Emberkin teenager with a backpack, arrives in the city. He looks at the magitek lights powered by Harmony's crystal batteries.
 
@@ -208,7 +208,7 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 **Location:** Vumbua Under-City - Boiler Room  
 **Time:** End of Shift  
-**NPCs:** Lomi, Receptionist
+**NPCs:** [[Lomi]], Receptionist
 
 **LOMI (LUKE F)** finishes a shift at the furnace. He is a "blue-collar grease monkey," perpetually covered in soot and dirt. He grabs his gear, not bothering to shower, and heads up to the Academy.
 
@@ -284,11 +284,11 @@ The players take the assessment (a meta-game survey).
 ## Session Outcomes
 
 ### Character Development
-- **Britt:** Established as suspicious, protective, mission-driven
-- **Aggie:** Quieter cousin, shares concerns but less aggressive
-- **Ignatius:** Framed personal journey as pilgrimage vs banishment
-- **Lomi:** Working-class pride, infrastructure advocate
-- **Iggy:** Curious infiltrator adapting to surface (players don't know infiltrator part)
+- **[[Britt]]:** Established as suspicious, protective, mission-driven
+- **[[Aggie]]:** Quieter cousin, shares concerns but less aggressive
+- **[[Ignatius]]:** Framed personal journey as pilgrimage vs banishment
+- **[[Lomi]]:** Working-class pride, infrastructure advocate
+- **[[Iggy]]:** Curious infiltrator adapting to surface (players don't know infiltrator part)
 
 ### Party Relationships
 - Britt and Aggie are cousins with shared mission
@@ -299,7 +299,7 @@ The players take the assessment (a meta-game survey).
 ### World State Changes
 - Vumbua has accepted largest intake class ever
 - 100,000 candidates, massive attrition expected
-- Mizizi-Harmony pact active (forest destruction ongoing)
+- [[Mizizi]]-Harmony pact active (forest destruction ongoing)
 - Trials complete, ranks assigned
 
 ### Cliffhangers / Hooks for Next Session
@@ -311,13 +311,13 @@ The players take the assessment (a meta-game survey).
 
 ## Lore Updates
 
-- [x] Update [Knowledge Tracker](../lore/knowledge-tracker.md) - Nothing new revealed to players
-- [x] Update [Timeline](../lore/timeline.md) - Intake Day added
-- [x] Create [Britt](../characters/player-characters/britt.md) profile
-- [x] Create [Aggie](../characters/player-characters/aggie.md) profile
-- [x] Create [Ignatius](../characters/player-characters/ignatius.md) profile
-- [x] Create [Lomi](../characters/player-characters/lomi.md) profile
-- [x] Create [Iggy](../characters/player-characters/iggy.md) profile
+- [x] Update [[Knowledge Tracker]] - Nothing new revealed to players
+- [x] Update [[Timeline]] - Intake Day added
+- [x] Create [[Britt]] profile
+- [x] Create [[Aggie]] profile
+- [x] Create [[Ignatius]] profile
+- [x] Create [[Lomi]] profile
+- [x] Create [[Iggy]] profile
 
 ---
 
@@ -326,10 +326,10 @@ The players take the assessment (a meta-game survey).
 ### What Worked Well
 - Survey-based class assignment created organic party composition
 - Character introductions established distinct personalities
-- Mizizi lore drop set up mystery effectively
+- [[Mizizi]] lore drop set up mystery effectively
 
 ### Future Plot Threads to Develop
-- Britt and Aggie's investigation into Harmony's true motives
-- Ignatius's search for "new heat" (ironic quest)
-- Iggy's true origins and investigation
-- Lomi's working-class perspective on Academy elite
+- [[Britt]] and [[Aggie]]'s investigation into Harmony's true motives
+- [[Ignatius]]'s search for "new heat" (ironic quest)
+- [[Iggy]]'s true origins and investigation
+- [[Lomi]]'s working-class perspective on Academy elite

@@ -1,3 +1,13 @@
+---
+aliases:
+  - "Root-Kin"
+  - "Deep-Root Clan"
+  - "Mycelium Clan"
+tags:
+  - faction
+  - clan
+---
+
 # The Mizizi (Root-Kin)
 
 *Fungal-turtle clan of the Petrified Forest*
@@ -20,7 +30,7 @@ The elders have been increasingly terrified, convinced that this fulfills the an
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived---led by **Valerius Sterling Sr.** (known to the Mizizi as "The Paper Man" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the Ash-Blood Isles, but he quickly moved on---integration work bored him.
+When Harmony's explorers arrived---led by **[[Valerius Sterling]] Sr.** (known to the Mizizi as "[[Valerius Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the Ash-Blood Isles, but he quickly moved on---integration work bored him.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood
@@ -38,7 +48,7 @@ The Mizizi see this as a chance to **restart the cycle of death** that has stall
 
 ### The Academy Opportunity
 
-This year, far more Mizizi were invited to join Vumbua Academy than ever before. Many young clan members (including Britt and Aggie) elected to go, seeing it as:
+This year, far more Mizizi were invited to join [[Vumbua Academy]] than ever before. Many young clan members (including [[Britt]] and [[Aggie]]) elected to go, seeing it as:
 - A chance to understand Harmony's true motives
 - An opportunity to find answers about why the forest failed
 - A way to help their people survive
@@ -47,7 +57,7 @@ This year, far more Mizizi were invited to join Vumbua Academy than ever before.
 
 - **Britt** - Gray, dusty fungal-turtle. Outspoken, suspicious of Harmony
 - **Aggie** - Red-and-white spotted mushroom-turtle. More reserved cousin of Britt
-- **Rill** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [Rill](../characters/npcs/rill.md))
+- **[[Rill]]** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [[Rill]])
 
 ### Cultural Notes
 
@@ -60,7 +70,7 @@ This year, far more Mizizi were invited to join Vumbua Academy than ever before.
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is NOT known to the player characters. Do not share this section when showing this page to players.
 
 ### The True Nature of the Forest
@@ -120,11 +130,11 @@ The Mizizi Node remains at only **15% integration** because Harmony has failed t
 
 ### Current Research
 
-**Dean Isolde Vane** and **Senior Historian Nadine** are frantically trying to decode the mystery before it's too late:
+**[[Dean Isolde Vane]]** and **Senior Historian Nadine** are frantically trying to decode the mystery before it's too late:
 
 - **Exploranaut Mosi** (first Mizizi Council member) spends his days decoding "Tree-Rings" of logs scheduled for the furnace
 - He's building a fragmentary understanding by reading what's about to be destroyed
-- **Rill** (the Wadi researcher) has made a breakthrough but needs a Mizizi partner to verify
+- **[[Rill]]** (the [[Wadi]] researcher) has made a breakthrough but needs a Mizizi partner to verify
 - The clock is ticking—every day, more logs go into the furnace
 
 ### What Will Happen When Players Discover This
@@ -140,9 +150,9 @@ The Mizizi Elder Council will feel **betrayed** by Harmony when they learn—not
 
 The Mizizi represent **MEMORY** in the six-clan system:
 - Mizizi (Memory) - The Archivists
-- Ash-Bloods (Power) - The Engines
-- Trench-Kin (Resources) - The Miners
-- Renali (Vision) - The Architects
+- [[Ash-Bloods]] (Power) - The Engines
+- [[Trench-Kin]] (Resources) - The Miners
+- [[Renali]] (Vision) - The Architects
 - Wadi (Life) - The Sustainers
 - Harmony (Direction) - The Navigators
 

@@ -298,7 +298,7 @@ Jan 14, 2026
 ### 00:19:43
 
    
-**Luke S:** Your clan was definitely more excited that fire was coming than they seem to be about like the Ash Bloods. So, um, yeah, I think your your of all the clans, your relationship's definitely the most like normal trade trying to integrate than compared to the rest of  
+**Luke S:** Your clan was definitely more excited that fire was coming than they seem to be about like the [[Ash-Bloods|Ash Bloods]]. So, um, yeah, I think your your of all the clans, your relationship's definitely the most like normal trade trying to integrate than compared to the rest of  
 **John Hagey:** Okay. Um,  
 **Luke S:** them.  
 **John Hagey:** and then next question following up because I'm still trying to understand the relationship a little bit more is as I understand it, the trade relationship is they provide these types of batteries basically, but we provide labor for them when it comes to working like the iron and stuff that goes into them because like again the when I was reading it, they were saying like, oh yeah, these little crystal things are like little suns basically that we use because  
@@ -656,7 +656,7 @@ Jan 14, 2026
 **Luke S:** it's more how do they react? Um, because no one's going to see you one way or the  
 **Holly Strebel:** I think for my character, I've been pondering and I think I'm more going to play  
 **Luke S:** other.  
-**Holly Strebel:** like a chronically sickly cuz I think that would be easier in some aspect. Um, I also don't think I said, but I think I was going to do Earthkin. Um,  
+**Holly Strebel:** like a chronically sickly cuz I think that would be easier in some aspect. Um, I also don't think I said, but I think I was going to do [[Trench-Kin|Earthkin]]. Um,  
 **John Hagey:** Who  
 **Luke S:** Nice.  
 **Holly Strebel:** and was going to be like semi like human shaped,  
@@ -730,7 +730,7 @@ Jan 14, 2026
 **Luke S:** Uh amazing. And then at that point it's it's it's effortless to follow the crowds and um Okay.  
 **Holly Strebel:** Yeah.  
 **Luke S:** So let's do the Ash Bloods then. John, how does how do you arrive  
-**John Hagey:** Um, I arrived via the uh the ember trail. So, um I think Ignatius is a uh Ignatius is an Emberin that uh is kind of in a rebellious teenage stage where while his island and his clan has, you know, has a very like pretty good relationship with Harmony and Trade and stuff, like he he thinks it's wrong.  
+**John Hagey:** Um, I arrived via the uh the ember trail. So, um I think [[Ignatius]] is a uh Ignatius is an Emberin that uh is kind of in a rebellious teenage stage where while his island and his clan has, you know, has a very like pretty good relationship with Harmony and Trade and stuff, like he he thinks it's wrong.  
    
  
 
@@ -800,7 +800,7 @@ Jan 14, 2026
 **John Hagey:** Yeah.  
 **Luke Foreman:** around. Yeah.  
 **Luke S:** Love it.  
-**Luke Foreman:** Is in is in just kind of a perpetual state of of dirtiness, of messiness. And um I I think I'm going to go Lomi is is going to be his name.  
+**Luke Foreman:** Is in is in just kind of a perpetual state of of dirtiness, of messiness. And um I I think I'm going to go [[Lomi]] is is going to be his name.  
 **Luke S:** Low me.  
 **Luke Foreman:** Yeah, with an I.  
 **John Hagey:** Solid.  

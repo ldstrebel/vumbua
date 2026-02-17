@@ -1,6 +1,10 @@
 ---
-title: "Professor Kante"
-parent: NPCs
+aliases:
+  - "Kante"
+tags:
+  - npc
+  - faculty
+  - house-gilded
 ---
 
 # Professor Kante
@@ -9,22 +13,22 @@ parent: NPCs
 
 **Role:** Professor of Harmonics, Vumbua Academy
 **Race:** Tortoise (long-lived)
-**Affiliation:** House Gilded (origin), House Vox (research sponsor), Vumbua Academy
+**Affiliation:** [[House Gilded]] (origin), House Vox (research sponsor), [[Vumbua Academy]]
 **Status:** Active
 **Accent:** Indian, slow-speaking
 
 ## Overview
 
-Professor Kante is one of Harmony's foremost researchers in harmonics---the science of ether resonance, Global Amplitude measurement, and battery design. His tortoise lifespan has allowed him to personally oversee the development and release of multiple generations of Vox crystal batteries. He is respected by both House Gilded (his house of origin) and House Vox (who sponsor his research), a rare bridge between two frequently feuding houses.
+Professor Kante is one of Harmony's foremost researchers in harmonics---the science of ether resonance, [[The Power System|Global Amplitude]] measurement, and battery design. His tortoise lifespan has allowed him to personally oversee the development and release of multiple generations of Vox crystal batteries. He is respected by both [[House Gilded]] (his house of origin) and House Vox (who sponsor his research), a rare bridge between two frequently feuding houses.
 
 He is devoted to his work as a professor and researcher at the Academy, spending his nights taking measurements and filling whiteboards with questions no one else is asking.
 
 ## What Players Know
 
-**Iggy only (Session 2.5):**
+**[[Iggy]] only (Session 2.5):**
 - Met Kante in the power room late at night — Kante was watching him sketch machinery
 - Kante is a tortoise professor of harmonics; slow-speaking, Indian accent, wears a top hat and Bridgerton-style outfit
-- He explained the Global Amplitude, the Ash-Blood Anomaly, and the Night of Sparks
+- He explained the [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the Night of Sparks
 - His theory: integration works through cultural connection between peoples
 - He gave Iggy an umber crystal and invited him to return for more collaboration
 - Iggy mentioned "the Exchange" — Kante had never heard of it
@@ -36,15 +40,15 @@ He is devoted to his work as a professor and researcher at the Academy, spending
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### The Whiteboard
 
 Kante takes measurements every night. His office whiteboard tells the story of his growing alarm:
 
-- **Historical comparison:** Global Amplitude max line from 50 years vs. 100 years ago (showing the plateau and decline)
-- **"Where is the Ash-Blood surge?"** - The central question. A major node integration should have increased the Global Amplitude by +300 to +800 amps. The Ash-Bloods only produced ~20.
+- **Historical comparison:** [[The Power System|Global Amplitude]] max line from 50 years vs. 100 years ago (showing the plateau and decline)
+- **"Where is the Ash-Blood surge?"** - The central question. A major node integration should have increased the Global Amplitude by +300 to +800 amps. The [[Ash-Bloods]] only produced ~20.
 - **Scrapped projections:** The Apex 1 battery line was designed for a post-surge world (Global Amplitude of 900-1400). Those projections sit next to a red "SCRAPPED" note.
 - **The storage line question:** "What happens when the Global Amplitude drops below the storage line?" If the amplitude dips below what the Panda line batteries can regulate, power output becomes erratic as the ether field's natural breathing overwhelms the surge protection.
 
@@ -55,7 +59,7 @@ Kante takes measurements every night. His office whiteboard tells the story of h
 
 ### Relationship with Iggy
 
-Kante will discover Iggy exploring the power room and recognize a kindred curiosity. He will recruit Iggy to help investigate the missing surge, seeing in the young student a fresh perspective uncontaminated by Harmony's assumptions.
+Kante will discover [[Iggy]] exploring the power room and recognize a kindred curiosity. He will recruit Iggy to help investigate the missing surge, seeing in the young student a fresh perspective uncontaminated by Harmony's assumptions.
 
 ### Personality Notes
 

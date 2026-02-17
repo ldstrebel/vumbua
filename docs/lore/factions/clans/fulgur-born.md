@@ -1,7 +1,9 @@
 ---
-title: "The Fulgur-Born (Storm-Chasers)"
-parent: Clans
-nav_order: 6
+aliases:
+  - "Storm-Chasers"
+tags:
+  - faction
+  - clan
 ---
 
 # The Fulgur-Born (Storm-Chasers)
@@ -10,13 +12,13 @@ nav_order: 6
 
 ## What Players Know
 
-The Fulgur-Born are treated as a rumor or singular anomaly. Most Academy students have never heard of them. Zephyr---the energetic exchange member at the Academy---is assumed by most to be Renali (Air Clan), not a representative of an entirely separate storm-based civilization.
+The Fulgur-Born are treated as a rumor or singular anomaly. Most Academy students have never heard of them. [[Zephyr]]---the energetic exchange member at the Academy---is assumed by most to be [[Renali]] ([[Renali|Air Clan]]), not a representative of an entirely separate storm-based civilization.
 
 ---
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### The Element & The Node
@@ -51,11 +53,11 @@ This makes them the most dangerous---and knowledgeable---of all the clans. They 
 
 ### Zephyr
 
-Zephyr arrived in the last Exchange (18 months ago), entering the Mizizi Forest. Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless.
+[[Zephyr]] arrived in the last Exchange (18 months ago), entering the [[Mizizi]] Forest. Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless.
 
 She breaks the Great Taboo not out of malice, but out of sheer, uncontainable excitement. She doesn't fear "The Shattering." She speaks openly of the "High-Jet Streams" and the "Thunder-Node."
 
-Dean Vane has personally invited Zephyr into the inner circle. They can be found late at night in the Sky-Spire, eating sunflower seeds and frantically sketching wind-patterns on a chalkboard. Vane believes Zephyr holds the key to high-altitude flight.
+[[Dean Isolde Vane|Dean Vane]] has personally invited Zephyr into the inner circle. They can be found late at night in the Sky-Spire, eating sunflower seeds and frantically sketching wind-patterns on a chalkboard. Vane believes Zephyr holds the key to high-altitude flight.
 
 ### Integration Potential
 

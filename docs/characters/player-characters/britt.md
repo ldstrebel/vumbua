@@ -1,3 +1,10 @@
+---
+tags:
+  - pc
+  - mizizi
+  - gold-rank
+---
+
 # Britt
 
 > *"When things stop dying, we start dying."*
@@ -6,18 +13,18 @@
 
 | | |
 |---|---|
-| **Clan** | [Mizizi (Root-Kin)](/lore/factions/clans/mizizi.md) |
+| **Clan** | [[Mizizi|Mizizi (Root-Kin)]] |
 | **Rank** | 🥇 Gold |
 | **Class** | Daggerheart Character |
 | **Player** | Sophie |
 
 ## Appearance
 
-A turtle-mushroom hybrid of the Mizizi clan—a mixture of sturdy shell and fungal growths. The Mizizi physiology includes moss, shell, and mycelia as natural features.
+A turtle-mushroom hybrid of the [[Mizizi]] clan—a mixture of sturdy shell and fungal growths. The Mizizi physiology includes moss, shell, and mycelia as natural features.
 
 ## Personality
 
-Britt is **sure-footed and observant**. Where her clanmate Aggie might be swept along by the crowd, Britt holds her own—throwing elbows when necessary to push through. She's protective of those close to her and quick to think on her feet.
+Britt is **sure-footed and observant**. Where her clanmate [[Aggie]] might be swept along by the crowd, Britt holds her own—throwing elbows when necessary to push through. She's protective of those close to her and quick to think on her feet.
 
 **Key Traits:**
 - Resourceful under pressure
@@ -27,7 +34,7 @@ Britt is **sure-footed and observant**. Where her clanmate Aggie might be swept 
 
 ## Background
 
-Born in the Petrified Forest of the Mizizi homeland, Britt grew up with the clan's unique philosophy on death and decay. When Harmony arrived and began working with the elders, Britt was among those selected to attend Vumbua Academy.
+Born in the Petrified Forest of the [[Mizizi]] homeland, Britt grew up with the clan's unique philosophy on death and decay. When Harmony arrived and began working with the elders, Britt was among those selected to attend [[Vumbua Academy]].
 
 ### What She Knows
 - The forest has been "not dying" which is deeply concerning to her people
@@ -38,7 +45,7 @@ Born in the Petrified Forest of the Mizizi homeland, Britt grew up with the clan
 ### Suspicions
 - Outspoken about the Harmony relationship
 - Potentially suspicious of Harmony's true motives
-- More aggressive in her questioning than Aggie
+- More aggressive in her questioning than [[Aggie]]
 
 ## Skills & Experiences
 
@@ -47,8 +54,8 @@ Born in the Petrified Forest of the Mizizi homeland, Britt grew up with the clan
 ## Session Appearances
 
 ### Session 0 - Character Creation
-- Established as Mizizi clan member
-- Defined relationship with Aggie
+- Established as [[Mizizi]] clan member
+- Defined relationship with [[Aggie]]
 - Discussed clan philosophy on death and decay
 
 ### Session 1 - Arrival at Vumbua
@@ -70,13 +77,13 @@ Born in the Petrified Forest of the Mizizi homeland, Britt grew up with the clan
 
 ## GM Notes [HIDDEN FROM PLAYERS]
 
-> [!CAUTION]
+> [!warning]-
 > The following information is not known to the player characters.
 
 ### Plot Hooks
 - Her Gold rank may attract attention from faculty or other factions
 - Her suspicions about Harmony could lead to uncovering uncomfortable truths
-- The Mizizi forest's petrification may be connected to larger world events
+- The [[Mizizi]] forest's petrification may be connected to larger world events
 
 ### Secret Knowledge
 - The Petrified Forest may be more than just dead wood—it could be a data archive

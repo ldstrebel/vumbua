@@ -1,7 +1,15 @@
+---
+aliases:
+  - "Glimmer"
+tags:
+  - npc
+  - squad-08
+---
+
 # Lady Glimmer
 
 **Role:** Squad 08 (The Legacy) - Member
-**Affiliation:** Vumbua Academy, House Gilded?
+**Affiliation:** [[Vumbua Academy]], [[House Gilded]]?
 **Status:** Active
 
 ## Overview

@@ -1,7 +1,7 @@
 Jan 28, 2026
 
 > [!NOTE]
-> **Lore Update**: The character introduced as "Serra Vox" is canonically **Seraphina "Serra" Vox**, heir to House Vox. She uses "Fox" as an alias.
+> **Lore Update**: The character introduced as "[[Serra Vox]]" is canonically **Seraphina "Serra" Vox**, heir to House Vox. She uses "Fox" as an alias.
 
 ## Session **1** \- Transcript
 
@@ -9,10 +9,10 @@ Jan 28, 2026
 
    
 **John Hagey:** similar to what I would call a like a hyperbole of some Hawaiian sentiment of like some Hawaiians still are culturally more Hawaiian than they are American and still to this day will like to this day will they'll be like oh we're being  
-**GM or Aggie:** Mhm.  
+**GM or [[Aggie]]:** Mhm.  
 **John Hagey:** like you know like we're we're more we're Hawaiian we're not American versus like you  
 **GM or Aggie:** Yeah.  
-**John Hagey:** know that's kind of how he sees it where he's like he's in this he's not a fanatic but he's definitely in this like cultural schism of like he's very cultural tied to like the the Ash Blood clan and the islands and stuff and wants there to be like an independence for themselves but at the same time like so yeah he's curious I'm like why did all the elders leave like why did like like he sees it as a partnership not he he wants the relationship to be a partnership he doesn't want the relationship to be like they're supplying resources and getting taken advantage of if that makes sense.  
+**John Hagey:** know that's kind of how he sees it where he's like he's in this he's not a fanatic but he's definitely in this like cultural schism of like he's very cultural tied to like the the [[Ash-Bloods|Ash Blood]] clan and the islands and stuff and wants there to be like an independence for themselves but at the same time like so yeah he's curious I'm like why did all the elders leave like why did like like he sees it as a partnership not he he wants the relationship to be a partnership he doesn't want the relationship to be like they're supplying resources and getting taken advantage of if that makes sense.  
 **GM or Aggie:** Yeah. Okay. To me it sounds like if Go  
    
  
@@ -25,7 +25,7 @@ Jan 28, 2026
 **John Hagey:** This is like your classic like teenager who has very strong political ideals who doesn't really know how the world  
 **GM or Aggie:** Yeah. Yeah. Okay.  
 **John Hagey:** works.  
-**GM or Aggie:** I think even so um when before the elders left they would have had they would have like addressed the clan and if he would have gone to that and listened at all the the general feeling is that um the the clan like elder the the high the the matriarch her name is uh Ignis and now she's Lady Ignis and she is now apparently someone extremely important in harmony. like overnight she became there was attendance, she had staff, she was given a airship, she was given a like a sea vessel, she was given an iron walker. Um like anything that she she wanted came and and and you I think you have a lot of respect for Lady Ignis. Like she's always been um a good leader of the clan. So, she she would have said to everyone like,  
+**GM or Aggie:** I think even so um when before the elders left they would have had they would have like addressed the clan and if he would have gone to that and listened at all the the general feeling is that um the the clan like elder the the high the the matriarch her name is uh Ignis and now she's [[Lady Ignis]] and she is now apparently someone extremely important in harmony. like overnight she became there was attendance, she had staff, she was given a airship, she was given a like a sea vessel, she was given an iron walker. Um like anything that she she wanted came and and and you I think you have a lot of respect for Lady Ignis. Like she's always been um a good leader of the clan. So, she she would have said to everyone like,  
    
  
 
@@ -33,11 +33,11 @@ Jan 28, 2026
 
    
 **John Hagey:** right?  
-**GM or Aggie:** um, I'm going to make sure that we are respected. And we'll maybe leave it there because there there's a couple other things she would have said, but I don't know if he would have caught them yet. So, we can see how how his character kind of plays out. But um that that has kind of given like Ignatius and any Ashb Blood a quasi uh famous status lately. Like if you say you're from the clans because it's a very cosmopol cosmopolitan world.  
-**Loami or Britt:** There you can.  
+**GM or Aggie:** um, I'm going to make sure that we are respected. And we'll maybe leave it there because there there's a couple other things she would have said, but I don't know if he would have caught them yet. So, we can see how how his character kind of plays out. But um that that has kind of given like [[Ignatius]] and any Ashb Blood a quasi uh famous status lately. Like if you say you're from the clans because it's a very cosmopol cosmopolitan world.  
+**Loami or [[Britt]]:** There you can.  
 **GM or Aggie:** The only way that they would know is maybe by like your accent or your mannerisms. Um or maybe like the things you wear,  
 **Loami or Britt:** Yeah.  
-**GM or Aggie:** stuff like that. But it's not they're not going to look at you and immediately like, "Oh, that's the only only Ember can I've ever seen in my entire life." Um, it might be you might be more there was definitely more immune in the volcanoes than otherwise. Even you had exchanges from other other clans and it's it's still pretty cosmopolitan.  
+**GM or Aggie:** stuff like that. But it's not they're not going to look at you and immediately like, "Oh, that's the only only [[Ember]] can I've ever seen in my entire life." Um, it might be you might be more there was definitely more immune in the volcanoes than otherwise. Even you had exchanges from other other clans and it's it's still pretty cosmopolitan.  
    
  
 
@@ -70,7 +70,7 @@ Jan 28, 2026
 **Loami or Britt:** How's it  
 **GM or Aggie:** like they call these the stitching that this was like a stitching event and it it formally  
 **Loami or Britt:** look?  
-**GM or Aggie:** integrated the Ash Bloods into Harmony as like basically a full citizen. Um, and there is there is an actual connection that happens between harmony and the power that powers like the volcanic aisle that you live in. Bless you. So, um,  
+**GM or Aggie:** integrated the [[Ash-Bloods|Ash Bloods]] into Harmony as like basically a full citizen. Um, and there is there is an actual connection that happens between harmony and the power that powers like the volcanic aisle that you live in. Bless you. So, um,  
 **John Hagey:** Thank you.  
 **GM or Aggie:** that was like a huge event for everyone who was in attendance.  
    
@@ -132,7 +132,7 @@ Jan 28, 2026
 **Loami or Britt:** Cool.  
 **GM or Aggie:** like.  
 **Loami or Britt:** Okay.  
-**GM or Aggie:** Okay. Uh sweet. any other and then for for Lomi the the important bits that you know is that um Harmony is it didn't teleport it is it is kind of like um there's these two main vessels like a huge basically like an ironclide cruise ship and a massive airship and they uh they like dock together to make up the core of whatever Vimula is whatever the they where wherever the academy is they are like the core and they don't move a lot but like every 50 years they move to a new location and so Lomi is not that old so it's always been in one place for him.  
+**GM or Aggie:** Okay. Uh sweet. any other and then for for [[Lomi]] the the important bits that you know is that um Harmony is it didn't teleport it is it is kind of like um there's these two main vessels like a huge basically like an ironclide cruise ship and a massive airship and they uh they like dock together to make up the core of whatever Vimula is whatever the they where wherever the academy is they are like the core and they don't move a lot but like every 50 years they move to a new location and so Lomi is not that old so it's always been in one place for him.  
    
  
 
@@ -540,7 +540,7 @@ Jan 28, 2026
 
    
 **Loami or Britt:** I  
-**GM or Aggie:** Okay. So y'all are able to to join back together into the flow and you eventually um head your way and like Lomi and Iggy and India like I don't I don't know that anything here is particularly impactful for y'all but if you want to pause and and take a moment to like ask ask a question or try to do anything uh this would be where y'all are kind of getting pulled through after taking your exams as  
+**GM or Aggie:** Okay. So y'all are able to to join back together into the flow and you eventually um head your way and like Lomi and [[Iggy]] and India like I don't I don't know that anything here is particularly impactful for y'all but if you want to pause and and take a moment to like ask ask a question or try to do anything uh this would be where y'all are kind of getting pulled through after taking your exams as  
 **Loami or Britt:** think just during like the general stroll to the exam and like being shuffled away from the exam, Lomi's talking with the guy like, "Hey, there's quite a lot of you here. How how's you know, how's your benefits? How how's it you all right? Yeah. Everybody doing well? They they paying you well here?  
 **GM or Aggie:** You are a copper. It is always good to know your options. I hope you make it through the next round. Um, I do you need a job? Are you are you looking for  
    
@@ -770,7 +770,7 @@ Jan 28, 2026
 ### 00:44:41
 
    
-**GM or Aggie:** I don't know that I knew. I It's been um uh Sorry, what? Lance. Oh,  
+**GM or Aggie:** I don't know that I knew. I It's been um uh Sorry, what? [[Lance]]. Oh,  
 **John Hagey:** What gave it away?  
 **GM or Aggie:** I mean,  
 **John Hagey:** Was it Was it the Soot or the literal flames?  
@@ -850,7 +850,7 @@ Jan 28, 2026
 **Loami or Britt:** So, I think he he's coming out and and just looking around and going,  
 **GM or Aggie:** go.  
 **Loami or Britt:** "Yeah, this will do. This is this they do good work." They do. You know what? What can we say? They, you know, all all power to them. You know, it's a little more cushy than the Boiler Room. I'll say it. Doesn't take as much doesn't take as much grit, but, you know, they do good work.  
-**GM or Aggie:** I love it. Um I think and I think uh Lomi might even um he runs into he recognizes someone because you've you've kind of been around the the campus now, but there is um someone else who surprised you who's coming out of the exams around the same time. Um and all you know him by is Sarge. And you know him because the workers would have these campfires set up that you that would be like the social hour. You just go and um have a drink by the fire, maybe grill some stuff, use that the funny, you know, it's always like do we cook with the obsidian or do we cook with the camp grill like and there's a whole debate about which one give us better quality meat and all that.  
+**GM or Aggie:** I love it. Um I think and I think uh Lomi might even um he runs into he recognizes someone because you've you've kind of been around the the campus now, but there is um someone else who surprised you who's coming out of the exams around the same time. Um and all you know him by is [[Sarge]]. And you know him because the workers would have these campfires set up that you that would be like the social hour. You just go and um have a drink by the fire, maybe grill some stuff, use that the funny, you know, it's always like do we cook with the obsidian or do we cook with the camp grill like and there's a whole debate about which one give us better quality meat and all that.  
    
  
 
@@ -1122,7 +1122,7 @@ Jan 28, 2026
 **John Hagey:** All right. That's That's pretty badass. I'm My name's Ignatius, by the way. And he sticks out his hand again.  
 **Loami or Britt:** no fear fire no fear Lomi's Lomi is in there.  
 **John Hagey:** There's just soot and grease mixed together.  
-**Loami or Britt:** Yeah, exactly. Exactly. I Yeah, I'm Lomi. Lomi Sultano.  
+**Loami or Britt:** Yeah, exactly. Exactly. I Yeah, I'm Lomi. [[Lomi|Lomi Sultano]].  
 **John Hagey:** Oh, nice.  
 **GM or Aggie:** Am  
 **John Hagey:** I'm Oh, we do we're doing last names. That's that's pretty formal, I guess.  
@@ -1145,7 +1145,7 @@ Jan 28, 2026
 **GM or Aggie:** wait.  
 **Holly Strebel:** What is that?  
 **Loami or Britt:** Yeah. The door the door opened the the the Yeah, we're we're getting directed out. Iggy. Uh, all right. Iggy Ignatius. All right. I can remember that. I can remember that.  
-**GM or Aggie:** Uh yeah, and I think like at this point there's there's not a ton of people left, but there is there is one little like uh little little kid who's just walking around to people and saying, "Hey, you I'm Lucky. You need something? You let Lucky know? I'll get it for you." That guy's red hot hair. Look at it.  
+**GM or Aggie:** Uh yeah, and I think like at this point there's there's not a ton of people left, but there is there is one little like uh little little kid who's just walking around to people and saying, "Hey, you I'm [[Lucky]]. You need something? You let Lucky know? I'll get it for you." That guy's red hot hair. Look at it.  
    
  
 
@@ -1579,7 +1579,7 @@ Jan 28, 2026
 **Loami or Britt:** I think Brit puts her hand on her shoulder and says,  
 **GM or Aggie:** gaggle.  
 **Loami or Britt:** "I came off as aggressive. I apologize.  
-**GM or Aggie:** It's okay. I sorry if I insulted you. Um, we're just like, that's really cool that you're from here. I don't I'm trying. I just want, you know, I'm an ally. Is that okay to say? Did I say that right? I think Agie's gonna fight up like don't mind my cousin. Hi, I'm Aggie. Hi. Uh, my name's Serra. Serra Vox. and she uh like has her little notebook tucked tucked in and she walks up it to give you a long hand uh handshake. She'll give her a handshake. How How are y'all settling in? Uh I I don't know. We just found these guys. She looks up again. Well, I guess he's down outside like Yeah. Uh, quite a crowd. I do think she's looking up to see if there's another.  
+**GM or Aggie:** It's okay. I sorry if I insulted you. Um, we're just like, that's really cool that you're from here. I don't I'm trying. I just want, you know, I'm an ally. Is that okay to say? Did I say that right? I think Agie's gonna fight up like don't mind my cousin. Hi, I'm Aggie. Hi. Uh, my name's Serra. [[Serra Vox]]. and she uh like has her little notebook tucked tucked in and she walks up it to give you a long hand uh handshake. She'll give her a handshake. How How are y'all settling in? Uh I I don't know. We just found these guys. She looks up again. Well, I guess he's down outside like Yeah. Uh, quite a crowd. I do think she's looking up to see if there's another.  
    
  
 
