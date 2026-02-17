@@ -4,6 +4,16 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ---
 
+## 2026-02-17
+
+- **Lore dump processing**: Integrated content from `lore-dump/onenote-temp.md` and `Taratannen.pdf`
+- **Dean Isolde Vane rewrite**: Full NPC profile based on Session 1 canon (small, bouncy, scattered persona vs. planning doc) → `docs/lore/characters/npcs/dean-isolde-vane.md`
+- **Great Surge endgame**: Added 2000+ amplitude spike detail (GM-only) to `docs/lore/world/power-system.md`
+- **Harmony nodes**: Added faction ownership links (Gilded→Chime Spires, Vox→Umbra, Scrivener→Bloomfield) → `docs/lore/world/harmony-nodes.md`
+- **NPC backstory audit**: Added GM-only backstory/bond/flaw/motive from lore dump to: Sarge, Lucky, Pudge, Pyrrhus, Kojo, Ratchet, Valerius Sterling
+- **New NPC**: Created Soot (Lomi's Block 99-Piston roommate) → `docs/lore/characters/npcs/soot.md`
+- **Lore-index update**: Updated NPC roles (Ratchet, Kojo, Pyrrhus), added Block 99-Piston entry
+
 ## 2026-02-16
 
 - **Session 2.5 processed**: Cleaned transcript (`session-02pt5.md`) — Iggy's 1-on-1 power room exploration with Professor Kante. Updated session index, knowledge tracker, timeline, professor-kante.md, lore-index

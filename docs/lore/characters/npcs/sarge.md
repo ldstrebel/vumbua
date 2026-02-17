@@ -8,13 +8,36 @@
 ## Overview
 "Sarge" is a Rust-tier veteran, likely an older student or a TA/Worker who keeps getting pulled into squads to keep them alive. He works in the boiler rooms with Lomi---they know each other from the workers' campfire social hours.
 
-## Session 1 Appearance
-Sarge recognized Lomi coming out of the exams: *"Loaves? Loaves, we made it. Can you believe it?"* He admitted he barely passed (*"I just looked at the typewriter. Seems about right."*) and was overwhelmed but doing it "for the lads."
+## Session Appearances
 
-## Session 2 Appearance
-At the Block 99 bonfire, Sarge was leaning against a wall watching Lucky sell Engine Grease, kicking empty bottles disapprovingly.
+### Session 1
+- Recognized Lomi coming out of the exams: *"Loaves? Loaves, we made it. Can you believe it?"*
+- Admitted he barely passed: *"I just looked at the typewriter. Seems about right."*
+- Overwhelmed but doing it "for the lads"
+
+### Session 2
+- At the Block 99 bonfire, leaning against a wall watching Lucky sell Engine Grease, kicking empty bottles disapprovingly
 
 ## Personality
 - **Not Bitter, Protective:** He isn't bitter about his station; he's protective. He warns Ignatius about his fire because he's seen unchecked energy kill good people.
 - **Goal:** Wants his squad to survive the physics of the world, avoiding the politics.
 - Disapproves of Lucky's hustling but doesn't intervene directly
+
+---
+
+## GM Narration [NOT YET REVEALED TO PLAYERS]
+
+> [!CAUTION]
+> The following information has been narrated by the GM but is not known to the player characters.
+
+### Backstory
+A former grunt who watched his entire crew die because an arrogant Exploranaut pushed too hard into a Shattered Node. He survived, but he refuses to let it happen again.
+
+### Bond
+His current "Expendable" squad. He feels a crushing, quiet responsibility for their survival.
+
+### Flaw
+Deep Distrust of Command. He struggles to follow orders from "Golden" officers who haven't bled.
+
+### Motive
+To finally graduate and lead his own crew so he can stop idiots from getting good soldiers killed.

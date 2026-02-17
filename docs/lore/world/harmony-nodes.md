@@ -24,11 +24,13 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 1. Gilded (Major)
 - **Resource:** Chime Spires (Resonators)
+- **Faction:** House Gilded (The Highborne)
 - **Description:** Home city of House Gilded. The Chime Spires are musical, organ-like structures that synchronize raw ether into usable power. They are the foundation of Harmony's entire energy infrastructure.
 - **Status:** Core Harmony territory. The original spires still function as the backbone of the power grid.
 
 ### 2. Umbra Mountain (Major)
 - **Resource:** Umber Crystals
+- **Faction:** House Vox (The Spark)
 - **Description:** Home mountain of House Vox. Source of the umber crystals used in every generation of Vox crystal batteries, from the first post-Night-of-Sparks surge protectors to the current Panda line.
 - **Status:** Core Harmony territory. Heavily mined and industrialized.
 
@@ -69,7 +71,8 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 10. Bloomfield
 - **Resource:** Clockwork Blooms
-- **Description:** Flowers that bloom with mechanical precision every 60 seconds. For centuries, Clockwork Blooms were the standard unit of timekeeping across Harmony before more precise instruments were developed.
+- **Faction:** Scrivener Guild (The Loreborne)
+- **Description:** Flowers that bloom with mechanical precision every 60 seconds. For centuries, Clockwork Blooms were the standard unit of timekeeping across Harmony before more precise instruments were developed. The Scriveners adopted these as their timekeeping standard, essential for synchronizing maps, logs, and research across the empire.
 - **Status:** Integrated. Historical significance; still used ceremonially.
 
 ### 11. Prima

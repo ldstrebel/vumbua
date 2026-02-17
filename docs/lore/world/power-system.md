@@ -96,6 +96,14 @@ This is the central mystery that Professor Kante is investigating:
 3. If the amplitude drops further below storage thresholds, the ether field's natural breathing/surging will cause power output to become erratic and unpredictable
 4. The Shattered Circuit theory may explain the leak---the Ash-Blood node is "reaching out" to its missing siblings, bleeding energy into the void
 
+### The Great Surge (Endgame)
+
+The Shattered Circuit theory predicts that when ALL SIX ancient clans are fully integrated, the Global Amplitude will spike to **2,000+**---far beyond anything in recorded history. This would be catastrophic for current infrastructure:
+
+- **Vox Crystal Batteries will shatter:** The Panda line is rated at 550 amps. Even the scrapped Apex 1 was only designed for 900-1,400. A 2,000+ surge would overwhelm every crystal battery in Harmony, repeating the Night of Sparks on a vastly larger scale.
+- **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with Trench-Kin grounding to safely absorb and distribute the surge.
+- **The paradox:** Harmony must integrate all six clans to survive, but doing so will destroy the very battery infrastructure keeping the lights on---unless they solve the surge problem first.
+
 ### The Ticking Clock
 
 If the Global Amplitude continues to decline:
