@@ -77,6 +77,8 @@ Integration has split the Ash-Bloods into two ideological camps:
 
 This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
 
+
+
 ### Ash-Blood Physiology (Session 2)
 
 - Ash-Bloods release heat by **burning hotter** (thermodynamic heat transfer), not sweating
