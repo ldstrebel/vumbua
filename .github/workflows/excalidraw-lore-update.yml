@@ -1,0 +1,81 @@
+name: "Part 2: Excalidraw Lore Update"
+
+on:
+  workflow_run:
+    workflows: ["Part 1: Excalidraw Transcribe"]
+    types:
+      - completed
+  workflow_dispatch:
+    inputs:
+      dry_run:
+        description: 'Log what would change without modifying files'
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+  issues: write
+
+jobs:
+  lore-update:
+    runs-on: ubuntu-latest
+    if: ${{ github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 2  # Need parent commit to detect new transcriptions
+
+      - name: Check for new transcriptions
+        id: check
+        run: |
+          NEW_FILES=$(git diff --name-only HEAD~1 HEAD -- 'Excalidraw/*-transcription.md' 2>/dev/null || echo "")
+          if [ -z "$NEW_FILES" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "No new transcriptions found, skipping"
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "New transcriptions: $NEW_FILES"
+          fi
+
+      - name: Set up Python
+        if: steps.check.outputs.skip != 'true'
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run lore update
+        if: steps.check.outputs.skip != 'true'
+        env:
+          DRY_RUN: ${{ inputs.dry_run || 'false' }}
+        run: python scripts/excalidraw_lore_update.py
+
+      - name: Commit lore updates
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          if git diff --cached --quiet; then
+            echo "No lore updates to commit"
+          else
+            git commit -m "Part 2: Update lore from Excalidraw transcriptions"
+            git push
+          fi
+
+      - name: Post summary
+        if: steps.check.outputs.skip != 'true'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            const summaryPath = '.excalidraw-lore-summary.md';
+            if (fs.existsSync(summaryPath)) {
+              const summary = fs.readFileSync(summaryPath, 'utf8');
+              await github.rest.issues.create({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                title: `Excalidraw Lore Update — ${new Date().toISOString().slice(0, 10)}`,
+                body: summary,
+                labels: ['excalidraw-pipeline', 'automated']
+              });
+            }
