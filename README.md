@@ -2,15 +2,27 @@
 
 A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlantis: The Lost Empire*.
 
-**[📖 View the Campaign Wiki](https://ldstrebel.github.io/vumbua/)** *(once deployed to GitHub Pages)*
+**System:** Daggerheart (v1.5/1.6) · **Current Session:** 2 · **Schedule:** Every 2 weeks · **Party Size:** 5
+
+**[📖 View the Campaign Wiki](https://ldstrebel.github.io/vumbua/)**
 
 ---
 
-## What Is This?
+## Quick Links
 
-This repository contains all the lore, session recaps, and character information for the **Vumbua campaign**—an ongoing tabletop RPG adventure that meets every 2 weeks.
+| For... | Go to... |
+|--------|----------|
+| **AI agents** — rapid orientation | [`.agent/workflows/lore-index.md`](.agent/workflows/lore-index.md) |
+| **Humans** — how to use AI workflows | [`.agent/workflows/human-instructions.md`](.agent/workflows/human-instructions.md) |
+| **Players** — catching up on sessions | [`docs/sessions/index.md`](docs/sessions/index.md) |
+| **Players** — learning the world | [`docs/lore/index.md`](docs/lore/index.md) |
+| **Quick reference** — terms & definitions | [`docs/lore/glossary.md`](docs/lore/glossary.md) |
+| **Quick reference** — timeline | [`docs/lore/timeline.md`](docs/lore/timeline.md) |
+| **Quick reference** — characters | [`docs/characters/index.md`](docs/characters/index.md) |
 
-### The Setting
+---
+
+## The Setting
 
 **The Great Stitching** is a process where isolated civilizations and their reality-Nodes are physically integrated into a growing empire called **Harmony**. Vumbua Academy is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation.
 
@@ -20,158 +32,125 @@ Our party of five unlikely students must navigate:
 - The mystery of why integration sometimes fails
 - Personal quests for identity, power, and truth
 
+### The Party
+
+| Player | Character | Clan/Origin | Rank |
+|--------|-----------|-------------|------|
+| Sophie | **Britt** | Mizizi (gray fungal-turtle) | Gold |
+| Kristina | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver |
+| John | **Ignatius** | Ash-Blood (Ember Islander) | Silver |
+| Luke F | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper |
+| Holly | **Iggy** | "Earthkin" (Trench-Kin) | Gold |
+
 ---
 
 ## Repository Structure
 
 ```
-docs/                    # GitHub Pages content (THE PUBLIC WIKI)
-├── index.md            # Campaign homepage
-├── lore/               # World-building
-│   ├── world/          # Stitching mechanics, integration physics
-│   ├── locations/      # Vumbua Academy, Harmony Prime, frontier
-│   ├── factions/       # All 8 Harmony houses + 5 clans
-│   └── bestiary/       # Creatures and phenomena
-├── characters/         # PC and NPC profiles
-├── sessions/           # Scene-by-scene recaps
-└── mechanics/          # Daggerheart system info
+docs/                              # GitHub Pages content (THE PUBLIC WIKI)
+├── index.md                       # Campaign homepage
+├── characters/
+│   ├── index.md                   # Master character index
+│   └── player-characters/         # PC profiles (5 files)
+├── sessions/
+│   ├── index.md                   # Session index with summaries
+│   ├── _template.md               # Template for new sessions
+│   └── transcripts/               # Raw + cleaned session transcripts
+├── lore/
+│   ├── index.md                   # Lore hub
+│   ├── glossary.md                # A-Z terms
+│   ├── timeline.md                # Full chronological history
+│   ├── knowledge-tracker.md       # Player knowledge vs GM narration
+│   ├── characters/npcs/           # ★ CANONICAL NPC profiles (45 files)
+│   ├── factions/                  # Clans + Harmony houses
+│   ├── world/                     # World mechanics
+│   ├── locations/                 # Place descriptions
+│   └── bestiary/                  # Creature profiles
+├── notebooklm/                    # Consolidated exports for NotebookLM
+│   ├── campaign-compendium.md     # Full world reference
+│   ├── campaign-chronicle.md      # Timeline + session history
+│   ├── character-codex.md         # All characters merged
+│   └── gm-master.md              # GM-only secrets
+├── gm-notes/                      # Private GM prep
+└── mechanics/                     # Daggerheart system info
 
-Vumbua/                 # Original source documents
-├── Lore/              # Raw lore notes (being migrated)
-└── Sessions/          # Original session scripts
+Vumbua/                            # Original source documents (legacy, being migrated)
+
+.agent/workflows/                  # AI + human workflow instructions
+├── add-session.md                 # Process raw transcripts
+├── add-character.md               # Create/update character profiles
+├── add-lore.md                    # Add/update world lore
+├── deploy.md                      # Deploy to Netlify
+├── lore-index.md                  # ★ AI QUICK REFERENCE (read first)
+└── human-instructions.md          # ★ USER GUIDE (how to use workflows)
 ```
+
+### Documentation Layers
+
+| Layer | Purpose | Updated |
+|-------|---------|---------|
+| **Source docs** (`docs/lore/`, `docs/sessions/`, etc.) | Single source of truth for all campaign content | After each session via AI workflows |
+| **NotebookLM exports** (`docs/notebooklm/`) | Consolidated copies for NotebookLM ingestion | Manually re-exported after major updates |
+| **Legacy docs** (`Vumbua/`) | Original pre-migration source material | Not actively maintained |
+| **AI reference** (`.agent/workflows/lore-index.md`) | Quick reference for AI session processing | After each session |
 
 ---
 
 ## Dual-Track Documentation
 
-**Important:** Lore pages include both **player-facing information** and **GM secrets**.
+Lore pages include both **player-facing information** and **GM narration** (not "secrets" — this is narrated content from real-play sessions):
 
 - **"What Players Know"** sections are safe to share
-- **"GM Secrets"** sections are clearly marked with red caution boxes
-- The Knowledge Tracker keeps track of what's been revealed
-
-This allows us to maintain a single source of truth while preserving mysteries.
-
----
-
-## For Players
-
-### Catching Up on Sessions
-Start here: [📚 Session Index](docs/sessions/index.md)
-
-### Learning About the World
-Browse: [🌍 Lore Hub](docs/lore/index.md)
-
-### Quick Reference
-- [Glossary](docs/lore/glossary.md) - Terms and definitions
-- [Timeline](docs/lore/timeline.md) - When things happened
-- [Characters](docs/characters/index.md) - Who's who
-
----
-
-## For the GM (Me)
-
-### After Each Session Workflow
-
-1. **Copy the template**
-   ```bash
-   cp docs/sessions/_template.md docs/sessions/session-XX.md
-   ```
-
-2. **Fill in the session recap** (scene-by-scene)
-
-3. **Update affected lore pages**
-   - Add newly revealed information to "What Players Know"
-   - Update GM Secrets if needed
-
-4. **Update trackers**
-   - [Knowledge Tracker](docs/lore/knowledge-tracker.md) - Mark new discoveries
-   - [Timeline](docs/lore/timeline.md) - Add session date and events
-   - [Character profiles](docs/characters/) - Update relationships and growth
-
-5. **Update Session Index**
-   - Add new session to [docs/sessions/index.md](docs/sessions/index.md)
-
-### GM Notes Location
-Private prep notes go in `docs/gm-notes/` (excluded from GitHub Pages)
-
----
-
-## GitHub Pages Deployment
-
-To deploy changes:
-
-```bash
-git add docs/
-git commit -m "Session XX recap and lore updates"
-git push origin main
-```
-
-GitHub Pages will automatically rebuild from the `docs/` folder.
-
-### Local Preview
-
-To preview the site locally:
-```bash
-# Install Jekyll (once)
-gem install bundler jekyll
-
-# Serve locally
-cd docs
-jekyll serve
-
-# View at http://localhost:4000
-```
+- **"GM Narration"** sections contain unrevealed DM content, marked with caution boxes
+- The [Knowledge Tracker](docs/lore/knowledge-tracker.md) tracks what's been revealed
 
 ---
 
 ## Content Guidelines
 
 ### Session Recaps
-- **Keep story-relevant dialogue** in screenplay format
-- **Cut non-story table talk** (unless it's really funny)
+- **Keep ALL story-relevant dialogue** — zero detail loss
+- **Screenplay format** with speaker attribution (character name for IC, player name for OOC)
 - **Scene-by-scene structure** for easy reference
-- **Include Player Discoveries** bullets
-- **Add GM Notes** for behind-the-scenes info
+- **Only correct 99%-confidence transcription errors** — never summarize or embellish
+- See `.agent/workflows/add-session.md` for full rules
 
-### Lore Pages
-- **Always include both sections**: "What Players Know" and "GM Secrets"
-- **Use clear section headers** and markdown formatting
-- **Link between related pages** for easy navigation
-- **Update Knowledge Tracker** when players learn something
-
-### Character Profiles
-- **Update after each session** with new developments
-- **Track relationships** between characters
-- **Note personal goals** and how they evolve
+### Lore & Character Pages
+- **Never hallucinate** — only record information from session transcripts or GM narration
+- **Dual-track format**: "What Players Know" + "GM Narration"
+- **Link between related pages** and update the Knowledge Tracker
+- See `.agent/workflows/add-lore.md` and `.agent/workflows/add-character.md`
 
 ---
 
-## Campaign Status
+## Update Dependencies
 
-**System:** Daggerheart (v1.5/1.6)  
-**Current Session:** 1  
-**Schedule:** Every 2 weeks  
-**Party Size:** 5 players
+When completing any task, the AI must update all downstream files. Use this as a checklist:
 
-### The Party
-- **Britt** (Sophie) - Mizizi, Gold Rank
-- **Aggie** (Kristina) - Mizizi, Silver Rank
-- **Ignatius** (John) - Ash-Blood, Silver Rank
-- **Lomi** (Luke F) - Harmony-born, Copper Rank
-- **Iggy** (Holly) - "Earthkin," Gold Rank
+| After... | Always update... |
+|----------|-----------------|
+| **Processing a session** | `docs/sessions/index.md`, `docs/lore/knowledge-tracker.md`, `docs/lore/timeline.md`, `.agent/workflows/lore-index.md` (session delta + session status), `CHANGELOG.md` |
+| **Adding/updating a character** | `docs/characters/index.md`, `.agent/workflows/lore-index.md` (NPC list + spellings), `CHANGELOG.md` |
+| **Adding/updating lore** | `docs/lore/index.md`, `docs/lore/glossary.md` (if new terms), `.agent/workflows/lore-index.md`, `CHANGELOG.md` |
+| **Any AI action** | `CHANGELOG.md` — date-stamped bullet with TLDR + file(s) changed |
 
 ---
 
-## Contributing
+## Changelog
 
-This is a personal campaign repository, but if you're a player and spot an error or want to suggest an update:
+All AI-driven changes are logged in [`CHANGELOG.md`](CHANGELOG.md) with date stamps. Every workflow appends to this file upon completion.
 
-1. **Create an issue** describing what needs fixing
-2. **Or submit a PR** with the correction
+---
 
-Please maintain the dual-track documentation format when editing lore pages!
+## Deployment
+
+Deploy changes via the `/deploy` workflow or manually:
+
+```bash
+git add docs/
+git commit -m "Session XX recap and lore updates"
+git push origin main
+```
 
 ---
 
