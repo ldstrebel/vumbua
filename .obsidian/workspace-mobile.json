@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/characters/player-characters/ignatius.md",
+                "file": "docs/lore/factions/clans/ash-bloods.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ignatius"
+              "title": "ash-bloods"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "docs/characters/player-characters/ignatius.md",
+            "file": "docs/lore/factions/clans/ash-bloods.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "docs/characters/player-characters/ignatius.md",
+            "file": "docs/lore/factions/clans/ash-bloods.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "docs/characters/player-characters/ignatius.md",
+            "file": "docs/lore/factions/clans/ash-bloods.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -171,8 +171,8 @@
   },
   "active": "0b9be669b80bb97d",
   "lastOpenFiles": [
-    "docs/characters/player-characters/Drawing 2026-02-17 09.23.25.excalidraw.md",
     "docs/characters/player-characters/ignatius.md",
+    "docs/characters/player-characters/Drawing 2026-02-17 09.23.25.excalidraw.md",
     "docs/lore/factions/clans/ash-bloods.md",
     "Valerius Sterling.md",
     "docs/characters/npcs/lady-ignis.md",
