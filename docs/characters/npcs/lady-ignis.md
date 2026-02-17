@@ -12,7 +12,7 @@
 
 ## Rise to Power
 
-Before Contact, [[Lady Ignis]] was the respected matriarch of the [[Ash-Bloods|Ash Blood]] clan. After the **Integration Ceremony**, she became overnight one of the most powerful people in Harmony.
+Before Contact, Lady Ignis was the respected matriarch of the [[Ash-Bloods|Ash Blood]] clan. After the **Integration Ceremony**, she became overnight one of the most powerful people in Harmony.
 
 ### The Integration Ceremony
 
@@ -39,7 +39,7 @@ Whatever else she said, not everyone caught it—but this was her public vow.
 
 ## Current Status
 
-[[Lady Ignis]] departed on her new airship, escorted by Captain Thorne, to destinations unknown in the east. The [[Ash-Bloods|Ash Bloods]] now have quasi-celebrity status throughout Harmony.
+Lady Ignis departed on her new airship, escorted by Captain Thorne, to destinations unknown in the east. The [[Ash-Bloods|Ash Bloods]] now have quasi-celebrity status throughout Harmony.
 
 ---
 

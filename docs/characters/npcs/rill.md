@@ -12,7 +12,7 @@
 
 ## Background
 
-[[Rill]] arrived in the [[Mizizi]] homeland as part of an exchange program two years ago. She was **clearly not a turtle-mushroom** and stuck out immediately. Unlike those who adapted to the Mizizi way of life, Rill was visibly unhappy there.
+Rill arrived in the [[Mizizi]] homeland as part of an exchange program two years ago. She was **clearly not a turtle-mushroom** and stuck out immediately. Unlike those who adapted to the Mizizi way of life, Rill was visibly unhappy there.
 
 ### Her Journey
 1. Arrived at Mizizi forest 2 years ago via exchange
@@ -25,7 +25,7 @@
 
 > "Why we are the way we are."
 
-[[Rill]] is investigating the fundamental nature of the clans—why they are different, why they have unique abilities, and what connects them.
+Rill is investigating the fundamental nature of the clans—why they are different, why they have unique abilities, and what connects them.
 
 ## Letters to the Clan
 

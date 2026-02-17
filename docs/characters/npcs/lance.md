@@ -16,7 +16,7 @@ Tall, nicely dressed—**Bridgerton meets rugby player**. Blonde, quintessential
 
 ## Personality
 
-[[Lance]] tries to be polite about cultural differences, but his privileged background shows through. He's curious about the new clans but struggles to mask his mild discomfort around non-Harmony physiology.
+Lance tries to be polite about cultural differences, but his privileged background shows through. He's curious about the new clans but struggles to mask his mild discomfort around non-Harmony physiology.
 
 **Notable Quotes:**
 - "Don't worry, Chad. Welcome to the show, mate."

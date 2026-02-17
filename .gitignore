@@ -1,1 +1,7 @@
 exports/*.md
+
+# Obsidian workspace files (user-specific, not shared)
+docs/.obsidian/workspace.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/graph.json
+docs/.obsidian/hotkeys.json
