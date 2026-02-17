@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "40a4479f4b9a311c",
+        "id": "848c00e79134f4bb",
         "type": "tabs",
         "children": [
           {
-            "id": "0b9be669b80bb97d",
+            "id": "2e59d0a8170b80f8",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "2026-02-17.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-02-17"
             }
           }
         ]
@@ -32,7 +36,7 @@
         "state": {
           "type": "file-explorer",
           "state": {
-            "sortOrder": "alphabetical",
+            "sortOrder": "byCreatedTime",
             "autoReveal": false
           },
           "icon": "lucide-folder-closed",
@@ -165,7 +169,7 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "0b9be669b80bb97d",
+  "active": "2e59d0a8170b80f8",
   "lastOpenFiles": [
     "Untitled.canvas",
     "2026-02-17.md",
