@@ -697,16 +697,16 @@ Keep in Git (so plugin config is shared):
 - Does NOT work on Windows/Android
 - Occasional sync conflicts with `.obsidian/` files
 
-### Option C: Git Sync (Free, all platforms)
+### Option C: Git Sync (Free, all platforms) -- Recommended Starting Point
 
-- Use the Obsidian Git plugin (see Section 8.1)
-- Works on desktop (Mac/Windows/Linux)
-- On mobile: use Working Copy (iOS) or Termux (Android) to pull/push
-- More technical but free and keeps everything in the repo
+- **Desktop:** Use the **Obsidian Git** community plugin for auto pull/push (stable on desktop)
+- **Mobile:** Use the **GitSync** community plugin (not the same as "Obsidian Git" -- GitSync is designed for mobile and avoids the instability issues). Note: the older "Obsidian Git" plugin self-reports as "highly unstable on mobile" and recommends GitSync instead.
+- Both plugins talk to the same GitHub repo, so desktop and mobile stay in sync via Git
+- Free and keeps everything in the repo with full version history
 
 ### Recommendation
 
-Use **Obsidian Sync** for seamless cross-device experience. Keep the **Git integration** as well for backup and AI workflow compatibility. They can coexist -- Obsidian Sync handles device-to-device, Git handles version history and AI integration.
+Start with **Option C (Git Sync)** -- it's free, keeps the repo as single source of truth, and enables AI workflows directly. Use **Obsidian Git** on desktop and **GitSync** on mobile. If Git sync proves too fiddly on mobile, upgrade to **Obsidian Sync** ($4/mo) later -- it can coexist with the Git integration (Obsidian Sync handles device-to-device, Git handles version history and AI access).
 
 ---
 
