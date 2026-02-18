@@ -2,7 +2,7 @@
 set -euo pipefail
 
 REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
-DOCS="$REPO_ROOT/docs"
+VAULT="$REPO_ROOT"
 OUT="$REPO_ROOT/exports"
 
 rm -rf "$OUT"
@@ -20,104 +20,104 @@ concat() {
 }
 
 concat "01-characters-pcs.md" \
-  "$DOCS/characters/player-characters/britt.md" \
-  "$DOCS/characters/player-characters/aggie.md" \
-  "$DOCS/characters/player-characters/ignatius.md" \
-  "$DOCS/characters/player-characters/lomi.md" \
-  "$DOCS/characters/player-characters/iggy.md"
+  "$VAULT/characters/player-characters/britt.md" \
+  "$VAULT/characters/player-characters/aggie.md" \
+  "$VAULT/characters/player-characters/ignatius.md" \
+  "$VAULT/characters/player-characters/lomi.md" \
+  "$VAULT/characters/player-characters/iggy.md"
 
 concat "02-characters-npcs-faculty.md" \
-  "$DOCS/lore/characters/npcs/dean-isolde-vane.md" \
-  "$DOCS/lore/characters/npcs/celia-vance.md" \
-  "$DOCS/lore/characters/npcs/hesperus.md" \
-  "$DOCS/lore/characters/npcs/ratchet.md" \
-  "$DOCS/lore/characters/npcs/kojo.md" \
-  "$DOCS/lore/characters/npcs/pyrrhus.md"
+  "$VAULT/lore/characters/npcs/dean-isolde-vane.md" \
+  "$VAULT/lore/characters/npcs/celia-vance.md" \
+  "$VAULT/lore/characters/npcs/hesperus.md" \
+  "$VAULT/lore/characters/npcs/ratchet.md" \
+  "$VAULT/lore/characters/npcs/kojo.md" \
+  "$VAULT/lore/characters/npcs/pyrrhus.md"
 
 concat "03-characters-npcs-squads.md" \
-  "$DOCS/lore/characters/npcs/valerius-sterling.md" \
-  "$DOCS/lore/characters/npcs/serra-vox.md" \
-  "$DOCS/lore/characters/npcs/cassius-thorne.md" \
-  "$DOCS/lore/characters/npcs/iron-jaw-jax.md" \
-  "$DOCS/lore/characters/npcs/maria-wall.md" \
-  "$DOCS/lore/characters/npcs/brawn.md" \
-  "$DOCS/lore/characters/npcs/nyx.md" \
-  "$DOCS/lore/characters/npcs/kaelen.md" \
-  "$DOCS/lore/characters/npcs/mira.md" \
-  "$DOCS/lore/characters/npcs/calculus-prime.md" \
-  "$DOCS/lore/characters/npcs/theorem.md" \
-  "$DOCS/lore/characters/npcs/lemma.md" \
-  "$DOCS/lore/characters/npcs/dr-rose-halloway.md" \
-  "$DOCS/lore/characters/npcs/silas-thorne.md" \
-  "$DOCS/lore/characters/npcs/bramble.md" \
-  "$DOCS/lore/characters/npcs/cinder-4.md" \
-  "$DOCS/lore/characters/npcs/hearth.md" \
-  "$DOCS/lore/characters/npcs/kindle.md" \
-  "$DOCS/lore/characters/npcs/captain-barnacle.md" \
-  "$DOCS/lore/characters/npcs/pressure.md" \
-  "$DOCS/lore/characters/npcs/depth.md" \
-  "$DOCS/lore/characters/npcs/percival-vane-smythe-iii.md" \
-  "$DOCS/lore/characters/npcs/lady-glimmer.md" \
-  "$DOCS/lore/characters/npcs/baron-bolt.md" \
-  "$DOCS/lore/characters/npcs/sarge.md" \
-  "$DOCS/lore/characters/npcs/lucky.md" \
-  "$DOCS/lore/characters/npcs/pudge.md"
+  "$VAULT/lore/characters/npcs/valerius-sterling.md" \
+  "$VAULT/lore/characters/npcs/serra-vox.md" \
+  "$VAULT/lore/characters/npcs/cassius-thorne.md" \
+  "$VAULT/lore/characters/npcs/iron-jaw-jax.md" \
+  "$VAULT/lore/characters/npcs/maria-wall.md" \
+  "$VAULT/lore/characters/npcs/brawn.md" \
+  "$VAULT/lore/characters/npcs/nyx.md" \
+  "$VAULT/lore/characters/npcs/kaelen.md" \
+  "$VAULT/lore/characters/npcs/mira.md" \
+  "$VAULT/lore/characters/npcs/calculus-prime.md" \
+  "$VAULT/lore/characters/npcs/theorem.md" \
+  "$VAULT/lore/characters/npcs/lemma.md" \
+  "$VAULT/lore/characters/npcs/dr-rose-halloway.md" \
+  "$VAULT/lore/characters/npcs/silas-thorne.md" \
+  "$VAULT/lore/characters/npcs/bramble.md" \
+  "$VAULT/lore/characters/npcs/cinder-4.md" \
+  "$VAULT/lore/characters/npcs/hearth.md" \
+  "$VAULT/lore/characters/npcs/kindle.md" \
+  "$VAULT/lore/characters/npcs/captain-barnacle.md" \
+  "$VAULT/lore/characters/npcs/pressure.md" \
+  "$VAULT/lore/characters/npcs/depth.md" \
+  "$VAULT/lore/characters/npcs/percival-vane-smythe-iii.md" \
+  "$VAULT/lore/characters/npcs/lady-glimmer.md" \
+  "$VAULT/lore/characters/npcs/baron-bolt.md" \
+  "$VAULT/lore/characters/npcs/sarge.md" \
+  "$VAULT/lore/characters/npcs/lucky.md" \
+  "$VAULT/lore/characters/npcs/pudge.md"
 
 concat "04-characters-npcs-notable.md" \
-  "$DOCS/lore/characters/npcs/lady-ignis.md" \
-  "$DOCS/characters/npcs/lady-ignis.md" \
-  "$DOCS/lore/characters/npcs/rill.md" \
-  "$DOCS/characters/npcs/rill.md" \
-  "$DOCS/lore/characters/npcs/zephyr.md" \
-  "$DOCS/lore/characters/npcs/lance.md" \
-  "$DOCS/characters/npcs/lance.md" \
-  "$DOCS/lore/characters/npcs/valerius-sterling-sr.md" \
-  "$DOCS/lore/characters/npcs/lady-glissade.md"
+  "$VAULT/lore/characters/npcs/lady-ignis.md" \
+  "$VAULT/characters/npcs/lady-ignis.md" \
+  "$VAULT/lore/characters/npcs/rill.md" \
+  "$VAULT/characters/npcs/rill.md" \
+  "$VAULT/lore/characters/npcs/zephyr.md" \
+  "$VAULT/lore/characters/npcs/lance.md" \
+  "$VAULT/characters/npcs/lance.md" \
+  "$VAULT/lore/characters/npcs/valerius-sterling-sr.md" \
+  "$VAULT/lore/characters/npcs/lady-glissade.md"
 
 concat "05-clans.md" \
-  "$DOCS/lore/factions/clans/trench-kin.md" \
-  "$DOCS/lore/factions/clans/wadi.md" \
-  "$DOCS/lore/factions/clans/renali.md" \
-  "$DOCS/lore/factions/clans/fulgur-born.md"
+  "$VAULT/lore/factions/clans/trench-kin.md" \
+  "$VAULT/lore/factions/clans/wadi.md" \
+  "$VAULT/lore/factions/clans/renali.md" \
+  "$VAULT/lore/factions/clans/fulgur-born.md"
 
 concat "06-harmony-factions.md" \
-  "$DOCS/lore/factions/harmony/overview.md" \
-  "$DOCS/lore/factions/harmony/vane-lineage.md" \
-  "$DOCS/lore/factions/harmony/house-gilded.md" \
-  "$DOCS/lore/factions/harmony/syndicate-of-sails.md" \
-  "$DOCS/lore/factions/harmony/verdant-trust.md" \
-  "$DOCS/lore/factions/harmony/grand-architects.md" \
-  "$DOCS/lore/factions/harmony/high-justiciars.md" \
-  "$DOCS/lore/factions/harmony/scrivener-guild.md" \
-  "$DOCS/lore/factions/harmony/iron-union.md"
+  "$VAULT/lore/factions/harmony/overview.md" \
+  "$VAULT/lore/factions/harmony/vane-lineage.md" \
+  "$VAULT/lore/factions/harmony/house-gilded.md" \
+  "$VAULT/lore/factions/harmony/syndicate-of-sails.md" \
+  "$VAULT/lore/factions/harmony/verdant-trust.md" \
+  "$VAULT/lore/factions/harmony/grand-architects.md" \
+  "$VAULT/lore/factions/harmony/high-justiciars.md" \
+  "$VAULT/lore/factions/harmony/scrivener-guild.md" \
+  "$VAULT/lore/factions/harmony/iron-union.md"
 
 concat "07-world-and-bestiary.md" \
-  "$DOCS/lore/world/the-bleed.md" \
-  "$DOCS/lore/world/the-minimum.md" \
-  "$DOCS/lore/world/pre-stitch-artifacts.md" \
-  "$DOCS/lore/bestiary/ether-jelly.md" \
-  "$DOCS/lore/bestiary/void-beast.md" \
-  "$DOCS/lore/bestiary/rot-shepherd.md" \
-  "$DOCS/lore/bestiary/whispering-moth.md"
+  "$VAULT/lore/world/the-bleed.md" \
+  "$VAULT/lore/world/the-minimum.md" \
+  "$VAULT/lore/world/pre-stitch-artifacts.md" \
+  "$VAULT/lore/bestiary/ether-jelly.md" \
+  "$VAULT/lore/bestiary/void-beast.md" \
+  "$VAULT/lore/bestiary/rot-shepherd.md" \
+  "$VAULT/lore/bestiary/whispering-moth.md"
 
 concat "08-locations.md" \
-  "$DOCS/lore/locations/vumbua-academy.md"
+  "$VAULT/lore/locations/vumbua-academy.md"
 
 concat "09-reference.md" \
-  "$DOCS/lore/glossary.md" \
-  "$DOCS/lore/timeline.md" \
-  "$DOCS/lore/knowledge-tracker.md"
+  "$VAULT/lore/glossary.md" \
+  "$VAULT/lore/timeline.md" \
+  "$VAULT/lore/knowledge-tracker.md"
 
 concat "10-sessions.md" \
-  "$DOCS/sessions/session-00.md"
+  "$VAULT/sessions/transcripts/session-00.md"
 
 concat "11-session-raw-transcripts.md" \
-  "$DOCS/sessions/s0-raw.md" \
-  "$DOCS/sessions/s1-raw.md"
+  "$VAULT/sessions/transcripts/s0-raw.md" \
+  "$VAULT/sessions/transcripts/s1-raw.md"
 
 concat "12-session-planning.md" \
-  "$DOCS/sessions/s2-planning.md" \
-  "$DOCS/sessions/bonfire_scene.md"
+  "$VAULT/sessions/planning/s2/s2-planning.md" \
+  "$VAULT/sessions/planning/s2/bonfire_scene.md"
 
 echo "Export complete. Files in $OUT:"
 ls -lh "$OUT"

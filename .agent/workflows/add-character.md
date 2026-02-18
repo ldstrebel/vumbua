@@ -14,13 +14,13 @@ Use this workflow to create a new player character or NPC profile.
 ## Steps
 
 1. **Check for existing profile**
-   - Search `docs/lore/characters/npcs/` for NPCs
-   - Search `docs/characters/player-characters/` for PCs
+   - Search `lore/characters/npcs/` for NPCs
+   - Search `characters/player-characters/` for PCs
    - If profile exists, update it instead of creating a new one
 
 2. **Determine character type and location**
-   - Player Character → `docs/characters/player-characters/`
-   - NPC → `docs/lore/characters/npcs/`
+   - Player Character → `characters/player-characters/`
+   - NPC → `lore/characters/npcs/`
 
 3. **Create the character file**
    - Filename: lowercase with hyphens (e.g., `lady-ignis.md`)
@@ -91,7 +91,7 @@ Use this workflow to create a new player character or NPC profile.
    ```
 
 5. **Update the character index**
-   - Add entry to `docs/characters/index.md`
+   - Add entry to `characters/index.md`
    - Place in appropriate section (Students, Staff, Notable Figures)
 
 6. **Cross-reference**
@@ -103,7 +103,7 @@ Use this workflow to create a new player character or NPC profile.
 
 8. **Commit changes**
    ```bash
-   git add docs/lore/characters/ docs/characters/
+   git add lore/characters/ characters/
    git commit -m "Add [Character Name] profile"
    git push
    ```
@@ -113,7 +113,7 @@ Use this workflow to create a new player character or NPC profile.
    - Bullet: character added/updated, file path
 
 ## File Locations
-- Player Characters: `docs/characters/player-characters/`
-- NPCs: `docs/lore/characters/npcs/`
-- Character Index: `docs/characters/index.md`
+- Player Characters: `characters/player-characters/`
+- NPCs: `lore/characters/npcs/`
+- Character Index: `characters/index.md`
 - Lore Index: `.agent/workflows/lore-index.md`
