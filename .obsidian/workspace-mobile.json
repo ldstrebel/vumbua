@@ -11,12 +11,14 @@
             "id": "2ade9fb315eb2fdc",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "Excalidraw/Devin OCR test.md"
+                "file": "lore/characters/npcs/calculus-prime.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Devin OCR test"
+              "icon": "lucide-file",
+              "title": "calculus-prime"
             }
           }
         ]
@@ -110,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Excalidraw/Devin OCR test.md",
+            "file": "lore/characters/npcs/calculus-prime.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Excalidraw/Devin OCR test.md",
+            "file": "lore/characters/npcs/calculus-prime.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Excalidraw/Devin OCR test.md",
+            "file": "lore/characters/npcs/calculus-prime.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,21 +166,24 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
     }
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "lore/factions/clans/trench-kin.md",
+    "sessions/transcripts/session-02.md",
+    "lore-dump/Taratannen.pdf",
     "Excalidraw/Devin OCR test.md",
+    "The Power System.md",
     "Excalidraw/Devin OCR test.png",
     "obsidian-migration-handoff.md",
     "Test note and draw.md",
-    "The Power System.md",
     "sessions/planning/s2/s2.5-planning.md",
     "sessions/planning/s2/s2-planning.md",
     "sessions/planning/s2/index.md",
     "sessions/planning/s2/bonfire_scene.md",
-    "sessions/transcripts/session-02.md",
     "sessions/transcripts/session-02.5.md",
     "sessions/transcripts/session-01.md",
     "sessions/transcripts/session-00.md",
@@ -203,7 +208,6 @@
     "lore/factions/harmony/house-gilded.md",
     "lore/factions/harmony",
     "lore/factions/clans",
-    "lore/characters/npcs",
-    "lore/world"
+    "lore/characters/npcs"
   ]
 }
