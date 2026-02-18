@@ -20,18 +20,14 @@ tags:
 | **Affiliation** | Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]] |
 | **Status** | Active |
 | **Archetype** | The Burdened Legacy |
-| **First Appearance** | [[session-01|Session 1]] |
+| **First Appearance** | Not yet on-screen |
 
 ## Overview
-Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He captains Squad 01, "The Echelon," and is the academy's golden boy. He is technically brilliant, rigidly disciplined, and deeply burdened by the expectations of his family.
+Valerius Sterling is the Captain of Squad 01 ("The Echelon") and the Academy's "Golden Boy." He is technically brilliant, rigidly disciplined, and deeply burdened by the expectations of his family. He is the **cousin** of [[Valentine Sterling]], though he considers Val's radio antics a distraction from the true mission.
 
-## Session Appearances
-
-### Session 1
-- **The Courtyard Encounter:** Valerius (initially identified as a "Chad" student) met [[Ignatius]] immediately after the intake exam.
-- **The Interaction:** He recognized Ignatius as an [[Ash-Bloods|Ash-Blood]] and asked if the heat "is back."
-- **The Handshake:** He hesitated to shake Ignatius's hand, asking "Will your hand burn me?" When it didn't, he wiped his hand of soot and stormed off, spitting.
-- **Vibe:** "Bridgerton-esque," arrogant, and obsessed with cleanliness/status.
+## Relationships
+- **[[Valentine Sterling]]**: His younger cousin. Valerius views him as "uncalibrated" and frivolous.
+- **[[Valerius Sterling Sr.]]**: His famous uncle (Valentine's father). Valerius was named after him and feels the pressure to live up to the name more than Valentine does.
 
 ## Personality
 - **Public Persona:** Arrogant, perfect, and critical of "Variance" (chaos/unpredictability). He often antagonizes the party, calling them "Uncalibrated."

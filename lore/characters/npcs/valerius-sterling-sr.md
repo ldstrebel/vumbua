@@ -12,13 +12,13 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Renowned Explorer / Father of [[Valerius Sterling]] |
+| **Role** | Renowned Explorer / Father of [[Valentine Sterling]] / Uncle of [[Valerius Sterling]] |
 | **Affiliation** | House Sterling, Harmony |
 | **Status** | Active (or Retired/Legendary) |
-| **First Mentioned** | [[session-00\|Session 0]] |
+| **First Mentioned** | [[session-00|Session 0]] |
 
 ## Overview
-The father of [[Valerius Sterling]] (Squad 01). A legendary figure whose Shadow looms large over his son.
+The father of [[Valentine Sterling]] and the famous uncle of [[Valerius Sterling]]. A legendary figure whose Shadow looms large over his family.
 
 ## Personality
 - **The Standard:** He represents the pinnacle of Harmony's "Explorer" ideal—disciplined, successful, and orderly.

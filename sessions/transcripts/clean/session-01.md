@@ -102,15 +102,15 @@ Here is the **Revised Part 1**, restoring the GM’s descriptive text and the sp
 
 **IGNATIUS (JOHN)** I think Ignatius had this facade of confidence walking in and getting through this, it just melts away. Like, "What the f\*\*\*?"
 
-**GM (LUKE S)** (As **[[Valerius Sterling]]**) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, friend. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The [[Ember]] Isles?"
+**GM (LUKE S)** (As **[[Valentine Sterling]]**) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, friend. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The [[Ember]] Isles?"
 
 **IGNATIUS (JOHN)** "What gave it away? Was it the soot or the literal flames?"
 
-**GM (LUKE S)** (As Valerius) "Um, you are on fire, lad. Yes, it's back, right?" (Beat) "It's hard to wipe off. I mean, it's something that never leaves you. I... all respect. I hope not, actually. I'll see you." (Walking away, then turning) "Oh... will your hand burn me?"
+**GM (LUKE S)** (As Valentine) "Um, you are on fire, lad. Yes, it's back, right?" (Beat) "It's hard to wipe off. I mean, it's something that never leaves you. I... all respect. I hope not, actually. I'll see you." (Walking away, then turning) "Oh... will your hand burn me?"
 
 **IGNATIUS (JOHN)** "I don't think so." (Action) I shake his hand.
 
-**GM (LUKE S)** It doesn't burn him. (As Valerius) "Alright, jolly good." (Narrating) He storms off, spitting and trying to get the soot off his hand.
+**GM (LUKE S)** It doesn't burn him. (As Valentine) "Alright, jolly good." (Narrating) He storms off, spitting and trying to get the soot off his hand.
 
 **IGNATIUS (JOHN)** I think Ignatius finds this really funny because like... that's not a normal thing for him to always be covered in soot. It's just because of how far he's traveled. He plays into it every now and then. We're not barbarians. We clean ourselves.
 
