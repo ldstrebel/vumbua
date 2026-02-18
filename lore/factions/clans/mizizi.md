@@ -30,7 +30,7 @@ The elders have been increasingly terrified, convinced that this fulfills the an
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived---led by **[[Valentine Sterling Sr.]]** (known to the Mizizi as "[[Valentine Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on. Publicly, he claimed integration work bored him. In truth, he was frustrated by the Mizizi's inscrutable nature and had spotted **something else** (Ruins) he wanted to investigate later, without the burden of diplomacy.
+When Harmony's explorers arrived---led by **[[valentine-sterling-sr|Valentine Sterling Sr.]]** (known to the Mizizi as "[[valentine-sterling-sr|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on. Publicly, he claimed integration work bored him. In truth, he was frustrated by the Mizizi's inscrutable nature and had spotted **something else** (Ruins) he wanted to investigate later, without the burden of diplomacy.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood

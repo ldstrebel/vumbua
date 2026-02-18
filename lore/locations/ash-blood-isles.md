@@ -28,7 +28,7 @@ The Ash-Blood Isles are a chain of volcanic mountains with perpetual smoke and m
 
 The volcanic chain is visible on the horizon from the edge of the [[Mizizi Petrified Forest]]. During [[session-00|Session 0]], the GM described: *"You can see on the horizon the smoke of their perpetual volcano."*
 
-The Isles were discovered 24 months ago by **Captain Elara Thorne** — just one week after [[Valentine Sterling Sr.]] found the [[Mizizi]]. The [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Isles were discovered 24 months ago by **Captain Elara Thorne** — just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] found the [[Mizizi]]. The [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 ### Leidian
 The Isles produce **leidian** — an obsidian-like heat stone that burns 80% hotter per gram since integration. It has a halflife oscillation (heat tapers then rises) and loses potency with distance from the Isles. Used in [[Vumbua Academy]]'s boiler room alongside crystal batteries.

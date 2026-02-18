@@ -22,10 +22,10 @@ tags:
 | **first Appearance** | [[session-01|Session 1]] |
 
 ## Overview
-Valentine is the Scion of House Sterling, son of the legendary explorer [[Valentine Sterling Sr.]]. Unlike his rigid cousin [[Valerius Sterling]], Val is approachable, charming, and deeply embedded in the social fabric of the Academy.
+Valentine is the Scion of House Sterling, son of the legendary explorer [[valentine-sterling-sr|Valentine Sterling Sr.]]. Unlike his rigid cousin [[Valerius Sterling]], Val is approachable, charming, and deeply embedded in the social fabric of the Academy.
 
 ## Relationships
-- **[[Valentine Sterling Sr.]]**: His father, the legendary explorer. Val inherited his father's charisma and love for the spotlight.
+- **[[valentine-sterling-sr|Valentine Sterling Sr.]]**: His father, the legendary explorer. Val inherited his father's charisma and love for the spotlight.
 - **[[Valerius Sterling]]**: His older cousin and the "Voice of Vumbua" Radio Host. Valerius has been at the academy for years.
 - **[[Ignatius]]**: Met in the courtyard after Intake. Val was amused by the soot/fire but hesitant to touch him.
 - **[[Serra Vox|Seraphina Vox]]:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
@@ -58,4 +58,4 @@ Groomed to lead the Venture since birth. He has never actually touched dirt; his
 Narcissism. He cannot process the idea of someone being more "efficient" than him.
 
 ### Valentine Sterling Sr.
-During the Silent Era, [[Valentine Sterling Sr.|Sterling Sr.]] led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.
+During the Silent Era, [[valentine-sterling-sr|Sterling Sr.]] led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.

@@ -28,7 +28,7 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[Ash-Blood Isles]] just one week after [[Valentine Sterling Sr.]] had found the [[Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[Ash-Blood Isles]] just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] had found the [[Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 **What the Integration Brought:**
 
@@ -96,7 +96,7 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 
 ### Source References
 
-- **[[session-00|Session 0]]** — [[Ash-Blood Isles]] discovery by Captain Elara Thorne; [[Valentine Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
+- **[[session-00|Session 0]]** — [[Ash-Blood Isles]] discovery by Captain Elara Thorne; [[valentine-sterling-sr|Valentine Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
 - **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
 - **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 3)*
