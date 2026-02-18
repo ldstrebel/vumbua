@@ -118,6 +118,16 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 
 ## Tips for Best Results
 
+### Asking for the right truth tier (prevents "planned" bleeding into canon)
+When prompting the AI, specify which tier you want:
+- **Player handout**: use only **What Players Know** + transcript-derived facts
+- **GM assistant**: include **GM Narration** (unrevealed but narrated canon)
+- **Prep mode**: include **GM Plan** (future rosters/intent); otherwise the AI should avoid it
+
+If you see something like a squad roster referenced before the Loom/team selection has happened in-session, that should be treated as **GM Plan** until the transcript establishes it.
+
+## Tips for Best Results
+
 ### Providing Transcripts
 - **Any format works** — the AI will organize it. Raw Granola/Otter output, manual notes, etc.
 - **More is better** — include everything, even table talk. The AI will identify what's in vs. out of character.

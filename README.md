@@ -104,6 +104,14 @@ Lore pages include both **player-facing information** and **GM narration** (not 
 - **"GM Narration"** sections contain unrevealed DM content, marked with caution boxes
 - The [[Knowledge Tracker]] tracks what's been revealed
 
+### Truth tiers (reduces RAG confusion)
+To prevent planned content from masquerading as session-truth, we treat information as one of:
+- **transcript**: said/seen in-session (highest confidence)
+- **gm-narration**: narrated by GM but not yet known to PCs (still canon, but hidden)
+- **gm-plan**: prep/rosters/intent (not yet occurred in-session)
+
+If something is `gm-plan` (e.g. a squad roster before the Loom selection happens), it must be clearly labeled and kept out of player-facing sections.
+
 ---
 
 ## Content Guidelines

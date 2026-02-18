@@ -31,10 +31,24 @@ Use this workflow to create a new player character or NPC profile.
 
    > **CORE RULE: Never hallucinate.** Only include details explicitly stated in session transcripts or GM narration. If a field is unknown, leave it blank or write "Unknown".
    >
-   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time. If early sessions describe a character one way and later sessions reveal more depth, keep both perspectives with session tags. Session canon is always additive.
+   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time.
+   >
+   > **Truth tiers (RAG safety):**
+   > - **transcript**: said/seen in-session (highest confidence)
+   > - **gm-narration**: narrated by GM but not yet known to PCs (still canon, but hidden)
+   > - **gm-plan**: prep/rosters/intent (not yet occurred in-session)
+   >
+   > **Squads/Teams rule:** Do not state that a squad/team has been formed unless it happened in-session. If you track planned rosters, label them as `gm-plan`.
 
    Use this template:
    ```markdown
+   ---
+   aliases: []
+   tags: []
+   canon: transcript # transcript | gm-narration | gm-plan | legacy
+   reveal: players # players | gm
+   ---
+
    # [Character Name]
 
    > *"Signature quote if available"*

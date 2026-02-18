@@ -30,9 +30,23 @@ Use this workflow to add new lore pages or update existing ones with new informa
 
 2. **Use the dual-track format**
 
-   > **CORE RULE: Only record information from session transcripts and GM narration.** Never invent or extrapolate lore. If uncertain about a detail, tag it for review.
+   > **CORE RULE: Only record information from session transcripts and GM narration.** Never invent or extrapolate lore.
+   >
+   > **Truth tiers (RAG safety):**
+   > - **transcript**: said/seen in-session
+   > - **gm-narration**: narrated by GM but not yet known to PCs
+   > - **gm-plan**: prep/intent/rosters that have not happened in-session yet
+   >
+   > Keep `gm-plan` information clearly labeled and out of “What the Players Know”.
 
    ```markdown
+   ---
+   aliases: []
+   tags: []
+   canon: transcript # transcript | gm-narration | gm-plan | legacy
+   reveal: players # players | gm
+   ---
+
    # [Topic Name]
 
    ## What the Players Know

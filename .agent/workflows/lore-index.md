@@ -14,6 +14,27 @@ description: AI-facing quick reference for the Vumbua campaign repo
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
+**Standard format (for diff-based updates):**
+
+```markdown
+## Session Delta (Session NN: <Title>)
+
+### New / First-Mentioned Entities
+- NPC: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+- Location: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+- Term: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+
+### Updated Entity Pages
+- [[Name]] — add/update “Session Appearances”
+
+### Player Knowledge Changes
+- Knowledge Tracker: ✅/❌ <bullet>
+
+### Truth / Provenance Notes
+- If something is GM planning (not spoken in-session), tag it as `gm-plan` and keep it out of player-facing sections.
+```
+
+
 **New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[Professor Kante]] already had files)
 **New locations**: Power Plant interior (Walker-Core)
 **Key reveals** ([[Iggy]] only):
@@ -26,6 +47,12 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - "Trail tales from the Trench" — [[Trench-Kin]] known to Harmony as border defenders
 **Iggy's new assets**: Umber crystal from Kante, five connection experiments planned
 **Plot threads opened**: Kante invited Iggy to return for tea and collaboration; Iggy's worldview challenged (connection vs. isolation)
+
+### Truth tiers (RAG safety)
+- **transcript**: said/seen in-session
+- **gm-narration**: narrated by GM but not yet known to PCs
+- **gm-plan**: prep/rosters/intent not yet occurred in-session (do not treat as established canon)
+- **legacy**: older docs; may be superseded by transcripts
 
 ---
 
