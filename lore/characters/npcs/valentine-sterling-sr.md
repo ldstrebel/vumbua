@@ -20,8 +20,13 @@ tags:
 ## Overview
 The father of [[Valentine Sterling]] and the famous uncle of [[Valerius Sterling]]. A legendary figure whose Shadow looms large over his family.
 
-## Personality
 - **The Standard:** He represents the pinnacle of Harmony's "Explorer" ideal—disciplined, successful, and orderly.
+- **Hidden Obsession:** Beneath the polished exterior, he is driven by a need to solve "unsolvable" puzzles. When he can't, he moves on... to return later.
+
+## The Secret of the Ruins
+During his expedition to the [[Mizizi Petrified Forest]], Valentine Sr. didn't just find the Mizizi. He spotted **massive, ancient ruins** deep within the petrified canopy—structures that predated the Mizizi.
+
+He couldn't immediately decipher the Mizizi or reach the ruins, so he declared the integration "boring" and left. This was a lie. He intends to return to the forest, bypass the Mizizi integration politics, and claim the ruins for himself.
 
 ## Source References
 
