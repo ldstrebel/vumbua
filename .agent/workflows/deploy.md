@@ -18,7 +18,7 @@ Use this workflow to deploy the Vumbua wiki to Netlify.
    - Netlify will auto-detect `netlify.toml` config
 
 3. **Deploy settings** (auto-configured by netlify.toml)
-   - Publish directory: `docs/`
+   - Publish directory: `meta/docs/`
    - No build command needed (static files)
 
 4. **Click Deploy**

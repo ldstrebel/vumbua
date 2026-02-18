@@ -26,8 +26,8 @@ import os
 import sys
 from datetime import datetime, timezone
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXCALIDRAW_DIR = os.path.join(REPO_ROOT, "Excalidraw")
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+EXCALIDRAW_DIR = os.path.join(REPO_ROOT, "meta", "Excalidraw")
 MANIFEST_PATH = os.path.join(REPO_ROOT, ".excalidraw-manifest.json")
 
 def _detect_provider():

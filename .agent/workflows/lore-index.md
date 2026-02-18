@@ -8,6 +8,8 @@ aliases:
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 >
+> **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
+>
 > **Last Updated**: Session 2.5 (February 2026)
 
 ---
@@ -92,11 +94,11 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Player (OOC) | Character (IC) | Clan/Origin | Rank | File |
 |--------------|----------------|-------------|------|------|
-| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `characters/player-characters/britt.md` |
-| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md` |
-| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `characters/player-characters/ignatius.md` |
-| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
-| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
+| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `lore/characters/player-characters/britt.md` |
+| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `lore/characters/player-characters/aggie.md` |
+| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `lore/characters/player-characters/ignatius.md` |
+| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `lore/characters/player-characters/lomi.md` |
+| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `lore/characters/player-characters/iggy.md` |
 
 **Speaker attribution**: Use character name for in-character dialogue, player name for out-of-character talk. Determine from context.
 
@@ -216,44 +218,48 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Session | Raw Transcript | Cleaned Transcript | Status |
 |---------|---------------|-------------------|--------|
-| Session 0 | `transcripts/s0-raw.md` | `transcripts/session-00.md` | ✅ Complete |
-| Session 1 | `transcripts/s1-raw.md` | `transcripts/session-01.md` | ✅ Complete |
-| Session 2 | (in s1-raw / bonfire_scene) | `transcripts/session-02.md` | ✅ Complete |
-| Session 2.5 | `transcripts/s2.5-raw.md` | `transcripts/session-02pt5.md` | ✅ Complete |
+| Session 0 | `lore/sessions/transcripts/s0-raw.md` | `lore/sessions/transcripts/session-00.md` | ✅ Complete |
+| Session 1 | `lore/sessions/transcripts/s1-raw.md` | `lore/sessions/transcripts/session-01.md` | ✅ Complete |
+| Session 2 | (in s1-raw / bonfire_scene) | `lore/sessions/transcripts/session-02.md` | ✅ Complete |
+| Session 2.5 | `lore/sessions/transcripts/s2.5-raw.md` | `lore/sessions/transcripts/session-02.5.md` | ✅ Complete |
 
 ---
 
 ## File Map
 
 ```
-characters/                        # Character profiles (Obsidian vault)
-├── index.md                       # Master character index
-├── player-characters/             # 5 PC profiles
-└── npcs/                          # Notable NPCs with dual-vault copies
-
-sessions/                          # Session transcripts + planning
-├── transcripts/                   # Raw + cleaned session transcripts
-│   ├── _template.md               # Template for new sessions
-│   ├── sN-raw.md                  # Raw transcript input
-│   └── session-NN.md              # Cleaned session output
-└── planning/                      # GM session prep
-
-lore/                              # ★ CANONICAL LORE (Obsidian vault)
+lore/                              # ★ ALL CAMPAIGN CONTENT
 ├── index.md                       # Lore hub
 ├── glossary.md                    # A-Z terms
 ├── timeline.md                    # Full chronological history
 ├── knowledge-tracker.md           # Player knowledge vs GM narration
-├── characters/npcs/               # ★ CANONICAL NPC profiles (45 files)
+├── characters/                    # ★ ALL CHARACTER PROFILES
+│   ├── index.md                   # Character codex (PCs + NPCs)
+│   ├── player-characters/         # 5 PC profiles
+│   └── npcs/                      # ★ CANONICAL NPC profiles (45+ files)
+├── sessions/                      # Session transcripts + planning
+│   ├── index.md                   # Session recap index
+│   ├── transcripts/               # Raw + cleaned session transcripts
+│   │   ├── _template.md           # Template for new sessions
+│   │   ├── sN-raw.md              # Raw transcript input
+│   │   └── session-NN.md          # Cleaned session output
+│   └── planning/                  # GM session prep
 ├── factions/                      # Clans + Harmony houses
 ├── world/                         # World mechanics
 ├── locations/                     # Place descriptions (14 files)
 └── bestiary/                      # Creature profiles
 
-docs/                              # Export / publish target
-├── notebooklm/                    # Consolidated exports for NotebookLM
-└── _config.yml                    # Jekyll config (if using GitHub Pages)
-
-Vumbua/                            # Original source documents (legacy)
+meta/                              # ★ APP MANAGEMENT & TOOLING
+├── scripts/                       # Python/bash automation scripts
+├── docs/                          # Jekyll/NotebookLM exports
+├── exports/                       # Export output
+├── radio-scripts/                 # Radio-style session recaps
+├── Excalidraw/                    # Excalidraw test files
+├── Ink/                           # Ink drawing/writing files
+├── Daggerheart-Core/              # System reference PDFs
+└── legacy/                        # Pre-migration source material
+    ├── Vumbua/                    # Original source documents
+    └── lore-dump/                 # Temporary lore imports
 
 .agent/workflows/                  # AI workflow instructions
 ├── add-session.md                 # Process raw transcripts → cleaned recaps
@@ -268,9 +274,8 @@ Vumbua/                            # Original source documents (legacy)
 
 | Directory | Purpose | Updated By |
 |-----------|---------|------------|
-| `lore/` | Source of truth for all lore | AI via `/add-lore` |
-| `lore/characters/npcs/` | Canonical NPC profiles | AI via `/add-character` |
-| `characters/` | Character index + PC profiles | AI via `/add-character` |
-| `docs/notebooklm/` | Consolidated exports for NotebookLM | Manual re-export after major updates |
-| `sessions/transcripts/` | Raw + cleaned session files | AI via `/add-session` |
-| `Vumbua/` | Original source docs (legacy) | Not actively updated |
+| `lore/` | Source of truth for all campaign content | AI via workflows |
+| `lore/characters/` | Character index, PCs, and canonical NPC profiles | AI via `/add-character` |
+| `lore/sessions/` | Raw + cleaned session files + planning | AI via `/add-session` |
+| `meta/docs/notebooklm/` | Consolidated exports for NotebookLM | Manual re-export after major updates |
+| `meta/legacy/` | Original source docs (legacy) | Not actively updated |

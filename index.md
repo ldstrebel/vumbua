@@ -28,20 +28,17 @@ Our story follows five unlikely students:
 ### [📖 Lore](lore/index.md)
 Discover the factions, clans, and mechanics that drive this world.
 
-### [👥 Characters](characters/index.md)
+### [👥 Characters](lore/characters/index.md)
 Meet the player characters and important NPCs.
 
-### [🎬 Sessions](sessions/index.md)
+### [🎬 Sessions](lore/sessions/index.md)
 Read scene-by-scene recaps of our adventures.
-
-### [⚙️ Mechanics](mechanics/index.md)
-Learn about Daggerheart classes, ranks, and exploration systems.
 
 ---
 
 ## Campaign Status
 
-**Current Session:** 1  
+**Current Session:** 2  
 **Next Session:** Every 2 weeks  
 **System:** Daggerheart (v1.5/1.6)
 

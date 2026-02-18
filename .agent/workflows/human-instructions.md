@@ -13,7 +13,7 @@ This guide explains how to get the most out of the AI workflows for managing the
 ## Quick Start: After a Session
 
 1. **Record or transcribe the session** (Granola, Otter, manual notes — whatever works)
-2. **Drop the raw transcript** into `sessions/transcripts/sN-raw.md` (where N = session number)
+2. **Drop the raw transcript** into `lore/sessions/transcripts/sN-raw.md` (where N = session number)
 3. **Tell the AI**: `/add-session` — it will handle the rest
 4. **Review the cleaned transcript** — check speaker attributions and flagged items
 5. **Deploy**: `/deploy` to push changes to the wiki
@@ -27,13 +27,13 @@ This guide explains how to get the most out of the AI workflows for managing the
 **When**: After every game session
 
 **What to prepare**:
-- Raw transcript file placed at `sessions/transcripts/sN-raw.md`
-- Know the session number (check `sessions/transcripts/` for the latest)
+- Raw transcript file placed at `lore/sessions/transcripts/sN-raw.md`
+- Know the session number (check `lore/sessions/transcripts/` for the latest)
 
 **Prompt examples**:
 ```
 /add-session
-Process the raw transcript for session 3. The raw file is at sessions/transcripts/s3-raw.md.
+Process the raw transcript for session 3. The raw file is at lore/sessions/transcripts/s3-raw.md.
 Players present: Sophie (Britt), Kristina (Aggie), John (Ignatius), Luke (Lomi), Holly (Iggy).
 Session date: February 16, 2026.
 ```
@@ -154,11 +154,11 @@ If you see something like a squad roster referenced before the Loom/team selecti
 
 | What | Where |
 |------|-------|
-| Raw transcripts | `sessions/transcripts/sN-raw.md` |
-| Cleaned sessions | `sessions/transcripts/session-NN.md` |
-| Character index | `characters/index.md` |
+| Raw transcripts | `lore/sessions/transcripts/sN-raw.md` |
+| Cleaned sessions | `lore/sessions/transcripts/session-NN.md` |
+| Character index | `lore/characters/index.md` |
 | NPC profiles | `lore/characters/npcs/` |
-| PC profiles | `characters/player-characters/` |
+| PC profiles | `lore/characters/player-characters/` |
 | World lore | `lore/` |
 | Glossary | `lore/glossary.md` |
 | Timeline | `lore/timeline.md` |

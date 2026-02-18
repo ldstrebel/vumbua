@@ -28,7 +28,7 @@ jobs:
       - name: Check for new transcriptions
         id: check
         run: |
-          NEW_FILES=$(git diff --name-only HEAD~1 HEAD -- 'Excalidraw/*-transcription.md' 2>/dev/null || echo "")
+          NEW_FILES=$(git diff --name-only HEAD~1 HEAD -- 'meta/Excalidraw/*-transcription.md' 2>/dev/null || echo "")
           if [ -z "$NEW_FILES" ] && [ "${{ github.event_name }}" != "workflow_dispatch" ]; then
             echo "skip=true" >> "$GITHUB_OUTPUT"
             echo "No new transcriptions found, skipping"
@@ -47,7 +47,7 @@ jobs:
         if: steps.check.outputs.skip != 'true'
         env:
           DRY_RUN: ${{ inputs.dry_run || 'false' }}
-        run: python scripts/excalidraw_lore_update.py
+        run: python meta/scripts/excalidraw_lore_update.py
 
       - name: Commit lore updates
         if: steps.check.outputs.skip != 'true'

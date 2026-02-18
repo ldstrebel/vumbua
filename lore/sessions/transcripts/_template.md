@@ -91,8 +91,8 @@
 
 [Links to lore pages that should be updated based on this session]
 
-- [ ] Update [Character Name](../characters/player-characters/character.md)
-- [ ] Update [NPC Name](../characters/npcs/npc.md)
+- [ ] Update [Character Name](../../characters/player-characters/character.md)
+- [ ] Update [NPC Name](../../characters/npcs/npc.md)
 - [ ] Update [Location](../lore/locations/location.md)
 - [ ] Update [Knowledge Tracker](../lore/knowledge-tracker.md)
 - [ ] Add new entries to [Timeline](../lore/timeline.md)

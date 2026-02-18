@@ -8,7 +8,7 @@ description: Generate a radio recap script for a game session
     -   Read the `session-[number].md` or `session-[number]-transcript.md` files for key events.
     -   Identify major plot points, cliffhangers, and world updates.
 4.  **Draft the Script**:
-    -   Create a new file in `sessions/radio-scripts/` named `session-[number]-recap.md`.
+    -   Create a new file in `meta/radio-scripts/` named `session-[number]-recap.md`.
     -   **ElevenLabs Formatting Guide (Crucial for Natural Performance)**:
         -   **Punctuation & Prosody**:
             -   `FULL CAPS`: Use for the "Big Reveal" or significant stress (e.g., "The SPECTACULAR gala!").

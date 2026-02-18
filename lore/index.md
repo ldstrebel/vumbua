@@ -2,6 +2,14 @@
 
 Welcome to the world of **The Great Stitching**.
 
+## Characters
+
+- [Character Codex](characters/index.md) - Player characters, NPCs, and student squads
+
+## Sessions
+
+- [Session Recaps](sessions/index.md) - Scene-by-scene recaps of our adventures
+
 ## The World
 
 - [World Overview](world/index.md) - Core concepts, integration mechanics, and map zones
@@ -50,3 +58,4 @@ Welcome to the world of **The Great Stitching**.
 - [[Glossary]] - Terms and definitions
 - [[Timeline]] - Chronological events
 - [[Knowledge Tracker]] - What players know
+- [Character Codex](characters/index.md) - All characters at a glance

@@ -13,31 +13,31 @@ import os
 import re
 import sys
 
-DOCS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DOCS_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 REGISTRY = {
     "Britt": {
-        "file": "characters/player-characters/britt.md",
+        "file": "lore/characters/player-characters/britt.md",
         "aliases": [],
         "tags": ["pc", "mizizi", "gold-rank"],
     },
     "Aggie": {
-        "file": "characters/player-characters/aggie.md",
+        "file": "lore/characters/player-characters/aggie.md",
         "aliases": [],
         "tags": ["pc", "mizizi", "silver-rank"],
     },
     "Ignatius": {
-        "file": "characters/player-characters/ignatius.md",
+        "file": "lore/characters/player-characters/ignatius.md",
         "aliases": ["Lava Boy"],
         "tags": ["pc", "ash-blood", "silver-rank"],
     },
     "Lomi": {
-        "file": "characters/player-characters/lomi.md",
+        "file": "lore/characters/player-characters/lomi.md",
         "aliases": ["Lomi Sultano"],
         "tags": ["pc", "harmony-born", "iron-union", "copper-rank"],
     },
     "Iggy": {
-        "file": "characters/player-characters/iggy.md",
+        "file": "lore/characters/player-characters/iggy.md",
         "aliases": ["The Mole"],
         "tags": ["pc", "trench-kin", "gold-rank"],
     },
@@ -696,7 +696,7 @@ def process_file(filepath):
 SKIP_DIRS = {
     "notebooklm", ".obsidian", ".git", ".trash", "node_modules",
     "Daggerheart-Core", "Vumbua", "exports", "lore-dump", "Ink",
-    "docs",
+    "docs", "meta",
 }
 
 def collect_all_md_files():

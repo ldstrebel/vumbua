@@ -5,9 +5,8 @@ theme: jekyll-theme-cayman
 # Navigation
 header_pages:
   - lore/index.md
-  - characters/index.md
-  - sessions/index.md
-  - mechanics/index.md
+  - lore/characters/index.md
+  - lore/sessions/index.md
 
 # Exclude GM notes from site
 exclude:

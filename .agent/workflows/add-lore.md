@@ -99,7 +99,7 @@ Use this workflow to add new lore pages or update existing ones with new informa
 
 5. **Commit changes**
    ```bash
-   git add lore/
+   git add lore/ CHANGELOG.md
    git commit -m "Update [topic] lore from Session N"
    git push
    ```

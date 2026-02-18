@@ -7,25 +7,25 @@ description: Add a new session recap after gameplay
 Use this workflow after each game session to properly document what happened.
 
 ## Prerequisites
-- Raw transcript or notes from the session (placed in `sessions/transcripts/sN-raw.md`)
+- Raw transcript or notes from the session (placed in `lore/sessions/transcripts/sN-raw.md`)
 - Know which session number this is
 - Read `.agent/workflows/lore-index.md` first to orient on canonical spellings and existing characters
 
 ## Steps
 
 1. **Determine the session number**
-   - Check `sessions/transcripts/` for the last session number
+   - Check `lore/sessions/transcripts/` for the last session number
    - New session will be N+1
 
 2. **Review the raw transcript file**
-   - Located at `sessions/transcripts/sN-raw.md`
+   - Located at `lore/sessions/transcripts/sN-raw.md`
    - If it doesn't exist, ask the user to provide one
    - Read `lore-index.md` canonical spellings section before starting cleanup
    - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure
 
 3. **Create the cleaned session file**
    // turbo
-   - Copy `sessions/transcripts/_template.md` to `sessions/transcripts/session-NN.md`
+   - Copy `lore/sessions/transcripts/_template.md` to `lore/sessions/transcripts/session-NN.md`
    - Fill in the header information (date, players present)
 
 3.5. **Pre-scan: Build entity lists from transcript**
@@ -104,7 +104,7 @@ Use this workflow after each game session to properly document what happened.
    - When fixing one line of dialogue, re-read the surrounding 5-10 lines to make sure you didn't accidentally delete or orphan adjacent exchanges
 
 5. **Update the session index**
-   - Add entry to `characters/index.md` if new PCs, and update `lore/knowledge-tracker.md`
+   - Add entry to `lore/characters/index.md` if new PCs, and update `lore/knowledge-tracker.md`
    - Include 2-3 sentence summary
    - List key events and player discoveries
 
@@ -119,7 +119,7 @@ Use this workflow after each game session to properly document what happened.
 
 7. **Commit changes**
    ```bash
-   git add sessions/ lore/ characters/
+   git add lore/
    git commit -m "Add Session N recap"
    git push
    ```
@@ -129,9 +129,9 @@ Use this workflow after each game session to properly document what happened.
    - Bullet: session processed, key files updated
 
 ## File Locations
-- Raw transcripts: `sessions/transcripts/sN-raw.md`
-- Cleaned sessions: `sessions/transcripts/session-NN.md`
-- Template: `sessions/transcripts/_template.md`
+- Raw transcripts: `lore/sessions/transcripts/sN-raw.md`
+- Cleaned sessions: `lore/sessions/transcripts/session-NN.md`
+- Template: `lore/sessions/transcripts/_template.md`
 - Lore index (AI reference): `.agent/workflows/lore-index.md`
 
 ## Common Mistakes (learned from Session 2.5)

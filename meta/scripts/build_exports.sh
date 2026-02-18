@@ -1,9 +1,9 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-REPO_ROOT="$(cd "$(dirname "$0")/.." && pwd)"
+REPO_ROOT="$(cd "$(dirname "$0")/../.." && pwd)"
 VAULT="$REPO_ROOT"
-OUT="$REPO_ROOT/exports"
+OUT="$REPO_ROOT/meta/exports"
 
 rm -rf "$OUT"
 mkdir -p "$OUT"
@@ -20,11 +20,11 @@ concat() {
 }
 
 concat "01-characters-pcs.md" \
-  "$VAULT/characters/player-characters/britt.md" \
-  "$VAULT/characters/player-characters/aggie.md" \
-  "$VAULT/characters/player-characters/ignatius.md" \
-  "$VAULT/characters/player-characters/lomi.md" \
-  "$VAULT/characters/player-characters/iggy.md"
+  "$VAULT/lore/characters/player-characters/britt.md" \
+  "$VAULT/lore/characters/player-characters/aggie.md" \
+  "$VAULT/lore/characters/player-characters/ignatius.md" \
+  "$VAULT/lore/characters/player-characters/lomi.md" \
+  "$VAULT/lore/characters/player-characters/iggy.md"
 
 concat "02-characters-npcs-faculty.md" \
   "$VAULT/lore/characters/npcs/dean-isolde-vane.md" \
@@ -65,12 +65,9 @@ concat "03-characters-npcs-squads.md" \
 
 concat "04-characters-npcs-notable.md" \
   "$VAULT/lore/characters/npcs/lady-ignis.md" \
-  "$VAULT/characters/npcs/lady-ignis.md" \
   "$VAULT/lore/characters/npcs/rill.md" \
-  "$VAULT/characters/npcs/rill.md" \
   "$VAULT/lore/characters/npcs/zephyr.md" \
   "$VAULT/lore/characters/npcs/lance.md" \
-  "$VAULT/characters/npcs/lance.md" \
   "$VAULT/lore/characters/npcs/valerius-sterling-sr.md" \
   "$VAULT/lore/characters/npcs/lady-glissade.md"
 
@@ -109,15 +106,15 @@ concat "09-reference.md" \
   "$VAULT/lore/knowledge-tracker.md"
 
 concat "10-sessions.md" \
-  "$VAULT/sessions/transcripts/session-00.md"
+  "$VAULT/lore/sessions/transcripts/session-00.md"
 
 concat "11-session-raw-transcripts.md" \
-  "$VAULT/sessions/transcripts/s0-raw.md" \
-  "$VAULT/sessions/transcripts/s1-raw.md"
+  "$VAULT/lore/sessions/transcripts/s0-raw.md" \
+  "$VAULT/lore/sessions/transcripts/s1-raw.md"
 
 concat "12-session-planning.md" \
-  "$VAULT/sessions/planning/s2/s2-planning.md" \
-  "$VAULT/sessions/planning/s2/bonfire_scene.md"
+  "$VAULT/lore/sessions/planning/s2/s2-planning.md" \
+  "$VAULT/lore/sessions/planning/s2/bonfire_scene.md"
 
 echo "Export complete. Files in $OUT:"
 ls -lh "$OUT"
