@@ -15,3 +15,9 @@ Member of Squad 04. Dedicated to testing hypotheses in combat.
 
 ## Personality
 - inquisitive and methodical.
+
+## Related Pages
+
+- [[Calculus Prime]] — Squad 04 Captain
+- [[Lemma]] — Squad 04 Support
+- [[Vumbua Academy]] — Current posting

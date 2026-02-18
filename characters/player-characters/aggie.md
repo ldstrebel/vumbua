@@ -17,6 +17,7 @@ tags:
 | **Rank** | 🥈 Silver |
 | **Class** | Daggerheart Character |
 | **Player** | Christina (Kristina) |
+| **Housing** | [[Block 04]] (with [[Britt]]) |
 
 ## Appearance
 
@@ -34,7 +35,7 @@ Aggie is **cautious but curious**. Compared to [[Britt]], she's less aggressive 
 
 ## Background
 
-Like [[Britt]], Aggie grew up in the Petrified Forest with the [[Mizizi]] clan's unique death-and-decay philosophy. Selected to attend [[Vumbua Academy]] alongside Britt.
+Like [[Britt]], Aggie grew up in the [[Mizizi Petrified Forest|Petrified Forest]] with the [[Mizizi]] clan's unique death-and-decay philosophy. Selected to attend [[Vumbua Academy]] alongside Britt.
 
 ### What She Knows
 - The forest has stopped dying naturally, causing concern
@@ -51,25 +52,31 @@ Like [[Britt]], Aggie grew up in the Petrified Forest with the [[Mizizi]] clan's
 
 ## Session Appearances
 
-### Session 0 - Character Creation
+### [[session-00|Session 0]] - Character Creation
 - Confirmed fate of being in the same clan as [[Britt]] ("This was fate!")
 - Established as the less outspoken of the pair
 - Defined shared gossip relationship with [[Britt]] about Harmony
 
-### Session 1 - Arrival at Vumbua
+### [[session-01|Session 1]] - Arrival at [[Vumbua Academy]]
 - Took the entrance exam in a cubicle near Britt
 - Was still testing when Britt finished
 - Finished just in time after Britt's distraction
 - Made it through the checkpoint without incident
 
+### [[session-02|Session 2]] - The Bonfire
+- [[Serra Vox]] approached her and [[Britt]] at the [[Block 99]] bonfire
+- [[Rill]] recognized her and [[Britt]]; invited them to visit after class tomorrow
+
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **Britt** | Close friend and fellow Mizizi. The less aggressive of the pair, but shares concerns. |
-| **Ignatius** | Fellow candidate—met at Vumbua |
-| **Lomi** | Fellow candidate—met at Vumbua |
-| **Iggy** | Fellow candidate—met at Vumbua |
+| **[[Britt]]** | Close friend and fellow [[Mizizi]]. The less aggressive of the pair, but shares concerns. |
+| **[[Serra Vox]]** | Approached Aggie at the bonfire; fascinated but made her uncomfortable ([[session-02|Session 2]]) |
+| **[[Rill]]** | Recognized Aggie; invited her to visit ([[session-02|Session 2]]) |
+| **[[Ignatius]]** | Fellow candidate—met at Vumbua |
+| **[[Lomi]]** | Fellow candidate—met at Vumbua |
+| **[[Iggy]]** | Fellow candidate—met at Vumbua |
 
 ---
 

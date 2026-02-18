@@ -33,3 +33,9 @@ They do not hunt heat; they hunt **fear**. They are physical manifestations of t
 ### Recent Incident
 
 A patrol of "The Breakers" (Squad 02) engaged a pack last night using floodlights. Two guards were dragged into the dark; their screams simply stopped instantly.
+
+### Related Pages
+
+- [[The Bleed]] — The void pushing back against integrated reality
+- [[Ash-Bloods]] — True Flame lore vs. Safe-Flame
+- [[Iron-Jaw Jax]] — Captain of Squad 02 (The Breakers)

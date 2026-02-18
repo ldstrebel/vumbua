@@ -9,9 +9,13 @@ tags:
 
 # Lady Ignis
 
-**Role:** Ash-Blood Matriarch / Harmony's Highest Voting Power
-**Affiliation:** Ash-Blood, Harmony Council
-**Status:** Active
+| | |
+|---|---|
+| **Role** | [[Ash-Bloods\|Ash-Blood]] Matriarch / Harmony's Highest Voting Power |
+| **Affiliation** | [[Ash-Bloods]], Harmony Council |
+| **Location** | [[Harmony Prime]] (High Council) |
+| **Status** | Active |
+| **First Mentioned** | [[session-02\|Session 2]] |
 
 ## Overview
 The leader of the Ash-Blood clan who integrated with Harmony. Under the **Inverse Power Doctrine**, she currently holds the **highest voting power** in all of Harmony---essentially the "President"---because the [[Ash-Bloods]] are the newest formally integrated member.
@@ -25,3 +29,8 @@ Lady Ignis holds this position because the [[Ash-Bloods]] were the most recent f
 - **Pragmatic, Regnal:** Takes the long view. She knows the [[Ash-Bloods]] were "cooling" and dying out; Harmony offered survival.
 - **Conflict:** Viewed with suspicion by traditionalists (like [[Ignatius]]?) but commands immense respect.
 - The [[Ash-Bloods]] were going through a "Great Cooling" (volcanoes dying) before Harmony found them. Integration revived the heat.
+
+## Source References
+
+- **[[session-02|Session 2]]** — [[Serra Vox]] explained the [[Inverse Power Doctrine]] and Lady Ignis's role to [[Ignatius]] *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — [[Ignatius]] witnessed Lady Ignis rise to prominence during the Integration ceremony *(background lore)*

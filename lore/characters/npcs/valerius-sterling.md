@@ -13,10 +13,13 @@ tags:
 > "Chaos is just failure you haven't named yet."
 > — *Valerius Sterling*
 
-**Role:** Squad 01 (The Echelon) - Captain (Gold Rank) / Paladin
-**Affiliation:** Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]]
-**Status:** Active
-**Archetype:** The Burdened Legacy
+| | |
+|---|---|
+| **Role** | Squad 01 (The Echelon) - Captain (Gold Rank) / Paladin |
+| **Affiliation** | Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]] |
+| **Status** | Active |
+| **Archetype** | The Burdened Legacy |
+| **First Appearance** | Not yet on-screen |
 
 ## Overview
 Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He captains Squad 01, "The Echelon," and is the academy's golden boy. He is technically brilliant, rigidly disciplined, and deeply burdened by the expectations of his family.
@@ -44,4 +47,4 @@ Groomed to lead the Venture since birth. He has never actually touched dirt; his
 Narcissism. He cannot process the idea of someone being more "efficient" than him.
 
 ### Valerius Sterling Sr.
-During the Silent Era, Sterling Sr. led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.
+During the Silent Era, [[Valerius Sterling Sr.|Sterling Sr.]] led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.

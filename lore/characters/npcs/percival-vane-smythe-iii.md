@@ -12,10 +12,13 @@ tags:
 
 > "Mark my words! When we find the missing clans, I'll be vindicated!"
 
-**Role:** Squad 08 (The Legacy) - Captain (Gold Rank)
-**Affiliation:** [[Vumbua Academy]], [[Vane Lineage|House Vane]] (Harmony)
-**Origin:** Shepta (southern desert city)
-**Status:** Active
+| | |
+|---|---|
+| **Role** | Squad 08 (The Legacy) - Captain (Gold Rank) |
+| **Affiliation** | [[Vumbua Academy]], [[Vane Lineage\|House Vane]] (Harmony) |
+| **Origin** | Shepta (southern desert city) |
+| **Status** | Active |
+| **First Appearance** | [[session-02\|Session 2]] |
 
 ## Overview
 Percy is a well-dressed, genuinely curious theorist---not the entitled noble his appearance suggests. He's passionate about the **Sixfold Theory** (the fringe academic belief that six clans must exist to complete an elemental symmetry) and would rather study obscure journals than attend galas. A distant nephew of the Dean.
@@ -40,7 +43,19 @@ Percy led the group to [[Lucky]] to buy "Engine Grease" (moonshine), showing he 
 Percy's core belief: the known clans (Plants/[[Mizizi]], Fire/[[Ash-Bloods]]) are only part of a larger pattern. He theorizes Earth, Air, Water, and possibly more clans exist undiscovered.
 
 ## Relationships
-- **[[Lomi]]:** Bonded quickly over shared curiosity. Respects him as "salt of the earth."
-- **[[Lucky]]:** His supplier for contraband. Existing business relationship.
-- **[[Iron-Jaw Jax]]:** Ongoing debate partner (Jax thinks the theory is nonsense).
-- **[[Britt]]/[[Aggie]]:** Fascinated by them as potential evidence for his theories.
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Lomi]]** | Bonded quickly over shared curiosity. Respects him as "salt of the earth." |
+| **[[Lucky]]** | His supplier for contraband. Existing business relationship. |
+| **[[Iron-Jaw Jax]]** | Ongoing debate partner (Jax thinks the theory is nonsense). |
+| **[[Bramble]]** | Fellow debater at the bonfire. |
+| **[[Zephyr]]** | Fellow debater at the bonfire. |
+| **[[Britt]]/[[Aggie]]** | Fascinated by them as potential evidence for his theories. |
+| **[[Dean Isolde Vane]]** | Distant nephew of the Dean. |
+
+## Source References
+
+- **[[session-02|Session 2]]** — Led the Speculators' Debate at the [[Block 99]] bonfire; argued for the Sixfold Theory *(Scene 4: The Speculators)*
+- **[[session-02|Session 2]]** — Bonded with [[Lomi]] over "salt of the earth" shared curiosity *(Scene 4)*
+- **[[session-02|Session 2]]** — Led the group to [[Lucky]] to buy Engine Grease; paid in sovereigns *(Scene 8: Grinder Talk)*

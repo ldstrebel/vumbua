@@ -8,11 +8,11 @@
 - ✅ The forest is petrified/stone
 - ✅ Harmony is helping them destroy it with solvents and tools
 - ✅ The [[Mizizi]] philosophy: "When things stop dying, we start dying"
-- ✅ [[Rill]] left the forest 2 years ago to research at Vumbua
-- ✅ The forest doesn't have a clear "purpose" like other nodes---this puzzles Harmony scholars (Session 2)
-- ✅ There's a problem: "too much life"---things aren't dying properly (Session 2)
-- ✅ [[Mizizi]] view death as natural and celebrate the cycle; Harmony culture fears death (Session 2)
-- ✅ The Mizizi have NOT been formally integrated---no seat at Harmony, just a "semi-short-term weapons trade" (Session 2)
+- ✅ [[Rill]] left the forest 2 years ago to research at [[Vumbua Academy]]
+- ✅ The forest doesn't have a clear "purpose" like other nodes---this puzzles Harmony scholars ([[session-02|Session 2]])
+- ✅ There's a problem: "too much life"---things aren't dying properly ([[session-02|Session 2]])
+- ✅ [[Mizizi]] view death as natural and celebrate the cycle; Harmony culture fears death ([[session-02|Session 2]])
+- ✅ The Mizizi have NOT been formally integrated---no seat at Harmony, just a "semi-short-term weapons trade" ([[session-02|Session 2]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The forest is a **data archive/library**
@@ -26,20 +26,20 @@
 ## The Power Crisis
 
 ### What Players Know
-- ✅ Vumbua has "flickering lights" occasionally (might not have noticed)
-- ✅ The Academy relocated recently to the Ash-Blood Isles
-- ✅ Leidian is burning 80% hotter per gram in the last 2 years since integration (Session 2)
-- ✅ Leidian has a halflife oscillation---heat tapers then rises again (Session 2)
-- ✅ Leidian loses some potency with distance from Ash-Blood isle (Session 2)
-- ✅ The boiler room uses both crystal batteries and leidian (Session 2)
-- ✅ Boilers are exploding because leidian is too hot (Session 2)
+- ✅ [[Vumbua Academy|Vumbua]] has "flickering lights" occasionally (might not have noticed)
+- ✅ The Academy relocated recently to the [[Ash-Blood Isles]]
+- ✅ Leidian is burning 80% hotter per gram in the last 2 years since integration ([[session-02|Session 2]])
+- ✅ Leidian has a halflife oscillation---heat tapers then rises again ([[session-02|Session 2]])
+- ✅ Leidian loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]] ([[session-02|Session 2]])
+- ✅ The boiler room uses both crystal batteries and leidian ([[session-02|Session 2]])
+- ✅ Boilers are exploding because leidian is too hot ([[session-02|Session 2]])
 
-### Iggy Only (Session 2.5 — via Professor Kante)
-- 🔶 The Global Amplitude measures total ether energy across Harmony — increases with each node integration
+### Iggy Only ([[session-02.5|Session 2.5]] — via [[Professor Kante]])
+- 🔶 [[The Power System|Global Amplitude]] measures total ether energy across Harmony — increases with each node integration
 - 🔶 The Global Amplitude has been declining for 30-40 years (first decline in recorded history)
 - 🔶 The Ash-Blood integration only produced ~20 amp increase instead of expected +300 to +800
 - 🔶 House Vox scrapped the Apex 1 battery line (Kante's next-gen battery is useless)
-- 🔶 Professor Kante is investigating the Ash-Blood Anomaly — invited Iggy to collaborate
+- 🔶 [[Professor Kante]] is investigating the [[Ash-Bloods|Ash-Blood]] Anomaly — invited [[Iggy]] to collaborate
 - 🔶 The Night of Sparks (~400 years ago) burned the world for two months before umber crystals existed
 - 🔶 Crystal batteries (Panda 5) are surge regulators/receptors, not storage — powered by umber crystals
 - 🔶 Integration works through cultural connection between peoples — not resource extraction
@@ -119,16 +119,16 @@
 ## Vumbua Academy
 
 ### What Players Know
-- ✅ It's a mobile city with three Cores (Sky-Spire, Deep-Hull, Walker-Core)
-- ✅ 70% is temporary scaffolding (Spire-Scape)
+- ✅ It's a mobile city with three Cores ([[Sky-Spire]], [[Deep-Hull]], [[Walker-Core]])
+- ✅ 70% is temporary scaffolding ([[Spire-Scape]])
 - ✅ 100,000 in the intake, expecting massive attrition
-- ✅ Using spare buildings temporarily (Block 99 is a geothermal plant)
+- ✅ Using spare buildings temporarily ([[Block 99]] is a geothermal plant)
 - ✅ This is the first class at the new location
-- ✅ Academy structure: first week classes → exam → Loom team formation → rest week → month-long trial venture (Session 2)
-- ✅ The Loom assigns teams; if one member fails, whole team gets expelled (Session 2)
-- ✅ Campus layout: northwest side has manors, shops, Celestial Lounge (Session 2)
-- ✅ The Celestial Lounge is an upscale club on top floor of tallest building in fancy district (Session 2)
-- ✅ Rank receipts can be flashed for VIP access at clubs, but it's voluntary (Session 2)
+- ✅ Academy structure: first week classes → exam → Loom team formation → rest week → month-long trial venture ([[session-02|Session 2]])
+- ✅ [[The Loom]] assigns teams; if one member fails, whole team gets expelled ([[session-02|Session 2]])
+- ✅ Campus layout: northwest side has manors, shops, [[Celestial Lounge]] ([[session-02|Session 2]])
+- ✅ The [[Celestial Lounge]] is an upscale club on top floor of tallest building in fancy district ([[session-02|Session 2]])
+- ✅ Rank receipts can be flashed for VIP access at clubs, but it's voluntary ([[session-02|Session 2]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The Academy CAN'T return home if they fail (not enough power)
@@ -141,12 +141,12 @@
 ## Harmony Governance
 
 ### What Players Know
-- ✅ The **Inverse Power Doctrine**: newest integrated member gets highest voting power (Session 2)
-- ✅ [[Lady Ignis]] is essentially "President" of Harmony because of this rule (Session 2)
-- ✅ *"The least of us should become the most of us"* (Session 2)
-- ✅ This prevents exploitation of new members' resources (Session 2)
-- ✅ It's kept the peace for a thousand years (Session 2)
-- ✅ Harmony Seat has ~8 million people (Session 2)
+- ✅ The **[[Inverse Power Doctrine]]**: newest integrated member gets highest voting power ([[session-02|Session 2]])
+- ✅ [[Lady Ignis]] is essentially "President" of Harmony because of this rule ([[session-02|Session 2]])
+- ✅ *"The least of us should become the most of us"* ([[session-02|Session 2]])
+- ✅ This prevents exploitation of new members' resources ([[session-02|Session 2]])
+- ✅ It's kept the peace for a thousand years ([[session-02|Session 2]])
+- ✅ [[Harmony Prime|Harmony Seat]] has ~8 million people ([[session-02|Session 2]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The doctrine is partly self-serving---it gives new members a stake so they don't rebel
@@ -160,8 +160,8 @@
 - ✅ 80 years of no new discoveries (the "Silent Era")
 - ✅ [[Ash-Bloods]] discovered "recently"
 - ✅ Vumbua just relocated
-- ✅ [[Rill]] was the Dean's exchange to the [[Mizizi]] village (Session 2)
-- ✅ [[Rill]] is now the Dean's assistant (Session 2)
+- ✅ [[Rill]] was the Dean's exchange to the [[Mizizi]] village ([[session-02|Session 2]])
+- ✅ [[Rill]] is now the Dean's assistant ([[session-02|Session 2]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ Ash-Blood integration: 24 months ago

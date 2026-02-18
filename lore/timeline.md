@@ -55,9 +55,9 @@
 - This breakthrough enables exploration beyond Harmony's current bounds
 
 ### 24 Months Ago - **BREAKTHROUGH**
-- **Valerius Sterling Sr.** discovers the Mizizi one week before Thorne finds the Ash-Bloods
-- Sterling Sr. ("The Paper Man") arrives at the Petrified Forest but moves on---integration work bores him
-- **Captain Elara Thorne** discovers the Ash-Blood Isles
+- **[[Valerius Sterling Sr.]]** discovers the [[Mizizi]] one week before Thorne finds the [[Ash-Bloods]]
+- Sterling Sr. ("The Paper Man") arrives at the [[Mizizi Petrified Forest|Petrified Forest]] but moves on---integration work bores him
+- **Captain Elara Thorne** discovers the [[Ash-Blood Isles]]
 - Ash-Bloods accept Cooling Suits (Outward Flow)
 - Harmony burns Obsidian (Inward Flow)
 - **Integration successful** - volcanoes roar to life
@@ -66,7 +66,7 @@
 
 ### 18 Months Ago
 - **Last Exchange Ritual** occurs
-- **Zephyr** (Storm-Kin) arrives among Mizizi
+- **[[Zephyr]]** (Storm-Kin) arrives among [[Mizizi]]
   - Unlike disciplined envoys, she openly breaks the Taboo
   - Speaks freely of High-Jet Streams and Thunder-Node
 - Ash-Bloods **fail to send bride** to Trench-Kin
@@ -79,71 +79,71 @@
 - Previous intake class travels with the Academy ships
 
 ### 6 Months Ago
-- **Vumbua Academy relocates** to Ash-Blood Isles
-- Worker-Constructs swarm out to build Spire-Scape
+- **[[Vumbua Academy]] relocates** to [[Ash-Blood Isles]]
+- Worker-Constructs swarm out to build [[Spire-Scape]]
 - Temporary city erected using spare labs and buildings
-- Iron-Union retrofits boiler room for Obsidian direct-transfer
-- Ash-Blood youth beg for boiler room shifts (feels like home)
+- [[Iron-Union]] retrofits boiler room for Obsidian direct-transfer
+- [[Ash-Bloods|Ash-Blood]] youth beg for boiler room shifts (feels like home)
 
 ### 4 Months Ago
-- Mizizi integration attempts begin
+- [[Mizizi]] integration attempts begin
 - Harmony brings fertilizer/solvents to "help destroy forest"
-- **Integration stalls** - something is wrong
-- Dean Isolde and Historian Nadine begin researching the blockage
+- **Integration stalls** at 15% - something is wrong
+- [[Dean Isolde Vane|Dean Isolde]] and Historian Nadine begin researching the blockage
 
 ### 2 Months Ago
-- **Rill arrives at Vumbua Academy**
-  - **Secretly Wadi (River Clan):** Originally entered Mizizi Forest as an exchange member **6 years ago**.
+- **[[Rill]] arrives at [[Vumbua Academy]]**
+  - **Secretly [[Wadi]] (River Clan):** Originally entered [[Mizizi Petrified Forest|Mizizi Forest]] as an exchange member **6 years ago**.
   - **2 Years Ago:** Left Mizizi forest claiming to study "Accelerated Decay" (The "Traitor" event).
   - **Now:** Actually researching if forest needs to be destroyed at all.
-  - Sends letters welcoming other Mizizi to join her.
-- Zephyr joins Dean Vane's inner circle
-  - Late night sessions in Sky-Spire sketching wind-patterns
+  - Sends letters welcoming other [[Mizizi]] to join her.
+- [[Zephyr]] joins [[Dean Isolde Vane|Dean Vane]]'s inner circle
+  - Late night sessions in [[Sky-Spire]] sketching wind-patterns
   - Dean believes she's key to high-altitude flight
 
 ---
 
-## Current Timeline (Session 0-1)
+## Current Timeline ([[session-00|Session 0]]–[[session-02.5|Session 2.5]])
 
-### Intake Week - Day 1 (Sessions 0-1)
+### Intake Week - Day 1 ([[session-00|Sessions 0]]–[[session-01|1]])
 - **100,000 candidates** take the trials
-- Largest intake class in Vumbua history
-- The Loom assigns ranks via typewriter system
+- Largest intake class in [[Vumbua Academy|Vumbua]] history
+- [[The Loom]] assigns ranks via typewriter system
 - **Party forms:**
-  - Britt & Aggie (Mizizi cousins) - suspicious of Harmony
-  - Ignatius (Ash-Blood) - on pilgrimage for new heat
-  - Lomi (Harmony-born) - boiler room worker
-  - Iggy (disguised Trench-Kin) - infiltrator seeking answers
+  - [[Britt]] & [[Aggie]] ([[Mizizi]] cousins) - suspicious of Harmony
+  - [[Ignatius]] ([[Ash-Bloods|Ash-Blood]]) - on pilgrimage for new heat
+  - [[Lomi]] (Harmony-born) - boiler room worker
+  - [[Iggy]] (disguised [[Trench-Kin]]) - infiltrator seeking answers
 - [[Dean Isolde Vane|Dean Isolde]] welcomes class; [[Rill]] pulls her off stage
-- Dorm assignments issued
+- Dorm assignments issued: [[Block 04]] ([[Britt]], [[Aggie]]), [[Block 12]] ([[Iggy]], [[Ignatius]]), [[Block 99]] ([[Lomi]])
 - [[Iggy]] climbs crane to "touch the sky"
-- [[Lucky]] hustles his first deals
+- [[Lucky]] hustles his first deals (sold [[Iggy]] a stolen turban)
 
-### Intake Week - Night of Day 1 (Session 2: The Bonfire)
-- Bonfire at Block 99; party socializes with new NPCs
-- **[[Cassius Thorne]]** arranges logs obsessively, charmed by [[Lomi]]
-- **[[Serra Vox]]** approaches [[Britt]]/[[Aggie]]; slips about political connections to The Seat
+### Intake Week - Night of Day 1 ([[session-02|Session 2]]: The Bonfire)
+- Bonfire at [[Block 99]]; party socializes with new NPCs
+- **[[Cassius Thorne]]** arranges logs obsessively; [[Lomi]] encouraged him with a critical-success roll
+- **[[Serra Vox]]** approaches [[Britt]]/[[Aggie]]; slips about political connections to [[Harmony Prime|The Seat]]
 - **The Speculators' Debate:** [[Percival Vane-Smythe III|Percy]] argues the Sixfold Theory; [[Iron-Jaw Jax|Jax]] dismisses it; [[Bramble]] asks *"What if we are the ones who forgot?"*
-- Serra explains the **Inverse Power Doctrine** to [[Ignatius]] ([[Lady Ignis]] holds highest voting power)
+- Serra explains the **[[Inverse Power Doctrine]]** to [[Ignatius]] ([[Lady Ignis]] holds highest voting power)
 - Cultural exchange: [[Mizizi]] view death as natural ("Congratulations!"); Harmony fears death
-- Serra reveals the [[Mizizi]] forest has no clear "purpose"---unusual among nodes
+- Serra reveals the [[Mizizi Petrified Forest|Mizizi forest]] has no clear "purpose"---unusual among nodes
 - [[Lomi]] brings **Engine Grease** (moonshine); [[Zephyr]] drinks it
 - **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed
-- **[[Rill]]** appears, retrieves Zephyr, invites [[Britt]]/[[Aggie]] to find her after class (grass-covered building)
-- [[Ignatius]] reveals Ash-Blood cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
+- **[[Rill]]** appears, retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class (grass-covered building)
+- [[Ignatius]] reveals [[Ash-Bloods|Ash-Blood]] cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
 - Leidian properties discussed: 80% hotter, halflife oscillation, distance decay
-- Party heads to the **Celestial Lounge** for a nightcap
+- Party heads to the **[[Celestial Lounge]]** for a nightcap
 
-### Intake Week - Night of Day 1 (Session 2.5: The Power Room)
-- While others are at bonfire, [[Iggy]] Irish-goodbyes and sneaks into the power plant
+### Intake Week - Night of Day 1 ([[session-02.5|Session 2.5]]: The Power Room)
+- While others are at bonfire, [[Iggy]] Irish-goodbyes and sneaks into the [[Walker-Core]] power plant
 - Meets [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby — neither stops him
-- Discovers over-engineered Panda 5 resonator batteries and charts showing [[The Power System|Global Amplitude]] decline
-- **[[Professor Kante]]** appears — has been watching Iggy sketch; impressed by his technical intuition
-- Kante explains the Minimum Crisis: amplitude declining 30-40 years, Ash-Blood surge only produced ~20 amps (expected +300 to +800)
+- Discovers over-engineered [[The Power System|Panda 5 resonator batteries]] and charts showing [[The Power System|Global Amplitude]] decline
+- **[[Professor Kante]]** appears — has been watching [[Iggy]] sketch; impressed by his technical intuition
+- Kante explains [[The Minimum]] crisis: amplitude declining 30-40 years, [[Ash-Bloods|Ash-Blood]] surge only produced ~20 amps (expected +300 to +800)
 - Kante's theory: integration works through cultural connection, not resource extraction
-- Iggy mentions "the Exchange" — Kante has never heard of it
-- Kante gives Iggy an **umber crystal** and invites him to return as a collaborator
-- Iggy designs five experiments to test "connection" — rejoins group for Celestial Lounge
+- [[Iggy]] mentions "the Exchange" — Kante has never heard of it
+- Kante gives [[Iggy]] an **umber crystal** and invites him to return as a collaborator
+- [[Iggy]] designs five experiments to test "connection" — rejoins group for [[Celestial Lounge]]
 
 ---
 
@@ -151,7 +151,7 @@
 
 ### Next Session
 - First day of classes
-- The Loom assigns teams after first-week exam
+- [[The Loom]] assigns teams after first-week exam
 - Rest week with captain interviews
 - Month-long trial venture
 - Meeting [[Rill]] at the grass-covered building after class
