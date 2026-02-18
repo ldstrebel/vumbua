@@ -40,3 +40,10 @@ To find the source of the heat-drain and stop Vumbua from "choking" the world.
 
 ### Planning Notes
 In the lore dump, Pyrrhus was found in the map room circling a spot labelled "The Trench" and whispering: *"The heat isn't disappearing. It's draining... down."*
+
+## Related Pages
+
+- [[Ash-Bloods]] — Clan affiliation
+- [[Ash-Blood Isles]] — Homeland
+- [[Walker-Core]] — Power systems that worry him
+- [[Vumbua Academy]] — Current posting

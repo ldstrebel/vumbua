@@ -15,3 +15,9 @@ Member of Squad 06. Provides warmth and support, but can unleash devastating hea
 
 ## Personality
 - Warm and welcoming, until provoked.
+
+## Related Pages
+
+- [[Cinder-4]] — Squad 06 Captain
+- [[Kindle]] — Squad 06 Striker
+- [[Vumbua Academy]] — Current posting

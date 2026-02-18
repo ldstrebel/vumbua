@@ -24,3 +24,12 @@ Silas Thorne is an older student (perhaps a repeating senior or lifelong learner
 
 ## Mechanics
 - **Vendor:** Can procure rare "Rust" items or scavenged parts for the party.
+
+## Related Pages
+
+- [[Dr. Rose Halloway]] — Squad 05 Captain
+- [[Bramble]] — Squad 05 Tank
+- [[Cassius Thorne]] — Distant relation
+- [[Pre-Stitch Artifacts]] — Tech he collects
+- [[The Minimum]] — Motivation for hoarding non-magic tech
+- [[Vumbua Academy]] — Current posting

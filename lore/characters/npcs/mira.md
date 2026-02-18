@@ -15,3 +15,9 @@ Member of Squad 03. Often acts as the "eyes" of the squad, spotting targets for 
 
 ## Personality
 - Sharp-eyed and alert.
+
+## Related Pages
+
+- [[Nyx]] — Squad 03 Captain
+- [[Kaelen]] — Squad 03 Infiltrator
+- [[Vumbua Academy]] — Current posting

@@ -8,6 +8,7 @@ tags:
 
 **Role:** Mizizi Student / Help Desk Tutor
 **Affiliation:** [[Vumbua Academy]], [[Mizizi]]
+**Location:** [[Vumbua Academy]] — Clan Assistance & Integration Help Desk
 **Status:** Active
 
 ## Overview
@@ -36,3 +37,9 @@ Social Paralysis. He freezes up when the city noise gets too loud.
 
 ### Motive
 To prove that [[Mizizi]] "Root-Logic" is more stable than Harmony's "Brass-Science."
+
+## Related Pages
+
+- [[Mizizi]] — Clan affiliation
+- [[Mizizi Petrified Forest]] — Homeland
+- [[Vumbua Academy]] — Current posting
