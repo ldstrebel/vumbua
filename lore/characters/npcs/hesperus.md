@@ -19,3 +19,10 @@ A veteran explorer and instructor who leads the practical field training for stu
 - Gruff, mentoring, and practical.
 - Values survival and adaptability over theoretical knowledge.
 - Has a grudging respect for the resourcefulness of Rust-tier students.
+
+## Related Pages
+
+- [[Dean Isolde Vane]] — Academy head
+- [[Celia Vance]] — Fellow faculty member
+- [[The Frontier]] — Where field training takes place
+- [[Vumbua Academy]] — Current posting

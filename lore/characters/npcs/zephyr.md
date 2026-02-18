@@ -12,11 +12,15 @@ tags:
 > "That one was pretty good."
 > --- *Zephyr*, after being struck by her own purple lightning bolt.
 
-**Aliases:** Lightning Girl (Ignatius's nickname)
-**Role:** Unknown---managed by Rill/the Dean
-**Race:** Unknown (Storm-Kin? [[Renali]]?)
-**Affiliation:** [[Vumbua Academy]], [[Dean Isolde Vane|Dean Vane]]'s inner circle
-**Status:** Active
+| | |
+|---|---|
+| **Aliases** | Lightning Girl ([[Ignatius]]'s nickname) |
+| **Role** | Unknown — managed by [[Rill]]/[[Dean Isolde Vane\|the Dean]] |
+| **Race** | Unknown (Storm-Kin? [[Renali]]?) |
+| **Affiliation** | [[Vumbua Academy]], [[Dean Isolde Vane\|Dean Vane]]'s inner circle |
+| **Location** | [[Sky-Spire]] (wind-pattern research sessions) |
+| **Status** | Active |
+| **First Appearance** | [[session-02\|Session 2]] |
 
 ## Overview
 Zephyr is a chaotic, fun-loving girl with platinum hair who doesn't understand why everyone at the Academy is so serious. She can summon massive purple lightning bolts---possibly involuntarily---and is being closely managed by [[Rill]] on behalf of the Dean.
@@ -50,6 +54,16 @@ When [[Lomi]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediatel
 - Her lightning ability is likely connected to the [[Renali]]'s Air Node
 
 ## Relationships
-- **[[Rill]]:** Manages her on behalf of the Dean. Can bribe her with hot chocolate.
-- **[[Ignatius]]:** Called him "[[Ignatius|Lava Boy]]"; he called her "Lightning Girl." Mutual nicknames established.
-- **[[Dean Isolde Vane|The Dean]]:** Zephyr finds the questioning sessions boring but likes the Dean personally.
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Rill]]** | Manages her on behalf of the Dean. Can bribe her with hot chocolate. |
+| **[[Ignatius]]** | Called him "[[Ignatius|Lava Boy]]"; he called her "Lightning Girl." Mutual nicknames established. |
+| **[[Dean Isolde Vane\|The Dean]]** | Zephyr finds the questioning sessions boring but likes the Dean personally. |
+
+## Source References
+
+- **[[session-02|Session 2]]** — Participated in the Speculators' Debate at the [[Block 99]] bonfire *(Scene 4: The Speculators)*
+- **[[session-02|Session 2]]** — Dismissed pattern-seeking: *"Or maybe the world is just broken"* *(Scene 4)*
+- **[[session-02|Session 2]]** — Purple lightning bolt from a clear sky after drinking Engine Grease *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — [[Rill]] retrieved her; [[Ignatius]] asked her name *(Scene 7)*

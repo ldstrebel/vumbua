@@ -14,6 +14,14 @@ How Harmony keeps the lights on---and why they're flickering.
 
 Harmony runs on ether---a pervasive energy field that flows through integrated land. The more territory Harmony integrates, the stronger this field becomes. Crystal batteries power everything from streetlights to medical devices, and the currency of daily life is measured in "Charge" or "Battery Hours."
 
+### Source References
+
+- **[[session-02|Session 2]]** — Leidian properties discussed: 80% hotter per gram, halflife oscillation, distance decay *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — Boiler room uses both crystal batteries and leidian *(Scene 6)*
+- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explained [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the Night of Sparks to [[Iggy]] *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[Iggy]] sketched the Panda 5 resonator batteries; decoded their design philosophy *(Scene 3: The Warehouse)*
+- **[[session-02.5|Session 2.5]]** — Kante gave [[Iggy]] an umber crystal; explained integration works through cultural connection *(Scene 5: The Theory)*
+
 ---
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
@@ -87,7 +95,7 @@ Developed after the Night of Sparks using **umber crystals** mined from **Umbra 
 
 ### The Ash-Blood Anomaly
 
-This is the central mystery that [[Professor Kante]] is investigating:
+This is the central mystery that [[Professor Kante]] is investigating (revealed in [[session-02.5|Session 2.5]]):
 
 **Expected:** A major node integration (like the [[Ash-Bloods]]) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
 
@@ -114,3 +122,10 @@ If the Global Amplitude continues to decline:
 - **At 550:** Batteries begin inconsistent output as natural amplitude surges dip below the cap
 - **Below 550:** Systematic power failures begin
 - **Well below 550:** [[The Minimum]]---lights go out, medical devices fail, Harmony's infrastructure collapses
+
+### Related Pages
+
+- [[The Minimum]] — The energy crisis threatening Harmony
+- [[Professor Kante]] — Investigating the Ash-Blood Anomaly
+- [[Ash-Bloods]] — First major integration in 80 years
+- [[Walker-Core]] — Houses the power plant where [[Iggy]] discovered the Panda 5 batteries

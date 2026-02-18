@@ -14,7 +14,7 @@ tags:
 
 ## What the Players Know
 
-The Mizizi are a unique clan of beings that appear as a fusion of turtle and fungus—turtle-shaped bodies with shells that look like mushroom caps, skin with a dusty, spore-like texture. They live in the hollowed-out fossilized roots of massive ancient mega-flora, somewhere between Pandora's trees and hobbit holes.
+The Mizizi are a unique clan of beings that appear as a fusion of turtle and fungus—turtle-shaped bodies with shells that look like mushroom caps, skin with a dusty, spore-like texture. They live in the hollowed-out fossilized roots of massive ancient mega-flora in the [[Mizizi Petrified Forest]], somewhere between Pandora's trees and hobbit holes.
 
 ### Philosophy: "When Things Stop Dying, We Start Dying"
 
@@ -24,13 +24,13 @@ This isn't metaphorical—they mean it literally. The legends and lore taught to
 
 ### Current Situation
 
-The Petrified Forest that has sheltered the Mizizi for hundreds of years has recently **failed**. Things have stopped dying properly. The forest won't decay. New growth appears instantly where they try to prune.
+The [[Mizizi Petrified Forest|Petrified Forest]] that has sheltered the Mizizi for hundreds of years has recently **failed**. Things have stopped dying properly. The forest won't decay. New growth appears instantly where they try to prune.
 
 The elders have been increasingly terrified, convinced that this fulfills the ancient prophecy: "When the world comes, things stop dying."
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived---led by **[[Valerius Sterling]] Sr.** (known to the Mizizi as "[[Valerius Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the Ash-Blood Isles, but he quickly moved on---integration work bored him.
+When Harmony's explorers arrived---led by **[[Valerius Sterling Sr.]]** (known to the Mizizi as "[[Valerius Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on---integration work bored him.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood
@@ -58,6 +58,14 @@ This year, far more Mizizi were invited to join [[Vumbua Academy]] than ever bef
 - **[[Britt]]** - Gray, dusty fungal-turtle. Outspoken, suspicious of Harmony
 - **[[Aggie]]** - Red-and-white spotted mushroom-turtle. More reserved cousin of Britt
 - **[[Rill]]** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [[Rill]])
+
+### Source References
+
+- **[[session-00|Session 0]]** — [[Valerius Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
+- **[[session-00|Session 0]]** — [[Britt]] and [[Aggie]] established as Mizizi clan members *(Character Creation)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 5: Philosophy of Death)*
+- **[[session-02|Session 2]]** — Mizizi view death as natural; Harmony culture fears death *(Scene 5)*
+- **[[session-02|Session 2]]** — [[Rill]] recognized [[Britt]] and [[Aggie]]; invited them to visit *(Scene 7)*
 
 ### Cultural Notes
 

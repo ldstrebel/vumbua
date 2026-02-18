@@ -19,7 +19,7 @@ The Ash-Bloods are a clan of humanoid-elemental hybrids who dwell in the volcani
 
 ### The Volcanic Homeland
 
-The Ash-Blood Isles are a chain of volcanic mountains with perpetual smoke and magma flows. The clan lives among the vents and lava tubes, where temperatures would kill most other beings.
+The [[Ash-Blood Isles]] are a chain of volcanic mountains with perpetual smoke and magma flows. The clan lives among the vents and lava tubes, where temperatures would kill most other beings.
 
 ### Philosophy: Fire is Ancestor
 
@@ -27,7 +27,7 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the Ash-Blood Isles just one week after [[Valerius Sterling]] Sr. had found the [[Mizizi]]---the Panda line batteries (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[Ash-Blood Isles]] just one week after [[Valerius Sterling Sr.]] had found the [[Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 **What the Integration Brought:**
 
@@ -77,9 +77,7 @@ Integration has split the Ash-Bloods into two ideological camps:
 
 This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
 
-This is not a thing??
-
-### Ash-Blood Physiology (Session 2)
+### Ash-Blood Physiology ([[session-02|Session 2]])
 
 - Ash-Bloods release heat by **burning hotter** (thermodynamic heat transfer), not sweating
 - Their clothing is designed to withstand extreme heat; leidian doesn't burn through it
@@ -89,11 +87,19 @@ This is not a thing??
 
 ### Known Ash-Bloods
 
-- **Ignatius** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
-- **Ember** - Ignatius's childhood cousin, modernizer who rejects traditional fire
-- **[[Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via Inverse Power Doctrine
+- **[[Ignatius]]** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
+- **[[Ember]]** - Ignatius's childhood cousin, modernizer who rejects traditional fire
+- **[[Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via [[Inverse Power Doctrine]]
 - **"The Chad Student"** - Met Ignatius at intake, suspicious of soot
 - ~200 Ash-Bloods at the Academy among 70,000 students
+
+### Source References
+
+- **[[session-00|Session 0]]** — [[Ash-Blood Isles]] discovery by Captain Elara Thorne; [[Valerius Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
+- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[Ignatius]]) and modernizers ([[Ember]]) *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 6)*
+- **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 6)*
+- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes
 
@@ -142,7 +148,7 @@ If Harmony successfully integrates all six clans, the Ash-Bloods would burn hott
 
 ### Lady Ignis and Political Power
 
-**[[Lady Ignis]]** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **Harmony Prime** (the static capital) to join the High Council as the **Representative of the Clans**.
+**[[Lady Ignis]]** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **[[Harmony Prime]]** (the static capital) to join the High Council as the **Representative of the Clans**.
 
 **Her Power:**
 Under Harmony's "Inverse Power Doctrine" (newest members get most political weight to prevent tyranny), she instantly became one of the **most powerful people in the Empire**.

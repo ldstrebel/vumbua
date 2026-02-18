@@ -13,7 +13,12 @@ tags:
 
 ## What Players Know
 
-The Wadi are known to exist but are scarce. Their home Node is fading, so few travel to the Academy. Players know that [[Rill]]---the researcher who left the [[Mizizi]] Forest two years ago---exists at the Academy, but they do not know she is secretly Wadi.
+The Wadi are known to exist but are scarce. Their home Node is fading, so few travel to the Academy. Players know that [[Rill]]---the researcher who left the [[Mizizi Petrified Forest|Mizizi Forest]] two years ago---exists at [[Vumbua Academy]], but they do not know she is secretly Wadi.
+
+### Source References
+
+- **[[session-02|Session 2]]** — [[Rill]] appeared at the [[Block 99]] bonfire; managed [[Zephyr]] on the Dean's behalf *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] called [[Rill]] "one of the greatest inventors in our age" *(Scene 3)*
 
 The Exchange Ritual historically connected the Wadi to the [[Trench-Kin]] through underwater shafts, maintaining genetic diversity between the water-aligned clans.
 

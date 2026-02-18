@@ -4,11 +4,11 @@
 
 ### The Party
 
-- **[[Britt]]** - [[Mizizi]] (Gray fungal-turtle) - Gold Rank
-- **[[Aggie]]** - [[Mizizi]] (Red-and-white spotted mushroom-turtle) - Silver Rank
-- **[[Ignatius]]** - Ash-Blood ([[Ember]] Islander) - Silver Rank
-- **[[Lomi]]** - Harmony-born (Octoumba, [[Iron-Union]]) - Copper Rank
-- **[[Iggy]]** - "[[Trench-Kin|Earthkin]]" ([[Trench-Kin]]) - Gold Rank
+- **[[Britt]]** - [[Mizizi]] (Gray fungal-turtle) - Gold Rank — Housing: [[Block 04]]
+- **[[Aggie]]** - [[Mizizi]] (Red-and-white spotted mushroom-turtle) - Silver Rank — Housing: [[Block 04]]
+- **[[Ignatius]]** - [[Ash-Bloods|Ash-Blood]] ([[Ember]] Islander) - Silver Rank — Housing: [[Block 12]]
+- **[[Lomi]]** - Harmony-born (Octoumba, [[Iron-Union]]) - Copper Rank — Housing: [[Block 99]]
+- **[[Iggy]]** - "[[Trench-Kin|Earthkin]]" ([[Trench-Kin]]) - Gold Rank — Housing: [[Block 12]]
 
 ---
 

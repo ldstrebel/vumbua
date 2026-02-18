@@ -19,3 +19,10 @@ Celia Vance manages the day-to-day logistics of [[Vumbua Academy]]. She creates 
 
 ## Mechanics
 - Often the bearer of bad news regarding resources or scheduling conflicts.
+
+## Related Pages
+
+- [[Dean Isolde Vane]] — Academy head she reports to
+- [[Hesperus]] — Fellow faculty member
+- [[Vumbua Academy]] — Where she manages operations
+- [[Block 99]] / [[Block 12]] / [[Block 04]] — Student housing she administers

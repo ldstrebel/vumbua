@@ -22,24 +22,24 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 
 | Core | Function | Description |
 |---|---|---|
-| **The Sky-Spire** | Command, Elite Dorms, Navigation | A vertical, golden airship towering above the city |
-| **The Deep-Hull** | Classrooms, Logistics, Mess Halls | A massive iron steamship forming the city's base |
-| **The Walker-Core** | Engineering, Power, The Loom | A four-legged industrial power unit on the grounds' edge |
+| **[[Sky-Spire|The Sky-Spire]]** | Command, Elite Dorms, Navigation | A vertical, golden airship towering above the city |
+| **[[Deep-Hull|The Deep-Hull]]** | Classrooms, Logistics, Mess Halls | A massive iron steamship forming the city's base |
+| **[[Walker-Core|The Walker-Core]]** | Engineering, Power, [[The Loom]] | A four-legged industrial power unit on the grounds' edge |
 
-**The Spire-Scape (70%):** Upon landing, thousands of "Worker-Constructs" swarm out to assemble a temporary city around the Cores. A forest of scaffolding, steam cranes lifting prefab dorms, and ley-lines laid directly into the dirt. It feels like a high-tech refugee camp mixed with a World's Fair.
+**[[Spire-Scape|The Spire-Scape]] (70%):** Upon landing, thousands of "Worker-Constructs" swarm out to assemble a temporary city around the Cores. A forest of scaffolding, steam cranes lifting prefab dorms, and ley-lines laid directly into the dirt. It feels like a high-tech refugee camp mixed with a World's Fair.
 
 ### Key Locations
 
 | Location | Description |
 |---|---|
-| **Block 04** | Mizizi dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
-| **Block 12** | Standard dorms. Classic Academy housing. Iggy and Ignatius's room. |
-| **Block 99** | Copper/Worker dorms. A geothermal plant with steam stacks. Lomi's assignment. Site of the bonfire. |
+| [[Block 04]] | [[Mizizi]] dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
+| [[Block 12]] | Standard dorms. Classic Academy housing. [[Iggy]] and [[Ignatius]]'s room. |
+| [[Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[Lomi]]'s assignment. Site of the bonfire. |
 | **Greek Row** | Posh social clubs for Gold-tier students. |
 | **The Clan Assistance Office** | Where clan students get support navigating Harmony bureaucracy. |
 | **The Great Library** | Massive archive. Contains the "Bleached Atoll" report. |
-| **The Industrial Zone** | Where cranes drop construction materials. Iggy climbed a crane here. |
-| **The Bonfire Pit** | Outside Block 99. Where Serra Vox invited the party for Session 2. |
+| **The Industrial Zone** | Where cranes drop construction materials. [[Iggy]] climbed a crane here. |
+| **The Bonfire Pit** | Outside [[Block 99]]. Where [[Serra Vox]] invited the party for [[session-02|Session 2]]. |
 
 ---
 
@@ -56,7 +56,7 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 
 ### The Loom
 
-A massive crystal computer in the Walker-Core. It calculates probabilities and assigns ranks. It can identify "High-Variance" outliers (the Savant Loophole) who solve problems using unsanctioned methods.
+A massive crystal computer in the [[Walker-Core]].It calculates probabilities and assigns ranks. It can identify "High-Variance" outliers (the Savant Loophole) who solve problems using unsanctioned methods.
 
 ### The Receipt System
 
@@ -65,3 +65,10 @@ The *only* official proof of status. A narrow strip of parchment printed by 1920
 ### The Desperate Truth
 
 Vumbua teleported for the first time in a century because a deep-scan revealed two faint pulses---the [[Ash-Bloods]] (Heat) and the [[Mizizi]] (Memory). If this expedition fails, the Academy cannot travel back. They are stranded.
+
+## Source References
+
+- **[[session-00|Session 0]]** — 1920s recruitment poster aesthetic; exploration fever established *(Scene 8: The Trials)*
+- **[[session-01|Session 1]]** — Courtyard reveal of the three Cores; intake exam; [[Dean Isolde Vane]]'s welcome speech *(Scenes 4–8)*
+- **[[session-02|Session 2]]** — [[Block 99]] bonfire; social dynamics established; [[Celestial Lounge]] trip *(Scenes 1–9)*
+- **[[session-02.5|Session 2.5]]** — [[Walker-Core]] power plant interior; [[Professor Kante]]'s research *(Scenes 2–6)*

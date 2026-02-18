@@ -35,3 +35,11 @@ Cowardice. He will betray almost anyone for a hot meal.
 
 ### Planning Notes
 In the lore dump, Pudge was hovering near the [[Mizizi]] Help Desk---not for the math, but because he realized the Mizizi bring "Life-Capsules" (concentrated nutrients) that Harmony doesn't track as food.
+
+## Related Pages
+
+- [[Sarge]] — Squad 09 Captain
+- [[Lucky]] — Squad 09 member
+- [[Kojo]] — Help Desk tutor where he hovered
+- [[Mizizi]] — Source of the "Life-Capsules" rumor
+- [[Vumbua Academy]] — Current posting
