@@ -15,10 +15,11 @@ tags:
 
 | | |
 |---|---|
-| **Origin** | Unknown (possibly Trench-Kin) |
+| **Origin** | Unknown (possibly [[Trench-Kin]]) |
 | **Rank** | 🥇 Gold (receipt was... used as a tissue) |
 | **Class** | Daggerheart Character |
 | **Player** | Holly |
+| **Housing** | [[Block 12]] (with [[Ignatius]]) |
 
 ## Appearance
 
@@ -44,7 +45,7 @@ Iggy is **bewildered, curious, and unconventional**. He navigates the world with
 Iggy's origins are deliberately mysterious. He may be connected to the **[[Trench-Kin]]**—an uncontacted clan that players don't yet know about.
 
 - Parents were on the council — gave him access to most places in the Trench
-- Found the obsidian tablet (sent by [[Ash-Bloods]] rejecting the Exchange)
+- Found the obsidian tablet (sent by [[Ash-Bloods]] rejecting the Exchange; see [[Ash-Bloods#The Broken Exchange]])
 - Didn't fit in with the normal crowd — always the odd one out
 - Has a hidden "treasure trove" of collected trinkets and findings
 - Has never been caught sneaking anywhere — combination of parental access, nobody caring, and a natural ability to blend in
@@ -88,29 +89,30 @@ Iggy's origins are deliberately mysterious. He may be connected to the **[[Trenc
 
 ## Session Appearances
 
-### Session 1 - Arrival at Vumbua
+### [[session-01|Session 1]] - Arrival at [[Vumbua Academy]]
 - Finished his entrance exam
 - Used the receipt printer tape as a tissue (destroying the cubicle's functionality)
 - Asked "Where am I?" to the overwhelmed attendant
 - Supervisor had to personally escort him through
 - Guards waved him through after exchanging confused looks with the supervisor
+- [[Lucky]] sold him a stolen guard turban as a "Kleenex" for one gold
 
-### Session 2 - The Bonfire
-- Socialized at the Block 99 bonfire — secretly enjoyed being included
+### [[session-02|Session 2]] - The Bonfire
+- Socialized at the [[Block 99]] bonfire — secretly enjoyed being included
 - Climbed a crane to "touch the sky"
 - Noticed [[Ignatius]] looking back at him — connection building
 
-### Session 2.5 - The Power Room (1-on-1 with Holly)
+### [[session-02.5|Session 2.5]] - The Power Room (1-on-1 with Holly)
 - Irish-goodbyed from the bonfire when nobody was actively talking to him
-- Walked into the power plant uninvited — nobody stopped him
+- Walked into the [[Walker-Core]] power plant uninvited — nobody stopped him
 - Met [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby
-- Sketched the Panda 5 resonator batteries and decoded their design philosophy (Knowledge roll: 22 with Hope)
+- Sketched the [[The Power System|Panda 5 resonator batteries]] and decoded their design philosophy (Knowledge roll: 22 with Hope)
 - Discovered by [[Professor Kante]], who was impressed by his technical intuition
-- Learned about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly
+- Learned about the [[The Power System|Global Amplitude]] decline and the [[Ash-Bloods|Ash-Blood]] Anomaly
 - Mentioned the Exchange to Kante — who had never heard of it
 - Received an umber crystal from Kante and an invitation to return as a collaborator
 - Designed five experiments to test "connection" with people
-- Rejoined the group for the Celestial Lounge trip
+- Rejoined the group for the [[Celestial Lounge]] trip
 
 ## Relationships
 
@@ -120,9 +122,10 @@ Iggy's origins are deliberately mysterious. He may be connected to the **[[Trenc
 | **Aggie** | Fellow candidate — met at Vumbua |
 | **Ignatius** | Fellow candidate — Iggy noticed him looking back during the Irish goodbye; connection building |
 | **Lomi** | Fellow candidate — met at Vumbua |
-| **Professor Kante** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal (Session 2.5) |
-| **Tommy** | Power plant clerk (gnome) — briefly met during Iggy's sneaking in (Session 2.5) |
-| **Lucina** | Power plant mechanic (dwarf) — briefly met during Iggy's sneaking in (Session 2.5) |
+| **[[Professor Kante]]** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal ([[session-02.5|Session 2.5]]) |
+| **[[Tommy]]** | Power plant clerk (gnome) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |
+| **[[Lucina]]** | Power plant mechanic (dwarf) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |
+| **[[Lucky]]** | Sold Iggy a stolen turban as a "Kleenex" ([[session-01|Session 1]]) |
 
 ---
 

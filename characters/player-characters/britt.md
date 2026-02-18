@@ -17,6 +17,7 @@ tags:
 | **Rank** | 🥇 Gold |
 | **Class** | Daggerheart Character |
 | **Player** | Sophie |
+| **Housing** | [[Block 04]] (with [[Aggie]]) |
 
 ## Appearance
 
@@ -34,7 +35,7 @@ Britt is **sure-footed and observant**. Where her clanmate [[Aggie]] might be sw
 
 ## Background
 
-Born in the Petrified Forest of the [[Mizizi]] homeland, Britt grew up with the clan's unique philosophy on death and decay. When Harmony arrived and began working with the elders, Britt was among those selected to attend [[Vumbua Academy]].
+Born in the [[Mizizi Petrified Forest|Petrified Forest]] of the [[Mizizi]] homeland, Britt grew up with the clan's unique philosophy on death and decay. When Harmony arrived and began working with the elders, Britt was among those selected to attend [[Vumbua Academy]].
 
 ### What She Knows
 - The forest has been "not dying" which is deeply concerning to her people
@@ -53,25 +54,34 @@ Born in the Petrified Forest of the [[Mizizi]] homeland, Britt grew up with the 
 
 ## Session Appearances
 
-### Session 0 - Character Creation
+### [[session-00|Session 0]] - Character Creation
 - Established as [[Mizizi]] clan member
 - Defined relationship with [[Aggie]]
 - Discussed clan philosophy on death and decay
+- Left the [[Mizizi Petrified Forest|Petrified Forest]] for the first time
 
-### Session 1 - Arrival at Vumbua
+### [[session-01|Session 1]] - Arrival at [[Vumbua Academy]]
 - Navigated the entrance exam crowd while staying close to [[Aggie]]
 - Quick-thinking: held down her flag and stalled to wait for Aggie to finish
 - Received special attention at the checkpoint (Gold rank acknowledged)
 - Made it through to the academy grounds
 
+### [[session-02|Session 2]] - The Bonfire
+- [[Serra Vox]] approached her and [[Aggie]] at the [[Block 99]] bonfire, calling it "the most important anthropological cauldron in years"
+- Tried to charm [[Serra Vox]] for more info (Failure with Fear) — Serra shut down and deflected
+- Immediate reaction to [[Dean Isolde Vane]]: *"I don't trust this f***ing guy"*
+- [[Rill]] recognized her and [[Aggie]]; invited them to visit after class tomorrow
+
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **Aggie** | Close friend and fellow Mizizi. They share gossip about Harmony and watch out for each other. |
-| **Ignatius** | Fellow candidate—met at Vumbua |
-| **Lomi** | Fellow candidate—met at Vumbua |
-| **Iggy** | Fellow candidate—met at Vumbua |
+| **[[Aggie]]** | Close friend and fellow [[Mizizi]]. They share gossip about Harmony and watch out for each other. |
+| **[[Serra Vox]]** | Approached Britt at the bonfire; Britt tried to charm her for info ([[session-02|Session 2]]) |
+| **[[Rill]]** | Recognized Britt; invited her to visit ([[session-02|Session 2]]) |
+| **[[Ignatius]]** | Fellow candidate—met at Vumbua |
+| **[[Lomi]]** | Fellow candidate—met at Vumbua |
+| **[[Iggy]]** | Fellow candidate—met at Vumbua |
 
 ---
 

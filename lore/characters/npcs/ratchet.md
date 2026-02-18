@@ -6,12 +6,16 @@ tags:
 
 # Ratchet
 
-**Role:** Copper-Rank Student / Block 99-Piston Roommate
-**Affiliation:** [[Vumbua Academy]], Technical Track
-**Status:** Active
+| | |
+|---|---|
+| **Role** | Copper-Rank Student / [[Block 99]]-Piston Roommate |
+| **Affiliation** | [[Vumbua Academy]], Technical Track |
+| **Location** | [[Block 99]]-Piston |
+| **Status** | Active |
+| **First Appearance** | [[session-01\|Session 1]] (mentioned) |
 
 ## Overview
-A Copper-rank cynic with a prosthetic brass hand who bunks with [[Lomi]] in Block 99-Piston. He's been around long enough to see the Academy for what it is.
+A Copper-rank cynic with a prosthetic brass hand who bunks with [[Lomi]] in [[Block 99]]-Piston. He's been around long enough to see the Academy for what it is.
 
 ## Personality
 - Hard-boiled cynic with a rasping voice

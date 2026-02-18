@@ -26,10 +26,15 @@ The Academy treats these as pests to be zapped. Standard protocol is electric di
 
 ### Clan Lore (Trench-Kin / Iggy): "The Soul-Drifters"
 
-These are not animals; they are the **memories of the land that has Dissolved**. They are attracted to strong emotions.
+These are not animals; they are the **memories of the land that has Dissolved**. They are attracted to strong emotions (grief, longing, panic).
 
 **Do not shock them**---they explode into psychic static that wipes your memory. To move them, you must hum a low, sad tune. They will follow the vibration of grief.
 
 ### Recent Incident
 
 A Copper-rank student tried to net one near the docks. He is now in the infirmary, physically fine, but he cannot remember his mother's name.
+
+### Related Pages
+
+- [[The Bleed]] — Dissolution creates memory-echo phenomena
+- [[Trench-Kin]] — Clan perspective calls these "Soul-Drifters"

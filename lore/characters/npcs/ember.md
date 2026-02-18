@@ -6,9 +6,12 @@ tags:
 
 # Ember
 
-**Role:** Ash-Blood Student
-**Affiliation:** Ash-Blood, [[Vumbua Academy]]
-**Status:** Active (mentioned but not yet appeared on-screen)
+| | |
+|---|---|
+| **Role** | [[Ash-Bloods\|Ash-Blood]] Student |
+| **Affiliation** | [[Ash-Bloods]], [[Vumbua Academy]] |
+| **Status** | Active (mentioned but not yet appeared on-screen) |
+| **First Mentioned** | [[session-02\|Session 2]] |
 
 ## Overview
 Ember is an Ash-Blood student and [[Ignatius]]'s childhood cousin. She represents the **modernizer** faction among the [[Ash-Bloods]]---those who embrace Harmony's technology and prefer "clean" crystal battery energy over traditional organic fire.
@@ -24,5 +27,12 @@ Ember is excited to use Harmony's batteries and refuses to touch organic fire ev
 - Represents the younger Ash-Blood generation that sees integration as liberation, not compromise
 
 ## Relationships
-- **[[Ignatius]]:** Childhood cousin. He considers her rejection of fire disrespectful to their heritage.
-- **[[Lady Ignis]]:** Likely aligned with Ignis's pragmatic pro-integration stance.
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Ignatius]]** | Childhood cousin. He considers her rejection of fire disrespectful to their heritage. |
+| **[[Lady Ignis]]** | Likely aligned with Ignis's pragmatic pro-integration stance. |
+
+## Source References
+
+- **[[session-02|Session 2]]** — [[Serra Vox]] mentioned Ember during the bonfire conversation about [[Ash-Bloods|Ash-Blood]] cultural tensions *(Scene 6: Ash-Blood Politics)*

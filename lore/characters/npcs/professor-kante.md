@@ -11,17 +11,21 @@ tags:
 
 > "The numbers do not lie. They simply wait for us to ask the right question."
 
-**Role:** Professor of Harmonics, Vumbua Academy
-**Race:** Tortoise (long-lived)
-**Affiliation:** [[House Gilded]] (origin), House Vox (research sponsor), [[Vumbua Academy]]
-**Status:** Active
-**Accent:** Indian, slow-speaking
+| | |
+|---|---|
+| **Role** | Professor of Harmonics |
+| **Race** | Tortoise (long-lived) |
+| **Affiliation** | [[House Gilded]] (origin), House Vox (research sponsor), [[Vumbua Academy]] |
+| **Location** | [[Walker-Core]] — Power Plant, catwalk office |
+| **Status** | Active |
+| **Accent** | Indian, slow-speaking |
+| **First Appearance** | [[session-02.5\|Session 2.5]] |
 
 ## Overview
 
 Professor Kante is one of Harmony's foremost researchers in harmonics---the science of ether resonance, [[The Power System|Global Amplitude]] measurement, and battery design. His tortoise lifespan has allowed him to personally oversee the development and release of multiple generations of Vox crystal batteries. He is respected by both [[House Gilded]] (his house of origin) and House Vox (who sponsor his research), a rare bridge between two frequently feuding houses.
 
-He is devoted to his work as a professor and researcher at the Academy, spending his nights taking measurements and filling whiteboards with questions no one else is asking.
+He is devoted to his work as a professor and researcher at the Academy, spending his nights taking measurements and filling whiteboards with questions no one else is asking. He wears a top hat and Bridgerton-style outfit.
 
 ## What Players Know
 
@@ -35,6 +39,12 @@ He is devoted to his work as a professor and researcher at the Academy, spending
 - Kante suspects Iggy is from an isolated, unintegrated sect but didn't push further
 
 *Other players have not met Professor Kante.*
+
+## Source References
+
+- **[[session-02.5|Session 2.5]]** — Met [[Iggy]] in the [[Walker-Core]] power room; explained [[The Power System|Global Amplitude]], the [[Ash-Bloods|Ash-Blood]] Anomaly, and the Night of Sparks *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — Gave [[Iggy]] an umber crystal; invited him to collaborate *(Scene 5: The Theory)*
+- **[[session-02.5|Session 2.5]]** — Heard about "the Exchange" for the first time from [[Iggy]] *(Scene 5)*
 
 ---
 
@@ -67,3 +77,4 @@ Kante will discover [[Iggy]] exploring the power room and recognize a kindred cu
 - Has the patience of someone who has lived through centuries of Harmony's history
 - Genuinely passionate about the science, not the politics
 - Frustrated that House Vox cares more about the Apex 1 marketing failure than the underlying mystery
+- Voice: *"What do you like, know?"* — deliberate character voice (do not smooth)

@@ -45,7 +45,19 @@ Key slip-ups in Session 2:
 - **Rebellion:** Hiding as "Serra Vox" is her way of rebelling against the rigid expectations of House Vox.
 
 ## Relationships
-- **[[Valerius Sterling]]:** Her squad captain. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous.
-- **[[Ignatius]]:** Skeptical of her "ally" persona ("I don't trust this b*tch").
-- **[[Cassius Thorne]]:** He has a crush on her; she seems oblivious.
-- **[[Britt]]/[[Aggie]]:** Genuinely fascinated by them but made them uncomfortable with too many questions.
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Valerius Sterling]]** | Her squad captain. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
+| **[[Ignatius]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
+| **[[Cassius Thorne]]** | He has a crush on her; she seems oblivious. |
+| **[[Britt]]/[[Aggie]]** | Genuinely fascinated by them but made them uncomfortable with too many questions. |
+| **[[Rill]]** | Identified [[Rill]] as the person who pulled [[Dean Isolde Vane\|the Dean]] off stage. Called her "one of the greatest inventors in our age." |
+
+## Source References
+
+- **[[session-02|Session 2]]** — Approached [[Britt]] and [[Aggie]] at the [[Block 99]] bonfire *(Scene 3: First Contact — Serra Vox)*
+- **[[session-02|Session 2]]** — Explained the [[Inverse Power Doctrine]] to [[Ignatius]] *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — Noted the [[Mizizi Petrified Forest\|Mizizi forest]] has no clear "purpose" *(Scene 5: Philosophy of Death)*
+- **[[session-02|Session 2]]** — Slipped about time at [[Harmony Prime\|The Seat]] under "political pressure" *(Scene 3)*
+- **[[session-02|Session 2]]** — Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[Ignatius]] *(Scene 6)*

@@ -13,7 +13,12 @@ tags:
 
 ## What Players Know
 
-The Renali are known to exist but are elusive. They rarely land, making them a curiosity rather than a political force. Most Academy students assume [[Zephyr]]---the energetic newcomer who arrived via the last Exchange Ritual---is an eccentric Renali pilot. They ride massive insects called Air-Bees and live on floating islands in the "Vapor Sea."
+The Renali are known to exist but are elusive. They rarely land, making them a curiosity rather than a political force. Most [[Vumbua Academy]] students assume [[Zephyr]]---the energetic newcomer who arrived via the last Exchange Ritual---is an eccentric Renali pilot. They ride massive insects called Air-Bees and live on floating islands in the "Vapor Sea."
+
+### Source References
+
+- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]]'s Sixfold Theory referenced Air clans as one of the missing pieces *(Scene 4: The Speculators)*
+- **[[session-02|Session 2]]** — [[Zephyr]]'s purple lightning bolt suggested Storm-Kin abilities; students assume she is Renali *(Scene 7: The Lightning)*
 
 ---
 

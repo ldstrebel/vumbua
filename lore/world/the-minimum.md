@@ -14,7 +14,12 @@ Official propaganda: "We are re-routing power to the new expansion. It is a sign
 
 ## What Players Know
 
-The lights flicker sometimes. Block 99 (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[Lomi]], who works in the boiler room, may sense something deeper is wrong with the engines.
+The lights flicker sometimes. [[Block 99]] (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[Lomi]], who works in the boiler room, may sense something deeper is wrong with the engines.
+
+### Source References
+
+- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[Iggy]] *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[Iggy]] saw charts showing [[The Power System|Global Amplitude]] decline in the [[Walker-Core]] power room *(Scene 3: The Warehouse)*
 
 ---
 
@@ -50,7 +55,7 @@ The City eats more than it bleeds. It is a parasite looking for a new host.
 
 ### The Block 99 Incident
 
-The lights in the Copper Dorms (Block 99) went out for 4 hours last night. Official reason: "Upgrades." Real reason: The Sky-Spire needed the power for a dinner party.
+The lights in the Copper Dorms ([[Block 99]]) went out for 4 hours last night. Official reason: "Upgrades." Real reason: The [[Sky-Spire]] needed the power for a dinner party.
 
 ### The Shattered Circuit Leak
 
@@ -64,3 +69,10 @@ The lights in the Copper Dorms (Block 99) went out for 4 hours last night. Offic
 - The only real fix is integrating **all six** Shattered Clans
 - Completing the set would trigger a **500-Year Golden Age**
 - Even that is temporary---entropy is inevitable
+
+### Related Pages
+
+- [[The Power System]] — Full technical details on Global Amplitude, Resonators, and Crystal Batteries
+- [[Professor Kante]] — Key researcher investigating the Ash-Blood Anomaly
+- [[Ash-Bloods]] — Integration produced only ~20 amp increase instead of expected +300 to +800
+- [[Walker-Core]] — Houses the power plant where the crisis is most visible

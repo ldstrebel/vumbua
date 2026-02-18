@@ -13,7 +13,7 @@ The Academy views the frontier as a resource to be harvested. The Clans view it 
 
 - [[Ether-Jelly]] - Phase-shifting jellyfish that are actually the memories of Dissolved lands
 - [[Void-Beast]] - Shadow predators that hunt fear, not heat
-- [[Rot-Shepherd]] - The immune system of the [[Mizizi]] Forest
+- [[Rot-Shepherd]] - The immune system of the [[Mizizi Petrified Forest|Mizizi Forest]]
 - [[Whispering Moth]] - Voice-stealing insects that lure travelers to their doom
 
 ## World Phenomena

@@ -7,10 +7,14 @@ tags:
 
 # Sarge
 
-**Role:** Squad 09 (The Ablative) - Captain (Rust Tier)
-**Affiliation:** [[Vumbua Academy]], "The Engine Room"
-**Status:** Active
-**Archetype:** The Safety Inspector
+| | |
+|---|---|
+| **Role** | Squad 09 (The Ablative) - Captain (Rust Tier) |
+| **Affiliation** | [[Vumbua Academy]], "The Engine Room" |
+| **Location** | [[Block 99]] area |
+| **Status** | Active |
+| **Archetype** | The Safety Inspector |
+| **First Appearance** | [[session-01\|Session 1]] |
 
 ## Overview
 "Sarge" is a Rust-tier veteran, likely an older student or a TA/Worker who keeps getting pulled into squads to keep them alive. He works in the boiler rooms with [[Lomi]]---they know each other from the workers' campfire social hours.
@@ -29,6 +33,11 @@ tags:
 - **Not Bitter, Protective:** He isn't bitter about his station; he's protective. He warns [[Ignatius]] about his fire because he's seen unchecked energy kill good people.
 - **Goal:** Wants his squad to survive the physics of the world, avoiding the politics.
 - Disapproves of [[Lucky]]'s hustling but doesn't intervene directly
+
+## Source References
+
+- **[[session-01|Session 1]]** — Recognized [[Lomi]] after the exams: *"Loaves? Loaves, we made it"* *(Scene 8: The Punch Cards)*
+- **[[session-02|Session 2]]** — Leaning against a wall at the [[Block 99]] bonfire, watching [[Lucky]] disapprovingly *(Scene 8: Grinder Talk)*
 
 ---
 

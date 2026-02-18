@@ -19,6 +19,7 @@ tags:
 | **Rank** | 🥈 Silver |
 | **Class** | Daggerheart Character |
 | **Player** | John |
+| **Housing** | [[Block 12]] (with [[Iggy]]) |
 
 ## Appearance
 
@@ -36,7 +37,7 @@ Ignatius carries a **facade of confidence** that can melt away when confronted w
 
 ## Background
 
-From the [[Ember]] Isles, Ignatius witnessed the integration ceremony that brought the [[Ash-Bloods|Ash Bloods]] into Harmony as full citizens. He watched as [[Lady Ignis]]—his clan's matriarch—rose to sudden prominence.
+From the [[Ash-Blood Isles|Ember Isles]], Ignatius witnessed the integration ceremony that brought the [[Ash-Bloods|Ash Bloods]] into Harmony as full citizens. He watched as [[Lady Ignis]]—his clan's matriarch—rose to sudden prominence.
 
 ### The Integration Ceremony
 Ignatius attended the **Stitching ceremony** where:
@@ -62,22 +63,36 @@ Ignatius attended the **Stitching ceremony** where:
 
 ## Session Appearances
 
-### Session 1 - Arrival at Vumbua
+### [[session-01|Session 1]] - Arrival at [[Vumbua Academy]]
 - Arrived at the entrance exam grounds
 - Overwhelmed by the scale of Vumbua's ships and construction
 - Met **[[Lance]]** (Bridgerton-esque chad) who recognized him as an [[Ash-Bloods|Ash Blood]]
 - First fear roll of the game as he processed the massive academy
 
+### [[session-02|Session 2]] - The Bonfire
+- Lit the [[Block 99]] bonfire prematurely, causing [[Cassius Thorne]]'s panic over thermal distribution
+- [[Lomi]] encouraged him with a critical-success roll
+- [[Serra Vox]] asked about [[Ash-Bloods|Ash-Blood]] physiology; Ignatius explained heat release via burning hotter
+- Discussed [[Ash-Bloods|Ash-Blood]] politics with [[Serra Vox]]; learned about the [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role
+- Expressed traditionalist views on fire and [[Ember]]'s modernizer rejection
+- Called [[Zephyr]] "Lightning Girl" after her purple lightning bolt; she called him "Lava Boy" via [[Rill]]
+- [[Britt]] skeptical: *"I don't trust this b*tch"* (about [[Serra Vox]])
+
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **Lady Ignis** | Clan matriarch, now a major Harmony figure. Ignatius respects her leadership. |
-| **Lance** | A posh Harmony native who approached him after the exam |
-| **Britt** | Fellow candidate—met at Vumbua |
-| **Aggie** | Fellow candidate—met at Vumbua |
-| **Lomi** | Fellow candidate—met at Vumbua |
-| **Iggy** | Fellow candidate—met at Vumbua |
+| **[[Lady Ignis]]** | Clan matriarch, now a major Harmony figure. Ignatius respects her leadership. |
+| **[[Lance]]** | A posh Harmony native who approached him after the exam ([[session-01|Session 1]]) |
+| **[[Serra Vox]]** | Explained the [[Inverse Power Doctrine]]; Ignatius skeptical of her "ally" persona ([[session-02|Session 2]]) |
+| **[[Cassius Thorne]]** | Panicked when Ignatius lit the fire prematurely ([[session-02|Session 2]]) |
+| **[[Zephyr]]** | Mutual nicknames: "Lava Boy" / "Lightning Girl" ([[session-02|Session 2]]) |
+| **[[Rill]]** | Called him "Lava Boy"; manages [[Zephyr]] ([[session-02|Session 2]]) |
+| **[[Ember]]** | Childhood cousin; modernizer who rejects traditional fire |
+| **[[Britt]]** | Fellow candidate—met at Vumbua |
+| **[[Aggie]]** | Fellow candidate—met at Vumbua |
+| **[[Lomi]]** | Fellow candidate—encouraged him at the bonfire ([[session-02|Session 2]]) |
+| **[[Iggy]]** | Fellow candidate and roommate at [[Block 12]] |
 
 ---
 

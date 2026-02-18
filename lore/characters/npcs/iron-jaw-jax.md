@@ -8,10 +8,13 @@ tags:
 
 # Iron-Jaw Jax
 
-**Role:** Squad 02 (The Breakers) - Captain (Silver/Gold)
-**Race:** Warforged (Construct)
-**Affiliation:** [[Vumbua Academy]]
-**Status:** Active
+| | |
+|---|---|
+| **Role** | Squad 02 (The Breakers) - Captain (Silver/Gold) |
+| **Race** | Warforged (Construct) |
+| **Affiliation** | [[Vumbua Academy]] |
+| **Status** | Active |
+| **First Appearance** | [[session-02\|Session 2]] |
 
 ## Overview
 Jax is a young warforged---still has "curves" and hasn't quite "slimmed out" yet. Leader of Squad 02, "The Breakers." Known for brute force solutions but also a skeptic who dismisses academic theories.
@@ -26,6 +29,19 @@ When [[Zephyr]] caused a massive purple lightning bolt, Jax's jaw literally fell
 - Cynical about academic speculation---believes what he can see
 - Respects strength above all else
 - Capable of being genuinely shocked (the lightning incident)
+
+## Relationships
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Percival Vane-Smythe III]]** | Ongoing debate partner. Dismisses Percy's Sixfold Theory. |
+| **[[Bramble]]** | Fellow debater at the bonfire. |
+| **[[Zephyr]]** | Fellow debater at the bonfire. His jaw fell off when she caused lightning. |
+
+## Source References
+
+- **[[session-02|Session 2]]** — Participated in the Speculators' Debate at the [[Block 99]] bonfire; dismissed the Sixfold Theory *(Scene 4: The Speculators)*
+- **[[session-02|Session 2]]** — Jaw literally fell off his face during [[Zephyr]]'s lightning bolt *(Scene 7: The Lightning)*
 
 ## Mechanics
 - **Signature Move:** "The Iron Clench" - a grappling technique.

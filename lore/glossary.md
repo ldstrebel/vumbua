@@ -14,10 +14,11 @@
 
 ## B
 
-**Block 99**
+**[[Block 99]]**
 - Industrial district within [[Vumbua Academy]] campus
-- Site of the student bonfire during intake week (Session 2)
+- Site of the student bonfire during intake week ([[session-02|Session 2]])
 - Contains a geothermal plant repurposed as student gathering space
+- Residents: [[Lomi]], [[Ratchet]], [[Soot]]
 
 **[[The Bleed]]** (Dissolution)
 - The edge of the map where reality pixelates and fades
@@ -109,10 +110,11 @@
 - Philosophy: "Expansion is life"
 - Capital: Harmony Prime (distant)
 
-**Harmony Prime**
-- The static capital city far from the frontier
+**[[Harmony Prime]]**
+- The static capital city far from the frontier (~8 million people)
 - Seat of the Domestic Council
 - Where [[Lady Ignis]] serves on High Council
+- [[Serra Vox]] slipped about spending time there under "political pressure" ([[session-02|Session 2]])
 
 ## I
 
@@ -120,9 +122,9 @@
 - Harmony grants the newest integrated member the **highest voting power**
 - *"The least of us should become the most of us"*
 - Prevents exploitation of new members' resources by ensuring they make decisions about their own lands
-- [[Lady Ignis]] (Ash-Blood matriarch) currently holds the highest voting power---essentially "President" of Harmony
+- [[Lady Ignis]] ([[Ash-Bloods|Ash-Blood]] matriarch) currently holds the highest voting power---essentially "President" of Harmony
 - Has kept the peace for a thousand years
-- Revealed by [[Serra Vox]] in Session 2
+- Revealed by [[Serra Vox]] in [[session-02|Session 2]] *(Scene 6: Ash-Blood Politics)*
 
 **Integration**
 - The process of connecting a new Node to Harmony
@@ -142,19 +144,19 @@
 ## L
 
 **Leidian**
-- Obsidian-like heat stone from the Ash-Blood Isles
+- Obsidian-like heat stone from the [[Ash-Blood Isles]]
 - Burning 80% hotter per gram than 2 years ago (since integration)
 - Has a "halflife" oscillation---heat tapers off then rises again
-- Loses some potency with distance from Ash-Blood isle
+- Loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]]
 - Used in the boiler room alongside crystal batteries
-- Named by [[Ignatius]] in Session 2 (lava + obsidian)
+- Named by [[Ignatius]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 6)*
 
 **The Loom**
-- Massive crystal computer in the Walker-Core
+- Massive crystal computer in the [[Walker-Core]]
 - Calculates probabilities and assigns ranks
 - Can flag "Savant" outliers based on variance
-- Takes exams, psych profiles, and builds optimal adventure team combos (Session 2)
-- If one team member fails, the whole team gets expelled (Session 2)
+- Takes exams, psych profiles, and builds optimal adventure team combos ([[session-02|Session 2]])
+- If one team member fails, the whole team gets expelled ([[session-02|Session 2]])
 
 ## M
 
@@ -273,13 +275,13 @@
 - Caused power crisis and cultural stagnation
 - Ended 24 months ago with Ash-Blood discovery
 
-**Sky-Spire**
-- Golden airship component of Vumbua
+**[[Sky-Spire]]**
+- Golden airship component of [[Vumbua Academy|Vumbua]]
 - Houses Command, Elite Dorms, Navigation
 - Where [[Dean Isolde Vane|Dean Vane]] has her chaotic office
 
-**Spire-Scape**
-- 70% of Vumbua's temporary structures
+**[[Spire-Scape]]**
+- 70% of [[Vumbua Academy|Vumbua]]'s temporary structures
 - Scaffolding, prefab dorms, rapid construction
 - Built by Worker-Constructs upon landing
 
@@ -311,8 +313,8 @@
 
 **[[Vumbua Academy]]** (The Safiri)
 - Mobile city-state that teleports to frontiers
-- Three permanent Cores: Sky-Spire, Deep-Hull, Walker-Core
-- Currently at Ash-Blood Isles (6 months)
+- Three permanent Cores: [[Sky-Spire]], [[Deep-Hull]], [[Walker-Core]]
+- Currently at [[Ash-Blood Isles]] (6 months)
 - First class at new location
 
 **[[Void-Beast]]**
@@ -328,10 +330,11 @@
 - Still-Suits reclaim moisture
 - [[Rill]] is from this clan
 
-**Walker-Core**
-- Four-legged industrial mech component of Vumbua
-- Houses Engineering, Power systems, The Loom
-- Can transport other Cores slowly over land
+**[[Walker-Core]]**
+- Four-legged industrial mech component of [[Vumbua Academy|Vumbua]]
+- Houses Engineering, Power systems, [[The Loom]]
+- Staff: [[Tommy]] (front desk), [[Lucina]] (maintenance), [[Marla]] (maintenance)
+- [[Professor Kante]]'s research office is on the catwalk above the power room
 
 ## Z
 
@@ -339,19 +342,20 @@
 - Storm-Kin ([[Renali|Cloud-Kin]]) exchange member
 - Arrived 18 months ago among [[Mizizi]]
 - Breaks the Taboo openly without fear
-- Works with [[Dean Isolde Vane|Dean Vane]] on wind-pattern research
-- Caused a **massive purple lightning bolt** from a clear sky at the Session 2 bonfire
+- Works with [[Dean Isolde Vane|Dean Vane]] on wind-pattern research in [[Sky-Spire]]
+- Caused a **massive purple lightning bolt** from a clear sky at the [[session-02|Session 2]] bonfire *(Scene 7: The Lightning)*
 - Completely unharmed by her own lightning
 - Managed by [[Rill]] on the Dean's behalf
+- [[Ignatius]] called her "Lightning Girl"; she called him "Lava Boy" via [[Rill]]
 
 ## Locations
 
-**Celestial Lounge**
+**[[Celestial Lounge]]**
 - Upscale club on the top floor of the tallest building in the northwest "fancy district"
 - Students can flash rank receipts for gold pins and VIP access (voluntary)
-- The party headed there at the end of Session 2
+- The party headed there at the end of [[session-02|Session 2]]
 
-**Harmony Seat** (The Seat of Harmony)
+**[[Harmony Prime|Harmony Seat]]** (The Seat of Harmony)
 - Capital city of Harmony, ~8 million people
 - Where the High Council sits
-- [[Serra Vox]] slipped about spending time there under "political pressure"
+- [[Serra Vox]] slipped about spending time there under "political pressure" ([[session-02|Session 2]])

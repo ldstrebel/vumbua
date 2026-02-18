@@ -10,11 +10,15 @@ tags:
 
 # Rill (The River-Born)
 
-**Aliases:** Real, Rill, The River-Born
-**Role:** Dean's Assistant / Mizizi Researcher / "Traitor" / Futurist
-**Affiliation:** Harmony (Publicly [[Mizizi]], Secretly [[Wadi]])
-**Status:** Active
-**Archetype:** The Futurist
+| | |
+|---|---|
+| **Aliases** | Real, Rill, The River-Born |
+| **Role** | Dean's Assistant / [[Mizizi]] Researcher / "Traitor" / Futurist |
+| **Affiliation** | Harmony (Publicly [[Mizizi]], Secretly [[Wadi]]) |
+| **Location** | Grass-covered building inset into the hill (near [[Block 99]]) |
+| **Status** | Active |
+| **Archetype** | The Futurist |
+| **First Appearance** | [[session-01\|Session 1]] |
 
 ## Overview
 Rill is a researcher at [[Vumbua Academy]] who is publicly known as a **[[Mizizi]]** traitor who left the Forest two years ago. **Secretly, she is a [[Wadi]] ([[Wadi|River Clan]])** member who has integrated so perfectly that she passes as Mizizi. She arrived at the Academy **2 months ago** after spending time in the "Silent Zones" between leaving the forest and joining Harmony. [[Serra Vox]] describes her as *"one of the greatest inventors in our age."*
@@ -42,7 +46,19 @@ When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephy
 - Manages [[Zephyr]] on behalf of the Dean (knows how to handle her---hot chocolate, patience).
 
 ## Relationships
-- **[[Dean Isolde Vane]]:** Close working relationship. Rill appears to be her right hand.
-- **[[Zephyr]]:** Manages her on the Dean's behalf. Knows how to bribe/redirect her.
-- **[[Britt]]/[[Aggie]]:** Recognizes them, wants to reconnect after class.
-- **The [[Mizizi]] Students:** Waved to them during the Welcome ceremony.
+
+| Character | Relationship |
+|-----------|-------------|
+| **[[Dean Isolde Vane]]** | Close working relationship. Rill appears to be her right hand. |
+| **[[Zephyr]]** | Manages her on the Dean's behalf. Knows how to bribe/redirect her. |
+| **[[Britt]]/[[Aggie]]** | Recognizes them, wants to reconnect after class. |
+| **[[Serra Vox]]** | Serra called her "one of the greatest inventors in our age." |
+| **The [[Mizizi]] Students** | Waved to them during the Welcome ceremony. |
+
+## Source References
+
+- **[[session-01|Session 1]]** — Pulled [[Dean Isolde Vane|Dean Isolde]] back behind the curtain during the welcome speech; waved to [[Mizizi]] students *(Scene 6: The Dean's Welcome)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] identified her as the person who managed the Dean *(Scene 3)*
+- **[[session-02|Session 2]]** — Retrieved [[Zephyr]] after the lightning incident; bribed her with hot chocolate *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — Invited [[Britt]] and [[Aggie]] to visit her at the grass-covered building *(Scene 7)*
+- **[[session-02|Session 2]]** — Called [[Ignatius]] "Lava Boy" *(Scene 7)*

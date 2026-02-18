@@ -6,9 +6,12 @@ tags:
 
 # Lucky
 
-**Role:** Squad 09 (The Ablative) - Member (Rust Tier)
-**Affiliation:** [[Vumbua Academy]]
-**Status:** Active
+| | |
+|---|---|
+| **Role** | Squad 09 (The Ablative) - Member (Rust Tier) |
+| **Affiliation** | [[Vumbua Academy]] |
+| **Status** | Active |
+| **First Appearance** | [[session-01\|Session 1]] |
 
 ## Overview
 A student in the Rust tier known for acquiring hard-to-find items. A small kid who runs around with a ball of fire and a sales pitch.
@@ -31,6 +34,12 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 - **Resourceful:** Survives by being useful to everyone.
 - Fearless salesman---pitches to anyone regardless of rank
 - Keeps a "you owe me" ledger
+
+## Source References
+
+- **[[session-01|Session 1]]** — Sold [[Iggy]] a stolen guard turban as a "Kleenex"; hawked Ash-Blood memorabilia *(Scene 7: The Hustle)*
+- **[[session-02|Session 2]]** — Selling Engine Grease at the [[Block 99]] bonfire *(Scene 8: Grinder Talk)*
+- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[Sarge]] watching disapprovingly *(Scene 8)*
 
 ---
 

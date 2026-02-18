@@ -18,10 +18,11 @@ tags:
 
 | | |
 |---|---|
-| **Origin** | Vane Lineage (House Vane) |
-| **Rank** | Dean of Vumbua Academy |
-| **Affiliation** | Vumbua Academy, Vane Lineage |
-| **First Appearance** | Session 1 |
+| **Origin** | [[Vane Lineage]] (House Vane) |
+| **Rank** | Dean of [[Vumbua Academy]] |
+| **Affiliation** | [[Vumbua Academy]], [[Vane Lineage]] |
+| **Location** | [[Sky-Spire]] |
+| **First Appearance** | [[session-01\|Session 1]] |
 
 ## GM Description
 
@@ -37,7 +38,7 @@ A small, energetic figure---comparable to a female Professor Heimerdinger from *
 
 ## Background
 
-Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|House Vane]]), which historically controls defense and walls. She has led the Academy through the 80-year Silent Era of no new discoveries and championed the relocation to the Ash-Blood Isles 6 months ago.
+Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|House Vane]]), which historically controls defense and walls. She has led the Academy through the 80-year Silent Era of no new discoveries and championed the relocation to the [[Ash-Blood Isles]] 6 months ago.
 
 ## Session Appearances
 
@@ -52,6 +53,12 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 
 ### Session 2
 - Not present on screen. [[Serra Vox]] identified [[Rill]] as the person who pulled the Dean off stage.
+
+## Source References
+
+- **[[session-01|Session 1]]** — Welcome speech in the Great Hall; scattered, bouncy delivery *(Scene 6: The Dean's Welcome)*
+- **[[session-01|Session 1]]** — Forgot to introduce herself; [[Rill]] pulled her backstage *(Scene 6)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] identifies [[Rill]] as the Dean's handler *(Scene 3)*
 
 ## Relationships
 
@@ -90,4 +97,4 @@ The Loom calculates "Savant" flags based on variance---high-variance outliers wh
 
 ### Lore Dump vs. Session Canon
 
-The original planning document depicted Dean Isolde differently---in a "crisp, high-collared white uniform" delivering a polished, controlled speech gripping the podium so hard the brass creaked. In actual session play, she was instead portrayed as small, bouncy, scattered, and genuinely enthusiastic. Session canon takes precedence. 
+The original planning document depicted Dean Isolde differently---in a "crisp, high-collared white uniform" delivering a polished, controlled speech gripping the podium so hard the brass creaked. In actual session play, she was instead portrayed as small, bouncy, scattered, and genuinely enthusiastic. Session canon takes precedence.  

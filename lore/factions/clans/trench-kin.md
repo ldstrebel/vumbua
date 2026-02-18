@@ -16,6 +16,12 @@ Almost nothing. The Trench-Kin are completely unknown to Harmony and to the othe
 
 [[Iggy]]---the party's "Earthkin" roommate---emerged from the water at the docks on Intake Day, clearly uncomfortable in the open air. He wears heavy fluid-filled goggles, crumbles in low pressure, and finds comfort in weight and compression. No one has questioned his origin beyond assuming he's some kind of earth-elemental mutation.
 
+### Source References
+
+- **[[session-01|Session 1]]** — [[Iggy]] arrived at [[Vumbua Academy]] from the docks; supervisor escorted him through *(Scene 5: Iggy's Intake)*
+- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] theorized an "Earth clan" must exist to complete the symmetry *(Scene 4: The Speculators)*
+- **[[session-02.5|Session 2.5]]** — [[Iggy]] mentioned "the Exchange" to [[Professor Kante]], who had never heard of it *(Scene 5)*
+
 ---
 
 ## GM Secrets [HIDDEN FROM PLAYERS]
@@ -70,3 +76,9 @@ If Harmony ever discovers the Trench-Kin:
 ### The Shattered Circuit Role
 
 In [[Dean Isolde Vane|Dean Vane]]'s theory, the Trench-Kin are **The Miners (Resources)**---the stabilizing foundation of the ancient empire.
+
+### Related Pages
+
+- [[Iggy]] — Trench-Kin infiltrator at [[Vumbua Academy]]
+- [[Ash-Bloods]] — Broke the Exchange Ritual 18 months ago
+- [[Wadi]] — Connected via the Exchange Ritual through underwater shafts
