@@ -126,8 +126,6 @@ When prompting the AI, specify which tier you want:
 
 If you see something like a squad roster referenced before the Loom/team selection has happened in-session, that should be treated as **GM Plan** until the transcript establishes it.
 
-## Tips for Best Results
-
 ### Providing Transcripts
 - **Any format works** — the AI will organize it. Raw Granola/Otter output, manual notes, etc.
 - **More is better** — include everything, even table talk. The AI will identify what's in vs. out of character.
