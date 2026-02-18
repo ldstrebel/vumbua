@@ -1,1 +1,15 @@
 exports/*.md
+
+# Obsidian workspace files (user-specific, not shared)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/graph.json
+.obsidian/hotkeys.json
+docs/.obsidian/workspace.json
+docs/.obsidian/workspace-mobile.json
+docs/.obsidian/graph.json
+docs/.obsidian/hotkeys.json
+
+# Obsidian plugin settings (user-specific, prevent overwriting other instances)
+.obsidian/plugins/*/data.json
+docs/.obsidian/plugins/*/data.json

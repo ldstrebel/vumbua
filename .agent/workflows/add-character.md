@@ -14,13 +14,13 @@ Use this workflow to create a new player character or NPC profile.
 ## Steps
 
 1. **Check for existing profile**
-   - Search `docs/lore/characters/npcs/` for NPCs
-   - Search `docs/characters/player-characters/` for PCs
+   - Search `lore/characters/npcs/` for NPCs
+   - Search `characters/player-characters/` for PCs
    - If profile exists, update it instead of creating a new one
 
 2. **Determine character type and location**
-   - Player Character → `docs/characters/player-characters/`
-   - NPC → `docs/lore/characters/npcs/`
+   - Player Character → `characters/player-characters/`
+   - NPC → `lore/characters/npcs/`
 
 3. **Create the character file**
    - Filename: lowercase with hyphens (e.g., `lady-ignis.md`)
@@ -31,10 +31,24 @@ Use this workflow to create a new player character or NPC profile.
 
    > **CORE RULE: Never hallucinate.** Only include details explicitly stated in session transcripts or GM narration. If a field is unknown, leave it blank or write "Unknown".
    >
-   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time. If early sessions describe a character one way and later sessions reveal more depth, keep both perspectives with session tags. Session canon is always additive.
+   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time.
+   >
+   > **Truth tiers (RAG safety):**
+   > - **transcript**: said/seen in-session (highest confidence)
+   > - **gm-narration**: narrated by GM but not yet known to PCs (still canon, but hidden)
+   > - **gm-plan**: prep/rosters/intent (not yet occurred in-session)
+   >
+   > **Squads/Teams rule:** Do not state that a squad/team has been formed unless it happened in-session. If you track planned rosters, label them as `gm-plan`.
 
    Use this template:
    ```markdown
+   ---
+   aliases: []
+   tags: []
+   canon: transcript # transcript | gm-narration | gm-plan | legacy
+   reveal: players # players | gm
+   ---
+
    # [Character Name]
 
    > *"Signature quote if available"*
@@ -70,14 +84,14 @@ Use this workflow to create a new player character or NPC profile.
 
    ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-   > [!CAUTION]
+   > [!warning]-
    > The following information has been narrated by the GM but is not known to the player characters.
 
    [Secret information, plot hooks, future plans — only from GM narration, never invented]
    ```
 
 5. **Update the character index**
-   - Add entry to `docs/characters/index.md`
+   - Add entry to `characters/index.md`
    - Place in appropriate section (Students, Staff, Notable Figures)
 
 6. **Cross-reference**
@@ -89,7 +103,7 @@ Use this workflow to create a new player character or NPC profile.
 
 8. **Commit changes**
    ```bash
-   git add docs/lore/characters/ docs/characters/
+   git add lore/characters/ characters/
    git commit -m "Add [Character Name] profile"
    git push
    ```
@@ -99,7 +113,7 @@ Use this workflow to create a new player character or NPC profile.
    - Bullet: character added/updated, file path
 
 ## File Locations
-- Player Characters: `docs/characters/player-characters/`
-- NPCs: `docs/lore/characters/npcs/`
-- Character Index: `docs/characters/index.md`
+- Player Characters: `characters/player-characters/`
+- NPCs: `lore/characters/npcs/`
+- Character Index: `characters/index.md`
 - Lore Index: `.agent/workflows/lore-index.md`

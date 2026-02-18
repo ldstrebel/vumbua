@@ -14,18 +14,45 @@ description: AI-facing quick reference for the Vumbua campaign repo
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
-**New NPCs introduced**: None (Tommy, Lucina, Marla, Professor Kante already had files)
+**Standard format (for diff-based updates):**
+
+```markdown
+## Session Delta (Session NN: <Title>)
+
+### New / First-Mentioned Entities
+- NPC: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+- Location: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+- Term: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+
+### Updated Entity Pages
+- [[Name]] — add/update “Session Appearances”
+
+### Player Knowledge Changes
+- Knowledge Tracker: ✅/❌ <bullet>
+
+### Truth / Provenance Notes
+- If something is GM planning (not spoken in-session), tag it as `gm-plan` and keep it out of player-facing sections.
+```
+
+
+**New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[Professor Kante]] already had files)
 **New locations**: Power Plant interior (Walker-Core)
-**Key reveals** (Iggy only):
-- Global Amplitude measures total ether energy — has been declining 30-40 years (unprecedented)
+**Key reveals** ([[Iggy]] only):
+- [[The Power System|Global Amplitude]] measures total ether energy — has been declining 30-40 years (unprecedented)
 - Ash-Blood integration produced only ~20 amps (expected +300 to +800)
 - Panda 5 batteries are surge regulators/receptors, not storage — powered by umber crystals
 - Night of Sparks (~400 years ago) burned the world for two months before umber crystals
 - Kante's theory: integration works through cultural connection, not resource extraction
 - Apex 1 battery line scrapped — Kante's career in jeopardy
-- "Trail tales from the Trench" — Trench-Kin known to Harmony as border defenders
+- "Trail tales from the Trench" — [[Trench-Kin]] known to Harmony as border defenders
 **Iggy's new assets**: Umber crystal from Kante, five connection experiments planned
 **Plot threads opened**: Kante invited Iggy to return for tea and collaboration; Iggy's worldview challenged (connection vs. isolation)
+
+### Truth tiers (RAG safety)
+- **transcript**: said/seen in-session
+- **gm-narration**: narrated by GM but not yet known to PCs
+- **gm-plan**: prep/rosters/intent not yet occurred in-session (do not treat as established canon)
+- **legacy**: older docs; may be superseded by transcripts
 
 ---
 
@@ -63,11 +90,11 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Player (OOC) | Character (IC) | Clan/Origin | Rank | File |
 |--------------|----------------|-------------|------|------|
-| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `docs/characters/player-characters/britt.md` |
-| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `docs/characters/player-characters/aggie.md` |
-| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `docs/characters/player-characters/ignatius.md` |
-| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `docs/characters/player-characters/lomi.md` |
-| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `docs/characters/player-characters/iggy.md` |
+| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `characters/player-characters/britt.md` |
+| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md` |
+| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `characters/player-characters/ignatius.md` |
+| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
+| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
 
 **Speaker attribution**: Use character name for in-character dialogue, player name for out-of-character talk. Determine from context.
 
@@ -79,13 +106,13 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | NPC | Role | File |
 |-----|------|------|
-| **Dean Isolde Vane** | Head of Vumbua Academy | `docs/lore/characters/npcs/dean-isolde-vane.md` |
-| **Celia Vance** | Operations Director | `docs/lore/characters/npcs/celia-vance.md` |
-| **Senior Exploranaut Hesperus** | Instructor, Field Training | `docs/lore/characters/npcs/hesperus.md` |
-| **Ratchet** | Copper-Rank Student, Block 99-Piston | `docs/lore/characters/npcs/ratchet.md` |
-| **Kojo** | Mizizi Student, Help Desk Tutor | `docs/lore/characters/npcs/kojo.md` |
-| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `docs/lore/characters/npcs/pyrrhus.md` |
-| **Professor Kante** | Tortoise professor of harmonics | `docs/lore/characters/npcs/professor-kante.md` |
+| **Dean Isolde Vane** | Head of Vumbua Academy | `lore/characters/npcs/dean-isolde-vane.md` |
+| **Celia Vance** | Operations Director | `lore/characters/npcs/celia-vance.md` |
+| **Senior Exploranaut Hesperus** | Instructor, Field Training | `lore/characters/npcs/hesperus.md` |
+| **Ratchet** | Copper-Rank Student, Block 99-Piston | `lore/characters/npcs/ratchet.md` |
+| **Kojo** | Mizizi Student, Help Desk Tutor | `lore/characters/npcs/kojo.md` |
+| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `lore/characters/npcs/pyrrhus.md` |
+| **Professor Kante** | Tortoise professor of harmonics | `lore/characters/npcs/professor-kante.md` |
 
 ### Student Squads
 
@@ -102,7 +129,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **09: The Ablative** | Sarge (Cpt, Rust Tier), Lucky, Pudge | `sarge.md`, `lucky.md`, `pudge.md` |
 | **Block 99-Piston** | Ratchet, Soot (Lomi's roommates) | `ratchet.md`, `soot.md` |
 
-*All NPC files are in `docs/lore/characters/npcs/`*
+*All NPC files are in `lore/characters/npcs/`*
 
 ### Notable Figures
 
@@ -171,14 +198,14 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 ## Active Plot Threads
 
-1. **The Minimum Crisis** — Harmony approaching power failure (state secret)
+1. **[[The Minimum]] Crisis** — Harmony approaching power failure (state secret)
 2. **Ash-Blood Anomaly** — Integration produced only ~20 amp increase (expected +300-800)
-3. **Mizizi Integration Stall** — Forest won't integrate; forest is actually a data archive
+3. **[[Mizizi]] Integration Stall** — Forest won't integrate; forest is actually a data archive
 4. **Shattered Circuit** — All 6 clans must integrate to stop the Bleed
-5. **Iggy's Infiltration** — Trench-Kin investigating why Ash-Bloods rejected Exchange
+5. **[[Iggy]]'s Infiltration** — [[Trench-Kin]] investigating why [[Ash-Bloods]] rejected Exchange
 6. **Serra's Identity** — Runaway Vox daughter hiding noble status
-7. **Rill's Research** — Secretly Wadi, investigating if forest destruction is necessary
-8. **Zephyr's Lightning** — Purple bolt from clear sky; managed by Rill for the Dean
+7. **[[Rill]]'s Research** — Secretly [[Wadi]], investigating if forest destruction is necessary
+8. **[[Zephyr]]'s Lightning** — Purple bolt from clear sky; managed by Rill for the Dean
 9. **The Loom's Teams** — Upcoming team formation; fail = entire team expelled
 
 ---
@@ -197,44 +224,34 @@ These are the **correct** spellings. Transcription errors are common — always 
 ## File Map
 
 ```
-docs/                              # Public wiki content (GitHub Pages)
-├── index.md                       # Campaign homepage
-├── characters/
-│   ├── index.md                   # Master character index (links to all PCs + NPCs)
-│   ├── player-characters/         # 5 PC profiles (britt, aggie, ignatius, lomi, iggy)
-│   └── npcs/                      # ⚠️ LEGACY — only 3 files, being deprecated
-├── sessions/
-│   ├── index.md                   # Session index with summaries
-│   ├── _template.md               # Template for new session files
-│   ├── bonfire_scene.md           # Standalone bonfire scene extract
-│   ├── s2-planning.md             # Session 2 GM planning doc
-│   ├── s2.5-planning.md           # Session 2.5 GM planning doc
-│   └── transcripts/              # All raw + cleaned transcripts
-│       ├── sN-raw.md              # Raw transcripts from sessions
-│       └── session-NN.md          # Cleaned, organized session recaps
-├── lore/
-│   ├── index.md                   # Lore hub — links to all lore pages
-│   ├── glossary.md                # A-Z term definitions (346 lines)
-│   ├── timeline.md                # Full chronological history
-│   ├── knowledge-tracker.md       # What players know vs GM secrets
-│   ├── characters/npcs/           # ✅ CANONICAL NPC directory (45 files)
-│   ├── factions/
-│   │   ├── clans/                 # Clan lore pages
-│   │   └── harmony/               # House/guild lore pages
-│   ├── world/                     # World-building mechanics
-│   ├── locations/                 # Location descriptions
-│   └── bestiary/                  # Creature profiles
-├── notebooklm/                    # Consolidated exports for NotebookLM ingestion
-│   ├── campaign-compendium.md     # Full world reference (740 lines)
-│   ├── campaign-chronicle.md      # Timeline + session history
-│   ├── character-codex.md         # All character profiles merged
-│   └── gm-master.md              # GM-only secrets consolidated
-├── gm-notes/                      # Private GM prep (excluded from Pages)
-└── mechanics/                     # Daggerheart system reference
+characters/                        # Character profiles (Obsidian vault)
+├── index.md                       # Master character index
+├── player-characters/             # 5 PC profiles
+└── npcs/                          # Notable NPCs with dual-vault copies
 
-Vumbua/                            # Original source documents (being migrated)
-├── Lore/                          # Raw lore notes
-└── Sessions/                      # Original session scripts
+sessions/                          # Session transcripts + planning
+├── transcripts/                   # Raw + cleaned session transcripts
+│   ├── _template.md               # Template for new sessions
+│   ├── sN-raw.md                  # Raw transcript input
+│   └── session-NN.md              # Cleaned session output
+└── planning/                      # GM session prep
+
+lore/                              # ★ CANONICAL LORE (Obsidian vault)
+├── index.md                       # Lore hub
+├── glossary.md                    # A-Z terms
+├── timeline.md                    # Full chronological history
+├── knowledge-tracker.md           # Player knowledge vs GM narration
+├── characters/npcs/               # ★ CANONICAL NPC profiles (45 files)
+├── factions/                      # Clans + Harmony houses
+├── world/                         # World mechanics
+├── locations/                     # Place descriptions (14 files)
+└── bestiary/                      # Creature profiles
+
+docs/                              # Export / publish target
+├── notebooklm/                    # Consolidated exports for NotebookLM
+└── _config.yml                    # Jekyll config (if using GitHub Pages)
+
+Vumbua/                            # Original source documents (legacy)
 
 .agent/workflows/                  # AI workflow instructions
 ├── add-session.md                 # Process raw transcripts → cleaned recaps
@@ -249,9 +266,9 @@ Vumbua/                            # Original source documents (being migrated)
 
 | Directory | Purpose | Updated By |
 |-----------|---------|------------|
-| `docs/lore/` | Source of truth for all lore | AI via `/add-lore` |
-| `docs/lore/characters/npcs/` | Canonical NPC profiles | AI via `/add-character` |
-| `docs/characters/` | Character index + PC profiles | AI via `/add-character` |
+| `lore/` | Source of truth for all lore | AI via `/add-lore` |
+| `lore/characters/npcs/` | Canonical NPC profiles | AI via `/add-character` |
+| `characters/` | Character index + PC profiles | AI via `/add-character` |
 | `docs/notebooklm/` | Consolidated exports for NotebookLM | Manual re-export after major updates |
-| `docs/sessions/transcripts/` | Raw + cleaned session files | AI via `/add-session` |
+| `sessions/transcripts/` | Raw + cleaned session files | AI via `/add-session` |
 | `Vumbua/` | Original source docs (legacy) | Not actively updated |

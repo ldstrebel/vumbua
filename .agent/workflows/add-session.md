@@ -7,33 +7,55 @@ description: Add a new session recap after gameplay
 Use this workflow after each game session to properly document what happened.
 
 ## Prerequisites
-- Raw transcript or notes from the session (placed in `docs/sessions/transcripts/sN-raw.md`)
+- Raw transcript or notes from the session (placed in `sessions/transcripts/sN-raw.md`)
 - Know which session number this is
 - Read `.agent/workflows/lore-index.md` first to orient on canonical spellings and existing characters
 
 ## Steps
 
 1. **Determine the session number**
-   - Check `docs/sessions/index.md` for the last session number
+   - Check `sessions/transcripts/` for the last session number
    - New session will be N+1
 
 2. **Review the raw transcript file**
-   - Located at `docs/sessions/transcripts/sN-raw.md`
+   - Located at `sessions/transcripts/sN-raw.md`
    - If it doesn't exist, ask the user to provide one
    - Read `lore-index.md` canonical spellings section before starting cleanup
    - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure
 
 3. **Create the cleaned session file**
    // turbo
-   - Copy `docs/sessions/_template.md` to `docs/sessions/transcripts/session-NN.md`
+   - Copy `sessions/transcripts/_template.md` to `sessions/transcripts/session-NN.md`
    - Fill in the header information (date, players present)
 
 3.5. **Pre-scan: Build entity lists from transcript**
-   - Scan entire transcript for all NPCs mentioned (name + first appearance line)
-   - List all locations visited or referenced
-   - List all new terms or concepts introduced
-   - Cross-reference against `lore-index.md` to identify NEW vs EXISTING entities
-   - This informs scene extraction and batches character creation for step 6
+   - Scan the entire transcript for all entities mentioned:
+     - NPCs (name + first mention line)
+     - Locations
+     - Factions
+     - Terms/concepts
+   - Cross-reference against `.agent/workflows/lore-index.md` to identify **NEW vs EXISTING** entities
+   - Produce a **Session Delta** block in this exact format (copy it into both the cleaned transcript header and `.agent/workflows/lore-index.md`):
+
+   ```markdown
+   ## Session Delta (Session NN: <Title>)
+
+   ### New / First-Mentioned Entities
+   - NPC: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+   - Location: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+   - Term: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
+
+   ### Updated Entity Pages
+   - [[Name]] — add/update “Session Appearances” (and “Source References” if you maintain curated sources)
+
+   ### Player Knowledge Changes
+   - Knowledge Tracker: ✅/❌ <bullet>
+
+   ### Truth / Provenance Notes
+   - If something is **GM planning** (not spoken in-session), tag it as `gm-plan` and keep it out of “What Players Know”.
+   ```
+
+   - This delta is what future “diff-based” runs should rely on; it makes updates fast and bounded.
 
 4. **Extract and organize scenes from the transcript**
 
@@ -50,7 +72,7 @@ Use this workflow after each game session to properly document what happened.
      - Key events and actions
 
    **Speaker Attribution Rules:**
-   - Use **character name** (Iggy, Britt, Ignatius, etc.) when speaking **in-character**
+   - Use **character name** ([[Iggy]], [[Britt]], [[Ignatius]], etc.) when speaking **in-character**
    - Use **player name** (Holly, Sophie, John, etc.) when speaking **out-of-character**
    - Determine IC vs OOC from context (tone, content, GM responses)
    - When uncertain, default to character name and flag for review
@@ -64,7 +86,7 @@ Use this workflow after each game session to properly document what happened.
    - ❌ **Never**: Change character voices, word choices, or story details
    - 🚨 **FAILURE STATE — Overwriting history**: When updating character profiles, lore pages, or knowledge trackers with new session info, **ADD** new entries — never replace or overwrite earlier descriptions. A character's journey should be visible over time. If Iggy was described as "an infiltrator" in Session 1 notes but Session 2.5 reveals he's "genuinely trying to help his people," add the new understanding alongside the old — don't delete the original framing. Session canon is always additive.
    - 🚨 **FAILURE STATE — PC Dialect**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
-   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If Professor Kante says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
+   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If [[Professor Kante]] says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
    - ❌ **Never**: Present OOC player thoughts as IC dialogue. If Holly is *thinking out loud* about what Iggy might feel or ask (as a player brainstorming), that is OOC and should be formatted as `> **Holly (OOC):**`. Only attribute dialogue to Iggy if she is *performing* as him.
    - ❓ **Tag for review**: Ambiguous NPC names, unclear speaker attribution, uncertain corrections
 
@@ -82,20 +104,22 @@ Use this workflow after each game session to properly document what happened.
    - When fixing one line of dialogue, re-read the surrounding 5-10 lines to make sure you didn't accidentally delete or orphan adjacent exchanges
 
 5. **Update the session index**
-   - Add entry to `docs/sessions/index.md`
+   - Add entry to `characters/index.md` if new PCs, and update `lore/knowledge-tracker.md`
    - Include 2-3 sentence summary
    - List key events and player discoveries
 
 6. **Update related documentation**
+   - Use the **Session Delta** block to drive updates (update only the pages listed there; avoid broad repo-wide edits)
    - Run `/add-character` for any new NPCs introduced (flagged in step 3.5)
-   - Update `docs/lore/knowledge-tracker.md` with new discoveries
-   - Update `docs/lore/timeline.md` with session events
+   - Update `lore/knowledge-tracker.md` with new discoveries
+   - Update `lore/timeline.md` with session events
    - Update character profiles if significant events occurred
-   - Update `lore-index.md` with new entities, spellings, and session status
+   - Update `lore-index.md` with the Session Delta, new entities, spellings, and session status
+   - If you need to capture GM-prep that did not occur in-session, place it under a clearly-labeled **GM Plan** section and tag it as `gm-plan`
 
 7. **Commit changes**
    ```bash
-   git add docs/sessions/ docs/lore/ docs/characters/
+   git add sessions/ lore/ characters/
    git commit -m "Add Session N recap"
    git push
    ```
@@ -105,17 +129,16 @@ Use this workflow after each game session to properly document what happened.
    - Bullet: session processed, key files updated
 
 ## File Locations
-- Raw transcripts: `docs/sessions/transcripts/sN-raw.md`
-- Cleaned sessions: `docs/sessions/transcripts/session-NN.md`
-- Template: `docs/sessions/_template.md`
-- Session index: `docs/sessions/index.md`
+- Raw transcripts: `sessions/transcripts/sN-raw.md`
+- Cleaned sessions: `sessions/transcripts/session-NN.md`
+- Template: `sessions/transcripts/_template.md`
 - Lore index (AI reference): `.agent/workflows/lore-index.md`
 
 ## Common Mistakes (learned from Session 2.5)
 
 These are real errors that were made and corrected. Do not repeat them:
 
-1. **Smoothing PC dialect** — Iggy's `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
+1. **Smoothing PC dialect** — [[Iggy]]'s `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
 
 2. **Smoothing NPC voice** — Kante's fumbled phrasing `"What do you like, know?"` was "corrected" to `"What do you know?"`. His broken English is his character.
 
