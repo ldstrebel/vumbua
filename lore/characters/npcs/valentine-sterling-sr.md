@@ -2,13 +2,13 @@
 aliases:
 - Sterling Sr.
 - The Paper Man
-- Valerius Sterling Sr.
+- Valentine Sterling Sr.
 tags:
 - npc
 - explorer
 ---
 
-# Valerius Sterling Sr.
+# Valentine Sterling Sr.
 
 | | |
 |---|---|

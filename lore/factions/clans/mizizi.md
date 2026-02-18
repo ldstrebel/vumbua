@@ -30,7 +30,7 @@ The elders have been increasingly terrified, convinced that this fulfills the an
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived---led by **[[Valerius Sterling Sr.]]** (known to the Mizizi as "[[Valerius Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on---integration work bored him.
+When Harmony's explorers arrived---led by **[[Valentine Sterling Sr.]]** (known to the Mizizi as "[[Valentine Sterling Sr.|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on---integration work bored him.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood
@@ -61,7 +61,7 @@ This year, far more Mizizi were invited to join [[Vumbua Academy]] than ever bef
 
 ### Source References
 
-- **[[session-00|Session 0]]** — [[Valerius Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
+- **[[session-00|Session 0]]** — [[Valentine Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
 - **[[session-00|Session 0]]** — [[Britt]] and [[Aggie]] established as Mizizi clan members *(Character Creation)*
 - **[[session-02|Session 2]]** — [[Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — Mizizi view death as natural; Harmony culture fears death *(Scene 3)*

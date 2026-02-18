@@ -55,7 +55,7 @@
 - This breakthrough enables exploration beyond Harmony's current bounds
 
 ### 24 Months Ago - **BREAKTHROUGH**
-- **[[Valerius Sterling Sr.]]** discovers the [[Mizizi]] one week before Thorne finds the [[Ash-Bloods]]
+- **[[Valentine Sterling Sr.]]** discovers the [[Mizizi]] one week before Thorne finds the [[Ash-Bloods]]
 - Sterling Sr. ("The Paper Man") arrives at the [[Mizizi Petrified Forest|Petrified Forest]] but moves on---integration work bores him
 - **Captain Elara Thorne** discovers the [[Ash-Blood Isles]]
 - Ash-Bloods accept Cooling Suits (Outward Flow)
