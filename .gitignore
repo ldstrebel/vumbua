@@ -13,3 +13,9 @@ docs/.obsidian/hotkeys.json
 # Obsidian plugin settings (user-specific, prevent overwriting other instances)
 .obsidian/plugins/*/data.json
 docs/.obsidian/plugins/*/data.json
+
+# Obsidian personal config 
+.obsidian/app.json 
+.obsidian/appearance.json 
+.obsidian/community-plugins.json 
+.obsidian/core-plugins.json
