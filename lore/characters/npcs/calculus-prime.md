@@ -1,7 +1,9 @@
 ---
 tags:
-  - npc
-  - squad-04
+- npc
+- squad-04
+aliases:
+- Calculus Prime
 ---
 
 # Calculus Prime

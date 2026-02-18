@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "Kante"
+- Kante
+- Professor Kante
 tags:
-  - npc
-  - faculty
-  - house-gilded
+- npc
+- faculty
+- house-gilded
 ---
 
 # Professor Kante

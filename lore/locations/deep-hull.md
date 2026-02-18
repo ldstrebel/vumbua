@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "Deep-Hull"
-  - "The Deep-Hull"
+- Deep-Hull
+- The Deep-Hull
+- Deep Hull
 tags:
-  - location
-  - vumbua-academy
-  - core
+- location
+- vumbua-academy
+- core
 ---
 
 # The Deep-Hull

@@ -1,8 +1,9 @@
 ---
 aliases:
-  - "Glissade"
+- Glissade
+- Lady Glissade
 tags:
-  - npc
+- npc
 ---
 
 # Lady Glissade

@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "Ignis"
+- Ignis
+- Lady Ignis
 tags:
-  - npc
-  - ash-blood
-  - harmony-council
+- npc
+- ash-blood
+- harmony-council
 ---
 
 # Lady Ignis

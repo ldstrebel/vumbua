@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Jax"
+- Jax
+- Iron-Jaw Jax
 tags:
-  - npc
-  - squad-02
+- npc
+- squad-02
 ---
 
 # Iron-Jaw Jax

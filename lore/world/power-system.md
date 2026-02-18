@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Power System"
-  - "Global Amplitude"
+- Power System
+- Global Amplitude
+- The Power System
 tags:
-  - world-lore
+- world-lore
 ---
 
 # The Power System

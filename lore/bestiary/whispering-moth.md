@@ -1,6 +1,8 @@
 ---
 tags:
-  - creature
+- creature
+aliases:
+- Whispering Moth
 ---
 
 # The Whispering Moth

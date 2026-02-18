@@ -1,5 +1,7 @@
 ---
 description: User guide for leveraging AI workflows in this repo
+aliases:
+- Human Instructions
 ---
 
 # How to Use This Repo with AI

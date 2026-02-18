@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "The Scales"
+- The Scales
+- High-Justiciars
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The High-Justiciars (The Scales)

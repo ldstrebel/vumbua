@@ -1,12 +1,13 @@
 ---
 aliases:
-  - "Ember-Kin"
-  - "Pyre-Keepers"
-  - "Ash Bloods"
-  - "Ash Blood"
+- Ember-Kin
+- Pyre-Keepers
+- Ash Bloods
+- Ash Blood
+- Ash-Bloods
 tags:
-  - faction
-  - clan
+- faction
+- clan
 ---
 
 # The Ash-Bloods

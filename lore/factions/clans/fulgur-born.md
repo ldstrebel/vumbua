@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Storm-Chasers"
+- Storm-Chasers
+- Fulgur-Born
 tags:
-  - faction
-  - clan
+- faction
+- clan
 ---
 
 # The Fulgur-Born (Storm-Chasers)

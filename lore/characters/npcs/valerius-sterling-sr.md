@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "Sterling Sr."
-  - "The Paper Man"
+- Sterling Sr.
+- The Paper Man
+- Valerius Sterling Sr.
 tags:
-  - npc
-  - explorer
+- npc
+- explorer
 ---
 
 # Valerius Sterling Sr.

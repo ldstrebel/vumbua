@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "Percy"
-  - "Percival"
-  - "Percy Vane-Smythe III"
+- Percy
+- Percival
+- Percy Vane-Smythe III
+- Percival Vane-Smythe III
 tags:
-  - npc
-  - squad-08
+- npc
+- squad-08
 ---
 
 # Percival "Percy" Vane-Smythe III

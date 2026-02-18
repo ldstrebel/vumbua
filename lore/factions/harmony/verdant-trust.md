@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "Verdant Trust"
-  - "The Agri-Lords"
+- Verdant Trust
+- The Agri-Lords
+- The Verdant Trust
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The Verdant Trust (The Agri-Lords)

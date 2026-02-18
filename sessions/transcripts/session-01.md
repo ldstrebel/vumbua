@@ -1,3 +1,7 @@
+---
+aliases:
+- Session 01
+---
 This is a great note. You are right; the specific flavor of the "Teal Butlers" and the mechanics of the typewriter add so much texture to the setting.
 
 Here is the **Revised Part 1**, restoring the GM’s descriptive text and the specific interactions with the "Rust" rejection and the Supervisor.

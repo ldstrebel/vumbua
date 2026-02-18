@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Bolt"
+- Bolt
+- Baron Bolt
 tags:
-  - npc
-  - squad-08
+- npc
+- squad-08
 ---
 
 # Baron Bolt

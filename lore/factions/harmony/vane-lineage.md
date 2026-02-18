@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "House Vane"
-  - "The Shield"
-  - "The Orderborne"
+- House Vane
+- The Shield
+- The Orderborne
+- Vane Lineage
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The Vane Lineage (The Orderborne)

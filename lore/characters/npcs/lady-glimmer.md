@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Glimmer"
+- Glimmer
+- Lady Glimmer
 tags:
-  - npc
-  - squad-08
+- npc
+- squad-08
 ---
 
 # Lady Glimmer

@@ -1,7 +1,9 @@
 ---
 tags:
-  - world-lore
-  - gm-only
+- world-lore
+- gm-only
+aliases:
+- The Minimum
 ---
 
 # The Minimum (Energy Crisis)
