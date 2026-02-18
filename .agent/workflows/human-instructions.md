@@ -11,7 +11,7 @@ This guide explains how to get the most out of the AI workflows for managing the
 ## Quick Start: After a Session
 
 1. **Record or transcribe the session** (Granola, Otter, manual notes — whatever works)
-2. **Drop the raw transcript** into `docs/sessions/transcripts/sN-raw.md` (where N = session number)
+2. **Drop the raw transcript** into `sessions/transcripts/sN-raw.md` (where N = session number)
 3. **Tell the AI**: `/add-session` — it will handle the rest
 4. **Review the cleaned transcript** — check speaker attributions and flagged items
 5. **Deploy**: `/deploy` to push changes to the wiki
@@ -25,13 +25,13 @@ This guide explains how to get the most out of the AI workflows for managing the
 **When**: After every game session
 
 **What to prepare**:
-- Raw transcript file placed at `docs/sessions/transcripts/sN-raw.md`
-- Know the session number (check `docs/sessions/index.md`)
+- Raw transcript file placed at `sessions/transcripts/sN-raw.md`
+- Know the session number (check `sessions/transcripts/` for the latest)
 
 **Prompt examples**:
 ```
 /add-session
-Process the raw transcript for session 3. The raw file is at docs/sessions/transcripts/s3-raw.md.
+Process the raw transcript for session 3. The raw file is at sessions/transcripts/s3-raw.md.
 Players present: Sophie (Britt), Kristina (Aggie), John (Ignatius), Luke (Lomi), Holly (Iggy).
 Session date: February 16, 2026.
 ```
@@ -118,6 +118,14 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 
 ## Tips for Best Results
 
+### Asking for the right truth tier (prevents "planned" bleeding into canon)
+When prompting the AI, specify which tier you want:
+- **Player handout**: use only **What Players Know** + transcript-derived facts
+- **GM assistant**: include **GM Narration** (unrevealed but narrated canon)
+- **Prep mode**: include **GM Plan** (future rosters/intent); otherwise the AI should avoid it
+
+If you see something like a squad roster referenced before the Loom/team selection has happened in-session, that should be treated as **GM Plan** until the transcript establishes it.
+
 ### Providing Transcripts
 - **Any format works** — the AI will organize it. Raw Granola/Otter output, manual notes, etc.
 - **More is better** — include everything, even table talk. The AI will identify what's in vs. out of character.
@@ -144,14 +152,13 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 
 | What | Where |
 |------|-------|
-| Raw transcripts | `docs/sessions/transcripts/sN-raw.md` |
-| Cleaned sessions | `docs/sessions/transcripts/session-NN.md` |
-| Session index | `docs/sessions/index.md` |
-| Character index | `docs/characters/index.md` |
-| NPC profiles | `docs/lore/characters/npcs/` |
-| PC profiles | `docs/characters/player-characters/` |
-| World lore | `docs/lore/` |
-| Glossary | `docs/lore/glossary.md` |
-| Timeline | `docs/lore/timeline.md` |
-| Knowledge tracker | `docs/lore/knowledge-tracker.md` |
+| Raw transcripts | `sessions/transcripts/sN-raw.md` |
+| Cleaned sessions | `sessions/transcripts/session-NN.md` |
+| Character index | `characters/index.md` |
+| NPC profiles | `lore/characters/npcs/` |
+| PC profiles | `characters/player-characters/` |
+| World lore | `lore/` |
+| Glossary | `lore/glossary.md` |
+| Timeline | `lore/timeline.md` |
+| Knowledge tracker | `lore/knowledge-tracker.md` |
 | AI lore index | `.agent/workflows/lore-index.md` |

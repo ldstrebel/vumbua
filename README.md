@@ -14,11 +14,11 @@ A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlanti
 |--------|----------|
 | **AI agents** — rapid orientation | [[Lore Index|`.agent/workflows/lore-index.md`]] |
 | **Humans** — how to use AI workflows | [[Human Instructions|`.agent/workflows/human-instructions.md`]] |
-| **Players** — catching up on sessions | [`docs/sessions/index.md`](docs/sessions/index.md) |
-| **Players** — learning the world | [`docs/lore/index.md`](docs/lore/index.md) |
-| **Quick reference** — terms & definitions | [[Glossary|`docs/lore/glossary.md`]] |
-| **Quick reference** — timeline | [[Timeline|`docs/lore/timeline.md`]] |
-| **Quick reference** — characters | [`docs/characters/index.md`](docs/characters/index.md) |
+| **Players** — catching up on sessions | [[Session Index|`sessions/transcripts/`]] |
+| **Players** — learning the world | [[Lore Index|`lore/index.md`]] |
+| **Quick reference** — terms & definitions | [[Glossary|`lore/glossary.md`]] |
+| **Quick reference** — timeline | [[Timeline|`lore/timeline.md`]] |
+| **Quick reference** — characters | [[Character Index|`characters/index.md`]] |
 
 ---
 
@@ -47,34 +47,34 @@ Our party of five unlikely students must navigate:
 ## Repository Structure
 
 ```
-docs/                              # GitHub Pages content (THE PUBLIC WIKI)
-├── index.md                       # Campaign homepage
-├── characters/
-│   ├── index.md                   # Master character index
-│   └── player-characters/         # PC profiles (5 files)
-├── sessions/
-│   ├── index.md                   # Session index with summaries
-│   ├── _template.md               # Template for new sessions
-│   └── transcripts/               # Raw + cleaned session transcripts
-├── lore/
-│   ├── index.md                   # Lore hub
-│   ├── glossary.md                # A-Z terms
-│   ├── timeline.md                # Full chronological history
-│   ├── knowledge-tracker.md       # Player knowledge vs GM narration
-│   ├── characters/npcs/           # ★ CANONICAL NPC profiles (45 files)
-│   ├── factions/                  # Clans + Harmony houses
-│   ├── world/                     # World mechanics
-│   ├── locations/                 # Place descriptions
-│   └── bestiary/                  # Creature profiles
-├── notebooklm/                    # Consolidated exports for NotebookLM
-│   ├── campaign-compendium.md     # Full world reference
-│   ├── campaign-chronicle.md      # Timeline + session history
-│   ├── character-codex.md         # All characters merged
-│   └── gm-master.md              # GM-only secrets
-├── gm-notes/                      # Private GM prep
-└── mechanics/                     # Daggerheart system info
+characters/                        # Character profiles (Obsidian vault)
+├── index.md                       # Master character index
+├── player-characters/             # PC profiles (5 files)
+└── npcs/                          # Notable NPCs with dual-vault copies
 
-Vumbua/                            # Original source documents (legacy, being migrated)
+sessions/                          # Session transcripts + planning
+├── transcripts/                   # Raw + cleaned session transcripts
+│   ├── _template.md               # Template for new sessions
+│   ├── sN-raw.md                  # Raw transcript input
+│   └── session-NN.md              # Cleaned session output
+└── planning/                      # GM session prep
+
+lore/                              # ★ CANONICAL LORE (Obsidian vault)
+├── index.md                       # Lore hub
+├── glossary.md                    # A-Z terms
+├── timeline.md                    # Full chronological history
+├── knowledge-tracker.md           # Player knowledge vs GM narration
+├── characters/npcs/               # ★ CANONICAL NPC profiles (45 files)
+├── factions/                      # Clans + Harmony houses
+├── world/                         # World mechanics
+├── locations/                     # Place descriptions (14 files)
+└── bestiary/                      # Creature profiles
+
+docs/                              # Export / publish target
+├── notebooklm/                    # Consolidated exports for NotebookLM
+└── _config.yml                    # Jekyll config (if using GitHub Pages)
+
+Vumbua/                            # Original source documents (legacy)
 
 .agent/workflows/                  # AI + human workflow instructions
 ├── add-session.md                 # Process raw transcripts
@@ -89,7 +89,7 @@ Vumbua/                            # Original source documents (legacy, being mi
 
 | Layer | Purpose | Updated |
 |-------|---------|---------|
-| **Source docs** (`docs/lore/`, `docs/sessions/`, etc.) | Single source of truth for all campaign content | After each session via AI workflows |
+| **Obsidian vault** (`lore/`, `characters/`, `sessions/`) | Single source of truth for all campaign content | After each session via AI workflows |
 | **NotebookLM exports** (`docs/notebooklm/`) | Consolidated copies for NotebookLM ingestion | Manually re-exported after major updates |
 | **Legacy docs** (`Vumbua/`) | Original pre-migration source material | Not actively maintained |
 | **AI reference** (`.agent/workflows/lore-index.md`) | Quick reference for AI session processing | After each session |
@@ -103,6 +103,14 @@ Lore pages include both **player-facing information** and **GM narration** (not 
 - **"What Players Know"** sections are safe to share
 - **"GM Narration"** sections contain unrevealed DM content, marked with caution boxes
 - The [[Knowledge Tracker]] tracks what's been revealed
+
+### Truth tiers (reduces RAG confusion)
+To prevent planned content from masquerading as session-truth, we treat information as one of:
+- **transcript**: said/seen in-session (highest confidence)
+- **gm-narration**: narrated by GM but not yet known to PCs (still canon, but hidden)
+- **gm-plan**: prep/rosters/intent (not yet occurred in-session)
+
+If something is `gm-plan` (e.g. a squad roster before the Loom selection happens), it must be clearly labeled and kept out of player-facing sections.
 
 ---
 
@@ -129,9 +137,9 @@ When completing any task, the AI must update all downstream files. Use this as a
 
 | After... | Always update... |
 |----------|-----------------|
-| **Processing a session** | `docs/sessions/index.md`, `docs/lore/knowledge-tracker.md`, `docs/lore/timeline.md`, `.agent/workflows/lore-index.md` (session delta + session status), `CHANGELOG.md` |
-| **Adding/updating a character** | `docs/characters/index.md`, `.agent/workflows/lore-index.md` (NPC list + spellings), `CHANGELOG.md` |
-| **Adding/updating lore** | `docs/lore/index.md`, `docs/lore/glossary.md` (if new terms), `.agent/workflows/lore-index.md`, `CHANGELOG.md` |
+| **Processing a session** | `lore/knowledge-tracker.md`, `lore/timeline.md`, `.agent/workflows/lore-index.md` (session delta + session status), `CHANGELOG.md` |
+| **Adding/updating a character** | `characters/index.md`, `.agent/workflows/lore-index.md` (NPC list + spellings), `CHANGELOG.md` |
+| **Adding/updating lore** | `lore/index.md`, `lore/glossary.md` (if new terms), `.agent/workflows/lore-index.md`, `CHANGELOG.md` |
 | **Any AI action** | `CHANGELOG.md` — date-stamped bullet with TLDR + file(s) changed |
 
 ---
@@ -147,7 +155,7 @@ All AI-driven changes are logged in [[Changelog|`CHANGELOG.md`]] with date stamp
 Deploy changes via the `/deploy` workflow or manually:
 
 ```bash
-git add docs/
+git add lore/ characters/ sessions/
 git commit -m "Session XX recap and lore updates"
 git push origin main
 ```
