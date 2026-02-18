@@ -57,6 +57,6 @@ Percy's core belief: the known clans (Plants/[[Mizizi]], Fire/[[Ash-Bloods]]) ar
 
 ## Source References
 
-- **[[session-02|Session 2]]** — Led the Speculators' Debate at the [[Block 99]] bonfire; argued for the Sixfold Theory *(Scene 4: The Speculators)*
-- **[[session-02|Session 2]]** — Bonded with [[Lomi]] over "salt of the earth" shared curiosity *(Scene 4)*
-- **[[session-02|Session 2]]** — Led the group to [[Lucky]] to buy Engine Grease; paid in sovereigns *(Scene 8: Grinder Talk)*
+- **[[session-02|Session 2]]** — Led the Speculators' Debate at the [[Block 99]] bonfire; argued for the Sixfold Theory *(Scene 1: The Bonfire Theories)*
+- **[[session-02|Session 2]]** — Bonded with [[Lomi]] over "salt of the earth" shared curiosity *(Scene 1)*
+- **[[session-02|Session 2]]** — Led the group to [[Lucky]] to buy Engine Grease; paid in sovereigns *(Scene 2: Getting Lucky)*

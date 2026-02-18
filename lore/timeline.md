@@ -120,7 +120,6 @@
 - [[Lucky]] hustles his first deals (sold [[Iggy]] a stolen turban)
 
 ### Intake Week - Night of Day 1 ([[session-02|Session 2]]: The Bonfire)
-- Bonfire at [[Block 99]]; party socializes with new NPCs
 - **[[Cassius Thorne]]** arranges logs obsessively; [[Lomi]] encouraged him with a critical-success roll
 - **[[Serra Vox]]** approaches [[Britt]]/[[Aggie]]; slips about political connections to [[Harmony Prime|The Seat]]
 - **The Speculators' Debate:** [[Percival Vane-Smythe III|Percy]] argues the Sixfold Theory; [[Iron-Jaw Jax|Jax]] dismisses it; [[Bramble]] asks *"What if we are the ones who forgot?"*
@@ -128,7 +127,7 @@
 - Cultural exchange: [[Mizizi]] view death as natural ("Congratulations!"); Harmony fears death
 - Serra reveals the [[Mizizi Petrified Forest|Mizizi forest]] has no clear "purpose"---unusual among nodes
 - [[Lomi]] brings **Engine Grease** (moonshine); [[Zephyr]] drinks it
-- **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed
+- **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed *(Scene 4: The Lightning)*
 - **[[Rill]]** appears, retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class (grass-covered building)
 - [[Ignatius]] reveals [[Ash-Bloods|Ash-Blood]] cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
 - Leidian properties discussed: 80% hotter, halflife oscillation, distance decay

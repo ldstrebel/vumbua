@@ -58,7 +58,7 @@ When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephy
 ## Source References
 
 - **[[session-01|Session 1]]** — Pulled [[Dean Isolde Vane|Dean Isolde]] back behind the curtain during the welcome speech; waved to [[Mizizi]] students *(Scene 6: The Dean's Welcome)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] identified her as the person who managed the Dean *(Scene 3)*
-- **[[session-02|Session 2]]** — Retrieved [[Zephyr]] after the lightning incident; bribed her with hot chocolate *(Scene 7: The Lightning)*
-- **[[session-02|Session 2]]** — Invited [[Britt]] and [[Aggie]] to visit her at the grass-covered building *(Scene 7)*
-- **[[session-02|Session 2]]** — Called [[Ignatius]] "Lava Boy" *(Scene 7)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] identified her as the person who managed the Dean *(Scene 4)*
+- **[[session-02|Session 2]]** — Retrieved [[Zephyr]] after the lightning incident; bribed her with hot chocolate *(Scene 4: The Lightning)*
+- **[[session-02|Session 2]]** — Invited [[Britt]] and [[Aggie]] to visit her at the grass-covered building *(Scene 4)*
+- **[[session-02|Session 2]]** — Called [[Ignatius]] "Lava Boy" *(Scene 4)*

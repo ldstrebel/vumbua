@@ -38,8 +38,8 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 ## Source References
 
 - **[[session-01|Session 1]]** — Sold [[Iggy]] a stolen guard turban as a "Kleenex"; hawked Ash-Blood memorabilia *(Scene 7: The Hustle)*
-- **[[session-02|Session 2]]** — Selling Engine Grease at the [[Block 99]] bonfire *(Scene 8: Grinder Talk)*
-- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[Sarge]] watching disapprovingly *(Scene 8)*
+- **[[session-02|Session 2]]** — Selling Engine Grease at the [[Block 99]] bonfire *(Scene 2: Getting Lucky)*
+- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[Sarge]] watching disapprovingly *(Scene 2)*
 
 ---
 

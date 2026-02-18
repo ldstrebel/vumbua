@@ -97,9 +97,9 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 ### Source References
 
 - **[[session-00|Session 0]]** — [[Ash-Blood Isles]] discovery by Captain Elara Thorne; [[Valerius Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
-- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[Ignatius]]) and modernizers ([[Ember]]) *(Scene 6: Ash-Blood Politics)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 6)*
-- **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 6)*
+- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
+- **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 3)*
 - **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes

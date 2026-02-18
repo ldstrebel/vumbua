@@ -63,7 +63,7 @@ When [[Lomi]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediatel
 
 ## Source References
 
-- **[[session-02|Session 2]]** — Participated in the Speculators' Debate at the [[Block 99]] bonfire *(Scene 4: The Speculators)*
-- **[[session-02|Session 2]]** — Dismissed pattern-seeking: *"Or maybe the world is just broken"* *(Scene 4)*
-- **[[session-02|Session 2]]** — Purple lightning bolt from a clear sky after drinking Engine Grease *(Scene 7: The Lightning)*
-- **[[session-02|Session 2]]** — [[Rill]] retrieved her; [[Ignatius]] asked her name *(Scene 7)*
+- **[[session-02|Session 2]]** — Participated in the Speculators' Debate at the [[Block 99]] bonfire *(Scene 1: The Bonfire Theories)*
+- **[[session-02|Session 2]]** — Dismissed pattern-seeking: *"Or maybe the world is just broken"* *(Scene 1)*
+- **[[session-02|Session 2]]** — Purple lightning bolt from a clear sky after drinking Engine Grease *(Scene 4: The Lightning)*
+- **[[session-02|Session 2]]** — [[Rill]] retrieved her; [[Ignatius]] asked her name *(Scene 4)*

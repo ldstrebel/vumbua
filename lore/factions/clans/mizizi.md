@@ -63,9 +63,9 @@ This year, far more Mizizi were invited to join [[Vumbua Academy]] than ever bef
 
 - **[[session-00|Session 0]]** — [[Valerius Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
 - **[[session-00|Session 0]]** — [[Britt]] and [[Aggie]] established as Mizizi clan members *(Character Creation)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 5: Philosophy of Death)*
-- **[[session-02|Session 2]]** — Mizizi view death as natural; Harmony culture fears death *(Scene 5)*
-- **[[session-02|Session 2]]** — [[Rill]] recognized [[Britt]] and [[Aggie]]; invited them to visit *(Scene 7)*
+- **[[session-02|Session 2]]** — [[Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 3: Cultural Exchange)*
+- **[[session-02|Session 2]]** — Mizizi view death as natural; Harmony culture fears death *(Scene 3)*
+- **[[session-02|Session 2]]** — [[Rill]] recognized [[Britt]] and [[Aggie]]; invited them to visit *(Scene 4)*
 
 ### Cultural Notes
 

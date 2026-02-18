@@ -20,10 +20,18 @@ tags:
 | **Affiliation** | Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]] |
 | **Status** | Active |
 | **Archetype** | The Burdened Legacy |
-| **First Appearance** | Not yet on-screen |
+| **First Appearance** | [[session-01|Session 1]] |
 
 ## Overview
 Valerius Sterling is the scion of House Sterling, the "Shield of Harmony." He captains Squad 01, "The Echelon," and is the academy's golden boy. He is technically brilliant, rigidly disciplined, and deeply burdened by the expectations of his family.
+
+## Session Appearances
+
+### Session 1
+- **The Courtyard Encounter:** Valerius (initially identified as a "Chad" student) met [[Ignatius]] immediately after the intake exam.
+- **The Interaction:** He recognized Ignatius as an [[Ash-Bloods|Ash-Blood]] and asked if the heat "is back."
+- **The Handshake:** He hesitated to shake Ignatius's hand, asking "Will your hand burn me?" When it didn't, he wiped his hand of soot and stormed off, spitting.
+- **Vibe:** "Bridgerton-esque," arrogant, and obsessed with cleanliness/status.
 
 ## Personality
 - **Public Persona:** Arrogant, perfect, and critical of "Variance" (chaos/unpredictability). He often antagonizes the party, calling them "Uncalibrated."
