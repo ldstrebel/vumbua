@@ -1,6 +1,8 @@
 ---
 tags:
-  - creature
+- creature
+aliases:
+- Ether-Jelly
 ---
 
 # The Ether-Jelly

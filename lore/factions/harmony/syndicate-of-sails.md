@@ -1,7 +1,9 @@
 ---
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
+aliases:
+- Syndicate of Sails
 ---
 
 # The Syndicate of Sails (The Logistics)

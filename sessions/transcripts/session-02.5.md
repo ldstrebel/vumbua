@@ -1,3 +1,7 @@
+---
+aliases:
+- Session 02Pt5
+---
 # Session 2.5: The Power Room
 
 **Date:** 2026-02-16  

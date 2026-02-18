@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "House Mason"
+- House Mason
+- Grand Architects
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The Grand Architects (House Mason)

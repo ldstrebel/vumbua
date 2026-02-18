@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Rose Halloway"
+- Rose Halloway
+- Dr. Rose Halloway
 tags:
-  - npc
-  - squad-05
+- npc
+- squad-05
 ---
 
 # Dr. Rose Halloway

@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Earthkin"
+- Earthkin
+- Trench-Kin
 tags:
-  - faction
-  - clan
+- faction
+- clan
 ---
 
 # The Trench-Kin (The Abyssal)

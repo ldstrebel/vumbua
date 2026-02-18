@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "Old Man Thorne"
-  - "Silas"
+- Old Man Thorne
+- Silas
+- Silas Thorne
 tags:
-  - npc
-  - squad-05
+- npc
+- squad-05
 ---
 
 # Silas "Old Man" Thorne

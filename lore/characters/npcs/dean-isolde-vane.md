@@ -1,13 +1,14 @@
 ---
 aliases:
-  - "Dean Vane"
-  - "Isolde"
-  - "The Dean"
-  - "Dean Isolde"
+- Dean Vane
+- Isolde
+- The Dean
+- Dean Isolde
+- Dean Isolde Vane
 tags:
-  - npc
-  - faculty
-  - vane-lineage
+- npc
+- faculty
+- vane-lineage
 ---
 
 # Dean Isolde Vane

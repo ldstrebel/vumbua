@@ -1,7 +1,9 @@
 ---
 tags:
-  - npc
-  - squad-02
+- npc
+- squad-02
+aliases:
+- Maria Wall
 ---
 
 # "Wall" Maria

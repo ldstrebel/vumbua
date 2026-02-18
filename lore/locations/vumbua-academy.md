@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Vumbua"
-  - "The Safiri"
+- Vumbua
+- The Safiri
+- Vumbua Academy
 tags:
-  - location
+- location
 ---
 
 # Vumbua Academy (The Mobile City)

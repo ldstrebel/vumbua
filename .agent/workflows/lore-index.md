@@ -1,5 +1,7 @@
 ---
 description: AI-facing quick reference for the Vumbua campaign repo
+aliases:
+- Lore Index
 ---
 
 # Vumbua Campaign — Lore Index

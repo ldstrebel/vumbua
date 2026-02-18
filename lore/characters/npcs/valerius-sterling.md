@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "Val"
-  - "Val Sterling"
+- Val
+- Val Sterling
+- Valerius Sterling
 tags:
-  - npc
-  - squad-01
-  - gold-rank
+- npc
+- squad-01
+- gold-rank
 ---
 
 # Valerius "Val" Sterling

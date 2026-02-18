@@ -1,7 +1,9 @@
 ---
 tags:
-  - npc
-  - faculty
+- npc
+- faculty
+aliases:
+- Celia Vance
 ---
 
 # Celia Vance

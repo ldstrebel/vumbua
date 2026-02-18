@@ -1,12 +1,13 @@
 ---
 aliases:
-  - "Serra"
-  - "Seraphina Vox"
+- Serra
+- Seraphina Vox
+- Serra Vox
 tags:
-  - npc
-  - squad-01
-  - gold-rank
-  - house-vox
+- npc
+- squad-01
+- gold-rank
+- house-vox
 ---
 
 # Seraphina "Serra" Vox

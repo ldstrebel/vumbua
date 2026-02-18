@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "The Loreborne"
+- The Loreborne
+- Scrivener Guild
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The Scrivener Guild (The Loreborne)

@@ -1,3 +1,7 @@
+---
+aliases:
+- Session 00
+---
 # Session 0 - The Trials
 
 **Date:** [Campaign Start]  

@@ -1,6 +1,8 @@
 ---
 tags:
-  - world-lore
+- world-lore
+aliases:
+- Pre-Stitch Artifacts
 ---
 
 # Pre-Stitch Artifacts (Ancient Tech)

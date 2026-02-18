@@ -1,6 +1,8 @@
 ---
 tags:
-  - creature
+- creature
+aliases:
+- Void-Beast
 ---
 
 # The Void-Beast

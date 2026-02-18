@@ -1,8 +1,9 @@
 ---
 aliases:
-  - "Dissolution"
+- Dissolution
+- The Bleed
 tags:
-  - world-lore
+- world-lore
 ---
 
 # The Bleed (Dissolution)

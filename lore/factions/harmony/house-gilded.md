@@ -1,10 +1,11 @@
 ---
 aliases:
-  - "The Highborne"
-  - "The Vault"
+- The Highborne
+- The Vault
+- House Gilded
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # House Gilded (The Highborne)

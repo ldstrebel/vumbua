@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Barnacle"
+- Barnacle
+- Captain Barnacle
 tags:
-  - npc
-  - squad-07
+- npc
+- squad-07
 ---
 
 # Captain Barnacle

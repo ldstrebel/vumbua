@@ -1,6 +1,8 @@
 ---
 tags:
-  - creature
+- creature
+aliases:
+- Rot-Shepherd
 ---
 
 # The Rot-Shepherd

@@ -1,3 +1,7 @@
+---
+aliases:
+- Session 02
+---
 # Session 2: The Bonfire
 
 **Session Number:** 02

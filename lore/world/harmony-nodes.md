@@ -1,8 +1,9 @@
 ---
 aliases:
-  - "Harmony's Integrated Nodes"
+- Harmony's Integrated Nodes
+- Harmony Nodes
 tags:
-  - world-lore
+- world-lore
 ---
 
 # Harmony's Integrated Nodes

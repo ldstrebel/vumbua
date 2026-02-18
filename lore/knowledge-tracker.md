@@ -1,3 +1,7 @@
+---
+aliases:
+- Knowledge Tracker
+---
 # Knowledge Tracker
 
 > **Purpose:** Track what players know vs. GM secrets still hidden

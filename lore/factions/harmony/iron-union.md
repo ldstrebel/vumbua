@@ -1,11 +1,12 @@
 ---
 aliases:
-  - "The Ridgeborne"
-  - "Iron Union"
-  - "Diamond Union"
+- The Ridgeborne
+- Iron Union
+- Diamond Union
+- Iron-Union
 tags:
-  - faction
-  - harmony-house
+- faction
+- harmony-house
 ---
 
 # The Iron-Union (The Ridgeborne)

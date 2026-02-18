@@ -1,9 +1,10 @@
 ---
 aliases:
-  - "Cassius"
+- Cassius
+- Cassius Thorne
 tags:
-  - npc
-  - squad-01
+- npc
+- squad-01
 ---
 
 # Cassius Thorne

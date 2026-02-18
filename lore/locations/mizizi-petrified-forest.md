@@ -1,13 +1,14 @@
 ---
 aliases:
-  - "Petrified Forest"
-  - "Mizizi Forest"
-  - "The Petrifaction Fields"
-  - "The Great Library"
+- Petrified Forest
+- Mizizi Forest
+- The Petrifaction Fields
+- The Great Library
+- Mizizi Petrified Forest
 tags:
-  - location
-  - clan-territory
-  - mizizi
+- location
+- clan-territory
+- mizizi
 ---
 
 # The Mizizi Petrified Forest
