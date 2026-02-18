@@ -6,7 +6,7 @@ aliases:
 
 **Date:** 2026-02-16  
 **Session Number:** 2.5  
-**Players Present:** [[Iggy]] (Holly)  
+**Players Present:** [[iggy|Iggy]] (Holly)  
 **Type:** 1-on-1 side session (concurrent with Session 2 bonfire)
 
 ---
@@ -27,14 +27,14 @@ While the rest of the party socializes at the Block 99 bonfire, Iggy Irish-goodb
 
 *GM Narration:*
 
-[[Iggy]] has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the [[Mizizi]] clan explaining why death is a part of life. As Nick — as [[Ignatius]] got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
+[[iggy|Iggy]] has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the [[mizizi|Mizizi]] clan explaining why death is a part of life. As Nick — as [[ignatius|Ignatius]] got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
 
 He just kind of Irish-goodbyed. Didn't say anything to anybody. Slipped away the moment he could sneak out without them noticing.
 
 At the same time, something else caught his eye: just next to where the fire was, the doors of the power plant flipped open for a second. He saw a bunch of cogs and machines and parts whirring inside. Someone walked out, the lights dimmed — and the door was not locked.
 
 **Player Discoveries:**
-- [[Iggy]] noticed [[Ignatius]] looking back at him — he wasn't completely ignored or forgotten
+- [[iggy|Iggy]] noticed [[ignatius|Ignatius]] looking back at him — he wasn't completely ignored or forgotten
 - He was starting to connect and fit in, but he's still prone to "shiny penny" moments
 - The power plant door was left unlocked
 
@@ -119,7 +119,7 @@ He goes in to compare notes — not to copy someone else's work, but to check if
 ### Scene 4: The Chalkboard — Panda 5 Resonator Battery
 
 **Location:** Power Plant office / chalkboard area  
-**NPCs Present:** [[Professor Kante]] (appears mid-scene)  
+**NPCs Present:** [[professor-kante|Professor Kante]] (appears mid-scene)  
 **Time:** Late evening, Day 1
 
 *GM Narration:*
@@ -146,7 +146,7 @@ Iggy is really able to get a good amount of learnings from this:
 
 About halfway through jotting down the board...
 
-**[[Professor Kante]]:** "Hello."
+**[[professor-kante|Professor Kante]]:** "Hello."
 
 He speaks slowly — every word deliberate. Like a slow Indian accent, careful and measured.
 
@@ -179,7 +179,7 @@ Iggy is looking at a large tortoise — like the Master from Kung Fu Panda. Lean
 
 **Professor Kante:** "You do? Maybe you can tell me what you think about the Ash-Blood surge."
 
-**Iggy:** "I don't know nothin' about no [[Ash-Bloods]]. I just met the first two t'day. But I do feel like you got a big give‑and‑take situation over here, an' I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
+**Iggy:** "I don't know nothin' about no [[ash-bloods|Ash-Bloods]]. I just met the first two t'day. But I do feel like you got a big give‑and‑take situation over here, an' I don't know — my first Ash-Blood today, it was very exciting. It was very nice. It was many of them, the very few in the total, which doesn't make sense because of that. Anyways — sorry, don't get distracted. All the hullabaloo about Ash-Bloods — why are you asking me about that?"
 
 **Player Discoveries:**
 - The Panda 5 is the current generation of resonator battery
@@ -215,7 +215,7 @@ Kante walks to the board and starts explaining:
 
 He covers what Iggy already figured out — the water metaphor, the faucet, the overflow. Then:
 
-**Professor Kante:** "Over the past... every major node... every major node that has been integrated into Harmony, it has brought with it a tremendous increase in Global Amplitude. But it has not happened yet for the [[Ash-Bloods]] — or it happened very little. It was very timely, because if it did not happen, then the Global Amplitude would have gone under the surge line and all of the Panda 5 batteries would have been outputting less than normal. It would have been the opposite of a Night of Sparks, and it would have been very bad."
+**Professor Kante:** "Over the past... every major node... every major node that has been integrated into Harmony, it has brought with it a tremendous increase in Global Amplitude. But it has not happened yet for the [[ash-bloods|Ash-Bloods]] — or it happened very little. It was very timely, because if it did not happen, then the Global Amplitude would have gone under the surge line and all of the Panda 5 batteries would have been outputting less than normal. It would have been the opposite of a Night of Sparks, and it would have been very bad."
 
 *(pauses)* "Sorry. That probably did not make a lot of sense. I will rewind more. There is a reason this is my first year of teaching."
 
@@ -396,15 +396,15 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 ## Session Outcomes
 
 ### Character Development
-- **[[Iggy]]:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
+- **[[iggy|Iggy]]:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
 
 ### Party Relationships
-- [[Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the Celestial Lounge trip
-- He noticed [[Ignatius]] looking back at him — the connection is building even when Iggy wanders
+- [[iggy|Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the Celestial Lounge trip
+- He noticed [[ignatius|Ignatius]] looking back at him — the connection is building even when Iggy wanders
 - Iggy is now running "connection experiments" with his new friends
 
 ### World State Changes
-- **[[Professor Kante]]** is now an active NPC — he's recruited Iggy as a collaborator
+- **[[professor-kante|Professor Kante]]** is now an active NPC — he's recruited Iggy as a collaborator
 - **The Ash-Blood Anomaly** is now directly known to Iggy (but not the rest of the party)
 - **The [[The Power System|Global Amplitude]] decline** has been revealed (to one player)
 - Iggy possesses an **umber crystal** — a physical piece of the power infrastructure
@@ -421,10 +421,10 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 
 ## Lore Updates
 
-- [x] Update [[Professor Kante]] — now met by [[Iggy]]
-- [x] Update [[Knowledge Tracker]] — [[Iggy]] now knows about GA decline, batteries, anomaly
+- [x] Update [[professor-kante|Professor Kante]] — now met by [[iggy|Iggy]]
+- [x] Update [[Knowledge Tracker]] — [[iggy|Iggy]] now knows about GA decline, batteries, anomaly
 - [x] Update [[Timeline]] — Session 2.5 is no longer [Planned]
-- [x] Update [[Iggy]] — new mechanics, umber crystal, Kante connection
+- [x] Update [[iggy|Iggy]] — new mechanics, umber crystal, Kante connection
 - [x] Add new entries about umber crystals and Panda 5 to [[Glossary]]
 
 ---
@@ -432,10 +432,10 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 ## GM Reflections
 
 ### What Worked Well
-- The slow reveal through [[Iggy]]'s own technical aptitude — he figured out the battery philosophy *before* Kante explained it
+- The slow reveal through [[iggy|Iggy]]'s own technical aptitude — he figured out the battery philosophy *before* Kante explained it
 - Kante's voice and personality — the slow-speaking tortoise professor was charming and memorable
 - Holly's player instincts — the Exchange question was the exact right insight
-- The umber crystal as a physical takeaway — gives [[Iggy]] something to tinker with
+- The umber crystal as a physical takeaway — gives [[iggy|Iggy]] something to tinker with
 
 ### Adjustments for Next Time
 - Kante's lecture could be tighter — he acknowledges "I feel like I am talking around in circles"

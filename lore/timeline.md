@@ -14,7 +14,7 @@
 - Lesson learned: "One-way flow leads to Dissolution"
 
 ### 1,500 - 1,000 Years Ago - Era 3: The Golden Stitch
-- [[Scrivener Guild]] decodes Symbiotic Resonance laws
+- [[scrivener-guild|Scrivener Guild]] decodes Symbiotic Resonance laws
 - Golden Age of integration - massive continent growth
 - [[Vumbua Academy]] built as first "Teleporting City"
 

@@ -6,7 +6,7 @@ aliases:
 
 **Date:** 2026-02-09  
 **Session Number:** 02  
-**Players Present:** [[Lomi]] (Luke), [[Ignatius]] (John), [[Britt]] (Sophie), [[Aggie]] (Christina)  
+**Players Present:** [[lomi|Lomi]] (Luke), [[ignatius|Ignatius]] (John), [[britt|Britt]] (Sophie), [[aggie|Aggie]] (Christina)  
 **Type:** Main Session
 
 ---
@@ -29,33 +29,33 @@ The party gathers at the Block 99 Bonfire. Amidst the celebration, they encounte
 
 As the party settles in, they overhear a heated argument. A well-dressed man, Percy Vane-Smythe III, is loudly proclaiming his theories to a skeptical crowd, including a Warforged named Sarge and a plant-like person named Bramble.
 
-**[[Percy Vane-Smythe III]]:** "Listen, listen. I'll wager 50 sovereigns that there's an Earth clan underground theory. The theories say that there must be one. We've got two—Ash Blood and [[Mizizi]]. There's got to be more. The symmetry! We have plants, fire... there's going to be water, earth, air..."
+**[[Percy Vane-Smythe III]]:** "Listen, listen. I'll wager 50 sovereigns that there's an Earth clan underground theory. The theories say that there must be one. We've got two—Ash Blood and [[mizizi|Mizizi]]. There's got to be more. The symmetry! We have plants, fire... there's going to be water, earth, air..."
 
 **[[Bramble]]:** "What if they are not the missing? What if *we* are the ones who forgot?"
 
 **[[Zephyr]]:** "Or maybe the world is just broken. Not everything needs to be a pattern."
 
-**[[Lomi]]:** *[To Iggy]* "I think as soon as I hear the topic of this, he loses all interest. Like immediately he's just like, 'All right, whatever.'"
+**[[lomi|Lomi]]:** *[To Iggy]* "I think as soon as I hear the topic of this, he loses all interest. Like immediately he's just like, 'All right, whatever.'"
 
-**[[Ignatius]]:** "They're talking about like a sub-race of Earthkin that live subterraneously, right? Like a hollow earth theory sort of deal."
+**[[ignatius|Ignatius]]:** "They're talking about like a sub-race of Earthkin that live subterraneously, right? Like a hollow earth theory sort of deal."
 
 Iggy debates whether to reveal anything about his people but decides to play it cool. Lomi steps in, leveraging his boiler room cover.
 
-**[[Lomi]]:** "I don't mean to butt in... being as I am doing some work in the boiler room, I think we've got some theories. You know, we hear some things... noises that happen when we're down there. I like to believe there is a people out there living down there watching us. A very friendly people."
+**[[lomi|Lomi]]:** "I don't mean to butt in... being as I am doing some work in the boiler room, I think we've got some theories. You know, we hear some things... noises that happen when we're down there. I like to believe there is a people out there living down there watching us. A very friendly people."
 
 **[[Percy Vane-Smythe III]]:** "Count on the working man to know the truth! Percy Vane-Smythe III." *[Extends hand]*
 
-**[[Lomi]]:** "Lomi Sultano. Boiler Maker family for ages."
+**[[lomi|Lomi]]:** "Lomi Sultano. Boiler Maker family for ages."
 
 **[[Zephyr]]:** *[Sprints over]* "Either way, what a crap place to live. That would suck. Buried underground, not under the sky... What do you even do for fun?"
 
-**[[Lomi]]:** "What do I do for fun? Hey, I heard there's some engine oil going around here somewhere."
+**[[lomi|Lomi]]:** "What do I do for fun? Hey, I heard there's some engine oil going around here somewhere."
 
 **[[Zephyr]]:** "Oh, things to drink. I love drinking things. Let's do it."
 
 **Player Discoveries:**
 - [[Percy Vane-Smythe III]] believes there are missing elemental clans (Air, Earth, Water) based on symmetry.
-- [[Lomi]] successfully bluffs/hints about "friendly people underground" without exposing Iggy's true nature.
+- [[lomi|Lomi]] successfully bluffs/hints about "friendly people underground" without exposing Iggy's true nature.
 - [[Zephyr]] is impulsive, loves storms/sky, and hates the idea of being underground.
 
 **GM Notes:**
@@ -80,7 +80,7 @@ Percy leads Lomi toward a shady figure named Lucky.
 
 They negotiate a price (one sovereign/case) for six tall jars of moonshine. As Lomi takes the goods, he checks with Sarge, the Warforged watching from the shadows.
 
-**[[Lomi]]:** *[Gestures to the jars]* "Is this stuff any good?"
+**[[lomi|Lomi]]:** *[Gestures to the jars]* "Is this stuff any good?"
 
 **[[Sarge]]:** *[Nods resignedly, kicking two empty bottles at his feet]*
 
@@ -103,21 +103,21 @@ Back at the fire, Serra tries to smooth over her earlier awkwardness. The conver
 
 **[[Seraphina "Serra" Vox]]:** "I'm really nervous about tomorrow... I don't know anything sometimes. Every other place that's ever been discovered has a purpose... It's very strange that we don't exactly know what the forest is for other than apparently surviving and living... No, not just living, also dying. It's all about balance."
 
-**[[Britt]]:** "Death is the way of things. Without death, there can be nothing new."
+**[[britt|Britt]]:** "Death is the way of things. Without death, there can be nothing new."
 
-**[[Aggie]]:** "Wow... It's the one inevitable truth. I don't want to die. Do you?"
+**[[aggie|Aggie]]:** "Wow... It's the one inevitable truth. I don't want to die. Do you?"
 
-**[[Britt]]:** "Everything dies. Maybe that's a fact. But maybe everything that dies someday comes back."
+**[[britt|Britt]]:** "Everything dies. Maybe that's a fact. But maybe everything that dies someday comes back."
 
 The topic shifts to the Ash Bloods and their integration. Iggy pulls out a hot stone from his pocket.
 
-**[[Ignatius]]:** "The rocks here, they really only provide heat energy. Not quite the same as the crystals from the Seed of Harmony. We know that with Harmony's discovery of our islands like the heat picked back up."
+**[[ignatius|Ignatius]]:** "The rocks here, they really only provide heat energy. Not quite the same as the crystals from the Seed of Harmony. We know that with Harmony's discovery of our islands like the heat picked back up."
 
-**[[Britt]]:** "What did your clan gain from working with Harmony?"
+**[[britt|Britt]]:** "What did your clan gain from working with Harmony?"
 
-**[[Ignatius]]:** "Trade. And... Lady Ignis. She went with Allara Thorne back to the Seed of Harmony. Now her line holds the highest voting power in all of Harmony."
+**[[ignatius|Ignatius]]:** "Trade. And... Lady Ignis. She went with Allara Thorne back to the Seed of Harmony. Now her line holds the highest voting power in all of Harmony."
 
-**[[Aggie]]:** "It's become our historical pattern that a new civilization should be given the most power... giving the least of us the power of the most of us."
+**[[aggie|Aggie]]:** "It's become our historical pattern that a new civilization should be given the most power... giving the least of us the power of the most of us."
 
 **Player Discoveries:**
 - **Mizizi Philosophy:** Death is viewed pragmatically/spiritually as essential for new life ("reincarnation" is hinted at).
@@ -156,13 +156,13 @@ Suddenly, [[Rill]] (from the Mizizi exchange) appears and grabs Zephyr.
 
 **[[Rill]]:** "I got us hot chocolate. Come on back. *[To the group]* Come find me tomorrow after class!"
 
-**[[Ignatius]]:** "Wait, what's Lightning Girl's name?"
+**[[ignatius|Ignatius]]:** "Wait, what's Lightning Girl's name?"
 
 **[[Rill]]:** "Note to self: take *Zephyr*—not Lightning Girl, you Lava Boy—back to the building."
 
 **Player Discoveries:**
 - [[Zephyr]] has uncontrollable/wild lightning abilities triggered by the moonshine.
-- [[Rill]] is Zephyr's handler/friend and knows [[Aggie]]/[[Britt]] from her exchange year.
+- [[Rill]] is Zephyr's handler/friend and knows [[aggie|Aggie]]/[[britt|Britt]] from her exchange year.
 - "Lava Boy" and "Lightning Girl" nicknames established.
 
 **GM Notes:**
@@ -181,19 +181,19 @@ Suddenly, [[Rill]] (from the Mizizi exchange) appears and grabs Zephyr.
 
 Lomi introduces himself properly to Britt and Aggie, explaining his boiler room background.
 
-**[[Lomi]]:** "We use the Lidian from the Ash Blood isle. Best stuff."
+**[[lomi|Lomi]]:** "We use the Lidian from the Ash Blood isle. Best stuff."
 
-**[[Ignatius]]:** "Obsidian. I have now named it Lidian. Just take lava and obsidian and smash those two babies together."
+**[[ignatius|Ignatius]]:** "Obsidian. I have now named it Lidian. Just take lava and obsidian and smash those two babies together."
 
 Iggy reveals his character motivation:
 
-**[[Ignatius]]:** "I want to find the heart of the volcano. The next Lidian deposit. I want to find out *why* it's reheating."
+**[[ignatius|Ignatius]]:** "I want to find the heart of the volcano. The next Lidian deposit. I want to find out *why* it's reheating."
 
 The group decides to keep the night going.
 
-**[[Lomi]]:** "I heard some people talking about the Celestial Lounge. I'd be interested in checking it out."
+**[[lomi|Lomi]]:** "I heard some people talking about the Celestial Lounge. I'd be interested in checking it out."
 
-**[[Britt]]:** "I think we got one more party in us."
+**[[britt|Britt]]:** "I think we got one more party in us."
 
 **GM:** The group heads out, passing the Golden Welcome and headed towards the tall building with the sign: **The Celestial Lounge**.
 
@@ -202,9 +202,9 @@ The group decides to keep the night going.
 ## Session Outcomes
 
 ### Character Development
-- **[[Lomi]]:** Established as a smooth talker ("Boiler Maker family"), comfortable with the working class (Sarge/Lucky), and quick to improvise.
-- **[[Ignatius]]:** Revealed his core drive: finding a new heat source for his people. Showed pride in his heritage (and annoyance at those who disrespect it, like Ember).
-- **[[Britt]] & [[Aggie]]:** Showcased the deep philosophical divide between Forest and City (Life/Death vs. Avoidance).
+- **[[lomi|Lomi]]:** Established as a smooth talker ("Boiler Maker family"), comfortable with the working class (Sarge/Lucky), and quick to improvise.
+- **[[ignatius|Ignatius]]:** Revealed his core drive: finding a new heat source for his people. Showed pride in his heritage (and annoyance at those who disrespect it, like Ember).
+- **[[britt|Britt]] & [[aggie|Aggie]]:** Showcased the deep philosophical divide between Forest and City (Life/Death vs. Avoidance).
 - **[[Zephyr]]:** Introduced as a chaotic force of nature.
 
 ### World State Changes
@@ -217,8 +217,8 @@ The group decides to keep the night going.
 - [x] Create/Update [[Zephyr]] (Lightning Girl)
 - [x] Create/Update [[Lucky]]
 - [x] Create/Update [[Lidian]] (Iggy's term for fuel rocks)
-- [x] Update [[Ash Bloods]] with "Great Cooling" history
-- [x] Update [[Mizizi]] with death philosophy
+- [x] Update [[ash-blood-isles|Ash-Blood Isles]] with "Great Cooling" history
+- [x] Update [[mizizi|Mizizi]] with death philosophy
 
 ### Cliffhangers
 - The party is heading to the **Celestial Lounge**.

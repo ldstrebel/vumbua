@@ -29,14 +29,14 @@ For centuries, Harmony had excess power. Now, for the first time, they are appro
 
 ## Phenomena
 
-- [[The Bleed]] - Where reality dissolves at the map's edge
+- [[the-bleed|The Bleed]] - Where reality dissolves at the map's edge
 - [[The Minimum]] - The energy crisis threatening all of Harmony
 - [[The Power System]] - [[The Power System|Global Amplitude]], Resonators, and Crystal Batteries
 - [[Pre-Stitch Artifacts]] - Ancient tech that works without magic
 
 ## Territory
 
-- [[Harmony Nodes]] - The 16+ nodes that form Harmony's territory and power grid
+- [[vumbua-academy|Vumbua Academy]] - The 16+ nodes that form Harmony's territory and power grid
 
 ## Integration Mechanics
 
