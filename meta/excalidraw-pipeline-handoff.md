@@ -78,8 +78,8 @@ Excalidraw/
 
 .excalidraw-manifest.json    <-- Tracks SHA-256 hashes of processed PNGs
 
-lore/characters/npcs/        <-- Part 2 may update wikilinks here
-lore/factions/               <-- Part 2 may update wikilinks here
+characters/npcs/        <-- Part 2 may update wikilinks here
+factions/               <-- Part 2 may update wikilinks here
 CHANGELOG.md                 <-- Part 2 appends summary
 ```
 
@@ -186,7 +186,7 @@ model: "gemini-2.0-flash"
       - **New entities**: Flag for stub page creation
       - **Ambiguous**: Flag for human review
 3. For new entities:
-   - Create a stub page in the appropriate directory (NPC → `lore/characters/npcs/`, location → `lore/locations/`, etc.)
+   - Create a stub page in the appropriate directory (NPC → `characters/npcs/`, location → `locations/`, etc.)
    - Add to REGISTRY in `scripts/convert_to_obsidian.py`
    - Add to `lore-index.md`
 4. Re-run `scripts/convert_to_obsidian.py` to propagate new wikilinks across all files

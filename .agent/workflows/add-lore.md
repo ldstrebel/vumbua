@@ -15,11 +15,11 @@ Use this workflow to add new lore pages or update existing ones with new informa
 
 | Category | Location | Examples |
 |----------|----------|----------|
-| **World Events** | `lore/world/` | The Great Stitching, Integration Mechanics |
-| **Locations** | `lore/locations/` | Vumbua Academy, The Frontier |
-| **Clans** | `lore/factions/clans/` | Mizizi, Ash-Bloods, Trench-Kin |
-| **Harmony Factions** | `lore/factions/harmony/` | House Gilded, Iron Union |
-| **Bestiary** | `lore/bestiary/` | Ether-Jelly, Void-Beast |
+| **World Events** | `world/` | The Great Stitching, Integration Mechanics |
+| **Locations** | `locations/` | Vumbua Academy, The Frontier |
+| **Clans** | `factions/clans/` | Mizizi, Ash-Bloods, Trench-Kin |
+| **Harmony Factions** | `factions/harmony/` | House Gilded, Iron Union |
+| **Bestiary** | `bestiary/` | Ether-Jelly, Void-Beast |
 
 ## Steps for New Lore Page
 
@@ -66,11 +66,11 @@ Use this workflow to add new lore pages or update existing ones with new informa
    ```
 
 3. **Update navigation**
-   - Add to `lore/index.md`
-   - Add to `lore/glossary.md` if it defines new terms
+   - Add to `index.md`
+   - Add to `glossary.md` if it defines new terms
 
 4. **Update knowledge tracker**
-   - Add entries to `lore/knowledge-tracker.md`
+   - Add entries to `knowledge-tracker.md`
    - Mark what players know (✅) vs don't know (❌)
 
 5. **Update lore-index**
@@ -99,7 +99,7 @@ Use this workflow to add new lore pages or update existing ones with new informa
 
 5. **Commit changes**
    ```bash
-   git add lore/
+   git add characters/ sessions/ factions/ world/ locations/ bestiary/ glossary.md timeline.md knowledge-tracker.md CHANGELOG.md
    git commit -m "Update [topic] lore from Session N"
    git push
    ```
@@ -109,8 +109,8 @@ Use this workflow to add new lore pages or update existing ones with new informa
    - Bullet: lore added/updated, file path
 
 ## File Locations
-- Lore Hub: `lore/index.md`
-- Knowledge Tracker: `lore/knowledge-tracker.md`
-- Glossary: `lore/glossary.md`
-- Timeline: `lore/timeline.md`
+- Lore Hub: `index.md`
+- Knowledge Tracker: `knowledge-tracker.md`
+- Glossary: `glossary.md`
+- Timeline: `timeline.md`
 - Lore Index (AI reference): `.agent/workflows/lore-index.md`

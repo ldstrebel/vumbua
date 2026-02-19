@@ -18,7 +18,7 @@ Use this workflow to deploy the Vumbua wiki to Netlify.
    - Netlify will auto-detect `netlify.toml` config
 
 3. **Deploy settings** (auto-configured by netlify.toml)
-   - Publish directory: `docs/`
+   - Publish directory: `meta/docs/`
    - No build command needed (static files)
 
 4. **Click Deploy**
@@ -34,9 +34,11 @@ After initial setup, Netlify auto-deploys on every push:
 
 // turbo-all
 ```bash
-git add .
+git add index.md characters/ sessions/ factions/ world/ locations/ bestiary/ glossary.md timeline.md knowledge-tracker.md CHANGELOG.md meta/docs/ netlify.toml
+
 git commit -m "Update campaign wiki"
-git push origin main
+
+git push
 ```
 
 Netlify will automatically rebuild within 1-2 minutes.

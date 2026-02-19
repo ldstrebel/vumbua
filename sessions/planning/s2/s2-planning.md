@@ -520,7 +520,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 
 1.  **Factions/Harmony**:
     - *Definition*: Harmony is the "Ruling Coalition" or "The Sixth Clan" (Direction). Includes the Great Families (Vox, Vane, Sterling).
-    - *Action*: Create `docs/lore/factions/harmony.md` to define these families.
+    - *Action*: Create/update `factions/harmony/overview.md` to define these families.
 
 2.  **Timekeeping**:
     - *Decision*: Hard clock times for Academy (regimented, industrial).

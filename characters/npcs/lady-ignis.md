@@ -1,58 +1,37 @@
+---
+aliases:
+- Ignis
+- Lady Ignis
+tags:
+- npc
+- ash-blood
+- harmony-council
+---
+
 # Lady Ignis
-
-> *"I'm going to make sure that we are respected."*
-
-## Overview
 
 | | |
 |---|---|
-| **Title** | Ash Blood Matriarch → Harmony High Councilor |
-| **Clan** | [[Ash-Bloods]] |
-| **Status** | One of the most important figures in Harmony |
+| **Role** | [[Ash-Bloods\|Ash-Blood]] Matriarch / Harmony's Highest Voting Power |
+| **Affiliation** | [[Ash-Bloods]], Harmony Council |
+| **Location** | [[Harmony Prime]] (High Council) |
+| **Status** | Active |
+| **First Mentioned** | [[session-02\|Session 2]] |
 
-## Rise to Power
+## Overview
+The leader of the Ash-Blood clan who integrated with Harmony. Under the **Inverse Power Doctrine**, she currently holds the **highest voting power** in all of Harmony---essentially the "President"---because the [[Ash-Bloods]] are the newest formally integrated member.
 
-Before Contact, Lady Ignis was the respected matriarch of the [[Ash-Bloods|Ash Blood]] clan. After the **Integration Ceremony**, she became overnight one of the most powerful people in Harmony.
+## The Inverse Power Doctrine
+Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."* This ensures that the people who live in newly integrated lands make decisions about their own resources. It's kept the peace for a thousand years.
 
-### The Integration Ceremony
+Lady Ignis holds this position because the [[Ash-Bloods]] were the most recent full integration (~24 months ago).
 
-The pivotal moment that changed everything:
-1. An obsidian cooking stone (traditional) and a Harmony battery (technological) cooked meat side by side
-2. When they took the first bite together, **the volcano came alive**
-3. The [[Ash-Bloods|Ash Bloods]] were formally integrated as full Harmony citizens
-4. Lady Ignis gained immediate status and resources
+## Personality
+- **Pragmatic, Regnal:** Takes the long view. She knows the [[Ash-Bloods]] were "cooling" and dying out; Harmony offered survival.
+- **Conflict:** Viewed with suspicion by traditionalists (like [[Ignatius]]?) but commands immense respect.
+- The [[Ash-Bloods]] were going through a "Great Cooling" (volcanoes dying) before Harmony found them. Integration revived the heat.
 
-### What She Received
-- Attendants and staff
-- A personal airship
-- A sea vessel
-- An iron walker
-- "Anything she wanted came"
+## Source References
 
-## Her Promise
-
-Before leaving with Captain Aara Thorne, she addressed her clan:
-
-> *"I'm going to make sure that we are respected."*
-
-Whatever else she said, not everyone caught it—but this was her public vow.
-
-## Current Status
-
-Lady Ignis departed on her new airship, escorted by Captain Thorne, to destinations unknown in the east. The [[Ash-Bloods|Ash Bloods]] now have quasi-celebrity status throughout Harmony.
-
----
-
-## GM Notes [HIDDEN FROM PLAYERS]
-
-> [!warning]-
-> The following information is not known to the player characters.
-
-### The Integration's True Cost
-- The ceremony connected Ash Blood volcanic power to Harmony's energy grid
-- Lady Ignis's power comes with political obligations
-- She may have traded more than the clan realizes
-
-### Secret Knowledge
-- Her full speech to the elders contained information Ignatius didn't hear
-- She's walking a political tightrope between clan interests and Harmony demands
+- **[[session-02|Session 2]]** — [[Serra Vox]] explained the [[Inverse Power Doctrine]] and Lady Ignis's role to [[Ignatius]] *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — [[Ignatius]] witnessed Lady Ignis rise to prominence during the Integration ceremony *(background lore)*

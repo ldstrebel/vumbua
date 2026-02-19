@@ -17,12 +17,12 @@ import subprocess
 import sys
 from datetime import datetime, timezone
 
-REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-EXCALIDRAW_DIR = os.path.join(REPO_ROOT, "Excalidraw")
+REPO_ROOT = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+EXCALIDRAW_DIR = os.path.join(REPO_ROOT, "meta", "Excalidraw")
 MANIFEST_PATH = os.path.join(REPO_ROOT, ".excalidraw-manifest.json")
 SUMMARY_PATH = os.path.join(REPO_ROOT, ".excalidraw-lore-summary.md")
 CHANGELOG_PATH = os.path.join(REPO_ROOT, "CHANGELOG.md")
-CONVERT_SCRIPT = os.path.join(REPO_ROOT, "scripts", "convert_to_obsidian.py")
+CONVERT_SCRIPT = os.path.join(REPO_ROOT, "meta", "scripts", "convert_to_obsidian.py")
 LORE_INDEX_PATH = os.path.join(REPO_ROOT, ".agent", "workflows", "lore-index.md")
 
 DRY_RUN = os.environ.get("DRY_RUN", "false").lower() == "true"
@@ -60,11 +60,11 @@ CATEGORY_HINTS = {
 }
 
 CATEGORY_TO_DIR = {
-    "npc": "lore/characters/npcs",
-    "location": "lore/locations",
-    "faction": "lore/factions",
-    "creature": "lore/bestiary",
-    "lore": "lore/world",
+    "npc": "characters/npcs",
+    "location": "locations",
+    "faction": "factions",
+    "creature": "bestiary",
+    "lore": "world",
 }
 
 
@@ -78,7 +78,7 @@ def load_manifest():
 def load_registry():
     """Import the REGISTRY dict from convert_to_obsidian.py."""
     registry = {}
-    sys.path.insert(0, os.path.join(REPO_ROOT, "scripts"))
+    sys.path.insert(0, os.path.join(REPO_ROOT, "meta", "scripts"))
     try:
         import convert_to_obsidian
         registry = convert_to_obsidian.REGISTRY
@@ -153,7 +153,7 @@ def slugify(name):
 
 def create_stub_page(name, category, source, context):
     """Create a stub markdown page for a new entity."""
-    directory = os.path.join(REPO_ROOT, CATEGORY_TO_DIR.get(category, "lore/world"))
+    directory = os.path.join(REPO_ROOT, CATEGORY_TO_DIR.get(category, "world"))
     os.makedirs(directory, exist_ok=True)
 
     slug = slugify(name)

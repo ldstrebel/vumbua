@@ -13,7 +13,7 @@ import os
 import re
 import sys
 
-DOCS_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+DOCS_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
 REGISTRY = {
     "Britt": {
@@ -42,347 +42,347 @@ REGISTRY = {
         "tags": ["pc", "trench-kin", "gold-rank"],
     },
     "Dean Isolde Vane": {
-        "file": "lore/characters/npcs/dean-isolde-vane.md",
+        "file": "characters/npcs/dean-isolde-vane.md",
         "aliases": ["Dean Vane", "Isolde", "The Dean", "Dean Isolde"],
         "tags": ["npc", "faculty", "vane-lineage"],
     },
     "Celia Vance": {
-        "file": "lore/characters/npcs/celia-vance.md",
+        "file": "characters/npcs/celia-vance.md",
         "aliases": [],
         "tags": ["npc", "faculty"],
     },
     "Hesperus": {
-        "file": "lore/characters/npcs/hesperus.md",
+        "file": "characters/npcs/hesperus.md",
         "aliases": ["Senior Exploranaut Hesperus"],
         "tags": ["npc", "faculty"],
     },
     "Ratchet": {
-        "file": "lore/characters/npcs/ratchet.md",
+        "file": "characters/npcs/ratchet.md",
         "aliases": [],
         "tags": ["npc", "faculty"],
     },
     "Kojo": {
-        "file": "lore/characters/npcs/kojo.md",
+        "file": "characters/npcs/kojo.md",
         "aliases": [],
         "tags": ["npc", "faculty"],
     },
     "Pyrrhus": {
-        "file": "lore/characters/npcs/pyrrhus.md",
+        "file": "characters/npcs/pyrrhus.md",
         "aliases": [],
         "tags": ["npc", "faculty", "ash-blood"],
     },
     "Professor Kante": {
-        "file": "lore/characters/npcs/professor-kante.md",
+        "file": "characters/npcs/professor-kante.md",
         "aliases": ["Kante"],
         "tags": ["npc", "faculty", "house-gilded"],
     },
     "Valerius Sterling": {
-        "file": "lore/characters/npcs/valerius-sterling.md",
+        "file": "characters/npcs/valerius-sterling.md",
         "aliases": ["Val", "Val Sterling"],
         "tags": ["npc", "squad-01", "gold-rank"],
     },
     "Serra Vox": {
-        "file": "lore/characters/npcs/serra-vox.md",
+        "file": "characters/npcs/serra-vox.md",
         "aliases": ["Serra", "Seraphina Vox"],
         "tags": ["npc", "squad-01", "gold-rank", "house-vox"],
     },
     "Cassius Thorne": {
-        "file": "lore/characters/npcs/cassius-thorne.md",
+        "file": "characters/npcs/cassius-thorne.md",
         "aliases": ["Cassius"],
         "tags": ["npc", "squad-01"],
     },
     "Iron-Jaw Jax": {
-        "file": "lore/characters/npcs/iron-jaw-jax.md",
+        "file": "characters/npcs/iron-jaw-jax.md",
         "aliases": ["Jax"],
         "tags": ["npc", "squad-02"],
     },
     "Maria Wall": {
-        "file": "lore/characters/npcs/maria-wall.md",
+        "file": "characters/npcs/maria-wall.md",
         "aliases": [],
         "tags": ["npc", "squad-02"],
     },
     "Brawn": {
-        "file": "lore/characters/npcs/brawn.md",
+        "file": "characters/npcs/brawn.md",
         "aliases": [],
         "tags": ["npc", "squad-02"],
     },
     "Nyx": {
-        "file": "lore/characters/npcs/nyx.md",
+        "file": "characters/npcs/nyx.md",
         "aliases": [],
         "tags": ["npc", "squad-03"],
     },
     "Kaelen": {
-        "file": "lore/characters/npcs/kaelen.md",
+        "file": "characters/npcs/kaelen.md",
         "aliases": [],
         "tags": ["npc", "squad-03"],
     },
     "Mira": {
-        "file": "lore/characters/npcs/mira.md",
+        "file": "characters/npcs/mira.md",
         "aliases": [],
         "tags": ["npc", "squad-03"],
     },
     "Calculus Prime": {
-        "file": "lore/characters/npcs/calculus-prime.md",
+        "file": "characters/npcs/calculus-prime.md",
         "aliases": [],
         "tags": ["npc", "squad-04"],
     },
     "Theorem": {
-        "file": "lore/characters/npcs/theorem.md",
+        "file": "characters/npcs/theorem.md",
         "aliases": [],
         "tags": ["npc", "squad-04"],
     },
     "Lemma": {
-        "file": "lore/characters/npcs/lemma.md",
+        "file": "characters/npcs/lemma.md",
         "aliases": [],
         "tags": ["npc", "squad-04"],
     },
     "Dr. Rose Halloway": {
-        "file": "lore/characters/npcs/dr-rose-halloway.md",
+        "file": "characters/npcs/dr-rose-halloway.md",
         "aliases": ["Rose Halloway"],
         "tags": ["npc", "squad-05"],
     },
     "Silas Thorne": {
-        "file": "lore/characters/npcs/silas-thorne.md",
+        "file": "characters/npcs/silas-thorne.md",
         "aliases": ["Old Man Thorne", "Silas"],
         "tags": ["npc", "squad-05"],
     },
     "Bramble": {
-        "file": "lore/characters/npcs/bramble.md",
+        "file": "characters/npcs/bramble.md",
         "aliases": [],
         "tags": ["npc", "squad-05"],
     },
     "Cinder-4": {
-        "file": "lore/characters/npcs/cinder-4.md",
+        "file": "characters/npcs/cinder-4.md",
         "aliases": ["Cinder"],
         "tags": ["npc", "squad-06", "ash-blood"],
     },
     "Hearth": {
-        "file": "lore/characters/npcs/hearth.md",
+        "file": "characters/npcs/hearth.md",
         "aliases": [],
         "tags": ["npc", "squad-06"],
     },
     "Kindle": {
-        "file": "lore/characters/npcs/kindle.md",
+        "file": "characters/npcs/kindle.md",
         "aliases": [],
         "tags": ["npc", "squad-06"],
     },
     "Captain Barnacle": {
-        "file": "lore/characters/npcs/captain-barnacle.md",
+        "file": "characters/npcs/captain-barnacle.md",
         "aliases": ["Barnacle"],
         "tags": ["npc", "squad-07"],
     },
     "Pressure": {
-        "file": "lore/characters/npcs/pressure.md",
+        "file": "characters/npcs/pressure.md",
         "aliases": [],
         "tags": ["npc", "squad-07"],
     },
     "Depth": {
-        "file": "lore/characters/npcs/depth.md",
+        "file": "characters/npcs/depth.md",
         "aliases": [],
         "tags": ["npc", "squad-07"],
     },
     "Percival Vane-Smythe III": {
-        "file": "lore/characters/npcs/percival-vane-smythe-iii.md",
+        "file": "characters/npcs/percival-vane-smythe-iii.md",
         "aliases": ["Percy", "Percival", "Percy Vane-Smythe III"],
         "tags": ["npc", "squad-08"],
     },
     "Lady Glimmer": {
-        "file": "lore/characters/npcs/lady-glimmer.md",
+        "file": "characters/npcs/lady-glimmer.md",
         "aliases": ["Glimmer"],
         "tags": ["npc", "squad-08"],
     },
     "Baron Bolt": {
-        "file": "lore/characters/npcs/baron-bolt.md",
+        "file": "characters/npcs/baron-bolt.md",
         "aliases": ["Bolt"],
         "tags": ["npc", "squad-08"],
     },
     "Sarge": {
-        "file": "lore/characters/npcs/sarge.md",
+        "file": "characters/npcs/sarge.md",
         "aliases": [],
         "tags": ["npc", "squad-09", "rust-rank"],
     },
     "Lucky": {
-        "file": "lore/characters/npcs/lucky.md",
+        "file": "characters/npcs/lucky.md",
         "aliases": [],
         "tags": ["npc", "squad-09"],
     },
     "Pudge": {
-        "file": "lore/characters/npcs/pudge.md",
+        "file": "characters/npcs/pudge.md",
         "aliases": [],
         "tags": ["npc", "squad-09"],
     },
     "Lady Ignis": {
-        "file": "lore/characters/npcs/lady-ignis.md",
+        "file": "characters/npcs/lady-ignis.md",
         "aliases": ["Ignis"],
         "tags": ["npc", "ash-blood", "harmony-council"],
     },
     "Rill": {
-        "file": "lore/characters/npcs/rill.md",
+        "file": "characters/npcs/rill.md",
         "aliases": ["Real", "The River-Born"],
         "tags": ["npc", "wadi", "faculty"],
     },
     "Zephyr": {
-        "file": "lore/characters/npcs/zephyr.md",
+        "file": "characters/npcs/zephyr.md",
         "aliases": ["Lightning Girl"],
         "tags": ["npc", "renali", "fulgur-born"],
     },
     "Lance": {
-        "file": "lore/characters/npcs/lance.md",
+        "file": "characters/npcs/lance.md",
         "aliases": [],
         "tags": ["npc"],
     },
     "Valerius Sterling Sr.": {
-        "file": "lore/characters/npcs/valerius-sterling-sr.md",
+        "file": "characters/npcs/valerius-sterling-sr.md",
         "aliases": ["Sterling Sr.", "The Paper Man"],
         "tags": ["npc", "explorer"],
     },
     "Lady Glissade": {
-        "file": "lore/characters/npcs/lady-glissade.md",
+        "file": "characters/npcs/lady-glissade.md",
         "aliases": ["Glissade"],
         "tags": ["npc"],
     },
     "Ember": {
-        "file": "lore/characters/npcs/ember.md",
+        "file": "characters/npcs/ember.md",
         "aliases": [],
         "tags": ["npc", "ash-blood"],
     },
     "Tommy": {
-        "file": "lore/characters/npcs/tommy.md",
+        "file": "characters/npcs/tommy.md",
         "aliases": [],
         "tags": ["npc"],
     },
     "Lucina": {
-        "file": "lore/characters/npcs/lucina.md",
+        "file": "characters/npcs/lucina.md",
         "aliases": [],
         "tags": ["npc"],
     },
     "Marla": {
-        "file": "lore/characters/npcs/marla.md",
+        "file": "characters/npcs/marla.md",
         "aliases": [],
         "tags": ["npc"],
     },
     "Soot": {
-        "file": "lore/characters/npcs/soot.md",
+        "file": "characters/npcs/soot.md",
         "aliases": [],
         "tags": ["npc", "rust-rank"],
     },
     "Mizizi": {
-        "file": "lore/factions/clans/mizizi.md",
+        "file": "factions/clans/mizizi.md",
         "aliases": ["Root-Kin", "Deep-Root Clan", "Mycelium Clan"],
         "tags": ["faction", "clan"],
     },
     "Ash-Bloods": {
-        "file": "lore/factions/clans/ash-bloods.md",
+        "file": "factions/clans/ash-bloods.md",
         "aliases": ["Ember-Kin", "Pyre-Keepers", "Ash Bloods", "Ash Blood"],
         "tags": ["faction", "clan"],
     },
     "Trench-Kin": {
-        "file": "lore/factions/clans/trench-kin.md",
+        "file": "factions/clans/trench-kin.md",
         "aliases": ["Earthkin"],
         "tags": ["faction", "clan"],
     },
     "Renali": {
-        "file": "lore/factions/clans/renali.md",
+        "file": "factions/clans/renali.md",
         "aliases": ["Air Clan", "Cloud-Kin"],
         "tags": ["faction", "clan"],
     },
     "Wadi": {
-        "file": "lore/factions/clans/wadi.md",
+        "file": "factions/clans/wadi.md",
         "aliases": ["River Clan", "Dry Vein"],
         "tags": ["faction", "clan"],
     },
     "Fulgur-Born": {
-        "file": "lore/factions/clans/fulgur-born.md",
+        "file": "factions/clans/fulgur-born.md",
         "aliases": ["Storm-Chasers"],
         "tags": ["faction", "clan"],
     },
     "House Gilded": {
-        "file": "lore/factions/harmony/house-gilded.md",
+        "file": "factions/harmony/house-gilded.md",
         "aliases": ["The Highborne", "The Vault"],
         "tags": ["faction", "harmony-house"],
     },
     "Vane Lineage": {
-        "file": "lore/factions/harmony/vane-lineage.md",
+        "file": "factions/harmony/vane-lineage.md",
         "aliases": ["House Vane", "The Shield", "The Orderborne"],
         "tags": ["faction", "harmony-house"],
     },
     "Scrivener Guild": {
-        "file": "lore/factions/harmony/scrivener-guild.md",
+        "file": "factions/harmony/scrivener-guild.md",
         "aliases": ["The Loreborne"],
         "tags": ["faction", "harmony-house"],
     },
     "Iron-Union": {
-        "file": "lore/factions/harmony/iron-union.md",
+        "file": "factions/harmony/iron-union.md",
         "aliases": ["The Ridgeborne", "Iron Union", "Diamond Union"],
         "tags": ["faction", "harmony-house"],
     },
     "The Verdant Trust": {
-        "file": "lore/factions/harmony/verdant-trust.md",
+        "file": "factions/harmony/verdant-trust.md",
         "aliases": ["Verdant Trust", "The Agri-Lords"],
         "tags": ["faction", "harmony-house"],
     },
     "High-Justiciars": {
-        "file": "lore/factions/harmony/high-justiciars.md",
+        "file": "factions/harmony/high-justiciars.md",
         "aliases": ["The Scales"],
         "tags": ["faction", "harmony-house"],
     },
     "Grand Architects": {
-        "file": "lore/factions/harmony/grand-architects.md",
+        "file": "factions/harmony/grand-architects.md",
         "aliases": ["House Mason"],
         "tags": ["faction", "harmony-house"],
     },
     "Syndicate of Sails": {
-        "file": "lore/factions/harmony/syndicate-of-sails.md",
+        "file": "factions/harmony/syndicate-of-sails.md",
         "aliases": [],
         "tags": ["faction", "harmony-house"],
     },
     "Vumbua Academy": {
-        "file": "lore/locations/vumbua-academy.md",
+        "file": "locations/vumbua-academy.md",
         "aliases": ["Vumbua", "The Safiri"],
         "tags": ["location"],
     },
     "The Bleed": {
-        "file": "lore/world/the-bleed.md",
+        "file": "world/the-bleed.md",
         "aliases": ["Dissolution"],
         "tags": ["world-lore"],
     },
     "The Minimum": {
-        "file": "lore/world/the-minimum.md",
+        "file": "world/the-minimum.md",
         "aliases": [],
         "tags": ["world-lore", "gm-only"],
     },
     "The Power System": {
-        "file": "lore/world/power-system.md",
+        "file": "world/power-system.md",
         "aliases": ["Power System", "Global Amplitude"],
         "tags": ["world-lore"],
     },
     "Harmony Nodes": {
-        "file": "lore/world/harmony-nodes.md",
+        "file": "world/harmony-nodes.md",
         "aliases": ["Harmony's Integrated Nodes"],
         "tags": ["world-lore"],
     },
     "Pre-Stitch Artifacts": {
-        "file": "lore/world/pre-stitch-artifacts.md",
+        "file": "world/pre-stitch-artifacts.md",
         "aliases": [],
         "tags": ["world-lore"],
     },
     "Ether-Jelly": {
-        "file": "lore/bestiary/ether-jelly.md",
+        "file": "bestiary/ether-jelly.md",
         "aliases": [],
         "tags": ["creature"],
     },
     "Void-Beast": {
-        "file": "lore/bestiary/void-beast.md",
+        "file": "bestiary/void-beast.md",
         "aliases": [],
         "tags": ["creature"],
     },
     "Rot-Shepherd": {
-        "file": "lore/bestiary/rot-shepherd.md",
+        "file": "bestiary/rot-shepherd.md",
         "aliases": [],
         "tags": ["creature"],
     },
     "Whispering Moth": {
-        "file": "lore/bestiary/whispering-moth.md",
+        "file": "bestiary/whispering-moth.md",
         "aliases": [],
         "tags": ["creature"],
     },
@@ -477,10 +477,6 @@ def resolve_to_canonical(raw_path, current_file_rel):
     if fname in FILENAME_TO_CANONICAL:
         return FILENAME_TO_CANONICAL[fname]
 
-    if resolved.startswith("characters/npcs/"):
-        lore_version = "lore/" + resolved
-        if lore_version in FILEPATH_TO_CANONICAL:
-            return FILEPATH_TO_CANONICAL[lore_version]
 
     return None
 
@@ -696,7 +692,7 @@ def process_file(filepath):
 SKIP_DIRS = {
     "notebooklm", ".obsidian", ".git", ".trash", "node_modules",
     "Daggerheart-Core", "Vumbua", "exports", "lore-dump", "Ink",
-    "docs",
+    "docs", "meta",
 }
 
 def collect_all_md_files():
