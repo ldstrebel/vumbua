@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "lore/characters/npcs/calculus-prime.md",
+                "file": "README.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "calculus-prime"
+              "title": "README"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
+            "file": "README.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
+            "file": "README.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
+            "file": "README.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,42 +172,44 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
-    "lore/factions/clans/trench-kin.md",
-    "sessions/transcripts/session-02.md",
-    "lore-dump/Taratannen.pdf",
-    "Excalidraw/Devin OCR test.md",
-    "The Power System.md",
-    "Excalidraw/Devin OCR test.png",
-    "obsidian-migration-handoff.md",
-    "Test note and draw.md",
-    "sessions/planning/s2/s2.5-planning.md",
-    "sessions/planning/s2/s2-planning.md",
-    "sessions/planning/s2/index.md",
-    "sessions/planning/s2/bonfire_scene.md",
-    "sessions/transcripts/session-02.5.md",
-    "sessions/transcripts/session-01.md",
-    "sessions/transcripts/session-00.md",
-    "sessions/transcripts/s2.5-raw.md",
-    "sessions/transcripts/s1-raw.md",
-    "sessions/transcripts/s0-raw.md",
-    "sessions/transcripts/_template.md",
-    "sessions/planning/s2",
-    "sessions/transcripts",
-    "sessions/planning",
-    "sessions",
-    "scripts/convert_to_obsidian.py",
-    "radio-scripts/session-02-recap.md",
-    "radio-scripts",
-    "lore/factions/harmony/verdant-trust.md",
-    "lore/factions/harmony/vane-lineage.md",
-    "lore/factions/harmony/syndicate-of-sails.md",
-    "lore/factions/harmony/scrivener-guild.md",
-    "lore/factions/harmony/overview.md",
-    "lore/factions/harmony/iron-union.md",
-    "lore/factions/harmony/index.md",
-    "lore/factions/harmony/house-gilded.md",
-    "lore/factions/harmony",
-    "lore/factions/clans",
-    "lore/characters/npcs"
+    "index.md",
+    "Vumbua/Lore/Vumbua Academy.md",
+    "world/vumbua-map-sent.png",
+    "world/the-minimum.md",
+    "world/the-bleed.md",
+    "world/pre-stitch-artifacts.md",
+    "world/power-system.md",
+    "world/index.md",
+    "world/harmony-nodes.md",
+    "world",
+    "timeline.md",
+    "sessions/transcripts/raw/s2.5-raw.md",
+    "sessions/transcripts/raw/s2-raw.md",
+    "sessions/transcripts/raw/s1-raw.md",
+    "sessions/transcripts/raw/s0-raw.md",
+    "sessions/transcripts/raw",
+    "sessions/transcripts/clean/session-02.md",
+    "sessions/transcripts/clean/session-02.5.md",
+    "sessions/transcripts/clean/session-01.md",
+    "sessions/transcripts/clean/session-00.md",
+    "sessions/transcripts/clean",
+    "sessions/index.md",
+    "meta/Ink/Writing/2026.2.17 - 9.32am.writing",
+    "meta/Ink/Drawing/2026.2.17 - 9.49am.drawing",
+    "meta/Ink/Drawing/2026.2.17 - 9.31am.drawing",
+    "meta/Ink/Drawing/2026.2.17 - 9.29am.drawing",
+    "meta/docs/notebooklm/gm-master.md",
+    "meta/docs/notebooklm/character-codex.md",
+    "meta/docs/notebooklm/campaign-compendium.md",
+    "meta/docs/notebooklm/campaign-chronicle.md",
+    "meta/scripts/upload_to_drive.py",
+    "meta/scripts/excalidraw_transcribe.py",
+    "meta/scripts/excalidraw_lore_update.py",
+    "meta/radio-scripts/session-02-recap.md",
+    "meta/Excalidraw/Devin OCR test.png",
+    "meta/Excalidraw/Devin OCR test.md",
+    "meta/docs/LORE_GUIDELINES.md",
+    "meta/obsidian-migration-handoff.md",
+    "Excalidraw/Devin OCR test.png"
   ]
 }
