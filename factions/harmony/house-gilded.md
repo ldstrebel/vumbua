@@ -43,6 +43,6 @@ The Crystal Banks are insolvent. They need the "Great Surge" (500 years of power
 
 The irony: they survived the Night of Sparks only because they had already diversified into banking. Now their banks are failing for the opposite reason---not enough power flowing through the system.
 
-### Valerius Sterling Sr.
+### Valentine Sterling Sr.
 
 During the Silent Era, he led suicide missions into the blind mist alongside Captain Elara Thorne. But while Thorne was motivated by the existential threat she saw in the Council data, Sterling Sr. cared only about the massive bounties offered for exploration. His son carries the same opportunism.

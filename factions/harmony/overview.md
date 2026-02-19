@@ -31,7 +31,7 @@ These families hold seats on the **High Council** and effectively run the civili
 * **Domain**: Trade, Logistics, Fleet Command.
 * **Philosophy**: "Movement is Wealth."
 * **Key Members**:
-    *   **[[Valerius Sterling]] Sr.**: Legendary explorer. Discovered the [[Mizizi]] ("[[Valerius Sterling Sr.|The Paper Man]]") one week before Thorne found the [[Ash-Bloods]], but moved on because integration work bored him.
+    *   **[[Valentine Sterling]] Sr.**: Legendary explorer. Discovered the [[Mizizi]] ("[[Valentine Sterling Sr.|The Paper Man]]") one week before Thorne found the [[Ash-Bloods]], but moved on because integration work bored him.
     *   **Captain Elara Thorne**: Famous exploranaut who discovered the Ash-Blood Isles 24 months ago.
     *   **[[Valerius Sterling]] Jr.**: Gold-rank student, Captain of Squad 01 (The Echelon). Carries his father's opportunism.
 

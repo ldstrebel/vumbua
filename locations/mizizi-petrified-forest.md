@@ -23,8 +23,10 @@ tags:
 | **Type** | Clan territory — fossilized mega-flora |
 | **Clan** | [[Mizizi]] |
 | **Integration Status** | Stalled at 15% |
-| **Discovered By** | [[Valerius Sterling Sr.]] ("[[Valerius Sterling Sr.\|The Paper Man]]") |
+| **Discovered By** | [[Valentine Sterling Sr.]] ("[[Valentine Sterling Sr.|The Paper Man]]") |
 | **First Appearance** | [[session-00\|Session 0]] |
+| **Discovered By** | [[valentine-sterling-sr|Valentine Sterling Sr.]] ("[[valentine-sterling-sr|The Paper Man]]") |
+| **First Appearance** | [[session-00|Session 0]] |
 
 The Petrified Forest is the homeland of the [[Mizizi]] clan — a vast expanse of fossilized mega-flora where the clan lives in hollowed-out roots, somewhere between Pandora's trees and hobbit holes.
 
@@ -34,7 +36,7 @@ The Petrified Forest is the homeland of the [[Mizizi]] clan — a vast expanse o
 The forest has sheltered the [[Mizizi]] for hundreds of years, but it has recently **failed** — things have stopped dying properly. New growth appears instantly wherever they try to prune. The elders are terrified this fulfills the prophecy: *"When the world comes, things stop dying."*
 
 ### Harmony's Arrival
-[[Valerius Sterling Sr.]] ("[[Valerius Sterling Sr.|The Paper Man]]") led the first expedition here, arriving in a sterile metal-studded outfit with no moss or holes. He discovered the [[Mizizi]] one week before Captain Elara Thorne found the [[Ash-Blood Isles]]. Sterling quickly moved on — integration work bored him.
+[[valentine-sterling-sr|Valentine Sterling Sr.]] ("[[valentine-sterling-sr|The Paper Man]]") led the first expedition here, arriving in a sterile metal-studded outfit with no moss or holes. He discovered the [[Mizizi]] one week before Captain Elara Thorne found the [[Ash-Blood Isles]]. Sterling quickly moved on — integration work bored him.
 
 Harmony provides industrial solvents and mechanical shredders to destroy the forest. In return, they take soil, bark, roots, and stone. Neither side fully understands what the other wants. The [[Mizizi]] see it as restarting the cycle of death. Logging operations near the forest edge show the forest regrowing immediately.
 
@@ -54,4 +56,4 @@ From the edge of the forest, the [[Ash-Blood Isles|Ash-Blood]] volcanoes are vis
 - [[Britt]] — [[Mizizi]] PC
 - [[Aggie]] — [[Mizizi]] PC
 - [[Rill]] — Researcher who left the forest 2 years ago
-- [[Valerius Sterling Sr.]] — Discovered the forest
+- [[valentine-sterling-sr|Valentine Sterling Sr.]] — Discovered the forest

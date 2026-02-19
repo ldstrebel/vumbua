@@ -14,7 +14,7 @@
 - Lesson learned: "One-way flow leads to Dissolution"
 
 ### 1,500 - 1,000 Years Ago - Era 3: The Golden Stitch
-- [[Scrivener Guild]] decodes Symbiotic Resonance laws
+- [[scrivener-guild|Scrivener Guild]] decodes Symbiotic Resonance laws
 - Golden Age of integration - massive continent growth
 - [[Vumbua Academy]] built as first "Teleporting City"
 
@@ -55,7 +55,7 @@
 - This breakthrough enables exploration beyond Harmony's current bounds
 
 ### 24 Months Ago - **BREAKTHROUGH**
-- **[[Valerius Sterling Sr.]]** discovers the [[Mizizi]] one week before Thorne finds the [[Ash-Bloods]]
+- **[[valentine-sterling-sr|Valentine Sterling Sr.]]** discovers the [[Mizizi]] one week before Thorne finds the [[Ash-Bloods]]
 - Sterling Sr. ("The Paper Man") arrives at the [[Mizizi Petrified Forest|Petrified Forest]] but moves on---integration work bores him
 - **Captain Elara Thorne** discovers the [[Ash-Blood Isles]]
 - Ash-Bloods accept Cooling Suits (Outward Flow)
@@ -120,7 +120,6 @@
 - [[Lucky]] hustles his first deals (sold [[Iggy]] a stolen turban)
 
 ### Intake Week - Night of Day 1 ([[session-02|Session 2]]: The Bonfire)
-- Bonfire at [[Block 99]]; party socializes with new NPCs
 - **[[Cassius Thorne]]** arranges logs obsessively; [[Lomi]] encouraged him with a critical-success roll
 - **[[Serra Vox]]** approaches [[Britt]]/[[Aggie]]; slips about political connections to [[Harmony Prime|The Seat]]
 - **The Speculators' Debate:** [[Percival Vane-Smythe III|Percy]] argues the Sixfold Theory; [[Iron-Jaw Jax|Jax]] dismisses it; [[Bramble]] asks *"What if we are the ones who forgot?"*
@@ -128,7 +127,7 @@
 - Cultural exchange: [[Mizizi]] view death as natural ("Congratulations!"); Harmony fears death
 - Serra reveals the [[Mizizi Petrified Forest|Mizizi forest]] has no clear "purpose"---unusual among nodes
 - [[Lomi]] brings **Engine Grease** (moonshine); [[Zephyr]] drinks it
-- **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed
+- **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed *(Scene 4: The Lightning)*
 - **[[Rill]]** appears, retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class (grass-covered building)
 - [[Ignatius]] reveals [[Ash-Bloods|Ash-Blood]] cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
 - Leidian properties discussed: 80% hotter, halflife oscillation, distance decay

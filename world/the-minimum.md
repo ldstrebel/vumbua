@@ -20,8 +20,8 @@ The lights flicker sometimes. [[Block 99]] (Copper dorms) lost power for 4 hours
 
 ### Source References
 
-- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[Iggy]] *(Scene 4: The Professor)*
-- **[[session-02.5|Session 2.5]]** — [[Iggy]] saw charts showing [[The Power System|Global Amplitude]] decline in the [[Walker-Core]] power room *(Scene 3: The Warehouse)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[iggy|Iggy]] *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[iggy|Iggy]] saw charts showing [[The Power System|Global Amplitude]] decline in the [[Walker-Core]] power room *(Scene 3: The Warehouse)*
 
 ---
 
@@ -63,7 +63,7 @@ The lights in the Copper Dorms ([[Block 99]]) went out for 4 hours last night. O
 
 [[Dean Isolde Vane|Dean Vane]] has confirmed a terrifying mathematical reality: the Ash-Blood and [[Mizizi]] Nodes are "Major" in size but outputting only Minor Node power. Because these Nodes were once part of a unified Empire, they are metaphysically "reaching out" to their missing siblings (Trench, Cloud, etc.). Energy is bleeding into the void.
 
-[[Professor Kante]]'s whiteboard independently confirms this: his projections show the Ash-Blood integration should have produced a Global Amplitude increase of +300 to +800, but only ~20 materialized---barely better than a minor node discovered 80 years ago.
+[[professor-kante|Professor Kante]]'s whiteboard independently confirms this: his projections show the Ash-Blood integration should have produced a Global Amplitude increase of +300 to +800, but only ~20 materialized---barely better than a minor node discovered 80 years ago.
 
 ### The Ticking Clock
 
@@ -75,6 +75,6 @@ The lights in the Copper Dorms ([[Block 99]]) went out for 4 hours last night. O
 ### Related Pages
 
 - [[The Power System]] — Full technical details on Global Amplitude, Resonators, and Crystal Batteries
-- [[Professor Kante]] — Key researcher investigating the Ash-Blood Anomaly
+- [[professor-kante|Professor Kante]] — Key researcher investigating the Ash-Blood Anomaly
 - [[Ash-Bloods]] — Integration produced only ~20 amp increase instead of expected +300 to +800
 - [[Walker-Core]] — Houses the power plant where the crisis is most visible

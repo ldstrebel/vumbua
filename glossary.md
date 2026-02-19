@@ -124,7 +124,7 @@
 - Prevents exploitation of new members' resources by ensuring they make decisions about their own lands
 - [[Lady Ignis]] ([[Ash-Bloods|Ash-Blood]] matriarch) currently holds the highest voting power---essentially "President" of Harmony
 - Has kept the peace for a thousand years
-- Revealed by [[Serra Vox]] in [[session-02|Session 2]] *(Scene 6: Ash-Blood Politics)*
+- Revealed by [[Serra Vox]] in [[session-02|Session 2]] *(Scene 3: Cultural Exchange)*
 
 **Integration**
 - The process of connecting a new Node to Harmony
@@ -149,7 +149,7 @@
 - Has a "halflife" oscillation---heat tapers off then rises again
 - Loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]]
 - Used in the boiler room alongside crystal batteries
-- Named by [[Ignatius]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 6)*
+- Named by [[Ignatius]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 5)*
 
 **The Loom**
 - Massive crystal computer in the [[Walker-Core]]
@@ -343,7 +343,7 @@
 - Arrived 18 months ago among [[Mizizi]]
 - Breaks the Taboo openly without fear
 - Works with [[Dean Isolde Vane|Dean Vane]] on wind-pattern research in [[Sky-Spire]]
-- Caused a **massive purple lightning bolt** from a clear sky at the [[session-02|Session 2]] bonfire *(Scene 7: The Lightning)*
+- Caused a **massive purple lightning bolt** from a clear sky at the [[session-02|Session 2]] bonfire *(Scene 4: The Lightning)*
 - Completely unharmed by her own lightning
 - Managed by [[Rill]] on the Dean's behalf
 - [[Ignatius]] called her "Lightning Girl"; she called him "Lava Boy" via [[Rill]]

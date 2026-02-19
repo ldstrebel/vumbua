@@ -17,13 +17,15 @@ tags:
 
 ## Overview
 
-| | |
-|---|---|
-| **Origin** | [[Vane Lineage]] (House Vane) |
-| **Rank** | Dean of [[Vumbua Academy]] |
-| **Affiliation** | [[Vumbua Academy]], [[Vane Lineage]] |
-| **Location** | [[Sky-Spire]] |
-| **First Appearance** | [[session-01\|Session 1]] |
+
+|                      |                                      |
+| -------------------- | ------------------------------------ |
+| **Origin**           | [[Vane Lineage]] (House Vane)        |
+| **Rank**             | Dean of [[Vumbua Academy]]           |
+| **Affiliation**      | [[Vumbua Academy]], [[Vane Lineage]] |
+| **Location**         | [[Sky-Spire]]                        |
+| **First Appearance** | [[session-01                         |
+
 
 ## GM Description
 
@@ -44,6 +46,7 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 ## Session Appearances
 
 ### Session 1
+
 - Bounced onto stage in the Great Hall to welcome the 100,000-strong intake class
 - Gave an enthusiastic, scattered speech about the end of the 80-year silence and the excitement of new discoveries
 - Praised the [[Ash-Bloods]] for "mastery of heat" and the [[Mizizi]], admitting "we don't really know what they do, and that's amazing!"
@@ -53,6 +56,7 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 - [[Britt]]'s immediate reaction: "I don't trust this f***ing guy." (mistaking her gender or just expressing suspicion)
 
 ### Session 2
+
 - Not present on screen. [[Serra Vox]] identified [[Rill]] as the person who pulled the Dean off stage.
 
 ## Source References
@@ -63,34 +67,36 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 
 ## Relationships
 
-| Character | Relationship |
-|-----------|-------------|
-| **Rill** | Assistant and trusted confidante; pulled her off stage during the welcome speech; familiar, comfortable dynamic |
-| **Zephyr** | Zephyr works with Dean Vane on wind-pattern research in late-night Sky-Spire sessions |
-| **Lord Commander Titus Vane** | Family connection through the Vane Lineage; wants aggressive tactics vs. Dean's empathy |
+
+| Character                     | Relationship                                                                                                    |
+| ----------------------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Rill**                      | Assistant and trusted confidante; pulled her off stage during the welcome speech; familiar, comfortable dynamic |
+| **Zephyr**                    | Zephyr works with Dean Vane on wind-pattern research in late-night Sky-Spire sessions                           |
+| **Lord Commander Titus Vane** | Family connection through the Vane Lineage; wants aggressive tactics vs. Dean's empathy                         |
+
 
 ---
 
 ## GM Narration [NOT YET REVEALED TO PLAYERS]
 
-> [!warning]-
+> [!warning]-  
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### The Desperate Truth
 
-Dean Isolde knows the power is failing. The scattered, bubbly persona masks a leader carrying an existential secret: if this intake class doesn't find a strong Node, the lights at the Academy---and back home---will go out forever. Vumbua cannot travel back if they fail; there isn't enough power to move the Cores.
+Dean Isolde knows the power is failing. The scattered, bubbly persona masks a leader carrying an existential secret: if this intake class doesn't find a strong Node, the lights at the Academy---and back home---will go out forever. Vumbua cannot travel back if they fail; there isn't enough power to move the Cores. But the new clans are her salvation, and she is so excited to welcome them into thr fold
 
 ### The Shattered Circuit
 
-Dean Vane has confirmed a terrifying mathematical reality alongside Historian Nadine: the Ash-Blood and [[Mizizi]] Nodes are Major in size but outputting only Minor Node power because they are reaching out to their missing siblings. She knows about the Shattered Circuit theory---all six clans must be integrated.
+Dean Vane has not yet been informed by Kante of the theories he has
 
 ### The "Great Cull" Strategy
 
-The massive intake class (largest in history) was her decision. The philosophy: expect 95% attrition during the Trials and another 20% loss during Intern Voyages. Stop training "Glory Seekers" and start manufacturing "Survivalists."
+The massive intake class (largest in history) just happened to fall on her long term, she has been the Dean for generations at this point. The philosophy: expect 95% attrition during the Trials and another 20% loss during Intern Voyages. Stop training "Glory Seekers" and start manufacturing "Survivalists."
 
 ### Political Tension
 
-Lord Commander Titus Vane ([[Vane Lineage]]) wants aggressive expansion tactics. Dean Isolde favors empathy and integration through cultural connection. This tension within her own family lineage is an ongoing pressure.
+Lord Commander Titus Vane ([[Vane Lineage]]) wants aggressive expansion tactics - meaining risky not violent. Dean Isolde favors empathy and integration through cultural connection. This tension within her own family lineage is an ongoing pressure.
 
 ### The Loom
 
@@ -98,4 +104,4 @@ The Loom calculates "Savant" flags based on variance---high-variance outliers wh
 
 ### Lore Dump vs. Session Canon
 
-The original planning document depicted Dean Isolde differently---in a "crisp, high-collared white uniform" delivering a polished, controlled speech gripping the podium so hard the brass creaked. In actual session play, she was instead portrayed as small, bouncy, scattered, and genuinely enthusiastic. Session canon takes precedence.  
+The original planning document depicted Dean Isolde differently---in a "crisp, high-collared white uniform" delivering a polished, controlled speech gripping the podium so hard the brass creaked. In actual session play, she was instead portrayed as small, bouncy, scattered, and genuinely enthusiastic. Session canon takes precedence.  She is described as a Professor Heimerdinger (Arcane) inspired persona

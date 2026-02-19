@@ -27,8 +27,8 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 1. Gilded (Major)
 - **Resource:** Chime Spires (Resonators)
-- **Faction:** [[House Gilded]] ([[House Gilded|The Highborne]])
-- **Description:** Home city of [[House Gilded]]. The Chime Spires are musical, organ-like structures that synchronize raw ether into usable power. They are the foundation of Harmony's entire energy infrastructure.
+- **Faction:** [[house-gilded|House Gilded]] ([[House Gilded|The Highborne]])
+- **Description:** Home city of [[house-gilded|House Gilded]]. The Chime Spires are musical, organ-like structures that synchronize raw ether into usable power. They are the foundation of Harmony's entire energy infrastructure.
 - **Status:** Core Harmony territory. The original spires still function as the backbone of the power grid.
 
 ### 2. Umbra Mountain (Major)
