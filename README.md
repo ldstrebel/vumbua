@@ -2,9 +2,22 @@
 
 A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlantis: The Lost Empire*.
 
-**System:** Daggerheart (v1.5/1.6) · **Current Session:** 2 · **Schedule:** Every 2 weeks · **Party Size:** 5
+**System:** Daggerheart (v1.5/1.6) | **Current Session:** 2.5 | **Schedule:** Every 2 weeks | **Party Size:** 5
 
-**[📖 View the Campaign Wiki](https://ldstrebel.github.io/vumbua/)**
+**[View the Campaign Wiki](https://ldstrebel.github.io/vumbua/)**
+
+---
+
+## First Time Here? (AI or Human)
+
+| Step | What to read | Why |
+|------|-------------|-----|
+| 1 | `.agent/workflows/ai-entry.md` | 30-second story summary, cast, current plot state |
+| 2 | `.agent/workflows/lore-index.md` | Canonical spellings, file map, NPC roster, session delta |
+| 3 | `sessions/index.md` | What happened each session |
+| 4 | `knowledge-tracker.md` | What players know vs. what's hidden |
+
+For **humans** wanting to use AI workflows: `.agent/workflows/human-instructions.md`
 
 ---
 
@@ -12,22 +25,23 @@ A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlanti
 
 | For... | Go to... |
 |--------|----------|
-| **AI agents** — story + current state | [[AI Entry Brief|`.agent/workflows/ai-entry.md`]] |
-| **AI agents** — rapid orientation | [[Lore Index|`.agent/workflows/lore-index.md`]] |
-| **Humans** — how to use AI workflows | [[Human Instructions|`.agent/workflows/human-instructions.md`]] |
-| **Players** — catching up on sessions | [[Session Index|`sessions/index.md`]] |
-| **Players** — learning the world | [[Home|`index.md`]] |
-| **Quick reference** — terms & definitions | [[Glossary|`glossary.md`]] |
-| **Quick reference** — timeline | [[Timeline|`timeline.md`]] |
-| **Quick reference** — characters | [[Character Index|`characters/index.md`]] |
+| Story + current state (AI) | `.agent/workflows/ai-entry.md` |
+| Canonical spellings + file map (AI) | `.agent/workflows/lore-index.md` |
+| How to use AI workflows (humans) | `.agent/workflows/human-instructions.md` |
+| Session recaps | `sessions/index.md` |
+| Campaign hub | `index.md` |
+| Terms & definitions | `glossary.md` |
+| Timeline | `timeline.md` |
+| All characters | `characters/index.md` |
+| All locations | `locations/index.md` |
 
 ---
 
 ## The Setting
 
-**The Great Stitching** is a process where isolated civilizations and their reality-Nodes are physically integrated into a growing empire called **Harmony**. [[Vumbua Academy]] is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation.
+**The Great Stitching** is a process where isolated civilizations and their reality-Nodes are physically integrated into a growing empire called **Harmony**. Vumbua Academy is a mobile city-state that has just relocated to a new frontier after 80 years of stagnation.
 
-Our party of five unlikely students must navigate:
+The party of five unlikely students must navigate:
 - Political intrigue between Harmony's houses
 - Cultural tensions with newly integrated clans
 - The mystery of why integration sometimes fails
@@ -60,10 +74,9 @@ characters/                       # ★ ALL CHARACTER PROFILES
 
 sessions/                         # Session transcripts + planning
 ├── index.md                      # Session recap index
-├── transcripts/                  # Raw + cleaned session transcripts
-│   ├── _template.md              # Template for new sessions
-│   ├── sN-raw.md                 # Raw transcript input
-│   └── session-NN.md             # Cleaned session output
+├── transcripts/
+│   ├── raw/                      # Raw transcript input (sN-raw.md)
+│   └── clean/                    # Cleaned session output (session-NN.md)
 └── planning/                     # GM session prep
 
 factions/                         # Clans + Harmony houses
@@ -84,12 +97,14 @@ meta/                             # ★ APP MANAGEMENT & TOOLING
     └── lore-dump/                # Temporary lore imports
 
 .agent/workflows/                 # AI + human workflow instructions
+├── ai-entry.md                   # AI onboarding brief (read FIRST)
+├── lore-index.md                 # AI quick reference (spellings, file map)
 ├── add-session.md                # Process raw transcripts
 ├── add-character.md              # Create/update character profiles
 ├── add-lore.md                   # Add/update world lore
+├── radio-recap.md                # Generate radio recap scripts
 ├── deploy.md                     # Deploy to Netlify
-├── lore-index.md                 # ★ AI QUICK REFERENCE (read first)
-└── human-instructions.md         # ★ USER GUIDE (how to use workflows)
+└── human-instructions.md         # User guide for AI workflows
 ```
 
 ### Documentation Layers
@@ -109,7 +124,7 @@ Lore pages include both **player-facing information** and **GM narration** (not 
 
 - **"What Players Know"** sections are safe to share
 - **"GM Narration"** sections contain unrevealed DM content, marked with caution boxes
-- The [[Knowledge Tracker]] tracks what's been revealed
+- `knowledge-tracker.md` tracks what's been revealed
 
 ### Truth tiers (reduces RAG confusion)
 To prevent planned content from masquerading as session-truth, we treat information as one of:
@@ -153,7 +168,7 @@ When completing any task, the AI must update all downstream files. Use this as a
 
 ## Changelog
 
-All AI-driven changes are logged in [[Changelog|`CHANGELOG.md`]] with date stamps. Every workflow appends to this file upon completion.
+All AI-driven changes are logged in `CHANGELOG.md` with date stamps. Every workflow appends to this file upon completion.
 
 ---
 

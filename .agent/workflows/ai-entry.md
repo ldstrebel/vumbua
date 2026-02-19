@@ -22,7 +22,8 @@ If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workf
 - **legacy**: older pre-migration docs; may be superseded by transcripts
 
 **Canonical source of truth lives in the repo root**, especially:
-- `sessions/transcripts/` (raw + cleaned)
+- `sessions/transcripts/raw/` (raw transcript input)
+- `sessions/transcripts/clean/` (cleaned transcript output)
 - `knowledge-tracker.md` (what players know)
 - `timeline.md`
 
@@ -56,10 +57,10 @@ Arc: **The Intake** (first days at Vumbua)
 Read these first:
 - Session index: `sessions/index.md`
 - Cleaned transcripts:
-  - Session 0: `sessions/transcripts/session-00.md`
-  - Session 1: `sessions/transcripts/session-01.md`
-  - Session 2: `sessions/transcripts/session-02.md`
-  - Session 2.5: `sessions/transcripts/session-02.5.md`
+  - Session 0: `sessions/transcripts/clean/session-00.md`
+  - Session 1: `sessions/transcripts/clean/session-01.md`
+  - Session 2: `sessions/transcripts/clean/session-02.md`
+  - Session 2.5: `sessions/transcripts/clean/session-02.5.md`
 
 Recent key beats:
 - The party forms during trials + early campus life.

@@ -34,9 +34,11 @@ After initial setup, Netlify auto-deploys on every push:
 
 // turbo-all
 ```bash
-git add .
+git add index.md characters/ sessions/ factions/ world/ locations/ bestiary/ glossary.md timeline.md knowledge-tracker.md CHANGELOG.md meta/docs/ netlify.toml
+
 git commit -m "Update campaign wiki"
-git push origin main
+
+git push
 ```
 
 Netlify will automatically rebuild within 1-2 minutes.
