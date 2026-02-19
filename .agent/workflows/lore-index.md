@@ -143,8 +143,9 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Rill** | Wadi researcher (poses as Mizizi), Dean's assistant | `rill.md` |
 | **Zephyr** | Storm-Kin exchange member, purple lightning | `zephyr.md` |
 | **Lance** | Harmony Student (Independent?) | `lance.md` |
-| **Valerius Sterling Sr.** | Legendary Explorer | `valerius-sterling-sr.md` |
+| **Valentine Sterling Sr.** | Legendary Explorer, Father of Valentine, Uncle of Valerius | `valentine-sterling-sr.md` |
 | **Lady Glissade** | Harmony Noble | `lady-glissade.md` |
+| **Valentine Sterling** | Radio Host, Sterling Family | `valentine-sterling.md` |
 | **Ember** | Ash-Blood student, Ignatius's cousin, modernizer | `ember.md` |
 | **Tommy** | Gnome clerk (power room, Session 2.5) | `tommy.md` |
 | **Lucina** | Dwarf maintenance (power room, Session 2.5) | `lucina.md` |
@@ -218,10 +219,10 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Session | Raw Transcript | Cleaned Transcript | Status |
 |---------|---------------|-------------------|--------|
-| Session 0 | `sessions/transcripts/s0-raw.md` | `sessions/transcripts/session-00.md` | ✅ Complete |
-| Session 1 | `sessions/transcripts/s1-raw.md` | `sessions/transcripts/session-01.md` | ✅ Complete |
-| Session 2 | (in s1-raw / bonfire_scene) | `sessions/transcripts/session-02.md` | ✅ Complete |
-| Session 2.5 | `sessions/transcripts/s2.5-raw.md` | `sessions/transcripts/session-02.5.md` | ✅ Complete |
+| Session 0 | `sessions/transcripts/raw/s0-raw.md` | `sessions/transcripts/clean/session-00.md` | ✅ Complete |
+| Session 1 | `sessions/transcripts/raw/s1-raw.md` | `sessions/transcripts/clean/session-01.md` | ✅ Complete |
+| Session 2 | `sessions/transcripts/raw/s2-raw.md` | `sessions/transcripts/clean/session-02.md` | ✅ Complete |
+| Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/session-02.5.md` | ✅ Complete |
 
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: "World"
-parent: Lore
+parent: Home
 nav_order: 1
 ---
 

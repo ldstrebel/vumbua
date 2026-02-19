@@ -18,10 +18,14 @@
 
 - **[[Dean Isolde Vane]]** - Head of Vumbua Academy, "The Desperate Architect"
 - **[[Celia Vance]]** - Operations Director
+- **[[Professor Kante]]** - Faculty, House Gilded
 - **[[Hesperus]]** - Instructor, Field Training
 - **[[Ratchet]]** - Engineer (The Maintenance)
 - **[[Kojo]]** - Integrator
 - **[[Pyrrhus]]** - Ash-Blood Technician
+- **[[Lucina]]** - Maintenance Worker, Power Room
+- **[[Marla]]** - Maintenance Worker, Power Room
+- **[[Tommy]]** - Clerk, Power Room Front Desk
 
 ### Student Squads
 
@@ -69,13 +73,16 @@
 - **[[Sarge]]** - Captain (Rust Tier), "Safety Inspector"
 - **[[Lucky]]** - Hustler/Procurer
 - **[[Pudge]]** - The Heart
+- **[[Soot]]** - Block 99-Piston, Lomi's Roommate
 
 ### Notable Figures & Others
 
 - **[[Lady Ignis]]** - Ash-Blood Matriarch, Harmony High Councilor
 - **[[Rill]]** - Mizizi Researcher/Futurist (Traitor?)
+- **[[Ember]]** - Ash-Blood Student
 - **[[Zephyr]]** - Storm-Kin Exchange Member
 - **[[Lance]]** - Harmony Student (Independent?)
-- **[[Valerius Sterling Sr.]]** - Legendary Explorer
+- **[[Valentine Sterling]]** - Radio Host, Sterling Family
+- **[[Valentine Sterling Sr.]]** - Legendary Explorer
 - **[[Lady Glissade]]** - Harmony Noble
 - **Captain Aara Thorne** - Legendary explorer (Historical)

@@ -1,6 +1,6 @@
 ---
 title: "Locations"
-parent: Lore
+parent: Home
 nav_order: 2
 tags:
   - index
