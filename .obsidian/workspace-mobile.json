@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "knowledge-tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "knowledge-tracker"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "README.md",
+            "file": "knowledge-tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "README.md",
+            "file": "knowledge-tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "README.md",
+            "file": "knowledge-tracker.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,6 +172,9 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "factions/clans/mizizi.md",
+    "knowledge-tracker.md",
+    "README.md",
     "index.md",
     "Vumbua/Lore/Vumbua Academy.md",
     "world/vumbua-map-sent.png",
@@ -207,9 +210,6 @@
     "meta/scripts/excalidraw_lore_update.py",
     "meta/radio-scripts/session-02-recap.md",
     "meta/Excalidraw/Devin OCR test.png",
-    "meta/Excalidraw/Devin OCR test.md",
-    "meta/docs/LORE_GUIDELINES.md",
-    "meta/obsidian-migration-handoff.md",
     "Excalidraw/Devin OCR test.png"
   ]
 }
