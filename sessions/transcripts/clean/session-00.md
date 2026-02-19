@@ -12,7 +12,7 @@ aliases:
 
 ## Quick Summary
 
-The largest intake class in Vumbua Academy history begins with 100,000 candidates taking the entrance trials. Five unlikely students—two Mizizi cousins, an Ash-Blood pilgrim, a Harmony boiler worker, and a mysterious Earthkin—meet during the chaos of intake and are drawn together by fate, curiosity, and a bonfire invitation.
+The largest intake class in [[Vumbua Academy]] history begins with 100,000 candidates taking the entrance trials. Five unlikely students—two [[mizizi|Mizizi]] cousins, an [[Ash-Bloods|Ash-Blood]] pilgrim, a Harmony boiler worker, and a mysterious [[Trench-Kin|Earthkin]]—meet during the chaos of intake and are drawn together by fate, curiosity, and a bonfire invitation.
 
 ---
 
@@ -65,7 +65,7 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 
 **(RETURN TO TABLE)**
 
-**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the Mycelium clan can now join the [[Vumbua Academy]] this year, and the two of you elected to join.
+**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the [[mizizi|Mycelium clan]] can now join the [[Vumbua Academy]] this year, and the two of you elected to join.
 
 **Player Discoveries:**
 - Harmony made contact 1-2 cycles ago
@@ -118,7 +118,7 @@ The largest intake class in Vumbua Academy history begins with 100,000 candidate
 
 ### Scene 4: Civilization
 
-**Location:** Edge of the Petrified Forest  
+**Location:** Edge of the [[mizizi-petrified-forest|Petrified Forest]]  
 **Time:** Journey to Vumbua  
 **NPCs:** Britt, Aggie
 
@@ -180,11 +180,11 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 ### Scene 6: The Pilgrimage
 
-**Location:** The [[Ember]] Trail to Vumbua  
+**Location:** The [[ash-blood-isles|Ember]] Trail to Vumbua  
 **Time:** Day of Arrival  
 **NPCs:** [[ignatius|Ignatius]]
 
-**IGNATIUS (JOHN)**, a rebellious Emberkin teenager with a backpack, arrives in the city. He looks at the magitek lights powered by Harmony's crystal batteries.
+**IGNATIUS (JOHN)**, a rebellious [[Ash-Bloods|Ash-Blood]] teenager with a backpack, arrives in the city. He looks at the magitek lights powered by Harmony's crystal batteries.
 
 **IGNATIUS (JOHN)** (Internal Monologue) We're subbing out our own fuel for this fake stuff. It's all fake. It's all wrong. It's not how it should be.
 
@@ -296,12 +296,12 @@ The players take the assessment (a meta-game survey).
 
 ### Party Relationships
 - [[britt|Britt]] and [[aggie|Aggie]] are cousins with shared mission
-- [[ignatius|Ignatius]] and [[iggy|Iggy]] will be roommates (Block 12)
-- [[lomi|Lomi]] separate (Block 99)
+- [[ignatius|Ignatius]] and [[iggy|Iggy]] will be roommates ([[Block 12]])
+- [[lomi|Lomi]] separate ([[Block 99]])
 - Group not yet fully formed
 
 ### World State Changes
-- Vumbua has accepted largest intake class ever
+- [[Vumbua Academy]] has accepted largest intake class ever
 - 100,000 candidates, massive attrition expected
 - [[mizizi|Mizizi]]-Harmony pact active (forest destruction ongoing)
 - Trials complete, ranks assigned

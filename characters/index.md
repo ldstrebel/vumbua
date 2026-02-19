@@ -85,4 +85,4 @@
 - **[[Valentine Sterling]]** - Radio Host, Sterling Family
 - **[[Valentine Sterling Sr.]]** - Legendary Explorer
 - **[[Lady Glissade]]** - Harmony Noble
-- **Captain Aara Thorne** - Legendary explorer (Historical)
+- **Captain Elara Thorne** - Legendary explorer (Historical)

@@ -2,11 +2,21 @@
 aliases:
 - Session 01
 ---
-This is a great note. You are right; the specific flavor of the "Teal Butlers" and the mechanics of the typewriter add so much texture to the setting.
+# Session 01: The First Night
 
-Here is the **Revised Part 1**, restoring the GM’s descriptive text and the specific interactions with the "Rust" rejection and the Supervisor.
+**Date:** 2026-01-21  
+**Session Number:** 01  
+**Players Present:** [[britt|Britt]] (Sophie), [[aggie|Aggie]] (Kristina), [[ignatius|Ignatius]] (John), [[lomi|Lomi]] (Luke F), [[iggy|Iggy]] (Holly)
 
 ---
+
+## Quick Summary
+
+The party navigates the intake exam, receives their rank assignments (Gold, Silver, Copper), and explores the [[Vumbua Academy]] campus. [[Iggy]] causes chaos at the testing pavilion, [[Lomi]] bonds with [[Sarge]] over working-class solidarity, and [[Ignatius]] meets the charming [[Valentine Sterling]]. After dorm assignments split the group across [[Block 04]], [[Block 12]], and [[Block 99]], Iggy climbs a crane to map the campus, drawing the attention of [[Serra Vox]] — a Gold-rank student who invites them all to a bonfire.
+
+---
+
+## Scenes
 
 ### **SCENE 1: THE INTAKE EXAM**
 
@@ -204,15 +214,6 @@ The group is being herded out. Iggy (The [[Trench-Kin|Earthkin]]) is dripping we
 
 ---
 
-Here is **Part 3** of the transcript, covering the **Dorm Assignments**, **Iggy’s Climbing Expedition**, and the introduction of **Sarah Fox**.
-
-I have continued to attribute "Loami or Britt" based on context:
-
-* **Britt (Sophie):** Interacting with the crane, telling Iggy to come down, being suspicious/aggressive toward Sarah.  
-* **Lomi (Luke F):** Heading to Block 99, critiquing the bonfire construction.
-
----
-
 ### **SCENE 8: THE PUNCH CARDS**
 
 **EXT. ACADEMY COURTYARD \- DAY**
@@ -295,11 +296,11 @@ The group exits the Great Hall. A machine prints out punch cards for housing ass
 
 ---
 
-### **SCENE 11: ENTER SARAH FOX**
+### **SCENE 11: ENTER SERRA VOX**
 
 **EXT. INDUSTRIAL ZONE \- CONTINUOUS**
 
-**GM (LUKE S)** (Narrating) As you are gathered around this crane, you see coming toward you a small woman. She is carrying a little notebook, all prim and proper. Very student-looking. (As Sarah Fox) "Hi. Um, what are y'all doing? Do you know each other? Oh my god. Are you... are you from the Island? And are you [[Ash-Bloods|Ash Blood]]? Three of you all in one group? Oh, what a splendorous occasion\!"
+**GM (LUKE S)** (Narrating) As you are gathered around this crane, you see coming toward you a small woman. She is carrying a little notebook, all prim and proper. Very student-looking. (As [[Serra Vox]]) "Hi. Um, what are y'all doing? Do you know each other? Oh my god. Are you... are you from the Island? And are you [[Ash-Bloods|Ash Blood]]? Three of you all in one group? Oh, what a splendorous occasion\!"
 
 **BRITT (SOPHIE)** (Previously "Loami or Britt") "Take a photo. It'll last longer."
 
@@ -307,23 +308,23 @@ The group exits the Great Hall. A machine prints out punch cards for housing ass
 
 **BRITT (SOPHIE)** "Can we... can we help you? What do you need?"
 
-**GM (LUKE S)** (As Sarah) "Uh, well, I was going to invite you over to the Bonfire tonight. We're digging a hole and we're..."
+**GM (LUKE S)** (As [[Serra Vox|Serra]]) "Uh, well, I was going to invite you over to the Bonfire tonight. We're digging a hole and we're..."
 
 **IGGY (HOLLY)** "What's a bonfire?" (Action) He puts the notebook away and slides down the outside of the scaffolding.
 
 **GM (LUKE S)** (Narrating) We see him disappear in a plume of dust, and then he’s just standing there. Impressive.
 
-**GM (LUKE S)** (As Sarah) "Oh my. Um... well, I just wanted to say hi and invite you." (She looks nervous of Britt) "I'm... I'm an ally. Is that okay to say?"
+**GM (LUKE S)** (As [[Serra Vox|Serra]]) "Oh my. Um... well, I just wanted to say hi and invite you." (She looks nervous of Britt) "I'm... I'm an ally. Is that okay to say?"
 
 **AGGIE (VIA LUKE S)** "Don't mind my cousin. Hi, I'm Aggie."
 
-**GM (LUKE S)** (As Sarah) "Hi. My name's Sarah. Sarah Fox." (She shakes Aggie's hand) "How are y'all settling in?"
+**GM (LUKE S)** (As [[Serra Vox|Serra]]) "Hi. My name's Serra. Serra Vox." (She shakes Aggie's hand) "How are y'all settling in?"
 
 **IGGY (HOLLY)** "I don't know. We just found these guys."
 
 **IGNATIUS (JOHN)** Ignatius is gonna lean over to Britt and go... (Whispering) "I don't trust this b\*\*\*\*."
 
-**GM (LUKE S)** (As Sarah) "I haven't seen anybody else who's not from Harmony except... well..." (She looks past them) "Are you also on fire? I can't tell."
+**GM (LUKE S)** (As [[Serra Vox|Serra]]) "I haven't seen anybody else who's not from Harmony except... well..." (She looks past them) "Are you also on fire? I can't tell."
 
 ---
 
@@ -346,16 +347,6 @@ The group exits the Great Hall. A machine prints out punch cards for housing ass
 **LOMI (LUKE F)** I think that's when Lomi looks over his shoulder. (In Character) "I think we can solve that." (Action) He starts walking over to Ignatius.
 
 ---
-
-Here is the final section of the script, covering the **Table Debrief** where the players established their primary motivations and what they want to get out of the campaign.
-
-I have stripped out the scheduling logistics to focus purely on the narrative hooks they selected.
-
----
-
-Here is the corrected script for the final segment of **Session 0** based on the **vumbua 1** transcript.
-
-I have parsed the "Loami or Britt" speaker tags based on the content of the speech (Sophie speaking for Britt, Luke F speaking for Lomi).
 
 ### **SCENE 13: THE CAMPAIGN HOOKS (DEBRIEF)**
 
