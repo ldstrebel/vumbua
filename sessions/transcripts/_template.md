@@ -93,9 +93,9 @@
 
 - [ ] Update [Character Name](../../characters/player-characters/character.md)
 - [ ] Update [NPC Name](../../characters/npcs/npc.md)
-- [ ] Update [Location](../lore/locations/location.md)
-- [ ] Update [Knowledge Tracker](../lore/knowledge-tracker.md)
-- [ ] Add new entries to [Timeline](../lore/timeline.md)
+- [ ] Update [Location](../../locations/location.md)
+- [ ] Update [Knowledge Tracker](../../knowledge-tracker.md)
+- [ ] Add new entries to [Timeline](../../timeline.md)
 
 ---
 

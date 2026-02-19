@@ -4,7 +4,16 @@ on:
   push:
     branches: [main]
     paths:
-      - 'lore/**'
+      - 'index.md'
+      - 'characters/**'
+      - 'sessions/**'
+      - 'factions/**'
+      - 'world/**'
+      - 'locations/**'
+      - 'bestiary/**'
+      - 'glossary.md'
+      - 'timeline.md'
+      - 'knowledge-tracker.md'
   workflow_dispatch:
 
 jobs:

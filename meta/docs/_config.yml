@@ -3,14 +3,19 @@ description: A Daggerheart campaign in a Magitek-Steampunk world of exploration 
 theme: jekyll-theme-cayman
 
 # Navigation
+source: ../..
+
 header_pages:
-  - lore/index.md
-  - lore/characters/index.md
-  - lore/sessions/index.md
+  - index.md
+  - characters/index.md
+  - sessions/index.md
 
 # Exclude GM notes from site
 exclude:
   - gm-notes/
+  - meta/
+  - .agent/
+  - .github/
   - README.md
   - Vumbua/
 

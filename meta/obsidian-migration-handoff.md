@@ -43,15 +43,15 @@
 | Category | Count | Location |
 |----------|-------|----------|
 | Markdown files (docs/) | 104 | `docs/` |
-| NPC profiles | 44 | `docs/lore/characters/npcs/` |
+| NPC profiles | 44 | `characters/npcs/` |
 | PC profiles | 5 | `docs/characters/player-characters/` |
-| Faction/clan pages | 14 | `docs/lore/factions/` |
-| World lore pages | 6 | `docs/lore/world/` |
-| Bestiary entries | 5 | `docs/lore/bestiary/` |
-| Location pages | 2 | `docs/lore/locations/` |
+| Faction/clan pages | 14 | `docs/factions/` |
+| World lore pages | 6 | `world/` |
+| Bestiary entries | 5 | `bestiary/` |
+| Location pages | 2 | `locations/` |
 | Session transcripts | 7 | `docs/sessions/transcripts/` |
-| Glossary | 1 (~358 lines, ~60 terms) | `docs/lore/glossary.md` |
-| Timeline | 1 | `docs/lore/timeline.md` |
+| Glossary | 1 (~358 lines, ~60 terms) | `glossary.md` |
+| Timeline | 1 | `timeline.md` |
 | NotebookLM exports | 4 | `docs/notebooklm/` |
 | AI workflow docs | 7 | `.agent/workflows/` |
 
@@ -144,7 +144,7 @@ Replace all `[[Path|Display Text]]` with `[[Page Name]]` or `[[Page Name|Display
 1. Match link targets to the actual `# H1 heading` or filename of the destination file
 2. Obsidian resolves by filename, so `[[rill]]` finds `rill.md` regardless of folder depth
 3. If the display text differs from the page name, use pipe syntax: `[[rill|Rill the River-Born]]`
-4. Absolute paths like `/lore/factions/clans/ash-bloods.md` become `[[Ash-Bloods]]`
+4. Absolute paths like `/factions/clans/ash-bloods.md` become `[[Ash-Bloods]]`
 5. Relative paths like `player-characters/britt.md` become `[[Britt]]`
 6. Index pages that are primarily link lists (`index.md` files) should use `[[Page Name]]` format for each bullet
 
@@ -166,12 +166,12 @@ Replace all `[[Path|Display Text]]` with `[[Page Name]]` or `[[Page Name|Display
 Scan all files for mentions of proper nouns that are NOT already links and wrap them in `[[wikilinks]]`.
 
 **Proper noun registry** (build from these sources):
-- All filenames in `docs/lore/characters/npcs/` (44 NPCs)
+- All filenames in `characters/npcs/` (44 NPCs)
 - All filenames in `docs/characters/player-characters/` (5 PCs)
-- All entries in `docs/lore/glossary.md` (bold terms)
-- All faction/clan names from `docs/lore/factions/`
-- All location names from `docs/lore/locations/`
-- All bestiary entries from `docs/lore/bestiary/`
+- All entries in `glossary.md` (bold terms)
+- All faction/clan names from `docs/factions/`
+- All location names from `locations/`
+- All bestiary entries from `bestiary/`
 - All aliases defined in frontmatter (after step 4.1)
 
 **Rules:**
@@ -199,15 +199,13 @@ docs/                          <-- Vault root (open this folder in Obsidian)
 ├── sessions/
 │   ├── transcripts/
 │   └── planning/
-├── lore/
-│   ├── glossary.md
-│   ├── timeline.md
-│   ├── knowledge-tracker.md
-│   ├── characters/npcs/       <-- 44 NPC files
-│   ├── factions/
-│   ├── world/
-│   ├── locations/
-│   └── bestiary/
+├── glossary.md
+├── timeline.md
+├── knowledge-tracker.md
+├── factions/
+├── world/
+├── locations/
+├── bestiary/
 ├── notebooklm/                <-- Keep for export compatibility
 ├── maps/                      <-- New: for Excalidraw drawings
 └── ai-reference/              <-- New: AI-optimized context files
@@ -223,7 +221,7 @@ docs/                          <-- Vault root (open this folder in Obsidian)
 
 ### 4.5 Handle the Glossary
 
-The glossary (`docs/lore/glossary.md`) is currently a single 358-line file with ~60 defined terms. Two options:
+The glossary (`glossary.md`) is currently a single 358-line file with ~60 defined terms. Two options:
 
 **Option A (Recommended): Keep as single file, add wikilinks**
 - Add wikilinks to terms that have their own pages (e.g., `**[[Rill]]** ([[Rill|The River-Born]])`)
@@ -231,7 +229,7 @@ The glossary (`docs/lore/glossary.md`) is currently a single 358-line file with 
 - Advantage: single file is easy to search and scroll
 
 **Option B: Explode into individual notes**
-- Each glossary term becomes its own note in `lore/glossary/`
+- Each glossary term becomes its own note in `glossary/`
 - Advantage: each term gets its own backlinks and graph node
 - Disadvantage: 60+ tiny files, harder to browse
 

@@ -15,11 +15,11 @@ A **Daggerheart campaign** set in a Magitek-Steampunk world inspired by *Atlanti
 | **AI agents** — story + current state | [[AI Entry Brief|`.agent/workflows/ai-entry.md`]] |
 | **AI agents** — rapid orientation | [[Lore Index|`.agent/workflows/lore-index.md`]] |
 | **Humans** — how to use AI workflows | [[Human Instructions|`.agent/workflows/human-instructions.md`]] |
-| **Players** — catching up on sessions | [[Session Index|`lore/sessions/index.md`]] |
-| **Players** — learning the world | [[Lore Index|`lore/index.md`]] |
-| **Quick reference** — terms & definitions | [[Glossary|`lore/glossary.md`]] |
-| **Quick reference** — timeline | [[Timeline|`lore/timeline.md`]] |
-| **Quick reference** — characters | [[Character Index|`lore/characters/index.md`]] |
+| **Players** — catching up on sessions | [[Session Index|`sessions/index.md`]] |
+| **Players** — learning the world | [[Home|`index.md`]] |
+| **Quick reference** — terms & definitions | [[Glossary|`glossary.md`]] |
+| **Quick reference** — timeline | [[Timeline|`timeline.md`]] |
+| **Quick reference** — characters | [[Character Index|`characters/index.md`]] |
 
 ---
 
@@ -48,53 +48,55 @@ Our party of five unlikely students must navigate:
 ## Repository Structure
 
 ```
-lore/                              # ★ ALL CAMPAIGN CONTENT
-├── index.md                       # Lore hub
-├── glossary.md                    # A-Z terms
-├── timeline.md                    # Full chronological history
-├── knowledge-tracker.md           # Player knowledge vs GM narration
-├── characters/                    # ★ ALL CHARACTER PROFILES
-│   ├── index.md                   # Character codex (PCs + NPCs)
-│   ├── player-characters/         # 5 PC profiles
-│   └── npcs/                      # ★ CANONICAL NPC profiles (45+ files)
-├── sessions/                      # Session transcripts + planning
-│   ├── index.md                   # Session recap index
-│   ├── transcripts/               # Raw + cleaned session transcripts
-│   │   ├── _template.md           # Template for new sessions
-│   │   ├── sN-raw.md              # Raw transcript input
-│   │   └── session-NN.md          # Cleaned session output
-│   └── planning/                  # GM session prep
-├── factions/                      # Clans + Harmony houses
-├── world/                         # World mechanics
-├── locations/                     # Place descriptions (14 files)
-└── bestiary/                      # Creature profiles
+index.md                          # Campaign hub (includes former lore hub)
+glossary.md                       # A-Z terms
+timeline.md                       # Full chronological history
+knowledge-tracker.md              # Player knowledge vs GM narration
 
-meta/                              # ★ APP MANAGEMENT & TOOLING
-├── scripts/                       # Python/bash automation scripts
-├── docs/                          # Jekyll/NotebookLM exports
-├── exports/                       # Export output
-├── radio-scripts/                 # Radio-style session recaps
-├── Excalidraw/                    # Excalidraw test files
-├── Ink/                           # Ink drawing/writing files
-├── Daggerheart-Core/              # System reference PDFs
-└── legacy/                        # Pre-migration source material
-    ├── Vumbua/                    # Original source documents
-    └── lore-dump/                 # Temporary lore imports
+characters/                       # ★ ALL CHARACTER PROFILES
+├── index.md                      # Character codex (PCs + NPCs)
+├── player-characters/            # 5 PC profiles
+└── npcs/                         # ★ CANONICAL NPC profiles (45+ files)
 
-.agent/workflows/                  # AI + human workflow instructions
-├── add-session.md                 # Process raw transcripts
-├── add-character.md               # Create/update character profiles
-├── add-lore.md                    # Add/update world lore
-├── deploy.md                      # Deploy to Netlify
-├── lore-index.md                  # ★ AI QUICK REFERENCE (read first)
-└── human-instructions.md          # ★ USER GUIDE (how to use workflows)
+sessions/                         # Session transcripts + planning
+├── index.md                      # Session recap index
+├── transcripts/                  # Raw + cleaned session transcripts
+│   ├── _template.md              # Template for new sessions
+│   ├── sN-raw.md                 # Raw transcript input
+│   └── session-NN.md             # Cleaned session output
+└── planning/                     # GM session prep
+
+factions/                         # Clans + Harmony houses
+world/                            # World mechanics
+locations/                        # Place descriptions
+bestiary/                         # Creature profiles
+
+meta/                             # ★ APP MANAGEMENT & TOOLING
+├── scripts/                      # Python/bash automation scripts
+├── docs/                         # Jekyll/NotebookLM exports
+├── exports/                      # Export output
+├── radio-scripts/                # Radio-style session recaps
+├── Excalidraw/                   # Excalidraw test files
+├── Ink/                          # Ink drawing/writing files
+├── Daggerheart-Core/             # System reference PDFs
+└── legacy/                       # Pre-migration source material
+    ├── Vumbua/                   # Original source documents
+    └── lore-dump/                # Temporary lore imports
+
+.agent/workflows/                 # AI + human workflow instructions
+├── add-session.md                # Process raw transcripts
+├── add-character.md              # Create/update character profiles
+├── add-lore.md                   # Add/update world lore
+├── deploy.md                     # Deploy to Netlify
+├── lore-index.md                 # ★ AI QUICK REFERENCE (read first)
+└── human-instructions.md         # ★ USER GUIDE (how to use workflows)
 ```
 
 ### Documentation Layers
 
 | Layer | Purpose | Updated |
 |-------|---------|---------|
-| **Lore vault** (`lore/`) | Single source of truth for all campaign content | After each session via AI workflows |
+| **Campaign content** (repo root) | Single source of truth for all campaign content | After each session via AI workflows |
 | **NotebookLM exports** (`meta/docs/notebooklm/`) | Consolidated copies for NotebookLM ingestion | Manually re-exported after major updates |
 | **Legacy docs** (`meta/legacy/`) | Original pre-migration source material | Not actively maintained |
 | **AI reference** (`.agent/workflows/lore-index.md`) | Quick reference for AI session processing | After each session |
@@ -142,9 +144,9 @@ When completing any task, the AI must update all downstream files. Use this as a
 
 | After... | Always update... |
 |----------|-----------------|
-| **Processing a session** | `lore/knowledge-tracker.md`, `lore/timeline.md`, `.agent/workflows/lore-index.md` (session delta + session status), `CHANGELOG.md` |
-| **Adding/updating a character** | `lore/characters/index.md`, `.agent/workflows/lore-index.md` (NPC list + spellings), `CHANGELOG.md` |
-| **Adding/updating lore** | `lore/index.md`, `lore/glossary.md` (if new terms), `.agent/workflows/lore-index.md`, `CHANGELOG.md` |
+| **Processing a session** | `knowledge-tracker.md`, `timeline.md`, `.agent/workflows/lore-index.md` (session delta + session status), `CHANGELOG.md` |
+| **Adding/updating a character** | `characters/index.md`, `.agent/workflows/lore-index.md` (NPC list + spellings), `CHANGELOG.md` |
+| **Adding/updating lore** | `index.md`, `glossary.md` (if new terms), `.agent/workflows/lore-index.md`, `CHANGELOG.md` |
 | **Any AI action** | `CHANGELOG.md` — date-stamped bullet with TLDR + file(s) changed |
 
 ---
@@ -160,9 +162,9 @@ All AI-driven changes are logged in [[Changelog|`CHANGELOG.md`]] with date stamp
 Deploy changes via the `/deploy` workflow or manually:
 
 ```bash
-git add lore/
+git add index.md characters/ sessions/ factions/ world/ locations/ bestiary/ glossary.md timeline.md knowledge-tracker.md
 git commit -m "Session XX recap and lore updates"
-git push origin main
+git push
 ```
 
 ---

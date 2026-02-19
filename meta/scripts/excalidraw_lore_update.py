@@ -60,11 +60,11 @@ CATEGORY_HINTS = {
 }
 
 CATEGORY_TO_DIR = {
-    "npc": "lore/characters/npcs",
-    "location": "lore/locations",
-    "faction": "lore/factions",
-    "creature": "lore/bestiary",
-    "lore": "lore/world",
+    "npc": "characters/npcs",
+    "location": "locations",
+    "faction": "factions",
+    "creature": "bestiary",
+    "lore": "world",
 }
 
 
@@ -153,7 +153,7 @@ def slugify(name):
 
 def create_stub_page(name, category, source, context):
     """Create a stub markdown page for a new entity."""
-    directory = os.path.join(REPO_ROOT, CATEGORY_TO_DIR.get(category, "lore/world"))
+    directory = os.path.join(REPO_ROOT, CATEGORY_TO_DIR.get(category, "world"))
     os.makedirs(directory, exist_ok=True)
 
     slug = slugify(name)

@@ -21,10 +21,10 @@ If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workf
 - **gm-plan**: prep/intent not yet occurred in-session (not canon yet)
 - **legacy**: older pre-migration docs; may be superseded by transcripts
 
-**Canonical source of truth lives under `lore/`**, especially:
-- `lore/sessions/transcripts/` (raw + cleaned)
-- `lore/knowledge-tracker.md` (what players know)
-- `lore/timeline.md`
+**Canonical source of truth lives in the repo root**, especially:
+- `sessions/transcripts/` (raw + cleaned)
+- `knowledge-tracker.md` (what players know)
+- `timeline.md`
 
 ---
 
@@ -42,11 +42,11 @@ Themes/pillars:
 ## The Party (PCs)
 | Player | Character | Clan/Origin | Rank | File |
 |---|---|---|---|---|
-| Sophie | Britt | Mizizi | Gold | `lore/characters/player-characters/britt.md` |
-| Kristina | Aggie | Mizizi | Silver | `lore/characters/player-characters/aggie.md` |
-| John | Ignatius | Ash-Blood | Silver | `lore/characters/player-characters/ignatius.md` |
-| Luke F | Lomi | Harmony-born (Octoumba, Iron-Union) | Copper | `lore/characters/player-characters/lomi.md` |
-| Holly | Iggy | “Earthkin” (secretly Trench-Kin) | Gold | `lore/characters/player-characters/iggy.md` |
+| Sophie | Britt | Mizizi | Gold | `characters/player-characters/britt.md` |
+| Kristina | Aggie | Mizizi | Silver | `characters/player-characters/aggie.md` |
+| John | Ignatius | Ash-Blood | Silver | `characters/player-characters/ignatius.md` |
+| Luke F | Lomi | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
+| Holly | Iggy | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
 
 ---
 
@@ -54,12 +54,12 @@ Themes/pillars:
 Arc: **The Intake** (first days at Vumbua)
 
 Read these first:
-- Session index: `lore/sessions/index.md`
+- Session index: `sessions/index.md`
 - Cleaned transcripts:
-  - Session 0: `lore/sessions/transcripts/session-00.md`
-  - Session 1: `lore/sessions/transcripts/session-01.md`
-  - Session 2: `lore/sessions/transcripts/session-02.md`
-  - Session 2.5: `lore/sessions/transcripts/session-02.5.md`
+  - Session 0: `sessions/transcripts/session-00.md`
+  - Session 1: `sessions/transcripts/session-01.md`
+  - Session 2: `sessions/transcripts/session-02.md`
+  - Session 2.5: `sessions/transcripts/session-02.5.md`
 
 Recent key beats:
 - The party forms during trials + early campus life.
@@ -87,19 +87,19 @@ Other high-signal:
 - [[Rill]] (Mizizi researcher; important thread)
 - [[Serra Vox]] / [[Valerius Sterling]] (student politics/rivals)
 
-Canonical list lives at: `lore/characters/index.md`
+Canonical list lives at: `characters/index.md`
 
 ---
 
 ## Where to go depending on the task
-- “What happened last session?” → `lore/sessions/index.md` then latest cleaned transcript
-- “What can players know?” → `lore/knowledge-tracker.md`
-- “Who is this NPC/term?” → `lore/characters/index.md`, `lore/glossary.md`
+- “What happened last session?” → `sessions/index.md` then latest cleaned transcript
+- “What can players know?” → `knowledge-tracker.md`
+- “Who is this NPC/term?” → `characters/index.md`, `glossary.md`
 - “What files exist / where should I edit?” → `.agent/workflows/lore-index.md`
 
 ---
 
 ## If you only read 3 files
 1. `.agent/workflows/lore-index.md`
-2. `lore/sessions/index.md`
-3. `lore/knowledge-tracker.md`
+2. `sessions/index.md`
+3. `knowledge-tracker.md`

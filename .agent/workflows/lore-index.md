@@ -94,11 +94,11 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Player (OOC) | Character (IC) | Clan/Origin | Rank | File |
 |--------------|----------------|-------------|------|------|
-| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `lore/characters/player-characters/britt.md` |
-| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `lore/characters/player-characters/aggie.md` |
-| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `lore/characters/player-characters/ignatius.md` |
-| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `lore/characters/player-characters/lomi.md` |
-| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `lore/characters/player-characters/iggy.md` |
+| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `characters/player-characters/britt.md` |
+| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md` |
+| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `characters/player-characters/ignatius.md` |
+| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
+| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
 
 **Speaker attribution**: Use character name for in-character dialogue, player name for out-of-character talk. Determine from context.
 
@@ -110,13 +110,13 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | NPC | Role | File |
 |-----|------|------|
-| **Dean Isolde Vane** | Head of Vumbua Academy | `lore/characters/npcs/dean-isolde-vane.md` |
-| **Celia Vance** | Operations Director | `lore/characters/npcs/celia-vance.md` |
-| **Senior Exploranaut Hesperus** | Instructor, Field Training | `lore/characters/npcs/hesperus.md` |
-| **Ratchet** | Copper-Rank Student, Block 99-Piston | `lore/characters/npcs/ratchet.md` |
-| **Kojo** | Mizizi Student, Help Desk Tutor | `lore/characters/npcs/kojo.md` |
-| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `lore/characters/npcs/pyrrhus.md` |
-| **Professor Kante** | Tortoise professor of harmonics | `lore/characters/npcs/professor-kante.md` |
+| **Dean Isolde Vane** | Head of Vumbua Academy | `characters/npcs/dean-isolde-vane.md` |
+| **Celia Vance** | Operations Director | `characters/npcs/celia-vance.md` |
+| **Senior Exploranaut Hesperus** | Instructor, Field Training | `characters/npcs/hesperus.md` |
+| **Ratchet** | Copper-Rank Student, Block 99-Piston | `characters/npcs/ratchet.md` |
+| **Kojo** | Mizizi Student, Help Desk Tutor | `characters/npcs/kojo.md` |
+| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `characters/npcs/pyrrhus.md` |
+| **Professor Kante** | Tortoise professor of harmonics | `characters/npcs/professor-kante.md` |
 
 ### Student Squads
 
@@ -133,7 +133,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **09: The Ablative** | Sarge (Cpt, Rust Tier), Lucky, Pudge | `sarge.md`, `lucky.md`, `pudge.md` |
 | **Block 99-Piston** | Ratchet, Soot (Lomi's roommates) | `ratchet.md`, `soot.md` |
 
-*All NPC files are in `lore/characters/npcs/`*
+*All NPC files are in `characters/npcs/`*
 
 ### Notable Figures
 
@@ -218,64 +218,66 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Session | Raw Transcript | Cleaned Transcript | Status |
 |---------|---------------|-------------------|--------|
-| Session 0 | `lore/sessions/transcripts/s0-raw.md` | `lore/sessions/transcripts/session-00.md` | ✅ Complete |
-| Session 1 | `lore/sessions/transcripts/s1-raw.md` | `lore/sessions/transcripts/session-01.md` | ✅ Complete |
-| Session 2 | (in s1-raw / bonfire_scene) | `lore/sessions/transcripts/session-02.md` | ✅ Complete |
-| Session 2.5 | `lore/sessions/transcripts/s2.5-raw.md` | `lore/sessions/transcripts/session-02.5.md` | ✅ Complete |
+| Session 0 | `sessions/transcripts/s0-raw.md` | `sessions/transcripts/session-00.md` | ✅ Complete |
+| Session 1 | `sessions/transcripts/s1-raw.md` | `sessions/transcripts/session-01.md` | ✅ Complete |
+| Session 2 | (in s1-raw / bonfire_scene) | `sessions/transcripts/session-02.md` | ✅ Complete |
+| Session 2.5 | `sessions/transcripts/s2.5-raw.md` | `sessions/transcripts/session-02.5.md` | ✅ Complete |
 
 ---
 
 ## File Map
 
 ```
-lore/                              # ★ ALL CAMPAIGN CONTENT
-├── index.md                       # Lore hub
-├── glossary.md                    # A-Z terms
-├── timeline.md                    # Full chronological history
-├── knowledge-tracker.md           # Player knowledge vs GM narration
-├── characters/                    # ★ ALL CHARACTER PROFILES
-│   ├── index.md                   # Character codex (PCs + NPCs)
-│   ├── player-characters/         # 5 PC profiles
-│   └── npcs/                      # ★ CANONICAL NPC profiles (45+ files)
-├── sessions/                      # Session transcripts + planning
-│   ├── index.md                   # Session recap index
-│   ├── transcripts/               # Raw + cleaned session transcripts
-│   │   ├── _template.md           # Template for new sessions
-│   │   ├── sN-raw.md              # Raw transcript input
-│   │   └── session-NN.md          # Cleaned session output
-│   └── planning/                  # GM session prep
-├── factions/                      # Clans + Harmony houses
-├── world/                         # World mechanics
-├── locations/                     # Place descriptions (14 files)
-└── bestiary/                      # Creature profiles
+index.md                          # Campaign hub (includes former lore hub)
+glossary.md                       # A-Z terms
+timeline.md                       # Full chronological history
+knowledge-tracker.md              # Player knowledge vs GM narration
 
-meta/                              # ★ APP MANAGEMENT & TOOLING
-├── scripts/                       # Python/bash automation scripts
-├── docs/                          # Jekyll/NotebookLM exports
-├── exports/                       # Export output
-├── radio-scripts/                 # Radio-style session recaps
-├── Excalidraw/                    # Excalidraw test files
-├── Ink/                           # Ink drawing/writing files
-├── Daggerheart-Core/              # System reference PDFs
-└── legacy/                        # Pre-migration source material
-    ├── Vumbua/                    # Original source documents
-    └── lore-dump/                 # Temporary lore imports
+characters/                       # ★ ALL CHARACTER PROFILES
+├── index.md                      # Character codex (PCs + NPCs)
+├── player-characters/            # 5 PC profiles
+└── npcs/                         # ★ CANONICAL NPC profiles (45+ files)
 
-.agent/workflows/                  # AI workflow instructions
-├── add-session.md                 # Process raw transcripts → cleaned recaps
-├── add-character.md               # Create PC/NPC profiles
-├── add-lore.md                    # Add/update world lore pages
-├── deploy.md                      # Deploy to Netlify
-├── lore-index.md                  # THIS FILE — AI quick reference
-└── human-instructions.md          # User guide for leveraging AI workflows
+sessions/                         # Session transcripts + planning
+├── index.md                      # Session recap index
+├── transcripts/                  # Raw + cleaned session transcripts
+│   ├── _template.md              # Template for new sessions
+│   ├── sN-raw.md                 # Raw transcript input
+│   └── session-NN.md             # Cleaned session output
+└── planning/                     # GM session prep
+
+factions/                         # Clans + Harmony houses
+world/                            # World mechanics
+locations/                        # Place descriptions
+bestiary/                         # Creature profiles
+
+meta/                             # ★ APP MANAGEMENT & TOOLING
+├── scripts/                      # Python/bash automation scripts
+├── docs/                         # Jekyll/NotebookLM exports
+├── exports/                      # Export output
+├── radio-scripts/                # Radio-style session recaps
+├── Excalidraw/                   # Excalidraw test files
+├── Ink/                          # Ink drawing/writing files
+├── Daggerheart-Core/             # System reference PDFs
+└── legacy/                       # Pre-migration source material
+    ├── Vumbua/                   # Original source documents
+    └── lore-dump/                # Temporary lore imports
+
+.agent/workflows/                 # AI workflow instructions
+├── add-session.md                # Process raw transcripts → cleaned recaps
+├── add-character.md              # Create PC/NPC profiles
+├── add-lore.md                   # Add/update world lore pages
+├── deploy.md                     # Deploy to Netlify
+├── lore-index.md                 # THIS FILE — AI quick reference
+└── human-instructions.md         # User guide for leveraging AI workflows
 ```
 
 ### Key Distinctions
 
 | Directory | Purpose | Updated By |
 |-----------|---------|------------|
-| `lore/` | Source of truth for all campaign content | AI via workflows |
-| `lore/characters/` | Character index, PCs, and canonical NPC profiles | AI via `/add-character` |
-| `lore/sessions/` | Raw + cleaned session files + planning | AI via `/add-session` |
+| repo root (index + top-level content dirs) | Source of truth for all campaign content | AI via workflows |
+| `characters/` | Character index, PCs, and canonical NPC profiles | AI via `/add-character` |
+| `sessions/` | Raw + cleaned session files + planning | AI via `/add-session` |
 | `meta/docs/notebooklm/` | Consolidated exports for NotebookLM | Manual re-export after major updates |
 | `meta/legacy/` | Original source docs (legacy) | Not actively updated |
