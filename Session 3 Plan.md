@@ -16,3 +16,4 @@ later-who are his eyes & any? Maybe a  ash blood?  Ember-?
 [[ember]] is in attendance as a a reporter for Valerius Sterling 
 
 [[valentine-sterling|Valentine]] hosts the party which is winding down when the party arrives
+
