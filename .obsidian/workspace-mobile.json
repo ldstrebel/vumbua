@@ -49,7 +49,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Session 3 ",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -100,7 +100,7 @@
         }
       }
     ],
-    "currentTab": 0
+    "currentTab": 1
   },
   "right": {
     "id": "4d4d187e98c86888",
@@ -170,7 +170,7 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "2ade9fb315eb2fdc",
+  "active": "32470948bb477417",
   "lastOpenFiles": [
     "glossary.md",
     "Ink/Drawing/2026.2.19 - 22.00pm.drawing",
