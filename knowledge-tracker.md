@@ -38,12 +38,12 @@ aliases:
 - ✅ The boiler room uses both crystal batteries and leidian ([[session-02|Session 2]])
 - ✅ Boilers are exploding because leidian is too hot ([[session-02|Session 2]])
 
-### Iggy Only ([[session-02.5|Session 2.5]] — via [[Professor Kante]])
+### Iggy Only ([[session-02.5|Session 2.5]] — via [[professor-kante|Professor Kante]])
 - 🔶 [[The Power System|Global Amplitude]] measures total ether energy across Harmony — increases with each node integration
 - 🔶 The Global Amplitude has been declining for 30-40 years (first decline in recorded history)
 - 🔶 The Ash-Blood integration only produced ~20 amp increase instead of expected +300 to +800
 - 🔶 House Vox scrapped the Apex 1 battery line (Kante's next-gen battery is useless)
-- 🔶 [[Professor Kante]] is investigating the [[Ash-Bloods|Ash-Blood]] Anomaly — invited [[Iggy]] to collaborate
+- 🔶 [[professor-kante|Professor Kante]] is investigating the [[Ash-Bloods|Ash-Blood]] Anomaly — invited [[Iggy]] to collaborate
 - 🔶 The Night of Sparks (~400 years ago) burned the world for two months before umber crystals existed
 - 🔶 Crystal batteries (Panda 5) are surge regulators/receptors, not storage — powered by umber crystals
 - 🔶 Integration works through cultural connection between peoples — not resource extraction

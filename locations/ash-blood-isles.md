@@ -41,7 +41,7 @@ Before Harmony's arrival, the [[Ash-Bloods]] were experiencing "The Great Coolin
 - **[[session-00|Session 0]]** — Volcanoes visible from [[Mizizi]] forest *(Scene 4: Civilization)*
 - **[[session-02|Session 2]]** — Leidian properties discussed; Great Cooling revealed *(Scene 8: Grinder Talk)*
 - **[[session-02|Session 2]]** — [[Ignatius]] describes Ash-Blood physiology *(Scene 6: Ash-Blood Politics)*
-- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explains the Ash-Blood Anomaly *(Scene 5)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explains the Ash-Blood Anomaly *(Scene 5)*
 
 ## Related Pages
 

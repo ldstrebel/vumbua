@@ -72,4 +72,4 @@ Vumbua teleported for the first time in a century because a deep-scan revealed t
 - **[[session-00|Session 0]]** — 1920s recruitment poster aesthetic; exploration fever established *(Scene 8: The Trials)*
 - **[[session-01|Session 1]]** — Courtyard reveal of the three Cores; intake exam; [[Dean Isolde Vane]]'s welcome speech *(Scenes 4–8)*
 - **[[session-02|Session 2]]** — [[Block 99]] bonfire; social dynamics established; [[Celestial Lounge]] trip *(Scenes 1–9)*
-- **[[session-02.5|Session 2.5]]** — [[Walker-Core]] power plant interior; [[Professor Kante]]'s research *(Scenes 2–6)*
+- **[[session-02.5|Session 2.5]]** — [[Walker-Core]] power plant interior; [[professor-kante|Professor Kante]]'s research *(Scenes 2–6)*

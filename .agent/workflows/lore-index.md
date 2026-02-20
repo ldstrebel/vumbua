@@ -39,7 +39,7 @@ New entities, reveals, and changes introduced in the most recent session. Update
 ```
 
 
-**New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[Professor Kante]] already had files)
+**New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[professor-kante|Professor Kante]] already had files)
 **New locations**: Power Plant interior (Walker-Core)
 **Key reveals** ([[Iggy]] only):
 - [[The Power System|Global Amplitude]] measures total ether energy — has been declining 30-40 years (unprecedented)

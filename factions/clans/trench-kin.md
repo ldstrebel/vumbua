@@ -21,7 +21,7 @@ Almost nothing. The Trench-Kin are completely unknown to Harmony and to the othe
 
 - **[[session-01|Session 1]]** — [[Iggy]] arrived at [[Vumbua Academy]] from the docks; supervisor escorted him through *(Scene 5: Iggy's Intake)*
 - **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] theorized an "Earth clan" must exist to complete the symmetry *(Scene 4: The Speculators)*
-- **[[session-02.5|Session 2.5]]** — [[Iggy]] mentioned "the Exchange" to [[Professor Kante]], who had never heard of it *(Scene 5)*
+- **[[session-02.5|Session 2.5]]** — [[Iggy]] mentioned "the Exchange" to [[professor-kante|Professor Kante]], who had never heard of it *(Scene 5)*
 
 ---
 

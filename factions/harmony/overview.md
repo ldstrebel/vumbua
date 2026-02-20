@@ -25,7 +25,7 @@ These families hold seats on the **High Council** and effectively run the civili
 * **Key Members**:
     *   **Arch-Duke Cymon Vox**: The ruthless patriarch who controls the battery supply.
     *   **Seraphina "Serra" Vox**: His runaway daughter, hiding at the Academy as "[[Serra Vox]]".
-    *   **[[Professor Kante]]**: A tortoise researcher from [[House Gilded]] whose work is sponsored by House Vox. Key figure in harmonics research and creator of multiple Vox battery generations.
+    *   **[[professor-kante|Professor Kante]]**: A tortoise researcher from [[House Gilded]] whose work is sponsored by House Vox. Key figure in harmonics research and creator of multiple Vox battery generations.
 
 ### House Sterling (The Sail)
 * **Domain**: Trade, Logistics, Fleet Command.

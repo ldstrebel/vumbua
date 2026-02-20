@@ -100,7 +100,7 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 - **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatius|Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
 - **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 3)*
-- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes
 

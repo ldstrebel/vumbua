@@ -231,7 +231,7 @@
 
 **Panda 5** → See **Panda Line**
 
-**[[Professor Kante]]**
+**[[professor-kante|Professor Kante]]**
 - Tortoise professor of harmonics at [[Vumbua Academy]]
 - From [[House Gilded]], sponsored by House Vox
 - Key researcher in battery technology; released multiple Vox battery generations
@@ -306,7 +306,7 @@
 - The core component of all Crystal Batteries — forms the internal matrix of hexes and triangles that glow softly
 - Acts as a surge capacitor, regulating ether intake to maintain consistent output
 - Without umber crystals, power surges cause catastrophic events (see Night of Sparks)
-- [[Iggy]] now possesses a small umber crystal, given to him by [[Professor Kante]] (Session 2.5)
+- [[Iggy]] now possesses a small umber crystal, given to him by [[professor-kante|Professor Kante]] (Session 2.5)
 - The crystal is the same material that makes up the Panda 5 battery interior
 
 ## V
@@ -334,7 +334,7 @@
 - Four-legged industrial mech component of [[Vumbua Academy|Vumbua]]
 - Houses Engineering, Power systems, [[The Loom]]
 - Staff: [[Tommy]] (front desk), [[Lucina]] (maintenance), [[Marla]] (maintenance)
-- [[Professor Kante]]'s research office is on the catwalk above the power room
+- [[professor-kante|Professor Kante]]'s research office is on the catwalk above the power room
 
 ## Z
 

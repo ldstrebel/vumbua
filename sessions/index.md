@@ -75,13 +75,13 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 **Date:** 2026-02-16
 **Type:** 1-on-1 side session ([[Iggy]] / Holly)
 
-While the party socializes at the bonfire, Iggy slips away to explore the Academy's power plant. He discovers the resonator battery infrastructure and meets **[[Professor Kante]]**, a tortoise professor of harmonics who draws him into a conversation about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly.
+While the party socializes at the bonfire, Iggy slips away to explore the Academy's power plant. He discovers the resonator battery infrastructure and meets **[[professor-kante|Professor Kante]]**, a tortoise professor of harmonics who draws him into a conversation about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly.
 
 **Key Events:**
 - Iggy Irish-goodbyes from the bonfire to investigate the power plant
 - Meets [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby
 - Discovers over-engineered Panda 5 resonator batteries and charts showing the [[The Power System|Global Amplitude]] decline
-- [[Professor Kante]] appears and explains the Minimum Crisis and the missing Ash-Blood surge
+- [[professor-kante|Professor Kante]] appears and explains the Minimum Crisis and the missing Ash-Blood surge
 - Kante gives Iggy an umber crystal and invites him to return as a collaborator
 - Iggy rejoins the group for the Celestial Lounge trip
 

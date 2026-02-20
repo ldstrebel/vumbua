@@ -107,7 +107,7 @@ Iggy's origins are deliberately mysterious. He may be connected to the **[[Trenc
 - Walked into the [[Walker-Core]] power plant uninvited — nobody stopped him
 - Met [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby
 - Sketched the [[The Power System|Panda 5 resonator batteries]] and decoded their design philosophy (Knowledge roll: 22 with Hope)
-- Discovered by [[Professor Kante]], who was impressed by his technical intuition
+- Discovered by [[professor-kante|Professor Kante]], who was impressed by his technical intuition
 - Learned about the [[The Power System|Global Amplitude]] decline and the [[Ash-Bloods|Ash-Blood]] Anomaly
 - Mentioned the Exchange to Kante — who had never heard of it
 - Received an umber crystal from Kante and an invitation to return as a collaborator
@@ -122,7 +122,7 @@ Iggy's origins are deliberately mysterious. He may be connected to the **[[Trenc
 | **Aggie** | Fellow candidate — met at Vumbua |
 | **Ignatius** | Fellow candidate — Iggy noticed him looking back during the Irish goodbye; connection building |
 | **Lomi** | Fellow candidate — met at Vumbua |
-| **[[Professor Kante]]** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal ([[session-02.5|Session 2.5]]) |
+| **[[professor-kante|Professor Kante]]** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal ([[session-02.5|Session 2.5]]) |
 | **[[Tommy]]** | Power plant clerk (gnome) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |
 | **[[Lucina]]** | Power plant mechanic (dwarf) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |
 | **[[Lucky]]** | Sold Iggy a stolen turban as a "Kleenex" ([[session-01|Session 1]]) |

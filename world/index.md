@@ -24,7 +24,7 @@ For centuries, Harmony had excess power. Now, for the first time, they are appro
 
 ### Source References
 
-- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[Iggy]] in the [[Walker-Core]] power room *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[Iggy]] in the [[Walker-Core]] power room *(Scene 4: The Professor)*
 - **[[session-02|Session 2]]** — The party discussed leidian burning hotter and boiler-room failures *(Scene 6: Ash-Blood Politics)*
 
 ## Phenomena

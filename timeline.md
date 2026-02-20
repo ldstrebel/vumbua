@@ -137,7 +137,7 @@
 - While others are at bonfire, [[Iggy]] Irish-goodbyes and sneaks into the [[Walker-Core]] power plant
 - Meets [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby — neither stops him
 - Discovers over-engineered [[The Power System|Panda 5 resonator batteries]] and charts showing [[The Power System|Global Amplitude]] decline
-- **[[Professor Kante]]** appears — has been watching [[Iggy]] sketch; impressed by his technical intuition
+- **[[professor-kante|Professor Kante]]** appears — has been watching [[Iggy]] sketch; impressed by his technical intuition
 - Kante explains [[The Minimum]] crisis: amplitude declining 30-40 years, [[Ash-Bloods|Ash-Blood]] surge only produced ~20 amps (expected +300 to +800)
 - Kante's theory: integration works through cultural connection, not resource extraction
 - [[Iggy]] mentions "the Exchange" — Kante has never heard of it

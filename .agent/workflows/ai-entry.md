@@ -66,7 +66,7 @@ Recent key beats:
 - The party forms during trials + early campus life.
 - A bonfire at Block 99 becomes a major social/political exposition scene.
 - **[[Zephyr]]** manifests a **purple lightning** event (Session 2).
-- **Session 2.5 (Iggy solo)** reveals major system-level stakes via **[[Professor Kante]]**:
+- **Session 2.5 (Iggy solo)** reveals major system-level stakes via **[[professor-kante|Professor Kante]]**:
   - **[[The Power System|Global Amplitude]]** (Harmony’s total ether power) has been declining 30–40 years.
   - The **Ash-Blood integration** produced ~20 amps (expected +300 to +800).
   - “Panda 5” resonator batteries are surge regulators (umber-crystal driven), not storage.

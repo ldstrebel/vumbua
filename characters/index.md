@@ -18,7 +18,7 @@
 
 - **[[Dean Isolde Vane]]** - Head of Vumbua Academy, "The Desperate Architect"
 - **[[Celia Vance]]** - Operations Director
-- **[[Professor Kante]]** - Faculty, House Gilded
+- **[[professor-kante|Professor Kante]]** - Faculty, House Gilded
 - **[[Hesperus]]** - Instructor, Field Training
 - **[[Ratchet]]** - Engineer (The Maintenance)
 - **[[Kojo]]** - Integrator
