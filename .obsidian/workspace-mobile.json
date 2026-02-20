@@ -11,10 +11,14 @@
             "id": "2ade9fb315eb2fdc",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "knowledge-tracker.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "knowledge-tracker"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "knowledge-tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -126,6 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "knowledge-tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -139,6 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
+            "file": "knowledge-tracker.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -165,6 +172,7 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "Professor Kante.md",
     "knowledge-tracker.md",
     "sessions/transcripts/clean/session-02.md",
     "meta/docs/session-audit-report.md",
@@ -198,7 +206,6 @@
     "meta/docs/notebooklm/gm-master.md",
     "meta/docs/notebooklm/character-codex.md",
     "meta/docs/notebooklm/campaign-compendium.md",
-    "meta/docs/notebooklm/campaign-chronicle.md",
     "meta/scripts/upload_to_drive.py",
     "meta/scripts/excalidraw_transcribe.py",
     "meta/scripts/excalidraw_lore_update.py",
