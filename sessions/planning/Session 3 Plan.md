@@ -1,4 +1,4 @@
-Here's Wax in know he want to do: 
+ Here's Wax in know he want to do: 
 
 1 we need to setup & get through the celestial ball 
 
@@ -37,4 +37,4 @@ later-who are his eyes & any? Maybe a  ash blood?  Ember-?
 	"aspectRatio": 1
 }
 ```
-Ambush by tuss , zyykl, 
+Ambushed by tuss , zyykl from mystal-sign language only fooled by Azer a Man from nowhere who used "Prism water 11 to convin
