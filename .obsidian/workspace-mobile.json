@@ -172,6 +172,7 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "meta/docs/session-audit-report.md",
     "factions/clans/mizizi.md",
     "knowledge-tracker.md",
     "README.md",
@@ -208,7 +209,6 @@
     "meta/scripts/upload_to_drive.py",
     "meta/scripts/excalidraw_transcribe.py",
     "meta/scripts/excalidraw_lore_update.py",
-    "meta/radio-scripts/session-02-recap.md",
     "meta/Excalidraw/Devin OCR test.png",
     "Excalidraw/Devin OCR test.png"
   ]
