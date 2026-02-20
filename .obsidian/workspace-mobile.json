@@ -18,8 +18,23 @@
               "icon": "lucide-image",
               "title": "vumbua-map-sent"
             }
+          },
+          {
+            "id": "e9e37bea0bddd307",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Harmony.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Harmony"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -110,7 +125,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "world/vumbua-map-sent.png",
+            "file": "Harmony.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -129,7 +144,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "world/vumbua-map-sent.png",
+            "file": "Harmony.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -143,7 +158,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "world/vumbua-map-sent.png",
+            "file": "Harmony.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -168,8 +183,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "7b8b0d5c2271cba7",
+  "active": "e9e37bea0bddd307",
   "lastOpenFiles": [
+    "Pasted image 20260219223829.jpg",
+    "world/vumbua-map-sent.png",
+    "Harmony.md",
     "Untitled",
     "Ink/Drawing/2026.2.19 - 22.26pm.drawing",
     "Session 3 Plan.md",
@@ -196,17 +214,14 @@
     "factions/clans/mizizi.md",
     "README.md",
     "Vumbua/Lore/Vumbua Academy.md",
-    "world/vumbua-map-sent.png",
     "world/the-minimum.md",
     "world/the-bleed.md",
     "world/pre-stitch-artifacts.md",
     "world/power-system.md",
     "world/index.md",
-    "world/harmony-nodes.md",
     "world",
     "sessions/transcripts/raw",
     "sessions/transcripts/clean",
-    "meta/Ink/Writing/2026.2.17 - 9.32am.writing",
     "meta/Excalidraw/Devin OCR test.png",
     "Excalidraw/Devin OCR test.png"
   ]
