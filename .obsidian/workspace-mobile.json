@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "knowledge-tracker.md",
+                "file": "Professor Kante.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "knowledge-tracker"
+              "title": "Professor Kante"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "knowledge-tracker.md",
+            "file": "Professor Kante.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "knowledge-tracker.md",
+            "file": "Professor Kante.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "knowledge-tracker.md",
+            "file": "Professor Kante.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,9 +172,9 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "knowledge-tracker.md",
     "Professor Kante.md",
     "characters/npcs/professor-kante.md",
-    "knowledge-tracker.md",
     "sessions/transcripts/clean/session-02.md",
     "meta/docs/session-audit-report.md",
     "factions/clans/mizizi.md",
