@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Professor Kante.md",
+                "file": "knowledge-tracker.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Professor Kante"
+              "title": "knowledge-tracker"
             }
           }
         ]
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Professor Kante.md",
+            "file": "knowledge-tracker.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Professor Kante.md",
+            "file": "knowledge-tracker.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Professor Kante.md",
+            "file": "knowledge-tracker.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -172,8 +172,8 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
-    "knowledge-tracker.md",
     "Professor Kante.md",
+    "knowledge-tracker.md",
     "characters/npcs/professor-kante.md",
     "sessions/transcripts/clean/session-02.md",
     "meta/docs/session-audit-report.md",
