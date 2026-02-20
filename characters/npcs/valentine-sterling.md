@@ -40,7 +40,7 @@ Valentine is the Scion of House Sterling, son of the legendary explorer [[valent
 - **Vibe:** "Bridgerton-esque," but with a chaotic social energy.
 
 ## Personality
-- **Charismatic:** Natural orator, perfect for radio.
+- **Charismatic:** Naturally open
 - **Social Butterfly:** Knows everyone, hears everything.
 - **Clean:** Obsessed with appearance (hence the soot reaction), but willing to get "dirty" for a good story (metaphorically).
 

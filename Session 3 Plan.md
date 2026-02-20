@@ -5,3 +5,14 @@ Here's Wax in know he want to do:
 [[valerius-sterling]] radio host. He is not here but he has some scouts watching to report back in case there any juicy gossip for his show
 
 later-who are his eyes & any? Maybe a  ash blood?  Ember-?
+
+```handwritten-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Writing/2026.2.19 - 21.42pm.writing"
+}
+```
+
+[[ember]] is in attendance as a a reporter for Valerius Sterling 
+
+[[valentine-sterling|Valentine]] hosts the party which is winding down when the party arrives
