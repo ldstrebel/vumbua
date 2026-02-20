@@ -17,3 +17,12 @@ later-who are his eyes & any? Maybe a  ash blood?  Ember-?
 
 [[valentine-sterling|Valentine]] hosts the party which is winding down when the party arrives
 
+
+```handdrawn-ink
+{
+	"versionAtEmbed": "0.3.4",
+	"filepath": "Ink/Drawing/2026.2.19 - 22.00pm.drawing",
+	"width": 500,
+	"aspectRatio": 1
+}
+```
