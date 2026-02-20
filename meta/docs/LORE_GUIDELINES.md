@@ -5,7 +5,7 @@
 **Rule:** Always use the **filename (kebab-case)** as the link target, with the display text piped.
 
 *   **CORRECT:** `[[vumbua-academy|Vumbua Academy]]`
-*   **INCORRECT:** `[[Vumbua Academy]]`
+*   **INCORRECT:** `[[vumbua-academy|Vumbua Academy]]`
 *   **INCORRECT:** `[[Vumbua_Academy]]`
 
 **Why?**

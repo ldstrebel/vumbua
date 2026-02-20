@@ -7,7 +7,7 @@ tags:
 # Lemma
 
 **Role:** Squad 04 (The Axiom) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -18,6 +18,6 @@ Member of Squad 04. Provides supporting proofs (and fire) for the squad's strate
 
 ## Related Pages
 
-- [[Calculus Prime]] — Squad 04 Captain
-- [[Theorem]] — Squad 04 Strategist
-- [[Vumbua Academy]] — Current posting
+- [[calculus-prime|Calculus Prime]] — Squad 04 Captain
+- [[theorem|Theorem]] — Squad 04 Strategist
+- [[vumbua-academy|Vumbua Academy]] — Current posting

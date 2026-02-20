@@ -9,7 +9,7 @@ aliases:
 # Calculus Prime
 
 **Role:** Squad 04 (The Axiom) - Captain
-**Affiliation:** [[Vumbua Academy]], Warforged/Construct Community
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], Warforged/Construct Community
 **Status:** Active
 
 ## Overview
@@ -21,10 +21,10 @@ A Warforged/Construct leader of Squad 04, "The Axiom." Represents precision and 
 
 ## Source References
 
-- **[[session-01|Session 1]]** — Mentioned in GM planning notes as a Gold-rank NPC who studied hard and could be annoyed by [[Britt]]'s effortless success
+- **[[session-01|Session 1]]** — Mentioned in GM planning notes as a Gold-rank NPC who studied hard and could be annoyed by [[britt|Britt]]'s effortless success
 
 ## Related Pages
 
-- [[Theorem]] — Squad 04 Strategist
-- [[Lemma]] — Squad 04 Support
-- [[Vumbua Academy]] — Current posting
+- [[theorem|Theorem]] — Squad 04 Strategist
+- [[lemma|Lemma]] — Squad 04 Support
+- [[vumbua-academy|Vumbua Academy]] — Current posting

@@ -11,7 +11,7 @@ aliases:
 ## What this document is
 A fast on-ramp for an AI agent to understand **the setting, the cast, the current plot state, and where the canonical files live**.
 
-If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workflows/lore-index.md`) for canonical spellings + file map.
+If you’re doing any content work, also read: **[[lore-index|Lore Index]]** (`.agent/workflows/lore-index.md`) for canonical spellings + file map.
 
 ---
 
@@ -30,7 +30,7 @@ If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workf
 ---
 
 ## Setting (30-second summary)
-**The Great Stitching** is Harmony’s process of physically integrating isolated civilizations (and their “Nodes” of reality) into a growing magitek-steampunk empire. **[[Vumbua Academy]]** is a mobile city-state / academy that has relocated to a new frontier after ~80 years of stagnation.
+**The Great Stitching** is Harmony’s process of physically integrating isolated civilizations (and their “Nodes” of reality) into a growing magitek-steampunk empire. **[[vumbua-academy|Vumbua Academy]]** is a mobile city-state / academy that has relocated to a new frontier after ~80 years of stagnation.
 
 Themes/pillars:
 - Integration vs extraction (cultural connection matters)
@@ -65,7 +65,7 @@ Read these first:
 Recent key beats:
 - The party forms during trials + early campus life.
 - A bonfire at Block 99 becomes a major social/political exposition scene.
-- **[[Zephyr]]** manifests a **purple lightning** event (Session 2).
+- **[[zephyr|Zephyr]]** manifests a **purple lightning** event (Session 2).
 - **Session 2.5 (Iggy solo)** reveals major system-level stakes via **[[professor-kante|Professor Kante]]**:
   - **[[The Power System|Global Amplitude]]** (Harmony’s total ether power) has been declining 30–40 years.
   - The **Ash-Blood integration** produced ~20 amps (expected +300 to +800).
@@ -76,17 +76,17 @@ Recent key beats:
 
 ## High-signal NPCs (first-pass)
 Faculty/staff:
-- [[Dean Isolde Vane]]
-- [[Celia Vance]]
-- [[Hesperus]]
-- [[Ratchet]]
-- [[Kojo]]
-- [[Pyrrhus]]
+- [[dean-isolde-vane|Dean Isolde Vane]]
+- [[celia-vance|Celia Vance]]
+- [[hesperus|Hesperus]]
+- [[ratchet|Ratchet]]
+- [[kojo|Kojo]]
+- [[pyrrhus|Pyrrhus]]
 
 Other high-signal:
-- [[Lady Ignis]] (Harmony power structure)
-- [[Rill]] (Mizizi researcher; important thread)
-- [[Serra Vox]] / [[Valerius Sterling]] (student politics/rivals)
+- [[lady-ignis|Lady Ignis]] (Harmony power structure)
+- [[rill|Rill]] (Mizizi researcher; important thread)
+- [[serra-vox|Serra Vox]] / [[valerius-sterling|Valerius Sterling]] (student politics/rivals)
 
 Canonical list lives at: `characters/index.md`
 

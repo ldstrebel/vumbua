@@ -38,5 +38,5 @@ A Copper-rank student tried to net one near the docks. He is now in the infirmar
 
 ### Related Pages
 
-- [[The Bleed]] — Dissolution creates memory-echo phenomena
-- [[Trench-Kin]] — Clan perspective calls these "Soul-Drifters"
+- [[the-bleed|The Bleed]] — Dissolution creates memory-echo phenomena
+- [[trench-kin|Trench-Kin]] — Clan perspective calls these "Soul-Drifters"

@@ -10,7 +10,7 @@ tags:
 # Cinder-4
 
 **Role:** Squad 06 (The Kiln) - Captain
-**Affiliation:** [[Vumbua Academy]], [[Ash-Bloods|Ash-Blood]] / Construct
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], [[Ash-Bloods|Ash-Blood]] / Construct
 **Status:** Active
 
 ## Overview
@@ -22,7 +22,7 @@ Leader of Squad 06, "The Kiln." A Warforged/Construct powered by an internal fla
 
 ## Related Pages
 
-- [[Hearth]] — Squad 06 Support
-- [[Kindle]] — Squad 06 Striker
-- [[Ash-Bloods]] — Clan technology connection
-- [[Vumbua Academy]] — Current posting
+- [[hearth|Hearth]] — Squad 06 Support
+- [[kindle|Kindle]] — Squad 06 Striker
+- [[ash-bloods|Ash-Bloods]] — Clan technology connection
+- [[vumbua-academy|Vumbua Academy]] — Current posting

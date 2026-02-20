@@ -7,7 +7,7 @@ tags:
 # Pudge
 
 **Role:** Squad 09 (The Ablative) - Member (Rust Tier)
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -34,12 +34,12 @@ His mother's copper cooking spoon, which he carries in his boot.
 Cowardice. He will betray almost anyone for a hot meal.
 
 ### Planning Notes
-In the lore dump, Pudge was hovering near the [[Mizizi]] Help Desk---not for the math, but because he realized the Mizizi bring "Life-Capsules" (concentrated nutrients) that Harmony doesn't track as food.
+In the lore dump, Pudge was hovering near the [[mizizi|Mizizi]] Help Desk---not for the math, but because he realized the Mizizi bring "Life-Capsules" (concentrated nutrients) that Harmony doesn't track as food.
 
 ## Related Pages
 
-- [[Sarge]] — Squad 09 Captain
-- [[Lucky]] — Squad 09 member
-- [[Kojo]] — Help Desk tutor where he hovered
-- [[Mizizi]] — Source of the "Life-Capsules" rumor
-- [[Vumbua Academy]] — Current posting
+- [[sarge|Sarge]] — Squad 09 Captain
+- [[lucky|Lucky]] — Squad 09 member
+- [[kojo|Kojo]] — Help Desk tutor where he hovered
+- [[mizizi|Mizizi]] — Source of the "Life-Capsules" rumor
+- [[vumbua-academy|Vumbua Academy]] — Current posting

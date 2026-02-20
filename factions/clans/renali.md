@@ -13,12 +13,12 @@ tags:
 
 ## What Players Know
 
-The Renali are known to exist but are elusive. They rarely land, making them a curiosity rather than a political force. Most [[Vumbua Academy]] students assume [[Zephyr]]---the energetic newcomer who arrived via the last Exchange Ritual---is an eccentric Renali pilot. They ride massive insects called Air-Bees and live on floating islands in the "Vapor Sea."
+The Renali are known to exist but are elusive. They rarely land, making them a curiosity rather than a political force. Most [[vumbua-academy|Vumbua Academy]] students assume [[zephyr|Zephyr]]---the energetic newcomer who arrived via the last Exchange Ritual---is an eccentric Renali pilot. They ride massive insects called Air-Bees and live on floating islands in the "Vapor Sea."
 
 ### Source References
 
 - **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]]'s Sixfold Theory referenced Air clans as one of the missing pieces *(Scene 4: The Speculators)*
-- **[[session-02|Session 2]]** — [[Zephyr]]'s purple lightning bolt suggested Storm-Kin abilities; students assume she is Renali *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — [[zephyr|Zephyr]]'s purple lightning bolt suggested Storm-Kin abilities; students assume she is Renali *(Scene 7: The Lightning)*
 
 ---
 
@@ -69,7 +69,7 @@ The Academy is heavy. It sits on the ground. It disgusts the Renali. But they kn
 
 ### Zephyr's Secret
 
-Most students assume [[Zephyr]] is Renali. She is actually **[[Fulgur-Born]] (Storm-Chaser)**---a completely different storm-based faction from the north. Only [[Dean Isolde Vane|Dean Vane]] knows her true origin. The Renali themselves remain largely uncontacted.
+Most students assume [[zephyr|Zephyr]] is Renali. She is actually **[[fulgur-born|Fulgur-Born]] (Storm-Chaser)**---a completely different storm-based faction from the north. Only [[Dean Isolde Vane|Dean Vane]] knows her true origin. The Renali themselves remain largely uncontacted.
 
 ### The Shattered Circuit Role
 
@@ -77,4 +77,4 @@ In [[Dean Isolde Vane|Dean Vane]]'s theory, the Renali are **The Architects (Vis
 
 ### The Lost Symbiosis
 
-The Renali were once bonded with the [[Wadi]] ([[Wadi|River Clan]]). Their air sustained the Wadi's underwater homes. When the Renali retreated to higher altitudes, the rivers dried up. Restoring this connection is one of the keys to the Shattered Circuit.
+The Renali were once bonded with the [[wadi|Wadi]] ([[Wadi|River Clan]]). Their air sustained the Wadi's underwater homes. When the Renali retreated to higher altitudes, the rivers dried up. Restoring this connection is one of the keys to the Shattered Circuit.

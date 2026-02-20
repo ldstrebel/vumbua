@@ -12,7 +12,7 @@ aliases:
 
 ## Quick Summary
 
-The largest intake class in [[Vumbua Academy]] history begins with 100,000 candidates taking the entrance trials. Five unlikely students—two [[mizizi|Mizizi]] cousins, an [[Ash-Bloods|Ash-Blood]] pilgrim, a Harmony boiler worker, and a mysterious [[Trench-Kin|Earthkin]]—meet during the chaos of intake and are drawn together by fate, curiosity, and a bonfire invitation.
+The largest intake class in [[vumbua-academy|Vumbua Academy]] history begins with 100,000 candidates taking the entrance trials. Five unlikely students—two [[mizizi|Mizizi]] cousins, an [[Ash-Bloods|Ash-Blood]] pilgrim, a Harmony boiler worker, and a mysterious [[Trench-Kin|Earthkin]]—meet during the chaos of intake and are drawn together by fate, curiosity, and a bonfire invitation.
 
 ---
 
@@ -65,7 +65,7 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 
 **(RETURN TO TABLE)**
 
-**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the [[mizizi|Mycelium clan]] can now join the [[Vumbua Academy]] this year, and the two of you elected to join.
+**GM (LUKE S)** Now the next generation has come... the Paper Man has offered much more of the [[mizizi|Mycelium clan]] can now join the [[vumbua-academy|Vumbua Academy]] this year, and the two of you elected to join.
 
 **Player Discoveries:**
 - Harmony made contact 1-2 cycles ago
@@ -174,7 +174,7 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 **GM Notes:**
 > [!NOTE]
-> [[iggy|Iggy]] is actually [[Trench-Kin]] from deep ocean/earth. The pressure sensitivity, light sensitivity, and water emergence are all clues. Players don't know this yet.
+> [[iggy|Iggy]] is actually [[trench-kin|Trench-Kin]] from deep ocean/earth. The pressure sensitivity, light sensitivity, and water emergence are all clues. Players don't know this yet.
 
 ---
 
@@ -240,7 +240,7 @@ Lomi walks away, muttering. He recalls his family's advice: *"Someone's got to f
 
 ### Scene 8: The Trials
 
-**Location:** [[Vumbua Academy]] - Great Hall  
+**Location:** [[vumbua-academy|Vumbua Academy]] - Great Hall  
 **Time:** Intake Day  
 **NPCs:** 100,000 candidates
 
@@ -296,12 +296,12 @@ The players take the assessment (a meta-game survey).
 
 ### Party Relationships
 - [[britt|Britt]] and [[aggie|Aggie]] are cousins with shared mission
-- [[ignatius|Ignatius]] and [[iggy|Iggy]] will be roommates ([[Block 12]])
-- [[lomi|Lomi]] separate ([[Block 99]])
+- [[ignatius|Ignatius]] and [[iggy|Iggy]] will be roommates ([[block-12|Block 12]])
+- [[lomi|Lomi]] separate ([[block-99|Block 99]])
 - Group not yet fully formed
 
 ### World State Changes
-- [[Vumbua Academy]] has accepted largest intake class ever
+- [[vumbua-academy|Vumbua Academy]] has accepted largest intake class ever
 - 100,000 candidates, massive attrition expected
 - [[mizizi|Mizizi]]-Harmony pact active (forest destruction ongoing)
 - Trials complete, ranks assigned
@@ -315,8 +315,8 @@ The players take the assessment (a meta-game survey).
 
 ## Lore Updates
 
-- [x] Update [[Knowledge Tracker]] - Nothing new revealed to players
-- [x] Update [[Timeline]] - Intake Day added
+- [x] Update [[knowledge-tracker|Knowledge Tracker]] - Nothing new revealed to players
+- [x] Update [[timeline|Timeline]] - Intake Day added
 - [x] Create [[britt|Britt]] profile
 - [x] Create [[aggie|Aggie]] profile
 - [x] Create [[ignatius|Ignatius]] profile

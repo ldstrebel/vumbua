@@ -145,7 +145,7 @@ If you see something like a squad roster referenced before the Loom/team selecti
 
 ### Player Names vs Character Names
 - The AI will use **player names** (Sophie, Holly, etc.) for out-of-character moments
-- And **character names** ([[Britt]], [[Iggy]], etc.) for in-character dialogue
+- And **character names** ([[britt|Britt]], [[iggy|Iggy]], etc.) for in-character dialogue
 - If you prefer a different convention, just say so
 
 ---

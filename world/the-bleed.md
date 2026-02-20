@@ -35,8 +35,8 @@ The Bleed is what happens when the Great Stitching fails. If civilization stops 
 
 ### The Precedent: The Bleached Atoll
 
-In the Great Library, there exists a report titled *"The Bleached Atoll."* It details a small island found 50 years ago that had completely stagnated. When Harmony tried to integrate it, the island simply crumbled into dust. It was too far gone. This is the fate [[Dean Isolde Vane|Dean Vane]] fears for the [[Mizizi]] and Ash-Blood territories if they don't act fast.
+In the Great Library, there exists a report titled *"The Bleached Atoll."* It details a small island found 50 years ago that had completely stagnated. When Harmony tried to integrate it, the island simply crumbled into dust. It was too far gone. This is the fate [[Dean Isolde Vane|Dean Vane]] fears for the [[mizizi|Mizizi]] and Ash-Blood territories if they don't act fast.
 
 ### Connection to The Minimum
 
-As Harmony's power reserves dwindle, the Bleed creeps inward. The edges of Harmony's territory are already fraying. The [[Vane Lineage]] (Defenders) built walls to hold it back, but walls only slow the inevitable without new Stitches to stabilize reality.
+As Harmony's power reserves dwindle, the Bleed creeps inward. The edges of Harmony's territory are already fraying. The [[vane-lineage|Vane Lineage]] (Defenders) built walls to hold it back, but walls only slow the inevitable without new Stitches to stabilize reality.

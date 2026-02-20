@@ -20,19 +20,19 @@ If civilization stops expanding, the reality of claimed lands begins to dissolve
 
 ### The Crisis
 
-For centuries, Harmony had excess power. Now, for the first time, they are approaching [[The Minimum]]. If they dip below the threshold, Harmony tech will begin to lose charge.
+For centuries, Harmony had excess power. Now, for the first time, they are approaching [[the-minimum|The Minimum]]. If they dip below the threshold, Harmony tech will begin to lose charge.
 
 ### Source References
 
-- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[Iggy]] in the [[Walker-Core]] power room *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[iggy|Iggy]] in the [[walker-core|Walker-Core]] power room *(Scene 4: The Professor)*
 - **[[session-02|Session 2]]** — The party discussed leidian burning hotter and boiler-room failures *(Scene 6: Ash-Blood Politics)*
 
 ## Phenomena
 
 - [[the-bleed|The Bleed]] - Where reality dissolves at the map's edge
-- [[The Minimum]] - The energy crisis threatening all of Harmony
+- [[the-minimum|The Minimum]] - The energy crisis threatening all of Harmony
 - [[The Power System]] - [[The Power System|Global Amplitude]], Resonators, and Crystal Batteries
-- [[Pre-Stitch Artifacts]] - Ancient tech that works without magic
+- [[pre-stitch-artifacts|Pre-Stitch Artifacts]] - Ancient tech that works without magic
 
 ## Territory
 
@@ -46,13 +46,13 @@ Integration is the process of locking two disparate realities into a single flow
 2. **Outward Flow:** Harmony batteries power a local necessity in the new territory
 3. **The Lock:** When both flows occur, realities fuse and a Safe Lane opens
 
-See the [[Glossary]] for detailed term definitions.
+See the [[glossary|Glossary]] for detailed term definitions.
 
 ## Map Zones
 
 1. **The Vapor Sea:** The cloud layer separating the peaks. Requires airships or Air-Bees to cross.
 2. **The [[Wadi|Dry Vein]]:** The desert canyon of the Wadi ([[Wadi|River Clan]]).
-3. **The Petrifaction Fields:** Where the [[Mizizi]] live. A forest turned to stone, now overgrown with massive fungi.
-4. **The Obsidian Ridges:** Volcanic glass and magma. Home of the [[Ash-Bloods]].
-5. **The Abyssal Trench:** High-pressure underwater vents. Home of the [[Trench-Kin]].
+3. **The Petrifaction Fields:** Where the [[mizizi|Mizizi]] live. A forest turned to stone, now overgrown with massive fungi.
+4. **The Obsidian Ridges:** Volcanic glass and magma. Home of the [[ash-bloods|Ash-Bloods]].
+5. **The Abyssal Trench:** High-pressure underwater vents. Home of the [[trench-kin|Trench-Kin]].
 6. **Tartannen:** The mythical "First City" of the old empire, rumored to be somewhere in this sector.

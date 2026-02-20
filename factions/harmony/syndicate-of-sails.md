@@ -29,7 +29,7 @@ Not yet encountered directly. The Syndicate controls the flow of goods between N
 
 ### Agenda in Vumbua: Monopoly
 
-They know the Storm Chasers ([[Renali|Cloud-Kin]]/[[Fulgur-Born]]) control the jet streams. They want to find them *first* to secure exclusive trade rights to the high-altitude routes. Whoever controls the sky-highways controls all commerce.
+They know the Storm Chasers ([[Renali|Cloud-Kin]]/[[fulgur-born|Fulgur-Born]]) control the jet streams. They want to find them *first* to secure exclusive trade rights to the high-altitude routes. Whoever controls the sky-highways controls all commerce.
 
 ### The Black Market
 
@@ -37,4 +37,4 @@ The Syndicate operates through proxies, buying the loyalty of low-rank students 
 
 ### Key Agent
 
-**Broker Silas.** A slick fixer in the Celestial Lounge trying to buy the loyalty of Rust-tier students (like [[Lucky]]) to map the black market routes. He offers "favors" instead of cash---a new receipt, a better dorm assignment, a message delivered home.
+**Broker Silas.** A slick fixer in the Celestial Lounge trying to buy the loyalty of Rust-tier students (like [[lucky|Lucky]]) to map the black market routes. He offers "favors" instead of cash---a new receipt, a better dorm assignment, a message delivered home.

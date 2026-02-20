@@ -7,7 +7,7 @@ tags:
 # Hearth
 
 **Role:** Squad 06 (The Kiln) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -18,6 +18,6 @@ Member of Squad 06. Provides warmth and support, but can unleash devastating hea
 
 ## Related Pages
 
-- [[Cinder-4]] — Squad 06 Captain
-- [[Kindle]] — Squad 06 Striker
-- [[Vumbua Academy]] — Current posting
+- [[cinder-4|Cinder-4]] — Squad 06 Captain
+- [[kindle|Kindle]] — Squad 06 Striker
+- [[vumbua-academy|Vumbua Academy]] — Current posting

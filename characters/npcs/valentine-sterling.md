@@ -17,24 +17,24 @@ tags:
 | | |
 |---|---|
 | **Role** | Scion of House Sterling / Student / Squad 01 |
-| **Affiliation** | [[Vumbua Academy]], [[House Gilded]], Sterling Family |
+| **Affiliation** | [[vumbua-academy|Vumbua Academy]], [[house-gilded|House Gilded]], Sterling Family |
 | **Status** | Active |
 | **first Appearance** | [[session-01|Session 1]] |
 
 ## Overview
-Valentine is the Scion of House Sterling, son of the legendary explorer [[valentine-sterling-sr|Valentine Sterling Sr.]]. Unlike his rigid cousin [[Valerius Sterling]], Val is approachable, charming, and deeply embedded in the social fabric of the Academy.
+Valentine is the Scion of House Sterling, son of the legendary explorer [[valentine-sterling-sr|Valentine Sterling Sr.]]. Unlike his rigid cousin [[valerius-sterling|Valerius Sterling]], Val is approachable, charming, and deeply embedded in the social fabric of the Academy.
 
 ## Relationships
 - **[[valentine-sterling-sr|Valentine Sterling Sr.]]**: His father, the legendary explorer. Val inherited his father's charisma and love for the spotlight.
-- **[[Valerius Sterling]]**: His older cousin and the "Voice of Vumbua" Radio Host. Valerius has been at the academy for years.
-- **[[Ignatius]]**: Met in the courtyard after Intake. Val was amused by the soot/fire but hesitant to touch him.
+- **[[valerius-sterling|Valerius Sterling]]**: His older cousin and the "Voice of Vumbua" Radio Host. Valerius has been at the academy for years.
+- **[[ignatius|Ignatius]]**: Met in the courtyard after Intake. Val was amused by the soot/fire but hesitant to touch him.
 - **[[Serra Vox|Seraphina Vox]]:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
 - **The Party:** Rivals. He specifically targets them during assessments.
 
 ## Session Appearances
 
 ### Session 1
-- **The Courtyard Encounter:** Met [[Ignatius]] immediately after the intake exam.
+- **The Courtyard Encounter:** Met [[ignatius|Ignatius]] immediately after the intake exam.
 - **The Interaction:** Recognized Ignatius as an [[Ash-Bloods|Ash-Blood]].
 - **The Handshake:** Hesitated to shake hands ("Will your hand burn me?"), then wiped his hand of soot and stormed off, spitting.
 - **Vibe:** "Bridgerton-esque," but with a chaotic social energy.

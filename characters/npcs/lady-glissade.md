@@ -20,5 +20,5 @@ Mentioned in the "Ash-Blood NPCs" section, possibly a patron or a rival noble ho
 
 ## Related Pages
 
-- [[Harmony Prime]] — Harmony capital
-- [[Lady Ignis]] — Fellow Harmony noble
+- [[harmony-prime|Harmony Prime]] — Harmony capital
+- [[lady-ignis|Lady Ignis]] — Fellow Harmony noble

@@ -12,22 +12,22 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Renowned Explorer / Father of [[Valentine Sterling]] / Uncle of [[Valerius Sterling]] |
+| **Role** | Renowned Explorer / Father of [[valentine-sterling|Valentine Sterling]] / Uncle of [[valerius-sterling|Valerius Sterling]] |
 | **Affiliation** | House Sterling, Harmony |
 | **Status** | Active (or Retired/Legendary) |
 | **First Mentioned** | [[session-00|Session 0]] |
 
 ## Overview
-The father of [[Valentine Sterling]] and the famous uncle of [[Valerius Sterling]]. A legendary figure whose Shadow looms large over his family.
+The father of [[valentine-sterling|Valentine Sterling]] and the famous uncle of [[valerius-sterling|Valerius Sterling]]. A legendary figure whose Shadow looms large over his family.
 
 - **The Standard:** He represents the pinnacle of Harmony's "Explorer" ideal—disciplined, successful, and orderly.
 - **Hidden Obsession:** Beneath the polished exterior, he is driven by a need to solve "unsolvable" puzzles. When he can't, he moves on... to return later.
 
 ## The Secret of the Ruins
-During his expedition to the [[Mizizi Petrified Forest]], Valentine Sr. didn't just find the Mizizi. He spotted **massive, ancient ruins** deep within the petrified canopy—structures that predated the Mizizi.
+During his expedition to the [[mizizi-petrified-forest|Mizizi Petrified Forest]], Valentine Sr. didn't just find the Mizizi. He spotted **massive, ancient ruins** deep within the petrified canopy—structures that predated the Mizizi.
 
 He couldn't immediately decipher the Mizizi or reach the ruins, so he declared the integration "boring" and left. This was a lie. He intends to return to the forest, bypass the Mizizi integration politics, and claim the ruins for himself.
 
 ## Source References
 
-- **[[session-00|Session 0]]** — Known to the [[Mizizi]] as "The Paper Man"; arrived in sterile metal-studded outfit; discovered the [[Mizizi Petrified Forest]] one week before Captain Elara Thorne found the [[Ash-Blood Isles]] *(Scene 2: The Arrival of The Paper Man)*
+- **[[session-00|Session 0]]** — Known to the [[mizizi|Mizizi]] as "The Paper Man"; arrived in sterile metal-studded outfit; discovered the [[mizizi-petrified-forest|Mizizi Petrified Forest]] one week before Captain Elara Thorne found the [[ash-blood-isles|Ash-Blood Isles]] *(Scene 2: The Arrival of The Paper Man)*

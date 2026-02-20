@@ -33,14 +33,14 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 
 | Location | Description |
 |---|---|
-| [[Block 04]] | [[Mizizi]] dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
-| [[Block 12]] | Standard dorms. Classic Academy housing. [[Iggy]] and [[Ignatius]]'s room. |
-| [[Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[Lomi]]'s assignment. Site of the bonfire. |
+| [[block-04|Block 04]] | [[mizizi|Mizizi]] dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
+| [[block-12|Block 12]] | Standard dorms. Classic Academy housing. [[iggy|Iggy]] and [[ignatius|Ignatius]]'s room. |
+| [[block-99|Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[lomi|Lomi]]'s assignment. Site of the bonfire. |
 | **Greek Row** | Posh social clubs for Gold-tier students. |
 | **The Clan Assistance Office** | Where clan students get support navigating Harmony bureaucracy. |
 | **The Great Library** | Massive archive. Contains the "Bleached Atoll" report. |
-| **The Industrial Zone** | Where cranes drop construction materials. [[Iggy]] climbed a crane here. |
-| **The Bonfire Pit** | Outside [[Block 99]]. Where [[Serra Vox]] invited the party for [[session-02|Session 2]]. |
+| **The Industrial Zone** | Where cranes drop construction materials. [[iggy|Iggy]] climbed a crane here. |
+| **The Bonfire Pit** | Outside [[block-99|Block 99]]. Where [[serra-vox|Serra Vox]] invited the party for [[session-02|Session 2]]. |
 
 ---
 
@@ -57,7 +57,7 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 
 ### The Loom
 
-A massive crystal computer in the [[Walker-Core]].It calculates probabilities and assigns ranks. It can identify "High-Variance" outliers (the Savant Loophole) who solve problems using unsanctioned methods.
+A massive crystal computer in the [[walker-core|Walker-Core]].It calculates probabilities and assigns ranks. It can identify "High-Variance" outliers (the Savant Loophole) who solve problems using unsanctioned methods.
 
 ### The Receipt System
 
@@ -65,11 +65,11 @@ The *only* official proof of status. A narrow strip of parchment printed by 1920
 
 ### The Desperate Truth
 
-Vumbua teleported for the first time in a century because a deep-scan revealed two faint pulses---the [[Ash-Bloods]] (Heat) and the [[Mizizi]] (Memory). If this expedition fails, the Academy cannot travel back. They are stranded.
+Vumbua teleported for the first time in a century because a deep-scan revealed two faint pulses---the [[ash-bloods|Ash-Bloods]] (Heat) and the [[mizizi|Mizizi]] (Memory). If this expedition fails, the Academy cannot travel back. They are stranded.
 
 ## Source References
 
 - **[[session-00|Session 0]]** — 1920s recruitment poster aesthetic; exploration fever established *(Scene 8: The Trials)*
-- **[[session-01|Session 1]]** — Courtyard reveal of the three Cores; intake exam; [[Dean Isolde Vane]]'s welcome speech *(Scenes 4–8)*
-- **[[session-02|Session 2]]** — [[Block 99]] bonfire; social dynamics established; [[Celestial Lounge]] trip *(Scenes 1–9)*
-- **[[session-02.5|Session 2.5]]** — [[Walker-Core]] power plant interior; [[professor-kante|Professor Kante]]'s research *(Scenes 2–6)*
+- **[[session-01|Session 1]]** — Courtyard reveal of the three Cores; intake exam; [[dean-isolde-vane|Dean Isolde Vane]]'s welcome speech *(Scenes 4–8)*
+- **[[session-02|Session 2]]** — [[block-99|Block 99]] bonfire; social dynamics established; [[celestial-lounge|Celestial Lounge]] trip *(Scenes 1–9)*
+- **[[session-02.5|Session 2.5]]** — [[walker-core|Walker-Core]] power plant interior; [[professor-kante|Professor Kante]]'s research *(Scenes 2–6)*

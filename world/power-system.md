@@ -19,9 +19,9 @@ Harmony runs on ether---a pervasive energy field that flows through integrated l
 
 - **[[session-02|Session 2]]** — Leidian properties discussed: 80% hotter per gram, halflife oscillation, distance decay *(Scene 6: Ash-Blood Politics)*
 - **[[session-02|Session 2]]** — Boiler room uses both crystal batteries and leidian *(Scene 6)*
-- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the Night of Sparks to [[Iggy]] *(Scene 4: The Professor)*
-- **[[session-02.5|Session 2.5]]** — [[Iggy]] sketched the Panda 5 resonator batteries; decoded their design philosophy *(Scene 3: The Warehouse)*
-- **[[session-02.5|Session 2.5]]** — Kante gave [[Iggy]] an umber crystal; explained integration works through cultural connection *(Scene 5: The Theory)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the Night of Sparks to [[iggy|Iggy]] *(Scene 4: The Professor)*
+- **[[session-02.5|Session 2.5]]** — [[iggy|Iggy]] sketched the Panda 5 resonator batteries; decoded their design philosophy *(Scene 3: The Warehouse)*
+- **[[session-02.5|Session 2.5]]** — Kante gave [[iggy|Iggy]] an umber crystal; explained integration works through cultural connection *(Scene 5: The Theory)*
 
 ---
 
@@ -49,7 +49,7 @@ The **Global Amplitude** is the total ether energy available across all of Harmo
 
 ### The Resonators (House Gilded)
 
-The original power infrastructure, built by [[House Gilded]] during Era 1.
+The original power infrastructure, built by [[house-gilded|House Gilded]] during Era 1.
 
 **How They Work:**
 - **Chime Spires** are musical, almost organ-like structures mounted on buildings
@@ -60,7 +60,7 @@ The original power infrastructure, built by [[House Gilded]] during Era 1.
 **Limitation:**
 - No surge protection. Whatever the Global Amplitude is, that's what flows through
 - When a major node integrated ~400 years ago and the amplitude jumped 30%, every resonator in Harmony overloaded simultaneously
-- This was the **Night of Sparks**---massive fires, infrastructure destruction, and the near-ruin of [[House Gilded]]
+- This was the **Night of Sparks**---massive fires, infrastructure destruction, and the near-ruin of [[house-gilded|House Gilded]]
 
 ### The Vox Crystal Batteries (House Vox)
 
@@ -98,7 +98,7 @@ Developed after the Night of Sparks using **umber crystals** mined from **Umbra 
 
 This is the central mystery that [[professor-kante|Professor Kante]] is investigating (revealed in [[session-02.5|Session 2.5]]):
 
-**Expected:** A major node integration (like the [[Ash-Bloods]]) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
+**Expected:** A major node integration (like the [[ash-bloods|Ash-Bloods]]) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
 
 **Actual:** The Ash-Blood integration produced only a ~20 amp increase---barely better than a minor node discovered 80 years ago.
 
@@ -113,7 +113,7 @@ This is the central mystery that [[professor-kante|Professor Kante]] is investig
 The Shattered Circuit theory predicts that when ALL SIX ancient clans are fully integrated, the Global Amplitude will spike to **2,000+**---far beyond anything in recorded history. This would be catastrophic for current infrastructure:
 
 - **Vox Crystal Batteries will shatter:** The Panda line is rated at 550 amps. Even the scrapped Apex 1 was only designed for 900-1,400. A 2,000+ surge would overwhelm every crystal battery in Harmony, repeating the Night of Sparks on a vastly larger scale.
-- **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with [[Trench-Kin]] grounding to safely absorb and distribute the surge.
+- **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with [[trench-kin|Trench-Kin]] grounding to safely absorb and distribute the surge.
 - **The paradox:** Harmony must integrate all six clans to survive, but doing so will destroy the very battery infrastructure keeping the lights on---unless they solve the surge problem first.
 
 ### The Ticking Clock
@@ -128,5 +128,5 @@ If the Global Amplitude continues to decline:
 
 - [[the-minimum|The Minimum]] — The energy crisis threatening Harmony
 - [[professor-kante|Professor Kante]] — Investigating the Ash-Blood Anomaly
-- [[Ash-Bloods]] — First major integration in 80 years
-- [[Walker-Core]] — Houses the power plant where [[Iggy]] discovered the Panda 5 batteries
+- [[ash-bloods|Ash-Bloods]] — First major integration in 80 years
+- [[walker-core|Walker-Core]] — Houses the power plant where [[iggy|Iggy]] discovered the Panda 5 batteries

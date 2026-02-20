@@ -9,7 +9,7 @@ aliases:
 # "Wall" Maria
 
 **Role:** Squad 02 (The Breakers) - Tank
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -21,6 +21,6 @@ The defensive anchor of Squad 02. She is an immovable object in combat simulatio
 
 ## Related Pages
 
-- [[Iron-Jaw Jax]] — Squad 02 Captain
-- [[Brawn]] — Squad 02 Heavy Hitter
-- [[Vumbua Academy]] — Current posting
+- [[iron-jaw-jax|Iron-Jaw Jax]] — Squad 02 Captain
+- [[brawn|Brawn]] — Squad 02 Heavy Hitter
+- [[vumbua-academy|Vumbua Academy]] — Current posting

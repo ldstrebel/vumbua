@@ -20,10 +20,10 @@ tags:
 
 |                      |                                      |
 | -------------------- | ------------------------------------ |
-| **Origin**           | [[Vane Lineage]] (House Vane)        |
-| **Rank**             | Dean of [[Vumbua Academy]]           |
-| **Affiliation**      | [[Vumbua Academy]], [[Vane Lineage]] |
-| **Location**         | [[Sky-Spire]]                        |
+| **Origin**           | [[vane-lineage|Vane Lineage]] (House Vane)        |
+| **Rank**             | Dean of [[vumbua-academy|Vumbua Academy]]           |
+| **Affiliation**      | [[vumbua-academy|Vumbua Academy]], [[vane-lineage|Vane Lineage]] |
+| **Location**         | [[sky-spire|Sky-Spire]]                        |
 | **First Appearance** | [[session-01                         |
 
 
@@ -41,7 +41,7 @@ A small, energetic figure---comparable to a female Professor Heimerdinger from *
 
 ## Background
 
-Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|House Vane]]), which historically controls defense and walls. She has led the Academy through the 80-year Silent Era of no new discoveries and championed the relocation to the [[Ash-Blood Isles]] 6 months ago.
+Dean of [[Vumbua Academy]] and member of the [[vane-lineage|Vane Lineage]] ([[Vane Lineage|House Vane]]), which historically controls defense and walls. She has led the Academy through the 80-year Silent Era of no new discoveries and championed the relocation to the [[ash-blood-isles|Ash-Blood Isles]] 6 months ago.
 
 ## Session Appearances
 
@@ -49,21 +49,21 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 
 - Bounced onto stage in the Great Hall to welcome the 100,000-strong intake class
 - Gave an enthusiastic, scattered speech about the end of the 80-year silence and the excitement of new discoveries
-- Praised the [[Ash-Bloods]] for "mastery of heat" and the [[Mizizi]], admitting "we don't really know what they do, and that's amazing!"
+- Praised the [[ash-bloods|Ash-Bloods]] for "mastery of heat" and the [[mizizi|Mizizi]], admitting "we don't really know what they do, and that's amazing!"
 - Casually announced 20,000 more students would be cut by end of the week
 - Forgot to introduce herself, then popped back out from behind the curtain: "Oh! I'm Dean. I'm Dean Isolde! If you need me... well, I'm kind of busy."
-- [[Rill]] (the Dean's assistant) leaned out, pulled her back behind the curtain with a familiar, comfortable dynamic
-- [[Britt]]'s immediate reaction: "I don't trust this f***ing guy." (mistaking her gender or just expressing suspicion)
+- [[rill|Rill]] (the Dean's assistant) leaned out, pulled her back behind the curtain with a familiar, comfortable dynamic
+- [[britt|Britt]]'s immediate reaction: "I don't trust this f***ing guy." (mistaking her gender or just expressing suspicion)
 
 ### Session 2
 
-- Not present on screen. [[Serra Vox]] identified [[Rill]] as the person who pulled the Dean off stage.
+- Not present on screen. [[serra-vox|Serra Vox]] identified [[rill|Rill]] as the person who pulled the Dean off stage.
 
 ## Source References
 
 - **[[session-01|Session 1]]** — Welcome speech in the Great Hall; scattered, bouncy delivery *(Scene 6: The Dean's Welcome)*
-- **[[session-01|Session 1]]** — Forgot to introduce herself; [[Rill]] pulled her backstage *(Scene 6)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] identifies [[Rill]] as the Dean's handler *(Scene 3)*
+- **[[session-01|Session 1]]** — Forgot to introduce herself; [[rill|Rill]] pulled her backstage *(Scene 6)*
+- **[[session-02|Session 2]]** — [[serra-vox|Serra Vox]] identifies [[rill|Rill]] as the Dean's handler *(Scene 3)*
 
 ## Relationships
 
@@ -96,7 +96,7 @@ The massive intake class (largest in history) just happened to fall on her long 
 
 ### Political Tension
 
-Lord Commander Titus Vane ([[Vane Lineage]]) wants aggressive expansion tactics - meaining risky not violent. Dean Isolde favors empathy and integration through cultural connection. This tension within her own family lineage is an ongoing pressure.
+Lord Commander Titus Vane ([[vane-lineage|Vane Lineage]]) wants aggressive expansion tactics - meaining risky not violent. Dean Isolde favors empathy and integration through cultural connection. This tension within her own family lineage is an ongoing pressure.
 
 ### The Loom
 

@@ -10,34 +10,34 @@ tags:
 | | |
 |---|---|
 | **Role** | Squad 09 (The Ablative) - Captain (Rust Tier) |
-| **Affiliation** | [[Vumbua Academy]], "The Engine Room" |
-| **Location** | [[Block 99]] area |
+| **Affiliation** | [[vumbua-academy|Vumbua Academy]], "The Engine Room" |
+| **Location** | [[block-99|Block 99]] area |
 | **Status** | Active |
 | **Archetype** | The Safety Inspector |
 | **First Appearance** | [[session-01\|Session 1]] |
 
 ## Overview
-"Sarge" is a Rust-tier veteran, likely an older student or a TA/Worker who keeps getting pulled into squads to keep them alive. He works in the boiler rooms with [[Lomi]]---they know each other from the workers' campfire social hours.
+"Sarge" is a Rust-tier veteran, likely an older student or a TA/Worker who keeps getting pulled into squads to keep them alive. He works in the boiler rooms with [[lomi|Lomi]]---they know each other from the workers' campfire social hours.
 
 ## Session Appearances
 
 ### Session 1
-- Recognized [[Lomi]] coming out of the exams: *"Loaves? Loaves, we made it. Can you believe it?"*
+- Recognized [[lomi|Lomi]] coming out of the exams: *"Loaves? Loaves, we made it. Can you believe it?"*
 - Admitted he barely passed: *"I just looked at the typewriter. Seems about right."*
 - Overwhelmed but doing it "for the lads"
 
 ### Session 2
-- At the Block 99 bonfire, leaning against a wall watching [[Lucky]] sell Engine Grease, kicking empty bottles disapprovingly
+- At the Block 99 bonfire, leaning against a wall watching [[lucky|Lucky]] sell Engine Grease, kicking empty bottles disapprovingly
 
 ## Personality
-- **Not Bitter, Protective:** He isn't bitter about his station; he's protective. He warns [[Ignatius]] about his fire because he's seen unchecked energy kill good people.
+- **Not Bitter, Protective:** He isn't bitter about his station; he's protective. He warns [[ignatius|Ignatius]] about his fire because he's seen unchecked energy kill good people.
 - **Goal:** Wants his squad to survive the physics of the world, avoiding the politics.
-- Disapproves of [[Lucky]]'s hustling but doesn't intervene directly
+- Disapproves of [[lucky|Lucky]]'s hustling but doesn't intervene directly
 
 ## Source References
 
-- **[[session-01|Session 1]]** — Recognized [[Lomi]] after the exams: *"Loaves? Loaves, we made it"* *(Scene 8: The Punch Cards)*
-- **[[session-02|Session 2]]** — Leaning against a wall at the [[Block 99]] bonfire, watching [[Lucky]] disapprovingly *(Scene 8: Grinder Talk)*
+- **[[session-01|Session 1]]** — Recognized [[lomi|Lomi]] after the exams: *"Loaves? Loaves, we made it"* *(Scene 8: The Punch Cards)*
+- **[[session-02|Session 2]]** — Leaning against a wall at the [[block-99|Block 99]] bonfire, watching [[lucky|Lucky]] disapprovingly *(Scene 8: Grinder Talk)*
 
 ---
 

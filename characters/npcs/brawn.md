@@ -7,7 +7,7 @@ tags:
 # Brawn
 
 **Role:** Squad 02 (The Breakers) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -19,6 +19,6 @@ The third member of "The Breakers," fulfilling the role of heavy hitter.
 
 ## Related Pages
 
-- [[Iron-Jaw Jax]] — Squad 02 Captain
-- [[Maria Wall]] — Squad 02 Tank
-- [[Vumbua Academy]] — Current posting
+- [[iron-jaw-jax|Iron-Jaw Jax]] — Squad 02 Captain
+- [[maria-wall|Maria Wall]] — Squad 02 Tank
+- [[vumbua-academy|Vumbua Academy]] — Current posting

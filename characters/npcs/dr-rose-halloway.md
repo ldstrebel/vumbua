@@ -10,7 +10,7 @@ tags:
 # Dr. Rose Halloway
 
 **Role:** Squad 05 (The Harvesters) - Captain / Druid
-**Affiliation:** [[Vumbua Academy]], [[Mizizi]] (expatriate?)
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], [[mizizi|Mizizi]] (expatriate?)
 **Status:** Active
 
 ## Overview
@@ -22,9 +22,9 @@ Leader of Squad 05, "The Harvesters." A specialist in flora and organic manipula
 
 ## Related Pages
 
-- [[Silas Thorne]] — Squad 05 member
-- [[Bramble]] — Squad 05 Tank
-- [[Mizizi]] — Possible clan affiliation
-- [[Mizizi Petrified Forest]] — The forest her squad may study
-- [[Rot-Shepherd]] — Retaliated against her lab after she burned perimeter "weeds"
-- [[Vumbua Academy]] — Current posting
+- [[silas-thorne|Silas Thorne]] — Squad 05 member
+- [[bramble|Bramble]] — Squad 05 Tank
+- [[mizizi|Mizizi]] — Possible clan affiliation
+- [[mizizi-petrified-forest|Mizizi Petrified Forest]] — The forest her squad may study
+- [[rot-shepherd|Rot-Shepherd]] — Retaliated against her lab after she burned perimeter "weeds"
+- [[vumbua-academy|Vumbua Academy]] — Current posting

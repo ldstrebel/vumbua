@@ -30,7 +30,7 @@ The elders have been increasingly terrified, convinced that this fulfills the an
 
 ### The Pact with Harmony
 
-When Harmony's explorers arrived---led by **[[valentine-sterling-sr|Valentine Sterling Sr.]]** (known to the Mizizi as "[[valentine-sterling-sr|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[Ash-Blood Isles]], but he quickly moved on. Publicly, he claimed integration work bored him. In truth, he was frustrated by the Mizizi's inscrutable nature and had spotted **something else** (Ruins) he wanted to investigate later, without the burden of diplomacy.
+When Harmony's explorers arrived---led by **[[valentine-sterling-sr|Valentine Sterling Sr.]]** (known to the Mizizi as "[[valentine-sterling-sr|The Paper Man]]" for his sterile metal-studded outfit)---they offered something the Mizizi desperately wanted: **tools to destroy the forest**. Sterling had discovered the Mizizi one week before Captain Elara Thorne found the [[ash-blood-isles|Ash-Blood Isles]], but he quickly moved on. Publicly, he claimed integration work bored him. In truth, he was frustrated by the Mizizi's inscrutable nature and had spotted **something else** (Ruins) he wanted to investigate later, without the burden of diplomacy.
 
 Harmony provides:
 - Industrial solvents to dissolve the stone-wood
@@ -48,24 +48,24 @@ The Mizizi see this as a chance to **restart the cycle of death** that has stall
 
 ### The Academy Opportunity
 
-This year, far more Mizizi were invited to join [[Vumbua Academy]] than ever before. Many young clan members (including [[britt|Britt]] and [[aggie|Aggie]]) elected to go, seeing it as:
+This year, far more Mizizi were invited to join [[vumbua-academy|Vumbua Academy]] than ever before. Many young clan members (including [[britt|Britt]] and [[aggie|Aggie]]) elected to go, seeing it as:
 - A chance to understand Harmony's true motives
 - An opportunity to find answers about why the forest failed
 - A way to help their people survive
 
 ### Known Mizizi at Vumbua
 
-- **[[Britt]]** - Gray, dusty fungal-turtle. Outspoken, suspicious of Harmony
-- **[[Aggie]]** - Red-and-white spotted mushroom-turtle. More reserved cousin of Britt
-- **[[Rill]]** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [[Rill]])
+- **[[britt|Britt]]** - Gray, dusty fungal-turtle. Outspoken, suspicious of Harmony
+- **[[aggie|Aggie]]** - Red-and-white spotted mushroom-turtle. More reserved cousin of Britt
+- **[[rill|Rill]]** - A mysterious researcher who left the forest 2 years ago. Publicly viewed as a "Lost One" or traitor. (See [[rill|Rill]])
 
 ### Source References
 
-- **[[session-00|Session 0]]** — [[Valentine Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
+- **[[session-00|Session 0]]** — [[valentine-sterling-sr|Valentine Sterling Sr.]] arrived at the [[Mizizi Petrified Forest|Petrified Forest]] as "The Paper Man" *(Scene 2: The Arrival of The Paper Man)*
 - **[[session-00|Session 0]]** — [[britt|Britt]] and [[aggie|Aggie]] established as Mizizi clan members *(Character Creation)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 3: Cultural Exchange)*
+- **[[session-02|Session 2]]** — [[serra-vox|Serra Vox]] noted the Mizizi forest has no clear "purpose" unlike other nodes *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — Mizizi view death as natural; Harmony culture fears death *(Scene 3)*
-- **[[session-02|Session 2]]** — [[Rill]] recognized [[britt|Britt]] and [[aggie|Aggie]]; invited them to visit *(Scene 4)*
+- **[[session-02|Session 2]]** — [[rill|Rill]] recognized [[britt|Britt]] and [[aggie|Aggie]]; invited them to visit *(Scene 4)*
 
 ### Cultural Notes
 
@@ -142,7 +142,7 @@ The Mizizi Node remains at only **15% integration** because Harmony has failed t
 
 - **Exploranaut Mosi** (first Mizizi Council member) spends his days decoding "Tree-Rings" of logs scheduled for the furnace
 - He's building a fragmentary understanding by reading what's about to be destroyed
-- **[[Rill]]** (the [[Wadi]] researcher) has made a breakthrough but needs a Mizizi partner to verify
+- **[[rill|Rill]]** (the [[wadi|Wadi]] researcher) has made a breakthrough but needs a Mizizi partner to verify
 - The clock is ticking—every day, more logs go into the furnace
 
 ### What Will Happen When Players Discover This
@@ -158,10 +158,10 @@ The Mizizi Elder Council will feel **betrayed** by Harmony when they learn—not
 
 The Mizizi represent **MEMORY** in the six-clan system:
 - Mizizi (Memory) - The Archivists
-- [[Ash-Bloods]] (Power) - The Engines
-- [[Trench-Kin]] (Resources) - The Miners
-- [[Renali]] (Vision) - The Architects
-- [[Wadi]] (Life) - The Sustainers
+- [[ash-bloods|Ash-Bloods]] (Power) - The Engines
+- [[trench-kin|Trench-Kin]] (Resources) - The Miners
+- [[renali|Renali]] (Vision) - The Architects
+- [[wadi|Wadi]] (Life) - The Sustainers
 - Harmony (Direction) - The Navigators
 
 Without the Mizizi archives, Harmony cannot understand:

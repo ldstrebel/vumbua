@@ -28,22 +28,22 @@ Key indexes used:
 ## Summary of edits applied (linking + canon)
 
 ### Session 00 (`session-00.md`)
-- Added/normalized wikilinks in quick summary (e.g. `[[Vumbua Academy]]`, `[[mizizi|Mizizi]]`, `[[Ash-Bloods|Ash-Blood]]`, `[[Trench-Kin|Earthkin]]`).
-- Fixed the **"Ember" location reference** so it no longer points at the NPC page (`[[Ember]]`). It now links to the Isles page alias via `[[ash-blood-isles|Ember]]` in **"The Ember Trail"** location line.
+- Added/normalized wikilinks in quick summary (e.g. `[[vumbua-academy|Vumbua Academy]]`, `[[mizizi|Mizizi]]`, `[[Ash-Bloods|Ash-Blood]]`, `[[Trench-Kin|Earthkin]]`).
+- Fixed the **"Ember" location reference** so it no longer points at the NPC page (`[[ember|Ember]]`). It now links to the Isles page alias via `[[ash-blood-isles|Ember]]` in **"The Ember Trail"** location line.
 - Linked the Petrified Forest location via `[[mizizi-petrified-forest|Petrified Forest]]`.
 
 ### Session 01 (`session-01.md`)
 - Added a consistent header and quick summary.
 - Removed a block of out-of-world meta text (“Here is Part 3…”) that wasn’t transcript content.
-- Canonicalized the preppy student from the raw-recording “Sarah Fox” reference to the vault’s NPC page: **[[Serra Vox]]**.
+- Canonicalized the preppy student from the raw-recording “Sarah Fox” reference to the vault’s NPC page: **[[serra-vox|Serra Vox]]**.
 - Added/normalized wikilinks for key proper nouns (blocks, NPCs, major locations).
 
 ### Session 02 (`session-02.md`)
-- Normalized key proper-noun links in the quick summary and scenes (e.g. `[[Block 99]]`, `[[Percy Vane-Smythe III]]`, `[[Lucky]]`, `[[Zephyr]]`, `[[Rill]]`, `[[Celestial Lounge]]`).
+- Normalized key proper-noun links in the quick summary and scenes (e.g. `[[block-99|Block 99]]`, `[[percival-vane-smythe-iii|Percy Vane-Smythe III]]`, `[[lucky|Lucky]]`, `[[zephyr|Zephyr]]`, `[[rill|Rill]]`, `[[celestial-lounge|Celestial Lounge]]`).
 - Canonicalized **Leidian** spelling:
   - `Lidian` → `[[Leidian]]` (matches `.agent/workflows/lore-index.md` and `locations/ash-blood-isles.md`).
 - Replaced out-of-vault terminology where appropriate:
-  - “Warforged” → “veteran” (only in descriptive narration; character/NPC page remains `[[Sarge]]`).
+  - “Warforged” → “veteran” (only in descriptive narration; character/NPC page remains `[[sarge|Sarge]]`).
 - Canonicalized Captain Thorne naming in-session:
   - “Allara Thorne” → `[[Captain Elara Thorne|Captain Elara Thorne]]` (note: Captain Elara Thorne is referenced in multiple docs but does not yet have a dedicated page).
 
@@ -51,7 +51,7 @@ Key indexes used:
 - Fixed typo: **Nick → John** (player name) in a sentence that is clearly referring to [[ignatius|Ignatius]].
 - Fixed typo: **Ignatious → Ignatius**.
 - Added/normalized wikilinks in quick summary + scene headers:
-  - `[[Block 99]]`, `[[Walker-Core]]`, `[[Tommy]]`, `[[Lucina]]`, `[[professor-kante|Professor Kante]]`, `[[The Power System|Global Amplitude]]`, `[[Celestial Lounge]]`, `[[Serra Vox|Serra]]`.
+  - `[[block-99|Block 99]]`, `[[walker-core|Walker-Core]]`, `[[tommy|Tommy]]`, `[[lucina|Lucina]]`, `[[professor-kante|Professor Kante]]`, `[[The Power System|Global Amplitude]]`, `[[celestial-lounge|Celestial Lounge]]`, `[[Serra Vox|Serra]]`.
 
 ### Cross-repo canon alignment (non-session files)
 - Canonicalized “Captain Aara Thorne” → **Captain Elara Thorne** in:
@@ -81,7 +81,7 @@ Key indexes used:
 - The canonical NPC page is **Seraphina “Serra” Vox** (`characters/npcs/serra-vox.md`) with alias `Serra Vox`.
 
 **Action taken:**
-- Cleaned session 01 uses `[[Serra Vox]]` / `[[Serra Vox|Serra]]` consistently.
+- Cleaned session 01 uses `[[serra-vox|Serra Vox]]` / `[[Serra Vox|Serra]]` consistently.
 
 ### 3) Leidian spelling drift (Lidian / Leidian)
 **Observed:**
@@ -101,7 +101,7 @@ Key indexes used:
 
 **Recommendation:**
 - Decide whether “Seed of Harmony” is:
-  1) an alias for `[[Harmony Prime]]` / “The Seat”, or
+  1) an alias for `[[harmony-prime|Harmony Prime]]` / “The Seat”, or
   2) a distinct concept/location (e.g. origin of umber crystals / proto-node / mythic site).
 
 If it’s (1), add the alias to `locations/harmony-prime.md`. If it’s (2), create a dedicated page.

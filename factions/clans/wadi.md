@@ -13,14 +13,14 @@ tags:
 
 ## What Players Know
 
-The Wadi are known to exist but are scarce. Their home Node is fading, so few travel to the Academy. Players know that [[Rill]]---the researcher who left the [[Mizizi Petrified Forest|Mizizi Forest]] two years ago---exists at [[Vumbua Academy]], but they do not know she is secretly Wadi.
+The Wadi are known to exist but are scarce. Their home Node is fading, so few travel to the Academy. Players know that [[rill|Rill]]---the researcher who left the [[Mizizi Petrified Forest|Mizizi Forest]] two years ago---exists at [[vumbua-academy|Vumbua Academy]], but they do not know she is secretly Wadi.
 
 ### Source References
 
-- **[[session-02|Session 2]]** — [[Rill]] appeared at the [[Block 99]] bonfire; managed [[Zephyr]] on the Dean's behalf *(Scene 7: The Lightning)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] called [[Rill]] "one of the greatest inventors in our age" *(Scene 3)*
+- **[[session-02|Session 2]]** — [[rill|Rill]] appeared at the [[block-99|Block 99]] bonfire; managed [[zephyr|Zephyr]] on the Dean's behalf *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — [[serra-vox|Serra Vox]] called [[rill|Rill]] "one of the greatest inventors in our age" *(Scene 3)*
 
-The Exchange Ritual historically connected the Wadi to the [[Trench-Kin]] through underwater shafts, maintaining genetic diversity between the water-aligned clans.
+The Exchange Ritual historically connected the Wadi to the [[trench-kin|Trench-Kin]] through underwater shafts, maintaining genetic diversity between the water-aligned clans.
 
 ---
 
@@ -49,7 +49,7 @@ Now they are dust-cacti people waiting for rain that never comes. They sacrifice
 
 ### The Lost Bond
 
-The Wadi were once inextricably linked to the [[Renali]] ([[Renali|Air Clan]]). They lived *inside* the river walls, breathing via air bubbles provided by the Renali. The collapse of this symbiosis is one of the great tragedies of the Shattered Circuit.
+The Wadi were once inextricably linked to the [[renali|Renali]] ([[Renali|Air Clan]]). They lived *inside* the river walls, breathing via air bubbles provided by the Renali. The collapse of this symbiosis is one of the great tragedies of the Shattered Circuit.
 
 ### Natural Adaptation
 
@@ -69,8 +69,8 @@ The Wadi view the steam pipes and decorative fountains as both a miracle and a s
 
 ### Rill's Secret
 
-[[Rill]] is the only known Wadi at [[Vumbua Academy]]. She entered the [[Mizizi]] Forest via the Exchange Ritual 6 years ago and integrated so perfectly that she passes as Mizizi. Her Wadi heritage gives her a different perspective on "Flow" and "Stagnation" than a true Mizizi---this perspective may be the key to unlocking the Mizizi integration.
+[[rill|Rill]] is the only known Wadi at [[vumbua-academy|Vumbua Academy]]. She entered the [[mizizi|Mizizi]] Forest via the Exchange Ritual 6 years ago and integrated so perfectly that she passes as Mizizi. Her Wadi heritage gives her a different perspective on "Flow" and "Stagnation" than a true Mizizi---this perspective may be the key to unlocking the Mizizi integration.
 
 ### The Shattered Circuit Role
 
-In [[Dean Isolde Vane|Dean Vane]]'s theory, the Wadi represent **Water**---the binding solvent that connects biological systems. Their reconnection with the [[Renali]] (Air) is essential to closing the full circuit.
+In [[Dean Isolde Vane|Dean Vane]]'s theory, the Wadi represent **Water**---the binding solvent that connects biological systems. Their reconnection with the [[renali|Renali]] (Air) is essential to closing the full circuit.

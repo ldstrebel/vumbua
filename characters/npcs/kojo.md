@@ -7,17 +7,17 @@ tags:
 # Kojo
 
 **Role:** Mizizi Student / Help Desk Tutor
-**Affiliation:** [[Vumbua Academy]], [[Mizizi]]
-**Location:** [[Vumbua Academy]] — Clan Assistance & Integration Help Desk
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], [[mizizi|Mizizi]]
+**Location:** [[vumbua-academy|Vumbua Academy]] — Clan Assistance & Integration Help Desk
 **Status:** Active
 
 ## Overview
-A [[Mizizi]] student who tutors at the Clan Assistance & Integration Help Desk, trying to explain "Geometric Syntax" (Mizizi root-logic math) to confused Harmony students.
+A [[mizizi|Mizizi]] student who tutors at the Clan Assistance & Integration Help Desk, trying to explain "Geometric Syntax" (Mizizi root-logic math) to confused Harmony students.
 
 ## Personality
 - Analytical, problem-solver
 - Freezes up when the city noise gets too loud (Social Paralysis)
-- Determined to prove [[Mizizi]] methods have value
+- Determined to prove [[mizizi|Mizizi]] methods have value
 
 ---
 
@@ -27,7 +27,7 @@ A [[Mizizi]] student who tutors at the Clan Assistance & Integration Help Desk, 
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Backstory
-The first [[Mizizi]] student to ever score Gold on the entry exam, but he was demoted to Silver after "administrative errors" by the Vanes.
+The first [[mizizi|Mizizi]] student to ever score Gold on the entry exam, but he was demoted to Silver after "administrative errors" by the Vanes.
 
 ### Bond
 A tiny bioluminescent seed from his home village that he keeps in a glass vial around his neck.
@@ -36,10 +36,10 @@ A tiny bioluminescent seed from his home village that he keeps in a glass vial a
 Social Paralysis. He freezes up when the city noise gets too loud.
 
 ### Motive
-To prove that [[Mizizi]] "Root-Logic" is more stable than Harmony's "Brass-Science."
+To prove that [[mizizi|Mizizi]] "Root-Logic" is more stable than Harmony's "Brass-Science."
 
 ## Related Pages
 
-- [[Mizizi]] — Clan affiliation
-- [[Mizizi Petrified Forest]] — Homeland
-- [[Vumbua Academy]] — Current posting
+- [[mizizi|Mizizi]] — Clan affiliation
+- [[mizizi-petrified-forest|Mizizi Petrified Forest]] — Homeland
+- [[vumbua-academy|Vumbua Academy]] — Current posting

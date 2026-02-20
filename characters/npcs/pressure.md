@@ -7,7 +7,7 @@ tags:
 # Pressure
 
 **Role:** Squad 07 (The Bathysphere) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -18,6 +18,6 @@ Member of Squad 07.
 
 ## Related Pages
 
-- [[Captain Barnacle]] — Squad 07 Captain
-- [[Depth]] — Squad 07 member
-- [[Vumbua Academy]] — Current posting
+- [[captain-barnacle|Captain Barnacle]] — Squad 07 Captain
+- [[depth|Depth]] — Squad 07 member
+- [[vumbua-academy|Vumbua Academy]] — Current posting

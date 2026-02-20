@@ -73,7 +73,7 @@ Use this workflow after each game session to properly document what happened.
      - Key events and actions
 
    **Speaker Attribution Rules:**
-   - Use **character name** ([[Iggy]], [[Britt]], [[Ignatius]], etc.) when speaking **in-character**
+   - Use **character name** ([[iggy|Iggy]], [[britt|Britt]], [[ignatius|Ignatius]], etc.) when speaking **in-character**
    - Use **player name** (Holly, Sophie, John, etc.) when speaking **out-of-character**
    - Determine IC vs OOC from context (tone, content, GM responses)
    - When uncertain, default to character name and flag for review
@@ -139,7 +139,7 @@ Use this workflow after each game session to properly document what happened.
 
 These are real errors that were made and corrected. Do not repeat them:
 
-1. **Smoothing PC dialect** — [[Iggy]]'s `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
+1. **Smoothing PC dialect** — [[iggy|Iggy]]'s `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
 
 2. **Smoothing NPC voice** — Kante's fumbled phrasing `"What do you like, know?"` was "corrected" to `"What do you know?"`. His broken English is his character.
 
