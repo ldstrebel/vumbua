@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "characters/npcs/valerius-sterling.md",
+                "file": "Session 3 Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "valerius-sterling"
+              "title": "Session 3 Plan"
             }
           }
         ],
@@ -127,7 +127,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "characters/npcs/valerius-sterling.md",
+            "file": "Session 3 Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -146,7 +146,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "characters/npcs/valerius-sterling.md",
+            "file": "Session 3 Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -160,7 +160,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "characters/npcs/valerius-sterling.md",
+            "file": "Session 3 Plan.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -187,8 +187,8 @@
   },
   "active": "4c5337443bae19a4",
   "lastOpenFiles": [
-    "Session 3 Plan.md",
     "characters/npcs/valerius-sterling.md",
+    "Session 3 Plan.md",
     "glossary.md",
     "CHANGELOG.md",
     "index.md",
