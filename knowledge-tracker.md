@@ -36,8 +36,7 @@ aliases:
 - ✅ Leidian has a halflife oscillation---heat tapers then rises again ([[session-02|Session 2]])
 - ✅ Leidian loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]] ([[session-02|Session 2]])
 - ✅ The boiler room uses both crystal batteries and leidian ([[session-02|Session 2]])
-- ✅ Boilers are exploding because leidian is too hot ([[session-02|Session 2]])
-
+- 
 ### Iggy Only ([[session-02.5|Session 2.5]] — via [[Professor Kante]])
 - 🔶 [[The Power System|Global Amplitude]] measures total ether energy across Harmony — increases with each node integration
 - 🔶 The Global Amplitude has been declining for 30-40 years (first decline in recorded history)
