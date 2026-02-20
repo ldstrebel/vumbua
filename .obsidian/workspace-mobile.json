@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CHANGELOG.md",
+                "file": "Session 3 Plan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "CHANGELOG"
+              "title": "Session 3 Plan"
             }
           }
         ]
@@ -49,12 +49,12 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Session 3 ",
+            "query": "Session 3",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "byModifiedTime"
           },
           "icon": "lucide-search",
           "title": "Search"
@@ -112,7 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "CHANGELOG.md",
+            "file": "Session 3 Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +131,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "CHANGELOG.md",
+            "file": "Session 3 Plan.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +145,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "CHANGELOG.md",
+            "file": "Session 3 Plan.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -170,25 +170,25 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "32470948bb477417",
+  "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "knowledge-tracker.md",
+    "Session 3 Plan.md",
+    "CHANGELOG.md",
     "glossary.md",
     "Ink/Drawing/2026.2.19 - 22.00pm.drawing",
-    "Session 3 Plan.md",
     "Ink/Drawing",
     "characters/npcs/valentine-sterling.md",
     "Ink/Writing/2026.2.19 - 21.42pm.writing",
     "Ink/Writing",
     "Ink",
     "characters/npcs/valerius-sterling.md",
-    "CHANGELOG.md",
     "index.md",
     "The Bleed.md",
     "Harmony Nodes.md",
     "Mizizi Petrified Forest.md",
     "timeline.md",
     "Vane Lineage.md",
-    "knowledge-tracker.md",
     "Professor Kante.md",
     "characters/npcs/professor-kante.md",
     "sessions/transcripts/clean/session-02.md",
