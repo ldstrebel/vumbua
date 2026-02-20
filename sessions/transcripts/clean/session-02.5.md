@@ -13,7 +13,7 @@ aliases:
 
 ## Quick Summary
 
-While the rest of the party socializes at the Block 99 bonfire, Iggy Irish-goodbyes and sneaks into the Academy's power plant. Inside, he meets Tommy (a gnome clerk), Lucina (a dwarf mechanic), and discovers the resonator battery infrastructure. Professor Kante, a tortoise professor of harmonics, finds Iggy sketching machinery and draws him into a deep conversation about the Global Amplitude, the Ash-Blood Anomaly, and the nature of Harmony's power — ending with an invitation to return and an umber crystal gift.
+While the rest of the party socializes at the [[Block 99]] bonfire, [[iggy|Iggy]] Irish-goodbyes and sneaks into the Academy's power plant ([[Walker-Core]]). Inside, he meets [[Tommy]] (a gnome clerk), [[Lucina]] (a dwarf mechanic), and discovers the resonator battery infrastructure. [[professor-kante|Professor Kante]], a tortoise professor of harmonics, finds Iggy sketching machinery and draws him into a deep conversation about the [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the nature of Harmony's power — ending with an invitation to return and an umber crystal gift.
 
 ---
 
@@ -21,13 +21,13 @@ While the rest of the party socializes at the Block 99 bonfire, Iggy Irish-goodb
 
 ### Scene 1: The Irish Goodbye
 
-**Location:** Block 99 Courtyard / Bonfire area  
+**Location:** [[Block 99]] Courtyard / Bonfire area  
 **NPCs Present:** (background crowd)  
 **Time:** Evening, Day 1
 
 *GM Narration:*
 
-[[iggy|Iggy]] has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with Serra, and the [[mizizi|Mizizi]] clan explaining why death is a part of life. As Nick — as [[ignatius|Ignatius]] got very excited about going to light the fire, and Ignatious was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
+[[iggy|Iggy]] has been socializing at the bonfire. He caught some of the conversation — the Ash-Blood population discussion (a couple hundred among 70,000 students), a nerdy guy by the fire who was poorly flirting with [[Serra Vox|Serra]], and the [[mizizi|Mizizi]] clan explaining why death is a part of life. As John — as [[ignatius|Ignatius]] got very excited about going to light the fire, and Ignatius was pulling people along — "come on, come on, let's go" — there was a moment where nobody was actively talking to Iggy.
 
 He just kind of Irish-goodbyed. Didn't say anything to anybody. Slipped away the moment he could sneak out without them noticing.
 
@@ -50,7 +50,7 @@ At the same time, something else caught his eye: just next to where the fire was
 
 ### Scene 2: The Lobby — Tommy and Lucina
 
-**Location:** Power Plant lobby, Walker-Core  
+**Location:** Power Plant lobby, [[Walker-Core]]  
 **NPCs Present:** [[Tommy]] (gnome clerk), [[Lucina]] (dwarf mechanic)  
 **Time:** Evening, Day 1
 
@@ -93,7 +93,7 @@ They both watched Iggy walk by. Neither of them really followed him. Lucina aske
 
 ### Scene 3: The Warehouse Floor
 
-**Location:** Power Plant main floor, Walker-Core  
+**Location:** Power Plant main floor, [[Walker-Core]]  
 **NPCs Present:** [[Marla]] (background, human maintenance worker)  
 **Time:** Evening, Day 1
 
@@ -377,7 +377,7 @@ Iggy takes the umber crystal back to his bunk. He pulls out his notebook and sta
 
 He scratches down five experiments he could run to test connection throughout the night with people — a little crossover from Kante's philosophy into practical testing.
 
-Eventually, the rest of the group returns from the bonfire and heads out for late-night drinks at the Celestial Lounge. Iggy has been up late, tinkering. He sees his new friends walk by, dawn-lit and heading out for more. He decides to join them — partly to distract himself from the conversation about connection buzzing in his head, and partly as a little experiment: testing connection with others.
+Eventually, the rest of the group returns from the bonfire and heads out for late-night drinks at the [[Celestial Lounge]]. Iggy has been up late, tinkering. He sees his new friends walk by, dawn-lit and heading out for more. He decides to join them — partly to distract himself from the conversation about connection buzzing in his head, and partly as a little experiment: testing connection with others.
 
 **Player Discoveries:**
 - **Umber crystals** are the core component of resonator batteries — Iggy now has one
@@ -389,7 +389,7 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 > [!NOTE]
 > Iggy now has a physical piece of the power infrastructure — an umber crystal. The GM noted they're heavy (Iggy couldn't have stolen a full battery), but this crystal is small enough to pocket.
 >
-> Holly's description of Iggy's night: he's creating models, sketching versions, trying to solve the unsolvable. He wants to put his hands on the problem. Five experiments to "test connection" throughout the night — using the Celestial Lounge outing as a field test for Kante's theory.
+> Holly's description of Iggy's night: he's creating models, sketching versions, trying to solve the unsolvable. He wants to put his hands on the problem. Five experiments to "test connection" throughout the night — using the [[Celestial Lounge]] outing as a field test for Kante's theory.
 
 ---
 
@@ -399,7 +399,7 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 - **[[iggy|Iggy]]:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
 
 ### Party Relationships
-- [[iggy|Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the Celestial Lounge trip
+- [[iggy|Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the [[Celestial Lounge]] trip
 - He noticed [[ignatius|Ignatius]] looking back at him — the connection is building even when Iggy wanders
 - Iggy is now running "connection experiments" with his new friends
 

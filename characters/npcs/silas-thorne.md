@@ -21,7 +21,7 @@ Silas Thorne is an older student (perhaps a repeating senior or lifelong learner
 ## Personality
 - Grumpy, cynical, but wise.
 - **Motivation:** He collects "Pre-Stitch" tech (combustion engines, kinetic weapons) not for greed, but because he believes they are the only things that will work when the magic/Venture fails.
-- **Connections:** Distant relation to [[Cassius Thorne]] (Squad 01) and Captain Aara Thorne.
+- **Connections:** Distant relation to [[Cassius Thorne]] (Squad 01) and Captain Elara Thorne.
 
 ## Mechanics
 - **Vendor:** Can procure rare "Rust" items or scavenged parts for the party.

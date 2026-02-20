@@ -49,7 +49,7 @@ Ignatius attended the **Stitching ceremony** where:
 ### What He Knows
 - Lady Ignis is now someone extremely important in Harmony
 - The volcano's reaction to the Integration was significant
-- Captain Aara Thorne discovered the [[Ash-Bloods|Ash Blood]] islands
+- Captain Elara Thorne discovered the [[Ash-Bloods|Ash Blood]] islands
 - The relationship should be a "partnership" not exploitation
 
 ### What He Questions

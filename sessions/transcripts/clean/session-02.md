@@ -13,7 +13,7 @@ aliases:
 
 ## Quick Summary
 
-The party gathers at the Block 99 Bonfire. Amidst the celebration, they encounter Percy Vane-Smythe III spinning theories about missing elemental clans. Lomi secures a case of "grease" (moonshine) from a dealer named Lucky. As the group bonds over their disparate cultures—specifically the Ash Bloods' relationship with heat and the Forest folk's pragmatic view of death—a mysterious girl named Zephyr drinks the moonshine and inadvertently summons a bolt of purple lightning. Rill, the Mizizi exchange student, appears to whisk Zephyr away, leaving the party with questions. They decide to cap the night by investigating the upscale Celestial Lounge.
+The party gathers at the [[Block 99]] Bonfire. Amidst the celebration, they encounter [[Percy Vane-Smythe III]] spinning theories about missing elemental clans. [[lomi|Lomi]] secures a case of "grease" (moonshine) from a dealer named [[Lucky]]. As the group bonds over their disparate cultures—specifically the [[Ash-Bloods|Ash-Bloods]]' relationship with heat and the [[mizizi|Mizizi]]' pragmatic view of death—a mysterious girl named [[Zephyr]] drinks the moonshine and inadvertently summons a bolt of purple lightning. [[Rill]], the Mizizi exchange student, appears to whisk Zephyr away, leaving the party with questions. They decide to cap the night by investigating the upscale [[Celestial Lounge]].
 
 ---
 
@@ -21,13 +21,13 @@ The party gathers at the Block 99 Bonfire. Amidst the celebration, they encounte
 
 ### Scene 1: The Bonfire Theories
 
-**Location:** Block 99 Bonfire  
+**Location:** [[Block 99]] Bonfire  
 **NPCs Present:** [[Percy Vane-Smythe III]], [[Bramble]], [[Sarge]] (background), [[Zephyr]]  
 **Time:** Evening
 
 *GM Narration:*
 
-As the party settles in, they overhear a heated argument. A well-dressed man, Percy Vane-Smythe III, is loudly proclaiming his theories to a skeptical crowd, including a Warforged named Sarge and a plant-like person named Bramble.
+As the party settles in, they overhear a heated argument. A well-dressed man, [[Percy Vane-Smythe III]], is loudly proclaiming his theories to a skeptical crowd, including a veteran named [[Sarge]] and a plant-like person named [[Bramble]].
 
 **[[Percy Vane-Smythe III]]:** "Listen, listen. I'll wager 50 sovereigns that there's an Earth clan underground theory. The theories say that there must be one. We've got two—Ash Blood and [[mizizi|Mizizi]]. There's got to be more. The symmetry! We have plants, fire... there's going to be water, earth, air..."
 
@@ -78,7 +78,7 @@ Percy leads Lomi toward a shady figure named Lucky.
 
 **[[Lucky]]:** "Oo, I got grease. I can grease your gears. I can grease your livers. Which one do you want Lucky to grease?"
 
-They negotiate a price (one sovereign/case) for six tall jars of moonshine. As Lomi takes the goods, he checks with Sarge, the Warforged watching from the shadows.
+They negotiate a price (one sovereign/case) for six tall jars of moonshine. As Lomi takes the goods, he checks with [[Sarge]], watching from the shadows.
 
 **[[lomi|Lomi]]:** *[Gestures to the jars]* "Is this stuff any good?"
 
@@ -94,14 +94,14 @@ They negotiate a price (one sovereign/case) for six tall jars of moonshine. As L
 ### Scene 3: Cultural Exchange & The Nature of Death
 
 **Location:** The Bonfire (Main Group)  
-**NPCs Present:** [[Seraphina "Serra" Vox]]  
+**NPCs Present:** [[Serra Vox]]  
 **Time:** Evening
 
 *GM Narration:*
 
 Back at the fire, Serra tries to smooth over her earlier awkwardness. The conversation turns deep as the characters discuss their homes.
 
-**[[Seraphina "Serra" Vox]]:** "I'm really nervous about tomorrow... I don't know anything sometimes. Every other place that's ever been discovered has a purpose... It's very strange that we don't exactly know what the forest is for other than apparently surviving and living... No, not just living, also dying. It's all about balance."
+**[[Serra Vox]]:** "I'm really nervous about tomorrow... I don't know anything sometimes. Every other place that's ever been discovered has a purpose... It's very strange that we don't exactly know what the forest is for other than apparently surviving and living... No, not just living, also dying. It's all about balance."
 
 **[[britt|Britt]]:** "Death is the way of things. Without death, there can be nothing new."
 
@@ -115,7 +115,7 @@ The topic shifts to the Ash Bloods and their integration. Iggy pulls out a hot s
 
 **[[britt|Britt]]:** "What did your clan gain from working with Harmony?"
 
-**[[ignatius|Ignatius]]:** "Trade. And... Lady Ignis. She went with Allara Thorne back to the Seed of Harmony. Now her line holds the highest voting power in all of Harmony."
+**[[ignatius|Ignatius]]:** "Trade. And... [[Lady Ignis]]. She went with [[Captain Elara Thorne|Captain Elara Thorne]] back to the [[Seed of Harmony]]. Now her line holds the highest voting power in all of Harmony."
 
 **[[aggie|Aggie]]:** "It's become our historical pattern that a new civilization should be given the most power... giving the least of us the power of the most of us."
 
@@ -181,13 +181,13 @@ Suddenly, [[Rill]] (from the Mizizi exchange) appears and grabs Zephyr.
 
 Lomi introduces himself properly to Britt and Aggie, explaining his boiler room background.
 
-**[[lomi|Lomi]]:** "We use the Lidian from the Ash Blood isle. Best stuff."
+**[[lomi|Lomi]]:** "We use the [[Leidian]] from the [[ash-blood-isles|Ash-Blood Isles]]. Best stuff."
 
-**[[ignatius|Ignatius]]:** "Obsidian. I have now named it Lidian. Just take lava and obsidian and smash those two babies together."
+**[[ignatius|Ignatius]]:** "Obsidian. I have now named it [[Leidian]]. Just take lava and obsidian and smash those two babies together."
 
 Iggy reveals his character motivation:
 
-**[[ignatius|Ignatius]]:** "I want to find the heart of the volcano. The next Lidian deposit. I want to find out *why* it's reheating."
+**[[ignatius|Ignatius]]:** "I want to find the heart of the volcano. The next [[Leidian]] deposit. I want to find out *why* it's reheating."
 
 The group decides to keep the night going.
 
@@ -195,7 +195,7 @@ The group decides to keep the night going.
 
 **[[britt|Britt]]:** "I think we got one more party in us."
 
-**GM:** The group heads out, passing the Golden Welcome and headed towards the tall building with the sign: **The Celestial Lounge**.
+**GM:** The group heads out, passing the Golden Welcome and headed towards the tall building with the sign: **[[Celestial Lounge|The Celestial Lounge]]**.
 
 ---
 
@@ -203,7 +203,7 @@ The group decides to keep the night going.
 
 ### Character Development
 - **[[lomi|Lomi]]:** Established as a smooth talker ("Boiler Maker family"), comfortable with the working class (Sarge/Lucky), and quick to improvise.
-- **[[ignatius|Ignatius]]:** Revealed his core drive: finding a new heat source for his people. Showed pride in his heritage (and annoyance at those who disrespect it, like Ember).
+- **[[ignatius|Ignatius]]:** Revealed his core drive: finding a new heat source for his people. Showed pride in his heritage (and annoyance at those who disrespect it, like [[Ember]]).
 - **[[britt|Britt]] & [[aggie|Aggie]]:** Showcased the deep philosophical divide between Forest and City (Life/Death vs. Avoidance).
 - **[[Zephyr]]:** Introduced as a chaotic force of nature.
 
@@ -216,12 +216,12 @@ The group decides to keep the night going.
 - [x] Create/Update [[Percy Vane-Smythe III]]
 - [x] Create/Update [[Zephyr]] (Lightning Girl)
 - [x] Create/Update [[Lucky]]
-- [x] Create/Update [[Lidian]] (Iggy's term for fuel rocks)
+- [x] Create/Update [[Leidian]] (Iggy's term for fuel rocks)
 - [x] Update [[ash-blood-isles|Ash-Blood Isles]] with "Great Cooling" history
 - [x] Update [[mizizi|Mizizi]] with death philosophy
 
 ### Cliffhangers
-- The party is heading to the **Celestial Lounge**.
+- The party is heading to the **[[Celestial Lounge|Celestial Lounge]]**.
 - **Zephyr's** true nature is a mystery.
 - **Rill** asked the group to find her "after class tomorrow."
 
