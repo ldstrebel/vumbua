@@ -91,6 +91,7 @@ The distinction between major and minor is not purely about raw power---it's abo
 ### 13. Nstyl
 - **Resource:** Silent Silt
 - **Description:** When a handful or more of this silt is gathered in one spot, it absorbs all sound in the surrounding area. The city that grew around this node communicates entirely through sign language---spoken language is physically impossible there.
+- **Naming Convention:** Nstyl names are **signed, not spoken.** Each person's name is a specific hand-sign---a gesture, not a word. The written forms (e.g. "Nstyl," "Zyykl," "Tus") are phonetic approximations created by outsiders attempting to transcribe the hand-shapes into letters. Different speakers produce wildly different pronunciations of the same name---"Zyykl" might become "Zekelef" or "Zickle" depending on who's trying to say it. Nstyl people consider this amusing, not offensive. Their real names exist only in gesture.
 - **Status:** Integrated. Used in stealth operations, hospitals, and sound-sensitive environments.
 
 ### 14. Elysium
