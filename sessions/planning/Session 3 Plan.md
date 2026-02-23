@@ -40,3 +40,4 @@ later-who are his eyes & any? Maybe a  ash blood?  Ember-?
 Ambushed by tuss , zyykl from mystal-sign language only fooled by Azer a Man from nowhere who used "Prism water" to convince the two big boys to help him in his Scheme 
 
 
+![[Screenshot_20260222_180117_OneDrive.jpg]]
