@@ -48,3 +48,10 @@ after this we will send then to bed, do a long rest, then send then to class the
 
 Let then choose their  class? Just give them a quick summary?
 
+put the pressure on them to get to bed not to stay out au might a start marking stress! 
+
+
+## Class List 
+
+
+
