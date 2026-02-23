@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "sessions/planning/Session 3 Plan.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -220,6 +220,8 @@
   },
   "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "locations/nstyl.md",
+    "sessions/planning/Session 3 Plan.md",
     "meta/Excalidraw/Reso Race 1.md",
     "world/circuit-run.md",
     "locations/umbra-mountain.md",
@@ -229,7 +231,6 @@
     "locations/relina.md",
     "locations/prima.md",
     "locations/octo.md",
-    "locations/nstyl.md",
     "locations/minnow.md",
     "locations/lenoa.md",
     "locations/juxta.md",
@@ -245,7 +246,6 @@
     "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts/Simplify.md",
     "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
     "copilot/copilot-custom-prompts",
     "meta/Excalidraw/Reso Race 1.png",
     "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
