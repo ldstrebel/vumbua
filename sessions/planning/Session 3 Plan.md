@@ -491,6 +491,27 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 - Give each PC one moment of reaction or observation — Iggy noticing the missing node, Britt recognising the simulated Mizizi terrain, Lomi sizing up the engineering, etc.
 - The race sets up future plot threads: the Ash-Blood data mystery, the connection/energy distinction, the Captains watching from above
 
+### Play-by-Play: The First Vumbua Circuit-Run
+
+**1. The Launch**
+The air is heavy with the smell of ozone and hot copper. Twelve teams are slung from the Southern Rim. **[[Shatter Stamper]]** (Team 1) gets a massive launch, their heavy rig slamming down onto the canyon floor with a bone-shaking thud. **[[Pudge]]** (Team 4) takes a more vertical drop, their gyro-boat catching a thermal and gliding over the petrified treetops.
+
+**2. The First Sync**
+**[[Shatter Stamper]]** reaches the first Aero-Static spire. Their Harvest-Prong strikes — a massive flash of blue light. The Rig suddenly loses 90% of its weight, allowing it to leap a canyon wall that would have stopped it dead.
+Behind them, **[[Marble Wall]]** (Team 3) isn't racing; they're hunting. They ignore the first spires and instead ram into a soloist team, pinning them against the petrified bark. *"Strategy: Destroy first, collect later."*
+
+**3. The Mid-Match Chaos**
+The "Loom-Pulse" triggers. New Spires erupt from the ground. A Crystalline node appears right in front of **[[Dancer & Fabian]]** (Team 5). They strike it, their sailboat hull turning into semi-fluid glass. They pass right through a narrow crack in the canyon wall that **[[Shatter Stamper]]** has to go around.
+Meanwhile, **[[Pudge]]** is struggling. Their gryphon-hybrid requires massive connection to overcome its handicap. They strike a Vitruvian node, doubling their sync duration, but they're still behind the Global Amplitude line.
+
+**4. The Final Stretch**
+Only three teams left in contention for the Grand Resonator. **[[Marble Wall]]** is bearing down on **[[Dancer & Fabian]]**. Fabian is at the rudder, Dancer is on the Harvest-Prong. They hit a Kinetic-Echo spire, leaving a hard-light trail. As **[[Marble Wall]]** prepares to ram, **[[Dancer & Fabian]]** perform an instant U-turn on their own trail, letting the heavy rig sail past into a canyon wall.
+
+**5. The Grand Resonator**
+**[[Pudge]]** finally hits the needed amplitude. The gyro-boat’s battery glows brilliant purple. With a final Aero-Static jump, they soar over the crowd, landing directly in front of the Grand Resonator.
+**Strike!** The discharge creates a blinding pillar of light that illuminates the entire basin. **[[Pudge]] wins!**
+The crowd erupts. Valerius is shouting over the radio. The Captains in the Zephyrs are leaning over their magnifying floors, marking their tally sheets.
+
 ---
 
 ### Scene: Finding Rill
