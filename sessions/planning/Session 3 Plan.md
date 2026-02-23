@@ -47,3 +47,4 @@ after this we will send then to bed, do a long rest, then send then to class the
 ## What do we need to do for class?... 
 
 Let then choose their  class? Just give them a quick summary?
+
