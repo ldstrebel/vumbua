@@ -42,3 +42,8 @@ Ambushed by tuss , zyykl from mystal-sign language only fooled by Azer a Man fro
 
 ![[Screenshot_20260222_180117_OneDrive.jpg]]
 
+after this we will send then to bed, do a long rest, then send then to class the next day 
+
+## What do we need to do for class?... 
+
+Let then choose their  class? Just give them a quick summary?
