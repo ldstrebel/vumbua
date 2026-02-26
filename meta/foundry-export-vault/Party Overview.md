@@ -1,8 +1,7 @@
 # Party Overview
+> A chronicle of the party's journey and accumulated knowledge.
 
-> A chronicle of the party's journey through Vumbua.
-
-# Session Recaps
+## Session Recaps
 
 ## Current Arc: The Intake
 
@@ -15,14 +14,14 @@ The largest intake class in Vumbua's history begins. Five unlikely candidates me
 - 100,000 candidates take the trials
 - [[Britt]] tries to stall for [[Aggie]]
 - [[Iggy]] breaks a typewriter with slime
-- [[Ignatius]] confronts his clan's relationship with Harmony
+- [[Ignatius]] confronts his clan's relationship with [[Seed of Harmony|Harmony]]
 - [[Lomi]] advocates for workers everywhere
 - [[Dean Isolde Vane]] welcomes the class
 - The group forms at the bonfire
 
 **Players Discovered:**
-- Vumbua is a modular city built around three Cores
-- The Academy expects massive attrition
+- [[vumbua|Vumbua]] is a modular city built around three Cores
+- The [[Vumbua Academy|Academy]] expects massive attrition
 - Testing assigns roles, not just ranks
 
 ---
@@ -33,14 +32,14 @@ The largest intake class in Vumbua's history begins. Five unlikely candidates me
 Housing assignments scatter the group, but curiosity brings them back together. A mysterious student named **Seraphina "Serra" Vox** (posing as "Serra Vox") extends an olive branch, and secrets begin to surface.
 
 **Key Events:**
-- Dorm assignments (Block 12, Block 99, Block 04)
-- Iggy climbs a crane to "touch the sky"
-- **Seraphina "Serra" Vox** introduces herself as an "ally" (hiding her noble status)
-- The group learns about Rill, a Wadi researcher at the Academy
-- Lucky the hustler makes his first deals
+- Dorm assignments ([[Block 12]], [[Block 99]], [[Block 04]])
+- [[Iggy]] climbs a crane to "touch the sky"
+- **[[Serra Vox|Seraphina "Serra" Vox]]** introduces herself as an "ally" (hiding her noble status)
+- The group learns about [[Rill]], a Wadi researcher at the Academy
+- [[Lucky]] the hustler makes his first deals
 
 **Players Discovered:**
-- Rill left the Mizizi forest 2 years ago seeking answers
+- [[Rill]] left the [[mizizi-petrified-forest|Mizizi forest]] 2 years ago seeking answers
 - The campus is temporary, using repurposed buildings
 - A major cull is coming after the first voyage
 
@@ -56,22 +55,22 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 - [[Serra Vox]] slips about political connections to The Seat
 - The Speculators' Debate: [[Percival Vane-Smythe III|Percy]]'s Sixfold Theory vs [[Iron-Jaw Jax|Jax]]'s skepticism vs [[Bramble]]'s philosophy
 - Serra explains the **Inverse Power Doctrine** ([[Lady Ignis]] holds highest voting power)
-- [[Mizizi]]/Harmony cultural exchange about death
+- [[mizizi|Mizizi]]/[[Seed of Harmony|Harmony]] cultural exchange about death
 - **[[Zephyr]]'s Lightning:** Purple bolt from clear sky; she's unharmed
 - [[Rill]] retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class
-- Ash-Blood cultural divide revealed: traditionalists vs modernizers
-- Leidian properties discussed (80% hotter, halflife, distance decay)
-- Party heads to the Celestial Lounge
+- [[Ash-Bloods|Ash-Blood]] cultural divide revealed: traditionalists vs modernizers
+- [[Leidian]] properties discussed (80% hotter, halflife, distance decay)
+- Party heads to the [[Celestial Lounge]]
 
 **Players Discovered:**
 - The Inverse Power Doctrine (newest member gets highest voting power)
-- [[Lady Ignis]] is essentially "President" of Harmony
+- [[Lady Ignis]] is essentially "President" of [[Seed of Harmony|Harmony]]
 - The Sixfold Theory (missing Earth, Air, Water clans)
-- Zephyr can cause purple lightning
-- Leidian is burning 80% hotter since integration
-- Ash-Blood cultural divide between fire-keepers and battery-adopters
-- The [[Mizizi]] forest has no clear "purpose" unlike other nodes
-- Academy structure: classes → exam → Loom → rest week → trial venture
+- [[Zephyr]] can cause purple lightning
+- [[Leidian]] is burning 80% hotter since integration
+- [[Ash-Bloods|Ash-Blood]] cultural divide between fire-keepers and battery-adopters
+- The [[mizizi-petrified-forest|Mizizi forest]] has no clear "purpose" unlike other nodes
+- [[Vumbua Academy|Academy]] structure: classes → exam → Loom → rest week → trial venture
 
 ---
 
@@ -107,19 +106,19 @@ While the party socializes at the bonfire, Iggy slips away to explore the Academ
 The party arrives at the Celestial Lounge in the Upper Core. Lomi joins Val and Ember in a game of "Crown and Ruin". Val reveals information about an upcoming exam and admits to selling a "study guide" for it to Lucky. Later, as the players leave the lounge, Britt follows a suspicious group into an alley but is ambushed by Azer, Nickel, and Tus. She loses test-related documents but retrieves her cherished pocket watch. Lomi and Iggy intervene, forcing the ambushers to flee. The group decides to find Lucky to get the study guide.
 
 **Key Events:**
-- The party arrives at the Celestial Lounge
-- Iggy gains "Cartography" experience mapping the view
-- Lomi wins "Crown and Ruin" against Val
-- Val reveals he sold the exam "study guide" to Lucky
-- Britt is ambushed in an alley by Azer, Nickel, and Tus
-- Britt loses her test receipt but saves her heirloom pocket watch
-- Lomi breaks Azer's rib to save Britt
-- The group plans to find Lucky the next day
+- The party arrives at the [[Celestial Lounge]]
+- [[Iggy]] gains "Cartography" experience mapping the view
+- [[Lomi]] wins "Crown and Ruin" against [[Valerius Sterling Sr.|Val]]
+- [[Valerius Sterling Sr.|Val]] reveals he sold the exam "study guide" to [[Lucky]]
+- [[Britt]] is ambushed in an alley by [[Azor]], [[Zyykl|Nickel]], and [[Tus]]
+- [[Britt]] loses her test receipt but saves her heirloom pocket watch
+- [[Lomi]] breaks [[Azor]]'s rib to save [[Britt]]
+- The group plans to find [[Lucky]] the next day
 
 **Players Discovered:**
-- A coordinated group (Azer, Nickel, Tus) using sign language orchestrated the ambush
-- Lucky has the "study guide" for the upcoming exam
-- Val wrote the challenging exam to ensure students learned fundamentals
+- A coordinated group ([[Azor]], [[Zyykl|Nickel]], [[Tus]]) using sign language orchestrated the ambush
+- [[Lucky]] has the "study guide" for the upcoming exam
+- [[Valerius Sterling Sr.|Val]] wrote the challenging exam to ensure students learned fundamentals
 - "Crown and Ruin" is a popular game involving Hope/Fear dice and Grease Shots
 
 ---

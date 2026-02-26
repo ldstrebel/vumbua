@@ -7,28 +7,31 @@ Use this workflow to prep the Vumbua wiki for Foundry VTT ingestion via the Lava
 
 ## Steps
 
-1. **Run the Vault Prep script**
-   - The script creates a sanitized clone of the wiki at `meta/foundry-export-vault`
+1. **Clear the Old Vault**
+   - Delete the `meta/foundry-export-vault` directory to start fresh.
    ```bash
-   python meta/scripts/foundry_vault_prep.py
+   Remove-Item -Recurse -Force meta/foundry-export-vault -ErrorAction SilentlyContinue
    ```
+
+2. **Run the AI Generator Script**
    // turbo
-   
-2. **The Verification Audit**
-   - Run a strict grep search across the export directory to guarantee no secrets bled through the truncator.
-   - If this command outputs *anything*, the workflow has failed. Stop and fix the python script logic before proceeding.
+   - This script creates a fresh `meta/foundry-export-vault` folder. It dynamically generates the spoiler-free `Party Overview.md` and synthesizes the `Known NPCs.md` file using `sessions/index.md` as the source of truth. Finally, it securely copies the `characters/player-characters/` directory over, stripping out all `## GM Notes`.
+   ```bash
+   python meta/scripts/generate_player_vault.py
+   ```
+
+3. **Verify Security**
+   - Ensure the scrubbing worked perfectly by searching across the vault.
    ```bash
    grep -ri "GM Notes" meta/foundry-export-vault/ || true
    ```
    // turbo
    
-3. **Commit changes**
+4. **Commit changes**
    ```bash
-   git add meta/foundry-export-vault/ .agent/workflows/
-   git commit -m "docs: Update Foundry Export Vault"
+   git add meta/foundry-export-vault/ meta/scripts/
+   git commit -m "docs: Generate Foundry Export Vault"
    ```
 
-4. **Notify the User**
-   - Tell the user the vault has been successfully built and audited.
-   - Instruct the user to open Foundry, run the **Lava Flow** macro/tool, and point it to the generic `meta/foundry-export-vault` folder.
-   - Remind the user to ensure "Import non-markdown files" is checked in Lava Flow if any character portraits or maps were updated!
+5. **Notify the User**
+   - Tell the user the player vault has been dynamically generated and is ready for Lava Flow import.
