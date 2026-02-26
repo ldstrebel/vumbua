@@ -88,6 +88,7 @@ Use this workflow after each game session to properly document what happened.
    - ✅ **Fix**: Obvious transcription errors (99% confidence you know the correct word based on lore context)
    - ✅ **Fix**: Canonical spelling corrections per `lore-index.md` (e.g., "Lasidian" → "Leidian")
    - ✅ **Organize**: Break into scenes, label speakers, format as screenplay
+   - ✅ **Enrich**: After formatting, do a second pass reviewing the raw transcript specifically for "high-confidence quotes", great one-liners, and dynamic "action verbs" to increase narrative richness and detail (aim for the standard of `session-02.md`).
    - ❌ **Never**: Summarize, compress, or skip dialogue
    - ❌ **Never**: Add descriptions or details not in the transcript (no hallucination)
    - ❌ **Never**: Change character voices, word choices, or story details
@@ -122,9 +123,18 @@ Use this workflow after each game session to properly document what happened.
    - Run `/add-character` for any new NPCs introduced (flagged in step 3.5)
    - Update `knowledge-tracker.md` with new discoveries
    - Update `timeline.md` with session events
-   - Update character profiles if significant events occurred
+   - Update character profiles and location files directly if significant events occurred (don't just link them, summarize the new lore).
    - Update `lore-index.md` with the Session Delta, new entities, spellings, and session status
    - If you need to capture GM-prep that did not occur in-session, place it under a clearly-labeled **GM Plan** section and tag it as `gm-plan`
+
+7.5. **Set up the NEXT Session**
+   - Create or update the *next* session's plan (e.g., `sessions/planning/session N+1 plan.md`).
+   - Document what the party was preparing or planning to do at the very end of the current session to ensure strong continuity.
+
+7.6. **Draft the Radio Recap Script**
+   - Create `meta/radio-scripts/session-N-recap.md`.
+   - Collaborate with the user to select featured NPCs (e.g., Captains) to interview or highlight.
+   - **Crucial:** Always read the dedicated NPC dossiers (e.g., `characters/npcs/[name].md`) to accurately capture their voice, goals, and dynamic with the radio host before drafting.
 
 8. **Commit changes**
    ```bash
@@ -161,3 +171,5 @@ These are real errors that were made and corrected. Do not repeat them:
 7. **Failing to Cross-Reference the Session Plan** — (Session 3 error) Failing to read the `Session 3 Plan.md` before processing the transcript, leading to the creation of NPCs with misspelled transcript names ("Azer" and "Nickel") instead of the canonical names already established in the plan ("Azor" and "Zyykl"). **Always read the plan first.**
 
 8. **Missing Key Items/Details** — (Session 3 error) Misidentifying a crucial heirloom (a petrified acorn necklace) as a pocket watch because of a quick skim. **Read carefully, cross-reference, and ensure logical consistency in the narrative.**
+
+9. **Name Confusion & Title Assumptions** — Confusing similarly named NPCs (e.g., Valerius Sterling the radio host vs. Valentine Sterling the explorer ancestor) without checking their actual profiles. **Always read the corresponding `characters/npcs/` file** before asking questions or making assumptions about their lore or relationships.
