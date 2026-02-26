@@ -29,9 +29,13 @@ Val is hosting the gathering and is one of the last people still animated and aw
 - He's trying to get someone—*anyone*—to play one more round, but everyone is tired and leaving.
 - He just wants to make his papa ([[valentine-sterling-sr|Valentine Sterling Sr.]]) proud.
 
+**The Sleeping Cousin:**
+Val's cousin, **[[valerius-sterling|Valerius Sterling]]**, came by after finishing his late-night radio broadcast. He challenged Val to a game of Crown & Ruin, lost spectacularly, and is currently passed out on a velvet chaise lounge in one of the side parlors.
+- **Valentine's Remark:** If approached, Val casually points a thumb toward the side room with a smirk: *"If you want a real challenge, you could try waking Valerius. He's currently drooling on a silk pillow in the East Parlor. Couldn't handle the dice tonight. Shocking lack of stamina for a man who talks for a living."*
+
 **Val's Test Answers** *(potential RP hook)*:
 > [!NOTE]
-> **TODO:** Pull 10 questions from Lucky's test and provide Val's annotated answers—where he agrees, where he found flaws, and what the *real* answers should be. This could be a handout or RP conversation.
+> See the GM Notes in [[lucky|Lucky]] and [[valentine-sterling|Valentine Sterling]] for details on the test questions and Val's annotations. This could be used as a handout or an RP conversation.
 
 - He offers **two games** — players can pick one or play both.
 
@@ -177,7 +181,7 @@ Val is hosting the gathering and is one of the last people still animated and aw
 
 #### [[ember|Ember]] — Valerius's Reporter *(First On-Screen Appearance)*
 
-Ember is an [[Ash-Bloods|Ash-Blood]] student and [[Ignatius]]'s childhood cousin. She is attending the Celestial Lounge as a field reporter for [[valerius-sterling|Valerius Sterling]]'s radio show.
+Ember is an [[Ash-Bloods|Ash-Blood]] student and [[Ignatius]]'s childhood cousin. She is attending the Celestial Lounge as a field reporter for [[valerius-sterling|Valerius Sterling]]'s radio show. She is well aware that her boss is currently asleep in the East Parlor, having been there when the disastrous game of Crown & Ruin occurred.
 
 **Why this works for Ember:**
 - She's an Ash-Blood who loves the majesty and lore of Harmony—fascinated by the culture, not resentful of it.
@@ -195,11 +199,11 @@ Ember is an [[Ash-Bloods|Ash-Blood]] student and [[Ignatius]]'s childhood cousin
 
 ---
 
-#### [[valerius-sterling|Valerius Sterling]] — The Absent Voice
+#### [[valerius-sterling|Valerius Sterling]] — The Sleeping Voice
 
-Valerius himself is **not** physically present at the Celestial Lounge. However, he has scouts (including Ember) watching the event and reporting back in case there's any juicy gossip for his radio show.
+Valerius physically came to the Celestial Lounge after his late-night broadcast, but he is currently **asleep in a side parlor** (the "East Parlor") after attempting to drink Valentine under the table and failing. He has scouts (like Ember) watching the event and reporting back in case there's any juicy gossip for his radio show when he wakes up.
 
-**GM Note:** Anything noteworthy the PCs do tonight may end up on Valerius's next broadcast—a fun consequence to carry forward.
+**GM Note:** Anything noteworthy the PCs do tonight may end up on Valerius's next broadcast—a fun consequence to carry forward. Ember will make sure he gets the notes.
 
 ---
 
@@ -446,24 +450,104 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 > - [ ] **Lucky's test questions** — 10 questions with Val's annotated answers
 > - [ ] **Track department heads** — Fill in TBD faculty for Ironworks, Verdant Studies, Shadow Ops, Medicae
 > - [ ] **Resonance Race** — Transcribe Excalidraw drawings `[Reso Race 1]` and `[Reso Race Basin]` into full scene
-> - [ ] **Loom one-liners** — Craft the actual team assignment prophecies for each PC
-> - [ ] **Professor Ink NPC page** — Create `characters/npcs/professor-ink.md`
-> - [ ] **Simulate race outcome** — Generate a play-by-play for the first Vumbua Circuit-Run
+> - [ x] **Loom one-liners** — Craft the actual team assignment prophecies for each PC
+> - [ x] **Professor Ink NPC page** — Create `characters/npcs/professor-ink.md`
+> - [ x] **Simulate race outcome** — Generate a play-by-play for the first Vumbua Circuit-Run
 
 ---
 
-## Phase 4: Montage — The Resonance Race
+### The Atmosphere: A City in Surge
+
+The air in the Academy has shifted. The low-hum of study and exams has been replaced by a vibration that sits right in the teeth. This is the **Resonance Race**, and for one day, the school isn't an institution—it's a stadium.
+
+- **Vibrant Energy:** Banners for the 12 teams hang from every balcony. The smell of ozone and street food (spiced skewers and "Reso-Corn") fills the air.
+- **The Scale:** The Apex Ring isn't just a track; it's a geographic landmark. It holds **500,000 people**—nearly the entire population of the Academy and visiting Harmony citizens. Think the scale of the largest F1 or NASCAR stadiums, but with a mile-wide wilderness basin in the center.
+- **The Sound:** A constant, rhythmic chanting of team names, punctuated by the high-pitched *whine* of rigs being tested in the distance.
+
+---
+
+### Phase 4: The Walk to the Apex
+
+Getting to the race is a pilgrimage. The PCs must navigate the surging crowds of the **Spire-Scape** to reach the Southern Rim.
+
+#### The Walk
+- **The Surge:** Thousands of students and citizens dressed in team colors (blues, golds, and the deep reds of the Shatter Stampers). 
+- **The Vendors:** "Scout-Spotter" brass binoculars for rent; unauthorized team jerseys; "Crystal-Cool" drinks that glow in the dark.
+- **The Gate:** A massive triple-archway made of reclaimed hull-plates. Above it, a holographic scoreboard flickers with the current Global Amplitude.
+
+#### The Gated Tiers (How to get seats)
+As the PCs approach the gate, a **Loom Terminal** scans their student receipts.
+
+1. **Gate A: The Bleacher-Walls (Standard)**
+   - *Requirement:* All active students are granted access.
+   - *Experience:* Stone steps, cramped but high-energy. The "Scout-Spotter" shouting match happens here.
+2. **Gate B: The Rim-Tracker (Premium)**
+   - *Requirement:* Requires a "Trolley Token" (5 copper) or a high trial rank (Top 10%).
+   - *Experience:* Seating on the moving steam trolley. You follow the rigs as they move through the basin.
+3. **Gate C: The Gilded Zephyrs (VIP)**
+   - *Requirement:* Invitation only or [[House Gilded]] sponsorship.
+   - *Experience:* Boarding an airship. Magnifying floors. Champagne and silk.
+
+---
+
+### The NPC Spectator Sandbox
+
+The basin is a living ecosystem of agendas. Use this table as a "sandbox" for player interaction—they might spot an NPC through binoculars, bump into them at a Reso-Corn stand, or hear them shouting from another tier.
+
+| NPC | Location | Visibility | Rooting For... | Rationale/Behavior |
+|---|---|---|---|---|
+| **[[valentine-sterling|Valentine Sterling]]** | **Gilded Zephyrs** (VIP) | **Making a Scene** | *[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]* | Hovering directly over the Spires; narrating the race into a private recorder for "post-game analysis." |
+| **[[ember|Ember]]** | **Bleacher-Walls** (South Rim) | **Incognito** | *[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]* | Scribbling furiously in a notebook; avoiding [[ignatius|Ignatius]]'s eye if he's nearby. |
+| **[[rill|Rill]]** | **Basin Floor** (The Pits) | **Open (Working)** | *[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]* | Calibrating a battery for the next heat; looks exhausted. |
+| **[[professor-ink|Professor Ink]]** | **Rim-Tracker** (East Rim) | **Open (Working)** | *None* | Using a magnifying lens to study simulated petrified trees. Doesn't even look at the rigs. |
+| **[[professor-kante|Professor Kante]]** | **Research Deck** (North Rim) | **Incognito** | *[[resonance-racers#Team 4 Pudge|Pudge]]* | Watching the gryphon's metabolic-amplitude sync with a clinical intensity. |
+| **[[lucky|Lucky]]** | **Bleacher-Walls** (West Rim) | **Making a Scene** | *The Leader* | Changing "Victory Flags" frantically. Currently shouting odds for a mid-race upset. |
+| **[[cassius-thorne|Cassius Thorne]]** | **Bleacher-Walls** (East Rim) | **Making a Scene** | *[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]* | Shouting "CRUSH THEM!" every time a heavy rig gets near a smaller one. |
+| **[[dean-isolde-vane|Dean Isolde Vane]]** | **Sky-Spire Balcony** | **Making a Scene** | *The Republic* | Standing perfectly still, watching the Global Amplitude gauge. A symbol of stability. |
+| **[[percival-vane-smythe-iii|Percival Vane-Smythe III]]** | **Bleacher-Walls** (South Rim) | **Making a Scene** | *[[resonance-racers#Team 4 Pudge|Pudge]]* | Holding court. Explaining how the gryphon's flight "proves" there must be an Air Clan. |
+| **[[iron-jaw-jax|Iron-Jaw Jax]]** | **Bleacher-Walls** (North Rim) | **Making a Scene** | *[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]* | Shaking the railings. Shouting technical advice that nobody below can possibly hear. |
+| **[[nyx|Nyx]]** | **Rim-Tracker** (West Curve) | **Incognito** | *Sail & Stun* | Sitting silently with a hood up. Watching the teams' *timing*, not their speed. |
+| **[[calculus-prime|Calculus Prime]]** | **Bleacher-Walls** (High Tier) | **Open** | *Statistical Average* | Projecting a HUD from its eyes; calculating the probable winner (currently 68.4% for [[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]). |
+| **[[sarge|Sarge]]** | **The Walkway** (Transit) | **Incognito** | *Safety* | Wearing a generic staff uniform; noting "blocked fire exits" and "unstable railings" instead of the race. |
+| **[[cinder-4|Cinder-4]]** | **Bleacher-Walls** (West Rim) | **Open** | *None* | Staring intensely at the Ash-Blood simulation. Visibly vibrating with static anger at the missing Spire. |
+| **[[hesperus|Hesperus]]** | **The Rim-Tracker** (South) | **Open** | *The Trainees* | Watching the *crowd* as much as the race. Gauging how the new intake handles the spectacle. |
+| **[[celia-vance|Celia Vance]]** | **Gilded Zephyrs** (VIP) | **Incognito** | *None* | Managing logistics via a hand-held terminal. She’s effectively running the event from the air. |
+
+---
+
+### Serendipitous Meetings (Roleplay Hooks)
+
+As the PCs move through the tiers or look through their binoculars:
+
+1. **The Theorist's Crowd:** The PCs hear a familiar, high-pitched voice. **[[percival-vane-smythe-iii|Percy]]** is standing on a bench in the South Bleachers, cornering a confused freshman. *"But don't you see? The way the gryphon banks—it's drawing from a latent Aero-Static field that shouldn't exist! There's an Air Clan, I tell you!"*
+2. **The Safety Hazard:** On the walk to their seats, the PCs are nearly knocked over by a "staff member" moving quickly. It's **[[sarge|Sarge]]**, swearing under his breath about the "total lack of structural redundancy on these temporary bleachers." 
+3. **The Silent Watcher:** If the PCs use binoculars to scan the Rim-Tracker, they might spot **[[nyx|Nyx]]**. She isn't cheering; she's timing the rigs with a mechanical stopwatch. If she catches them looking, she simply pulls her hood lower and moves to the next car.
+4. **The Merchant of Hype:** **[[lucky|Lucky]]** tried to sell them a "Shatter Stamper" flag five minutes ago. Now, he's sprinted around the rim and is trying to sell them a "Pudge" flag because they just hit a major node. *"Buy low! Buy low! Shatter's losing connection, Pudge is the new hotness!"*
+5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatius|Ignatius]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
+
+---
 
 ### Scene: The Resonance Race
 
 > **Full reference:** See [[circuit-run|The Circuit-Run]] for the complete compendium (rules, energy system, node spectrum, craft types, viewing tiers).
+
+#### The Racing Field (Notable Entries)
+
+| Team / Soloist | Rig Type / Vehicle Description | Strategy |
+|---|---|---|
+| **[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** (Team 1) | **Heavy-Class (The Ironclad):** A massive, brutalist heavy rig. It resembles a fortified bunker on treads, built purely for straight-line momentum and surviving massive impacts. It lacks maneuverability but compensates with sheer armor. | High-yield nodes & brute force. Bulldozing obstacles rather than steering around them. |
+| **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** (Team 3) | **Aggro/Hunter (The Bastion):** Reinforced crawler covered in reactive armor plating. It's built like a mobile blockade, bristling with kinetic dampeners. Less a racing vehicle, more a weaponized wall. | Attrition. Hunting and destroying smaller, faster rigs. Winning by being the last functional rig. |
+| **[[resonance-racers#Team 4 Pudge|Pudge]]** (Team 4) | **Experimental (The Gryphon-Hybrid):** A bulbous, highly customized gyro-boat. It looks aerodynamically questionable ("pudgy") but features experimental Aero-Static wings that allow it to catch thermals and glide. | Massive sync duration & high vertical jumps to bypass complex terrain entirely. |
+| **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]** (Team 5) | **Precision (The Glass-Sail):** A beautifully crafted, lightweight racing sailboat. It has the lowest power rating but features incredibly precise steering mechanisms and a hull capable of minor resonant-phasing to slip through narrow gaps. | Extreme agility, tight evasion, technical drafting, and striking specific nodes. |
+| **[[resonance-racers#Stinger|Stinger]]** (Soloist) | **Minimalist (Hover-Bike):** A razor-thin engine strapped to a seat. It consists of little more than a high-output battery, a propulsion vent, and a forward-mounted Harvest-Prong. | Extreme speed, weaving through the chaos. Relies entirely on evasion and not getting hit. |
+| **[[resonance-racers#Goliath|Goliath]]** (Soloist) | **Super-Heavy (Land-Ship):** A mobile fortress. It is astronomically large for a soloist entry, dominating the canyon floor with its sheer width and multi-tread propulsion system. | Survive "The Drop" and act as a moving hazard. Slow but virtually indestructible by standard rigs. |
 
 The **first Resonance Race of the intake year** is the biggest social event at [[Vumbua Academy]]. The entire campus empties into the **Apex Ring** — a mile-wide basin of simulated wilderness where teams race to strike Spires, siphon node energy, and light the Grand Resonator at the centre.
 
 **Why this year is special:**
 - The arena terrain has been **updated for the first time** to include the **Ash-Blood Isles** and the **Mizizi Forest island** — the two newest integrated territories
 - The entire student body is seeing simulated versions of these lands for the first time
-- **However:** There is no Ash-Blood Spire in the arena. The [[scrivener-guild|Scrivener Guild]] claims the resonance data isn't finalised. This is a sore point — especially for Ash-Blood students like [[Ignatius]]
+- **However:** There is no Ash-Blood Node in the arena. The [[scrivener-guild|Scrivener Guild]] claims the resonance data isn't finalised. This is a sore point — especially for Ash-Blood students like **[[ignatius|Ignatius]]**.
 
 **How the PCs experience it:**
 - As first-years, they're in the **Bleacher-Walls** (stone amphitheaters on the basin rim)
@@ -477,9 +561,9 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 2. **The Sync:** A team strikes a Leidian node and gains the **Overclock** boon — extreme speed with a "Phase-Dash" teleport. The crowd roars. But the heat stress is visible — the rig's hull glows cherry-red.
 
-3. **The Missing Node:** [[Ignatius]] notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks [[professor-kante|Professor Kante]] (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] — the integration only produced ~20 amps instead of the expected +300 to +800.
+3. **The Missing Node:** **[[ignatius|Ignatius]]** notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks **[[professor-kante|Professor Kante]]** (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] — the integration only produced ~20 amps instead of the expected +300 to +800.
 
-4. **The Battery Lesson:** For students who paid attention in class (especially [[Iggy]]), the race is a live demonstration of everything [[professor-kante|Kante]] teaches. Stored connection, not stored energy. The umber crystal gutter creating an artificial dead zone. The relationship between power draw and nodes needed. *This is the exam in practice.*
+4. **The Battery Lesson:** For students who paid attention in class (especially **[[iggy|Iggy]]**), the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored connection, not stored energy. The umber crystal gutter creating an artificial dead zone. The relationship between power draw and nodes needed. *This is the exam in practice.*
 
 5. **Marble Wall vs Dancer & Fabian:** The heavy team smashes through a contested area, destroying a smaller rig. The couple in the racing sailboat (lowest power rating in the field) has to surrender when they encounter the Wall. But they were so close — they only needed two more minor nodes.
 
@@ -488,40 +572,40 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 **GM Pacing Notes:**
 - This is a **montage scene**, not a mechanical encounter
 - Run it as a series of vivid descriptions with crowd reactions. 10-15 minutes max.
-- Give each PC one moment of reaction or observation — Iggy noticing the missing node, Britt recognising the simulated Mizizi terrain, Lomi sizing up the engineering, etc.
+- Give each PC one moment of reaction or observation — **[[iggy|Iggy]]** noticing the missing node, **[[britt|Britt]]** recognising the simulated Mizizi terrain, **[[lomi|Lomi]]** sizing up the engineering, etc.
 - The race sets up future plot threads: the Ash-Blood data mystery, the connection/energy distinction, the Captains watching from above
 
 ### Play-by-Play: The First Vumbua Circuit-Run
 
 **1. The Launch**
-The air is heavy with the smell of ozone and hot copper. Twelve teams are slung from the Southern Rim. **[[Shatter Stamper]]** (Team 1) gets a massive launch, their heavy rig slamming down onto the canyon floor with a bone-shaking thud. **[[Pudge]]** (Team 4) takes a more vertical drop, their gyro-boat catching a thermal and gliding over the petrified treetops.
+The air is heavy with the smell of ozone and hot copper. Twelve teams are slung from the Southern Rim. **[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** (Team 1) gets a massive launch, their heavy rig slamming down onto the canyon floor with a bone-shaking thud. **[[resonance-racers#Team 4 Pudge|Pudge]]** (Team 4) takes a more vertical drop, their gyro-boat catching a thermal and gliding over the petrified treetops.
 
 **2. The First Sync**
-**[[Shatter Stamper]]** reaches the first Aero-Static spire. Their Harvest-Prong strikes — a massive flash of blue light. The Rig suddenly loses 90% of its weight, allowing it to leap a canyon wall that would have stopped it dead.
-Behind them, **[[Marble Wall]]** (Team 3) isn't racing; they're hunting. They ignore the first spires and instead ram into a soloist team, pinning them against the petrified bark. *"Strategy: Destroy first, collect later."*
+**[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** reaches the first Aero-Static spire. Their Harvest-Prong strikes — a massive flash of blue light. The Rig suddenly loses 90% of its weight, allowing it to leap a canyon wall that would have stopped it dead.
+Behind them, **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** (Team 3) isn't racing; they're hunting. They ignore the first spires and instead ram into a soloist team, pinning them against the petrified bark. *"Strategy: Destroy first, collect later."*
 
 **3. The Mid-Match Chaos**
-The "Loom-Pulse" triggers. New Spires erupt from the ground. A Crystalline node appears right in front of **[[Dancer & Fabian]]** (Team 5). They strike it, their sailboat hull turning into semi-fluid glass. They pass right through a narrow crack in the canyon wall that **[[Shatter Stamper]]** has to go around.
-Meanwhile, **[[Pudge]]** is struggling. Their gryphon-hybrid requires massive connection to overcome its handicap. They strike a Vitruvian node, doubling their sync duration, but they're still behind the Global Amplitude line.
+The "Loom-Pulse" triggers. New Spires erupt from the ground. A Crystalline node appears right in front of **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]** (Team 5). They strike it, their sailboat hull turning into semi-fluid glass. They pass right through a narrow crack in the canyon wall that **[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** has to go around.
+Meanwhile, **[[resonance-racers#Team 4 Pudge|Pudge]]** is struggling. Their gryphon-hybrid requires massive connection to overcome its handicap. They strike a Vitruvian node, doubling their sync duration, but they're still behind the Global Amplitude line.
 
 **4. The Final Stretch**
-Only three teams left in contention for the Grand Resonator. **[[Marble Wall]]** is bearing down on **[[Dancer & Fabian]]**. Fabian is at the rudder, Dancer is on the Harvest-Prong. They hit a Kinetic-Echo spire, leaving a hard-light trail. As **[[Marble Wall]]** prepares to ram, **[[Dancer & Fabian]]** perform an instant U-turn on their own trail, letting the heavy rig sail past into a canyon wall.
+Only three teams left in contention for the Grand Resonator. **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** is bearing down on **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]**. Fabian is at the rudder, Dancer is on the Harvest-Prong. They hit a Kinetic-Echo spire, leaving a hard-light trail. As **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** prepares to ram, **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]** perform an instant U-turn on their own trail, letting the heavy rig sail past into a canyon wall.
 
 **5. The Grand Resonator**
-**[[Pudge]]** finally hits the needed amplitude. The gyro-boat’s battery glows brilliant purple. With a final Aero-Static jump, they soar over the crowd, landing directly in front of the Grand Resonator.
-**Strike!** The discharge creates a blinding pillar of light that illuminates the entire basin. **[[Pudge]] wins!**
+**[[resonance-racers#Team 4 Pudge|Pudge]]** finally hits the needed amplitude. The gyro-boat’s battery glows brilliant purple. With a final Aero-Static jump, they soar over the crowd, landing directly in front of the Grand Resonator.
+**Strike!** The discharge creates a blinding pillar of light that illuminates the entire basin. **[[resonance-racers#Team 4 Pudge|Pudge]] wins!**
 The crowd erupts. Valerius is shouting over the radio. The Captains in the Zephyrs are leaning over their magnifying floors, marking their tally sheets.
 
 ---
 
 ### Scene: Finding Rill
 
-**The Setup:** The PCs need to find [[Rill]] — she invited [[Britt]] and [[Aggie]] to visit her at the grass-covered building near [[Block 99]] back in Session 2. But when they arrive, she's not there. She's busy prepping for the opening Resonance Race.
+**The Setup:** The PCs need to find **[[rill|Rill]]** — she invited **[[britt|Britt]]** and **[[aggie|Aggie]]** to visit her at the grass-covered building near [[block-99|Block 99]] back in Session 2. But when they arrive, she's not there. She's busy prepping for the opening Resonance Race.
 
 **Finding her requires effort:**
 - Her usual spot (the grass-covered building inset into the hill) is **empty**. Bark samples are scattered on the desk, half-finished notes, a cold cup of something fungal.
 - If PCs ask around: *"Rill? She's been running between the Basin and the Fungal Labs all morning. Something about calibrations."*
-- If PCs check the Fungal Labs: She's there with **[[Professor Ink]]** — the [[scrivener-guild|Scrivener Guild]] Captain and fungal biology specialist. They're hunched over what looks like living moss samples, arguing about "resonance frequencies in petrified bark."
+- If PCs check the Fungal Labs: She's there with **[[professor-ink|Professor Ink]]** — the [[scrivener-guild|Scrivener Guild]] Captain and fungal biology specialist. They're hunched over what looks like living moss samples, arguing about "resonance frequencies in petrified bark."
 
 **The Encounter:**
 
@@ -529,11 +613,11 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
 
 **What Rill reveals (if pushed):**
 
-1. **The Journey:** She and [[Professor Ink]] are planning an expedition **back into the [[Mizizi Petrified Forest]]**. Ink wants to study the trees — specifically what they *remember*. Rill wants to find a cure for the "Eternal Growth" corruption affecting the [[Mizizi]].
+1. **The Journey:** She and **[[professor-ink|Professor Ink]]** are planning an expedition **back into the [[mizizi-petrified-forest|Mizizi Petrified Forest]]**. Ink wants to study the trees — specifically what they *remember*. Rill wants to find a cure for the "Eternal Growth" corruption affecting the [[mizizi|Mizizi]].
 
 2. **Her Shame:** Rill left the Forest two years ago. The [[Mizizi]] see her as a **traitor**. She didn't just leave — she was the first to walk out. To go *back*, escorted by a Harmony academic... that's going to feel like an invasion to the Elders.
 
-   > *"I know what they'll say. 'She left, and now she brings outsiders.' But Ink can see things in the bark that I can't. The trees are dying, Britt. Slowly. And the Elders won't let anyone help because they think stagnation IS health."*
+   > *"I know what they'll say. 'She left, and now she brings outsiders.' But Ink can see things in the bark that I can't. The trees are dying, [[britt|Britt]]. Slowly. And the Elders won't let anyone help because they think stagnation IS health."*
 
 3. **Her Secret (GM discretion):** Rill is secretly [[Wadi]], not [[Mizizi]]. Her River Clan heritage gives her a different perspective on "Flow" vs "Stagnation" — it's why she can solve problems true Mizizi cannot. She won't reveal this unless deeply trusted.
 
@@ -543,7 +627,7 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
    - **The Elders** — the Mizizi leadership doesn't welcome visitors. They may view Rill's return as a threat
 
 **Emotional Stakes:**
-- For **Britt/Aggie**: Rill is the only other Mizizi they know at the Academy. She's asking them to understand why she left — and maybe to support her return.
+- For **[[britt|Britt]]**/**[[aggie|Aggie]]**: Rill is the only other Mizizi they know at the Academy. She's asking them to understand why she left — and maybe to support her return.
 - For **other PCs**: This is a window into Mizizi culture, the Petrified Forest's dangers, and a future quest hook.
 - For **Rill**: She's torn between her excitement about the journey and her terror of what she'll face when she gets there. She's also trying to manage Zephyr, prep the Resonance Race, and assist the Dean — she's stretched thin.
 
