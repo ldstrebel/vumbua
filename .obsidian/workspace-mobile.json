@@ -69,8 +69,7 @@
               "title": "DH-SRD-May202025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,11 +230,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3f3b5669b5c056cf",
+  "active": "2ade9fb315eb2fdc",
   "lastOpenFiles": [
+    "Excalidraw/Session 3 drawing.md",
     "Excalidraw/Session 3 drawing.png",
     "sessions/planning/Session 3 Plan.md",
-    "Excalidraw/Session 3 drawing.md",
     "world/Harmony.md",
     "characters/npcs/resonance-racers.md",
     "locations/nstyl.md",
