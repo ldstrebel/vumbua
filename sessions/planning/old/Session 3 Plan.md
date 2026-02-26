@@ -363,3 +363,11 @@ Based on Daggerheart SRD p76-77 (Jagged Knife adversaries), reskinned:
 - **If PCs investigate on their own:** Seeds for a future subplot involving Azor and whatever he's really after.
 - **If PCs helped Tus & Zyykl:** This could pay off later — the Nstyl brothers remember kindness. There's a possible ally thread here.
 
+---
+
+## What Actually Happened (Session 3)
+
+- **The Lounge:** The party played Crown & Ruin with Valentine. Valentine got drunk and revealed he sold his exam "study guide" to Lucky.
+- **The Ambush:** Britt spotted Azor, Zyykl, and Tus and approached them. Azor led Britt into an alley where she was ambushed. She took heavy damage, used all her armor slots, and lost her test receipt but fought back to protect her heirloom petrified acorn necklace.
+- **The Interrogation:** Iggy, Lomi, and Aggie arrived. Britt pinned Azor and took his pocket watch as compensation for the mugging. Lomi, disgusted by Azor's lack of remorse, brutally punched the defeated Settikan in the gut, breaking his rib.
+- **The Plan:** Tomorrow, the party plans to track down Lucky and use Azor's pocket watch and the embellished story of Lomi breaking ribs to leverage/intimidate him into handing over the study guide.
