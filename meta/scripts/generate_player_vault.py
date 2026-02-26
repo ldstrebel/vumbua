@@ -22,11 +22,13 @@ def generate_vault():
     with open(overview_path, 'w', encoding='utf-8') as f:
         f.write(overview_content)
         
-    # 2. Extract facts for Known NPCs
-    npc_knowledge = defaultdict(list)
+    # 2. Extract facts for Known NPCs and Locations
+    knowledge = {
+        "npcs": defaultdict(list),
+        "locations": defaultdict(list)
+    }
     current_session = "Unknown Session"
     
-    # We want to iterate line by line to track which session we are in
     for line in overview_content.split('\n'):
         # Track session headers like `### [[Session 00|Session 0: The Trials]]`
         session_match = re.match(r'^###\s+(\[\[.*?\]\])', line)
@@ -34,56 +36,64 @@ def generate_vault():
             current_session = session_match.group(1)
             continue
             
-        # Look for bullet points
         if line.strip().startswith('-'):
-            # Find all links
             for link_match in re.finditer(r'\[\[(.*?)(?:\|.*?)?\]\]', line):
                 target = link_match.group(1).strip()
                 kebab_target = target.lower().replace(' ', '-')
                 
-                # Check if this target is an NPC
+                # Check entity type
                 npc_path = os.path.join(PROJECT_ROOT, "characters", "npcs", f"{kebab_target}.md")
-                if os.path.exists(npc_path):
-                    # Clean up the bullet point parsing slightly
-                    clean_fact = re.sub(r'^-', '', line).strip()
-                    npc_knowledge[kebab_target].append((current_session, clean_fact))
-                    
-    # Write Known NPCs
-    known_npcs_lines = [
-        "# Known NPCs",
-        "> A compendium of individuals the party has encountered, and exactly what is known about them so far.\n"
-    ]
-    
-    for npc_kebab, facts in sorted(npc_knowledge.items()):
-        npc_path = os.path.join(PROJECT_ROOT, "characters", "npcs", f"{npc_kebab}.md")
-        npc_name = npc_kebab.replace('-', ' ').title()
-        
-        # Pull actual display name from the NPC file
-        if os.path.exists(npc_path):
-            with open(npc_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                title_match = re.search(r'^#\s+(.*?)$', content, re.MULTILINE)
-                if title_match:
-                    npc_name = title_match.group(1)
-                    
-        # Remove duplicates while preserving order
-        unique_facts = []
-        seen = set()
-        for session_link, fact in facts:
-            sig = (session_link, fact)
-            if sig not in seen:
-                seen.add(sig)
-                unique_facts.append(sig)
+                loc_path = os.path.join(PROJECT_ROOT, "locations", f"{kebab_target}.md")
                 
-        if unique_facts:
-            known_npcs_lines.append(f"## [[{npc_kebab}|{npc_name}]]")
-            for session_link, fact in unique_facts:
-                known_npcs_lines.append(f"- {fact} *(Source: {session_link})*")
-            known_npcs_lines.append("")
+                entity_type = None
+                if os.path.exists(npc_path):
+                    entity_type = "npcs"
+                elif os.path.exists(loc_path):
+                    entity_type = "locations"
+                    
+                if entity_type:
+                    clean_fact = re.sub(r'^-', '', line).strip()
+                    knowledge[entity_type][kebab_target].append((current_session, clean_fact))
+                    
+    # Write individual entity files
+    for entity_type, entities in knowledge.items():
+        base_dir = "characters/npcs" if entity_type == "npcs" else "locations"
+        out_dir = os.path.join(EXPORT_VAULT_DIR, base_dir.replace("/", os.sep))
+        os.makedirs(out_dir, exist_ok=True)
         
-    npcs_path = os.path.join(EXPORT_VAULT_DIR, "Known NPCs.md")
-    with open(npcs_path, 'w', encoding='utf-8') as f:
-        f.write("\n".join(known_npcs_lines))
+        for kebab_name, facts in entities.items():
+            source_path = os.path.join(PROJECT_ROOT, base_dir.replace("/", os.sep), f"{kebab_name}.md")
+            display_name = kebab_name.replace('-', ' ').title()
+            
+            # Extract actual display name
+            if os.path.exists(source_path):
+                with open(source_path, 'r', encoding='utf-8') as f:
+                    content = f.read()
+                    title_match = re.search(r'^#\s+(.*?)$', content, re.MULTILINE)
+                    if title_match:
+                        display_name = title_match.group(1).strip()
+                        
+            # Remove duplicate facts
+            unique_facts = []
+            seen = set()
+            for session_link, fact in facts:
+                sig = (session_link, fact)
+                if sig not in seen:
+                    seen.add(sig)
+                    unique_facts.append(sig)
+                    
+            if unique_facts:
+                out_lines = [
+                    f"# {display_name}",
+                    "",
+                    "## Known Information"
+                ]
+                for session_link, fact in unique_facts:
+                    out_lines.append(f"- {fact} *(Source: {session_link})*")
+                    
+                out_path = os.path.join(out_dir, f"{kebab_name}.md")
+                with open(out_path, 'w', encoding='utf-8') as f:
+                    f.write("\n".join(out_lines))
 
     # 3. Securely copy PCs and scrub GM Notes
     pcs_src = os.path.join(PROJECT_ROOT, "characters", "player-characters")

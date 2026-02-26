@@ -15,7 +15,7 @@ Use this workflow to prep the Vumbua wiki for Foundry VTT ingestion via the Lava
 
 2. **Run the AI Generator Script**
    // turbo
-   - This script creates a fresh `meta/foundry-export-vault` folder. It dynamically generates the spoiler-free `Party Overview.md` and synthesizes the `Known NPCs.md` file using `sessions/index.md` as the source of truth. Finally, it securely copies the `characters/player-characters/` directory over, stripping out all `## GM Notes`.
+   - This script creates a fresh `meta/foundry-export-vault` folder. It dynamically generates the spoiler-free `Party Overview.md`. It then synthesizes individual NPC and Location files (e.g., `characters/npcs/iggy.md`, `locations/block-12.md`) containing only the facts players have discovered, using `sessions/index.md` as the source of truth. Finally, it securely copies the `characters/player-characters/` directory over, stripping out all `## GM Notes`.
    ```bash
    python meta/scripts/generate_player_vault.py
    ```
