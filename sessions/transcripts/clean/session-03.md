@@ -55,25 +55,26 @@ The party arrives at the Celestial Lounge in the Upper Core. Iggy gains a new ca
 ### The Study Guide Revelation
 * After the game, [[lomi|Lomi]] queries [[valerius-sterling|Val]] regarding the exams scheduled for the first day of class.
 * [[valerius-sterling|Val]], likely under the influence of the drinks, admits that he wrote a challenging test and sold it as a "study guide" to [[lucky|Lucky]].
-* [[valerius-sterling|Val]] claims his motive wasn't financial, but to ensure that anyone who acquired the "study guide" would at least learn the fundamental concepts rather than just cheat.
+* [[valerius-sterling|Val]] explains his motive: *"I didn't really write the study guide... I just wrote a really hard test so that if people are scared about it, they'll buy this test... I wanted to ensure that if people could get the answers on my test, they would have really good fundamentals."*
 * Shortly after this admission, [[valerius-sterling|Val]] passes out from a combination of drinking and exhaustion. [[ember|Ember]], having lost the game, returns to taking notes.
 
 ### The Alley Ambush
 * As attendants begin to clean up the floor around the passed-out [[valerius-sterling|Val]], the party decides they need to track down [[lucky|Lucky]].
 * [[britt|Britt]] notices a suspicious group—[[azor|Azor]] and two large bruisers, [[zyykl|Zyykl]] and [[tus|Tus]]—communicating openly via sign language as they leave.
 * Feeling curious, [[britt|Britt]] approaches them for directions to Block 99. [[azor|Azor]] claims he failed his candidacy run but knows the city, offering to show her the way.
-* [[iggy|Iggy]] attempts to tail them, but [[azor|Azor]] starts playing a game of evasion, leading [[britt|Britt]] into an unfamiliar alleyway before springing an ambush.
+* [[iggy|Iggy]] attempts to tail them, but [[azor|Azor]] starts playing a game of evasion, turning the navigation into an intense *"lose the tail spy game,"* leading [[britt|Britt]] into an unfamiliar alleyway before springing an ambush.
 * [[britt|Britt]] takes a heavy blow to the back of the head, opting to spend all four of her armor slots to reduce it from severe to major damage (taking 2 damage and 2 Stress).
 * She is grappled in a net, uses her phone network feature to ping [[aggie|Aggie]] with directions (taking 1 Stress), and breaks free.
-* During the scuffle, [[zyykl|Zyykl]] and [[tus|Tus]] take her test receipt. [[azor|Azor]] attempts to steal her family heirloom—a petrified acorn necklace—and makes off with it. 
-* [[zyykl|Zyykl]] and [[tus|Tus]] flee in a different direction. [[britt|Britt]] chases down [[azor|Azor]], tackling and pinning him to the ground in a rage to reclaim her necklace.
+* During the scuffle, [[zyykl|Zyykl]] and [[tus|Tus]] take her test receipt. [[azor|Azor]] sneers, *"You have nothing of value, did you? This is not even worth my time,"* before attempting to snatch her family heirloom—a petrified acorn necklace—and making off with it. 
+* [[zyykl|Zyykl]] and [[tus|Tus]] flee in a different direction. [[britt|Britt]] chases down [[azor|Azor]]; moving quickly despite the strange, slow appearance of her turtle-like movements, she tackles and pins him to the ground in a rage to reclaim her necklace.
 * [[iggy|Iggy]] arrives immediately after from a shortcut, seeing [[britt|Britt]] handling the situation. Shortly after, [[aggie|Aggie]], [[lomi|Lomi]], and [[ignatius|Ignatius]] arrive.
-* During the interrogation, [[azor|Azor]] reveals he recruited the others from Septal. He claims the receipt is worthless anyway since the Loom knows who a person is. 
+* During the interrogation, [[azor|Azor]] reveals he recruited the others from Septal. He rationalizes his actions, taunting the group: *"You may paint me as the villain, but I'm not the one out here squandering my chance on the week before the biggest week of your lives. Drinking at 2 AM..."* 
+* He also claims the receipt is worthless anyway since the Loom knows who a person is. 
 * Finding his rationalizations irresponsible, [[britt|Britt]] rips his pocket watch from his coat as compensation. 
-* Disgusted by Azor's attitude, [[lomi|Lomi]] punches the subdued man in the gut with an massive 18 roll, breaking his rib and leaving him helpless against the wall.
+* Disgusted by Azor's attitude, [[lomi|Lomi]] punches the subdued man in the gut with an massive 18 roll, breaking his rib and rendering him helpless against the wall.
 
 ### Regrouping and Planning
 * The party regroups outside the alley after the confrontation.
-* They solidify their plan for the next day: they must find [[lucky|Lucky]] to get the study guide.
+* They solidify their plan for the next day. As [[lomi|Lomi]] puts it: *"Tomorrow we find Lucky. We barter for the study guide. And we ace the exam."*
 * They decide their best leverage is to use the stolen pocket watch and the embellished "heroic" story of [[lomi|Lomi]] breaking the ribs of Britt's attacker as bartering tools.
 * The session ends with a long rest mechanic where players clear their HP, Stress, and Armor slots.
