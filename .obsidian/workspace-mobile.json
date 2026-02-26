@@ -22,6 +22,18 @@
             }
           },
           {
+            "id": "3f3b5669b5c056cf",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2026-02-25 19.44.10.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Drawing 2026-02-25 19.44.10.excalidraw"
+            }
+          },
+          {
             "id": "b31987c777bb7f18",
             "type": "leaf",
             "state": {
@@ -57,7 +69,8 @@
               "title": "DH-SRD-May202025"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -218,12 +231,13 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2ade9fb315eb2fdc",
+  "active": "3f3b5669b5c056cf",
   "lastOpenFiles": [
+    "sessions/planning/Session 3 Plan.md",
+    "Excalidraw/Drawing 2026-02-25 19.44.10.excalidraw.md",
     "world/Harmony.md",
     "characters/npcs/resonance-racers.md",
     "locations/nstyl.md",
-    "sessions/planning/Session 3 Plan.md",
     "meta/Excalidraw/Reso Race 1.md",
     "world/circuit-run.md",
     "locations/umbra-mountain.md",
@@ -245,7 +259,6 @@
     "Valerius Sterling Sr..md",
     "The Minimum.md",
     "meta/Daggerheart-Core/Drawing 2026-02-22 17.41.25.excalidraw.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
     "copilot/copilot-custom-prompts",
     "meta/Excalidraw/Reso Race 1.png",
     "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
