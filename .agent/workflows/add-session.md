@@ -17,25 +17,29 @@ Use this workflow after each game session to properly document what happened.
    - Check `sessions/transcripts/clean/` for the last session number
    - New session will be N+1
 
-2. **Review the raw transcript file**
+2. **Cross-Reference and Gather Context (CRITICAL STEP)**
+   - Read the `.agent/workflows/lore-index.md` canonical spellings section first.
+   - Read the corresponding session plan (if one exists) located in `sessions/planning/` or `sessions/planning/old/` to understand the *intended* narrative and character mappings before reading the raw transcript.
+   - Example: If reading Session 3 raw transcript, first read `Session 3 Plan.md` to know who the antagonists were supposed to be (e.g., Azor and Zyykl, not "Azer" and "Nickel").
+
+3. **Review the raw transcript file**
    - Located at `sessions/transcripts/raw/sN-raw.md`
    - If it doesn't exist, ask the user to provide one
-   - Read `lore-index.md` canonical spellings section before starting cleanup
-   - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure
+   - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure.
 
-3. **Create the cleaned session file**
+4. **Create the cleaned session file**
    // turbo
    - Create `sessions/transcripts/clean/session-NN.md`
    - Use the structure of the most recent cleaned session in `sessions/transcripts/clean/` as your template
    - Fill in the header information (date, players present)
 
-3.5. **Pre-scan: Build entity lists from transcript**
+4.5. **Pre-scan: Build entity lists from transcript**
    - Scan the entire transcript for all entities mentioned:
      - NPCs (name + first mention line)
      - Locations
      - Factions
      - Terms/concepts
-   - Cross-reference against `.agent/workflows/lore-index.md` to identify **NEW vs EXISTING** entities
+   - Cross-reference against `.agent/workflows/lore-index.md`, `characters/index.md`, and the **Session Plan** to identify **NEW vs EXISTING** entities and ensure **canonical names** are used (e.g., if the transcript says "Nickel" but the plan says "Zyykl," use "Zyykl").
    - Produce a **Session Delta** block in this exact format (copy it into both the cleaned transcript header and `.agent/workflows/lore-index.md`):
 
    ```markdown
@@ -58,9 +62,11 @@ Use this workflow after each game session to properly document what happened.
 
    - This delta is what future “diff-based” runs should rely on; it makes updates fast and bounded.
 
-4. **Extract and organize scenes from the transcript**
+5. **Extract and organize scenes from the transcript**
 
    > **CORE RULE: Zero detail loss.** This step is about *organizing* the transcript into a readable screenplay format, NOT summarizing. Every story-relevant detail must be preserved.
+
+   **Cross-Referencing Check (CRITICAL)**: Before finalizing a scene, double-check the events against the Session Plan. If the plan says X happened but the transcript says Y, document Y, but ensure you aren't misinterpreting the transcript due to bad audio/transcription errors (e.g., mistaking the item a character fought over). Use your logic.
 
    **Scene Structure:**
    - Identify major scene breaks (location changes, time jumps, significant topic shifts)
@@ -104,13 +110,14 @@ Use this workflow after each game session to properly document what happened.
    - When the GM says a line like `"Got an interesting thing going on over here"` — determine if this is the NPC speaking or the GM describing what the PC sees. Context clues: does the next line respond to it? Is the GM still doing scene description?
    - When fixing one line of dialogue, re-read the surrounding 5-10 lines to make sure you didn't accidentally delete or orphan adjacent exchanges
 
-5. **Update the session index**
+6. **Update the session index and "What Actually Happened"**
    - Add an entry to `sessions/index.md`
    - Include 2-3 sentence summary
    - List key events and player discoveries
-   - If new NPCs/PCs were introduced, run `/add-character` and update `characters/index.md`
+   - **Update the Session Plan**: Go to the original session plan (e.g., `sessions/planning/old/Session 3 Plan.md`) and append a `## What Actually Happened` section at the bottom, summarizing the deviations and actual outcomes.
+   - If new NPCs/PCs were introduced, run `/add-character` and update `characters/index.md`. Ensure that when updating `.agent/workflows/lore-index.md`, you completely remove any misspelled/placeholder names from the transcript (like "Azer") and replace them entirely with the canonical name.
 
-6. **Update related documentation**
+7. **Update related documentation**
    - Use the **Session Delta** block to drive updates (update only the pages listed there; avoid broad repo-wide edits)
    - Run `/add-character` for any new NPCs introduced (flagged in step 3.5)
    - Update `knowledge-tracker.md` with new discoveries
@@ -119,14 +126,13 @@ Use this workflow after each game session to properly document what happened.
    - Update `lore-index.md` with the Session Delta, new entities, spellings, and session status
    - If you need to capture GM-prep that did not occur in-session, place it under a clearly-labeled **GM Plan** section and tag it as `gm-plan`
 
-7. **Commit changes**
+8. **Commit changes**
    ```bash
-   git add characters/ sessions/ knowledge-tracker.md timeline.md glossary.md CHANGELOG.md
-   git commit -m "Add Session N recap"
-   git push
+   git add .
+   git commit -m "docs: Add Session N recap and related updates"
    ```
 
-8. **Update changelog**
+9. **Update changelog**
    - Append to `CHANGELOG.md` under today's date
    - Bullet: session processed, key files updated
 
@@ -134,8 +140,9 @@ Use this workflow after each game session to properly document what happened.
 - Raw transcripts: `sessions/transcripts/raw/sN-raw.md`
 - Cleaned sessions: `sessions/transcripts/clean/session-NN.md`
 - Lore index (AI reference): `.agent/workflows/lore-index.md`
+- Session Plans: `sessions/planning/` or `sessions/planning/old/`
 
-## Common Mistakes (learned from Session 2.5)
+## Common Mistakes (learned from Session 2.5 and Session 3)
 
 These are real errors that were made and corrected. Do not repeat them:
 
@@ -150,3 +157,7 @@ These are real errors that were made and corrected. Do not repeat them:
 5. **Deleting exchanges during fixes** — When fixing Iggy's opening dialect, the entire Kante/Iggy student exchange (`"Are you a student here?"` / `"That is what I have been told"`) was accidentally removed.
 
 6. **Asking about canonical names** — Asked the user if "Kante" was canonical when `professor-kante.md` already existed in the NPC files. Always check existing files first.
+
+7. **Failing to Cross-Reference the Session Plan** — (Session 3 error) Failing to read the `Session 3 Plan.md` before processing the transcript, leading to the creation of NPCs with misspelled transcript names ("Azer" and "Nickel") instead of the canonical names already established in the plan ("Azor" and "Zyykl"). **Always read the plan first.**
+
+8. **Missing Key Items/Details** — (Session 3 error) Misidentifying a crucial heirloom (a petrified acorn necklace) as a pocket watch because of a quick skim. **Read carefully, cross-reference, and ensure logical consistency in the narrative.**

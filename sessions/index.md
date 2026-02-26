@@ -97,6 +97,29 @@ While the party socializes at the bonfire, Iggy slips away to explore the Academ
 
 ---
 
+### [[Session 03|Session 3: The Celestial Lounge and The Ambush]]
+**Date:** 2024-11-20
+
+The party arrives at the Celestial Lounge in the Upper Core. Lomi joins Val and Ember in a game of "Crown and Ruin". Val reveals information about an upcoming exam and admits to selling a "study guide" for it to Lucky. Later, as the players leave the lounge, Britt follows a suspicious group into an alley but is ambushed by Azer, Nickel, and Tus. She loses test-related documents but retrieves her cherished pocket watch. Lomi and Iggy intervene, forcing the ambushers to flee. The group decides to find Lucky to get the study guide.
+
+**Key Events:**
+- The party arrives at the Celestial Lounge
+- Iggy gains "Cartography" experience mapping the view
+- Lomi wins "Crown and Ruin" against Val
+- Val reveals he sold the exam "study guide" to Lucky
+- Britt is ambushed in an alley by Azer, Nickel, and Tus
+- Britt loses her test receipt but saves her heirloom pocket watch
+- Lomi breaks Azer's rib to save Britt
+- The group plans to find Lucky the next day
+
+**Players Discovered:**
+- A coordinated group (Azer, Nickel, Tus) using sign language orchestrated the ambush
+- Lucky has the "study guide" for the upcoming exam
+- Val wrote the challenging exam to ensure students learned fundamentals
+- "Crown and Ruin" is a popular game involving Hope/Fear dice and Grease Shots
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)
