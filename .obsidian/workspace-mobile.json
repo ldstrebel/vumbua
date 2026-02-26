@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/transcripts/clean/session-03.md",
+                "file": "sessions/transcripts/raw/s3-raw.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "session-03"
+              "title": "s3-raw"
             }
           },
           {
@@ -220,10 +220,11 @@
   },
   "active": "3f3b5669b5c056cf",
   "lastOpenFiles": [
-    "characters/player-characters/britt.md",
-    "sessions/transcripts/clean/session-03.md",
-    "sessions/planning/Session 3 Plan.md",
+    "meta/Excalidraw/Reso Race 1.png",
     "sessions/transcripts/raw/s3-raw.md",
+    "sessions/transcripts/clean/session-03.md",
+    "characters/player-characters/britt.md",
+    "sessions/planning/Session 3 Plan.md",
     "meta/radio-scripts/session-04-recap.md",
     "meta/radio-scripts/session-03-recap.md",
     "copilot/copilot-conversations/can_you_make_me_a_image_prompt_for_the_celestial@20260225_194903.md",
@@ -250,9 +251,7 @@
     "world/circuit-run.md",
     "locations/umbra-mountain.md",
     "locations/trail-tail-trench.md",
-    "locations/shepta.md",
     "copilot/copilot-custom-prompts",
-    "meta/Excalidraw/Reso Race 1.png",
     "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
     "Screenshot_20260222_193632_Obsidian.jpg",
     "copilot/memory",
