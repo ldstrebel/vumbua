@@ -14,7 +14,7 @@ aliases:
 
 ---
 
-## Last Session Delta (Session 2.5: The Power Room)
+## Last Session Delta (Session 03: The Celestial Lounge and The Ambush)
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
@@ -39,18 +39,16 @@ New entities, reveals, and changes introduced in the most recent session. Update
 ```
 
 
-**New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[Professor Kante]] already had files)
-**New locations**: Power Plant interior (Walker-Core)
-**Key reveals** ([[Iggy]] only):
-- [[The Power System|Global Amplitude]] measures total ether energy — has been declining 30-40 years (unprecedented)
-- Ash-Blood integration produced only ~20 amps (expected +300 to +800)
-- Panda 5 batteries are surge regulators/receptors, not storage — powered by umber crystals
-- Night of Sparks (~400 years ago) burned the world for two months before umber crystals
-- Kante's theory: integration works through cultural connection, not resource extraction
-- Apex 1 battery line scrapped — Kante's career in jeopardy
-- "Trail tales from the Trench" — [[Trench-Kin]] known to Harmony as border defenders
-**Iggy's new assets**: Umber crystal from Kante, five connection experiments planned
-**Plot threads opened**: Kante invited Iggy to return for tea and collaboration; Iggy's worldview challenged (connection vs. isolation)
+**New NPCs introduced**: [[Azor]] (Settikan Schemer), [[Zyykl]] (Nstyl Bruiser), [[Tus]] (Nstyl Bruiser) - ambushers
+**New locations**: [[Celestial Lounge]] (Upper Core)
+**Key reveals**:
+- Valerius wrote a challenging, fundamental-focused "study guide" for the upcoming exam and sold it to [[Lucky]]
+- "Crown and Ruin" is a popular game played in the Celestial Lounge
+- A coordinated group using sign language is operating in the city and targeting students
+**Iggy's new assets**: "Cartography" experience trait
+**Britt's changes**: Lost a test receipt during the ambush but fiercely recovered her family heirloom: a petrified acorn necklace. Took Azor's pocket watch as compensation.
+**Lomi's changes**: Broke Azor's rib with an 18 damage roll while he was pinned/defeated during interrogation.
+**Plot threads opened**: The party must find Lucky the next day to get the "study guide" using Azor's pocket watch and the embellished story of the ambush as leverage.
 
 ### Truth tiers (RAG safety)
 - **transcript**: said/seen in-session
@@ -223,6 +221,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | Session 1 | `sessions/transcripts/raw/s1-raw.md` | `sessions/transcripts/clean/session-01.md` | ✅ Complete |
 | Session 2 | `sessions/transcripts/raw/s2-raw.md` | `sessions/transcripts/clean/session-02.md` | ✅ Complete |
 | Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/session-02.5.md` | ✅ Complete |
+| Session 3 | `sessions/transcripts/raw/s4-raw.md` | `sessions/transcripts/clean/session-03.md` | ✅ Complete |
 
 ---
 

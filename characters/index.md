@@ -86,3 +86,6 @@
 - **[[Valentine Sterling Sr.]]** - Legendary Explorer
 - **[[Lady Glissade]]** - Harmony Noble
 - **Captain Elara Thorne** - Legendary explorer (Historical)
+- **[[Azor]]** - Settikan Schemer and Con Artist
+- **[[Zyykl]]** - Nstyl Bruiser, failed Academy candidate
+- **[[Tus]]** - Nstyl Bruiser, failed Academy candidate
