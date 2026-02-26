@@ -8,29 +8,17 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ade9fb315eb2fdc",
+            "id": "3f3b5669b5c056cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/planning/Session 3 Plan.md",
+                "file": "sessions/transcripts/clean/session-03.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 Plan"
-            }
-          },
-          {
-            "id": "3f3b5669b5c056cf",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Session 3 drawing.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Session 3 drawing"
+              "title": "session-03"
             }
           },
           {
@@ -69,8 +57,7 @@
               "title": "DH-SRD-May202025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,9 +220,29 @@
   },
   "active": "3f3b5669b5c056cf",
   "lastOpenFiles": [
-    "Excalidraw/Session 3 drawing.png",
+    "characters/player-characters/britt.md",
+    "sessions/transcripts/clean/session-03.md",
     "sessions/planning/Session 3 Plan.md",
+    "sessions/transcripts/raw/s3-raw.md",
+    "meta/radio-scripts/session-04-recap.md",
+    "meta/radio-scripts/session-03-recap.md",
+    "copilot/copilot-conversations/can_you_make_me_a_image_prompt_for_the_celestial@20260225_194903.md",
+    "characters/npcs/zyykl.md",
+    "characters/npcs/tus.md",
+    "characters/npcs/iron-hide.md",
+    "characters/npcs/ignis-scorch.md",
+    "characters/npcs/captains-dossier.md",
+    "characters/npcs/azor.md",
+    "sessions/planning/old/s2/s2.5-planning.md",
+    "sessions/planning/old/s2/s2-planning.md",
+    "sessions/planning/old/s2/bonfire_scene.md",
+    "sessions/planning/old/Session 3 Plan.md",
+    "sessions/planning/old/s2",
+    "sessions/planning/session 4 plan",
+    "sessions/planning/old",
+    "sessions/planning",
     "Excalidraw/Session 3 drawing.md",
+    "Excalidraw/Session 3 drawing.png",
     "world/Harmony.md",
     "characters/npcs/resonance-racers.md",
     "locations/nstyl.md",
@@ -244,21 +251,6 @@
     "locations/umbra-mountain.md",
     "locations/trail-tail-trench.md",
     "locations/shepta.md",
-    "locations/settika.md",
-    "locations/relina.md",
-    "locations/prima.md",
-    "locations/octo.md",
-    "locations/minnow.md",
-    "locations/lenoa.md",
-    "locations/juxta.md",
-    "locations/gilded.md",
-    "locations/feltland.md",
-    "locations/elysium.md",
-    "locations/bloomfield.md",
-    "locations/bay-of-breath.md",
-    "characters/npcs/professor-ink.md",
-    "Valerius Sterling Sr..md",
-    "The Minimum.md",
     "copilot/copilot-custom-prompts",
     "meta/Excalidraw/Reso Race 1.png",
     "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
@@ -269,12 +261,8 @@
     "Excalidraw/Reso Race Basin.png",
     "Excalidraw",
     "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
-    "Ink/Drawing/2026.2.19 - 22.26pm.drawing",
     "world/vumbua-map-sent.png",
     "Ink/Pasted image 20260219223829.jpg",
-    "Untitled",
-    "Ink/Drawing/2026.2.19 - 22.00pm.drawing",
-    "Ink/Drawing",
     "meta/Excalidraw/Devin OCR test.png",
     "Excalidraw/Devin OCR test.png"
   ]
