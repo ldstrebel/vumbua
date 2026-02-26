@@ -6,11 +6,16 @@ import shutil
 PROJECT_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), '..', '..'))
 EXPORT_VAULT_DIR = os.path.join(PROJECT_ROOT, "meta", "foundry-export-vault")
 
-# Directories to copy
-TARGET_DIRS = [
+# Files and directories to copy
+TARGETS = [
     "characters",
     "locations",
-    "factions"
+    "factions",
+    "world",
+    "bestiary",
+    "timeline.md",
+    "knowledge-tracker.md",
+    "glossary.md"
 ]
 
 # Supported image extensions
@@ -45,14 +50,12 @@ def extract_links_from_markdown(content):
     return links
 
 def build_known_links_whitelist():
-    """Scan non-NPC files (sessions, PCs, locations, factions) to build a whitelist of known entities."""
+    """Scan root session/PC files to build a whitelist of known entities."""
     whitelist = set()
     source_dirs = [
         "sessions/transcripts/clean",
         "sessions",  # for index.md
-        "characters/player-characters",
-        "locations",
-        "factions"
+        "characters/player-characters"
     ]
     
     for relative_dir in source_dirs:
@@ -87,31 +90,40 @@ def process_and_copy_file(src_path, dest_path):
         shutil.copy2(src_path, dest_path)
 
 def build_vault():
-    """Copy over all targeted locations, scrubbing secrets and filtering NPCs."""
+    """Copy over all targeted locations, scrubbing secrets and filtering unmet entities."""
     known_links = build_known_links_whitelist()
-    print(f"Found {len(known_links)} unique wiki-links to use as an NPC whitelist.")
+    print(f"Found {len(known_links)} unique wiki-links to use as an entity whitelist.")
     
-    for dirname in TARGET_DIRS:
-        src_dir = os.path.join(PROJECT_ROOT, dirname)
-        if not os.path.exists(src_dir):
+    for target in TARGETS:
+        src_path = os.path.join(PROJECT_ROOT, target)
+        if not os.path.exists(src_path):
             continue
             
-        for root, _, files in os.walk(src_dir):
-            for file in files:
-                ext = os.path.splitext(file)[1].lower()
-                base_name = os.path.splitext(file)[0].lower()
-                
-                # NPC Filtering Logic
-                is_npc_file = "characters" in root and "npcs" in root
-                if is_npc_file and ext == '.md' and base_name not in known_links:
-                    # Skip unmet NPCs
-                    continue
-                
-                if ext == '.md' or ext in IMAGE_EXTENSIONS:
-                    src_path = os.path.join(root, file)
-                    rel_path = os.path.relpath(src_path, PROJECT_ROOT)
-                    dest_path = os.path.join(EXPORT_VAULT_DIR, rel_path)
-                    process_and_copy_file(src_path, dest_path)
+        if os.path.isfile(src_path):
+            ext = os.path.splitext(src_path)[1].lower()
+            if ext == '.md' or ext in IMAGE_EXTENSIONS:
+                rel_path = os.path.relpath(src_path, PROJECT_ROOT)
+                dest_path = os.path.join(EXPORT_VAULT_DIR, rel_path)
+                process_and_copy_file(src_path, dest_path)
+        else:
+            for root, _, files in os.walk(src_path):
+                for file in files:
+                    ext = os.path.splitext(file)[1].lower()
+                    base_name = os.path.splitext(file)[0].lower()
+                    
+                    # Filtering Logic for NPCs, Locations, and Factions
+                    # We always want to export index files
+                    is_filtered_entity = any(folder in root.replace('\\', '/') for folder in ["characters/npcs", "locations", "factions", "world", "bestiary"])
+                    if is_filtered_entity and ext == '.md' and base_name != "index":
+                        if base_name not in known_links:
+                            # Skip unmet entities
+                            continue
+                    
+                    if ext == '.md' or ext in IMAGE_EXTENSIONS:
+                        src_file_path = os.path.join(root, file)
+                        rel_path = os.path.relpath(src_file_path, PROJECT_ROOT)
+                        dest_path = os.path.join(EXPORT_VAULT_DIR, rel_path)
+                        process_and_copy_file(src_file_path, dest_path)
 
 def generate_party_overview():
     """Generate the 'Party Overview.md' from the sessions/index.md file."""
