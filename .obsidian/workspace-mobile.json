@@ -11,10 +11,14 @@
             "id": "b31987c777bb7f18",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sessions/transcripts/clean/session-00.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "session-00"
             }
           }
         ]
@@ -178,8 +182,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7b8b0d5c2271cba7",
+  "active": "b31987c777bb7f18",
   "lastOpenFiles": [
+    "sessions/planning/old/Session 3 Plan.md",
     "knowledge-tracker.md",
     "Valerius Sterling Sr..md",
     "The Minimum.md",
@@ -191,7 +196,6 @@
     "Harmony.md",
     "characters/npcs/lucky.md",
     "characters/index.md",
-    "sessions/planning/old/Session 3 Plan.md",
     "copilot/copilot-conversations/Help_me_find_the_exam_questions_we_have_set@20260301_092913.md",
     "characters/npcs/valentine-sterling.md",
     "sessions/transcripts/clean/session-03.md",
