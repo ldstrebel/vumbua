@@ -86,3 +86,10 @@
 - **[[Valentine Sterling Sr.]]** - Legendary Explorer
 - **[[Lady Glissade]]** - Harmony Noble
 - **Captain Elara Thorne** - Legendary explorer (Historical)
+- **[[Azor]]** - Settikan Schemer and Con Artist
+- **[[Zyykl]]** - Nstyl Bruiser, failed Academy candidate
+- **[[Tus]]** - Nstyl Bruiser, failed Academy candidate
+- **[[ignis-scorch|Captain Ignis "Scorch"]]** - Iron-Union Daredevil, Captain of the Proving Voyage
+- **[[iron-hide|Captain "Iron-Hide"]]** - Iron-Union Legend, Captain of The Bulwark
+
+- Captains List - a list of all Captains and their charter for the Venture
