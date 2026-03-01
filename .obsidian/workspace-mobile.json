@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/planning/old/Session 3 Plan.md",
+                "file": "characters/npcs/lucky.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 3 Plan"
+              "title": "lucky"
             }
           }
         ]
@@ -182,11 +182,11 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "b31987c777bb7f18",
+  "active": "b8412830106d5341",
   "lastOpenFiles": [
+    "sessions/planning/old/Session 3 Plan.md",
     "copilot/copilot-conversations/Help_me_find_the_exam_questions_we_have_set@20260301_092913.md",
     "characters/npcs/valentine-sterling.md",
-    "sessions/planning/old/Session 3 Plan.md",
     "sessions/transcripts/clean/session-03.md",
     "sessions/transcripts/raw/s3-raw.md",
     "knowledge-tracker.md",
