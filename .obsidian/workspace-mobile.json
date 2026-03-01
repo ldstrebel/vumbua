@@ -8,17 +8,13 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2ade9fb315eb2fdc",
+            "id": "b31987c777bb7f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "characters/player-characters/iggy.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "iggy"
+              "title": "New tab"
             }
           }
         ]
@@ -37,7 +33,7 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": true
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -49,12 +45,12 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "",
+            "query": "Test",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
             "extraContext": false,
-            "sortOrder": "alphabetical"
+            "sortOrder": "byCreatedTime"
           },
           "icon": "lucide-search",
           "title": "Search"
@@ -112,7 +108,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
+            "file": "sessions/planning/Session 3 Plan.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -131,7 +127,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
+            "file": "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -145,7 +141,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "lore/index.md",
+            "file": "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -155,7 +151,7 @@
         }
       },
       {
-        "id": "499e02d4ef684ef1",
+        "id": "b8412830106d5341",
         "type": "leaf",
         "state": {
           "type": "copilot-chat-view",
@@ -169,6 +165,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "handwritten-notes:Create empty handwritten note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -181,44 +178,52 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "2ade9fb315eb2fdc",
+  "active": "7b8b0d5c2271cba7",
   "lastOpenFiles": [
-    "sessions/transcripts/session-02.5.md",
-    "characters/player-characters/iggy.md",
-    "lore/index.md",
-    "The Minimum.md",
-    "lore/characters/npcs/baron-bolt.md",
-    "characters/index.md",
+    "knowledge-tracker.md",
     "Valerius Sterling Sr..md",
-    "copilot/copilot-conversations/I_need_to_buy_an_index_of_my_NPCs_with@20260217_235340.md",
-    "copilot/copilot-conversations",
-    "lore/characters/npcs/calculus-prime.md",
-    "copilot/copilot-custom-prompts/Clip Web Page.md",
-    "copilot/copilot-custom-prompts/Clip YouTube Transcript.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet thread.md",
-    "copilot/copilot-custom-prompts/Rewrite as tweet.md",
-    "copilot/copilot-custom-prompts/Remove URLs.md",
-    "copilot/copilot-custom-prompts/Generate glossary.md",
-    "copilot/copilot-custom-prompts/Generate table of contents.md",
-    "copilot/copilot-custom-prompts/Make longer.md",
-    "copilot/copilot-custom-prompts/Make shorter.md",
-    "copilot/copilot-custom-prompts/Emojify.md",
-    "copilot/copilot-custom-prompts/Explain like I am 5.md",
-    "copilot/copilot-custom-prompts/Simplify.md",
-    "copilot/copilot-custom-prompts/Summarize.md",
-    "copilot/copilot-custom-prompts/Translate to Chinese.md",
-    "copilot/copilot-custom-prompts/Fix grammar and spelling.md",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "Vumbua/Lore/Vumbua Academy.md",
-    "lore/factions/clans/trench-kin.md",
-    "lore-dump/Taratannen.pdf",
-    "Excalidraw/Devin OCR test.png",
+    "The Minimum.md",
+    "sessions/planning/Session 3 Plan.md",
+    "sessions/planning/s2/s2.5-planning.md",
+    "sessions/planning/s2/s2-planning.md",
+    "sessions/planning/s2/bonfire_scene.md",
     "sessions/planning/s2",
-    "sessions/transcripts",
+    "Harmony.md",
+    "characters/npcs/lucky.md",
+    "characters/index.md",
+    "sessions/planning/old/Session 3 Plan.md",
+    "copilot/copilot-conversations/Help_me_find_the_exam_questions_we_have_set@20260301_092913.md",
+    "characters/npcs/valentine-sterling.md",
+    "sessions/transcripts/clean/session-03.md",
+    "sessions/transcripts/raw/s3-raw.md",
+    "sessions/transcripts/clean/session-00.md",
+    "sessions/index.md",
+    "meta/Excalidraw/Reso Race 1.png",
+    "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
+    "Excalidraw/Reso Race Basin.md",
+    "characters/player-characters/britt.md",
+    "meta/radio-scripts/session-04-recap.md",
+    "meta/radio-scripts/session-03-recap.md",
+    "copilot/copilot-conversations/can_you_make_me_a_image_prompt_for_the_celestial@20260225_194903.md",
+    "characters/npcs/zyykl.md",
+    "characters/npcs/tus.md",
+    "characters/npcs/iron-hide.md",
+    "characters/npcs/ignis-scorch.md",
+    "sessions/planning/old/s2",
+    "sessions/planning/session 4 plan",
+    "sessions/planning/old",
     "sessions/planning",
-    "sessions",
-    "scripts/convert_to_obsidian.py",
-    "radio-scripts"
+    "Excalidraw/Session 3 drawing.png",
+    "copilot/copilot-custom-prompts",
+    "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
+    "Screenshot_20260222_193632_Obsidian.jpg",
+    "copilot/memory",
+    "copilot/copilot-conversations",
+    "copilot",
+    "Excalidraw/Reso Race Basin.png",
+    "world/vumbua-map-sent.png",
+    "Ink/Pasted image 20260219223829.jpg",
+    "meta/Excalidraw/Devin OCR test.png",
+    "Excalidraw/Devin OCR test.png"
   ]
 }
