@@ -13,7 +13,7 @@ aliases:
 
 ## Quick Summary
 
-While the rest of the party socializes at the [[Block 99]] bonfire, [[iggy|Iggy]] Irish-goodbyes and sneaks into the Academy's power plant ([[Walker-Core]]). Inside, he meets [[Tommy]] (a gnome clerk), [[Lucina]] (a dwarf mechanic), and discovers the resonator battery infrastructure. [[professor-kante|Professor Kante]], a tortoise professor of harmonics, finds Iggy sketching machinery and draws him into a deep conversation about the [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the nature of Harmony's power — ending with an invitation to return and an umber crystal gift.
+While the rest of the party socializes at the [[block-99|Block 99]] bonfire, [[iggy|Iggy]] Irish-goodbyes and sneaks into the Academy's power plant ([[walker-core|Walker-Core]]). Inside, he meets [[tommy|Tommy]] (a gnome clerk), [[lucina|Lucina]] (a dwarf mechanic), and discovers the resonator battery infrastructure. [[professor-kante|Professor Kante]], a tortoise professor of harmonics, finds Iggy sketching machinery and draws him into a deep conversation about the [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the nature of Harmony's power — ending with an invitation to return and an umber crystal gift.
 
 ---
 
@@ -21,7 +21,7 @@ While the rest of the party socializes at the [[Block 99]] bonfire, [[iggy|Iggy]
 
 ### Scene 1: The Irish Goodbye
 
-**Location:** [[Block 99]] Courtyard / Bonfire area  
+**Location:** [[block-99|Block 99]] Courtyard / Bonfire area  
 **NPCs Present:** (background crowd)  
 **Time:** Evening, Day 1
 
@@ -50,8 +50,8 @@ At the same time, something else caught his eye: just next to where the fire was
 
 ### Scene 2: The Lobby — Tommy and Lucina
 
-**Location:** Power Plant lobby, [[Walker-Core]]  
-**NPCs Present:** [[Tommy]] (gnome clerk), [[Lucina]] (dwarf mechanic)  
+**Location:** Power Plant lobby, [[walker-core|Walker-Core]]  
+**NPCs Present:** [[tommy|Tommy]] (gnome clerk), [[lucina|Lucina]] (dwarf mechanic)  
 **Time:** Evening, Day 1
 
 *GM Narration:*
@@ -60,7 +60,7 @@ Iggy walks right up to the power plant — the building with "Vumbua POWER" over
 
 Inside, all he can see is the very top of a red pointed hat, walking back and forth behind a desk.
 
-**[[Tommy]]:** "Hello?"
+**[[tommy|Tommy]]:** "Hello?"
 
 **Iggy:** "Nime."
 
@@ -80,21 +80,21 @@ And he turns and walks away.
 
 As Iggy goes through, a dwarf comes around the corner — basically almost a cousin of the gnome but a little burlier, wearing mechanic overalls. Tommy is wearing a scribe/office clerk type of attire — button-up collar.
 
-**[[Lucina]]:** "Oh, here — Tommy, did you let someone in? Are they lost?"
+**[[lucina|Lucina]]:** "Oh, here — Tommy, did you let someone in? Are they lost?"
 
 They both watched Iggy walk by. Neither of them really followed him. Lucina asked: "Are we allowed to let students back here?" — but nobody stopped him.
 
 **Player Discoveries:**
 - The power plant is staffed by non-students (Tommy is a clerk, Lucina is a maintenance worker)
 - Security is minimal — nobody stopped Iggy from walking through
-- Tommy wants to apply to [[Vumbua Academy]] next year
+- Tommy wants to apply to [[vumbua-academy|Vumbua Academy]] next year
 
 ---
 
 ### Scene 3: The Warehouse Floor
 
-**Location:** Power Plant main floor, [[Walker-Core]]  
-**NPCs Present:** [[Marla]] (background, human maintenance worker)  
+**Location:** Power Plant main floor, [[walker-core|Walker-Core]]  
+**NPCs Present:** [[marla|Marla]] (background, human maintenance worker)  
 **Time:** Evening, Day 1
 
 *GM Narration:*
@@ -103,7 +103,7 @@ Past the little lobby area, the space opens up into a large warehouse. Iggy is o
 
 On the catwalk level, there is an office space — quite big, actually. It has the same glowing crystals that are on the panels. A couple of them sit in a cabinet. There's a big chalkboard with a bunch of scribbles on it.
 
-The catwalk goes all the way around, with a couple of offices spread out on the top level. A staircase leads down to the ground floor. There's one other person — a tall human woman ([[Marla]]), her head bobbing in and out between the machines as she works with wrenches down below. Otherwise, no one else is back here.
+The catwalk goes all the way around, with a couple of offices spread out on the top level. A staircase leads down to the ground floor. There's one other person — a tall human woman ([[marla|Marla]]), her head bobbing in and out between the machines as she works with wrenches down below. Otherwise, no one else is back here.
 
 Iggy pulls out his notepad and starts drawing everything in detail. He walks down the catwalk, sketching from what he can see, planning to eventually go downstairs to see it up close. As he draws, he looks up and notices that some of the things he's sketching are already drawn on the chalkboard in the office to the left.
 
@@ -333,13 +333,13 @@ The Ash-Bloods' story: they were experiencing fluctuations before integration. T
 - **Panda 5 batteries are regulators, not storage** — they cap the faucet and output consistent energy; they are "receptors"
 - **The Apex line was scrapped** — Kante's next-gen battery designed for a post-surge world is now useless
 - **Kante's theory**: The key to integration is connection between cultures — finding something so internal to your culture that it bridges the divide. Like two tribes discovering fire separately and teaching each other the word for flame.
-- **The [[Trench-Kin]] are known to Harmony** — Kante mentions "trail tales from the Trench" as part of what defends Harmony's borders
+- **The [[trench-kin|Trench-Kin]] are known to Harmony** — Kante mentions "trail tales from the Trench" as part of what defends Harmony's borders
 - **The Exchange ritual is unknown to Kante** — this surprises him, suggesting it's a clan-only practice
 - **Kante suspects Iggy is from an isolated, unintegrated sect** but doesn't push further
 
 **GM Notes:**
 > [!NOTE]
-> **Critical dramatic irony**: Iggy is [[Trench-Kin]] — one of the "missing siblings" whose unintegrated status is contributing to the Ash-Blood Anomaly. If Kante knew what Iggy was, the mystery might be half-solved.
+> **Critical dramatic irony**: Iggy is [[trench-kin|Trench-Kin]] — one of the "missing siblings" whose unintegrated status is contributing to the Ash-Blood Anomaly. If Kante knew what Iggy was, the mystery might be half-solved.
 >
 > Holly's key insight: "If connection is so important, why does the Exchange force people to forget?" — this is the exact right question that neither Kante nor Harmony has considered. The Exchange is a clan practice that may be undermining the very connections Kante says are essential.
 >
@@ -377,7 +377,7 @@ Iggy takes the umber crystal back to his bunk. He pulls out his notebook and sta
 
 He scratches down five experiments he could run to test connection throughout the night with people — a little crossover from Kante's philosophy into practical testing.
 
-Eventually, the rest of the group returns from the bonfire and heads out for late-night drinks at the [[Celestial Lounge]]. Iggy has been up late, tinkering. He sees his new friends walk by, dawn-lit and heading out for more. He decides to join them — partly to distract himself from the conversation about connection buzzing in his head, and partly as a little experiment: testing connection with others.
+Eventually, the rest of the group returns from the bonfire and heads out for late-night drinks at the [[celestial-lounge|Celestial Lounge]]. Iggy has been up late, tinkering. He sees his new friends walk by, dawn-lit and heading out for more. He decides to join them — partly to distract himself from the conversation about connection buzzing in his head, and partly as a little experiment: testing connection with others.
 
 **Player Discoveries:**
 - **Umber crystals** are the core component of resonator batteries — Iggy now has one
@@ -389,7 +389,7 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 > [!NOTE]
 > Iggy now has a physical piece of the power infrastructure — an umber crystal. The GM noted they're heavy (Iggy couldn't have stolen a full battery), but this crystal is small enough to pocket.
 >
-> Holly's description of Iggy's night: he's creating models, sketching versions, trying to solve the unsolvable. He wants to put his hands on the problem. Five experiments to "test connection" throughout the night — using the [[Celestial Lounge]] outing as a field test for Kante's theory.
+> Holly's description of Iggy's night: he's creating models, sketching versions, trying to solve the unsolvable. He wants to put his hands on the problem. Five experiments to "test connection" throughout the night — using the [[celestial-lounge|Celestial Lounge]] outing as a field test for Kante's theory.
 
 ---
 
@@ -399,7 +399,7 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 - **[[iggy|Iggy]]:** Major turning point. His worldview is being challenged — he's been told his whole life that connection with the outside world would destroy his people, but Kante argues the opposite. He's confused but intellectually engaged. Gained a mentor figure in Kante, an umber crystal, and five experiments to run. His natural technical aptitude was validated.
 
 ### Party Relationships
-- [[iggy|Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the [[Celestial Lounge]] trip
+- [[iggy|Iggy]] Irish-goodbyed from the bonfire but rejoined the group for the [[celestial-lounge|Celestial Lounge]] trip
 - He noticed [[ignatius|Ignatius]] looking back at him — the connection is building even when Iggy wanders
 - Iggy is now running "connection experiments" with his new friends
 
@@ -422,10 +422,10 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 ## Lore Updates
 
 - [x] Update [[professor-kante|Professor Kante]] — now met by [[iggy|Iggy]]
-- [x] Update [[Knowledge Tracker]] — [[iggy|Iggy]] now knows about GA decline, batteries, anomaly
-- [x] Update [[Timeline]] — Session 2.5 is no longer [Planned]
+- [x] Update [[knowledge-tracker|Knowledge Tracker]] — [[iggy|Iggy]] now knows about GA decline, batteries, anomaly
+- [x] Update [[timeline|Timeline]] — Session 2.5 is no longer [Planned]
 - [x] Update [[iggy|Iggy]] — new mechanics, umber crystal, Kante connection
-- [x] Add new entries about umber crystals and Panda 5 to [[Glossary]]
+- [x] Add new entries about umber crystals and Panda 5 to [[glossary|Glossary]]
 
 ---
 
@@ -439,7 +439,7 @@ Eventually, the rest of the group returns from the bonfire and heads out for lat
 
 ### Adjustments for Next Time
 - Kante's lecture could be tighter — he acknowledges "I feel like I am talking around in circles"
-- [[Marla]] (human mechanic on the floor) was present but never interacted with Iggy — could be revisited in a future visit for her backstory about failing out of the Academy
+- [[marla|Marla]] (human mechanic on the floor) was present but never interacted with Iggy — could be revisited in a future visit for her backstory about failing out of the Academy
 
 ### Future Plot Threads to Develop
 - Iggy's five connection experiments — what does he test? What does he learn?

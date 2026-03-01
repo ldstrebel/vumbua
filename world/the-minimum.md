@@ -16,12 +16,12 @@ Official propaganda: "We are re-routing power to the new expansion. It is a sign
 
 ## What Players Know
 
-The lights flicker sometimes. [[Block 99]] (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[Lomi]], who works in the boiler room, may sense something deeper is wrong with the engines.
+The lights flicker sometimes. [[block-99|Block 99]] (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[lomi|Lomi]], who works in the boiler room, may sense something deeper is wrong with the engines.
 
 ### Source References
 
 - **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained the amplitude decline and Ash-Blood Anomaly to [[iggy|Iggy]] *(Scene 4: The Professor)*
-- **[[session-02.5|Session 2.5]]** — [[iggy|Iggy]] saw charts showing [[The Power System|Global Amplitude]] decline in the [[Walker-Core]] power room *(Scene 3: The Warehouse)*
+- **[[session-02.5|Session 2.5]]** — [[iggy|Iggy]] saw charts showing [[The Power System|Global Amplitude]] decline in the [[walker-core|Walker-Core]] power room *(Scene 3: The Warehouse)*
 
 ---
 
@@ -43,25 +43,25 @@ See [[The Power System]] for full technical details on [[The Power System|Global
 - **Global Amplitude:** ~600 amps and declining (first decline in recorded history)
 - **Panda line threshold:** 550 amps (below this, power becomes erratic)
 - **Ash-Blood integration:** Should have added +300 to +800 amps, only added ~20
-- **[[House Gilded]]** is hiding insolvency---the Crystal Banks are empty
-- **The [[Iron-Union]]** physically feels the "Ghost Charge"---power fluctuations that shouldn't exist
-- **The [[Vane Lineage]]** knows the perimeter walls are failing
-- **The [[Scrivener Guild]]** knows the Empire collapsed once before due to isolation
+- **[[house-gilded|House Gilded]]** is hiding insolvency---the Crystal Banks are empty
+- **The [[iron-union|Iron-Union]]** physically feels the "Ghost Charge"---power fluctuations that shouldn't exist
+- **The [[vane-lineage|Vane Lineage]]** knows the perimeter walls are failing
+- **The [[scrivener-guild|Scrivener Guild]]** knows the Empire collapsed once before due to isolation
 - **House Vox** scrapped the Apex 1 battery line (designed for a post-Ash-Blood surge that never came)
 
 ### Clan Perspective: "Too Much Connection"
 
 The City eats more than it bleeds. It is a parasite looking for a new host.
 
-**[[Lomi]]'s Insider Knowledge:** The boilers aren't just low on fuel; the *containment seals* are cracking. The city is trying to eat itself to stay alive.
+**[[lomi|Lomi]]'s Insider Knowledge:** The boilers aren't just low on fuel; the *containment seals* are cracking. The city is trying to eat itself to stay alive.
 
 ### The Block 99 Incident
 
-The lights in the Copper Dorms ([[Block 99]]) went out for 4 hours last night. Official reason: "Upgrades." Real reason: The [[Sky-Spire]] needed the power for a dinner party.
+The lights in the Copper Dorms ([[block-99|Block 99]]) went out for 4 hours last night. Official reason: "Upgrades." Real reason: The [[sky-spire|Sky-Spire]] needed the power for a dinner party.
 
 ### The Shattered Circuit Leak
 
-[[Dean Isolde Vane|Dean Vane]] has confirmed a terrifying mathematical reality: the Ash-Blood and [[Mizizi]] Nodes are "Major" in size but outputting only Minor Node power. Because these Nodes were once part of a unified Empire, they are metaphysically "reaching out" to their missing siblings (Trench, Cloud, etc.). Energy is bleeding into the void.
+[[Dean Isolde Vane|Dean Vane]] has confirmed a terrifying mathematical reality: the Ash-Blood and [[mizizi|Mizizi]] Nodes are "Major" in size but outputting only Minor Node power. Because these Nodes were once part of a unified Empire, they are metaphysically "reaching out" to their missing siblings (Trench, Cloud, etc.). Energy is bleeding into the void.
 
 [[professor-kante|Professor Kante]]'s whiteboard independently confirms this: his projections show the Ash-Blood integration should have produced a Global Amplitude increase of +300 to +800, but only ~20 materialized---barely better than a minor node discovered 80 years ago.
 
@@ -76,5 +76,5 @@ The lights in the Copper Dorms ([[Block 99]]) went out for 4 hours last night. O
 
 - [[The Power System]] — Full technical details on Global Amplitude, Resonators, and Crystal Batteries
 - [[professor-kante|Professor Kante]] — Key researcher investigating the Ash-Blood Anomaly
-- [[Ash-Bloods]] — Integration produced only ~20 amp increase instead of expected +300 to +800
-- [[Walker-Core]] — Houses the power plant where the crisis is most visible
+- [[ash-bloods|Ash-Bloods]] — Integration produced only ~20 amp increase instead of expected +300 to +800
+- [[walker-core|Walker-Core]] — Houses the power plant where the crisis is most visible

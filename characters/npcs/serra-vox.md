@@ -17,20 +17,20 @@ tags:
 
 **Aliases:** Serra Vox, Serra
 **Role:** Squad 01 (The Echelon) - Bard (Gold Rank)
-**Affiliation:** Harmony (Vox Family), [[Vumbua Academy]]
+**Affiliation:** Harmony (Vox Family), [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
 Known to most students as **Serra Vox**, a slightly awkward but enthusiastic history buff who wants to be an "ally" to the new clans. In reality, she is **Seraphina Vox**, the youngest daughter of Arch-Duke Cymon Vox, the energy magnate of Harmony.
 
 ## Session 2 Appearance
-At the Block 99 bonfire, Serra approached [[Britt]] and [[Aggie]] with aggressive curiosity, calling the gathering "the most important anthropological cauldron in years." She claimed to be from the far east side of the main continent (near Settika) but slipped when mentioning she'd spent "unfortunate" time in The Seat due to "political pressure."
+At the Block 99 bonfire, Serra approached [[britt|Britt]] and [[aggie|Aggie]] with aggressive curiosity, calling the gathering "the most important anthropological cauldron in years." She claimed to be from the far east side of the main continent (near Settika) but slipped when mentioning she'd spent "unfortunate" time in The Seat due to "political pressure."
 
-When [[Britt]] tried to charm her for more info (Failure with Fear), Serra shut down and deflected.
+When [[britt|Britt]] tried to charm her for more info (Failure with Fear), Serra shut down and deflected.
 
-Later, she explained the **Inverse Power Doctrine** to [[Ignatius]]: Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."* She revealed that [[Lady Ignis]] holds the most political power in Harmony because of this rule.
+Later, she explained the **Inverse Power Doctrine** to [[ignatius|Ignatius]]: Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."* She revealed that [[lady-ignis|Lady Ignis]] holds the most political power in Harmony because of this rule.
 
-She also noted that every discovered place has a "purpose" except the [[Mizizi]] forest, which puzzles scholars. She took frantic notes when [[Ignatius]] explained Ash-Blood physiology (heat release via burning hotter, not sweating).
+She also noted that every discovered place has a "purpose" except the [[mizizi|Mizizi]] forest, which puzzles scholars. She took frantic notes when [[ignatius|Ignatius]] explained Ash-Blood physiology (heat release via burning hotter, not sweating).
 
 Key slip-ups in Session 2:
 - Admitted to spending time in The Seat under "political pressure"
@@ -49,16 +49,16 @@ Key slip-ups in Session 2:
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Valerius Sterling]]** | Her squad captain. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
-| **[[Ignatius]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
-| **[[Cassius Thorne]]** | He has a crush on her; she seems oblivious. |
-| **[[Britt]]/[[Aggie]]** | Genuinely fascinated by them but made them uncomfortable with too many questions. |
-| **[[Rill]]** | Identified [[Rill]] as the person who pulled [[Dean Isolde Vane\|the Dean]] off stage. Called her "one of the greatest inventors in our age." |
+| **[[valerius-sterling|Valerius Sterling]]** | Her squad captain. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
+| **[[ignatius|Ignatius]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
+| **[[cassius-thorne|Cassius Thorne]]** | He has a crush on her; she seems oblivious. |
+| **[[britt|Britt]]/[[aggie|Aggie]]** | Genuinely fascinated by them but made them uncomfortable with too many questions. |
+| **[[rill|Rill]]** | Identified [[rill|Rill]] as the person who pulled [[Dean Isolde Vane\|the Dean]] off stage. Called her "one of the greatest inventors in our age." |
 
 ## Source References
 
-- **[[session-02|Session 2]]** — Approached [[Britt]] and [[Aggie]] at the [[Block 99]] bonfire *(Scene 3: First Contact — Serra Vox)*
-- **[[session-02|Session 2]]** — Explained the [[Inverse Power Doctrine]] to [[Ignatius]] *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — Approached [[britt|Britt]] and [[aggie|Aggie]] at the [[block-99|Block 99]] bonfire *(Scene 3: First Contact — Serra Vox)*
+- **[[session-02|Session 2]]** — Explained the [[Inverse Power Doctrine]] to [[ignatius|Ignatius]] *(Scene 6: Ash-Blood Politics)*
 - **[[session-02|Session 2]]** — Noted the [[Mizizi Petrified Forest\|Mizizi forest]] has no clear "purpose" *(Scene 5: Philosophy of Death)*
 - **[[session-02|Session 2]]** — Slipped about time at [[Harmony Prime\|The Seat]] under "political pressure" *(Scene 3)*
-- **[[session-02|Session 2]]** — Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[Ignatius]] *(Scene 6)*
+- **[[session-02|Session 2]]** — Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[ignatius|Ignatius]] *(Scene 6)*

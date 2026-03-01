@@ -7,7 +7,7 @@ tags:
 # Theorem
 
 **Role:** Squad 04 (The Axiom) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -18,6 +18,6 @@ Member of Squad 04. Dedicated to testing hypotheses in combat.
 
 ## Related Pages
 
-- [[Calculus Prime]] — Squad 04 Captain
-- [[Lemma]] — Squad 04 Support
-- [[Vumbua Academy]] — Current posting
+- [[calculus-prime|Calculus Prime]] — Squad 04 Captain
+- [[lemma|Lemma]] — Squad 04 Support
+- [[vumbua-academy|Vumbua Academy]] — Current posting

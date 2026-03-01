@@ -59,9 +59,9 @@
 
 Files use **standard markdown links** with relative paths:
 ```markdown
-[[Ash-Bloods]]
-[[The Bleed]]
-[[Britt]]
+[[ash-bloods|Ash-Bloods]]
+[[the-bleed|The Bleed]]
+[[britt|Britt]]
 ```
 
 ### Existing Metadata
@@ -90,7 +90,7 @@ Files use **standard markdown links** with relative paths:
 
 1. **Wikilinks everywhere** -- Every proper noun is a `[[wikilink]]` that resolves to its page
 2. **Hover preview** -- Hovering/clicking a link shows the definition without leaving the current page
-3. **Alias support** -- `[[Rill]]` also matches "Real", "[[Rill|The River-Born]]"; `[[Seraphina "Serra" Vox]]` matches "Serra", "[[Serra Vox]]"
+3. **Alias support** -- `[[rill|Rill]]` also matches "Real", "[[Rill|The River-Born]]"; `[[Seraphina "Serra" Vox]]` matches "Serra", "[[serra-vox|Serra Vox]]"
 4. **Full-text search** -- Instant search across all 104+ files
 5. **Graph view** -- Visual map of how entities connect
 6. **Live editing** -- Edit any page in place, changes persist immediately
@@ -127,8 +127,8 @@ tags:
 **Alias sources** (merge all of these):
 1. The `**Aliases:**` line in each NPC/PC file
 2. The "Common Errors" column in `.agent/workflows/lore-index.md` (canonical spellings table)
-3. Known nicknames from session transcripts (e.g., "[[Ignatius|Lava Boy]]" for [[Ignatius]], "[[Zephyr|Lightning Girl]]" for Zephyr)
-4. Faction alternate names from the glossary (e.g., [[Mizizi]] = "[[Mizizi|Root-Kin]]" = "[[Mizizi|Deep-Root Clan]]" = "[[Mizizi|Mycelium Clan]]")
+3. Known nicknames from session transcripts (e.g., "[[Ignatius|Lava Boy]]" for [[ignatius|Ignatius]], "[[Zephyr|Lightning Girl]]" for Zephyr)
+4. Faction alternate names from the glossary (e.g., [[mizizi|Mizizi]] = "[[Mizizi|Root-Kin]]" = "[[Mizizi|Deep-Root Clan]]" = "[[Mizizi|Mycelium Clan]]")
 
 **Tag taxonomy** (suggested):
 - `pc`, `npc`, `faction`, `clan`, `harmony-house`, `location`, `creature`, `world-lore`, `session`, `mechanic`
@@ -144,21 +144,21 @@ Replace all `[[Path|Display Text]]` with `[[Page Name]]` or `[[Page Name|Display
 1. Match link targets to the actual `# H1 heading` or filename of the destination file
 2. Obsidian resolves by filename, so `[[rill]]` finds `rill.md` regardless of folder depth
 3. If the display text differs from the page name, use pipe syntax: `[[rill|Rill the River-Born]]`
-4. Absolute paths like `/factions/clans/ash-bloods.md` become `[[Ash-Bloods]]`
-5. Relative paths like `player-characters/britt.md` become `[[Britt]]`
+4. Absolute paths like `/factions/clans/ash-bloods.md` become `[[ash-bloods|Ash-Bloods]]`
+5. Relative paths like `player-characters/britt.md` become `[[britt|Britt]]`
 6. Index pages that are primarily link lists (`index.md` files) should use `[[Page Name]]` format for each bullet
 
 **Example conversions:**
 ```markdown
 # Before (Jekyll markdown)
-| **Clan** | [[Ash-Bloods]] |
-- **[[Britt]]** - Mizizi (Gray fungal-turtle) - Gold Rank
-- [[The Bleed]] - Where reality dissolves
+| **Clan** | [[ash-bloods|Ash-Bloods]] |
+- **[[britt|Britt]]** - Mizizi (Gray fungal-turtle) - Gold Rank
+- [[the-bleed|The Bleed]] - Where reality dissolves
 
 # After (Obsidian wikilinks)
-| **Clan** | [[Ash-Bloods]] |
-- **[[Britt]]** - Mizizi (Gray fungal-turtle) - Gold Rank
-- [[The Bleed]] - Where reality dissolves
+| **Clan** | [[ash-bloods|Ash-Bloods]] |
+- **[[britt|Britt]]** - Mizizi (Gray fungal-turtle) - Gold Rank
+- [[the-bleed|The Bleed]] - Where reality dissolves
 ```
 
 ### 4.3 Convert Inline Proper Noun Mentions to Wikilinks
@@ -179,7 +179,7 @@ Scan all files for mentions of proper nouns that are NOT already links and wrap 
 2. Do NOT link proper nouns inside their own page's H1 heading or the `**Aliases:**` line
 3. Do NOT link inside code blocks or YAML frontmatter
 4. Match case-insensitively but preserve original casing in display
-5. Match aliases: if "Real" appears and [[Rill]]'s aliases include "Real", link it as `[[Rill|Real]]`
+5. Match aliases: if "Real" appears and [[rill|Rill]]'s aliases include "Real", link it as `[[Rill|Real]]`
 6. Do NOT link common English words that happen to match (e.g., "Depth" the squad member vs. "depth" the word -- use context/capitalization)
 
 ### 4.4 Restructure Folder Layout for Obsidian
@@ -224,7 +224,7 @@ docs/                          <-- Vault root (open this folder in Obsidian)
 The glossary (`glossary.md`) is currently a single 358-line file with ~60 defined terms. Two options:
 
 **Option A (Recommended): Keep as single file, add wikilinks**
-- Add wikilinks to terms that have their own pages (e.g., `**[[Rill]]** ([[Rill|The River-Born]])`)
+- Add wikilinks to terms that have their own pages (e.g., `**[[rill|Rill]]** ([[Rill|The River-Born]])`)
 - Terms without dedicated pages stay as glossary entries
 - Advantage: single file is easy to search and scroll
 
@@ -349,7 +349,7 @@ The **Obsidian Copilot** plugin lets you chat with an AI that has your vault as 
 
 **Usage:**
 - Open the Copilot side panel (ribbon icon or hotkey)
-- Ask questions: "What does [[Ignatius]] know about the power crisis?"
+- Ask questions: "What does [[ignatius|Ignatius]] know about the power crisis?"
 - It retrieves relevant notes and answers with citations
 - You can ask it to draft new content, summarize sessions, or brainstorm plot threads
 
@@ -717,9 +717,9 @@ This section walks through exactly what happens when new lore arrives -- whether
 **Example: The February 17, 2026 Lore Dump**
 
 This is a real example. PR #7 processed a lore dump and produced:
-- A rewritten [[Dean Isolde Vane]] profile (85 lines, added GM backstory)
-- A brand new NPC: **Soot** ([[Lomi]]'s roommate)
-- Backstory/bond/flaw additions to 7 existing NPCs ([[Sarge]], [[Lucky]], [[Pudge]], [[Pyrrhus]], [[Kojo]], [[Ratchet]], [[Valerius Sterling]])
+- A rewritten [[dean-isolde-vane|Dean Isolde Vane]] profile (85 lines, added GM backstory)
+- A brand new NPC: **Soot** ([[lomi|Lomi]]'s roommate)
+- Backstory/bond/flaw additions to 7 existing NPCs ([[sarge|Sarge]], [[lucky|Lucky]], [[pudge|Pudge]], [[pyrrhus|Pyrrhus]], [[kojo|Kojo]], [[ratchet|Ratchet]], [[valerius-sterling|Valerius Sterling]])
 - Updated harmony-nodes.md and power-system.md with new GM-only details
 - Updated lore-index.md with new NPC roles
 
@@ -737,17 +737,17 @@ Here's how each workflow would handle it:
 ```
 
 **What works automatically:**
-- All existing `[[wikilinks]]` to updated files (e.g., `[[Dean Isolde Vane]]`) now show the new content on hover/click
-- Backlinks panel updates -- if Soot's page mentions `[[Lomi]]`, Lomi's backlinks now show Soot
+- All existing `[[wikilinks]]` to updated files (e.g., `[[dean-isolde-vane|Dean Isolde Vane]]`) now show the new content on hover/click
+- Backlinks panel updates -- if Soot's page mentions `[[lomi|Lomi]]`, Lomi's backlinks now show Soot
 - Search finds the new content immediately
 - Graph view adds Soot as a new node connected to Lomi, Ratchet, Block 99
 
 **What needs manual attention:**
 - If the AI created Soot's file in standard markdown format (no frontmatter, no wikilinks), you need to:
   1. Add YAML frontmatter with aliases and tags
-  2. Convert inline mentions to wikilinks (e.g., "Lomi" -> `[[Lomi]]`)
-- Existing files that mention "Soot" as plain text won't auto-link -- you'd search for "Soot" and add `[[Soot]]` links where appropriate
-- The `Various Complements` plugin helps here: once Soot's page exists, the plugin auto-suggests `[[Soot]]` as you type in other notes
+  2. Convert inline mentions to wikilinks (e.g., "Lomi" -> `[[lomi|Lomi]]`)
+- Existing files that mention "Soot" as plain text won't auto-link -- you'd search for "Soot" and add `[[soot|Soot]]` links where appropriate
+- The `Various Complements` plugin helps here: once Soot's page exists, the plugin auto-suggests `[[soot|Soot]]` as you type in other notes
 
 **How to minimize manual work:** Update the AI workflows (`.agent/workflows/add-character.md`, etc.) to output Obsidian-native format:
 - Always include YAML frontmatter with aliases and tags
@@ -759,7 +759,7 @@ Here's how each workflow would handle it:
 
 ```
 1. You create a new note in Obsidian (e.g., maps/battle-map.excalidraw.md)
-2. You type [[Soot]] and it auto-links because the page exists
+2. You type [[soot|Soot]] and it auto-links because the page exists
 3. You edit Dean Isolde's page -- add a relationship, fix a detail
 4. Obsidian Git plugin auto-commits and pushes to GitHub
 5. Next time Devin (or any AI) reads the repo, it sees your changes
@@ -775,7 +775,7 @@ Here's how each workflow would handle it:
 
 **What needs attention:**
 - If you create a note for a new entity, existing files that mention it as plain text won't auto-link retroactively. You can:
-  - Use Obsidian's "Find and Replace" (Ctrl+Shift+H) to convert `Soot` -> `[[Soot]]` across the vault
+  - Use Obsidian's "Find and Replace" (Ctrl+Shift+H) to convert `Soot` -> `[[soot|Soot]]` across the vault
   - Or let it happen organically -- old files link when you next edit them
 - Excalidraw drawings: text labels inside drawings are NOT searchable by Obsidian or AI until the GitHub Action extracts them (see Section 8.2)
 

@@ -39,16 +39,16 @@ New entities, reveals, and changes introduced in the most recent session. Update
 ```
 
 
-**New NPCs introduced**: None ([[Tommy]], [[Lucina]], [[Marla]], [[Professor Kante]] already had files)
+**New NPCs introduced**: None ([[tommy|Tommy]], [[lucina|Lucina]], [[marla|Marla]], [[professor-kante|Professor Kante]] already had files)
 **New locations**: Power Plant interior (Walker-Core)
-**Key reveals** ([[Iggy]] only):
+**Key reveals** ([[iggy|Iggy]] only):
 - [[The Power System|Global Amplitude]] measures total ether energy — has been declining 30-40 years (unprecedented)
 - Ash-Blood integration produced only ~20 amps (expected +300 to +800)
 - Panda 5 batteries are surge regulators/receptors, not storage — powered by umber crystals
 - Night of Sparks (~400 years ago) burned the world for two months before umber crystals
 - Kante's theory: integration works through cultural connection, not resource extraction
 - Apex 1 battery line scrapped — Kante's career in jeopardy
-- "Trail tales from the Trench" — [[Trench-Kin]] known to Harmony as border defenders
+- "Trail tales from the Trench" — [[trench-kin|Trench-Kin]] known to Harmony as border defenders
 **Iggy's new assets**: Umber crystal from Kante, five connection experiments planned
 **Plot threads opened**: Kante invited Iggy to return for tea and collaboration; Iggy's worldview challenged (connection vs. isolation)
 
@@ -203,14 +203,14 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 ## Active Plot Threads
 
-1. **[[The Minimum]] Crisis** — Harmony approaching power failure (state secret)
+1. **[[the-minimum|The Minimum]] Crisis** — Harmony approaching power failure (state secret)
 2. **Ash-Blood Anomaly** — Integration produced only ~20 amp increase (expected +300-800)
-3. **[[Mizizi]] Integration Stall** — Forest won't integrate; forest is actually a data archive
+3. **[[mizizi|Mizizi]] Integration Stall** — Forest won't integrate; forest is actually a data archive
 4. **Shattered Circuit** — All 6 clans must integrate to stop the Bleed
-5. **[[Iggy]]'s Infiltration** — [[Trench-Kin]] investigating why [[Ash-Bloods]] rejected Exchange
+5. **[[iggy|Iggy]]'s Infiltration** — [[trench-kin|Trench-Kin]] investigating why [[ash-bloods|Ash-Bloods]] rejected Exchange
 6. **Serra's Identity** — Runaway Vox daughter hiding noble status
-7. **[[Rill]]'s Research** — Secretly [[Wadi]], investigating if forest destruction is necessary
-8. **[[Zephyr]]'s Lightning** — Purple bolt from clear sky; managed by Rill for the Dean
+7. **[[rill|Rill]]'s Research** — Secretly [[wadi|Wadi]], investigating if forest destruction is necessary
+8. **[[zephyr|Zephyr]]'s Lightning** — Purple bolt from clear sky; managed by Rill for the Dean
 9. **The Loom's Teams** — Upcoming team formation; fail = entire team expelled
 
 ---

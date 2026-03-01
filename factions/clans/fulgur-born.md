@@ -13,11 +13,11 @@ tags:
 
 ## What Players Know
 
-The Fulgur-Born are treated as a rumor or singular anomaly. Most [[Vumbua Academy]] students have never heard of them. [[Zephyr]]---the energetic exchange member at the Academy---is assumed by most to be [[Renali]] ([[Renali|Air Clan]]), not a representative of an entirely separate storm-based civilization.
+The Fulgur-Born are treated as a rumor or singular anomaly. Most [[vumbua-academy|Vumbua Academy]] students have never heard of them. [[zephyr|Zephyr]]---the energetic exchange member at the Academy---is assumed by most to be [[renali|Renali]] ([[Renali|Air Clan]]), not a representative of an entirely separate storm-based civilization.
 
 ### Source References
 
-- **[[session-02|Session 2]]** — [[Zephyr]] was struck by a purple lightning bolt at the [[Block 99]] bonfire; students treated it as a weird Renali/Storm phenomenon *(Scene 7: The Lightning)*
+- **[[session-02|Session 2]]** — [[zephyr|Zephyr]] was struck by a purple lightning bolt at the [[block-99|Block 99]] bonfire; students treated it as a weird Renali/Storm phenomenon *(Scene 7: The Lightning)*
 - **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] argued the missing clans should include a sky-aligned people *(Scene 4: The Speculators)*
 
 ---
@@ -59,11 +59,11 @@ This makes them the most dangerous---and knowledgeable---of all the clans. They 
 
 ### Zephyr
 
-[[Zephyr]] arrived in the last Exchange (18 months ago), entering the [[Mizizi Petrified Forest|Mizizi Forest]]. Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless.
+[[zephyr|Zephyr]] arrived in the last Exchange (18 months ago), entering the [[Mizizi Petrified Forest|Mizizi Forest]]. Unlike the disciplined envoys of the past, the Storm-Kin are naturally wild and fearless.
 
 She breaks the Great Taboo not out of malice, but out of sheer, uncontainable excitement. She doesn't fear "The Shattering." She speaks openly of the "High-Jet Streams" and the "Thunder-Node."
 
-[[Dean Isolde Vane|Dean Vane]] has personally invited [[Zephyr]] into the inner circle. They can be found late at night in the [[Sky-Spire]], eating sunflower seeds and frantically sketching wind-patterns on a chalkboard. Vane believes Zephyr holds the key to high-altitude flight.
+[[Dean Isolde Vane|Dean Vane]] has personally invited [[zephyr|Zephyr]] into the inner circle. They can be found late at night in the [[sky-spire|Sky-Spire]], eating sunflower seeds and frantically sketching wind-patterns on a chalkboard. Vane believes Zephyr holds the key to high-altitude flight.
 
 ### Integration Potential
 

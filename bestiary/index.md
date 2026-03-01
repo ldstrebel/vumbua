@@ -11,13 +11,13 @@ The Academy views the frontier as a resource to be harvested. The Clans view it 
 
 ## Creatures of the Shattered Nodes
 
-- [[Ether-Jelly]] - Phase-shifting jellyfish that are actually the memories of Dissolved lands
-- [[Void-Beast]] - Shadow predators that hunt fear, not heat
-- [[Rot-Shepherd]] - The immune system of the [[Mizizi Petrified Forest|Mizizi Forest]]
-- [[Whispering Moth]] - Voice-stealing insects that lure travelers to their doom
+- [[ether-jelly|Ether-Jelly]] - Phase-shifting jellyfish that are actually the memories of Dissolved lands
+- [[void-beast|Void-Beast]] - Shadow predators that hunt fear, not heat
+- [[rot-shepherd|Rot-Shepherd]] - The immune system of the [[Mizizi Petrified Forest|Mizizi Forest]]
+- [[whispering-moth|Whispering Moth]] - Voice-stealing insects that lure travelers to their doom
 
 ## World Phenomena
 
-- [[The Bleed]] - Where reality dissolves at the map's edge
-- [[The Minimum]] - The energy crisis threatening Harmony
-- [[Pre-Stitch Artifacts]] - Ancient tech immune to the Minimum
+- [[the-bleed|The Bleed]] - Where reality dissolves at the map's edge
+- [[the-minimum|The Minimum]] - The energy crisis threatening Harmony
+- [[pre-stitch-artifacts|Pre-Stitch Artifacts]] - Ancient tech immune to the Minimum

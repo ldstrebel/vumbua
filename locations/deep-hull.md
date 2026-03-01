@@ -16,11 +16,11 @@ tags:
 | | |
 |---|---|
 | **Type** | Permanent Core — ironclad submersible/steamship |
-| **Parent Location** | [[Vumbua Academy]] |
+| **Parent Location** | [[vumbua-academy|Vumbua Academy]] |
 | **Function** | Classrooms, Logistics, Mess Halls |
 | **First Mentioned** | [[session-01\|Session 1]] |
 
-The Deep-Hull is one of [[Vumbua Academy]]'s three permanent Cores — a massive iron steamship with brass fittings that forms the city's base. It houses classrooms, logistics operations, and mess halls.
+The Deep-Hull is one of [[vumbua-academy|Vumbua Academy]]'s three permanent Cores — a massive iron steamship with brass fittings that forms the city's base. It houses classrooms, logistics operations, and mess halls.
 
 ## What Players Know
 
@@ -32,6 +32,6 @@ Described during [[session-01|Session 1]]'s courtyard reveal as *"a monstrous ir
 
 ## Related Pages
 
-- [[Vumbua Academy]] — Parent location
-- [[Sky-Spire]] — Fellow permanent Core
-- [[Walker-Core]] — Fellow permanent Core
+- [[vumbua-academy|Vumbua Academy]] — Parent location
+- [[sky-spire|Sky-Spire]] — Fellow permanent Core
+- [[walker-core|Walker-Core]] — Fellow permanent Core

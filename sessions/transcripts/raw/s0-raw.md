@@ -730,7 +730,7 @@ Jan 14, 2026
 **Luke S:** Uh amazing. And then at that point it's it's it's effortless to follow the crowds and um Okay.  
 **Holly Strebel:** Yeah.  
 **Luke S:** So let's do the Ash Bloods then. John, how does how do you arrive  
-**John Hagey:** Um, I arrived via the uh the ember trail. So, um I think [[Ignatius]] is a uh Ignatius is an Emberin that uh is kind of in a rebellious teenage stage where while his island and his clan has, you know, has a very like pretty good relationship with Harmony and Trade and stuff, like he he thinks it's wrong.  
+**John Hagey:** Um, I arrived via the uh the ember trail. So, um I think [[ignatius|Ignatius]] is a uh Ignatius is an Emberin that uh is kind of in a rebellious teenage stage where while his island and his clan has, you know, has a very like pretty good relationship with Harmony and Trade and stuff, like he he thinks it's wrong.  
    
  
 
@@ -800,7 +800,7 @@ Jan 14, 2026
 **John Hagey:** Yeah.  
 **Luke Foreman:** around. Yeah.  
 **Luke S:** Love it.  
-**Luke Foreman:** Is in is in just kind of a perpetual state of of dirtiness, of messiness. And um I I think I'm going to go [[Lomi]] is is going to be his name.  
+**Luke Foreman:** Is in is in just kind of a perpetual state of of dirtiness, of messiness. And um I I think I'm going to go [[lomi|Lomi]] is is going to be his name.  
 **Luke S:** Low me.  
 **Luke Foreman:** Yeah, with an I.  
 **John Hagey:** Solid.  
@@ -815,7 +815,7 @@ Jan 14, 2026
 **Luke S:** Yeah.  
 **Luke Foreman:** the academy, someone the like receptionist shredding a document and putting it in in the fantasy recycling and he'll go up to them and be like, "Hey, you know, there's uh people in this city that take care of that stuff. You know,  
 **Luke S:** Amazing.  
-**Luke Foreman:** it doesn't just get done." And uh you know, people focus on everything and it just kind of disappears. Not their problem. But uh you know this city would fall apart without people like [[Lomi]]  
+**Luke Foreman:** it doesn't just get done." And uh you know, people focus on everything and it just kind of disappears. Not their problem. But uh you know this city would fall apart without people like [[lomi|Lomi]]  
 **Luke S:** That's that's his whole his whole gig is to just continually remind people that uh they wouldn't you wouldn't be here if you're  
 **Luke Foreman:** of public infrastructure.  
 **Luke S:** Lomi  

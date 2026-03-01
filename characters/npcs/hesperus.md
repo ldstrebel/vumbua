@@ -9,7 +9,7 @@ tags:
 # Senior Exploranaut Hesperus
 
 **Role:** Senior Exploranaut / Instructor
-**Affiliation:** [[Vumbua Academy]], The Guilds
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], The Guilds
 **Status:** Active
 
 ## Overview
@@ -22,7 +22,7 @@ A veteran explorer and instructor who leads the practical field training for stu
 
 ## Related Pages
 
-- [[Dean Isolde Vane]] — Academy head
-- [[Celia Vance]] — Fellow faculty member
-- [[The Frontier]] — Where field training takes place
-- [[Vumbua Academy]] — Current posting
+- [[dean-isolde-vane|Dean Isolde Vane]] — Academy head
+- [[celia-vance|Celia Vance]] — Fellow faculty member
+- [[the-frontier|The Frontier]] — Where field training takes place
+- [[vumbua-academy|Vumbua Academy]] — Current posting

@@ -28,7 +28,7 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[ash-blood-isles|Ash-Blood Isles]] just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] had found the [[Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[ash-blood-isles|Ash-Blood Isles]] just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] had found the [[mizizi|Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
 
 **What the Integration Brought:**
 
@@ -70,11 +70,11 @@ Integration has split the Ash-Bloods into two ideological camps:
 - Harmony's crystal batteries are useful tools, not replacements for true fire
 - Ignatius's personal quest: *"I want to find the heart of the volcano"*
 
-**Modernizers** (e.g. [[Ember]]):
+**Modernizers** (e.g. [[ember|Ember]]):
 - Embrace Harmony's "clean" crystal battery energy
 - Refuse to touch organic fire---see it as outdated and dangerous
 - View integration as liberation from the harsh volcanic lifestyle
-- [[Ember]] (Ignatius's childhood cousin) is excited to never touch fire again
+- [[ember|Ember]] (Ignatius's childhood cousin) is excited to never touch fire again
 
 This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
 
@@ -89,18 +89,18 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 ### Known Ash-Bloods
 
 - **[[ignatius|Ignatius]]** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
-- **[[Ember]]** - Ignatius's childhood cousin, modernizer who rejects traditional fire
-- **[[Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via [[Inverse Power Doctrine]]
+- **[[ember|Ember]]** - Ignatius's childhood cousin, modernizer who rejects traditional fire
+- **[[lady-ignis|Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via [[Inverse Power Doctrine]]
 - **"The Chad Student"** - Met Ignatius at intake, suspicious of soot
 - ~200 Ash-Bloods at the Academy among 70,000 students
 
 ### Source References
 
-- **[[session-00|Session 0]]** — [[ash-blood-isles|Ash-Blood Isles]] discovery by Captain Elara Thorne; [[valentine-sterling-sr|Valentine Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
-- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatius|Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
-- **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
+- **[[session-00|Session 0]]** — [[ash-blood-isles|Ash-Blood Isles]] discovery by Captain Elara Thorne; [[valentine-sterling-sr|Valentine Sterling Sr.]] found [[mizizi|Mizizi]] one week prior *(background lore)*
+- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatius|Ignatius]]) and modernizers ([[ember|Ember]]) *(Scene 3: Cultural Exchange)*
+- **[[session-02|Session 2]]** — [[serra-vox|Serra Vox]] explained [[Inverse Power Doctrine]] and [[lady-ignis|Lady Ignis]]'s role *(Scene 3)*
 - **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 3)*
-- **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
+- **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes
 
@@ -122,15 +122,15 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 This year (18 months ago), the Ash-Bloods committed a grave insult to one of the hidden clans.
 
 **What Happened:**
-- The Ash-Bloods were scheduled to send a bride to the **[[Trench-Kin]]** in the traditional Exchange
+- The Ash-Bloods were scheduled to send a bride to the **[[trench-kin|Trench-Kin]]** in the traditional Exchange
 - With their volcanoes reignited by Harmony, they felt they'd "ascended beyond the old ways"
 - Instead of sending a person, they dropped an **Obsidian Tablet** down the exchange shaft
 - The tablet read: *"The Heat has returned. We need nothing from the Dark. Look to the Light."*
 
 **The Consequences:**
-- The [[Trench-Kin]] Elders buried the tablet, fearing curiosity about "the Light"
-- One young Trench-Kin named [[Iggy]] found it and read it as an *invitation*
-- This is why [[Iggy]] came to the surface—to find out why the Ash-Bloods stopped coming
+- The [[trench-kin|Trench-Kin]] Elders buried the tablet, fearing curiosity about "the Light"
+- One young Trench-Kin named [[iggy|Iggy]] found it and read it as an *invitation*
+- This is why [[iggy|Iggy]] came to the surface—to find out why the Ash-Bloods stopped coming
 - The Ash-Bloods don't know they triggered an infiltration
 
 ### The "Conductive Theory" (The Real Physics)
@@ -149,7 +149,7 @@ If Harmony successfully integrates all six clans, the Ash-Bloods would burn hott
 
 ### Lady Ignis and Political Power
 
-**[[Lady Ignis]]** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **[[Harmony Prime]]** (the static capital) to join the High Council as the **Representative of the Clans**.
+**[[lady-ignis|Lady Ignis]]** isn't a hostage or a symbolic figurehead. She traveled voluntarily to **[[harmony-prime|Harmony Prime]]** (the static capital) to join the High Council as the **Representative of the Clans**.
 
 **Her Power:**
 Under Harmony's "Inverse Power Doctrine" (newest members get most political weight to prevent tyranny), she instantly became one of the **most powerful people in the Empire**.
@@ -158,7 +158,7 @@ Under Harmony's "Inverse Power Doctrine" (newest members get most political weig
 - **SHE** signed the "Expansion Bill" authorizing Vumbua's relocation to the Ash-Blood Isles
 - She traveled with most of the Ash-Blood Elders fit for travel
 - She was escorted by Captain Elara Thorne (who just returned to Vumbua)
-- She attempted to bring the [[Mizizi]] Elders too, but they refused
+- She attempted to bring the [[mizizi|Mizizi]] Elders too, but they refused
 
 **Her Philosophy:**
 "Political integration at the highest level is the only way to ensure my people are partners, not fuel."
@@ -170,7 +170,7 @@ She fundamentally believes in Harmony's mission and views integration as **salva
 The Ash-Bloods don't know this, but their integration is the **only thing** keeping Harmony from collapsing.
 
 **The Truth:**
-- The [[Iron-Union]] can physically feel the "Ghost Charge" (flickering power)
+- The [[iron-union|Iron-Union]] can physically feel the "Ghost Charge" (flickering power)
 - The Obsidian direct-transfer is the only thing preventing boiler explosions
 - Without the Ash-Bloods, Harmony would already be dark
 - Each clan integration buys **1-2 years** of power at most
@@ -193,11 +193,11 @@ The irony: The answer he's seeking is integration itself.
 ### The Shattered Circuit Role
 
 In the six-clan system, the Ash-Bloods represent **POWER** (The Engines):
-- [[Mizizi]] (Memory) - The Archivists
+- [[mizizi|Mizizi]] (Memory) - The Archivists
 - **Ash-Bloods (Power) - The Engines**
 - Trench-Kin (Resources) - The Miners
-- [[Renali]] (Vision) - The Architects
-- [[Wadi]] (Life) - The Sustainers
+- [[renali|Renali]] (Vision) - The Architects
+- [[wadi|Wadi]] (Life) - The Sustainers
 - Harmony (Direction) - The Navigators
 
 They are the metaphorical (and literal) **furnace** that powers the machine. Without them, nothing else works.
@@ -206,6 +206,6 @@ They are the metaphorical (and literal) **furnace** that powers the machine. Wit
 
 - **24 months ago:** First contact and integration
 - **18 months ago:** Broke the Exchange (insulted Trench-Kin)
-- **12 months ago:** [[Lady Ignis]] left for Harmony Prime
+- **12 months ago:** [[lady-ignis|Lady Ignis]] left for Harmony Prime
 - **6 months ago:** Vumbua relocated to the Isles, construction began
 - **Current:** Ash-Blood youth are experiencing a Golden Age they don't understand is temporary

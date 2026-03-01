@@ -10,7 +10,7 @@ tags:
 # Captain Barnacle
 
 **Role:** Squad 07 (The Bathysphere) - Captain
-**Affiliation:** [[Vumbua Academy]], [[Trench-Kin]] (suspected)
+**Affiliation:** [[vumbua-academy|Vumbua Academy]], [[trench-kin|Trench-Kin]] (suspected)
 **Status:** Active
 
 ## Overview
@@ -22,7 +22,7 @@ Leader of Squad 07, "The Bathysphere." A heavily armored individual, possibly su
 
 ## Related Pages
 
-- [[Pressure]] — Squad 07 member
-- [[Depth]] — Squad 07 member
-- [[Trench-Kin]] — Possible clan affiliation
-- [[Vumbua Academy]] — Current posting
+- [[pressure|Pressure]] — Squad 07 member
+- [[depth|Depth]] — Squad 07 member
+- [[trench-kin|Trench-Kin]] — Possible clan affiliation
+- [[vumbua-academy|Vumbua Academy]] — Current posting

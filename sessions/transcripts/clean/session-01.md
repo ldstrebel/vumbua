@@ -12,7 +12,7 @@ aliases:
 
 ## Quick Summary
 
-The party navigates the intake exam, receives their rank assignments (Gold, Silver, Copper), and explores the [[Vumbua Academy]] campus. [[Iggy]] causes chaos at the testing pavilion, [[Lomi]] bonds with [[Sarge]] over working-class solidarity, and [[Ignatius]] meets the charming [[Valentine Sterling]]. After dorm assignments split the group across [[Block 04]], [[Block 12]], and [[Block 99]], Iggy climbs a crane to map the campus, drawing the attention of [[Serra Vox]] — a Gold-rank student who invites them all to a bonfire.
+The party navigates the intake exam, receives their rank assignments (Gold, Silver, Copper), and explores the [[vumbua-academy|Vumbua Academy]] campus. [[iggy|Iggy]] causes chaos at the testing pavilion, [[lomi|Lomi]] bonds with [[sarge|Sarge]] over working-class solidarity, and [[ignatius|Ignatius]] meets the charming [[valentine-sterling|Valentine Sterling]]. After dorm assignments split the group across [[block-04|Block 04]], [[block-12|Block 12]], and [[block-99|Block 99]], Iggy climbs a crane to map the campus, drawing the attention of [[serra-vox|Serra Vox]] — a Gold-rank student who invites them all to a bonfire.
 
 ---
 
@@ -112,7 +112,7 @@ The party navigates the intake exam, receives their rank assignments (Gold, Silv
 
 **IGNATIUS (JOHN)** I think Ignatius had this facade of confidence walking in and getting through this, it just melts away. Like, "What the f\*\*\*?"
 
-**GM (LUKE S)** (As **[[Valentine Sterling]]**) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, friend. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The [[Ember]] Isles?"
+**GM (LUKE S)** (As **[[valentine-sterling|Valentine Sterling]]**) Coming right after you is a tall, nicely dressed, kind of Bridgerton-esque vibe but a little more meat on him. "Don't worry, friend. It's so... welcome to the show, mate. Oh, wait, are you... from the Ashland Islands? The [[ember|Ember]] Isles?"
 
 **IGNATIUS (JOHN)** "What gave it away? Was it the soot or the literal flames?"
 
@@ -134,9 +134,9 @@ The party navigates the intake exam, receives their rank assignments (Gold, Silv
 
 **LOMI (LUKE F)** (Previously "Loami or [[britt|Britt]]") I think he he's coming out and just looking around and going... (In Character) "Yeah, this will do. They do good work. You know? What can we say? It's a little more cushy than the Boiler Room. I'll say it. Doesn't take as much grit... but they do good work."
 
-**GM (LUKE S)** (Narrating) Lomi, you recognize someone. There is someone else who surprises you coming out of the exams. All you know him by is **[[Sarge]]**. You know him because the workers would have these campfires set up... the social hour. (As Sarge) He catches your eye. "Loaves? Loaves, we made it. Can you believe it?"
+**GM (LUKE S)** (Narrating) Lomi, you recognize someone. There is someone else who surprises you coming out of the exams. All you know him by is **[[sarge|Sarge]]**. You know him because the workers would have these campfires set up... the social hour. (As Sarge) He catches your eye. "Loaves? Loaves, we made it. Can you believe it?"
 
-**LOMI (LUKE F)** "Hey, [[Sarge]]\! You made it in\! Hey, I was feeling pretty good about myself until I saw *you* come in, huh? They let anyone in here, huh?"
+**LOMI (LUKE F)** "Hey, [[sarge|Sarge]]\! You made it in\! Hey, I was feeling pretty good about myself until I saw *you* come in, huh? They let anyone in here, huh?"
 
 **GM (LUKE S)** (As Sarge) "Yeah. Yeah. I'll be honest. Barely cut it. Barely cut it. I didn't... I don't even know what I was talking about. The green flag popped up and I said, 'Alright, let's give this a go.'"
 
@@ -168,7 +168,7 @@ The candidates are herded into a massive auditorium.
 
 (Beat) "But... unfortunately, we do have to lose another 20,000 of you by the end of the week. So, study hard. Listen to your professors. Welcome to Vumbua\!"
 
-**GM (LUKE S)** (Narrating) She pops back out from the curtain. "Oh\! I'm Dean. I'm Dean Isolde\! If you need me... well, I'm kind of busy." (Narrating) Then, an attendant comes out. For the [[mizizi|Mizizi]], you recognize **[[Rill]]** ([[Rill|The River-Born]]). She leans out, pulls the Dean back behind the curtain. She seems to have a very familiar relationship with the Dean. She waves good luck to you and goes in.
+**GM (LUKE S)** (Narrating) She pops back out from the curtain. "Oh\! I'm Dean. I'm Dean Isolde\! If you need me... well, I'm kind of busy." (Narrating) Then, an attendant comes out. For the [[mizizi|Mizizi]], you recognize **[[rill|Rill]]** ([[Rill|The River-Born]]). She leans out, pulls the Dean back behind the curtain. She seems to have a very familiar relationship with the Dean. She waves good luck to you and goes in.
 
 ---
 
@@ -182,11 +182,11 @@ The group is being herded out. Iggy (The [[Trench-Kin|Earthkin]]) is dripping we
 
 **LOMI (LUKE F)** "Yeah. The door opened. We're getting directed out. Iggy. Ignatius. All right. I can remember that."
 
-**GM (LUKE S)** (Narrating) There is a little kid walking around to people. He's holding a little ball of fire. (As [[Lucky]]) "Hey you\! I'm **Lucky**. You need something? You let Lucky know. That guy's red hot hair? Look at it. Got it right here. Authentic. Probably an [[Ash-Bloods|Ash Blood]]. Two gold pieces. Hot off the rock." (To Iggy) "You? I'm Lucky. I'm as tall as you are. Do you need more height? I can get it for you."
+**GM (LUKE S)** (Narrating) There is a little kid walking around to people. He's holding a little ball of fire. (As [[lucky|Lucky]]) "Hey you\! I'm **Lucky**. You need something? You let Lucky know. That guy's red hot hair? Look at it. Got it right here. Authentic. Probably an [[Ash-Bloods|Ash Blood]]. Two gold pieces. Hot off the rock." (To Iggy) "You? I'm Lucky. I'm as tall as you are. Do you need more height? I can get it for you."
 
 **IGGY (HOLLY)** "No, I like my height. But I could use a Kleenex."
 
-**GM (LUKE S)** (As [[Lucky]]) "Oh, I knew it. I got just the thing for you." (Rummaging) He pulls out like... the turban that the guards were wearing. "I found this one just outside. I think it'll be nice. I'll give it to you for one gold."
+**GM (LUKE S)** (As [[lucky|Lucky]]) "Oh, I knew it. I got just the thing for you." (Rummaging) He pulls out like... the turban that the guards were wearing. "I found this one just outside. I think it'll be nice. I'll give it to you for one gold."
 
 **IGGY (HOLLY)** "I got no money."
 
@@ -300,7 +300,7 @@ The group exits the Great Hall. A machine prints out punch cards for housing ass
 
 **EXT. INDUSTRIAL ZONE \- CONTINUOUS**
 
-**GM (LUKE S)** (Narrating) As you are gathered around this crane, you see coming toward you a small woman. She is carrying a little notebook, all prim and proper. Very student-looking. (As [[Serra Vox]]) "Hi. Um, what are y'all doing? Do you know each other? Oh my god. Are you... are you from the Island? And are you [[Ash-Bloods|Ash Blood]]? Three of you all in one group? Oh, what a splendorous occasion\!"
+**GM (LUKE S)** (Narrating) As you are gathered around this crane, you see coming toward you a small woman. She is carrying a little notebook, all prim and proper. Very student-looking. (As [[serra-vox|Serra Vox]]) "Hi. Um, what are y'all doing? Do you know each other? Oh my god. Are you... are you from the Island? And are you [[Ash-Bloods|Ash Blood]]? Three of you all in one group? Oh, what a splendorous occasion\!"
 
 **BRITT (SOPHIE)** (Previously "Loami or Britt") "Take a photo. It'll last longer."
 
@@ -372,7 +372,7 @@ Based on this specific conversation, here are the narrative levers you need to p
 
 1. **Britt (The Unintentional Ace):** Sophie explicitly stated Britt is "unintentionally very, very good in class" \[`1205`\].
 
-   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like Valerius or [[Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
+   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like Valerius or [[calculus-prime|Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
 2. **Lomi (The Process Guy):** Luke F is interested in the *mechanics* of the transition—"How do you get selected?" \[`1205`\].
 
    * *Session 1 Goal:* Make the "Squad Assignment" and the "Captain Interviews" feel bureaucratic and weighty. He wants to see the gears of the institution turning.  

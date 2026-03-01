@@ -9,7 +9,7 @@ tags:
 | | |
 |---|---|
 | **Role** | Squad 09 (The Ablative) - Member (Rust Tier) |
-| **Affiliation** | [[Vumbua Academy]] |
+| **Affiliation** | [[vumbua-academy|Vumbua Academy]] |
 | **Status** | Active |
 | **First Appearance** | [[session-01\|Session 1]] |
 
@@ -19,15 +19,15 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 ## Session Appearances
 
 ### Session 1
-- In the Great Hall exit, approached [[Iggy]]: *"Hey you! I'm Lucky. You need something? You let Lucky know."*
-- Sold [[Iggy]] a stolen guard turban as a "Kleenex" for one gold, then bolted before the guard caught up
+- In the Great Hall exit, approached [[iggy|Iggy]]: *"Hey you! I'm Lucky. You need something? You let Lucky know."*
+- Sold [[iggy|Iggy]] a stolen guard turban as a "Kleenex" for one gold, then bolted before the guard caught up
 - Hawked "authentic Ash-Blood" memorabilia: *"That guy's red hot hair? Look at it. Got it right here. Two gold pieces. Hot off the rock."*
 
 ### Session 2
 - At the Block 99 bonfire, set up in a corner selling **Engine Grease** (moonshine/engine oil)---the drink of choice among boiler room workers
 - His pitch: *"Grease your grades or grease your livers!"*
 - [[Percival Vane-Smythe III|Percy Vane-Smythe III]] is a regular customer
-- [[Sarge]] was watching Lucky disapprovingly from a distance, kicking empty bottles
+- [[sarge|Sarge]] was watching Lucky disapprovingly from a distance, kicking empty bottles
 
 ## Personality
 - **Enterprising Hustler:** If you need it, Lucky can get it (for a price).
@@ -37,9 +37,9 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 
 ## Source References
 
-- **[[session-01|Session 1]]** — Sold [[Iggy]] a stolen guard turban as a "Kleenex"; hawked Ash-Blood memorabilia *(Scene 7: The Hustle)*
-- **[[session-02|Session 2]]** — Selling Engine Grease at the [[Block 99]] bonfire *(Scene 2: Getting Lucky)*
-- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[Sarge]] watching disapprovingly *(Scene 2)*
+- **[[session-01|Session 1]]** — Sold [[iggy|Iggy]] a stolen guard turban as a "Kleenex"; hawked Ash-Blood memorabilia *(Scene 7: The Hustle)*
+- **[[session-02|Session 2]]** — Selling Engine Grease at the [[block-99|Block 99]] bonfire *(Scene 2: Getting Lucky)*
+- **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[sarge|Sarge]] watching disapprovingly *(Scene 2)*
 
 ---
 

@@ -10,7 +10,7 @@ tags:
 # Baron Bolt
 
 **Role:** Squad 08 (The Legacy) - Member
-**Affiliation:** [[Vumbua Academy]]
+**Affiliation:** [[vumbua-academy|Vumbua Academy]]
 **Status:** Active
 
 ## Overview
@@ -21,6 +21,6 @@ Member of Squad 08. Fast, flashy, but lacks substance.
 
 ## Related Pages
 
-- [[Percival Vane-Smythe III]] — Squad 08 Captain
-- [[Lady Glimmer]] — Squad 08 member
-- [[Vumbua Academy]] — Current posting
+- [[percival-vane-smythe-iii|Percival Vane-Smythe III]] — Squad 08 Captain
+- [[lady-glimmer|Lady Glimmer]] — Squad 08 member
+- [[vumbua-academy|Vumbua Academy]] — Current posting

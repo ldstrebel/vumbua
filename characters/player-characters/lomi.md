@@ -20,7 +20,7 @@ tags:
 | **Rank** | 🥉 Copper |
 | **Class** | Daggerheart Character |
 | **Player** | Luke F (Luke Foreman) |
-| **Housing** | [[Block 99]]-Piston (with [[Ratchet]], [[Soot]]) |
+| **Housing** | [[block-99|Block 99]]-Piston (with [[ratchet|Ratchet]], [[soot|Soot]]) |
 
 ## Appearance
 
@@ -44,7 +44,7 @@ Unlike the clan characters, Lomi is a **Harmony native** from the Octoumba conti
 - The academy (Vumbua) moves every 50 years to a new location
 - The two main vessels (ironclad cruise ship and massive airship) form the academy's core
 - Islands slowly drift toward each other over centuries
-- The discovery of two new clans ([[Mizizi]] and [[Ash-Bloods|Ash Bloods]]) is the biggest news in a thousand years
+- The discovery of two new clans ([[mizizi|Mizizi]] and [[Ash-Bloods|Ash Bloods]]) is the biggest news in a thousand years
 - No major civilizations had been found in ages—only ancient bones
 
 ### The Explorer Dream
@@ -56,34 +56,34 @@ Like many Harmony citizens, Lomi has been swept up in the resurgence of explorer
 
 ## Session Appearances
 
-### [[session-01|Session 1]] - Arrival at [[Vumbua Academy]]
+### [[session-01|Session 1]] - Arrival at [[vumbua-academy|Vumbua Academy]]
 - Took the entrance exam, got Copper rank
 - Chatted with an attendant about working conditions
 - Witnessed the chaos of rejected candidates
 - Was offered a job hint by the attendant ("It's always good to know your options")
-- [[Sarge]] recognized him: *"Loaves? Loaves, we made it. Can you believe it?"*
-- Assigned to [[Block 99]]-Piston; recognized the steam stacks
+- [[sarge|Sarge]] recognized him: *"Loaves? Loaves, we made it. Can you believe it?"*
+- Assigned to [[block-99|Block 99]]-Piston; recognized the steam stacks
 
 ### [[session-02|Session 2]] - The Bonfire
-- Brought Engine Grease (moonshine) to the [[Block 99]] bonfire
-- Encouraged [[Cassius Thorne]] with a critical-success roll after [[Ignatius]] lit the fire prematurely
+- Brought Engine Grease (moonshine) to the [[block-99|Block 99]] bonfire
+- Encouraged [[cassius-thorne|Cassius Thorne]] with a critical-success roll after [[ignatius|Ignatius]] lit the fire prematurely
 - Bonded with [[Percival Vane-Smythe III|Percy Vane-Smythe III]] over shared curiosity (“salt of the earth”)
 - Mentioned hearing noises in the boiler room, delighting Percy
-- Helped light the bonfire alongside [[Ignatius]]
+- Helped light the bonfire alongside [[ignatius|Ignatius]]
 
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Sarge]]** | Boiler room buddy; recognized Lomi after exams ([[session-01|Session 1]]) |
-| **[[Ratchet]]** | Roommate at [[Block 99]]-Piston |
-| **[[Soot]]** | Roommate at [[Block 99]]-Piston |
-| **[[Percival Vane-Smythe III]]** | Bonded over curiosity at the bonfire ([[session-02|Session 2]]) |
-| **[[Cassius Thorne]]** | Encouraged him at the bonfire ([[session-02|Session 2]]) |
-| **[[Britt]]** | Fellow candidate—met at Vumbua |
-| **[[Aggie]]** | Fellow candidate—met at Vumbua |
-| **[[Ignatius]]** | Fellow candidate—helped light the bonfire together ([[session-02|Session 2]]) |
-| **[[Iggy]]** | Fellow candidate—met at Vumbua |
+| **[[sarge|Sarge]]** | Boiler room buddy; recognized Lomi after exams ([[session-01|Session 1]]) |
+| **[[ratchet|Ratchet]]** | Roommate at [[block-99|Block 99]]-Piston |
+| **[[soot|Soot]]** | Roommate at [[block-99|Block 99]]-Piston |
+| **[[percival-vane-smythe-iii|Percival Vane-Smythe III]]** | Bonded over curiosity at the bonfire ([[session-02|Session 2]]) |
+| **[[cassius-thorne|Cassius Thorne]]** | Encouraged him at the bonfire ([[session-02|Session 2]]) |
+| **[[britt|Britt]]** | Fellow candidate—met at Vumbua |
+| **[[aggie|Aggie]]** | Fellow candidate—met at Vumbua |
+| **[[ignatius|Ignatius]]** | Fellow candidate—helped light the bonfire together ([[session-02|Session 2]]) |
+| **[[iggy|Iggy]]** | Fellow candidate—met at Vumbua |
 
 ---
 

@@ -13,15 +13,15 @@ tags:
 
 ## What Players Know
 
-Almost nothing. The Trench-Kin are completely unknown to Harmony and to the other player characters. The only surface contact they have maintained is the Exchange Ritual with the [[Wadi]] ([[Wadi|River Clan]]), trading members through deep underwater shafts.
+Almost nothing. The Trench-Kin are completely unknown to Harmony and to the other player characters. The only surface contact they have maintained is the Exchange Ritual with the [[wadi|Wadi]] ([[Wadi|River Clan]]), trading members through deep underwater shafts.
 
-[[Iggy]]---the party's "Earthkin" roommate---emerged from the water at the docks on Intake Day, clearly uncomfortable in the open air. He wears heavy fluid-filled goggles, crumbles in low pressure, and finds comfort in weight and compression. No one has questioned his origin beyond assuming he's some kind of earth-elemental mutation.
+[[iggy|Iggy]]---the party's "Earthkin" roommate---emerged from the water at the docks on Intake Day, clearly uncomfortable in the open air. He wears heavy fluid-filled goggles, crumbles in low pressure, and finds comfort in weight and compression. No one has questioned his origin beyond assuming he's some kind of earth-elemental mutation.
 
 ### Source References
 
-- **[[session-01|Session 1]]** — [[Iggy]] arrived at [[Vumbua Academy]] from the docks; supervisor escorted him through *(Scene 5: Iggy's Intake)*
+- **[[session-01|Session 1]]** — [[iggy|Iggy]] arrived at [[vumbua-academy|Vumbua Academy]] from the docks; supervisor escorted him through *(Scene 5: Iggy's Intake)*
 - **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] theorized an "Earth clan" must exist to complete the symmetry *(Scene 4: The Speculators)*
-- **[[session-02.5|Session 2.5]]** — [[Iggy]] mentioned "the Exchange" to [[Professor Kante]], who had never heard of it *(Scene 5)*
+- **[[session-02.5|Session 2.5]]** — [[iggy|Iggy]] mentioned "the Exchange" to [[professor-kante|Professor Kante]], who had never heard of it *(Scene 5)*
 
 ---
 
@@ -55,7 +55,7 @@ The light above burns the eyes. Trench-Kin wear heavy, fluid-filled goggles when
 
 ### The Broken Exchange
 
-The [[Ash-Bloods]] were scheduled to send a bride to the Trench-Kin. They didn't show up. Instead, they dropped an Obsidian Tablet down the exchange shaft:
+The [[ash-bloods|Ash-Bloods]] were scheduled to send a bride to the Trench-Kin. They didn't show up. Instead, they dropped an Obsidian Tablet down the exchange shaft:
 
 > *"The Heat has returned. We need nothing from the Dark. Look to the Light."*
 
@@ -63,7 +63,7 @@ The Trench-Kin Elders were terrified. They buried the tablet, fearing that curio
 
 ### Iggy's True Origin
 
-**[[Iggy]]** was a deep-tunnel scrapper who found the buried tablet. He didn't read it as an insult---he read it as an invitation. He isn't on the surface to conquer; he is here to find out why the [[Ash-Bloods]] stopped coming. He suspects the surface isn't a "Burning Hellscape" (as the Elders teach) but a place of infinite energy.
+**[[iggy|Iggy]]** was a deep-tunnel scrapper who found the buried tablet. He didn't read it as an insult---he read it as an invitation. He isn't on the surface to conquer; he is here to find out why the [[ash-bloods|Ash-Bloods]] stopped coming. He suspects the surface isn't a "Burning Hellscape" (as the Elders teach) but a place of infinite energy.
 
 He is not a diplomat---he is an **Unregistered Infiltrator**. He passed the entrance exams by simply not listing a home address and letting the registrars assume he was a generic "Earth-Elemental" construct. He represents the potential of a people who have not yet introduced themselves.
 
@@ -80,6 +80,6 @@ In [[Dean Isolde Vane|Dean Vane]]'s theory, the Trench-Kin are **The Miners (Res
 
 ### Related Pages
 
-- [[Iggy]] — Trench-Kin infiltrator at [[Vumbua Academy]]
-- [[Ash-Bloods]] — Broke the Exchange Ritual 18 months ago
-- [[Wadi]] — Connected via the Exchange Ritual through underwater shafts
+- [[iggy|Iggy]] — Trench-Kin infiltrator at [[vumbua-academy|Vumbua Academy]]
+- [[ash-bloods|Ash-Bloods]] — Broke the Exchange Ritual 18 months ago
+- [[wadi|Wadi]] — Connected via the Exchange Ritual through underwater shafts

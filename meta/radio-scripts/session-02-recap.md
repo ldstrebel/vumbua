@@ -1,6 +1,6 @@
-[sleepily] Good evening, [[Vumbua Academy]]! [long loud yawn]
+[sleepily] Good evening, [[vumbua-academy|Vumbua Academy]]! [long loud yawn]
 
-This is **[[Valerius Sterling]]** coming to you [deliberate] LIVE and admittedly a bit sleepy from the back room of the Celestial Lounge. The first night has come and gone — and I must say... [excited] WHAT A NIGHT IT WAS. DRAMA. new LOVE and broken hearts!!! It is shaping up to [excited] be a GREAT YEAR
+This is **[[valerius-sterling|Valerius Sterling]]** coming to you [deliberate] LIVE and admittedly a bit sleepy from the back room of the Celestial Lounge. The first night has come and gone — and I must say... [excited] WHAT A NIGHT IT WAS. DRAMA. new LOVE and broken hearts!!! It is shaping up to [excited] be a GREAT YEAR
 
 ...
 

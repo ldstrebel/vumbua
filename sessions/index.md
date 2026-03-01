@@ -9,11 +9,11 @@ The largest intake class in Vumbua's history begins. Five unlikely candidates me
 
 **Key Events:**
 - 100,000 candidates take the trials
-- [[Britt]] tries to stall for [[Aggie]]
-- [[Iggy]] breaks a typewriter with slime
-- [[Ignatius]] confronts his clan's relationship with Harmony
-- [[Lomi]] advocates for workers everywhere
-- [[Dean Isolde Vane]] welcomes the class
+- [[britt|Britt]] tries to stall for [[aggie|Aggie]]
+- [[iggy|Iggy]] breaks a typewriter with slime
+- [[ignatius|Ignatius]] confronts his clan's relationship with Harmony
+- [[lomi|Lomi]] advocates for workers everywhere
+- [[dean-isolde-vane|Dean Isolde Vane]] welcomes the class
 - The group forms at the bonfire
 
 **Players Discovered:**
@@ -48,40 +48,40 @@ Housing assignments scatter the group, but curiosity brings them back together. 
 The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for new friendships, philosophical debates, and one spectacular lightning bolt.
 
 **Key Events:**
-- [[Cassius Thorne]] obsessively arranges logs; charmed by [[Lomi]]
-- [[Serra Vox]] slips about political connections to The Seat
-- The Speculators' Debate: [[Percival Vane-Smythe III|Percy]]'s Sixfold Theory vs [[Iron-Jaw Jax|Jax]]'s skepticism vs [[Bramble]]'s philosophy
-- Serra explains the **Inverse Power Doctrine** ([[Lady Ignis]] holds highest voting power)
-- [[Mizizi]]/Harmony cultural exchange about death
-- **[[Zephyr]]'s Lightning:** Purple bolt from clear sky; she's unharmed
-- [[Rill]] retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class
+- [[cassius-thorne|Cassius Thorne]] obsessively arranges logs; charmed by [[lomi|Lomi]]
+- [[serra-vox|Serra Vox]] slips about political connections to The Seat
+- The Speculators' Debate: [[Percival Vane-Smythe III|Percy]]'s Sixfold Theory vs [[Iron-Jaw Jax|Jax]]'s skepticism vs [[bramble|Bramble]]'s philosophy
+- Serra explains the **Inverse Power Doctrine** ([[lady-ignis|Lady Ignis]] holds highest voting power)
+- [[mizizi|Mizizi]]/Harmony cultural exchange about death
+- **[[zephyr|Zephyr]]'s Lightning:** Purple bolt from clear sky; she's unharmed
+- [[rill|Rill]] retrieves [[zephyr|Zephyr]], invites [[britt|Britt]]/[[aggie|Aggie]] to find her after class
 - Ash-Blood cultural divide revealed: traditionalists vs modernizers
 - Leidian properties discussed (80% hotter, halflife, distance decay)
 - Party heads to the Celestial Lounge
 
 **Players Discovered:**
 - The Inverse Power Doctrine (newest member gets highest voting power)
-- [[Lady Ignis]] is essentially "President" of Harmony
+- [[lady-ignis|Lady Ignis]] is essentially "President" of Harmony
 - The Sixfold Theory (missing Earth, Air, Water clans)
 - Zephyr can cause purple lightning
 - Leidian is burning 80% hotter since integration
 - Ash-Blood cultural divide between fire-keepers and battery-adopters
-- The [[Mizizi]] forest has no clear "purpose" unlike other nodes
+- The [[mizizi|Mizizi]] forest has no clear "purpose" unlike other nodes
 - Academy structure: classes → exam → Loom → rest week → trial venture
 
 ---
 
 ### [[Session 02Pt5|Session 2.5: The Power Room]]
 **Date:** 2026-02-16
-**Type:** 1-on-1 side session ([[Iggy]] / Holly)
+**Type:** 1-on-1 side session ([[iggy|Iggy]] / Holly)
 
-While the party socializes at the bonfire, Iggy slips away to explore the Academy's power plant. He discovers the resonator battery infrastructure and meets **[[Professor Kante]]**, a tortoise professor of harmonics who draws him into a conversation about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly.
+While the party socializes at the bonfire, Iggy slips away to explore the Academy's power plant. He discovers the resonator battery infrastructure and meets **[[professor-kante|Professor Kante]]**, a tortoise professor of harmonics who draws him into a conversation about the [[The Power System|Global Amplitude]] decline and the Ash-Blood Anomaly.
 
 **Key Events:**
 - Iggy Irish-goodbyes from the bonfire to investigate the power plant
-- Meets [[Tommy]] (gnome clerk) and [[Lucina]] (dwarf mechanic) in the lobby
+- Meets [[tommy|Tommy]] (gnome clerk) and [[lucina|Lucina]] (dwarf mechanic) in the lobby
 - Discovers over-engineered Panda 5 resonator batteries and charts showing the [[The Power System|Global Amplitude]] decline
-- [[Professor Kante]] appears and explains the Minimum Crisis and the missing Ash-Blood surge
+- [[professor-kante|Professor Kante]] appears and explains the Minimum Crisis and the missing Ash-Blood surge
 - Kante gives Iggy an umber crystal and invites him to return as a collaborator
 - Iggy rejoins the group for the Celestial Lounge trip
 
@@ -93,7 +93,7 @@ While the party socializes at the bonfire, Iggy slips away to explore the Academ
 - The Night of Sparks (~400 years ago) burned the world for two months due to unregulated surge
 - The Apex 1 next-gen battery line was scrapped because the expected surge never came
 - Professor Kante's theory: integration works through cultural connection, not resource extraction
-- The [[Trench-Kin]] are known to Harmony as border defenders ("trail tales from the Trench")
+- The [[trench-kin|Trench-Kin]] are known to Harmony as border defenders ("trail tales from the Trench")
 
 ---
 

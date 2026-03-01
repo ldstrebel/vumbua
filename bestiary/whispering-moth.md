@@ -34,10 +34,10 @@ They mimic the voices of loved ones to lure travelers off cliffs.
 
 ### Recent Incident
 
-[[Lucky]] (Squad 09) claims he heard his little sister calling from a ventilation shaft in the [[Deep-Hull]]. He was found clawing at a sealed grate, hallucinating that she was trapped inside.
+[[lucky|Lucky]] (Squad 09) claims he heard his little sister calling from a ventilation shaft in the [[deep-hull|Deep-Hull]]. He was found clawing at a sealed grate, hallucinating that she was trapped inside.
 
 ### Related Pages
 
-- [[Deep-Hull]] — One of the three Cores of [[Vumbua Academy]]
-- [[Lucky]] — Squad 09 hustler and vendor
-- [[The Bleed]] — Where Dissolved lands leave echo-memories and strange creatures
+- [[deep-hull|Deep-Hull]] — One of the three Cores of [[vumbua-academy|Vumbua Academy]]
+- [[lucky|Lucky]] — Squad 09 hustler and vendor
+- [[the-bleed|The Bleed]] — Where Dissolved lands leave echo-memories and strange creatures

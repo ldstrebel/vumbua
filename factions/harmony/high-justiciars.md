@@ -31,11 +31,11 @@ Not yet encountered directly. The Justiciars enforce political balance across Ha
 
 ### Agenda in Vumbua: The Audit
 
-They believe [[Dean Isolde Vane|Dean Vane]] is cooking the books regarding the energy output. They are investigating why the Ash-Blood and [[Mizizi]] Nodes are under-performing (the Shattered Circuit leak). They threaten to **shut down the Academy** if the numbers don't balance.
+They believe [[Dean Isolde Vane|Dean Vane]] is cooking the books regarding the energy output. They are investigating why the Ash-Blood and [[mizizi|Mizizi]] Nodes are under-performing (the Shattered Circuit leak). They threaten to **shut down the Academy** if the numbers don't balance.
 
 ### The Inverse Power Doctrine
 
-Formed in Era 3, the Justiciars ensure the newest/weakest members of Harmony receive the most political power---preventing the Core Families from becoming tyrants. This is why [[Lady Ignis]] was granted tremendous voting weight immediately upon arriving at Harmony Seat.
+Formed in Era 3, the Justiciars ensure the newest/weakest members of Harmony receive the most political power---preventing the Core Families from becoming tyrants. This is why [[lady-ignis|Lady Ignis]] was granted tremendous voting weight immediately upon arriving at Harmony Seat.
 
 ### Key Agent
 

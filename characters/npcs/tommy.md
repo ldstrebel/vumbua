@@ -9,14 +9,14 @@ tags:
 |---|---|
 | **Role** | Clerk, Power Room Front Desk |
 | **Race** | Gnome |
-| **Affiliation** | [[Vumbua Academy]] (staff) |
-| **Location** | [[Walker-Core]] — Power Plant front desk |
+| **Affiliation** | [[vumbua-academy|Vumbua Academy]] (staff) |
+| **Location** | [[walker-core|Walker-Core]] — Power Plant front desk |
 | **Status** | Active |
 | **First Appearance** | [[session-02.5\|Session 2.5]] |
 
 ## Overview
 
-Tommy is a chipper gnome who works the front desk of [[Vumbua Academy]]'s power room. He's not a student---he's looking to apply to Vumbua Academy next year and took this job to be close to the action.
+Tommy is a chipper gnome who works the front desk of [[vumbua-academy|Vumbua Academy]]'s power room. He's not a student---he's looking to apply to Vumbua Academy next year and took this job to be close to the action.
 
 ## Personality
 
@@ -27,9 +27,9 @@ Tommy is a chipper gnome who works the front desk of [[Vumbua Academy]]'s power 
 ## Session Appearances
 
 ### Session 2.5 - The Power Room
-- [[Iggy]] encounters Tommy at the front desk when sneaking into the [[Walker-Core]] power room
-- Tommy is easily convinced that [[Iggy]] has legitimate business there
+- [[iggy|Iggy]] encounters Tommy at the front desk when sneaking into the [[walker-core|Walker-Core]] power room
+- Tommy is easily convinced that [[iggy|Iggy]] has legitimate business there
 
 ## Source References
 
-- **[[session-02.5|Session 2.5]]** — Front desk encounter with [[Iggy]] *(Scene 2: The Front Desk)*
+- **[[session-02.5|Session 2.5]]** — Front desk encounter with [[iggy|Iggy]] *(Scene 2: The Front Desk)*

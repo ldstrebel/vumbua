@@ -38,6 +38,6 @@ A patrol of "The Breakers" (Squad 02) engaged a pack last night using floodlight
 
 ### Related Pages
 
-- [[The Bleed]] — The void pushing back against integrated reality
-- [[Ash-Bloods]] — True Flame lore vs. Safe-Flame
-- [[Iron-Jaw Jax]] — Captain of Squad 02 (The Breakers)
+- [[the-bleed|The Bleed]] — The void pushing back against integrated reality
+- [[ash-bloods|Ash-Bloods]] — True Flame lore vs. Safe-Flame
+- [[iron-jaw-jax|Iron-Jaw Jax]] — Captain of Squad 02 (The Breakers)

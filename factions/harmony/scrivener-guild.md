@@ -20,13 +20,13 @@ tags:
 
 ## What Players Know
 
-The Scriveners are the scholars and mapmakers of Harmony. They are descendants of the original Navigators who co-founded Harmony Prime. Professor Ink is their most visible member at the Academy. The "Paper Man" who first contacted the [[Mizizi]] was a Scrivener agent.
+The Scriveners are the scholars and mapmakers of Harmony. They are descendants of the original Navigators who co-founded Harmony Prime. Professor Ink is their most visible member at the Academy. The "Paper Man" who first contacted the [[mizizi|Mizizi]] was a Scrivener agent.
 
 ## Key NPCs
 
-- **[[Dean Isolde Vane]]** - Though a Vane by blood, she leads the Scrivener Guild's research agenda as Head of Academy.
-- **Professor Ink** - Captain. Represents the pure thirst for knowledge. Loves [[Iggy]]'s curiosity but fears [[Ignatius]] will burn his specimens.
-- **Senior Historian Nadine** - Working with the Dean to prove the "Shattered Empire" theory. Decoding the [[Mizizi]] tree-ring data.
+- **[[dean-isolde-vane|Dean Isolde Vane]]** - Though a Vane by blood, she leads the Scrivener Guild's research agenda as Head of Academy.
+- **Professor Ink** - Captain. Represents the pure thirst for knowledge. Loves [[iggy|Iggy]]'s curiosity but fears [[ignatius|Ignatius]] will burn his specimens.
+- **Senior Historian Nadine** - Working with the Dean to prove the "Shattered Empire" theory. Decoding the [[mizizi|Mizizi]] tree-ring data.
 
 ---
 
@@ -37,16 +37,16 @@ The Scriveners are the scholars and mapmakers of Harmony. They are descendants o
 
 ### The "Minimum" Motive
 
-The Scriveners are the keepers of the "Dark Ages" Secret. They know the Empire collapsed once before due to isolation. They are terrified that the [[Mizizi]] are burning the archives because the Mizizi trees contain the *only* record of exactly *how* the previous collapse happened. If those records are lost, Harmony is doomed to repeat history blind.
+The Scriveners are the keepers of the "Dark Ages" Secret. They know the Empire collapsed once before due to isolation. They are terrified that the [[mizizi|Mizizi]] are burning the archives because the Mizizi trees contain the *only* record of exactly *how* the previous collapse happened. If those records are lost, Harmony is doomed to repeat history blind.
 
 ### The Shattered Empire Theory
 
-**Lead Researchers:** [[Dean Isolde Vane]] & Senior Historian Nadine.
+**Lead Researchers:** [[dean-isolde-vane|Dean Isolde Vane]] & Senior Historian Nadine.
 
 The theory: The Clans are not separate species. They are specialized castes of a single global civilization that shattered 10,000 years ago:
-- [[Mizizi]] = The Archivists (Memory)
-- [[Ash-Bloods]] = The Engines (Power)
-- [[Trench-Kin]] = The Miners (Resources)
+- [[mizizi|Mizizi]] = The Archivists (Memory)
+- [[ash-bloods|Ash-Bloods]] = The Engines (Power)
+- [[trench-kin|Trench-Kin]] = The Miners (Resources)
 - [[Renali|Cloud-Kin]]/Fulgur = The Architects (Vision)
 - Harmony = The Navigators (Direction)
 

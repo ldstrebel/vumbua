@@ -9,14 +9,14 @@ tags:
 |---|---|
 | **Role** | Maintenance Worker, Power Room |
 | **Race** | Human |
-| **Affiliation** | [[Vumbua Academy]] (staff) |
-| **Location** | [[Walker-Core]] — Power Plant |
+| **Affiliation** | [[vumbua-academy|Vumbua Academy]] (staff) |
+| **Location** | [[walker-core|Walker-Core]] — Power Plant |
 | **Status** | Active |
 | **First Appearance** | [[session-02.5\|Session 2.5]] |
 
 ## Overview
 
-Marla is a human maintenance worker in the power room who carries the weight of a failed dream. She tried out for [[Vumbua Academy]] about two decades ago in a much smaller class and didn't make the cut.
+Marla is a human maintenance worker in the power room who carries the weight of a failed dream. She tried out for [[vumbua-academy|Vumbua Academy]] about two decades ago in a much smaller class and didn't make the cut.
 
 ## Backstory
 
@@ -32,9 +32,9 @@ Marla's intake class was brutally competitive. Out of roughly a hundred candidat
 ## Session Appearances
 
 ### Session 2.5 - The Power Room
-- Present doing maintenance in the [[Walker-Core]] when [[Iggy]] arrives
+- Present doing maintenance in the [[walker-core|Walker-Core]] when [[iggy|Iggy]] arrives
 - May share her story if prompted, providing context about how competitive past classes have been
 
 ## Source References
 
-- **[[session-02.5|Session 2.5]]** — Present in the power room during [[Iggy]]'s exploration *(Scene 3: The Warehouse)*
+- **[[session-02.5|Session 2.5]]** — Present in the power room during [[iggy|Iggy]]'s exploration *(Scene 3: The Warehouse)*
