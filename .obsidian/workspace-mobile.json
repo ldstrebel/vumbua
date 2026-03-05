@@ -11,17 +11,28 @@
             "id": "b31987c777bb7f18",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "sessions/transcripts/clean/session-00.md",
-                "mode": "source",
-                "source": false
+                "file": "meta/Excalidraw/Reso Race 1.md"
               },
-              "icon": "lucide-file",
-              "title": "session-00"
+              "icon": "excalidraw-icon",
+              "title": "Reso Race 1"
+            }
+          },
+          {
+            "id": "52084d20db0e2eb1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Session 4.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Session 4"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -182,8 +193,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7b8b0d5c2271cba7",
+  "active": "52084d20db0e2eb1",
   "lastOpenFiles": [
+    "Excalidraw/Session 4.png",
+    "meta/Excalidraw/Reso Race 1.md",
+    "Excalidraw/Session 4.md",
+    "sessions/planning/old/Session 3 Plan.md",
+    "meta/radio-scripts/session-04-recap.md",
+    "Screenshot_20260222_193632_Obsidian.jpg",
+    "sessions/transcripts/clean/session-00.md",
     "world/Harmony.md",
     "world/circuit-run.md",
     "sessions/transcripts/raw/s3-raw.md",
@@ -191,12 +209,10 @@
     "sessions/planning/old/s2/s2.5-planning.md",
     "sessions/planning/old/s2/s2-planning.md",
     "sessions/planning/old/s2/bonfire_scene.md",
-    "sessions/planning/old/Session 3 Plan.md",
     "sessions/planning/old/s2",
     "sessions/planning/session 4 plan",
     "sessions/planning/old",
     "sessions/planning",
-    "meta/radio-scripts/session-04-recap.md",
     "meta/radio-scripts/session-03-recap.md",
     "locations/umbra-mountain.md",
     "locations/trail-tail-trench.md",
@@ -210,17 +226,12 @@
     "locations/lenoa.md",
     "locations/juxta.md",
     "locations/gilded.md",
-    "locations/feltland.md",
-    "locations/elysium.md",
-    "locations/bloomfield.md",
-    "locations/bay-of-breath.md",
     "Excalidraw/Session 3 drawing.png",
     "sessions/planning/s2",
     "meta/Excalidraw/Reso Race 1.png",
     "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
     "copilot/copilot-custom-prompts",
     "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
-    "Screenshot_20260222_193632_Obsidian.jpg",
     "copilot/memory",
     "copilot/copilot-conversations",
     "copilot",
