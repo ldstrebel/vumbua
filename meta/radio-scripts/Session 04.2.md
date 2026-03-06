@@ -44,6 +44,8 @@ Session 4.2 Recap: The Crucible & The Circuit-Run
 
 **Professor Kante:** "The Panda 5 is a very... sturdy receptor. We should appreciate the stability we have. To rush a surge is to invite the Night of Sparks, yes? We must wait for the right... question."
 
+this
+
 ---
 
 ### Version 2: The "Market Stability" Spin
