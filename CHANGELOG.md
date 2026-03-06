@@ -4,6 +4,10 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ---
 
+## 2026-03-06
+
+- **Circuit-Run ruleset expansion**: Built a full Academy race rules reference with match flow phases, connection-deficit math, rig build/launch standards, full basin node ledger (CU + boons), and race-balance tuning levers → `world/circuit-run.md`
+
 ## 2026-02-17
 
 - **Lore dump processing**: Integrated content from `lore-dump/onenote-temp.md` and `Taratannen.pdf`

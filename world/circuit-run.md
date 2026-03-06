@@ -78,11 +78,33 @@ The Circuit-Run's mechanics are built on the same technology as [[The Power Syst
 
 A team wins when their accumulated resonance **exceeds the Global Amplitude** plus their craft's rated power draw. At that point, they have enough "connection" to light the Grand Resonator.
 
+For race judges, this is tracked as a **Connection Deficit (CD)**:
+
+`CD = Global Amplitude + Craft Draw + Launch Penalty - Stored Connection`
+
+- Teams begin the race with a positive CD (they are in deficit)
+- Every successful Spire sync lowers CD
+- A team can attempt a Grand Resonator discharge only when CD is **0 or lower**
+
 - A low-power sailboat only needs to slightly exceed Global Amplitude
 - A high-power dreadnought must generate connection equal to Global Amplitude **plus** its own massive energy consumption
 - This is what makes the sport strategically interesting — raw power is a liability
 
 > **Connection to [[professor-kante|Professor Kante]]'s Lessons:** The Circuit-Run is a practical demonstration of everything Kante teaches. The "stored connection" mechanic, the relationship between nodes and Global Amplitude, the difference between energy and connection — students who paid attention in class have a genuine advantage understanding the race.
+
+---
+
+## Official Match Flow (Academy Format)
+
+| Phase | What Happens | Strategic Meaning |
+|---|---|---|
+| **1. Certification Lock (T-24h to T-0)** | Officials lock each rig's declared Craft Draw, Launch Class, and safety seals. | Teams must choose speed vs armor before the race starts. |
+| **2. The Drop (Opening Horn)** | Rigs are slung/dropped from the south rim. | Positioning and first-contact route matter more than top speed. |
+| **3. First Sync Window** | Initial spires are available for a short opening window. | Lightweight rigs can clear deficit early; heavy rigs must contest majors. |
+| **4. Loom-Pulse Rotations** | Additional spires emerge in timed pulses across terrain bands. | Forces exploration across the whole basin; prevents one-lane races. |
+| **5. Convergence** | Remaining active teams route toward the Grand Resonator. | Route denial, ambushes, and mobility boons decide placement. |
+| **6. Resonator Attempt** | Any team with CD ≤ 0 may strike the centre pylon. | Race can end suddenly if a team banks enough connection. |
+| **7. Tiebreak (if needed)** | If two teams discharge in the same horn-window, highest remaining stored connection wins; if still tied, fastest verified basin time wins. | Rewards efficient routing, not just brute force. |
 
 ---
 
@@ -101,6 +123,19 @@ Teams or soloists bring their own mechanical crafts. There are no restrictions o
 ### Craft Scaling
 
 Rigs have **no internal engines** in the traditional sense — they move only as long as they have an active "Node-Sync" in their battery. The initial drop from the rim gives momentum, but after that, everything depends on how quickly you can strike your first Spire.
+
+### Build & Launch Standards (Vumbua Intake)
+
+| Standard | Requirement | Why It Exists |
+|---|---|---|
+| **Declared Craft Draw** | Each rig must publish a rated draw band before the match. | Prevents hidden low-deficit builds and keeps handicap math fair. |
+| **Prong Integrity** | Harvest-Prong must survive 3 dry-strikes during inspection. | Ensures teams can actually complete sync actions under load. |
+| **Umber Gutter Tolerance** | Gutter must pass overheat and containment checks at 120% projected load. | Reduces catastrophic failures during Leidian-style bursts. |
+| **Launch Coupler Spec** | Hull must include approved sling/drop anchor points. | Keeps opening launch fast and safe for a full field. |
+| **Crew Survival Kit** | Crash webbing, flare dye, and emergency dead-switch are mandatory. | Allows practical training value without lethal outcomes. |
+| **Telemetry Beacon** | Passive location ping required for all entrants. | Lets marshals monitor race flow and retrieve disabled crews. |
+
+> **Design Philosophy:** The race intentionally starts every craft in deficit. The goal is not to prove who has the biggest engine; it's to prove who can restore connection fastest under pressure.
 
 ---
 
@@ -135,7 +170,49 @@ Each node type grants a temporary **Boon** — a power-up that lasts until the n
 | **Aero-Static** (Foundational) | 20–40 | **Weightless Drift:** Gravity -90%. Massive jumps and vertical climbing. | Low (20%) |
 | **Kinetic-Echo** (Foundational) | 60–80 | **Ghost-Track:** Leaves a hard-light trail for instant U-turns. | High (75%) |
 
-> **Note:** Only Ash-Blood energy has clan-specific integration so far. Future seasons may add Mizizi, Wadi, and Renali node types.
+### Apex Ring Node Ledger (Connection, Not Raw Power)
+
+The Scriveners score race spires in **Connection Units (CU)**. CU measures how much a node closes a rig's deficit — not how much electrical/thermal force it outputs.
+
+| Simulated Location | Node Resource | Typical CU per Sync | Boon (Practical Skill) | Tactical Role |
+|---|---|---:|---|---|
+| [[gilded|Gilded]] | Chime Spire | 80 | **Harmonic Lock:** Stabilize one active boon for +1 pulse. | Endgame stabilizer |
+| [[umbra-mountain|Umbra Mountain]] | Umber Crystal | 70 | **Deficit Shear:** Reduce current CD by an extra fixed chunk. | Heavy-rig recovery |
+| [[feltland|Feltland]] | Live Soil | 35 | **Root-Grip:** Perfect traction on loose terrain. | Climb / marsh crossing |
+| [[octo|Octo]] | Speaking Stone | 25 | **Relay Ping:** Share one discovered spire coordinate to allies. | Team coordination |
+| [[juxta|Juxta]] | Lift Stone | 40 | **Loadlight:** Temporarily halve cargo/hull effective mass. | Acceleration / escape |
+| [[shepta|Shepta]] | Whetstone | 30 | **Flash Set:** Create temporary hard cover or ramp. | Route shaping |
+| [[lenoa|Lenoa]] | Friction Needles | 30 | **Slipline:** Greatly reduce drag for one sprint lane. | Burst reposition |
+| [[relina|Relina]] | Soft Forge | 45 | **Rapid Refit:** Patch hull stress or reshape prow geometry. | Sustain in collisions |
+| [[minnow|Minnow]] | Living Scent Wood | 20 | **Trail Mark:** Leave a persistent route marker for allies. | Navigation memory |
+| [[bloomfield|Bloomfield]] | Clockwork Blooms | 20 | **Pulse Sense:** Predict next Loom-Pulse emergence band. | Tempo control |
+| [[prima|Prima]] | Dew Crystal | 25 | **Coolant Veil:** Reduce heat/noise signatures briefly. | Stealth and thermal control |
+| [[settika|Settika]] | Prism Falls | 30 | **True Sight:** Reveal hidden hazards, fake paths, weak armor seams. | Intel / counterplay |
+| [[nstyl|Nstyl]] | Silent Silt | 20 | **Mute Wake:** Suppress engine and hull noise in a local cone. | Ambush / evasion |
+| [[elysium|Elysium]] | Snow Sand | 15 | **Mirage Wake:** Distort your route for pursuers. | Disengage tool |
+| [[bay-of-breath|Bay of Breath]] | Breathable Algae | 20 | **Air Pocket:** Stabilize crew stamina in sealed/smoke zones. | Endurance / hazard crossing |
+
+> **ASL Tuning Note:** Mobility and stealth boons (Aero-Static, Lift Stone, Silent Silt, Dew Crystal) are intentionally low-to-mid CU. They are often stronger in practice than their CU value, so they do **not** need major-node numbers to remain high-impact for Applied Survival Lab style play.
+
+### Basin Placement by Terrain Band
+
+| Terrain Band | Typical Nodes Spawned There | Tuning Intent |
+|---|---|---|
+| **South Launch Canyons** | Friction Needles, Whetstone, Live Soil | Quick early choices; prevent opening pileups |
+| **West Petrified Forest (Mizizi simulation)** | Soft Forge, Trail Mark, Pulse Sense | Technical pathing and endurance routes |
+| **North Open Flats** | Lift Stone, Umber, Chime | High-risk high-reward contested lane |
+| **East Wet Shelf / Dry Sea-Bed** | Dew Crystal, Breathable Algae, Prism Falls | Utility route for disciplined teams |
+| **Ash-Blood Terrain Slice** | Leidian terrain cues only (no active Ash-Blood spire this year) | Narrative pressure and public controversy |
+
+### If Race Flow Feels Off: Fast Tuning Levers
+
+1. **Too much brawling early:** Shift one high-CU north-flat spawn into east utility band.
+2. **Heavy rigs auto-win:** Raise Launch Penalty on super-heavy classes by one band.
+3. **Soloists always evade forever:** Shorten Mute Wake / Mirage Wake duration by one pulse.
+4. **No one explores full basin:** Delay first central Chime spawn until after second Loom-Pulse.
+5. **Teams ignore practical boons:** Add one extra CU bonus when utility boons are used to clear terrain hazards.
+
+> **Note:** Only Ash-Blood energy has clan-specific integration so far. Future seasons may add Mizizi, Wadi, and Renali node types as dedicated high-CU spires once amplitude calibration is public.
 
 ---
 
