@@ -128,7 +128,7 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 > Items that need GM decisions or future drafting:
 > - [x] **Lucky's test questions** — See `sessions/planning/exam/Gened exam.md` and `GenEd_-_Exploration101_survey.json`
 > - [ ] **Track department heads** — Fill in TBD faculty for Ironworks, Verdant Studies, Shadow Ops, Medicae
-> - [ ] **Resonance Race** — Transcribe Excalidraw drawings `[Reso Race 1]` and `[Reso Race Basin]` into full scene
+> - [x] **Resonance Race** — Full simulation with CU math, all teams, and GM touchpoints → `world/circuit-run-simulation.md`
 > - [x] **Loom one-liners** — Craft the actual team assignment prophecies for each PC
 > - [x] **Professor Ink NPC page** — Create `characters/npcs/professor-ink.md`
 > - [x] **Simulate race outcome** — Generate a play-by-play for the first Vumbua Circuit-Run
