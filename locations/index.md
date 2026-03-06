@@ -67,18 +67,20 @@ tags:
 
 ### Integrated Nodes
 
-| City | Resource | Notable Feature |
-|---|---|---|
-| [[Shepta]] | Whetstone | Instant concrete |
-| [[Lenoa]] | Friction Needles | Friction elimination |
-| [[Relina]] | Soft Forge | Malleable lake |
-| [[Minnow]] | Living Scent Wood | Permanent scent transfer |
-| [[Bloomfield]] | Clockwork Blooms | [[Scrivener Guild]] timekeeping |
-| [[Prima]] | Dew Crystals | Clean water from air |
-| [[Settika]] | [[Prism Falls]] | Reveals true nature |
-| [[Nstyl]] | Silent Silt | Sign-language-only city |
-| [[Elysium]] | Snow Sand | Hallucinogenic desert sand |
-| [[Bay of Breath]] | Breathable Algae | Life-support resource |
+| City              | Resource          | Notable Feature                 |
+| ----------------- | ----------------- | ------------------------------- |
+| [[Shepta]]        | Whetstone         | Instant concrete                |
+| [[Lenoa]]         | Friction Needles  | Friction elimination            |
+| [[Relina]]        | Soft Forge        | Malleable lake                  |
+| [[Minnow]]        | Living Scent Wood | Permanent scent transfer        |
+| [[Bloomfield]]    | Clockwork Blooms  | [[Scrivener Guild]] timekeeping |
+| [[Prima]]         | Dew Crystals      | Clean water from air            |
+| [[Settika]]       | [[Prism Falls]]   | Reveals true nature             |
+| [[Nstyl]]         | Silent Silt       | Sign-language-only city         |
+| [[Elysium]]       | Snow Sand         | Hallucinogenic desert sand      |
+| [[Bay of Breath]] | Breathable Algae  | Life-support resource           |
+| [[Timon]]         | Focus Glass       | Responds to touch instantly     |
+|                   |                   |                                 |
 
 ### Frontier Nodes
 
