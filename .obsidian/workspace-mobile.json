@@ -8,7 +8,7 @@
         "type": "tabs",
         "children": [
           {
-            "id": "b31987c777bb7f18",
+            "id": "2ade9fb315eb2fdc",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -25,10 +25,14 @@
             "id": "a183fea3e5e952f7",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "sessions/planning/Session 4 plan.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Session 4 plan"
             }
           }
         ],
@@ -60,7 +64,7 @@
         "state": {
           "type": "search",
           "state": {
-            "query": "Test",
+            "query": "",
             "matchingCase": false,
             "explainSearch": false,
             "collapseAll": false,
@@ -194,35 +198,39 @@
   },
   "active": "a183fea3e5e952f7",
   "lastOpenFiles": [
+    "session 4.2.md",
     "sessions/planning/Session 4 plan.md",
-    "sessions/planning/Session 3 Plan.md",
     "Valerius Sterling Sr..md",
     "The Minimum.md",
-    "characters/npcs/valentine-sterling.md",
-    "copilot/copilot-conversations/Considering_this_is_my_first_time_as_a_GM_for@20260224_000149.md",
-    "Gened exam.md",
-    "characters/npcs/lucky.md",
-    "Exam json gened.md",
+    "Harmony.md",
+    "world/Harmony.md",
+    "sessions/transcripts/raw/s3-raw.md",
+    "sessions/transcripts/clean/session-03.md",
+    "sessions/planning/exam/GenEd_-_Exploration101_survey.json",
+    "sessions/planning/exam/Gened exam.md",
+    "sessions/planning/exam/Exam json gened.md",
+    "sessions/planning/exam",
+    "meta/radio-scripts/session-04-recap.md",
+    "meta/radio-scripts/session-03-recap.md",
+    "Excalidraw/Session 3 drawing.png",
+    "Excalidraw/Session 3 drawing.md",
+    "copilot/copilot-conversations/Help_me_find_the_exam_questions_we_have_set@20260301_092913.md",
+    "copilot/copilot-conversations/can_you_make_me_a_image_prompt_for_the_celestial@20260225_194903.md",
+    "characters/player-characters/gm-notes/lomi-gm.md",
+    "characters/player-characters/gm-notes/ignatius-gm.md",
+    "characters/player-characters/gm-notes/iggy-gm.md",
+    "characters/player-characters/gm-notes/britt-gm.md",
+    "characters/player-characters/gm-notes/aggie-gm.md",
+    "characters/player-characters/gm-notes",
+    "characters/npcs/zyykl.md",
+    "characters/npcs/tus.md",
+    "characters/npcs/resonance-racers.md",
+    "characters/npcs/iron-hide.md",
+    "characters/npcs/ignis-scorch.md",
+    "characters/npcs/captains-dossier.md",
     "GenEd_-_Exploration101_survey.json",
-    "locations/celestial-lounge.md",
-    "copilot/copilot-conversations/Help_me_describe_the_celestial_lounge@20260222_224852.md",
-    "characters/player-characters/iggy.md",
-    "characters/player-characters/ignatius.md",
-    "Block 12.md",
-    "world/circuit-run.md",
     "Screenshot_20260222_193632_Obsidian.jpg",
     "meta/Excalidraw/Reso Race 1.png",
-    "meta/Excalidraw/Reso Race 1.md",
-    "locations/umbra-mountain.md",
-    "locations/trail-tail-trench.md",
-    "locations/shepta.md",
-    "locations/settika.md",
-    "locations/relina.md",
-    "locations/prima.md",
-    "locations/octo.md",
-    "locations/nstyl.md",
-    "locations/minnow.md",
-    "locations/lenoa.md",
     "Excalidraw/Reso Race Basin.png",
     "Excalidraw",
     "copilot/memory",
@@ -230,9 +238,6 @@
     "copilot/copilot-custom-prompts",
     "copilot",
     "lore-dump/Taratannen.pdf",
-    "Excalidraw/Devin OCR test.png",
-    "sessions/planning/s2",
-    "sessions/transcripts",
-    "sessions/planning"
+    "Excalidraw/Devin OCR test.png"
   ]
 }
