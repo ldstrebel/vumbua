@@ -2,12 +2,23 @@
 
 This page details the notable teams and soloists competing in the intake year's opening [[circuit-run|Resonance Race]].
 
+> **Full race play-by-play:** See [[circuit-run-simulation|The First Vumbua Circuit-Run — Full Simulation]].
+
 ## Team 1: Shatter Stamper
 | | |
 |---|---|
 | **Role** | Heavy-Class Racing Team |
 | **Rig** | **The Ironclad** - A massive, brutalist heavy rig built for straight-line speed and surviving impacts. It lacks maneuverability but makes up for it in sheer momentum and thick armor plating. |
 | **Strategy** | **Brute Force & Overclocking.** They aim for high-yield nodes to offset their incredible weight, relying on raw power to bulldoze through obstacles rather than steering around them. |
+
+## Team 2: Sail & Stun
+| | |
+|---|---|
+| **Role** | Speed / Disruption Team |
+| **Rig** | **The Stinger-Ketch** - A narrow, twin-hulled racing ketch built for maximum velocity on rough terrain. The second hull acts as a stabilizer, allowing the crew to execute sharp course corrections at speed without capsizing. Lightly armed with a pair of kinetic disruptors — legal under race rules. |
+| **Strategy** | **Speed and Calculated Disruption.** They don't seek open conflict, but they aren't runners either. Their role is to identify which frontrunner is closest to CD ≤ 0 and tactically slow them down — bumping, blocking sight lines, firing disruptors at Harvest-Prongs — just long enough for *their* preferred outcome to materialize. The disruptors are non-lethal but can scramble a Harvest-Prong's tuning mid-strike. |
+| **Connection** | Loosely allied with [[Pudge]]'s circle outside of race hours. No formal pre-race pact, but their route choices during the race are noticeably non-competitive with the Gryphon-Hybrid. |
+| **Watcher** | [[Nyx]] (Squad 03) tracks their *timing* from the Rim-Tracker throughout the race — not their position. She is not cheering. She is studying. |
 
 ## Team 3: Marble Wall
 | | |

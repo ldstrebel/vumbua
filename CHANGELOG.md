@@ -6,6 +6,10 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ## 2026-03-06
 
+- **Full race simulation**: Created `world/circuit-run-simulation.md` — complete play-by-play for the First Vumbua Circuit-Run with all teams, full CU math per sync, terrain-band breakdown, Loom-Pulse sequence, major dramatic moments, final standings (Pudge wins), and GM narrative touchpoints keyed to each PC
+- **Resonance Racers update**: Added Sail & Stun (Team 2) full profile to `characters/npcs/resonance-racers.md` — rig details (The Stinger-Ketch), strategy, Nyx connection, and Pudge alliance note; added simulation link header
+- **Circuit-Run rule refinements**: Added **Rule Clarifications & Refinements** section to `world/circuit-run.md` covering: spire charge counts by tier, minimum 3-spire requirement, boon expiry clarification (one active boon per rig, holder-only expiry), Grand Resonator aerial approach ruling, disabled rig protocol, organic-drive (gryphon) ruling, and pre-race alliance optional rule; replaced TODO note with simulation link; updated Related Pages
+
 - **Circuit-Run ruleset expansion**: Built a full Academy race rules reference with match flow phases, connection-deficit math, rig build/launch standards, full basin node ledger (CU + boons), and race-balance tuning levers → `world/circuit-run.md`
 
 ## 2026-02-17
