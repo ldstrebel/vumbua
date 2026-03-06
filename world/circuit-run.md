@@ -85,6 +85,7 @@ For race judges, this is tracked as a **Connection Deficit (CD)**:
 - Teams begin the race with a positive CD (they are in deficit)
 - Every successful Spire sync lowers CD
 - A team can attempt a Grand Resonator discharge only when CD is **0 or lower**
+- **Launch Penalty** is a fixed opening handicap set by rig class (light/standard/heavy/super-heavy) to keep launch momentum from deciding the whole race.
 
 - A low-power sailboat only needs to slightly exceed Global Amplitude
 - A high-power dreadnought must generate connection equal to Global Amplitude **plus** its own massive energy consumption
@@ -170,7 +171,7 @@ Each node type grants a temporary **Boon** — a power-up that lasts until the n
 | **Aero-Static** (Foundational) | 20–40 | **Weightless Drift:** Gravity -90%. Massive jumps and vertical climbing. | Low (20%) |
 | **Kinetic-Echo** (Foundational) | 60–80 | **Ghost-Track:** Leaves a hard-light trail for instant U-turns. | High (75%) |
 
-### Apex Ring Node Ledger (Connection, Not Raw Power)
+### Basin Node Ledger (Connection, Not Raw Power)
 
 The Scriveners score race spires in **Connection Units (CU)**. CU measures how much a node closes a rig's deficit — not how much electrical/thermal force it outputs.
 
@@ -202,7 +203,7 @@ The Scriveners score race spires in **Connection Units (CU)**. CU measures how m
 | **West Petrified Forest (Mizizi simulation)** | Soft Forge, Trail Mark, Pulse Sense | Technical pathing and endurance routes |
 | **North Open Flats** | Lift Stone, Umber, Chime | High-risk high-reward contested lane |
 | **East Wet Shelf / Dry Sea-Bed** | Dew Crystal, Breathable Algae, Prism Falls | Utility route for disciplined teams |
-| **Ash-Blood Terrain Slice** | Leidian terrain cues only (no active Ash-Blood spire this year) | Narrative pressure and public controversy |
+| **Ash-Blood Terrain Slice** | Leidian terrain cues only (heat shimmer vents, flash-arc hazards, and scorched rock lanes; no active Ash-Blood spire until Scrivener amplitude calibration is released) | Narrative pressure and public controversy |
 
 ### If Race Flow Feels Off: Fast Tuning Levers
 
