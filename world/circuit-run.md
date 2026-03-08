@@ -150,6 +150,8 @@ The third and final timed wave. Same spawn logic as Horn 2 — reactive placemen
 
 By Horn 3, every active node type from the 16 Harmony cities will have appeared at least once in the race. Charges determine how many teams can sync each node — a Major node with three charges can serve three teams; a Minor node with one charge is first come, first served.
 
+> **Fixed Rule — Chime Spire Reservation:** The Gilded Chime Spire always spawns at Horn 3, never earlier. It is the capstone Major node of the race and its appearance is a guaranteed structural event — not subject to reactive or random spawn logic. It always appears in the north volcanic flats (its geographic zone). Its timing is known; its exact arc position within that zone is not.
+
 ### Horn 4 — Convergence Horn *(Condition-triggered)*
 
 **Fires immediately when the first team reaches both LEDs green.**

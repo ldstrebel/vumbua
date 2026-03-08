@@ -54,6 +54,7 @@ The Walker-Core straddles the southern rim: four legs on stone, the drop arm cur
 - **Controversy:** Pudge's Gryphon-Hybrid draw is disputed. Ruled as **Experimental class** — Heavy launch penalty offset by the light gyro-boat hull. Final CD: 195 — equal to Marble Wall, for entirely different reasons. The Harvest-Prong is rigged to Pudge's personal harness, not the hull cradle; the intent is an arm's-length aerial strike, and the Guild inspector raises an eyebrow but finds no rule against it.
 - **Calculus Prime** posts odds: *Shatter Stamper: 68.4%. Pudge: 3.1%. Dancer & Fabian: 0.8%.* The crowd laughs. Calculus Prime does not.
 - **Lucky** is already working the bleachers in Shatter Stamper burgundy, three flag-changes folded in his coat.
+- **A whisper at the certification tent, overheard by two marshals:** Someone saw Pudge reviewing a hand-drawn terrain map in the northern section eighteen days before the race. Not a registered survey — an *unofficial* one. The Chime Spire's appearance at Horn 3 is a fixed rule, but its exact arc position in the north flat isn't published. Pudge had a location marked with a red circle. The marshal who saw the map reported it. The Guild reviewed it. Nothing in the rulebook prohibits pre-race terrain study. File closed. *The map was never recovered.*
 
 ---
 
@@ -94,6 +95,8 @@ The thermal from the northern volcanic flats is reliable in the morning hours �
 The crowd exhales into laughter. Kante, on the North Research Deck, is already smiling.
 
 > **GM Beat:** Iggy or anyone with knowledge of the north flats understands: there's nothing there now. But node geography means the Major nodes — Gilded, Juxta — always spawn in volcanic open terrain. Pudge is pre-positioning for Horn 2.
+
+> **The Risk, Stated Plainly:** Pudge is paying +14 drain every pulse with zero syncs. CD is climbing. If Juxta and Umbra Mountain don't appear in the north arc at Horn 2 — if the reactive spawn logic skews toward a different quiet zone, or the nodes materialise further east — Pudge cannot course-correct in time. They would spend the remainder of the race trying to close a 200+ CD gap from mid-field, arriving late to every contested node. The entire strategy depends on a reactive spawn going where geography says it should. That is not a guarantee. That is a bet.
 
 ---
 
@@ -221,7 +224,23 @@ The Glass-Sail's Soft Forge strike: the bronze-amber column shimmers like liquid
 
 ### Atmosphere
 
-Three active arcs remain from Horn 2. The Compass shows: Umber Crystal still has charges (deep violet, north), mid-basin arcs are depleting, the water zone is quieting. Dancers are eligible and routing toward the Grand Resonator — but the Convergence Horn hasn't fired yet. Marble Wall is silent and fast.
+Three active arcs remain from Horn 2. The Compass shows: Umber Crystal still has charges (deep violet, north), mid-basin arcs are depleting, the water zone is quieting. Dancer & Fabian are eligible and routing toward the Grand Resonator — but the Convergence Horn fires at the *next scheduled horn interval* after a team first goes eligible, not immediately. That means it fires at Horn 3. Forty minutes remain.
+
+Marble Wall is somewhere in mid-basin. Silent, by boon. Moving fast.
+
+### The North Arc — Waiting
+
+Pudge has been airborne for forty minutes. The north Compass arcs are still the quietest in the race — just the two node indicators, deep violet and blue-grey, sitting steady. No other rig has come north. Pudge has the entire zone to themselves.
+
+From the Gilded Zephyr decks above, through magnifying-glass floors, the watchers can see a single rig circling the north flat: the gryphon making slow banking passes, the gyro-hull swinging, Pudge working through the second Umber Crystal sync. The scoreboard for their team shows two red dots. It has shown two red dots since the race began.
+
+*Someone in the east bleachers starts a slow clap. It does not catch on.*
+
+In the maintenance pit at the south rim, Kante's junior observer — second year, Synthesis track — pulls out a notebook and begins showing a calculation to the person next to them. The calculation is Pudge's remaining drain budget if no new nodes appear north at Horn 3. The conclusion is not encouraging.
+
+> **GM Beat — The Drain Clock:** Between Horn 2 and Horn 3, Pudge syncs Umber Crystal 2nd charge (70 CU) — CD: 84 → **14**, LED 1 green. Then Lift Stone 2nd charge (40 CU) — CD: 14 → **−26**, LED 2 green. Both north arcs then deplete. If the Chime Spire does not appear at Horn 3, Pudge has nothing left to sync in the north. They would need to fly south across the full basin — paying +14 drain per pulse in transit — and compete in mid-basin scraps already picked over by the field. **The math does not close.** Pudge would DNF.
+>
+> The strategy works *because* the Chime Spire is a fixed Horn 3 spawn. Pudge knows it is coming. The question that will not go away: did they also know *where* in the north flat it would land?
 
 ### Strategic Landscape
 
@@ -245,9 +264,8 @@ At Certification Lock, three days before the race, Nyx took a terrain survey of 
 
 Pudge: Lift Stone (2nd charge, 40 CU). CD 14 → **−26**. 🟢🟢 **Both LEDs green.**
 
-> Wait — the Convergence Horn should fire now. But Dancer & Fabian went eligible first (CD −20 at Horn 2). Dancer went first. The Convergence Horn fires when the FIRST team goes eligible — that was Dancer & Fabian at Horn 2, not Pudge now.
->
-> **Retroactive note:** The Convergence Horn should have fired when Dancer & Fabian hit both greens. In this race, by the time Pudge also hits green, the Convergence Horn is already in the air. See Phase 3 — Horn 3 and the Convergence Horn coincide.
+> **Rule:** The Convergence Horn fires at the next scheduled horn interval after the first team reaches eligibility — in this race Horn 3 — not immediately when the condition is met. Dancer & Fabian's eligibility at Horn 2 queued it; Horn 3 fires it alongside the third Loom-Pulse. Both Pudge's double-green and the Convergence Horn land in the same moment.
+
 
 ### The Glass-Sail's Approach
 
@@ -263,13 +281,23 @@ The Bastion's sensor operator catches the movement half a second too late.
 
 ### Atmosphere
 
-Two horns fire in rapid sequence at T+80 — the third Loom-Pulse horn immediately followed by the Convergence Horn, because Dancer & Fabian's eligibility status has been live since Horn 2. Race officials were waiting for confirmation before sounding the Convergence call; Pudge going green on the approach to Horn 3 resolves any ambiguity.
+Horn 3 fires. Then, two beats later, a second horn — longer, lower, unmistakeable. The Convergence Horn. The crowd has been waiting for it since Dancer & Fabian's scoreboard went double-green forty minutes ago.
 
-The Compass: one new arc ignites bright gold in the north. The Chime Spire from Gilded — organ-pipe brass columns erupting from the volcanic flat, actual musical tones audible across the full basin as it breaches the surface. The most valuable node in the race. The only rig within range is Pudge.
+The north Compass arc was dark going into the horn. Every spectator with binoculars had been tracking the single rig circling the north flat for forty minutes, two red dots on the scoreboard, syncing nothing. *Come on. Light up.*
 
-**Then the second, longer horn. The Convergence Horn.**
+Then: **gold.**
 
-The crowd recognises the different tone. The energy in the bleachers shifts — from race-watching to *outcome-waiting*.
+The Chime Spire from Gilded erupts from the north volcanic flat — five organ-pipe brass columns in a semicircle, rising from the ground with an ascending tonal chord that carries across the entire basin. Nobody in the bleachers has ever heard a Chime Spire erupt from the floor before; this is a Major node, and the sound it makes coming out of the ground is not what anyone expected. It's not mechanical. It's *music*.
+
+And it appears at almost exactly the location Pudge was already circling.
+
+The gold arc pulses immediately. Pudge is already at the rim of Harvest-Prong reach as the Spire crowns the surface. Not approaching. *Waiting.*
+
+The east bleachers go quiet.
+
+*"That's not luck,"* someone says, loud enough for three rows to hear.
+
+> **GM Beat — The Controversy:** The Chime Spire's Horn 3 timing is common knowledge; every crew knows the capstone Major always appears in the final wave. Its geographic zone — north volcanic flats — is also public. The controversy is not about the timing. It's about Pudge being *positioned at the correct sub-location* the moment it surfaced. The north flat covers significant area. Pudge was within activation range before the Spire finished erupting. Either Pudge has exceptional read on the resonance signature of a pre-emergent Chime node — or they had information about its precise spawn point. The unofficial terrain map with the red circle, seen by two marshals eighteen days prior and then lost: Guild record, inconclusive.
 
 **After the Convergence Horn: no new Spire waves. No new companion spawns. The Compass shows only what remains active.**
 
@@ -287,11 +315,13 @@ The crowd recognises the different tone. The energy in the bleachers shifts — 
 
 ### Pudge Hits the Chime Spire
 
-The gold arc pulses as the Gryphon-Hybrid descends into range. The organ-pipe columns ring — a deepening chord as the resonance registers the approach. Pudge leans forward from the harness, Prong extended arm's-length. Contact with the crown.
+The activation window is already open. The Prong is already extended. Pudge doesn't descend to the Spire — the gryphon holds altitude, Pudge leaning forward from the harness, arm outstretched. The Prong makes contact with the tallest pipe crown from directly above at a shallow angle.
 
-**Chime Spire (80 CU).** CD: −26 → **−106** (already negative; stored connection surging past double the GA threshold). Boon: **Harmonic Lock** — Loadlight effect stabilises.
+The chord the Chime Spire produces on sync is different from on eruption — deeper, sustained, resonating into the stone. The gryphon flinches and compensates.
 
-North Compass arc goes dark behind Pudge as the Chime's charges deplete. The gold light is gone.
+**Chime Spire (80 CU).** CD: −26 → **−106** (stored connection now surging past double the GA threshold). Boon: **Harmonic Lock** — Loadlight effect stabilises.
+
+North Compass arc goes dark behind them. The gold light is gone.
 
 ### Marble Wall's Final Run
 
