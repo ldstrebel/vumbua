@@ -22,9 +22,11 @@ The **Circuit-Run** (colloquially: **Reso Race**) is the most popular sport in H
 
 ## Core Concept
 
-Teams or soloists pilot custom craft (**Venture-Rigs**) through a wilderness arena, racing to **strike Spires** (simulated nodes) and siphon their energy. Once a team has accumulated enough resonance to overcome their craft's energy handicap, they must reach the **Grand Resonator** at the arena's centre and discharge everything. The first team to light the Grand Resonator wins.
+Teams or soloists pilot custom craft (**Venture-Rigs**) through a wilderness arena, racing to **strike Spires** (simulated nodes) and siphon their energy. Once a team has accumulated enough resonance to overcome their craft's connection deficit *and* the race's Global Amplitude, they may reach the **Grand Resonator** at the arena's centre and discharge everything. The first team to light the Grand Resonator wins.
 
 The genius of the format: **bigger, more powerful ships need MORE energy**. A sailboat crew might only need a few minor nodes. A dreadnought crew needs dozens. This creates natural strategic tension between speed, firepower, and efficiency.
+
+There is more than one path to victory. A team that cannot outrun rivals can endeavour to *eliminate* them — disabling the field and then completing the race on their own terms. Aggression is a legitimate strategy; it simply has a cost.
 
 ---
 
@@ -34,12 +36,29 @@ The Circuit-Run takes place in a massive natural geographic basin called the **A
 
 | | |
 |---|---|
-| **Size** | ~1 mile wide |
+| **Shape** | Horseshoe — open on the south face |
+| **Size** | ~1 mile across |
 | **Terrain** | Static wilderness — canyons, petrified forests, dry sea-beds, open water |
-| **Layout** | Consistent across all Harmony venues, but updated to reflect newly integrated territory |
+| **Layout** | Consistent across all Harmony venues, updated periodically to reflect newly integrated territory |
 | **Grand Resonator** | Towering obsidian pylon at the exact centre — the finish line |
-| **Rim** | Operates like an airport — circular tram system with stops along the way |
-| **Start Line** | At the basin's southern rim; rigs are dropped or slung from the amphitheaters |
+| **Rim** | Circular stone wall with the Apex Compass inset along the inner face; tram stops at key viewing positions |
+
+### The Southern Gate — Mixed Start Line
+
+The horseshoe's open mouth is the **Southern Gate** — the race's start line. It is divided down the middle:
+
+- **West half: Land approach** — canyon floor, stone gradient, wide enough for heavy rigs side by side
+- **East half: Water approach** — shallow estuary mudflat that deepens into an open-water channel at the basin interior; navigable by boats, hulls, and amphibious rigs
+
+All ground and water rigs line up at the Southern Gate. At the opening horn, they charge through simultaneously — no weight-class ordering for the ground entry.
+
+### The Drop — Aerial Launch
+
+A separate start is reserved for **aerial and slung light rigs**. [[Vumbua Academy]]'s [[walker-core|Walker-Core]] parks two legs on the southern rim during race day, its elevated frame serving as the official **drop gantry**. Aerial rigs (gryphon-equipped, airship-rigged, or slung) are launched from the Walker-Core's upper arm in weight-class order, lightest first, timed to coincide with the ground entry horn.
+
+The Drop is dramatic and specific — it is not how most rigs enter. Gryphon rigs bank immediately on release. Slung light rigs are fired at calculated angles. Heavy aerial rigs drop controlled.
+
+> **Design note:** The Walker-Core gantry is present at every Vumbua-hosted race. Other venues use fixed launch towers or cliff-edge slings.
 
 ### This Year's Special Layout
 
@@ -49,49 +68,67 @@ The arena layout is being **updated for the first time** to include the **Ash-Bl
 
 ### The Controversy: Missing Ash-Blood Node
 
-The Spire locations are determined by [[scrivener-guild|Scrivener Guild]] calculations based on known node resonance values. **However, the Ash-Blood node data has not been released.** Despite the terrain reflecting the Ash-Blood Isles, there is no Ash-Blood Spire in the arena.
+The Spire locations are determined by [[scrivener-guild|Scrivener Guild]] calculations based on known node resonance values. **However, the Ash-Blood node data has not been released.** Despite the terrain reflecting the Ash-Blood Isles, there is no Ash-Blood Spire in the arena. The [[Trail-Tail Trench]] (Trench-Kin frontier territory) is similarly absent — its amplitude data is also unsubmitted.
 
-This is a point of public disappointment and quiet controversy. The Scriveners claim the numbers aren't finalised. The truth is more complicated — the [[The Power System|Ash-Blood Anomaly]] means the expected +300 to +800 amp surge only produced ~20 amps. Releasing those numbers would expose the failure.
+Both absences are visible on the Apex Compass: two arcs on the north-northeast and east-southeast that never light up across the full race.
 
 ---
 
-## The Energy System: "Stored Connection"
+## The Energy System: Stored Connection
 
-The Circuit-Run's mechanics are built on the same technology as [[The Power System|Vox Crystal Batteries]], but used in a clever reverse application.
+The Circuit-Run's mechanics are built on the same technology as [[The Power System|Vox Crystal Batteries]], but used in reverse.
 
 ### How It Works
 
-1. **Umber crystals** normally store a **connection to the land** — allowing devices to operate away from nodes by "convincing" the resonator it's still part of Harmony's territory (see [[The Power System#Innovation 2 Stored Connection]])
+1. **Umber crystals** normally store a **connection to the land** — allowing devices to operate away from nodes (see [[The Power System#Innovation 2 Stored Connection]])
 2. In a Circuit-Run, umber crystals are used **backwards** — they **sever** the craft's natural connection to the ambient ether field
-3. This creates an artificial "dead zone" around the Rig — it operates at **zero power** until the crew reconnects
-4. The crew must then **manually reopen** that connection by striking Spires and siphoning node energy
-5. The amount of reconnection needed depends on the craft's power draw:
+3. This creates an artificial "dead zone" around the Rig — it operates at **degraded power** until the crew reconnects
+4. The crew must **manually reopen** that connection by striking Spires and siphoning node energy
+5. The amount of reconnection needed depends on the craft's power draw
 
-| Craft Type | Power Draw | Nodes Needed | Strategy |
-|---|---|---|---|
-| Racing sailboat | Near-zero | A few minor nodes | Speed + agility, avoid conflict |
-| Standard Venture-Rig | Medium | Several mixed nodes | Balanced approach |
-| Heavy land-ship | High | Many nodes, including majors | Crew-heavy, can fight for contested nodes |
-| Gryphon rider | Special | Massive (see note) | Only the heater is "powered"; the gryphon itself is free energy, but handicapped by an artificial umber gutter |
+### The Two-Stage Win Condition
 
-### The Win Condition
+A team's progress is tracked through two thresholds, displayed on the Apex Ring's twin-LED scoreboard:
 
-A team wins when their accumulated resonance **exceeds the Global Amplitude** plus their craft's rated power draw. At that point, they have enough "connection" to light the Grand Resonator.
+**LED 1 — Rig Power:**
+- 🔴 Red: `Stored Connection < Craft Draw + Launch Penalty` — the rig is operating in deficit; its own systems are consuming more than they've recouped
+- 🟢 Green: `Stored Connection ≥ Craft Draw + Launch Penalty` — the rig is running clean under its own power; no longer bleeding against itself
 
-For race judges, this is tracked as a **Connection Deficit (CD)**:
+**LED 2 — Resonator Eligible:**
+- 🔴 Red: `Stored Connection < Craft Draw + Launch Penalty + Global Amplitude` — not yet enough to activate the Grand Resonator
+- 🟢 Green: `Stored Connection ≥ Craft Draw + Launch Penalty + Global Amplitude` — ready to discharge
 
-`CD = Global Amplitude + Craft Draw + Launch Penalty - Stored Connection`
+**LED 2 cannot go green before LED 1.** Because the Global Amplitude is always a positive value added on top of LED 1's threshold, the two LEDs light up sequentially. A team will always pass through "LED 1 green, LED 2 red" before reaching full readiness. Both can go back to red if cascade drain reduces their stored connection.
+
+A team may only attempt a Grand Resonator discharge when **both LEDs show green**.
+
+### Connection Deficit (CD) Formula
+
+`CD = Global Amplitude + Craft Draw + Launch Penalty − Stored Connection`
 
 - Teams begin the race with a positive CD (they are in deficit)
 - Every successful Spire sync lowers CD
-- A team can attempt a Grand Resonator discharge only when CD is **0 or lower**
-- **Launch Penalty** is a fixed opening handicap set by rig class (light/standard/heavy/super-heavy) to keep launch momentum from deciding the whole race.
+- LED 1 goes green when CD drops below zero by at least the Global Amplitude amount
+- LED 2 (discharge eligible) occurs when CD ≤ 0
+- **Launch Penalty** is a fixed opening handicap set by rig class
 
-- A low-power sailboat only needs to slightly exceed Global Amplitude
-- A high-power dreadnought must generate connection equal to Global Amplitude **plus** its own massive energy consumption
-- This is what makes the sport strategically interesting — raw power is a liability
+### Cascade Drain — The Ongoing Cost
 
-> **Connection to [[professor-kante|Professor Kante]]'s Lessons:** The Circuit-Run is a practical demonstration of everything Kante teaches. The "stored connection" mechanic, the relationship between nodes and Global Amplitude, the difference between energy and connection — students who paid attention in class have a genuine advantage understanding the race.
+**Rigs continuously consume connection just by operating.** A vehicle in motion, with systems running, is always drawing from its stored reserves.
+
+Each rig has a **Drain Rate** equal to its Craft Draw ÷ 10 (round up). This amount is added to the rig's CD at the end of each Loom-Pulse segment in which the rig did **not** successfully sync a node. Mounted weapons and heavy melee equipment (battering rams, spiked wheels, speed boosters) increase the Craft Draw calculation used for Drain Rate — they are always in the math regardless of whether they are used.
+
+| Craft Type | Example Craft Draw | Drain Rate / Pulse |
+|---|---|---|
+| Ultra-light solo | 10 | +1 CD |
+| Racing sailboat | 20 | +2 CD |
+| Speed ketch | 55 | +6 CD |
+| Heavy rig | 110 | +11 CD |
+| Super-heavy / land-ship | 190 | +19 CD |
+
+**Implication:** A heavy rig that parks at the Grand Resonator approach lane to block is bleeding deficit while it sits. Blocking is a viable tactic — but it has a cost. Aggressive teams must hunt efficiently and then pivot to syncing, not hold position indefinitely.
+
+> **Spectator read:** As a rig's connection reserves run low without syncing, its systems begin to dim — lights darken, the hull hum drops in pitch. A crew running on borrowed time *looks* like it. When LED 1 flips back to red mid-race, the crowd notices.
 
 ---
 
@@ -99,13 +136,49 @@ For race judges, this is tracked as a **Connection Deficit (CD)**:
 
 | Phase | What Happens | Strategic Meaning |
 |---|---|---|
-| **1. Certification Lock (T-24h to T-0)** | Officials lock each rig's declared Craft Draw, Launch Class, and safety seals. | Teams must choose speed vs armor before the race starts. |
-| **2. The Drop (Opening Horn)** | Rigs are slung/dropped from the south rim. | Positioning and first-contact route matter more than top speed. |
-| **3. First Sync Window** | Initial spires are available for a short opening window. | Lightweight rigs can clear deficit early; heavy rigs must contest majors. |
-| **4. Loom-Pulse Rotations** | Additional spires emerge in timed pulses across terrain bands. | Forces exploration across the whole basin; prevents one-lane races. |
-| **5. Convergence** | Remaining active teams route toward the Grand Resonator. | Route denial, ambushes, and mobility boons decide placement. |
-| **6. Resonator Attempt** | Any team with CD ≤ 0 may strike the centre pylon. | Race can end suddenly if a team banks enough connection. |
-| **7. Tiebreak (if needed)** | If two teams discharge in the same horn-window, highest remaining stored connection wins; if still tied, fastest verified basin time wins. | Rewards efficient routing, not just brute force. |
+| **1. Certification Lock (T-24h to T-0)** | Officials lock each rig's declared Craft Draw, Launch Class, and safety seals. | Teams must choose speed vs armor vs weapons before the race starts. |
+| **2. The Drop / Southern Rush (Opening Horn)** | Aerial rigs drop from the Walker-Core gantry; ground and water rigs charge through the Southern Gate simultaneously. | Positioning and first-contact route matter more than top speed. |
+| **3. First Sync Window — Random Band** | Initial spires emerge in **randomised positions** across the basin. No team knows exact spawn locations in advance. | Forces real-time adaptation. Teams that over-prepared a fixed route suffer; teams that read the Apex Compass well thrive. |
+| **4. Loom-Pulse Rotations — Reactive Spawning** | Additional spires emerge in timed pulses. New spawns skew toward the least-contested terrain band. Cascade drain is ongoing throughout. | Less random as the race progresses. Teams with positional discipline benefit; reactive spawning gives slower teams a path back in. |
+| **5. Untouched Multiplier** | Any spire that has not been synced since its last emergence gains **+5 CU per Loom-Pulse** it goes untouched. Visible on the Apex Compass as increasing brightness. | Rewards teams willing to explore far terrain; punishes field-collapse where everyone farms the same nodes. |
+| **6. The Convergence Horn** | Fires when the **first team reaches both LEDs green** (discharge eligible). All remaining viable teams have **2 Loom-Pulse windows** from this moment to attempt the Resonator or be eliminated from contention. | Creates a fixed endgame clock. No rig can loop indefinitely. |
+| **7. Resonator Attempt** | Any team with both LEDs green may strike the centre pylon at any time. | Race can end suddenly. Teams must balance "being ready" vs "making it there." |
+| **8. Tiebreak (if needed)** | If two teams discharge in the same horn-window: highest remaining stored connection wins; if still tied, fastest verified basin time wins. | Rewards efficient routing, not just brute force. |
+
+---
+
+## Combat and Weapons
+
+All combat draws from the same connection pool as the win condition. Fighting is always a trade-off.
+
+### Weapon Tiers
+
+| Tier | Type | Craft Draw Impact | CD Cost at Use | Range Cost | Examples |
+|---|---|---|---|---|---|
+| **0 — Manual / Body** | No vehicle amplification | None (not in Craft Draw) | Free | None | Boarding, grappling, hand weapons wielded by crew |
+| **1 — Vehicle-Assisted** | Passive systems powered by the rig | Included in Craft Draw | Minor (−5 CD per activation) | None — Close range only | Rams, ballistic bumpers, spiked wheels, magnetic grapples, speed boosters |
+| **2 — Direct Fire** | Requires armed weapon system | Included in Craft Draw | Moderate (−15 to −25 CD per shot) | +50% cost per range bracket beyond Close | Ballistas, arc projectors, kinetic lances |
+| **3 — Ranged / Indirect** | High payload, indirect trajectory | Included in Craft Draw | Heavy (−30 to −50 CD per use) | See below | Scatter mortars, net launchers, tethered charges |
+
+### Range Brackets and Costs
+
+| Range | Tier 2 Cost Modifier | Tier 3 Cost Modifier |
+|---|---|---|
+| Close | ×1.0 (base) | ×1.0 (base) |
+| Near | ×1.5 | ×1.5 |
+| Far | ×2.5 | ×2.0 |
+| Extreme (mortar only) | Not available | ×3.0 + 1 pulse delay |
+
+**Line-of-sight weapons** (Tier 2) require clear sightline — no walls, terrain, or intervening rigs. Cheaper per shot than indirect fire.
+
+**Indirect/barrage weapons** (Tier 3) can arc over terrain and rigs. They cost more per shot due to payload energy, and at Extreme range they arrive on the **next sync window** rather than immediately — useful for area denial, not instant combat.
+
+### Mounting Rules
+
+- All weapons and heavy melee equipment are declared at **Certification Lock** alongside Craft Draw
+- Mounted/installed equipment is **always included in the Craft Draw calculation**, whether used or not — it costs weight, affects handling, and signals intent to rivals
+- Firing is the only additional CD cost; draw and ready actions are free
+- A weapon that runs out of stored connection to power it is inert — it cannot fire but remains mounted
 
 ---
 
@@ -118,40 +191,35 @@ Teams or soloists bring their own mechanical crafts. There are no restrictions o
 | Component | Purpose |
 |---|---|
 | **Harvest-Prong** | A copper-and-crystal rod that physically strikes a Spire to siphon energy. Every rig must have one. |
-| **Umber Gutter** | The reversed umber crystal that creates the artificial dead zone. Calibrated to the craft's rated power. |
-| **HTech Power System** | The craft **must** be powered by Harmony technology in order to store the connection. No natural/organic power sources allowed (this is why gryphon riders are heavily handicapped). |
+| **Umber Gutter** | The reversed umber crystal creating the artificial dead zone. Calibrated to the craft's rated power. |
+| **HTech Power System** | The craft must be powered by Harmony technology to store connection. |
 
-### Craft Scaling
+### Build & Launch Standards
 
-Rigs have **no internal engines** in the traditional sense — they move only as long as they have an active "Node-Sync" in their battery. The initial drop from the rim gives momentum, but after that, everything depends on how quickly you can strike your first Spire.
-
-### Build & Launch Standards (Vumbua Intake)
-
-| Standard | Requirement | Why It Exists |
-|---|---|---|
-| **Declared Craft Draw** | Each rig must publish a rated draw band before the match. | Prevents hidden low-deficit builds and keeps handicap math fair. |
-| **Prong Integrity** | Harvest-Prong must survive 3 dry-strikes during inspection. | Ensures teams can actually complete sync actions under load. |
-| **Umber Gutter Tolerance** | Gutter must pass overheat and containment checks at 120% projected load. | Reduces catastrophic failures during Leidian-style bursts. |
-| **Launch Coupler Spec** | Hull must include approved sling/drop anchor points. | Keeps opening launch fast and safe for a full field. |
-| **Crew Survival Kit** | Crash webbing, flare dye, and emergency dead-switch are mandatory. | Allows practical training value without lethal outcomes. |
-| **Telemetry Beacon** | Passive location ping required for all entrants. | Lets marshals monitor race flow and retrieve disabled crews. |
-
-> **Design Philosophy:** The race intentionally starts every craft in deficit. The goal is not to prove who has the biggest engine; it's to prove who can restore connection fastest under pressure.
+| Standard | Requirement |
+|---|---|
+| **Declared Craft Draw** | Each rig must publish rated draw including all weapons and equipment. |
+| **Prong Integrity** | Harvest-Prong must survive 3 dry-strikes during inspection. |
+| **Umber Gutter Tolerance** | Must pass overheat and containment checks at 120% projected load. |
+| **Launch Coupler Spec** | Aerial rigs: approved Walker-Core anchor points. Ground rigs: gate clearance check. |
+| **Crew Survival Kit** | Crash webbing, flare dye, emergency dead-switch — mandatory. |
+| **Telemetry Beacon** | Passive location ping for all entrants. Lets marshals monitor and retrieve disabled crews. |
 
 ---
 
 ## The Spires (Nodes)
 
-During the **Loom-Pulse** at the start of each match, massive metallic pillars erupt from the ground in semi-randomised locations across the basin.
+During the race's **Loom-Pulse** intervals, massive metallic pillars erupt from the ground across the basin. Each is constructed and maintained by the city whose node it simulates — they share the same mechanical skeleton but carry their city's aesthetic unmistakably.
 
 ### Spire Rules
 
-- **Randomised placement:** Locations are calculated by the [[scrivener-guild|Scrivener Guild]], but appear random to spectators
-- **New spires emerge** as the race progresses — some appear mid-match
-- **Limited charges:** Each Spire has a finite number of "syncs." Once depleted, it retracts into the ground, forcing latecomers to explore deeper
-- **Major Nodes** are always the most sought-after — they provide the biggest connection boost but are heavily contested
+**Spawn behaviour:**
+- **First wave (opening):** Fully randomised — positions are not known in advance to any team. The Apex Compass is the only signal.
+- **Subsequent waves:** Reactive — new spires skew toward the terrain band with the fewest active rigs. Less random, more structural as the race progresses.
+- **Limited charges:** Each Spire has a finite number of syncs. Once depleted, it retracts into the floor. A new spire spawns in the least-contested area immediately after.
+- **Untouched multiplier:** Any active spire that has not been synced gains **+5 CU per Loom-Pulse** it remains standing. Visible as increasing brightness on the Apex Compass.
 
-### Syncing with a Spire
+**Syncing a Spire:**
 
 | Step | Action |
 |---|---|
@@ -159,61 +227,89 @@ During the **Loom-Pulse** at the start of each match, massive metallic pillars e
 | **2. Strike** | The Rig physically touches the Spire with the Harvest-Prong |
 | **3. Consume** | The connection energy is absorbed into the Rig's umber gutter |
 
-### Node Spectrum
+**Node Activation and Anti-Camping:**
+When a rig enters Close range of an active Spire, the node **activates**:
+- Its crystal crown brightens visibly
+- The corresponding Apex Compass arc begins **pulsing** instead of holding steady
+- The rig has until the **next Loom-Pulse horn** to complete the sync
 
-Each node type grants a temporary **Boon** — a power-up that lasts until the next sync.
+If the horn fires before the sync completes: the activation resets. The rig may try again next interval — but pays another full pulse of Drain Rate for the delay. The Untouched multiplier does **not** accumulate during an active (pulsing) window — the node "knows" it is being contested and withholds the bonus until the sync is resolved or the window resets.
 
-| Energy Type | Resonance | Boon | Amplitude Sync |
-|---|---|---|---|
-| **Leidian** (Ash-Blood) | 85–95 | **Overclock:** Extreme speed; "Phase-Dash" (20ft teleport). Risk: high heat/stress. | High (80%) |
-| **Vitruvian** (Vox) | 40–60 | **Capacitance:** Doubles the duration of the next node power you strike. | Low (30%) |
-| **Crystalline** (Renali) | 50–70 | **Malleable Frame:** Hull becomes semi-fluid glass. Pass through cracks or heal damage. | Medium (50%) |
-| **Aero-Static** (Foundational) | 20–40 | **Weightless Drift:** Gravity -90%. Massive jumps and vertical climbing. | Low (20%) |
-| **Kinetic-Echo** (Foundational) | 60–80 | **Ghost-Track:** Leaves a hard-light trail for instant U-turns. | High (75%) |
+**Contention Bonus:**
+When two or more rigs are within **Harvest-Prong reach** of the same Spire at the moment one team's sync completes, that sync earns **+10 CU bonus**. "Within range" is determined at the moment the sync finalises — not when the approach began. Contention is checked automatically; no declaration is required.
 
-### Basin Node Ledger (Connection, Not Raw Power)
+> *A team that cannot close deficit in time may still choose to approach a contested node — doing so denies their rival the bonus even if they cannot complete the sync themselves. This is a legitimate tactical sacrifice.*
 
-The Scriveners score race spires in **Connection Units (CU)**. CU measures how much a node closes a rig's deficit — not how much electrical/thermal force it outputs.
+### The Apex Compass
 
-| Simulated Location | Node Resource | Typical CU per Sync | Boon (Practical Skill) | Tactical Role |
+A physical fixture running the full circumference of the Apex Ring's inner rim wall. A ring of **16 directional indicators** — one per 22.5° arc — each corresponding to a sector of the basin floor.
+
+| Signal | Meaning |
+|---|---|
+| **Dark** | No active spire in this arc |
+| **Dim glow** | Active spire at Far range in this arc |
+| **Steady glow** | Active spire at Near or Close range |
+| **Bright glow** | Spire has accumulated untouched multiplier bonus — higher value than base |
+| **Pulsing** | A rig is within Harvest-Prong reach — activation window is open |
+| **Color** | Node type, drawn from the city's visual identity (see Spire Visual Design) |
+
+**Multiple nodes in the same arc:** The indicator shows both simultaneously. The node physically closest to the rim appears on the **left/clockwise edge** of the arc segment; the furthest appears on the **right/counter-clockwise edge**. Spectators and pilots reading the compass can distinguish between a close and distant node in the same sector without exact coordinates.
+
+**Absent arcs:** The Ash-Blood Isles arc (north-northeast) and Trail-Tail Trench arc (east-southeast) never illuminate across the full race. Two dead segments in a circle of active ones.
+
+### Spire Visual Design
+
+Each Spire shares a common mechanical skeleton — tall pillar, Harvest-Prong terminal at the apex, charge counter embedded in the column face — but is built to the aesthetic of the city whose node it represents:
+
+| Origin City | Resource | CU | Compass Colour | Visual Identity |
 |---|---|---:|---|---|
-| [[gilded|Gilded]] | Chime Spire | 80 | **Harmonic Lock:** Stabilize one active boon for +1 pulse. | Endgame stabilizer |
-| [[umbra-mountain|Umbra Mountain]] | Umber Crystal | 70 | **Deficit Shear:** Reduce current CD by an extra fixed chunk. | Heavy-rig recovery |
-| [[feltland|Feltland]] | Live Soil | 35 | **Root-Grip:** Perfect traction on loose terrain. | Climb / marsh crossing |
-| [[octo|Octo]] | Speaking Stone | 25 | **Relay Ping:** Share one discovered spire coordinate to allies. | Team coordination |
-| [[juxta|Juxta]] | Lift Stone | 40 | **Loadlight:** Temporarily halve cargo/hull effective mass. | Acceleration / escape |
-| [[shepta|Shepta]] | Whetstone | 30 | **Flash Set:** Create temporary hard cover or ramp. | Route shaping |
-| [[lenoa|Lenoa]] | Friction Needles | 30 | **Slipline:** Greatly reduce drag for one sprint lane. | Burst reposition |
-| [[relina|Relina]] | Soft Forge | 45 | **Rapid Refit:** Patch hull stress or reshape prow geometry. | Sustain in collisions |
-| [[minnow|Minnow]] | Living Scent Wood | 20 | **Trail Mark:** Leave a persistent route marker for allies. | Navigation memory |
-| [[bloomfield|Bloomfield]] | Clockwork Blooms | 20 | **Pulse Sense:** Predict next Loom-Pulse emergence band. | Tempo control |
-| [[prima|Prima]] | Dew Crystal | 25 | **Coolant Veil:** Reduce heat/noise signatures briefly. | Stealth and thermal control |
-| [[settika|Settika]] | Prism Falls | 30 | **True Sight:** Reveal hidden hazards, fake paths, weak armor seams. | Intel / counterplay |
-| [[nstyl|Nstyl]] | Silent Silt | 20 | **Mute Wake:** Suppress engine and hull noise in a local cone. | Ambush / evasion |
-| [[elysium|Elysium]] | Snow Sand | 15 | **Mirage Wake:** Distort your route for pursuers. | Disengage tool |
-| [[bay-of-breath|Bay of Breath]] | Breathable Algae | 20 | **Air Pocket:** Stabilize crew stamina in sealed/smoke zones. | Endurance / hazard crossing |
+| [[gilded\|Gilded]] | Chime Spire | 80 | **Gold** | Organ-pipe columns, layered brass. Actual musical tones ring when activated. Elaborate and unmissable. |
+| [[umbra-mountain\|Umbra Mountain]] | Umber Crystal | 70 | **Deep violet** | Faceted obsidian. Glows from within. Cold to touch. Looks like it's already powered. |
+| [[juxta\|Juxta]] | Lift Stone | 40 | **Blue-grey** | Monolithic smooth granite. Orbiting rock fragments around the apex. You feel the upward air current before you see it. |
+| [[feltland\|Feltland]] | Live Soil | 35 | **Earth brown** | Organic casing — vines at the base, warm, slightly alive-feeling. The only spire that smells like something. |
+| [[relina\|Relina]] | Soft Forge | 45 | **Bronze-amber** | Surface shimmers like slow liquid metal. Warm to touch. Slightly unsettling. |
+| [[timon\|Timon]] | Focus Glass | 35 | **Clear/prismatic** | Giant lens architecture. Refracts light in unusual angles — creates optical oddities nearby. |
+| [[settika\|Settika]] | Prism Falls | 30 | **Rainbow facet** | Multi-surface crystal. Looking through it reveals things differently. |
+| [[shepta\|Shepta]] | Whetstone | 30 | **Dark charcoal** | Extremely sharp geometric facets. Sparks visibly when a Harvest-Prong strikes it. |
+| [[lenoa\|Lenoa]] | Friction Needles | 30 | **Silver** | Multiple thin parallel needles instead of one column. Frictionless surface — deliberately hard to grab. |
+| [[octo\|Octo]] | Speaking Stone | 25 | **Pale grey** | Rounded, smooth, covered in inscribed text. Hums at low frequency. |
+| [[prima\|Prima]] | Dew Crystal | 25 | **Ice blue** | Condensation runs down it constantly. Small puddle always at its base. |
+| [[minnow\|Minnow]] | Living Scent Wood | 20 | **Warm amber** | Organic wood structure rather than metal or crystal. Faintly fragrant. |
+| [[bloomfield\|Bloomfield]] | Clockwork Blooms | 20 | **Copper** | Mechanical flowers that open and close rhythmically. Ticking sound audible up close. |
+| [[nstyl\|Nstyl]] | Silent Silt | 20 | **Matte grey-brown** | Almost invisible in low light. Produces no sound when struck — the only silent sync in the field. |
+| [[bay-of-breath\|Bay of Breath]] | Breathable Algae | 20 | **Bioluminescent green** | Produces bubbles and light mist at the base. Faintly biological smell. |
+| [[elysium\|Elysium]] | Snow Sand | 15 | **White-gold** | Slight shimmer, warm despite appearance. Mild optical distortion in a small radius — approaching crews report brief disorientation. |
 
-> **ASL Tuning Note:** Mobility and stealth boons (Aero-Static, Lift Stone, Silent Silt, Dew Crystal) are intentionally low-to-mid CU. They are often stronger in practice than their CU value, so they do **not** need major-node numbers to remain high-impact for Applied Survival Lab style play.
+> **Absent / Dark:** [[ash-blood-isles\|Ash-Blood Isles]] and [[trail-tail-trench\|Trail-Tail Trench]] have no Spires. Their Apex Compass arcs are permanently unlit.
 
 ### Basin Placement by Terrain Band
 
-| Terrain Band | Typical Nodes Spawned There | Tuning Intent |
+| Terrain Band | Typical Nodes Spawned | Tuning Intent |
 |---|---|---|
-| **South Launch Canyons** | Friction Needles, Whetstone, Live Soil | Quick early choices; prevent opening pileups |
-| **West Petrified Forest (Mizizi simulation)** | Soft Forge, Trail Mark, Pulse Sense | Technical pathing and endurance routes |
-| **North Open Flats** | Lift Stone, Umber, Chime | High-risk high-reward contested lane |
+| **South Launch Canyons** | Friction Needles, Whetstone, Live Soil | Early choices from the random opening wave; prevent opening pileups |
+| **West Petrified Forest (Mizizi simulation)** | Soft Forge, Living Scent Wood, Clockwork Blooms | Technical pathing and endurance routes |
+| **North Open Flats (Ash-Blood terrain)** | Lift Stone, Umber, Chime (final pulse only) | High-risk high-reward; heavily penalises isolation via Drain |
 | **East Wet Shelf / Dry Sea-Bed** | Dew Crystal, Breathable Algae, Prism Falls | Utility route for disciplined teams |
-| **Ash-Blood Terrain Slice** | Leidian terrain cues only (heat shimmer vents, flash-arc hazards, and scorched rock lanes; no active Ash-Blood spire until Scrivener amplitude calibration is released) | Narrative pressure and public controversy |
+| **Mid-Basin** | Speaking Stone, Silent Silt, Snow Sand, Focus Glass | Late-appearing coordination and stealth options |
+| **Ash-Blood terrain slice** | None — terrain only | Narrative pressure and public controversy |
+
+### Charges Per Tier
+
+| Node Tier | Charges | Notes |
+|---|---|---|
+| **Major** (Chime, Umber, Lift Stone) | 3 | High value; multiple teams should access |
+| **Moderate** (Live Soil, Soft Forge, Focus Glass, etc.) | 2 | Standard competition |
+| **Minor** (Trail Mark, Breathable Algae, Snow Sand, etc.) | 1 | Reward for exploration |
 
 ### If Race Flow Feels Off: Fast Tuning Levers
 
-1. **Too much brawling early:** Shift one high-CU north-flat spawn into east utility band.
-2. **Heavy rigs auto-win:** Raise Launch Penalty on super-heavy classes by one band.
-3. **Soloists always evade forever:** Shorten Mute Wake / Mirage Wake duration by one pulse.
-4. **No one explores full basin:** Delay first central Chime spawn until after second Loom-Pulse.
-5. **Teams ignore practical boons:** Add one extra CU bonus when utility boons are used to clear terrain hazards.
-
-> **Note:** Only Ash-Blood energy has clan-specific integration so far. Future seasons may add Mizizi, Wadi, and Renali node types as dedicated high-CU spires once amplitude calibration is public.
+1. **Too much brawling early:** Shift one high-CU north-flat spawn into the east utility band.
+2. **Heavy rigs auto-win:** Raise Drain Rate for super-heavy classes by +50% for 1 pulse after each combat action.
+3. **Soloists evade indefinitely:** Shorten Mute Wake / Mirage Wake duration by one pulse.
+4. **No one explores full basin:** Delay first Chime spawn until after second Loom-Pulse. *(Default in standard format.)*
+5. **Untouched multiplier over-rewards camping:** Cap the multiplier at +15 CU above base value per node.
+6. **Reactive spawns too predictable:** Add one fully random spawn per Loom-Pulse 2+ in addition to the reactive spawn.
+7. **Convergence Horn fires too early:** Raise Global Amplitude by 10 for the next race.
 
 ---
 
@@ -223,177 +319,126 @@ The Scriveners score race spires in **Connection Units (CU)**. CU measures how m
 |---|---|
 | **No killing** | Everything else is fair game inside the basin |
 | **No stealing connection energy** | Once absorbed, connection is locked to that rig's umber gutter |
-| **Destruction is strategy** | A valid approach is to destroy all other rigs and then finish at your own pace |
-| **Battery ownership doesn't matter** | The winning team doesn't have to be the original owner of the battery — if you can get your hands on a charged battery and bring it to the Grand Resonator, that counts |
+| **Destruction is strategy** | Disabling all other rigs is a legitimate path to victory — but an aggro team must still overcome its own deficit and reach the Grand Resonator |
+| **Battery ownership doesn't matter** | If you can get your hands on a charged battery and bring it to the Grand Resonator, that counts |
+| **Contention Bonus** | Any sync completed while a rival rig is within Harvest-Prong reach earns +10 CU bonus |
+| **Convergence Horn** | When the first rig reaches discharge eligibility (both LEDs green), the Horn fires. All remaining teams have 2 Loom-Pulse windows to attempt the Resonator or face elimination |
+| **Node Activation Window** | When a rig enters Harvest-Prong range of a node, the node activates. The rig must sync before the next horn or the activation resets. |
 
 ---
 
 ## Viewing the Spectacle: The Three Tiers
 
-Spectator access reflects Harmony's class structure.
+### The Scoreboard and Apex Compass
+
+Every active rig has a row on the gate scoreboard:
+
+| Indicator | Meaning |
+|---|---|
+| 🔴 **LED 1 Red** | Rig is in power deficit — bleeding connection just to operate |
+| 🟢 **LED 1 Green** | Rig is running clean under its own power |
+| 🔴 **LED 2 Red** | Not yet enough connection to fire the Grand Resonator |
+| 🟢 **LED 2 Green** | Discharge eligible — can attempt the Resonator now |
+
+LED 2 cannot go green before LED 1 — the discharge threshold is always higher than the operational threshold. Both can revert to red if cascade drain reduces stored connection.
+
+The **Apex Compass** rings the inner basin wall — 16 arcs, each glowing, pulsing, or dark based on active node positions. Color indicates origin city; brightness indicates value; pulsing indicates a rig is within range of the node in that arc. When a node depletes, its arc goes dark. A new glow appears elsewhere as the reactive spawn emerges.
+
+No raw numbers are displayed publicly. Spectators read the LEDs, the compass, and the Scout-Spotter shouts.
 
 ### 1. The Gilded Zephyrs (Elite)
-- Luxury airships with **Magnifying Glass Floors** ([[Renali]]-made)
-- Patrons look directly down onto the rigs from above
-- Strict altitude rules; limited number of ships allowed
-- Only 3 flight lanes permitted
+Luxury airships with **Magnifying Glass Floors** above the basin. Strict altitude rules; limited ships. The discharge column hits at roughly eye level on approach.
 
 ### 2. The Rim-Tracker (Middle Class)
-- A high-speed steam **trolley** that runs along the edge of the arena
-- Circles the basin rim, rushing to follow the most exciting syncs
-- Passengers can hop on and off at stations along the route
-- Operates at intervals; moves like a **ski chair lift** between stops
+A high-speed steam trolley that runs the basin rim, rushing toward the most actively pulsing Compass arcs to follow action. Passengers can hop stations.
 
 ### 3. The Bleacher-Walls (The Masses)
-- Stone amphitheaters built into the basin's lip
-- Fans use brass binoculars and act as **"Scout-Spotters"** — shouting coordinates to teams below
-- The most raucous, passionate viewing experience
-- Can hop on and off the Rim-Tracker trolleys from here
+Stone amphitheaters built into the basin lip. Fans use brass binoculars. The most raucous viewing. Scout-Spotters here shout compass readings and arc updates to anyone who'll listen.
 
 ---
 
 ## Notable Racing Archetypes
 
 ### The Soloist ("Stinger")
-Uses a light cycle or racing craft. Relies on agility, **Aero-Static** jumps, and hitting every Spire on the path. Minimal power draw means minimal nodes needed, but zero margin for error in a fight.
+Ultra-light cycle. Near-zero Drain Rate. Minimum LED 1 threshold. One or two nodes and both LEDs go green — but zero combat tolerance. One hit from a heavy rig and the race is over.
 
 ### The Seven-Man Crew ("Goliath")
-Uses a massive land-ship. Requires a **Pilot** (navigation), **Harpooners** (striking Spires from distance), and **Engineers** (managing heat from Leidian energy). Enormous power draw means they need many Major Nodes.
+Massive land-ship. Enormous Craft Draw, enormous Drain Rate. Requires mostly Major Nodes to reach discharge eligibility. Has the firepower to dictate terms to any other rig in the basin — but has to actually reach the nodes before the Drain Rate costs more than the sync earns.
 
 ### The Couples Racer ("Dancer")
-Two-person sailboat. Lowest possible power rating. They are expert runners, climbers, and sailors — if they get a good draw on minor nodes away from contested areas, they have a real shot. But if they encounter a Goliath, they surrender.
+Two-person sailboat. Lowest Drain Rate in the field. No combat capability worth mentioning — but can phase through terrain other rigs can't follow. If terrain surveys are done right, a fracture in the right canyon wall is more valuable than a ballista.
+
+### The Hunter ("Marble Wall")
+Heavy rig with Tier 1–2 weapons and aggro crew. Bypasses early node farming to disable competitors, then pivots to syncing from an uncontested field. Only works if the hunting phase is *fast* — cascade drain punishes any hunter that stalks slowly. Disable the right targets first, then farm.
 
 ---
 
 ## The First Vumbua Circuit-Run
 
-> This year's race is **historic** — it's the first Circuit-Run at [[Vumbua Academy]] to feature the updated terrain with the Ash-Blood Isles and Mizizi Forest.
+> This year's race features the updated terrain with the Ash-Blood Isles and Mizizi Forest for the first time.
 
 ### Confirmed Teams
 
 | # | Team | Craft | Strategy | Notes |
 |---|---|---|---|---|
-| 1 | **Shatter Stamper** | Heavy rig, 3-person crew | Brute force | — |
-| 2 | **Sail & Stun** | Fast sailing vessel | Speed + disruption | Loosely allied with Pudge's circle |
-| 3 | **Marble Wall** | Dominant heavy body | Animal stampede; capitalise on chaos; crush smaller teams then sweep remaining nodes | Strategy: destroy first, collect later |
-| 4 | **[[Pudge]]** | Hull racer / fast gyro-boat | Speed + gryphon hybrid | Gryphons are resource-intensive — needs massive connection to reach Global Amplitude. Only the saddle heater is "powered"; the gryphon is free energy but handicapped by an artificial umber gutter |
-| 5 | **Dancer & Fabian** | Racing sailboat (2-person) | Lowest power rating; expert runners, climbers, sailors | Need minor nodes away from contention. If they hit a good draw, real contenders. If they meet Marble Wall, they surrender. |
+| 1 | **Shatter Stamper** | Heavy rig, 3-person crew | Brute force node farming | — |
+| 2 | **Sail & Stun** | Fast sailing ketch | Speed + disruption + intel | Loosely allied with Pudge's circle |
+| 3 | **Marble Wall** | Dominant heavy body | Hunt and clear, then farm | Requires fast early kills to beat cascade drain |
+| 4 | **[[Pudge]]** | Gryphon-hybrid | North run + aerial descent | Gryphon heavily calibrated; umber gutter oversized |
+| 5 | **Dancer & Fabian** | Racing sailboat (2-person) | Agility, terrain, precision routing | Lowest power draw in the field |
 
-> **Full race simulation:** See [[circuit-run-simulation|The First Vumbua Circuit-Run — Full Simulation]] for the complete play-by-play, CU math, node ledger, and major moments.
+> **Full race simulation:** See [[circuit-run-simulation|The First Vumbua Circuit-Run — Full Simulation]]
 
 ---
 
 ## Rule Clarifications & Refinements
 
-> These refinements emerged from simulating the full race. They patch gaps, tighten ambiguous language, and address observed exploit patterns without changing the core format.
+### 1. Boon Expiry
 
-### 1. Spire Charge Counts (New Specification)
-
-The rulebook previously listed charges as "finite" without specifying how many. Official count:
-
-| Node Tier | Charge Count | Reasoning |
-|---|---|---|
-| **Major** (Chime, Umber, Lift Stone) | 3 syncs | High value means multiple teams should have access; limits full team field from farming the same pylon |
-| **Moderate** (Live Soil, Soft Forge, Prism Falls, etc.) | 2 syncs | Standard competition; first two teams to arrive compete fairly |
-| **Minor** (Trail Mark, Breathable Algae, Snow Sand, etc.) | 1 sync | Reward for exploration; running a circuit to stack multiple minors is legitimate strategy |
-
-> **Rationale:** Without defined charges, a heavy rig could post a crew member at a Major node to re-sync it continuously. Defined charges force movement and prevent stationary farming.
+**Boons last until the *holder's* next sync.** One active boon per rig at all times. Receiving a new sync replaces the current boon immediately, even if unexpired. Boons cannot stack.
 
 ---
 
-### 2. Minimum Distinct-Spire Requirement (New Rule)
+### 2. Grand Resonator — Approach Angles
 
-A team may not attempt the Grand Resonator while having synced fewer than **3 distinct spires**.
-
-> **Rationale:** Ultralight rigs (starting CD ≤ 50) can reach CD ≤ 0 in 2 syncs — in principle before the first Loom-Pulse fires. A 2-node win would be unsatisfying as a race spectacle and undercuts the exploration training purpose. The minimum forces every rig to engage the arena geography.
-
-*Exception:* If fewer than 3 spires remain accessible in the field (late-race depletion), this requirement is waived for any team that has already attempted at least 2 distinct spires.
+A legal discharge may be executed from **any unobstructed angle, including from above**. The Harvest-Prong must physically contact the pylon at any point along its structure (base, column, or crown). The rulebook does not prohibit aerial approach.
 
 ---
 
-### 3. Boon Expiry Clarification
+### 3. Disabled Rig Protocol
 
-**Boons last until the *holder's* next sync action**, not until any team syncs.
-
-- If a rig does not sync for multiple pulse windows, their current boon remains active.
-- Receiving a new sync replaces the current boon immediately, even if the previous boon's benefit was still useful.
-- **One active boon per rig at any time.** A second sync overwrites the first; boons cannot stack.
-
-> **Rationale:** "Until next sync" was ambiguous — it was unclear whether field-wide sync events (another team hitting a spire) expired all active boons. The intent is that boons are personal and durable until the holder chooses to update them.
+- All accumulated CU is forfeit — stored connection bleeds back into the ambient field
+- The disabled rig's physical **battery** may be retrieved and carried to the Resonator by another team — only the battery's base charge, not accumulated CU from spire syncs
+- A disabled rig is out of contention and cannot be repaired during the race
 
 ---
 
-### 4. Grand Resonator — Approach Angles (Clarification)
+### 4. Gryphon / Organic Drive Ruling
 
-A legal Grand Resonator discharge may be executed from any unobstructed angle, **including from above**.
+The organic component (gryphon, trained animal) sits outside the umber gutter's dead zone — it operates on ambient metabolism. The gutter is calibrated to impose artificial drag equal to the organic component's contribution. If the gutter is damaged mid-race:
 
-- Ground-level approach is not required.
-- Blocking teams may legally occupy ground-level approach lanes.
-- Aerial rigs and rigs with vertical mobility boons (Lift Stone, Aero-Static) may descend from above to discharge.
-- The only restriction: the Harvest-Prong must physically contact the pylon at any point along its structure (base, column, or crown).
+- *Minor damage:* −10 CD spike reduction
+- *Moderate damage:* −15 CD reduction
+- *Severe damage:* −20 CD reduction + heat-stress warning; must sync a Moderate or Major node before the next Loom-Pulse or face forced withdrawal
 
-> **Rationale:** A fully legal ground blockade by an aggro team (CD too high to discharge themselves) would otherwise create a stalled race with no resolution mechanism. Aerial approach gives creative teams a way through. The blockade strategy remains valid — it just cannot be a *perfect* shutdown.
-
----
-
-### 5. Disabled Rig Protocol (Clarification)
-
-When a rig is disabled (destroyed, stuck, or mechanically unable to continue):
-
-- All **accumulated CU** is forfeit. The rig's stored connection bleeds back into the ambient field; no other team can claim it.
-- The disabled rig's **battery** may still be physically retrieved and carried to the Grand Resonator by *another* team — but only the battery's *base charge*, not the accumulated CU from spire syncs.
-- The **pilot** is extracted by race marshals under the crew survival protocol.
-- A disabled rig is **out of contention** and may not be repaired during the race.
-
-> **Existing rule confirmed:** Battery ownership does not determine the winning team. If a team can physically carry a charged battery to the Grand Resonator, that counts — but spire-accumulated CU is non-transferable.
+This is a mechanical failure, not a strategy.
 
 ---
 
-### 6. Gryphon / Organic Drive Ruling (Clarification)
-
-For rigs using organic drive sources (gryphon, trained animal, biological hull):
-
-- The organic component is **outside the umber gutter's dead zone** by default — it operates on ambient metabolism, not stored connection.
-- This is handled via the **umber gutter tolerance** — the gutter is calibrated to impose an artificial drag equal to the organic component's contribution, creating the deficit.
-- If the umber gutter is damaged mid-race (combat, heat stress), the organic component's ambient energy contribution may partially override it, **reducing CD by a flat amount at marshal discretion**:
-  - *Minor damage (cosmetic, single-hit):* −10 CD
-  - *Moderate damage (heat stress, sustained combat):* −15 CD
-  - *Severe damage (rupture, near-failure):* −20 CD, plus the rig takes a heat-stress warning and must sync a moderate or major node before the next Loom-Pulse or face forced withdrawal
-- This is a mechanical failure, not a strategy.
-
-> **Design note:** The gryphon's ambient energy creates an interesting asymmetry — a biological drive that genuinely benefits from the *race's own suppression mechanism* being degraded. GMs running extended rig-combat sequences should track umber gutter integrity.
-
----
-
-### 7. Pre-Race Alliances (New Optional Rule)
+### 5. Pre-Race Alliances (Optional Rule)
 
 Teams may declare a **Pre-Race Alliance** at Certification Lock:
-
-- Both teams log the alliance with the Race Marshal.
-- Allied teams may legally share Relay Ping boon data.
-- Allied teams may not deliberately ram or disable each other.
-- If an allied team fires the Grand Resonator, their partner receives a **Secondary Credit** placement — not a co-win, but placed immediately after the winning team in the official standings (2nd place or higher, ahead of any team that did not discharge). If two allied teams both discharge, they share the co-win bracket and both are listed as 1st.
-- Alliances are public record. Non-allied teams may factor them into strategy.
-
-> **Rationale:** Teams with complementary draw bands (one heavy, one light) gain mutual benefit — the light rig contributes diversion and early nodes; the heavy rig contributes firepower and blocking. This adds strategic texture without disrupting the individual win condition.
-
----
-
-### Fast Tuning Levers (Revised)
-
-1. **Too much brawling early:** Shift one high-CU north-flat spawn into east utility band.
-2. **Heavy rigs auto-win:** Raise Launch Penalty on super-heavy classes by one band.
-3. **Soloists always evade forever:** Shorten Mute Wake / Mirage Wake duration by one pulse.
-4. **No one explores full basin:** Delay first central Chime spawn until after second Loom-Pulse. *(Default in standard format.)*
-5. **Teams ignore practical boons:** Add one extra CU bonus when utility boons are used to clear terrain hazards.
-6. **Light rigs hit CD ≤ 0 before Loom-Pulse 1:** Lower Global Amplitude baseline for this race has accelerated ultralight timelines. Enforce the 3-spire minimum strictly.
-7. **Organic-drive teams dominate:** Add a heat-tolerance roll for umber gutter integrity every two Loom-Pulses. A failed check imposes a +10 CD spike until the next sync.
+- Both teams log the alliance with the Race Marshal
+- Allied teams may legally share Relay Ping boon data
+- Allied teams may not deliberately ram or disable each other
+- If an allied team fires the Grand Resonator, their partner receives a **Secondary Credit** placement immediately after them in official standings
+- Alliances are public record
 
 ---
 
 ## Cultural Significance
 
-The Circuit-Run is more than sport. It is a **simulation of the Great Stitching** — the historical conquest that unified Harmony's territory. Every race is a miniature version of the original exploranauts who ventured into unknown land, struck nodes, and brought that connection back to the centre.
+The Circuit-Run is a **simulation of the Great Stitching** — the historical conquest that unified Harmony's territory. Every race is a miniature version of the original exploranauts who ventured into unknown land, struck nodes, and brought connection back to the centre.
 
 For students at [[Vumbua Academy]], the Reso Race is:
 - A chance to **impress the Captains** ahead of internship interviews
@@ -404,9 +449,9 @@ For students at [[Vumbua Academy]], the Reso Race is:
 
 ## Related Pages
 
-- [[circuit-run-simulation|The First Vumbua Circuit-Run — Full Simulation]] — Complete play-by-play, CU math, and GM touchpoints
-- [[The Power System]] — The energy system the race is built on
-- [[professor-kante|Professor Kante]] — Teaches the theory behind stored connection
-- [[House Gilded]] — Original Chime Spire / resonator technology
-- [[Vumbua Academy]] — Hosts the student-level Reso Race
-- [[harmony-nodes]] — The real-world nodes that the arena Spires simulate
+- [[circuit-run-simulation|The First Vumbua Circuit-Run — Full Simulation]]
+- [[The Power System]]
+- [[professor-kante|Professor Kante]]
+- [[House Gilded]]
+- [[Vumbua Academy]]
+- [[harmony-nodes]]
