@@ -11,6 +11,8 @@ tags:
   - harmony
 ---
 
+
+
 # The Circuit-Run
 
 > *"I also hear there is a RESO-RACE coming after the first week of classes! A perfect place to prove your metal to the Captains."*
@@ -21,6 +23,8 @@ The **Circuit-Run** (colloquially: **Reso Race**) is the premier sport of Harmon
 Teams or soloists pilot custom craft through a wilderness arena, striking resonance Spires to build a stored connection. The first team to accumulate enough connection to overcome their craft's deficit — and then reach the Grand Resonator at the arena's centre — wins. Beyond that: anything goes.
 
 ---
+
+![Resonance Race](../assets/reso-race.png)
 
 ## Core Concept
 
