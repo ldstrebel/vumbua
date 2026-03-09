@@ -1,7 +1,7 @@
 
 # Session 4 Planning
 
-[[session-04-recap|Session 04 Recap]] for the recap prepped by Valerius hooking in [[iron-hide|Iron-Hide]], and [[ignis-scorch|Ignis-Scorch]] and [[valentine-sterling-sr|Valerius Sterling Sr.]].
+[[session-04-recap|Session 04 Recap]] for the recap prepped by Valerius hooking in [[iron-hide|Iron-Hide]], and [[ignis-scorch|Ignis-Scorch]] and [[valentine-sterling-sr|Valentine Sterling Sr.]].
 
 ## Phase 1: The Morning After & Finding Lucky
 
