@@ -1,7 +1,7 @@
 
 # Session 4 Planning
 
-[[session-04-recap]] for the recap prepped by Valerius hooking in [[iron-hide]], and [[ignis-scorch]] and [[Valerius Sterling Sr.]].
+[[session-04-recap|Session 04 Recap]] for the recap prepped by Valerius hooking in [[iron-hide|Iron-Hide]], and [[ignis-scorch|Ignis-Scorch]] and [[valentine-sterling-sr|Valerius Sterling Sr.]].
 
 ## Phase 1: The Morning After & Finding Lucky
 
@@ -33,7 +33,7 @@ After the ambush, the party stumbles back to the dorms. They're battered, confus
 
 ### Scene: Finding Lucky (The Extortion)
 
-Before Track Assignment, the party needs to execute their plan: track down [[Lucky]] to get the "study guide" that Valentine sold him. 
+Before Track Assignment, the party needs to execute their plan: track down [[lucky|Lucky]] to get the "study guide" that Valentine sold him. 
 
 **The Setup:**
 - The party has Azor's stolen pocket watch and a highly embellished story of Lomi "heroically" breaking the ribs of an attacker.
@@ -44,7 +44,7 @@ Before Track Assignment, the party needs to execute their plan: track down [[Luc
 - **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Lomi's new reputation as a rib-breaker.
 - **The Catch:** If they successfully intimidate him, Lucky might hand it over but remember the slight. If they barter, he'll gladly take the watch but might try to upsell them on something else.
 - The "study guide" contains 10 annotated questions from Val, some of which Val noted were fundamentally flawed but useful.
-- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[GenEd_-_Exploration101_survey.json]].
+- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[GenEd_-_Exploration101_survey.json|GenEd Survey]].
 
 ---
 
@@ -75,7 +75,7 @@ By crafting scenarios that are conceptually related but significantly more intri
 
 This is the in-fiction moment where the PCs choose their **Daggerheart class/subclass**, framed as the Academy assigning them to a specialized training track based on their trial performance and personal aptitude.
 
-**Setting:** The Main Courtyard. Rows of brass terminals. Faculty stationed at department tables. [[Dean Isolde Vane]] presiding from a floating podium (as in the Gen-Ed exam from S2).
+**Setting:** The Main Courtyard. Rows of brass terminals. Faculty stationed at department tables. [[dean-isolde-vane|Dean Isolde Vane]] presiding from a floating podium (as in the Gen-Ed exam from S2).
 
 **How it works:**
 1. Students approach a terminal and receive their **recommended track** based on trial scores
@@ -102,11 +102,11 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 
 | PC | Likely Track | Why | Tension |
 |---|---|---|---|
-| **[[Ignatius]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
-| **[[Iggy]]** | Harmonics | Already mentored by Kante, technical genius | Will Kante pull strings to get him? Does Iggy even understand what he's signing up for? |
-| **[[Britt]]** | Verdant Studies or Pathfinder | Mizizi connection to living systems | Tension between studying *what she is* vs. blazing her own trail |
-| **[[Aggie]]** | Verdant Studies or Shadow Ops | Mizizi ecology knowledge, practical wisdom | She may resist being "studied" — Shadow Ops lets her be an agent, not a specimen |
-| **[[Lomi]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
+| **[[ignatius|Ignatius]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
+| **[[iggy|Iggy]]** | Harmonics | Already mentored by Kante, technical genius | Will Kante pull strings to get him? Does Iggy even understand what he's signing up for? |
+| **[[britt|Britt]]** | Verdant Studies or Pathfinder | Mizizi connection to living systems | Tension between studying *what she is* vs. blazing her own trail |
+| **[[aggie|Aggie]]** | Verdant Studies or Shadow Ops | Mizizi ecology knowledge, practical wisdom | She may resist being "studied" — Shadow Ops lets her be an agent, not a specimen |
+| **[[lomi|Lomi]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
 
 ---
 
@@ -164,7 +164,7 @@ As the PCs approach the gate, a **Loom Terminal** scans their student receipts.
    - *Requirement:* Requires a "Trolley Token" (5 copper) or a high trial rank (Top 10%).
    - *Experience:* Seating on the moving steam trolley. You follow the rigs as they move through the basin.
 3. **Gate C: The Gilded Zephyrs (VIP)**
-   - *Requirement:* Invitation only or [[House Gilded]] sponsorship.
+   - *Requirement:* Invitation only or [[gilded|House Gilded]] sponsorship.
    - *Experience:* Boarding an airship. Magnifying floors. Champagne and silk.
 
 ---
@@ -221,7 +221,7 @@ As the PCs move through the tiers or look through their binoculars:
 | **[[resonance-racers#Stinger|Stinger]]** (Soloist) | **Minimalist (Hover-Bike):** A razor-thin engine strapped to a seat. It consists of little more than a high-output battery, a propulsion vent, and a forward-mounted Harvest-Prong. | Extreme speed, weaving through the chaos. Relies entirely on evasion and not getting hit. |
 | **[[resonance-racers#Goliath|Goliath]]** (Soloist) | **Super-Heavy (Land-Ship):** A mobile fortress. It is astronomically large for a soloist entry, dominating the canyon floor with its sheer width and multi-tread propulsion system. | Survive "The Drop" and act as a moving hazard. Slow but virtually indestructible by standard rigs. |
 
-The **first Resonance Race of the intake year** is the biggest social event at [[Vumbua Academy]]. The entire campus empties into the **Apex Ring** — a mile-wide basin of simulated wilderness where teams race to strike Spires, siphon node energy, and light the Grand Resonator at the centre.
+The **first Resonance Race of the intake year** is the biggest social event at [[vumbua-academy|Vumbua Academy]]. The entire campus empties into the **Apex Ring** — a mile-wide basin of simulated wilderness where teams race to strike Spires, siphon node energy, and light the Grand Resonator at the centre.
 
 **Why this year is special:**
 - The arena terrain has been **updated for the first time** to include the **Ash-Blood Isles** and the **Mizizi Forest island** — the two newest integrated territories
@@ -238,7 +238,7 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 1. **The Drop:** The Walker-Core gantry walks each rig one-by-one to the rim edge and positions them mechanically before release. Goliath (the Land-Ship soloist) nearly flattens Stinger (the hover-bike soloist) on contact with the basin floor. Stinger clips around the tread wash and vanishes into the petrified forest at speed.
 
-2. **The Missing Spire:** The Apex Compass ring is fully lit — every territory zone glowing its city color, including the Ash-Blood Isles arc in the west. But if Ignatius (or anyone watching closely) tracks what spawns in that terrain over the course of the race, nothing Ash-Blood originates there. Other spires will appear in that zone. Not that one. No Ash-Blood origin node. For the first time the Ash-Blood terrain is represented in the arena, it shows up without the thing [[Lady Ignis]] spent months designing.
+2. **The Missing Spire:** The Apex Compass ring is fully lit — every territory zone glowing its city color, including the Ash-Blood Isles arc in the west. But if Ignatius (or anyone watching closely) tracks what spawns in that terrain over the course of the race, nothing Ash-Blood originates there. Other spires will appear in that zone. Not that one. No Ash-Blood origin node. For the first time the Ash-Blood terrain is represented in the arena, it shows up without the thing [[lady-ignis|Lady Ignis]] spent months designing.
 
 3. **The Resonator Lesson:** For students who paid attention in class — especially **[[iggy|Iggy]]** — the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored *connection*, not stored *energy*. The deficit each rig is fighting to reach zero. The Major nodes that justify crossing dangerous terrain. *This is the exam in practice.*
 
@@ -262,7 +262,7 @@ The Apex Compass is fully lit. All arcs active. The Ash-Blood Isles arc glows li
 
 If Ignatius (or any PC) notices and asks a rig technician or Scrivener Guild rep: *"The resonance data for the Ash-Blood node wasn't finalised in time for this race."* Pressed further: nothing. If he looks toward the West Bleachers through binoculars, **[[cinder-4|Cinder-4]]** is not watching the race. They are watching the Ash-Blood Isles terrain with the stillness of something that has been watching for a long time.
 
-For context the PCs don't have yet: [[Lady Ignis]] submitted the spire design herself. It was supposed to be a debut. [[professor-kante|Professor Kante]] reviewed the data and refused to approve it for publication. The Guild line is the Guild line.
+For context the PCs don't have yet: [[lady-ignis|Lady Ignis]] submitted the spire design herself. It was supposed to be a debut. [[professor-kante|Professor Kante]] reviewed the data and refused to approve it for publication. The Guild line is the Guild line.
 
 > **GM Note:** This one pays off slowly. Don't over-explain it now. Let Ignatius carry it into the race and through to Cinder-4.
 
@@ -366,19 +366,19 @@ One moment after the light: **[[lucky|Lucky]]** is on his fifth flag change of t
 
 **The Encounter:**
 
-When the PCs finally track her down, Rill is distracted, stressed, and clearly conflicted. She's happy to see [[Britt]] and [[Aggie]] — but there's guilt behind the smile.
+When the PCs finally track her down, Rill is distracted, stressed, and clearly conflicted. She's happy to see [[britt|Britt]] and [[aggie|Aggie]] — but there's guilt behind the smile.
 
 **What Rill reveals (if pushed):**
 
 1. **The Journey:** She and **[[professor-ink|Professor Ink]]** are planning an expedition **back into the [[mizizi-petrified-forest|Mizizi Petrified Forest]]**. Ink wants to study the trees — specifically what they *remember*. Rill wants to find a cure for the "Eternal Growth" corruption affecting the [[mizizi|Mizizi]].
 
-2. **Her Shame:** Rill left the Forest two years ago. The [[Mizizi]] see her as a **traitor**. She didn't just leave — she was the first to walk out. To go *back*, escorted by a Harmony academic... that's going to feel like an invasion to the Elders.
+2. **Her Shame:** Rill left the Forest two years ago. The [[mizizi|Mizizi]] see her as a **traitor**. She didn't just leave — she was the first to walk out. To go *back*, escorted by a Harmony academic... that's going to feel like an invasion to the Elders.
 
    > *"I know what they'll say. 'She left, and now she brings outsiders.' But Ink can see things in the bark that I can't. The trees are dying, [[britt|Britt]]. Slowly. And the Elders won't let anyone help because they think stagnation IS health."*
 
-3. **Her Secret (GM discretion):** Rill is secretly [[Wadi]], not [[Mizizi]]. Her River Clan heritage gives her a different perspective on "Flow" vs "Stagnation" — it's why she can solve problems true Mizizi cannot. She won't reveal this unless deeply trusted.
+3. **Her Secret (GM discretion):** Rill is secretly [[wadi|Wadi]], not [[mizizi|Mizizi]]. Her River Clan heritage gives her a different perspective on "Flow" vs "Stagnation" — it's why she can solve problems true Mizizi cannot. She won't reveal this unless deeply trusted.
 
-4. **The Danger:** The heart of the [[Mizizi Petrified Forest]] is **protected**. The deeper you go, the more dangerous it gets:
+4. **The Danger:** The heart of the [[mizizi-petrified-forest|Mizizi Petrified Forest]] is **protected**. The deeper you go, the more dangerous it gets:
    - **Hallucinations** — the forest's defence mechanism. The petrified trees project visions that confuse intruders
    - **Beasts** — creatures adapted to live in the hallucinogenic environment, potentially immune to the confusion
    - **The Elders** — the Mizizi leadership doesn't welcome visitors. They may view Rill's return as a threat
@@ -394,15 +394,15 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
 |---|---|
 | **Role** | [[scrivener-guild|Scrivener Guild]] Captain |
 | **Specialty** | Fungal biology, petrified bark analysis |
-| **Personality** | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[Ignatius]] will burn his specimens. |
-| **Motivation** | The trees of the [[Mizizi Petrified Forest]] may be the oldest living records in Harmony. If they're *remembering* something, Ink wants to know what. |
+| **Personality** | Pure thirst for knowledge. Academic to the bone. Loves [[iggy|Iggy]]'s curiosity but is genuinely afraid [[ignatius|Ignatius]] will burn his specimens. |
+| **Motivation** | The trees of the [[mizizi-petrified-forest|Mizizi Petrified Forest]] may be the oldest living records in Harmony. If they're *remembering* something, Ink wants to know what. |
 | **Relationship to Rill** | Research partners. He provides the scientific rigour; she provides the cultural context and access. |
 
 **GM Notes:**
 - This scene should feel **quiet and personal** — a contrast to the party and the ambush. It's a conversation, not an encounter.
 - Don't force Rill to reveal everything. Let the PCs earn her trust through roleplay.
 - If a PC offers to help with the forest expedition, that's a **major future quest hook** — flag it.
-- If [[Iggy]] is present, Professor Ink will light up. There's a natural bond there.
+- If [[iggy|Iggy]] is present, Professor Ink will light up. There's a natural bond there.
 
 ---
 
@@ -454,7 +454,7 @@ From there, they walk out through the front gate and straight to port. Ships are
 
 **The Loom speaks.**
 
-After the exam, the remaining **~50,000 students** receive their team assignments. The [[The Loom|Loom]] — the ancient engine in the [[Walker-Core]] that powers the Academy's systems — assigns each student to a squad.
+After the exam, the remaining **~50,000 students** receive their team assignments. The [[The Loom|Loom]] — the ancient engine in the [[walker-core|Walker-Core]] that powers the Academy's systems — assigns each student to a squad.
 
 **How it works:**
 - Each student approaches a Loom terminal (or the assignment appears on their existing exam screen)
