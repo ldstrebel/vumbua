@@ -21,7 +21,9 @@ tags:
 | **First Appearance** | [[session-02|Session 2]] (Voice only) |
 
 ## Overview
-Valerius Sterling is the older cousin of [[Valentine Sterling]] and a fixture at Vumbua Academy, having been there for several years. He hosts the popular (and possibly unauthorized) radio show that recaps academy events. He is named after his famous uncle, [[valentine-sterling-sr|Valentine Sterling Sr.]].
+Valerius Sterling is the older cousin of [[Valentine Sterling]] and a fixture at Vumbua Academy, having been there for several years. He hosts the popular (and possibly unauthorized) radio show that recaps academy events. 
+
+Valerius Sterling has lots of connections but has been only seen once in game when he was asleep on the couch late at night after a show and [[ember]] was working on stuff after
 
 ## Relationships
 - **[[Valentine Sterling]]**: His younger cousin and the family Scion/Student. Valerius watches over him (and critiques his performance on air).

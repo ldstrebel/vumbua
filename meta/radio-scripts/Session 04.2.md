@@ -72,7 +72,8 @@
 "After that: get your eyes east. The Shelf has reliable mid-race node real estate, the Tracker runs right alongside it, and anything that survives the forest sprint will be making decisions there."
 
 *[measured, deliberate — a very Sterling-shaped tease]*
-"Watch the north. I will say nothing more about the north. But watch it."
+"The north volcanic flat is quiet territory early — no trees, no water, no cover. You won't see much action there until after Horn 2. But whoever is positioned well when the Convergence Arc lands in the final phase — the Gilded Chime, traditionally — is going to have a very interesting last twenty minutes. Worth noting who makes their way north as the mid-race reshuffles."
+
 
 *[signing off — the voice of someone who has been doing this their whole life and still loves it]*
 "I am Valerius Sterling. One hundred and fifty feet above the Apex Ring, in an airship with a transparent floor. Twelve teams. Three horns. One Grand Resonator."
