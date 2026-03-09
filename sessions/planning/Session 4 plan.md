@@ -238,7 +238,7 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 1. **The Drop:** The Walker-Core gantry walks each rig one-by-one to the rim edge and positions them mechanically before release. Goliath (the Land-Ship soloist) nearly flattens Stinger (the hover-bike soloist) on contact with the basin floor. Stinger clips around the tread wash and vanishes into the petrified forest at speed.
 
-2. **The Missing Arc:** The Apex Compass ring is fully lit around the rim — every territory zone glowing its city color. Except one. The west arc segment, over the Ash-Blood Isles terrain, is completely dark. No Spire indicator. Just an unmarked gap in the compass ring. A student nearby assumes it's a display error. It isn't.
+2. **The Missing Spire:** The Apex Compass ring is fully lit — every territory zone glowing its city color, including the Ash-Blood Isles arc in the west. But if Ignatius (or anyone watching closely) tracks what spawns in that terrain over the course of the race, nothing Ash-Blood originates there. Other spires will appear in that zone. Not that one. No Ash-Blood origin node. For the first time the Ash-Blood terrain is represented in the arena, it shows up without the thing [[Lady Ignis]] spent months designing.
 
 3. **The Resonator Lesson:** For students who paid attention in class — especially **[[iggy|Iggy]]** — the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored *connection*, not stored *energy*. The deficit each rig is fighting to reach zero. The Major nodes that justify crossing dangerous terrain. *This is the exam in practice.*
 
@@ -257,12 +257,14 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 Run 2–3 of these while the PCs are finding seats and the certification process plays out. These plant the seeds for the mid-race payoffs.
 
-**The Missing Arc** *(Ignatius — or any PC watching the Compass ring)*
-As PCs settle into their bleacher positions, they can see the Apex Compass running along the inner rim — arc segments in different colors for each city zone. The west arc is dark. Not unlit. *Dark*. The Ash-Blood Isles terrain is physically in the basin, but the Compass shows no Spire indicator, no color. A student nearby says it's broken. It isn't.
+**The Missing Spire** *(Ignatius — or any PC paying attention through the race)*
+The Apex Compass is fully lit. All arcs active. The Ash-Blood Isles arc glows like the others. Spires will spawn in that terrain today — just not an Ash-Blood origin node. The arc isn't dark. The terrain is there. The contribution just isn't.
 
-If Ignatius (or any PC) tracks down a rig technician or Scrivener Guild rep for an answer — the answer is the Guild line: *"The resonance data isn't finalised."* Pressed further: nothing. If he looks toward the West Bleachers through binoculars, **[[cinder-4|Cinder-4]]** is already staring at that dark arc. Has been since the gates opened. They are not watching the race.
+If Ignatius (or any PC) notices and asks a rig technician or Scrivener Guild rep: *"The resonance data for the Ash-Blood node wasn't finalised in time for this race."* Pressed further: nothing. If he looks toward the West Bleachers through binoculars, **[[cinder-4|Cinder-4]]** is not watching the race. They are watching the Ash-Blood Isles terrain with the stillness of something that has been watching for a long time.
 
-> **GM Note:** Don't over-explain. Let the dark arc speak for itself. The player will carry it.
+For context the PCs don't have yet: [[Lady Ignis]] submitted the spire design herself. It was supposed to be a debut. [[professor-kante|Professor Kante]] reviewed the data and refused to approve it for publication. The Guild line is the Guild line.
+
+> **GM Note:** This one pays off slowly. Don't over-explain it now. Let Ignatius carry it into the race and through to Cinder-4.
 
 ---
 
