@@ -208,7 +208,7 @@ As the PCs move through the tiers or look through their binoculars:
 
 ### Scene: The Resonance Race
 
-> **Full reference:** See [[circuit-run|The Circuit-Run]] for the complete compendium (rules, energy system, node spectrum, craft types, viewing tiers).
+> **Full reference:** See [[circuit-run|The Circuit-Run]] for the complete rulebook and [[circuit-run-simulation|The Circuit-Run Simulation]] for the full play-by-play with sync ledgers, CD math, and GM beats. The hooks below are the player-facing moments drawn from that simulation.
 
 #### The Racing Field (Notable Entries)
 
@@ -236,44 +236,120 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 **Key Dramatic Moments (GM picks 2-3):**
 
-1. **The Drop:** Rigs are physically slung or dropped from the amphitheater rim. The initial burst of momentum is all they get before they must strike their first Spire. A massive land-ship ("Goliath") nearly crushes a soloist ("Stinger") on the way down.
+1. **The Drop:** The Walker-Core gantry walks each rig one-by-one to the rim edge and positions them mechanically before release. Goliath (the Land-Ship soloist) nearly flattens Stinger (the hover-bike soloist) on contact with the basin floor. Stinger clips around the tread wash and vanishes into the petrified forest at speed.
 
-2. **The Sync:** A team strikes a Leidian node and gains the **Overclock** boon — extreme speed with a "Phase-Dash" teleport. The crowd roars. But the heat stress is visible — the rig's hull glows cherry-red.
+2. **The Missing Arc:** The Apex Compass ring is fully lit around the rim — every territory zone glowing its city color. Except one. The west arc segment, over the Ash-Blood Isles terrain, is completely dark. No Spire indicator. Just an unmarked gap in the compass ring. A student nearby assumes it's a display error. It isn't.
 
-3. **The Missing Node:** **[[ignatius|Ignatius]]** notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks **[[professor-kante|Professor Kante]]** (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] — the integration only produced ~20 amps instead of the expected +300 to +800.
+3. **The Resonator Lesson:** For students who paid attention in class — especially **[[iggy|Iggy]]** — the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored *connection*, not stored *energy*. The deficit each rig is fighting to reach zero. The Major nodes that justify crossing dangerous terrain. *This is the exam in practice.*
 
-4. **The Battery Lesson:** For students who paid attention in class (especially **[[iggy|Iggy]]**), the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored connection, not stored energy. The umber crystal gutter creating an artificial dead zone. The relationship between power draw and nodes needed. *This is the exam in practice.*
+4. **The Lone Flier:** After Horn 1, **[[resonance-racers#Team 4 Pudge|Pudge]]** flies north into completely dark Compass arcs while every other rig fights for mid-basin nodes. Two red LEDs. No syncs. The crowd is laughing. By Horn 3, nobody is laughing.
 
-5. **Marble Wall vs Dancer & Fabian:** The heavy team smashes through a contested area, destroying a smaller rig. The couple in the racing sailboat (lowest power rating in the field) has to surrender when they encounter the Wall. But they were so close — they only needed two more minor nodes.
-
-6. **The Win:** The Grand Resonator lights up. A pillar of light erupts from the centre of the basin. The crowd goes absolutely berserk. The winning team's Harvest-Prong is still crackling with residual resonance as they're hoisted onto shoulders.
+5. **The Win — and the Question:** **[[resonance-racers#Team 4 Pudge|Pudge]]** strikes the Grand Resonator. A pillar of light from the basin centre. The only rig with both LEDs green at the moment of strike. But the east bleachers went quiet thirty seconds earlier, when the Chime Spire erupted gold in the north flat and Pudge was already there — not descending to it. *Waiting* at it. Harvest-Prong already extended.
 
 **GM Pacing Notes:**
-- This is a **montage scene**, not a mechanical encounter
-- Run it as a series of vivid descriptions with crowd reactions. 10-15 minutes max.
-- Give each PC one moment of reaction or observation — **[[iggy|Iggy]]** noticing the missing node, **[[britt|Britt]]** recognising the simulated Mizizi terrain, **[[lomi|Lomi]]** sizing up the engineering, etc.
-- The race sets up future plot threads: the Ash-Blood data mystery, the connection/energy distinction, the Captains watching from above
+- This is a **montage scene**, not a mechanical encounter. 10–15 minutes of vivid description and crowd reaction.
+- Give each PC **one moment** anchored to their character — see the hook sections below.
+- The race sets up future threads: the Ash-Blood data mystery, the Pudge controversy, the Captains watching from the Zephyrs.
 
-### Play-by-Play: The First Vumbua Circuit-Run
+---
 
-**1. The Launch**
-The air is heavy with the smell of ozone and hot copper. Twelve teams are slung from the Southern Rim. **[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** (Team 1) gets a massive launch, their heavy rig slamming down onto the canyon floor with a bone-shaking thud. **[[resonance-racers#Team 4 Pudge|Pudge]]** (Team 4) takes a more vertical drop, their gyro-boat catching a thermal and gliding over the petrified treetops.
+### Race Hooks — Pre-Horn 1 (Opening)
 
-**2. The First Sync**
-**[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** reaches the first Aero-Static spire. Their Harvest-Prong strikes — a massive flash of blue light. The Rig suddenly loses 90% of its weight, allowing it to leap a canyon wall that would have stopped it dead.
-Behind them, **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** (Team 3) isn't racing; they're hunting. They ignore the first spires and instead ram into a soloist team, pinning them against the petrified bark. *"Strategy: Destroy first, collect later."*
+Run 2–3 of these while the PCs are finding seats and the certification process plays out. These plant the seeds for the mid-race payoffs.
 
-**3. The Mid-Match Chaos**
-The "Loom-Pulse" triggers. New Spires erupt from the ground. A Crystalline node appears right in front of **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]** (Team 5). They strike it, their sailboat hull turning into semi-fluid glass. They pass right through a narrow crack in the canyon wall that **[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]** has to go around.
-Meanwhile, **[[resonance-racers#Team 4 Pudge|Pudge]]** is struggling. Their gryphon-hybrid requires massive connection to overcome its handicap. They strike a Vitruvian node, doubling their sync duration, but they're still behind the Global Amplitude line.
+**The Missing Arc** *(Ignatius — or any PC watching the Compass ring)*
+As PCs settle into their bleacher positions, they can see the Apex Compass running along the inner rim — arc segments in different colors for each city zone. The west arc is dark. Not unlit. *Dark*. The Ash-Blood Isles terrain is physically in the basin, but the Compass shows no Spire indicator, no color. A student nearby says it's broken. It isn't.
 
-**4. The Final Stretch**
-Only three teams left in contention for the Grand Resonator. **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** is bearing down on **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]**. Fabian is at the rudder, Dancer is on the Harvest-Prong. They hit a Kinetic-Echo spire, leaving a hard-light trail. As **[[resonance-racers#Team 3 Marble Wall|Marble Wall]]** prepares to ram, **[[resonance-racers#Team 5 Dancer Fabian|Dancer & Fabian]]** perform an instant U-turn on their own trail, letting the heavy rig sail past into a canyon wall.
+If Ignatius (or any PC) tracks down a rig technician or Scrivener Guild rep for an answer — the answer is the Guild line: *"The resonance data isn't finalised."* Pressed further: nothing. If he looks toward the West Bleachers through binoculars, **[[cinder-4|Cinder-4]]** is already staring at that dark arc. Has been since the gates opened. They are not watching the race.
 
-**5. The Grand Resonator**
-**[[resonance-racers#Team 4 Pudge|Pudge]]** finally hits the needed amplitude. The gyro-boat’s battery glows brilliant purple. With a final Aero-Static jump, they soar over the crowd, landing directly in front of the Grand Resonator.
-**Strike!** The discharge creates a blinding pillar of light that illuminates the entire basin. **[[resonance-racers#Team 4 Pudge|Pudge]] wins!**
-The crowd erupts. Valerius is shouting over the radio. The Captains in the Zephyrs are leaning over their magnifying floors, marking their tally sheets.
+> **GM Note:** Don't over-explain. Let the dark arc speak for itself. The player will carry it.
+
+---
+
+**The Terrain Recognition** *(Britt, Aggie)*
+Looking down into the basin from the bleachers, the west terrain is unmistakably Mizizi — wide stone trunks, close together, column-like. The proportions are almost right. The stone colour is slightly off. The spacing between trunks is too even. Whoever modelled this has never been inside one.
+
+If they mention the spacing: they're correct. The model was built from survey data and Rill's notes. Rill will wince if it comes up later.
+
+---
+
+**The Certification Gossip** *(any PC — ideally near the south rim or certification area)*
+A fragment of a conversation between two marshals, not quite quiet enough:
+
+*"—saw the map eighteen days ago. Red circle, north flat. I'm telling you—"*
+*"—nothing in the rulebook about terrain study—"*
+*"—the map was GONE when they went back. Convenient."*
+
+They're talking about **[[resonance-racers#Team 4 Pudge|Pudge]]**. The Chime Spire always appears at Horn 3 in the north volcanic flat — that's common knowledge. Where exactly within the north flat it materialises is not published. Pudge had a location marked. Guild review was inconclusive. Race is on.
+
+> **GM Note:** Plant this before Horn 1. It pays off immediately at Horn 3.
+
+---
+
+**Kante's Position** *(Iggy)*
+If Iggy uses binoculars to scan the North Research Deck, or just looks north — a lone figure at the railing. **[[professor-kante|Professor Kante]]**. Not looking at the teams. Not looking at the gates. Looking at the Gryphon-Hybrid in the certification pen. Watching it breathe.
+
+If Iggy can get Kante's attention before the horn: Kante gives him one sentence. *"Watch what happens to the north arc after Horn 2."*
+
+---
+
+### Race Hooks — Mid-Race
+
+Deploy these as the race progresses. They map to the phases of the [[circuit-run-simulation|full simulation]]; each one gives a specific PC a character beat.
+
+**Between Horn 1 and Horn 2 — "The Lone Flier"** *(any PC)*
+Pudge has been in the north for forty minutes. Two red LEDs on the scoreboard the entire time. No syncs. The crowd has moved on — everyone is watching Marble Wall hunt Stinger through the petrified forest.
+
+If a PC asks anyone what Pudge is doing:
+- Anyone technical (Iggy, or near Kante): *"Pre-positioning. Horn 2 reactive spawns favour the quietest arcs. Major nodes always appear in volcanic terrain. The math is sound — if the spawn cooperates."*
+- Anyone general: *"I have absolutely no idea. It looks like a disaster."*
+- **[[lucky|Lucky]]**, with a fistful of Shatter Stamper flags: *"Disaster is our opportunity."*
+
+---
+
+**At Horn 2 — Dancer & Fabian Hit Green** *(any PC in bleachers)*
+The Glass-Sail's scoreboard flips double-green. First team eligible in the whole race.
+
+Three minutes later: **[[lucky|Lucky]]** sprints past with an armful of Dancer & Fabian flags. He was just selling Shatter Stamper flags. He will not acknowledge this unless directly confronted. He is sweating.
+
+---
+
+**Between Horn 2 and Horn 3 — The Waiting** *(Iggy, Ignatius, or any PC with binoculars)*
+Through binoculars, the PCs can locate Pudge in the north. The gryphon is making slow banking passes over the volcanic flat. The scoreboard: still two red dots. Umber Crystal arc is depleting — Pudge is working through the second charge. But the north arc will go dark soon, and there's only one thing scheduled to appear there at Horn 3.
+
+In the east bleachers, someone starts a slow clap for Pudge. It does not catch on.
+
+In the maintenance pit below, one of Kante's students has a notebook out and is showing a calculation to the person next to them. Their expression is not encouraging.
+
+> **GM Hook:** If Iggy runs the drain math — or asks Kante — the conclusion is stark: if no Major node appears north at Horn 3, Pudge cannot recover. The deficit is too large to close from mid-field. The strategy only works if the Chime Spire appears exactly where expected.
+
+---
+
+**At Horn 3 — Gold** *(all PCs)*
+Horn 3 fires. Then a beat later: a second horn — longer, lower. The Convergence Horn. The crowd has been waiting for it since Dancer & Fabian went double-green forty minutes ago.
+
+The north Compass arc was dark. Every binocular in the east bleachers had been tracking Pudge for the second phase. Two red dots. Just circling.
+
+Then: **gold.**
+
+The Chime Spire from Gilded erupts from the north volcanic flat — brass columns, audible as actual musical tones across the whole basin. The most valuable node in the race. And Pudge is *already there*. Not descending to it. At activation range. Harvest-Prong already extended.
+
+The east bleachers go quiet.
+
+Someone nearby says it, loud enough for a row to hear: *"That's not luck."*
+
+If the PCs heard the certification gossip about the terrain map — they have the context. If not, they'll hear fragments from the people around them who have been talking about it all race.
+
+> **GM Note:** Don't resolve this. The Guild ruled it inconclusive. The map is gone. Let it sit.
+
+---
+
+**The Grand Resonator — Strike** *(all PCs)*
+Pudge reaches the Grand Resonator. Prong extended from the harness, arm outstretched, making contact from altitude while the gryphon holds position. The Resonator discharges: a pillar of light from the basin centre. Felt in the chest. The crowd goes berserk.
+
+Dancer & Fabian's Glass-Sail is somewhere in the east canyon approach. They were eligible. They were close. But Pudge was already there.
+
+One moment after the light: **[[lucky|Lucky]]** is on his fifth flag change of the race. He has a Pudge flag. He always had the Pudge flag.
 
 ---
 
