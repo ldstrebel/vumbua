@@ -23,7 +23,7 @@ The Celestial Lounge is an upscale club occupying the top floor of the tallest b
 
 Located in the northwest quadrant of campus, past the manor houses and ritzy shops. The area has a distinctly wealthy atmosphere — three huge manors, Greek Row-style social clubs, and bouncers at doors. Students can voluntarily reveal their rank receipts to receive gold pins and VIP access, though nobody checks IDs.
 
-The party headed to the Celestial Lounge at the end of [[session-02|Session 2]] after the bonfire wound down. [[Iggy]] rejoined the group for this outing after his solo adventure in the Power Plant during [[session-02.5|Session 2.5]].
+The party headed to the Celestial Lounge at the end of [[session-02|Session 2]] after the bonfire wound down. [[Iggy]] rejoined the group for this outing after his solo adventure in the [[Power Plant]] during [[session-02.5|Session 2.5]].
 
 ## Source References
 
@@ -32,5 +32,5 @@ The party headed to the Celestial Lounge at the end of [[session-02|Session 2]] 
 
 ## Related Pages
 
--[[vumbua-academy|Vumbua]] — Parent location
+- [[Vumbua Academy]] — Parent location
 - [[Greek Row]] — Nearby social clubs
