@@ -148,6 +148,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Tommy** | Gnome clerk (power room, Session 2.5) | `tommy.md` |
 | **Lucina** | Dwarf maintenance (power room, Session 2.5) | `lucina.md` |
 | **Marla** | Human who failed out (power room, Session 2.5) | `marla.md` |
+| **Finch Gable** | Harmony Student, Logistics Nerd (Session 4) | `finch-gable.md` |
 
 ---
 

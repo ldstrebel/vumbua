@@ -4,6 +4,10 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ---
 
+## 2026-03-09
+
+- **New NPC**: Created Finch Gable (Harmony-born Logistics Student) → `characters/npcs/finch-gable.md`
+
 ## 2026-03-06
 
 - **Full race simulation**: Created `world/circuit-run-simulation.md` — complete play-by-play for the First Vumbua Circuit-Run with all teams, full CU math per sync, terrain-band breakdown, Loom-Pulse sequence, major dramatic moments, final standings (Pudge wins), and GM narrative touchpoints keyed to each PC

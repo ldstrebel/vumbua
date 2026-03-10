@@ -6,13 +6,13 @@ tags:
 
 # Soot
 
-| | |
-|---|---|
-| **Role** | Rust-Rank Student / [[Block 99]]-Piston Roommate |
-| **Affiliation** | [[Vumbua Academy]], Technical Track |
-| **Location** | [[Block 99]]-Piston |
-| **Status** | Active |
-| **First Appearance** | [[session-01\|Session 1]] (mentioned) |
+|                      |                                                  |
+| -------------------- | ------------------------------------------------ |
+| **Role**             | Rust-Rank Student / [[Block 99]]-Piston Roommate |
+| **Affiliation**      | [[Vumbua Academy]], Technical Track              |
+| **Location**         | [[locations/block-99\|Block 99-Piston]]          |
+| **Status**           | Active                                           |
+| **First Appearance** | [[session-01\|Session 1]] (mentioned)            |
 
 ## Overview
 A wide-eyed, anxious student who bunks with [[Lomi]] and [[Ratchet]] in [[Block 99]]-Piston. He treats Lomi like an expert because Lomi actually knows how a wrench works.

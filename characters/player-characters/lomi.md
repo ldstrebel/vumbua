@@ -14,14 +14,14 @@ tags:
 
 ## Overview
 
-| | |
-|---|---|
-| **Origin** | Harmony (Octoumba region) |
-| **Ancestry** | Half-Earthkin, half-human (distant — great-grandfather was Earthkin) |
-| **Rank** | Copper |
-| **Class** | Daggerheart Character |
-| **Player** | Luke F (Luke Foreman) |
-| **Housing** | [[Block 99]]-Piston (with [[Ratchet]], [[Soot]]) |
+|              |                                                                                                                                           |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| **Origin**   | Harmony (Octoumba region)                                                                                                                 |
+| **Ancestry** | Half-Earthkin, half-human (distant — great-grandfather was Earthkin)                                                                      |
+| **Rank**     | Copper                                                                                                                                    |
+| **Class**    | Daggerheart Character                                                                                                                     |
+| **Player**   | Luke F (Luke Foreman)                                                                                                                     |
+| **Housing**  | [[meta/foundry-export-vault/locations/block-99\|block-99]]-Piston (with [[Ratchet]], [[Soot]])<br>[[locations/block-99\|Block 99-Piston]] |
 
 ## Appearance
 
