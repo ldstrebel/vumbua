@@ -159,13 +159,22 @@ As the PCs approach the gate, a **Loom Terminal** scans their student receipts.
 
 1. **Gate A: The Bleacher-Walls (Standard)**
    - *Requirement:* All active students are granted access.
-   - *Experience:* Stone steps, cramped but high-energy. The "Scout-Spotter" shouting match happens here.
+   - *Experience:* Stone steps, cramped but high-energy. Select sections have **[[timon|Timon]] Auto-Lens Panels** — tall panes of responsive glass that zoom and pan in sync with Valerius Sterling's live commentary from the Zephyr above. Everyone behind a panel sees what Sterling sees, in real-time. Walk two rows forward and you're outside the glass entirely — unobstructed personal view.
+   - Scout-Spotter binocular rental stands at every Tier 3 vendor station (12 copper for the race). Essential if you're not in a glass section.
+
 2. **Gate B: The Rim-Tracker (Premium)**
    - *Requirement:* Requires a "Trolley Token" (5 copper) or a high trial rank (Top 10%).
-   - *Experience:* Seating on the moving steam trolley. You follow the rigs as they move through the basin.
+   - *Experience:* Six cable cars on a continuous loop above the bleacher rail line — elevated enough that neither tier obscures the other. Cars circle the full rim slowly.
+   - **Car 2 (The Timon Car):** Fitted with the same Auto-Lens glass as the bleacher sections. Syncs live with Sterling's commentary. Fills up early.
+   - **Cars 1, 3–6:** Standard glass or open-air. Better for independent sightlines, worse for following the narrative. The open-air car is the loudest and the coldest.
+
 3. **Gate C: The Gilded Zephyrs (VIP)**
    - *Requirement:* Invitation only or [[House Gilded]] sponsorship.
-   - *Experience:* Boarding an airship. Magnifying floors. Champagne and silk.
+   - *Experience:* Boarding an airship with transparent magnifying floor-panes. The Zephyrs float above Rim-Tracker elevation — clearest sightlines in the arena. Valerius Sterling broadcasts live from the forward Zephyr, his glass controlling the Auto-Lens panels in the bleachers and Tracker below.
+
+4. **The Research Deck (Faculty Access)**
+   - *Requirement:* Faculty or Guild credentials.
+   - *Experience:* A railed platform on the North Rim accessible from the Academy service corridors. No glass, no vendors. A working platform for the people officially studying the race.
 
 ---
 
@@ -187,8 +196,8 @@ The basin is a living ecosystem of agendas. Use this table as a "sandbox" for pl
 | **[[iron-jaw-jax|Iron-Jaw Jax]]** | **Bleacher-Walls** (North Rim) | **Making a Scene** | *[[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]* | Shaking the railings. Shouting technical advice that nobody below can possibly hear. |
 | **[[nyx|Nyx]]** | **Rim-Tracker** (West Curve) | **Incognito** | *Sail & Stun* | Sitting silently with a hood up. Watching the teams' *timing*, not their speed. |
 | **[[calculus-prime|Calculus Prime]]** | **Bleacher-Walls** (High Tier) | **Open** | *Statistical Average* | Projecting a HUD from its eyes; calculating the probable winner (currently 68.4% for [[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]). |
-| **[[sarge|Sarge]]** | **The Walkway** (Transit) | **Incognito** | *Safety* | Wearing a generic staff uniform; noting "blocked fire exits" and "unstable railings" instead of the race. |
-| **[[cinder-4|Cinder-4]]** | **Bleacher-Walls** (West Rim) | **Open** | *None* | Staring intensely at the Ash-Blood simulation. Visibly vibrating with static anger at the missing Spire. |
+| **[[sarge|Sarge]]** | **Rim-Tracker** (Open-Air Car) | **Incognito** | *Safety* | Can't sit still. Riding the loop, using the circuit to inspect the car's undercarriage bolts and cable tension. Has noted six structural concerns so far and the race hasn't started. |
+| **[[cinder-4|Cinder-4]]** | **Bleacher-Walls** (West Rim) | **Open** | *None* | Not watching the race. Watching the Ash-Blood Isles terrain in the basin — the landscape that is there, the origin node that is not. Has been in this position since the gates opened. |
 | **[[hesperus|Hesperus]]** | **The Rim-Tracker** (South) | **Open** | *The Trainees* | Watching the *crowd* as much as the race. Gauging how the new intake handles the spectacle. |
 | **[[celia-vance|Celia Vance]]** | **Gilded Zephyrs** (VIP) | **Incognito** | *None* | Managing logistics via a hand-held terminal. She’s effectively running the event from the air. |
 
@@ -199,7 +208,7 @@ The basin is a living ecosystem of agendas. Use this table as a "sandbox" for pl
 As the PCs move through the tiers or look through their binoculars:
 
 1. **The Theorist's Crowd:** The PCs hear a familiar, high-pitched voice. **[[percival-vane-smythe-iii|Percy]]** is standing on a bench in the South Bleachers, cornering a confused freshman. *"But don't you see? The way the gryphon banks—it's drawing from a latent Aero-Static field that shouldn't exist! There's an Air Clan, I tell you!"*
-2. **The Safety Hazard:** On the walk to their seats, the PCs are nearly knocked over by a "staff member" moving quickly. It's **[[sarge|Sarge]]**, swearing under his breath about the "total lack of structural redundancy on these temporary bleachers." 
+2. **The Safety Hazard:** If the PCs are on the Rim-Tracker, the open-air car has a problem. A "staff member" in a generic uniform is crouched at the undercarriage access panel, muttering about cable tension. It's **[[sarge|Sarge]]**. He has been riding this loop since before the gates opened. *"Fourteen tons of live passengers on a loop track and they used grade-four mounting bolts. Grade. Four."* He won't stop riding until he's satisfied, which means he won't stop riding.
 3. **The Silent Watcher:** If the PCs use binoculars to scan the Rim-Tracker, they might spot **[[nyx|Nyx]]**. She isn't cheering; she's timing the rigs with a mechanical stopwatch. If she catches them looking, she simply pulls her hood lower and moves to the next car.
 4. **The Merchant of Hype:** **[[lucky|Lucky]]** tried to sell them a "Shatter Stamper" flag five minutes ago. Now, he's sprinted around the rim and is trying to sell them a "Pudge" flag because they just hit a major node. *"Buy low! Buy low! Shatter's losing connection, Pudge is the new hotness!"*
 5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatius|Ignatius]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
@@ -250,6 +259,120 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 - This is a **montage scene**, not a mechanical encounter. 10–15 minutes of vivid description and crowd reaction.
 - Give each PC **one moment** anchored to their character — see the hook sections below.
 - The race sets up future threads: the Ash-Blood data mystery, the Pudge controversy, the Captains watching from the Zephyrs.
+
+---
+
+### Race Montage — Scene by Scene
+
+Use the beats below to run the race as a montage. Each one is a GM-read description that can be delivered in 30–60 seconds, with player reaction space after. Pick 4–5. The [[circuit-run-simulation|full simulation]] has the mechanical detail if you need it.
+
+---
+
+**OPENING — Before the First Horn**
+
+> The Walker-Core stands at the southern mouth of the basin, its forward gantry arm extended over the rim edge. The cradle line holds twelve rigs in certification position — Stinger's hover-bike nearly invisible beside Goliath's three-storey hull. Pudge's gryphon-hybrid drops a wing to catch a thermal rising off the warm stone, then settles.
+>
+> The Apex Ring holds half a million people. Right now, none of them are making a sound.
+>
+> *The first horn fires.*
+
+---
+
+**HORN 1 — T+0 — The Drop**
+
+> The Walker-Core walks them one by one to the rim edge — positions them — releases. They fall.
+>
+> Goliath lands with a concussive thud felt through the stone steps. Stinger clips around the pressure wave and vanishes into the Petrified Forest at speed — the crowd *inhales* as one unit.
+>
+> Pudge doesn't go south. The gryphon-hybrid catches the rim thermal and banks north, alone, into the volcanic flat. The Timon glass follows the field south into the forest. The north arc stays empty.
+
+*PC beat: [[lomi|Lomi]] — the Walker-Core gantry is reading something from each rig during the cradle contact. Two seconds per rig, exactly. Every rig.*
+
+---
+
+**BETWEEN HORN 1 AND HORN 2 (~T+20) — The Sort**
+
+> The Petrified Forest is chaos. Three teams inside it, two fighting for the estuary channel, Marble Wall not racing — hunting. They've had Stinger cornered twice. Stinger keeps slipping.
+>
+> The scoreboard: mid-basin rigs starting to flip LEDs. Shatter Stamper at three red-to-green. Dancer & Fabian at one.
+>
+> North arc: two red lights. Just circling.
+
+*PC beat: [[iggy|Iggy]] — if he asks anyone what Pudge is doing, Kante's line is: "Watch what happens to the north arc after Horn 2."*
+
+---
+
+**HORN 2 — T+40 — The Pulse**
+
+> The second horn fires. New spires erupt across the basin — you see their light before you hear the crowd respond to it. The Feltland node in the estuary channel pulses green. Two seconds later: the Glass-Sail hits it. Dancer & Fabian's scoreboard flips to double-green. First team eligible. The crowd that was watching Shatter Stamper suddenly isn't.
+>
+> Lucky sprints. Direction: away from where he was just standing, toward wherever you are now, with a different set of flags.
+
+*PC beat: [[britt|Britt]] / [[aggie|Aggie]] — the Feltland node that just flipped: that's Mizizi terrain. They recognised the synth-stone from the bleachers. The sync animation is almost right.*
+
+---
+
+**BETWEEN HORN 2 AND HORN 3 (~T+60) — The Wait**
+
+> The Timon glass has been avoiding the north for twenty minutes. There's nothing to show. Pudge is making slow banking passes over the volcanic flat — the Umber Crystal arc behind them is depleting with each circuit. Two red lights. Still.
+>
+> Someone in the east bleachers starts a slow clap. It does not catch on.
+>
+> On the Research Deck: one of Kante's students is showing a notebook calculation to the person next to them. Their expression is not encouraging.
+
+*PC beat: anyone with binoculars or in the Timon car — they can see Kante on the Research Deck. He has not moved. He is not watching the students. He is watching the north arc.*
+
+---
+
+**HORN 3 — T+80 — Gold**
+
+> The third horn fires.
+>
+> *Then a second horn — longer, lower.*
+>
+> The Convergence Horn.
+>
+> The north arc on the Apex Compass goes **gold**.
+>
+> The Gilded Chime Spire has erupted from the volcanic flat — brass columns, audible as musical tones across the full basin. The most valuable node in the race. The Timon glass cuts north for the first time.
+>
+> Pudge is already there. Not banking toward it. Not descending. *Already at activation range.* Prong extended.
+>
+> The east bleachers go quiet.
+>
+> Someone nearby says it, loud enough for a row to hear:
+> *"That's not luck."*
+
+---
+
+**THE GRAND RESONATOR — End**
+
+> Pudge reaches the Grand Resonator. The Harvest-Prong makes contact from altitude — the gryphon holding position as the arm extends beneath it.
+>
+> The Resonator discharges.
+>
+> A pillar of light from the dead centre of the basin — white-purple, impossibly bright, felt in the chest like a second heartbeat. The crowd erupts. Half a million people at once.
+>
+> Dancer & Fabian's Glass-Sail is somewhere in the east canyon approach. They were eligible. They were close.
+>
+> Lucky has a Pudge flag. He always had a Pudge flag.
+
+---
+
+### NPC Viewing Hooks — How to Reach Them
+
+Players can seek NPCs out, stumble into them, or get invited up. Use these as access routes.
+
+| Who | Where | How PCs Can Reach Them |
+|---|---|---|
+| **[[valentine-sterling\|Valentine Sterling]]** | Gilded Zephyrs | Has a standing invitation to bring "useful company." Any PC he's taken a genuine interest in can be invited up — the Zephyr has room. |
+| **[[professor-kante\|Kante]]** | Research Deck (North Rim) | Faculty access only — but Kante will send word for [[iggy\|Iggy]] before the race if they've interacted. |
+| **[[professor-ink\|Professor Ink]]** | Rim-Tracker Car 4 (Non-Timon) | Reachable with a Trolley Token. He'll barely notice the PCs unless they ask about the terrain. |
+| **[[nyx\|Nyx]]** | Rim-Tracker Car 5 (Open-Air) | Reachable with a Trolley Token. She'll acknowledge PCs she's assessed. She's timing, not socializing. |
+| **[[hesperus\|Hesperus]]** | Rim-Tracker Car 2 (Timon Car) | Will not invite, but will make room. She's watching the crowd more than the race — she'll notice if a PC is watching the right things. |
+| **[[sarge\|Sarge]]** | Rim-Tracker Car 6 (Open-Air, Undercarriage) | Just get a Trolley Token. He'll be too busy with the cable bolts to notice anyone joining, until he finally looks up. |
+| **[[lucky\|Lucky]]** | Bleacher-Walls (West Rim, then everywhere) | No access required. He will find them. |
+| **[[cinder-4\|Cinder-4]]** | Bleacher-Walls (West Rim, outside the glass section) | Just walk over. They won't initiate conversation. If an Ash-Blood PC stands next to them and says nothing at all, that's enough. |
 
 ---
 
