@@ -5,123 +5,149 @@ description: Add a new character profile (PC or NPC)
 # Add Character Profile
 
 Use this workflow to create a new player character or NPC profile.
+There are two modes: **Stub** (minimal, for live-session reveals) and **Full** (after session, with transcript details).
 
-## Prerequisites
+---
+
+## Mode A — NPC Stub (live session or prep)
+
+Use this when an NPC is about to appear and you want them in Foundry with just a name and portrait — no detailed write-up yet.
+
+**What you need:** Name, session number, portrait image (if available)
+
+### Steps
+
+1. **Create the minimal file**
+
+   Filename: `characters/npcs/[kebab-name].md` (lowercase, hyphens)
+
+   ```markdown
+   # [Character Name]
+
+   | | |
+   |---|---|
+   | **Role** | [1–3 words, e.g. "Maintenance Worker"] |
+   | **First Appearance** | [[session-N\|Session N]] |
+   ```
+
+   That's the minimum. The `First Appearance` tag is the only field `build_codex.py` needs to include this NPC.
+
+2. **Add a portrait** (optional but recommended)
+
+   - Save the image to `meta/foundry-exports/portraits/[slugified_name]_portrait.png`
+   - Slug rule: lowercase → remove quotes/punctuation → spaces to underscores
+     - "Professor Kante" → `professor_kante_portrait.png`
+     - `Seraphina "Serra" Vox` → `seraphina_serra_vox_portrait.png`
+   - Any resolution is fine — the build script auto-compresses to ~40 KB JPEG
+
+3. **Rebuild and import**
+
+   ```bash
+   cd vumbua/meta/foundry-exports
+   python build_codex.py          # full rebuild
+   # or
+   python build_codex.py N        # delta — only session N page + new NPCs
+   ```
+
+   Copy `vumbua-codex.json` → paste into the Foundry macro.
+
+4. **Fill in the profile later** using Mode B below after the session.
+
+---
+
+## Mode B — Full Profile (post-session)
+
+Use this after a session when you have transcript details.
+
+### Prerequisites
 - Character name and type (PC or NPC)
 - Session(s) where they appeared
-- Read `.agent/workflows/lore-index.md` to check if a profile already exists
+- Check `characters/npcs/` — if a stub already exists, update it instead of creating a new file
 
-## Steps
+### Steps
 
 1. **Check for existing profile**
-   - Search `characters/npcs/` for NPCs
-   - Search `characters/player-characters/` for PCs
-   - If profile exists, update it instead of creating a new one
+   - Search `characters/npcs/` for NPCs; `characters/player-characters/` for PCs
+   - If a stub exists from Mode A, add to it — never overwrite
 
-2. **Determine character type and location**
-   - Player Character → `characters/player-characters/`
-   - NPC → `characters/npcs/`
-
-3. **Create the character file**
-   - Filename: lowercase with hyphens (e.g., `lady-ignis.md`)
-   // turbo
-   - Use the template structure below
-
-4. **Fill in the profile**
+2. **Fill in the profile using the template**
 
    > **CORE RULE: Never hallucinate.** Only include details explicitly stated in session transcripts or GM narration. If a field is unknown, leave it blank or write "Unknown".
    >
-   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries alongside old ones — never overwrite earlier descriptions. A character's journey and growth should be visible over time.
-   >
-   > **Truth tiers (RAG safety):**
-   > - **transcript**: said/seen in-session (highest confidence)
-   > - **gm-narration**: narrated by GM but not yet known to PCs (still canon, but hidden)
-   > - **gm-plan**: prep/rosters/intent (not yet occurred in-session)
-   >
-   > **Squads/Teams rule:** Do not state that a squad/team has been formed unless it happened in-session. If you track planned rosters, label them as `gm-plan`.
+   > **CORE RULE: Add, don't replace.** When updating an existing profile with new session info, ADD new entries — never overwrite earlier descriptions.
 
-   Use this template:
    ```markdown
-   ---
-   aliases: []
-   tags: []
-   canon: transcript # transcript | gm-narration | gm-plan | legacy
-   reveal: players # players | gm
-   ---
-
    # [Character Name]
 
    > *"Signature quote if available"*
 
-   ## Overview
-
    | | |
    |---|---|
    | **Origin** | [Clan/Faction/Location] |
-   | **Rank** | [If applicable] |
-   | **Affiliation** | [Current role/group] |
-   | **First Appearance** | [Session N] |
+   | **Role** | [Role at time of first appearance] |
+   | **Affiliation** | [Current group/faction] |
+   | **First Appearance** | [[session-N\|Session N]] |
 
-   ## GM Description
-   [Physical description and details as narrated by the GM. Only include what the DM actually said.]
+   ## Overview
+   [2–3 sentences: who they are, what the players know. Player-facing only.]
 
    ## Personality
-   [Key traits and behavior as demonstrated in sessions]
-
-   ## Background
-   [Origin story and relevant history — only confirmed details]
+   [Key traits as demonstrated in sessions — no speculation]
 
    ## Session Appearances
    ### Session N
-   - [What happened with this character]
+   - [What happened with this character this session]
 
    ## Relationships
    | Character | Relationship |
    |-----------|-------------|
-   | **Name** | Description |
+   | **[[Name]]** | Description |
+
+   ## Source References
+   - **[[session-N\|Session N]]** — [scene context]
 
    ---
 
-   ## GM Narration [NOT YET REVEALED TO PLAYERS]
+   ## GM Narration
 
    > [!warning]-
-   > The following information has been narrated by the GM but is not known to the player characters.
+   > The following information is not known to the player characters.
 
-   [Secret information, plot hooks, future plans — only from GM narration, never invented]
+   [Secret details, hidden motivations, future plot hooks — GM only]
    ```
 
-5. **Update the character index**
-   - Add entry to `characters/index.md`
-   - Place in appropriate section (Students, Staff, Notable Figures)
+3. **Update the character index**
+   - Add entry to `characters/index.md` under the appropriate section
 
-6. **Cross-reference**
+4. **Cross-reference**
    - Link from any clan/faction pages if relevant
-   - Update session recap if they appeared in one
+   - Update `characters/index.md` with the new NPC
 
-7. **Update lore-index**
-   - Add the new character to `.agent/workflows/lore-index.md` canonical spellings and character reference
+5. **Update lore-index**
+   - Add the new character to `.agent/workflows/lore-index.md` canonical spellings
 
-8. **Commit changes**
-   ```bash
-   git add characters/
-   git commit -m "Add [Character Name] profile"
-   git push
-   ```
+6. **Rebuild Foundry export** (see `update-foundry-journals.md`)
 
-9. **Update changelog**
-   - Append to `CHANGELOG.md` under today's date
-   - Bullet: character added/updated, file path
+---
 
-10. **Optional: Rapid Foundry Export (Live Session or Prep)**
-    - If establishing the character for immediate use in Foundry VTT:
-    - 1) Use the `generate_image` tool to create a portrait and save it to `meta/foundry-exports/portraits/[character_name].png`.
-    - 2) Update `meta/foundry-exports/build_codex.py` to add their new `page` object under the `NPCs` category (ensure it uses `portraits/[name]` for the image).
-    - 3) Run `python build_codex.py` to regenerate the `vumbua-codex.json`.
-    - 4) Notify the user that the codex is updated and they can run the Foundry macro to pull the card in live!
-    - *Planning Note:* When writing session plans, you can add callouts (e.g., `> [!macro] Run Foundry Export macro for [NPC Name]`) to remind the GM to trigger the macro precisely when the NPC first appears.
+## Spoiler safety rules for character profiles
 
-## File Locations
-- Player Characters: `characters/player-characters/`
-- NPCs: `characters/npcs/`
-- Character Index: `characters/index.md`
-- Lore Index: `.agent/workflows/lore-index.md`
+| Section heading | Stripped by pipeline? |
+|---|---|
+| `## Overview`, `## Personality`, `## Relationships`, `## Session Appearances`, `## Source References` | **Included** — player-facing |
+| `## GM Narration`, `## GM Notes`, `## GM Description`, `## Secret`, `## Hidden` | **Stripped** — never reaches players |
+| `> [!warning]-` callout blocks | **Stripped** |
+
+Never put hidden information in a player-facing section. If it's in `## Overview`, players will see it.
+
+---
+
+## File locations
+
+| Type | Location |
+|---|---|
+| Player Characters | `characters/player-characters/` |
+| NPCs | `characters/npcs/` |
+| Portrait sources | `meta/foundry-exports/portraits/` |
+| Character index | `characters/index.md` |
+| Lore reference | `.agent/workflows/lore-index.md` |
