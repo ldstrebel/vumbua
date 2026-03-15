@@ -4,172 +4,265 @@ description: Add a new session recap after gameplay
 
 # Add New Session
 
-Use this workflow after each game session to properly document what happened.
+Use this workflow after each game session to document what happened, update the vault, and prepare the Foundry export.
+
+---
+
+## Mandatory pause points (do not skip)
+
+The AI must stop and wait for user confirmation at three points:
+1. **After the Session Delta** — confirm new NPC list and canonical names before creating files
+2. **After drafting the `sessions/index.md` prose summary** — user reviews the player-facing text before it goes into Foundry
+3. **After generating portraits** — user approves or requests regeneration before the rebuild
+
+---
 
 ## Prerequisites
-- Raw transcript or notes from the session (placed in `sessions/transcripts/raw/sN-raw.md`)
-- Know which session number this is
-- Read `.agent/workflows/lore-index.md` first to orient on canonical spellings and existing characters
 
-## Steps
+- Raw transcript at `sessions/transcripts/raw/sN-raw.md` (Granola, Otter, manual notes — any format)
+- Know the session number
+- DO NOT start until the raw transcript file exists
 
-1. **Determine the session number**
-   - Check `sessions/transcripts/clean/` for the last session number
-   - New session will be N+1
+---
 
-2. **Cross-Reference and Gather Context (CRITICAL STEP)**
-   - Read the `.agent/workflows/lore-index.md` canonical spellings section first.
-   - Read the corresponding session plan (if one exists) located in `sessions/planning/` or `sessions/planning/old/` to understand the *intended* narrative and character mappings before reading the raw transcript.
-   - Example: If reading Session 3 raw transcript, first read `Session 3 Plan.md` to know who the antagonists were supposed to be (e.g., Azor and Zyykl, not "Azer" and "Nickel").
+## Step 1 — Orient: read context files
 
-3. **Review the raw transcript file**
-   - Located at `sessions/transcripts/raw/sN-raw.md`
-   - If it doesn't exist, ask the user to provide one
-   - **Check for alternate versions**: Look for other transcript files (e.g., `sN-granola.md`, `sessionN-alt.md`) in the transcripts folder. If multiple versions exist, cross-reference them — one may have more faithful dialogue while another has better structure.
+Read these before touching anything:
 
-4. **Create the cleaned session file**
-   // turbo
-   - Create `sessions/transcripts/clean/session-NN.md`
-   - Use the structure of the most recent cleaned session in `sessions/transcripts/clean/` as your template
-   - Fill in the header information (date, players present)
+1. **`.agent/workflows/lore-index.md`** — canonical spellings, recent session delta
+   - Note: this file may be stale. Cross-check its "Last Updated" against the clean transcripts in `sessions/transcripts/clean/`. If stale, treat it as a reference only — verify against actual NPC files.
+2. **`sessions/planning/sN-plan.md`** (or `sessions/planning/old/`) — the intended session plan. Read this BEFORE the raw transcript so you know canonical NPC names and planned events.
+3. **`characters/index.md`** — existing characters, to distinguish new NPCs from known ones
 
-4.5. **Pre-scan: Build entity lists from transcript**
-   - Scan the entire transcript for all entities mentioned:
-     - NPCs (name + first mention line)
-     - Locations
-     - Factions
-     - Terms/concepts
-   - Cross-reference against `.agent/workflows/lore-index.md`, `characters/index.md`, and the **Session Plan** to identify **NEW vs EXISTING** entities and ensure **canonical names** are used (e.g., if the transcript says "Nickel" but the plan says "Zyykl," use "Zyykl").
-   - Produce a **Session Delta** block in this exact format (copy it into both the cleaned transcript header and `.agent/workflows/lore-index.md`):
+---
 
+## Step 2 — Session number and file check
+
+- List files in `sessions/transcripts/clean/` to confirm the highest session number
+- Check for multiple raw files (e.g., `sN-raw.md`, `sN-granola.md`, `sN-alt.md`) — if multiple exist, read all and cross-reference
+- Confirm the session number with the user if anything is ambiguous
+
+---
+
+## Step 3 — Pre-scan: build the Session Delta
+
+Read the raw transcript and produce a Session Delta before writing anything else. Output this to the user and **wait for confirmation** before creating any files.
+
+```markdown
+## Session Delta (Session N: [draft title — user will confirm])
+
+### Proposed canonical title
+- Draft: "Session N — [Subtitle]"
+- If you can't determine a natural title from the transcript, say so.
+
+### New NPCs (need file creation)
+- [Name as heard in transcript] → proposed canonical name: [Name] — [1-line role]
+- ⚠ Flag any where you're uncertain: "Is 'the harbor woman' a new NPC or an existing one?"
+
+### Existing NPCs with new appearances
+- [[Name]] — what happened this session
+
+### New locations
+- [Name] — brief description
+
+### New terms / lore
+- [Term] — brief description
+
+### Player Knowledge Changes
+- ✅ [What players now know]
+- ❌ [What players explicitly do NOT know yet — keep out of player-facing sections]
+
+### Transcript issues to flag
+- ⚠ Uncertain speaker attributions
+- ⚠ Potential transcription errors
+- ⚠ Any lines that appear to be OOC but formatted as IC
+```
+
+**Wait for user confirmation on:**
+- The session title
+- The new NPC list — are these all genuinely new characters?
+- Any names where the transcript and session plan disagree
+
+---
+
+## Step 4 — Create the clean transcript
+
+**Filename:** `sessions/transcripts/clean/sN-clean.md` — e.g., `s5-clean.md`
+(The build script requires this exact pattern. `session-05.md` will be silently ignored.)
+
+**YAML front matter:**
+```yaml
+---
+title: "Session N: [Confirmed Title]"
+date: YYYY-MM-DD
+campaign: Vumbua
+status: cleanup-complete
+---
+```
+
+**Structure — choose based on session content:**
+- If the session has discrete scenes with GM narration blocks → use `## Play-by-Play → ### Scene Name` format (like s3-clean.md)
+- If the session has clear narrative phases/chapters → use `## Part N: Name` format (like s4-clean.md)
+- Either way, start with the Session Delta block from Step 3
+
+**Content rules:**
+- ✅ Preserve every story-relevant detail — this is organization, not summarization
+- ✅ Label speakers: `**[[Character Name]] (PC):**` or `**[[NPC Name]]:**`
+- ✅ Use character names for IC dialogue, player names for OOC dialogue
+- ✅ Fix transcription errors at 99% confidence only; note every correction made
+- ✅ Correct to canonical spellings from lore-index (e.g., "Lasidian" → "lavsidian")
+- ❌ Never summarize, compress, or skip dialogue
+- ❌ Never add details not in the transcript
+- ❌ Never smooth PC dialect or NPC speech quirks (Iggy's dropped letters, Kante's broken English — these are intentional)
+- ❌ Never present OOC player thinking as IC character dialogue
+
+**GM voice handling:**
+- GM narration blocks → `*GM Narration:*` in italics, or format as `**GM (LUKE S):**`
+- GM interjections inside scene prose (e.g., `"the GM notes..."`) → remove or move to a `**GM Notes:**` line immediately after the relevant passage
+- Never leave bare `"the GM notes..."` fragments inside continuous narrative prose — the spoiler filter only strips heading-level sections, not inline text
+
+**Speaker attribution pitfalls:**
+- The GM often speaks AS an NPC, then immediately switches to narration — don't attribute narration to the NPC
+- When uncertain, write `**[UNIDENTIFIED NPC]:** "[line]" [review needed]` — do not default-assign to a character
+- Re-read 5 lines before/after any correction to make sure you haven't orphaned adjacent dialogue
+
+**Failure states (learned from past sessions):**
+1. **Smoothing PC dialect** — Iggy's `"'S nice to meet ya"`, `"'course"`, `"nime"` are character voice. Do not standardize.
+2. **Smoothing NPC voice** — Kante's `"What do you like, know?"` is deliberate. Do not "fix" it.
+3. **Swapping attribution** — `"Your home sounds like a very hard place to live"` was Kante, not Iggy. Context matters.
+4. **OOC as IC** — Holly brainstorming what Iggy would say ≠ Iggy saying it.
+5. **Deleting exchanges while fixing** — when editing one line, re-read surrounding 10 lines.
+6. **Asking about canonical names** — always check `characters/npcs/` before asking the user.
+
+---
+
+## Step 5 — Update `sessions/index.md`
+
+Add the new session entry at the bottom of the current arc section, following this exact format:
+
+```markdown
+---
+
+### [[Session 0N|Session N: Confirmed Title]]
+**Date:** YYYY-MM-DD
+
+[2–4 sentences of narrative prose. PLAYER-FACING: write as if a player is reading a recap of what their characters experienced. Past tense. Third person. No GM voice ("the GM reveals...", "players discover..."). No spoilers. No future tense. This paragraph is exactly what appears in Foundry's Chronicle journal.]
+
+**Key Events:**
+- [bullet list of what happened]
+- [use [[wikilinks]] for named characters and locations]
+
+**Players Discovered:**
+- [factual things the players now know — only confirmed in-session discoveries]
+```
+
+**Session ID padding rule for the wikilink:**
+- Session 5 → `[[Session 05|Session 5: Title]]`
+- Session 10 → `[[Session 10|Session 10: Title]]`
+- Session 2.5 → `[[Session 02Pt5|Session 2.5: Title]]`
+
+**Pause here** — show the user the prose paragraph before continuing. This is the text that appears in Foundry. Ask: *"Does this look right for what players should see?"*
+
+---
+
+## Step 6 — Create/update NPC files
+
+For each **new** NPC confirmed in Step 3:
+
+1. Check `characters/npcs/` — if a stub already exists, update it. Never create a duplicate.
+2. Create `characters/npcs/[kebab-name].md` using the template in `add-character.md`
+3. The minimum for Foundry inclusion:
    ```markdown
-   ## Session Delta (Session NN: <Title>)
+   # [Name]
 
-   ### New / First-Mentioned Entities
-   - NPC: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-   - Location: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-   - Term: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-
-   ### Updated Entity Pages
-   - [[Name]] — add/update “Session Appearances” (and “Source References” if you maintain curated sources)
-
-   ### Player Knowledge Changes
-   - Knowledge Tracker: ✅/❌ <bullet>
-
-   ### Truth / Provenance Notes
-   - If something is **GM planning** (not spoken in-session), tag it as `gm-plan` and keep it out of “What Players Know”.
+   | | |
+   |---|---|
+   | **Role** | [1–3 words] |
+   | **First Appearance** | [[session-N\|Session N]] |
    ```
+4. Add more detail from the transcript (GM description, dialogue, relationships)
+5. Put anything the players don't know under `## GM Narration` with a `> [!warning]-` callout
 
-   - This delta is what future “diff-based” runs should rely on; it makes updates fast and bounded.
+For **existing** NPCs with new session appearances:
+- Add a `### Session N` entry to their `## Session Appearances` section
+- Never overwrite earlier entries — always append
 
-5. **Extract and organize scenes from the transcript**
+Update `characters/index.md` for any new NPCs added.
 
-   > **CORE RULE: Zero detail loss.** This step is about *organizing* the transcript into a readable screenplay format, NOT summarizing. Every story-relevant detail must be preserved.
+---
 
-   **Cross-Referencing Check (CRITICAL)**: Before finalizing a scene, double-check the events against the Session Plan. If the plan says X happened but the transcript says Y, document Y, but ensure you aren't misinterpreting the transcript due to bad audio/transcription errors (e.g., mistaking the item a character fought over). Use your logic.
+## Step 7 — Portraits for new NPCs
 
-   **Scene Structure:**
-   - Identify major scene breaks (location changes, time jumps, significant topic shifts)
-   - For each scene, document:
-     - Scene heading with location and who is present
-     - **GM Narration**: Everything the DM says as narrator — descriptions, world-building, scene-setting. Preserve verbatim
-     - **NPC Dialogue**: Only attribute to a specific NPC if you are **99% confident** based on context. Otherwise tag as `[NPC - UNIDENTIFIED, review needed]`
-     - **PC Dialogue**: Attribute to the character
-     - **Player Discoveries**: Bullet list of what was learned
-     - Key events and actions
+For each new NPC without a portrait:
+1. Check `meta/foundry-exports/portraits/` for `[snake_name]_portrait.png`
+2. If missing, generate using the AI image tool
+3. **Portrait style guidance:** match the style of existing portraits in `meta/foundry-exports/portraits/` — they are painterly fantasy character illustrations with muted/warm tones
+4. Filename must be: `[snake_case_name]_portrait.png` — slugify rule: lowercase, strip all quotes/punctuation, spaces → underscores
+   - "Professor Kante" → `professor_kante_portrait.png`
+   - `Seraphina "Serra" Vox` → `seraphina_serra_vox_portrait.png`
 
-   **Speaker Attribution Rules:**
-   - Use **character name** ([[Iggy]], [[Britt]], [[Ignatius]], etc.) when speaking **in-character**
-   - Use **player name** (Holly, Sophie, John, etc.) when speaking **out-of-character**
-   - Determine IC vs OOC from context (tone, content, GM responses)
-   - When uncertain, default to character name and flag for review
+**Pause here** — show generated portraits to user. Ask: *"Do these portraits work, or should I regenerate any?"* Do not proceed to rebuild until confirmed.
 
-   **Cleanup Rules:**
-   - ✅ **Fix**: Obvious transcription errors (99% confidence you know the correct word based on lore context)
-   - ✅ **Fix**: Canonical spelling corrections per `lore-index.md` (e.g., "Lasidian" → "lavsidian")
-   - ✅ **Organize**: Break into scenes, label speakers, format as screenplay
-   - ✅ **Enrich**: After formatting, do a second pass reviewing the raw transcript specifically for "high-confidence quotes", great one-liners, and dynamic "action verbs" to increase narrative richness and detail (aim for the standard of `session-02.md`).
-   - ❌ **Never**: Summarize, compress, or skip dialogue
-   - ❌ **Never**: Add descriptions or details not in the transcript (no hallucination)
-   - ❌ **Never**: Change character voices, word choices, or story details
-   - 🚨 **FAILURE STATE — Overwriting history**: When updating character profiles, lore pages, or knowledge trackers with new session info, **ADD** new entries — never replace or overwrite earlier descriptions. A character's journey should be visible over time. If Iggy was described as "an infiltrator" in Session 1 notes but Session 2.5 reveals he's "genuinely trying to help his people," add the new understanding alongside the old — don't delete the original framing. Session canon is always additive.
-   - 🚨 **FAILURE STATE — PC Dialect**: Never normalize or clean up in-character dialect. If Holly says `"I dunno"`, `"'course"`, `"nothin'"`, `"t'day"` — that IS Iggy's voice. Smoothing dialect into standard English destroys the player's character work. Preserve dropped letters, contractions, and accent exactly as spoken.
-   - 🚨 **FAILURE STATE — NPC Voice**: NPC speech quirks are equally sacred. If [[Professor Kante]] says `"What do you like, know?"` or `"I am most apologetic"` — that is his broken-English character voice, NOT a transcription error. The GM chose those phrasings deliberately. Never smooth NPC dialogue into grammatically correct English.
-   - ❌ **Never**: Present OOC player thoughts as IC dialogue. If Holly is *thinking out loud* about what Iggy might feel or ask (as a player brainstorming), that is OOC and should be formatted as `> **Holly (OOC):**`. Only attribute dialogue to Iggy if she is *performing* as him.
-   - ❓ **Tag for review**: Ambiguous NPC names, unclear speaker attribution, uncertain corrections
+---
 
-   **NPC Handling:**
-   - Index every NPC that appears or is mentioned
-   - Record any GM description of an NPC verbatim as "GM Description"
-   - If an NPC is new (not in `lore-index.md`), flag them for character creation in step 6
-   - Never invent NPC details — only record what the DM actually says
-   - **Always check existing NPC files** before asking the user about canonical names or details. If `professor-kante.md` already exists, never ask "is Kante canonical?" — just read the file
+## Step 8 — Update supporting docs
 
-   **Speaker Attribution Pitfalls:**
-   - Raw transcripts mash speakers together with no labels — slow down and parse who is talking
-   - The GM often says a line *as an NPC*, then immediately follows with narration; don't attribute narration to the NPC
-   - When the GM says a line like `"Got an interesting thing going on over here"` — determine if this is the NPC speaking or the GM describing what the PC sees. Context clues: does the next line respond to it? Is the GM still doing scene description?
-   - When fixing one line of dialogue, re-read the surrounding 5-10 lines to make sure you didn't accidentally delete or orphan adjacent exchanges
+Use the Session Delta from Step 3 to drive updates. Only touch pages listed in the delta.
 
-6. **Update the session index and "What Actually Happened"**
-   - Add an entry to `sessions/index.md`
-   - Include 2-3 sentence summary
-   - List key events and player discoveries
-   - **Update the Session Plan**: Go to the original session plan (e.g., `sessions/planning/old/Session 3 Plan.md`) and append a `## What Actually Happened` section at the bottom, summarizing the deviations and actual outcomes.
-   - If new NPCs/PCs were introduced, run `/add-character` and update `characters/index.md`. Ensure that when updating `.agent/workflows/lore-index.md`, you completely remove any misspelled/placeholder names from the transcript (like "Azer") and replace them entirely with the canonical name.
+- **`knowledge-tracker.md`** — add new player discoveries
+- **`timeline.md`** — add session events
+- **`lore-index.md`** — update the "Last Session Delta" block with the new session's delta; add new canonical spellings; update "Last Updated" line
 
-7. **Update related documentation**
-   - Use the **Session Delta** block to drive updates (update only the pages listed there; avoid broad repo-wide edits)
-   - Run `/add-character` for any new NPCs introduced (flagged in step 3.5)
-   - Update `knowledge-tracker.md` with new discoveries
-   - Update `timeline.md` with session events
-   - Update character profiles and location files directly if significant events occurred (don't just link them, summarize the new lore).
-   - Update `lore-index.md` with the Session Delta, new entities, spellings, and session status
-   - If you need to capture GM-prep that did not occur in-session, place it under a clearly-labeled **GM Plan** section and tag it as `gm-plan`
+For any existing lore or location pages that were significantly changed by this session's events, update them directly — don't just add a link.
 
-7.5. **Set up the NEXT Session**
-   - Create or update the *next* session's plan (e.g., `sessions/planning/session N+1 plan.md`).
-   - Document what the party was preparing or planning to do at the very end of the current session to ensure strong continuity.
+---
 
-7.6. **Draft the Radio Recap Script**
-   - Create `meta/radio-scripts/session-N-recap.md`.
-   - Collaborate with the user to select featured NPCs (e.g., Captains) to interview or highlight.
-   - **Crucial:** Always read the dedicated NPC dossiers (e.g., `characters/npcs/[name].md`) to accurately capture their voice, goals, and dynamic with the radio host before drafting.
+## Step 9 — Rebuild the Foundry codex
 
-8. **Commit changes**
-   ```bash
-   git add .
-   git commit -m "docs: Add Session N recap and related updates"
-   ```
+**When to use delta vs full:**
+- **Delta** (`python build_codex.py N`) — if only new NPCs were added and existing NPC pages didn't change. Smaller JSON, faster.
+- **Full** (`python build_codex.py`) — if existing NPC or location pages were updated, or if you changed `sessions/index.md` prose for any earlier session.
 
-9. **Update changelog**
-   - Append to `CHANGELOG.md` under today's date
-   - Bullet: session processed, key files updated
+```bash
+cd vumbua/meta/foundry-exports
+python build_codex.py N    # replace N with session number
+# or
+python build_codex.py      # full rebuild
+```
 
-## File Locations
-- Raw transcripts: `sessions/transcripts/raw/sN-raw.md`
-- Cleaned sessions: `sessions/transcripts/clean/session-NN.md`
-- Lore index (AI reference): `.agent/workflows/lore-index.md`
-- Session Plans: `sessions/planning/` or `sessions/planning/old/`
+Verify the output: all new pages should print `✓`. Any `✗` indicates a missing file.
 
-## Common Mistakes (learned from Session 2.5 and Session 3)
+Tell the user: *"Ready — `vumbua-codex.json` is built. Paste it into the Foundry macro to import."*
 
-These are real errors that were made and corrected. Do not repeat them:
+---
 
-1. **Smoothing PC dialect** — [[Iggy]]'s `"Nime"` was rewritten as `"(doesn't really answer properly)"`, his `"'S nice to meet ya"` became `"Just looking"`, etc. Every contraction, dropped letter, and accent marker is intentional character work.
+## Step 10 — Verify the next session plan
 
-2. **Smoothing NPC voice** — Kante's fumbled phrasing `"What do you like, know?"` was "corrected" to `"What do you know?"`. His broken English is his character.
+Check whether `sessions/planning/sN+1-plan.md` exists.
+- If it exists → do not touch it (don't overwrite prep the GM has already done)
+- If it doesn't exist → create a stub noting what the party was doing at session end and any obvious hooks
 
-3. **Swapping speaker attribution** — `"Your home sounds like a very hard place to live"` was attributed to Iggy (deadpan) when it was actually Kante (deadpan). Raw transcripts don't label speakers — you must infer from context and get it right.
+---
 
-4. **Presenting OOC as IC** — Holly thinking out loud about the Exchange (`"If connection is so important, why does the Exchange force people to forget?"`) was formatted as an Iggy IC line. It was Holly brainstorming OOC.
+## What NOT to do in this workflow
 
-5. **Deleting exchanges during fixes** — When fixing Iggy's opening dialect, the entire Kante/Iggy student exchange (`"Are you a student here?"` / `"That is what I have been told"`) was accidentally removed.
+- ❌ Do not draft the radio recap — that's a separate `/radio-recap` workflow
+- ❌ Do not run `git commit` — version control is handled automatically
+- ❌ Do not update `sessions/index.md` with GM-only information
+- ❌ Do not create `session-NN.md` — it must be `sN-clean.md`
 
-6. **Asking about canonical names** — Asked the user if "Kante" was canonical when `professor-kante.md` already existed in the NPC files. Always check existing files first.
+---
 
-7. **Failing to Cross-Reference the Session Plan** — (Session 3 error) Failing to read the `Session 3 Plan.md` before processing the transcript, leading to the creation of NPCs with misspelled transcript names ("Azer" and "Nickel") instead of the canonical names already established in the plan ("Azor" and "Zyykl"). **Always read the plan first.**
+## File locations
 
-8. **Missing Key Items/Details** — (Session 3 error) Misidentifying a crucial heirloom (a petrified acorn necklace) as a pocket watch because of a quick skim. **Read carefully, cross-reference, and ensure logical consistency in the narrative.**
-
-9. **Name Confusion & Title Assumptions** — Confusing similarly named NPCs (e.g., Valerius Sterling the radio host vs. Valentine Sterling the explorer ancestor) without checking their actual profiles. **Always read the corresponding `characters/npcs/` file** before asking questions or making assumptions about their lore or relationships.
+| File | Path |
+|---|---|
+| Raw transcript | `sessions/transcripts/raw/sN-raw.md` |
+| Clean transcript | `sessions/transcripts/clean/sN-clean.md` |
+| Session index (player-facing) | `sessions/index.md` |
+| Session plan | `sessions/planning/sN-plan.md` |
+| NPC profiles | `characters/npcs/[name].md` |
+| Portraits | `meta/foundry-exports/portraits/[name]_portrait.png` |
+| Foundry codex output | `meta/foundry-exports/vumbua-codex.json` |
+| Lore reference | `.agent/workflows/lore-index.md` |
+| Character index | `characters/index.md` |
