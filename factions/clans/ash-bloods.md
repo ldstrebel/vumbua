@@ -133,17 +133,6 @@ This year (18 months ago), the Ash-Bloods committed a grave insult to one of the
 - This is why [[Iggy]] came to the surface—to find out why the Ash-Bloods stopped coming
 - The Ash-Bloods don't know they triggered an infiltration
 
-### The Circuit-Run Spire Absence
-
-[[Lady Ignis]] personally designed an **Ash-Blood origin spire** for this year's Circuit-Run — the cultural debut of her people in Harmony's most public institution. It was submitted through proper channels and her team were genuinely excited.
-
-[[professor-kante|Professor Kante]] was brought in by the Scrivener Guild to verify the resonance data. He found the ~20 amp anomaly insufficient to accurately model the spire and refused to sign off. He was pressured to use what existed. He refused.
-
-The spire does not appear in the race. The Ash-Blood terrain is in the arena. Other spires spawn there. But the Ash-Blood origin node — the thing Ignis designed — is absent.
-
-**What this means:** This is the first year the Ash-Blood Isles are represented in the arena at all. Their representation is a landscape without a voice. Cinder-4 knows this. Ignatius does not, yet.
-
-
 ### The "Conductive Theory" (The Real Physics)
 
 The Harmony engineers weren't just being nice—they proved something revolutionary:

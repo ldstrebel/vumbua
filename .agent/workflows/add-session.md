@@ -123,7 +123,7 @@ Use this workflow after each game session to properly document what happened.
    - Run `/add-character` for any new NPCs introduced (flagged in step 3.5)
    - Update `knowledge-tracker.md` with new discoveries
    - Update `timeline.md` with session events
-   - Update character profiles and location files directly if significant events occurred (don't just link them, summarize the new lore). **CRITICAL for Foundry:** When updating PC profiles, write the new session summary and discoveries under their `## Journal Unexported` header so it is batched for the VTT integration.
+   - Update character profiles and location files directly if significant events occurred (don't just link them, summarize the new lore).
    - Update `lore-index.md` with the Session Delta, new entities, spellings, and session status
    - If you need to capture GM-prep that did not occur in-session, place it under a clearly-labeled **GM Plan** section and tag it as `gm-plan`
 
@@ -135,9 +135,6 @@ Use this workflow after each game session to properly document what happened.
    - Create `meta/radio-scripts/session-N-recap.md`.
    - Collaborate with the user to select featured NPCs (e.g., Captains) to interview or highlight.
    - **Crucial:** Always read the dedicated NPC dossiers (e.g., `characters/npcs/[name].md`) to accurately capture their voice, goals, and dynamic with the radio host before drafting.
-
-7.7. **Update the Foundry Vault**
-   - Trigger the `/export-to-foundry` workflow or run `python meta/scripts/generate_player_vault.py` to automatically synthesize the new Player Vault based on the updated session index.
 
 8. **Commit changes**
    ```bash

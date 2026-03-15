@@ -33,3 +33,15 @@ Use this workflow to sync the Foundry VTT Campaign Codex with the latest session
 
 ## Why this works
 The script dynamically extracts the **Overview** and **What Players Know** sections while ignoring any **GM Secrets** or **GM Description** blocks, ensuring a spoiler-free experience for players.
+
+## AI Spoiler Rules (Critical)
+When generating or auditing content for the Codex, the AI must:
+- **Only** reference clean transcripts and player-facing knowledge.
+- **Race Corrections**:
+  - List Iggy's race as "Earthkin" (not Trench-Kin).
+  - List Zephyr's race as "Unknown".
+  - List Rill as "Mizizi exchange student" (not her heritage details).
+- **Lore Context**:
+  - Present Percy's Sixfold Theory as a fringe belief, not confirmed lore.
+- **GM Boundary**:
+  - Never reference GM Notes, planned encounters, or unrevealed backstory.
