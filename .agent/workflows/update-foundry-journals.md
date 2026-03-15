@@ -1,47 +1,138 @@
-# Update Foundry Journals (Automated)
+# Update Foundry Journals
 
-Use this workflow to sync the Foundry VTT Campaign Codex with the latest session data. The process is now largely automated via `build_codex.py`.
+Use this workflow to (re)build `vumbua-codex.json` and import it into Foundry VTT.
+Run it after every session or whenever new NPCs / locations are added.
 
-## Prerequisites
-- A finalized transcript in `sessions/transcripts/clean/sX-clean.md`.
-- New NPCs encountered must have their `.md` files in `characters/npcs/` with a `First Appearance` tag.
+---
+
+## How the pipeline works
+
+```
+sessions/index.md          ← curated session titles + prose summaries (primary)
+sessions/transcripts/clean/sN-clean.md  ← raw scene prose (secondary / Part content)
+characters/npcs/*.md       ← NPC pages (only if First Appearance tag present)
+characters/player-characters/*.md
+locations/*.md
+meta/foundry-exports/portraits/[name]_portrait.png  ← source portraits
+        ↓
+python build_codex.py
+        ↓
+meta/foundry-exports/vumbua-codex.json  (~1 MB)
+        ↓
+Paste JSON into Foundry macro dialog → two-pass import
+```
+
+**Content priority for session pages:**
+1. Subtitle → `sessions/index.md` entry title (falls back to transcript `# H1`)
+2. Summary paragraph → transcript `## Quick Summary` / `## Session Summary` (falls back to index prose)
+3. Additional prose → `## Part N` opening paragraphs (s4-style) or `## Play-by-Play` scenes (s3-style)
+
+---
+
+## Full rebuild (all sessions)
+
+```bash
+cd vumbua/meta/foundry-exports
+python build_codex.py
+```
+
+Output: `vumbua-codex.json` — contains all chronicle pages, all tagged NPCs, all PCs, all locations, and portrait data URIs.
+
+## Delta rebuild (new session only)
+
+```bash
+python build_codex.py 5          # generates only Session 5 page + NPCs first appearing in Session 5
+```
+
+Use delta mode for live-session reveals — much faster, smaller JSON.
+
+---
 
 ## Steps
 
-1. **Verify Session Transcript**
-   - Ensure the new session file follows the naming convention `s[Number]-clean.md` in `sessions/transcripts/clean/`.
+### 1. Session content is ready
+- Clean transcript exists at `sessions/transcripts/clean/sN-clean.md`
+- A curated entry exists in `sessions/index.md` under `### [[Session 0N|Session N: Title]]`
+  - If missing, add a 2–4 sentence prose summary under that heading (no bullet points)
 
-2. **Update NPC 'First Appearance' Tags**
-   - For any NPC who debuted this session, ensure their markdown file in `characters/npcs/` contains the following metadata in the `Overview` table:
-     `| **First Appearance** | [[session-[Number]|Session [Number]] |`
-   - **Crucial:** The `build_codex.py` script uses this tag to decide if an NPC is "active" and should be exported.
+### 2. New NPCs have their files and tags
+- Each new NPC has a file at `characters/npcs/[name].md`
+- The Overview table contains: `| **First Appearance** | [[session-N\|Session N]] |`
+- This tag is the only gate — without it, the NPC is silently skipped
+- Minimal stub is fine; the script strips GM content automatically
 
-3. **Check for New Locations**
-   - If a major new location was introduced, add its name to the `key_locations` list in `meta/foundry-exports/build_codex.py` (lines 191+).
+### 3. New NPCs have portraits (optional but recommended)
+- Portrait file: `meta/foundry-exports/portraits/[slugified_name]_portrait.png`
+- Slug rule: lowercase → remove all quotes and punctuation → spaces to underscores
+  - "Professor Kante" → `professor_kante_portrait.png`
+  - `Seraphina "Serra" Vox` → `seraphina_serra_vox_portrait.png`
+- The build script auto-compresses to JPEG 400px / ~40 KB — use any resolution source
 
-4. **Run the Dynamic Export**
-   // turbo
-   - Execute the build script. It will automatically scan all NPCs, filter those with active session debutes, embed their portraits, and extract player-safe info.
-   ```powershell
-   cd d:\Code\vumbua\meta\foundry-exports
-   python build_codex.py
-   ```
+### 4. New locations are in the right folder
+- All `*.md` files in `locations/` are auto-included — no manual registration needed
+- GM-content sections (`## GM Narration`, `## GM Notes`, etc.) are stripped automatically
 
-5. **Provide JSON and Macro to User**
-   - Direct the user to the updated `vumbua-codex.json`.
-   - Remind them to run the `foundry-macro.js` in Foundry VTT to perform the non-destructive additive import.
+### 5. Run the build
 
-## Why this works
-The script dynamically extracts the **Overview** and **What Players Know** sections while ignoring any **GM Secrets** or **GM Description** blocks, ensuring a spoiler-free experience for players.
+```bash
+python build_codex.py        # full
+python build_codex.py N      # delta for session N
+```
 
-## AI Spoiler Rules (Critical)
-When generating or auditing content for the Codex, the AI must:
-- **Only** reference clean transcripts and player-facing knowledge.
-- **Race Corrections**:
-  - List Iggy's race as "Earthkin" (not Trench-Kin).
-  - List Zephyr's race as "Unknown".
-  - List Rill as "Mizizi exchange student" (not her heritage details).
-- **Lore Context**:
-  - Present Percy's Sixfold Theory as a fringe belief, not confirmed lore.
-- **GM Boundary**:
-  - Never reference GM Notes, planned encounters, or unrevealed backstory.
+The script prints `✓ / ✗` for every page. Any `✗` with "file not found" means a session transcript is missing.
+
+### 6. Import into Foundry VTT
+
+1. Open `meta/foundry-exports/vumbua-codex.json` — **select all → copy**
+2. In Foundry, open the macro `Vumbua Codex Import`
+3. Paste the JSON into the input field → **Run**
+4. The macro runs in two passes:
+   - Pass 1: creates / updates all journal pages with raw content
+   - Pass 2: resolves all `{{page:Name}}` cross-links to `@UUID[...]` and embeds portrait data URIs
+5. A summary dialog reports pages created / updated and any unresolved links
+
+**Import is additive-only.** Existing pages are updated; nothing is deleted.
+
+---
+
+## Spoiler safety
+
+The pipeline automatically strips:
+- YAML front matter
+- Obsidian callout blocks (`> [!...]`)
+- Any section whose heading contains: `gm`, `dm`, `secret`, `hidden`, `not yet revealed`, `source references`, `planning`, `future plot`, `gm narration`, `gm description`, `gm notes`, `gm reflections`
+
+Never put GM-only information in player-facing heading sections. Use `## GM Narration` or a `> [!warning]-` callout.
+
+---
+
+## Spoiler audit (run occasionally)
+
+```bash
+python build_codex.py
+python - <<'EOF'
+import json, re
+data = json.load(open("vumbua-codex.json"))
+pat = re.compile(r'\bGM\b|\bthe players\b|posing as|secretly\b|true identity|not yet reveal', re.I)
+for sec, j in data["journals"].items():
+    for p in j["pages"]:
+        plain = re.sub(r'<[^>]+>', ' ', p["content"])
+        for line in plain.splitlines():
+            if pat.search(line):
+                print(f"[{sec}] {p['name']}: {line.strip()[:100]}")
+EOF
+```
+
+Any hit that isn't a false positive should be fixed in the source file, not in the script.
+
+---
+
+## Naming conventions
+
+| Thing | Convention |
+|---|---|
+| Session transcript | `sessions/transcripts/clean/sN-clean.md` (e.g. `s5-clean.md`) |
+| Session index entry | `### [[Session 0N\|Session N: Title]]` in `sessions/index.md` |
+| NPC file | `characters/npcs/[kebab-name].md` |
+| Portrait source | `meta/foundry-exports/portraits/[snake_name]_portrait.png` |
+| Chronicle page name | `Session N` (plain — no subtitle — so `{{page:Session N}}` links resolve) |
