@@ -6,6 +6,8 @@ tags:
 
 # Mira
 
+![Portrait](../../meta/foundry-exports/portraits/mira_portrait.png)
+
 **Role:** Squad 03 (The Silence) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

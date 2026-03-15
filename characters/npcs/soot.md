@@ -14,6 +14,8 @@ tags:
 | **Status**           | Active                                           |
 | **First Appearance** | [[session-01\|Session 1]] (mentioned)            |
 
+![Portrait](../../meta/foundry-exports/portraits/soot_portrait.png)
+
 ## Overview
 A wide-eyed, anxious student who bunks with [[Lomi]] and [[Ratchet]] in [[Block 99]]-Piston. He treats Lomi like an expert because Lomi actually knows how a wrench works.
 

@@ -14,11 +14,13 @@ tags:
 > "Chaos is just failure you haven't named yet."
 > — *Valerius Sterling*
 
-| **Role** | Radio Host ("The Voice of Vumbua") / Older Cousin |
-| **Affiliation** | Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]] |
-| **Status** | Active |
-| **Archetype** | The Voice |
-| **First Appearance** | [[session-02|Session 2]] (Voice only) |
+| **Role**             | Radio Host ("The Voice of Vumbua") / Older Cousin |
+| **Affiliation**      | Harmony (Sterling Family), [[Vumbua Academy]], [[House Gilded]] |
+| **Status**           | Active                                           |
+| **Archetype**        | The Voice                                        |
+| **First Appearance** | [[session-02\|Session 2]] (Voice only)            |
+
+![Portrait](../../meta/foundry-exports/portraits/valerius_sterling_portrait.png)
 
 ## Overview
 Valerius Sterling is the older cousin of [[Valentine Sterling]] and a fixture at Vumbua Academy, having been there for several years. He hosts the popular (and possibly unauthorized) radio show that recaps academy events. 

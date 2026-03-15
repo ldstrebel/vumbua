@@ -13,6 +13,8 @@ tags:
 
 # Dean Isolde Vane
 
+![Portrait](../../meta/foundry-exports/portraits/dean_isolde_portrait.png)
+
 > *"Hello students! Hello candidates! Hello potential adventurers! I'm just so excited for this next class."*
 
 ## Overview

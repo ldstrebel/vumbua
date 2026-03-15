@@ -35,7 +35,7 @@ tags:
 - The soot: "That's not a normal thing for him to always be covered in soot. It's just because of how far he's traveled." He plays into it sometimes, but "we're not barbarians. We clean ourselves."
 
 ### Session 2
-- Revealed his core drive openly: "I want to find the heart of the volcano. The next Leidian deposit. I want to find out *why* it's reheating."
-- Named the fuel rocks "Leidian" (lava + obsidian combined)
+- Revealed his core drive openly: "I want to find the heart of the volcano. The next lavsidian deposit. I want to find out *why* it's reheating."
+- Named the fuel rocks "lavsidian" (lava + obsidian combined)
 - Expressed traditionalist views — annoyed at Ember's modernizer stance
 - The "Lava Boy" nickname from Zephyr/Rill was a good character moment.

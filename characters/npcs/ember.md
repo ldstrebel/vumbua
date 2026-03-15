@@ -9,6 +9,8 @@ aliases:
 
 # Ember
 
+![Portrait](../../meta/foundry-exports/portraits/ember_portrait.png)
+
 > *"This is such a fun game!"* (said with the energy of someone filing a police report)
 
 | | |

@@ -20,7 +20,7 @@
 *[warm, building]*
 "Lady Ignis Scorch. Ash-Blood Matriarch. Harmony's most significant voting bloc. And — as it turns out — an exceptional designer. She has spent the better part of the last year doing two things simultaneously: a political tour of every integrated node territory in Harmony — meeting each representative in person, learning the terrain of governance before casting a single vote — and the design of the Ash-Blood origin spire for this race."
 
-"Handcrafted from leidian itself. The genuine heat-stone. Five columns, each one veined with magma visible through hairline cracks in the surface. On sync, the design called for no flash, no bang. A pulse. Low. Resonant. The sound of a forge being lit. Something that would say to every spectator in these stands: *this is what the Ash-Bloods contribute*."
+"Handcrafted from lavsidian itself. The genuine heat-stone. Five columns, each one veined with magma visible through hairline cracks in the surface. On sync, the design called for no flash, no bang. A pulse. Low. Resonant. The sound of a forge being lit. Something that would say to every spectator in these stands: *this is what the Ash-Bloods contribute*."
 
 *[a real pause — not performed]*
 "Word reached the studio this morning that the spire would not be making its debut today."

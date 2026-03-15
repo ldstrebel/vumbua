@@ -8,6 +8,8 @@ tags:
 
 # Lady Glissade
 
+![Portrait](../../meta/foundry-exports/portraits/lady_glissade_portrait.png)
+
 **Role:** Noble / Patron?
 **Affiliation:** [[Harmony Prime|Harmony]]
 **Status:** Active

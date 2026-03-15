@@ -10,6 +10,8 @@ tags:
 
 # Rill (The River-Born)
 
+![Portrait](../../meta/foundry-exports/portraits/rill_portrait.png)
+
 | | |
 |---|---|
 | **Aliases** | Real, Rill, The River-Born |

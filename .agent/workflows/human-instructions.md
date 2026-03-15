@@ -166,7 +166,7 @@ If you see something like a squad roster referenced before the Loom/team selecti
 - Batch corrections are fine: *"Lines tagged for review: 1 is Serra, 2 is [[Iron-Jaw Jax|Jax]], 3 is the GM describing the room"*
 
 ### Requesting Corrections
-- Be specific: *"Change all instances of 'Lasidian' to 'Leidian'"*
+- Be specific: *"Change all instances of 'Lasidian' to 'lavsidian'"*
 - Or general: *"Scan the transcript for name misspellings and fix them per the canonical list"*
 - The AI will always show you what it changed
 

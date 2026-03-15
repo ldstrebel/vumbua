@@ -5,6 +5,8 @@ tags:
 
 # Lance
 
+![Portrait](../../meta/foundry-exports/portraits/lance_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Student (Harmony Native) |

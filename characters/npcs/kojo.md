@@ -6,6 +6,8 @@ tags:
 
 # Kojo
 
+![Portrait](../../meta/foundry-exports/portraits/kojo_portrait.png)
+
 **Role:** Mizizi Student / Help Desk Tutor
 **Affiliation:** [[Vumbua Academy]], [[Mizizi]]
 **Location:** [[Vumbua Academy]] — Clan Assistance & Integration Help Desk

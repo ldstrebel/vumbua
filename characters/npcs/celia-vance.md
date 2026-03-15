@@ -8,6 +8,8 @@ aliases:
 
 # Celia Vance
 
+![Portrait](../../meta/foundry-exports/portraits/celia_vance_portrait.png)
+
 **Role:** Operations Director
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

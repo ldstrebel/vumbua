@@ -8,6 +8,8 @@ aliases:
 
 # Calculus Prime
 
+![Portrait](../../meta/foundry-exports/portraits/calculus_prime_portrait.png)
+
 **Role:** Squad 04 (The Axiom) - Captain
 **Affiliation:** [[Vumbua Academy]], Warforged/Construct Community
 **Status:** Active

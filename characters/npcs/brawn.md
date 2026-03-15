@@ -6,6 +6,8 @@ tags:
 
 # Brawn
 
+![Portrait](../../meta/foundry-exports/portraits/brawn_portrait.png)
+
 **Role:** Squad 02 (The Breakers) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

@@ -86,7 +86,7 @@ Use this workflow after each game session to properly document what happened.
 
    **Cleanup Rules:**
    - ✅ **Fix**: Obvious transcription errors (99% confidence you know the correct word based on lore context)
-   - ✅ **Fix**: Canonical spelling corrections per `lore-index.md` (e.g., "Lasidian" → "Leidian")
+   - ✅ **Fix**: Canonical spelling corrections per `lore-index.md` (e.g., "Lasidian" → "lavsidian")
    - ✅ **Organize**: Break into scenes, label speakers, format as screenplay
    - ✅ **Enrich**: After formatting, do a second pass reviewing the raw transcript specifically for "high-confidence quotes", great one-liners, and dynamic "action verbs" to increase narrative richness and detail (aim for the standard of `session-02.md`).
    - ❌ **Never**: Summarize, compress, or skip dialogue

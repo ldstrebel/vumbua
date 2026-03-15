@@ -12,6 +12,8 @@ tags:
 
 # Captain Ignis "Scorch"
 
+![Portrait](../../meta/foundry-exports/portraits/ignis_scorch_portrait.png)
+
 > "Speed is survival! We are going to run the engine at 120% until it melts or we win."
 > — *Captain Scorch*
 

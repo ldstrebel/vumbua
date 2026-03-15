@@ -7,6 +7,8 @@ tags:
 
 # Sarge
 
+![Portrait](../../meta/foundry-exports/portraits/sarge_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Squad 09 (The Ablative) - Captain (Rust Tier) |
@@ -50,7 +52,7 @@ tags:
 A former grunt who watched his entire crew die because an arrogant Exploranaut pushed too hard into a Shattered Node. He survived, but he refuses to let it happen again.
 
 ### Bond
-His current "Expendable" squad. He feels a crushing, quiet responsibility for their survival.
+His current "Expendable" squad, for whom he feels a crushing, quiet responsibility. He also feels a deep, enduring obligation to protect [[Lucky]], as he was present during the exploration accident that killed Lucky's parents.
 
 ### Flaw
 Deep Distrust of Command. He struggles to follow orders from "Golden" officers who haven't bled.

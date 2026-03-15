@@ -59,7 +59,7 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 - **[[Zephyr]]'s Lightning:** Purple bolt from clear sky; she's unharmed
 - [[Rill]] retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class
 - [[Ash-Bloods|Ash-Blood]] cultural divide revealed: traditionalists vs modernizers
-- [[Leidian]] properties discussed (80% hotter, halflife, distance decay)
+- [[lavsidian]] properties discussed (80% hotter, halflife, distance decay)
 - Party heads to the [[Celestial Lounge]]
 
 **Players Discovered:**
@@ -67,7 +67,7 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 - [[Lady Ignis]] is essentially "President" of [[Seed of Harmony|Harmony]]
 - The Sixfold Theory (missing Earth, Air, Water clans)
 - [[Zephyr]] can cause purple lightning
-- [[Leidian]] is burning 80% hotter since integration
+- [[lavsidian]] is burning 80% hotter since integration
 - [[Ash-Bloods|Ash-Blood]] cultural divide between fire-keepers and battery-adopters
 - The [[mizizi-petrified-forest|Mizizi forest]] has no clear "purpose" unlike other nodes
 - [[Vumbua Academy|Academy]] structure: classes → exam → Loom → rest week → trial venture

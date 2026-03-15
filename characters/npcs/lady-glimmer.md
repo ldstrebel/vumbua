@@ -9,6 +9,8 @@ tags:
 
 # Lady Glimmer
 
+![Portrait](../../meta/foundry-exports/portraits/lady_glimmer_portrait.png)
+
 **Role:** Squad 08 (The Legacy) - Member
 **Affiliation:** [[Vumbua Academy]], [[House Gilded]]?
 **Status:** Active

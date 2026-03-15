@@ -208,3 +208,19 @@ As they go through this montage, give them their "First Week Reward" based on wh
     *   Lomi told the story of getting Val drunk and stealing his golden celestial die.
     *   Ignatius told a beautifully improvised, millennia-old creation myth about the Sky Dragon and Sea Dragon forming the Ash-Blood isles.
 *   **The Cliffhanger:** Lucky gave them the raw 10-question guide but demanded *real* secrets for the answers. He noticed Iggy's strange inventions and the gold entrance exam receipt. Seeing the receipt, Lucky's demeanor shifted drastically—not just because of the gold, but because he could immediately tell Iggy was hiding massive secrets. He pulled the trio into a private "interrogation chamber" to talk business.
+
+---
+
+### Phase 2: The Interrogation Room & The RR Merch
+
+**Scene: Lucky's Supply Room**
+The "interrogation chamber" is actually Lucky's private storeroom—a cluttered, dimly lit bunker filled with crates of "acquired" goods, strange aetheric tools, and contraband. [[Sarge]] is there, leaning against a crate with a heavy sigh, acting as Lucky's muscle (though mostly just keeping an eye on him out of obligation to his late parents).
+
+**The Interrogation:**
+- Lucky presses the trio, especially [[Iggy]], about what they're *really* doing at the Academy and how they got the gold receipt.
+- The interrogation is tense but mostly just a high-pressure sales tactic to measure their worth.
+
+**The Interruption:**
+- About halfway through the interrogation, there's a frantic, rhythmic knock at the storeroom door.
+- It's **Dash**, an eccentric, fast-talking student who claims to have an "in" for merch for the **"rr"** (codeword for the Resonance Race).
+- This completely derails Lucky. The prospect of exclusive Resonance Race merchandise gets him so excited that he abandons his intense questioning. He tells the party they "owe him" and rushes out to make the deal, leaving Sarge to awkwardly usher the PCs out.

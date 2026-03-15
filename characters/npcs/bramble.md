@@ -6,6 +6,8 @@ tags:
 
 # Bramble
 
+![Portrait](../../meta/foundry-exports/portraits/bramble_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Squad 05 (The Harvesters) - Member |

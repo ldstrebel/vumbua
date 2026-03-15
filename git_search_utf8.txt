@@ -1705,7 +1705,7 @@ index 73a1391..fc2db63 100644
 +
 +1. **The Drop:** Rigs are physically slung or dropped from the amphitheater rim. The initial burst of momentum is all they get before they must strike their first Spire. A massive land-ship ("Goliath") nearly crushes a soloist ("Stinger") on the way down.
 +
-+2. **The Sync:** A team strikes a Leidian node and gains the **Overclock** boon ΓÇö extreme speed with a "Phase-Dash" teleport. The crowd roars. But the heat stress is visible ΓÇö the rig's hull glows cherry-red.
++2. **The Sync:** A team strikes a lavsidian node and gains the **Overclock** boon ΓÇö extreme speed with a "Phase-Dash" teleport. The crowd roars. But the heat stress is visible ΓÇö the rig's hull glows cherry-red.
 +
 +3. **The Missing Node:** [[Ignatius]] notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks [[professor-kante|Professor Kante]] (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] ΓÇö the integration only produced ~20 amps instead of the expected +300 to +800.
 +

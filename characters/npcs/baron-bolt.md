@@ -9,6 +9,8 @@ tags:
 
 # Baron Bolt
 
+![Portrait](../../meta/foundry-exports/portraits/baron_bolt_portrait.png)
+
 **Role:** Squad 08 (The Legacy) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

@@ -12,6 +12,8 @@ tags:
 
 # Seraphina "Serra" Vox
 
+![Portrait](../../meta/foundry-exports/portraits/serra_vox_portrait.png)
+
 > "I'm an ally. Is that okay to say?"
 > --- *Serra*, trying too hard.
 

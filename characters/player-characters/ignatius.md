@@ -35,7 +35,7 @@ Ignatius carries a **facade of confidence** that can melt away when confronted w
 - "Classic teenager with strong political ideals who doesn't really know how the world works"
 - Traditionalist — annoyed at [[Ember]]'s modernizer stance, believes in the old fire
 - Confident facade that cracks under pressure — then rebuilds quickly
-- Named the fuel rocks "[[Leidian]]" himself (lava + obsidian combined)
+- Named the fuel rocks "[[lavsidian]]" himself (lava + obsidian combined)
 - Has a hot temper — literally and figuratively (lit the bonfire prematurely out of instinct)
 - Funny without always meaning to be — the "Lava Boy" exchange was earnest on his end
 
@@ -57,7 +57,7 @@ Ignatius attended the **Stitching ceremony** where:
 - The volcano's reaction to the Integration was significant
 - Captain Aara Thorne discovered the [[Ash-Bloods|Ash Blood]] islands
 - The relationship should be a "partnership" not exploitation
-- The fuel his people produce — what he calls [[Leidian]] — powers the academy's boilers
+- The fuel his people produce — what he calls [[lavsidian]] — powers the academy's boilers
 - Ash-Blood physiology releases heat by burning hotter — it doesn't build up
 
 ### What He Questions
@@ -70,7 +70,7 @@ Ignatius attended the **Stitching ceremony** where:
 
 - **Fire manipulation** — literal flames are part of his being; can light things instantly
 - **Heat management** — understands Ash-Blood physiology and how heat release works
-- **Volcanic knowledge** — knows about [[Leidian]] (lava + obsidian), volcanic systems, and the clan's relationship to fire
+- **Volcanic knowledge** — knows about [[lavsidian]] (lava + obsidian), volcanic systems, and the clan's relationship to fire
 - **Exploration instinct** — got in trouble for exploring forbidden areas back home; driven to discover
 - **Cultural knowledge** — deep understanding of Ash-Blood traditions, the Stitching ceremony, and clan politics
 
@@ -92,7 +92,7 @@ Ignatius was banished by the elders for exploring forbidden areas, but he refram
 The facade of confidence cracked when he saw Vumbua — the massive ships, the construction, the sheer scale. First fear roll of the game. Met Lance, who recognized him instantly ("Was it the soot or the literal flames?"). The handshake test: Lance wanted to know if Ignatius's hand would burn him. It didn't. Getting oriented in a world much bigger than the Ember Isles.
 
 ### Session 2 — Declaring His Quest
-The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing off), panicked Cassius, but it became a great moment when Lomi helped smooth things over. Then he stated his quest openly: *"I want to find the heart of the volcano. The next [[Leidian]] deposit. I want to find out why it's reheating."* He named the fuel rocks himself — Leidian (lava + obsidian). He's a traditionalist: annoyed at Ember's modernizing, skeptical of Serra Vox's interest. The "Lava Boy" nickname from Zephyr/Rill stuck. His quest is clear and public now.
+The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing off), panicked Cassius, but it became a great moment when Lomi helped smooth things over. Then he stated his quest openly: *"I want to find the heart of the volcano. The next [[lavsidian]] deposit. I want to find out why it's reheating."* He named the fuel rocks himself — lavsidian (lava + obsidian). He's a traditionalist: annoyed at Ember's modernizing, skeptical of Serra Vox's interest. The "Lava Boy" nickname from Zephyr/Rill stuck. His quest is clear and public now.
 
 ## Session Appearances
 
@@ -116,8 +116,8 @@ The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing 
 - [[Serra Vox]] asked about [[Ash-Bloods|Ash-Blood]] physiology; Ignatius explained heat release via burning hotter
 - Discussed [[Ash-Bloods|Ash-Blood]] politics with [[Serra Vox]]; learned about the [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role
 - Expressed traditionalist views on fire and [[Ember]]'s modernizer rejection
-- Named the fuel rocks "[[Leidian]]" (lava + obsidian)
-- Stated his quest: "I want to find the heart of the volcano. The next Leidian deposit. I want to find out *why* it's reheating."
+- Named the fuel rocks "[[lavsidian]]" (lava + obsidian)
+- Stated his quest: "I want to find the heart of the volcano. The next lavsidian deposit. I want to find out *why* it's reheating."
 - Called [[Zephyr]] "Lightning Girl" after her purple lightning bolt; she called him "Lava Boy" via [[Rill]]
 
 ## Relationships
@@ -133,6 +133,6 @@ The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing 
 | **[[Ember]]** | Childhood cousin; modernizer who rejects traditional fire — Ignatius disagrees |
 | **[[Britt]]** | Fellow candidate — met at Vumbua |
 | **[[Aggie]]** | Fellow candidate — met at Vumbua |
-| **[[Lomi]]** | Fellow candidate — encouraged him at the bonfire; explained the boilers use Leidian ([[session-02|Session 2]]) |
+| **[[Lomi]]** | Fellow candidate — encouraged him at the bonfire; explained the boilers use lavsidian ([[session-02|Session 2]]) |
 | **[[Iggy]]** | Fellow candidate and roommate at [[Block 12]] |
 

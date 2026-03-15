@@ -143,7 +143,7 @@
 
 ## L
 
-**Leidian**
+**lavsidian**
 - Obsidian-like heat stone from the [[Ash-Blood Isles]]
 - Burning 80% hotter per gram than 2 years ago (since integration)
 - Has a "halflife" oscillation---heat tapers off then rises again

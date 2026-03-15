@@ -52,7 +52,7 @@ He's been working as a maintenance person at the academy during its construction
 - Islands slowly drift toward each other over centuries
 - The discovery of two new clans ([[Mizizi]] and [[Ash-Bloods|Ash Bloods]]) is the biggest news in a thousand years
 - No major civilizations had been found in ages — only ancient bones
-- The academy uses [[Leidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]] to fuel the boilers
+- The academy uses [[lavsidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]] to fuel the boilers
 
 ### The Explorer Dream
 Like many Harmony citizens, Lomi has been swept up in the resurgence of explorer fever caused by the new discoveries. Getting Explorer rank is like becoming "an NFL star, a bull rider" — instant celebrity and lifetime government stipend. His family sees him as the "big smart guy" who works at the academy and figures he should make the jump.
@@ -106,7 +106,7 @@ The bonfire was the first real social event. Lomi secured moonshine, bonded with
 - Mentioned hearing noises in the boiler room, delighting Percy
 - Helped light the bonfire alongside [[Ignatius]]
 - Introduced himself: "Lomi Sultano. Boiler Maker family for ages."
-- Explained that the boilers use [[Leidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]]
+- Explained that the boilers use [[lavsidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]]
 
 ## Relationships
 

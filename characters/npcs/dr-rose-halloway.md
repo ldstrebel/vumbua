@@ -9,6 +9,8 @@ tags:
 
 # Dr. Rose Halloway
 
+![Portrait](../../meta/foundry-exports/portraits/dr_rose_halloway_portrait.png)
+
 **Role:** Squad 05 (The Harvesters) - Captain / Druid
 **Affiliation:** [[Vumbua Academy]], [[Mizizi]] (expatriate?)
 **Status:** Active

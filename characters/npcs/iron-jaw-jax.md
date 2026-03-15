@@ -9,6 +9,8 @@ tags:
 
 # Iron-Jaw Jax
 
+![Portrait](../../meta/foundry-exports/portraits/iron_jaw_jax_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Squad 02 (The Breakers) - Captain (Silver/Gold) |

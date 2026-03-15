@@ -61,7 +61,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Correct | Common Errors |
 |---------|---------------|
-| **Leidian** | Lasidian, Lydian, Leidien |
+| **lavsidian** | Lasidian, Lydian, Leidien |
 | **Seraphina "Serra" Vox** | Sarah, Sara, Sera, Sarah Fox |
 | **Cassius Thorne** | Casius, Cassias |
 | **Percival "Percy" Vane-Smythe III** | Percy Vane-Smith, Percival Van Smythe |

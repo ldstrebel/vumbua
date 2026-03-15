@@ -9,6 +9,8 @@ tags:
 
 # Cinder-4
 
+![Portrait](../../meta/foundry-exports/portraits/cinder_4_portrait.png)
+
 **Role:** Squad 06 (The Kiln) - Captain
 **Affiliation:** [[Vumbua Academy]], [[Ash-Bloods|Ash-Blood]] / Construct
 **Status:** Active

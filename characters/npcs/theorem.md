@@ -6,9 +6,14 @@ tags:
 
 # Theorem
 
-**Role:** Squad 04 (The Axiom) - Member
-**Affiliation:** [[Vumbua Academy]]
-**Status:** Active
+|                      |                                                  |
+| -------------------- | ------------------------------------------------ |
+| **Role**             | Squad 04 (The Axiom) - Member                    |
+| **Affiliation**      | [[Vumbua Academy]]                               |
+| **Status**           | Active                                           |
+| **First Appearance** | [[session-01\|Session 1]]                        |
+
+![Portrait](../../meta/foundry-exports/portraits/theorem_portrait.png)
 
 ## Overview
 Member of Squad 04. Dedicated to testing hypotheses in combat.

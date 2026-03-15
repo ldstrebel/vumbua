@@ -10,6 +10,8 @@ tags:
 
 # Professor Kante
 
+![Portrait](../../meta/foundry-exports/portraits/professor_kante_portrait.png)
+
 > "The numbers do not lie. They simply wait for us to ask the right question."
 
 | | |

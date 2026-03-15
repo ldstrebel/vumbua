@@ -11,6 +11,8 @@ reveal: gm
 
 # Finch Gable
 
+![Portrait](../../meta/foundry-exports/portraits/finch_gable_portrait.png)
+
 > *"You forgot to carry the wind-shear coefficient. If you drop it now, the crate lands in the ocean three miles south, and we all starve. Move your decimal."*
 
 ## Overview

@@ -12,6 +12,8 @@ tags:
 
 # Captain "Iron-Hide"
 
+![Portrait](../../meta/foundry-exports/portraits/iron_hide_portrait.png)
+
 > "The ship breaks before the crew does. We don't run. We tank."
 > — *Captain Iron-Hide*
 
