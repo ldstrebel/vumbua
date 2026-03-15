@@ -112,6 +112,14 @@ Use this workflow to create a new player character or NPC profile.
    - Append to `CHANGELOG.md` under today's date
    - Bullet: character added/updated, file path
 
+10. **Optional: Rapid Foundry Export (Live Session or Prep)**
+    - If establishing the character for immediate use in Foundry VTT:
+    - 1) Use the `generate_image` tool to create a portrait and save it to `meta/foundry-exports/portraits/[character_name].png`.
+    - 2) Update `meta/foundry-exports/build_codex.py` to add their new `page` object under the `NPCs` category (ensure it uses `portraits/[name]` for the image).
+    - 3) Run `python build_codex.py` to regenerate the `vumbua-codex.json`.
+    - 4) Notify the user that the codex is updated and they can run the Foundry macro to pull the card in live!
+    - *Planning Note:* When writing session plans, you can add callouts (e.g., `> [!macro] Run Foundry Export macro for [NPC Name]`) to remind the GM to trigger the macro precisely when the NPC first appears.
+
 ## File Locations
 - Player Characters: `characters/player-characters/`
 - NPCs: `characters/npcs/`

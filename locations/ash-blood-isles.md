@@ -36,6 +36,10 @@ The Isles produce **leidian** — an obsidian-like heat stone that burns 80% hot
 ### The Great Cooling
 Before Harmony's arrival, the [[Ash-Bloods]] were experiencing "The Great Cooling" — their volcanoes were slowly dying. After integration, the heat returned. This is the core reason the clan embraced Harmony.
 
+### Ash-Blood Genesis Myth
+According to Ash-Blood lore shared by [[Ignatius]], the islands were formed millennia ago out of tragedy and love. The Great Dragon of the Sky and the Great Dragon of the Sea respected each other but were separated by the horizon. Tricked by a demon into believing they could meet if the Sky Dragon dove from the sun, the Sky Dragon plummeted, unable to slow down, and caught fire. 
+Burning up entirely, it was caught by the kind Sea Dragon in a loving embrace. The extinguished flames and the burned body of the Sky Dragon formed the Ash-Blood Isles. It is this loving embrace that continues to heat the islands and the stones used by the clan today.
+
 ## Source References
 
 - **[[session-00|Session 0]]** — Volcanoes visible from [[Mizizi]] forest *(Scene 4: Civilization)*

@@ -110,6 +110,33 @@ Update the Ash-Bloods page — in Session 2, the cultural divide between traditi
 
 ---
 
+### `/export-to-foundry` — Update Foundry VTT Journals
+
+**When**: After processing a new session, to update player-facing journals in Foundry
+
+**What to prepare**:
+- Clean transcripts for the sessions you want to export
+- Foundry VTT running with GM login
+
+**Prompt examples**:
+```
+/export-to-foundry
+Update the Foundry Codex to include sessions 0 through 3.
+```
+
+**What the AI will do**:
+1. Read clean transcripts and generate spoiler-safe journal content
+2. Generate NPC portrait art for any new characters
+3. Build `vumbua-codex.json` with embedded portraits and cross-links
+4. You paste the JSON into the Foundry macro dialog → it creates/updates all journals
+
+**What to review**:
+- NPC portraits — do they match your vision?
+- Session recaps — any spoilers or inaccuracies?
+- Cross-links — click a few to verify they navigate correctly
+
+---
+
 ### `/deploy` — Push to the Wiki
 
 **When**: After you've reviewed changes and want them live
@@ -164,3 +191,6 @@ If you see something like a squad roster referenced before the Loom/team selecti
 | Timeline | `timeline.md` |
 | Knowledge tracker | `knowledge-tracker.md` |
 | AI lore index | `.agent/workflows/lore-index.md` |
+| Foundry Codex JSON | `meta/foundry-exports/vumbua-codex.json` |
+| Foundry import macro | `meta/foundry-exports/foundry-macro.js` |
+| NPC portrait sources | `meta/foundry-exports/portraits/` |

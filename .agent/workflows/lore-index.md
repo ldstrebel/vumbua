@@ -14,7 +14,7 @@ aliases:
 
 ---
 
-## Last Session Delta (Session 03: The Celestial Lounge and The Ambush)
+## Last Session Delta (Session 04: The First Day of Classes)
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
@@ -38,17 +38,14 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - If something is GM planning (not spoken in-session), tag it as `gm-plan` and keep it out of player-facing sections.
 ```
 
-
-**New NPCs introduced**: [[Azor]] (Settikan Schemer), [[Zyykl]] (Nstyl Bruiser), [[Tus]] (Nstyl Bruiser) - ambushers
-**New locations**: [[Celestial Lounge]] (Upper Core)
+**New NPCs introduced**: [[Finch Gable]] (Snobbish Harmony-born student in Logistics class)
 **Key reveals**:
-- Valerius wrote a challenging, fundamental-focused "study guide" for the upcoming exam and sold it to [[Lucky]]
-- "Crown and Ruin" is a popular game played in the Celestial Lounge
-- A coordinated group using sign language is operating in the city and targeting students
-**Iggy's new assets**: "Cartography" experience trait
-**Britt's changes**: Lost a test receipt during the ambush but fiercely recovered her family heirloom: a petrified acorn necklace. Took Azor's pocket watch as compensation.
-**Lomi's changes**: Broke Azor's rib with an 18 damage roll while he was pinned/defeated during interrogation.
-**Plot threads opened**: The party must find Lucky the next day to get the "study guide" using Azor's pocket watch and the embellished story of the ambush as leverage.
+- The first week has 7 total classes culminating in a test on Friday.
+- The **Circuit Race (Reszo Race)** is Harmony's premier logistical sport, taking place on Thursday afternoon at the Apex Ring.
+- **Ashblood Genesis Myth**: The Ash-Blood isles were formed by the burning body of a Sky Dragon caught in the loving embrace of a Sea Dragon.
+**Lucky's Exchange**: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded *real secrets* before handing over the actual answers.
+**Lomi's changes**: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.
+**Plot threads opened**: Lucky pulled Lomi, Ignatius, and Iggy into a private "interrogation chamber" side room to discuss Iggy's mysterious test receipt before handing over the answers.
 
 ### Truth tiers (RAG safety)
 - **transcript**: said/seen in-session
@@ -222,7 +219,8 @@ These are the **correct** spellings. Transcription errors are common — always 
 | Session 1 | `sessions/transcripts/raw/s1-raw.md` | `sessions/transcripts/clean/session-01.md` | ✅ Complete |
 | Session 2 | `sessions/transcripts/raw/s2-raw.md` | `sessions/transcripts/clean/session-02.md` | ✅ Complete |
 | Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/session-02.5.md` | ✅ Complete |
-| Session 3 | `sessions/transcripts/raw/s4-raw.md` | `sessions/transcripts/clean/session-03.md` | ✅ Complete |
+| Session 3 | `sessions/transcripts/raw/s3-raw.md` | `sessions/transcripts/clean/session-03.md` | ✅ Complete |
+| Session 4 | `sessions/transcripts/raw/s4-raw.md` | `sessions/transcripts/clean/session-04.md` | ✅ Complete |
 
 ---
 

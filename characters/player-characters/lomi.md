@@ -121,3 +121,77 @@ The bonfire was the first real social event. Lomi secured moonshine, bonded with
 | **[[Aggie]]** | Fellow candidate — met at Vumbua |
 | **[[Ignatius]]** | Fellow candidate — helped light the bonfire together ([[session-02|Session 2]]) |
 | **[[Iggy]]** | Fellow candidate — met at Vumbua |
+
+
+Viewed circuit-run.md:150-450
+
+As a true Resonance Race superfan and infrastructure nerd, Lomi wouldn't just know the *stats* of the Spires—he'd know exactly what they look like, sound like, and what kind of tactical advantages they offer to a savvy crew. 
+
+While every Spire grants raw Connection Units (CU), some provide specific, game-changing temporary **Boons** that last until the rig syncs with a new Spire. 
+
+Here is the complete Spire roster and the known boons, broken down exactly how Lomi would explain them to a captive (or cornered) audience:
+
+### 🏆 The Major Spires (The Game-Changers)
+These are the massive anchors of the race. Everyone wants them, but only the heavy hitters or the very fast usually get them.
+
+1. **Chime Spire (Origin: Gilded)**
+   * **Value:** 80 CU (3 charges)
+   * **Look & Feel:** Gold compass arc. An elaborate array of organ-pipe brass columns. When struck, it doesn’t just hum—it physically plays a massive, sustained chord that can be heard across the entire basin.
+   * **The Boon — *Harmonic Lock*:** This completely stabilizes a rig's "Loadlight" effects (mass reduction physics). It's an absolute lifesaver for experimental or organic-hybrid rigs (like Pudge's Gryphon) that play fast and loose with standard physics.
+   * **Lomi's take:** *"You always know when someone hits the Chime. The whole stadium vibrates. It always spawns at Horn 3 in the north flats—if you aren't positioned for it, you're already losing."*
+
+2. **Umber Crystal (Origin: Umbra Mountain)**
+   * **Value:** 70 CU (3 charges)
+   * **Look & Feel:** Deep violet arc. It’s made of faceted obsidian that glows cold from the inside, looking supercharged before anyone even touches it.
+   * **The Boon — *Deficit Shear*:** Provides an instant, flat **-15 bonus** to a rig's Craft Draw reduction on top of the raw CU. 
+   * **Lomi's take:** *"The ultimate comeback node. If your Craft Draw is bleeding you dry, the Umber Crystal’s Deficit Shear can singlehandedly flip your LEDs from red to green."*
+
+### ⚙️ The Moderate Spires (The Reliable Core)
+These keep the mid-field competitive. Good CU, moderate contention. 
+
+3. **Soft Forge (Origin: Relina)** | 45 CU (2 charges)
+   * **Look & Feel:** Bronze-amber arc. The surface shimmers like slow liquid metal and is warm and slightly unsettling to get close to.
+4. **Lift Stone (Origin: Juxta)** | 40 CU (2 charges)
+   * **Look & Feel:** Blue-grey arc. A smooth granite monolith with chunks of rock literally orbiting the apex. It projects a massive updraft you can feel before you reach it.
+5. **Focus Glass (Origin: Timon)** | 35 CU (2 charges)
+   * **Look & Feel:** Clear/prismatic arc. A giant lens structure that bends light. If your Prong striker gets disoriented by the optical distortion, they'll miss the strike.
+6. **Live Soil (Origin: Feltland)** | 35 CU (2 charges)
+   * **Look & Feel:** Earth brown arc. Encased in organic material and vines. Lomi loves this one because it literally smells like fresh soil in the middle of a stone stadium.
+
+### 🏁 The Standard Spires (The Mid-Field Farm)
+Bread-and-butter nodes. Crews will fight tooth-and-nail over these to keep their drain rates at bay.
+
+7. **Prism Falls (Origin: Settika)** | 30 CU (2 charges)
+   * **Look & Feel:** Rainbow facet arc. A multi-surface crystal that shifts how the surrounding arena looks if you peer through it.
+8. **Whetstone (Origin: Shepta)** | 30 CU (2 charges)
+   * **Look & Feel:** Dark charcoal arc. Covered in razor-sharp geometric facets that shoot visible sparks the second the Prong makes contact.
+9. **Friction Needles (Origin: Lenoa)** | 30 CU (2 charges)
+   * **Look & Feel:** Silver arc. Not a solid column, but a cluster of thin parallel needles. The surface is 100% frictionless, meaning the striker needs incredible precision or their Prong slips right off.
+10. **Dew Crystal (Origin: Prima)** | 25 CU (2 charges)
+   * **Look & Feel:** Ice blue arc. It constantly sweats condensation, leaving a permanent puddle at its base.
+11. **Speaking Stone (Origin: Octo)** | 25 CU (2 charges)
+   * **Look & Feel:** Pale grey arc. Smooth stone covered in inscribed text. It lets out a bone-rattling low-frequency hum right before and during the sync.
+
+### 🗡️ The Minor Spires (The Niche / Stealth Hits)
+Only 1 charge each. Low CU, but they pop up in weird places and offer incredible tactical advantages if used correctly.
+
+12. **Silent Silt (Origin: Nstyl)**
+    * **Value:** 20 CU (1 charge)
+    * **Look & Feel:** Matte grey-brown arc. Almost invisible in the shadows, and makes absolutely *zero* noise when struck. 
+    * **The Boon — *Mute Wake*:** Completely silences the rig's engines. 
+    * **Lomi's take:** *"If a heavyweight rig like Marble Wall hits Silent Silt, they turn into a ghost ship. Twenty tons of metal moving completely silently. Terrifying, and brilliant."*
+
+13. **Clockwork Blooms (Origin: Bloomfield)** | 20 CU (1 charge)
+    * **Look & Feel:** Copper arc. Literal mechanical metal flowers that loudly tick and clack open and closed. 
+14. **Living Scent Wood (Origin: Minnow)** | 20 CU (1 charge)
+    * **Look & Feel:** Warm amber arc. Made of fragrant wood that actually "gives" under the Prong, unlike the hard clink of stone nodes.
+15. **Breathable Algae (Origin: Bay of Breath)** | 20 CU (1 charge)
+    * **Look & Feel:** Bioluminescent green arc. Shoots out bubbles and mist from underwater (requires a swimmer or a specialized dipping rig to hit).
+16. **Trench Seeds (Origin: Trail-Tail Trench)** | 15 CU (1 charge)
+    * **Look & Feel:** Deep teal arc. Only accessible in deep water. 
+
+***
+
+**Lomi’s Extra Trivia Bits:**
+* **Contention Bonus:** If you and a rival are within Prong-reach of the same Spire when one of you syncs it, the winner gets an automatic **+10 CU**. You can literally win races by playing chicken at the nodes.
+* **The Empty Arc:** The Ash-Blood Isles arc on the compass **never lights up**. Lomi would definitely have theories about this political snub—the terrain is physically built into the arena, but the Scrivener Guild refuses to acknowledge their node data.

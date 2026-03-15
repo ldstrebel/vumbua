@@ -120,6 +120,29 @@ The party arrives at the Celestial Lounge in the Upper Core. Lomi joins Val and 
 
 ---
 
+### [[Session 04|Session 4: The First Day of Classes]]
+**Date:** 2026-03-09
+
+The grueling first week of Vumbua Academy begins. After a morning of diverse breakfast routines, the party attends their first class, Aetheric Ballistics & Logistics. Ignatius suffers emotional damage from a thrown piece of chalk, Lomi meets a snobbish rival, and the group learns about the fast-approaching Circuit Race. Later, they track down Lucky and trade the ancient Ash-Blood Genesis Myth for the exam's study guide.
+
+**Key Events:**
+- [[Iggy]] samples his first massive breakfast selection
+- [[Ignatius]] is hit in the head with chalk during Logistics class
+- [[Lomi]] asks [[Finch Gable]] for notes and gets brutally rebuffed
+- The Academy posts the week's grueling schedule and announces the upcoming Circuit Race
+- The party tracks down [[Lucky]] and trades stories to get Val's study guide
+- [[Ignatius]] recounts the Ash-Blood Genesis Myth of the Sky Dragon and Sea Dragon
+- The session ends on a cliffhanger as Lucky leads them into a private room to discuss Iggy's test receipt
+
+**Players Discovered:**
+- The first week consists of seven classes followed by a major cull exam on Friday
+- The Circuit Race (Reszo Race) takes place at the Apex Ring on Thursday afternoon
+- The Ash-Blood Isles were formed by the burning body of a Sky Dragon caught by a Sea Dragon
+- [[Finch Gable]] is a highly competent but elitist Logistics student
+- [[Lucky]] demands genuine secrets, not just money or stories, for the actual test answers
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)
