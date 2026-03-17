@@ -151,7 +151,58 @@ const CODEX_FOLDER_NAME = "Vumbua Codex";
         }
     }
 
-    // ── Step 6: Final Summary ─────────────────────────────────────────────
+    // ── Step 6: Process Actors from JSON ─────────────────────────────
+    let actorsCreated = 0;
+    let actorsUpdated = 0;
+
+    if (data.actors) {
+        let actorFolder = game.folders.find(f => f.name === "NPCs" && f.type === "Actor");
+        if (!actorFolder) {
+            actorFolder = await Folder.create({ name: "NPCs", type: "Actor" });
+        }
+
+        for (const actorData of data.actors) {
+            let actor = game.actors.find(a => a.name === actorData.name);
+            
+            // Portrait Embedding
+            const portraitUrl = actorData.img ? (portraitDataURIs[actorData.img.replace('portraits/', '')] || actorData.img) : "";
+
+            const actorFields = {
+                name: actorData.name,
+                type: "npc", // Adjust based on Daggerheart system
+                img: portraitUrl,
+                folder: actorFolder.id,
+                system: {
+                    stats: {
+                        agility: { value: actorData.stats.agi ?? 0 },
+                        instinct: { value: actorData.stats.ins ?? 0 },
+                        strength: { value: actorData.stats.str ?? 0 },
+                        presence: { value: actorData.stats.prs ?? 0 },
+                        finesse: { value: actorData.stats.fin ?? 0 },
+                        knowledge: { value: actorData.stats.knw ?? 0 }
+                    },
+                    health: { max: actorData.stats.hp ?? 6, value: actorData.stats.hp ?? 6 },
+                    stress: { max: actorData.stats.stress ?? 5, value: actorData.stats.stress ?? 5 },
+                    evasion: { value: actorData.stats.evasion ?? 10 },
+                    thresholds: { 
+                        minor: { value: actorData.stats.thresholds?.minor ?? 4 }, 
+                        major: { value: actorData.stats.thresholds?.major ?? 8 } 
+                    },
+                    details: { biography: { value: actorData.biography } }
+                }
+            };
+
+            if (!actor) {
+                await Actor.create(actorFields);
+                actorsCreated++;
+            } else {
+                await actor.update(actorFields);
+                actorsUpdated++;
+            }
+        }
+    }
+
+    // ── Step 7: Final Summary ─────────────────────────────────────────────
     let missingList = Array.from(unresolvedNames).filter(name => !pageMap.has(name));
     
     new Dialog({
@@ -166,10 +217,14 @@ const CODEX_FOLDER_NAME = "Vumbua Codex";
         <div style="display:flex; justify-content:space-around; background:#f9f9f9; padding:10px; border-radius:4px; border:1px solid #eee;">
            <div style="text-align:center;">
              <div style="font-size:1.4em; font-weight:bold; color:green;">+${pagesCreated}</div>
-             <div style="font-size:0.8em; color:#666;">New Pages</div>
+             <div style="font-size:0.8em; color:#666;">Pages</div>
            </div>
            <div style="text-align:center;">
-             <div style="font-size:1.4em; font-weight:bold; color:#2d5dcc;">${pagesUpdated}</div>
+             <div style="font-size:1.4em; font-weight:bold; color:orange;">+${actorsCreated}</div>
+             <div style="font-size:0.8em; color:#666;">Actors</div>
+           </div>
+           <div style="text-align:center;">
+             <div style="font-size:1.4em; font-weight:bold; color:#2d5dcc;">${pagesUpdated + actorsUpdated}</div>
              <div style="font-size:0.8em; color:#666;">Updated</div>
            </div>
         </div>

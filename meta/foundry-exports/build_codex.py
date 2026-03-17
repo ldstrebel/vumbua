@@ -328,12 +328,30 @@ for fname in sorted(os.listdir(NPC_DIR)):
             # Target logic: Include if session matches, OR if no target session (Full mode)
             should_include = (not target_session and app_sess in active_sessions) or (target_session and app_sess == target_session)
             
-            if should_include:
+        if should_include:
                 print(f"  Found NPC: {name} (First: {app_sess})")
                 
                 overview = extract_section(content, "Overview")
                 known = extract_section(content, "What Players Know")
                 
+                # NEW: Extract Daggerheart stats for Actor creation
+                stats_section = extract_section(content, "Daggerheart Stats")
+                stats = {}
+                if stats_section:
+                    # Parse table for mods: | **Presence** | +3 |
+                    for m in re.finditer(r'\|\s*\*\*(.*?)\*\*\s*\|\s*([+-]?\d+)\s*\|', stats_section):
+                        stat_key = m.group(1).lower()[:3] # pres -> prs, agil -> agi
+                        stats[stat_key] = int(m.group(2))
+                    
+                    # Parse thresholds: Minor 4 / Major 8
+                    m_thresh = re.search(r'Minor\s*(\d+)\s*/\s*Major\s*(\d+)', stats_section)
+                    if m_thresh:
+                        stats['thresholds'] = {'minor': int(m_thresh.group(1)), 'major': int(m_thresh.group(2))}
+                    
+                    # Parse HP/Stress/Evasion: | **HP** | 6 |
+                    for m in re.finditer(r'\|\s*\*\*(HP|Stress|Evasion)\*\*\s*\|\s*(\d+)\s*\|', stats_section):
+                        stats[m.group(1).lower()] = int(m.group(2))
+
                 # Look for portrait
                 portrait_fname = f"{slugify(name)}_portrait.png"
                 img_tag = ""
@@ -342,6 +360,16 @@ for fname in sorted(os.listdir(NPC_DIR)):
                     data["portraits"][portrait_fname] = load_portrait(portrait_fname)
                     img_tag = f"<img src='portraits/{portrait_fname}' width='200' style='float:right;margin:0 0 10px 10px;border-radius:8px;'/>"
                 
+                # Add to Actors if stats found
+                if stats:
+                    if "actors" not in data: data["actors"] = []
+                    data["actors"].append({
+                        "name": name,
+                        "img": f"portraits/{portrait_fname}",
+                        "stats": stats,
+                        "biography": markdown_to_html(overview)
+                    })
+
                 npc_content = f"## {name}\n{img_tag}\n{overview}\n"
                 
                 # Add Recent Activity
