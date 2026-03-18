@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessions/planning/Session 4 plan.md",
+                "file": "characters/npcs/kaelen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Session 4 plan"
+              "title": "kaelen"
             }
           }
         ],
@@ -198,8 +198,18 @@
   },
   "active": "a183fea3e5e952f7",
   "lastOpenFiles": [
-    "world/circuit-run.md",
+    "characters/npcs/sarge.md",
+    "characters/npcs/kaelen.md",
     "sessions/planning/Session 4 plan.md",
+    "characters/npcs/professor-ink.md",
+    "characters/npcs/resonance-racers.md",
+    "characters/player-characters/iggy.md",
+    "characters/player-characters/britt.md",
+    "characters/player-characters/lomi.md",
+    "characters/npcs/hesperus.md",
+    "characters/npcs/professor-kante.md",
+    "sessions/planning/exam/Gened exam.md",
+    "world/circuit-run.md",
     "meta/radio-scripts/Session 04.2.md",
     "session 4.2.md",
     "Valerius Sterling Sr..md",
@@ -209,7 +219,6 @@
     "sessions/transcripts/raw/s3-raw.md",
     "sessions/transcripts/clean/session-03.md",
     "sessions/planning/exam/GenEd_-_Exploration101_survey.json",
-    "sessions/planning/exam/Gened exam.md",
     "sessions/planning/exam/Exam json gened.md",
     "sessions/planning/exam",
     "meta/radio-scripts/session-04-recap.md",
@@ -218,16 +227,7 @@
     "Excalidraw/Session 3 drawing.md",
     "copilot/copilot-conversations/Help_me_find_the_exam_questions_we_have_set@20260301_092913.md",
     "copilot/copilot-conversations/can_you_make_me_a_image_prompt_for_the_celestial@20260225_194903.md",
-    "characters/player-characters/gm-notes/lomi-gm.md",
-    "characters/player-characters/gm-notes/ignatius-gm.md",
-    "characters/player-characters/gm-notes/iggy-gm.md",
-    "characters/player-characters/gm-notes/britt-gm.md",
-    "characters/player-characters/gm-notes/aggie-gm.md",
     "characters/player-characters/gm-notes",
-    "characters/npcs/zyykl.md",
-    "characters/npcs/tus.md",
-    "characters/npcs/resonance-racers.md",
-    "characters/npcs/iron-hide.md",
     "GenEd_-_Exploration101_survey.json",
     "Screenshot_20260222_193632_Obsidian.jpg",
     "meta/Excalidraw/Reso Race 1.png",

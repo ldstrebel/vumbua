@@ -17,10 +17,10 @@ This page details the notable teams and soloists competing in the intake year's 
 | **Strategy** | **Attrition & Elimination.** They don't race to win by speed; they hunt the competition. Their strategy is to destroy or disable faster, smaller rigs early on, securing a win by being the last team left functional or heavily crippling the frontrunners. |
 
 ## Team 4: Pudge
-| | |
-|---|---|
-| **Role** | Experimental Light-Class Team |
-| **Rig** | **The Gryphon-Hybrid** - A heavily customized, bulbous gyro-boat. It looks aerodynamically questionable ("pudgy") but incorporates experimental Aero-Static components that allow it to catch thermals and glide over uneven terrain. |
+|              |                                                                                                                                                                                                                                                                                 |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Role**     | Experimental Light-Class Team                                                                                                                                                                                                                                                   |
+| **Rig**      | **The Gryphon-Hybrid** - A heavily customized, bulbous gyro-boat. It looks aerodynamically questionable ("pudgy") but incorporates experimental Aero-Static components that allow it to catch thermals and glide over uneven terrain.                                           |
 | **Strategy** | **High-Risk Synchronization.** Their rig requires massive connection to overcome its design handicap. They rely on linking with specialized nodes (like Vitruvian and Aero-Static) to double their sync duration and perform massive vertical jumps, bypassing complex terrain. |
 
 ## Team 5: Dancer & Fabian
