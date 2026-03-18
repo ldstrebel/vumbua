@@ -10,6 +10,8 @@ tags:
 
 # Silas "Old Man" Thorne
 
+![Portrait](../../meta/foundry-exports/portraits/silas_thorne_portrait.png)
+
 **Role:** Squad 05 (The Harvesters) - Member (Rust Tier)
 **Affiliation:** [[Vumbua Academy]], Thorne Family (Black Sheep)
 **Status:** Active

@@ -23,7 +23,7 @@ Here is a revised version of the Captains' dialogue with added world-building, n
 
 [rapid-fire] "First up in the studio, a man whose boiler runs hotter than a dragon's breath. He's betting on a vertical climb up a Storm-Needle mountain... Captain Ignis 'Scorch' of the Iron-Union!"
 
-**Captain Scorch:** [intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until it melts or we find more Clans! **I’m betting my commission that the 'Ash-Blood Anomaly' isn't a power failure—it’s a frequency mask. There’s a Leidian Node up there vibrating at a pitch the Scriveners are too scared to chart. We hit that Overclock, and we won't just climb; we'll ignite!** I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
+**Captain Scorch:** [intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until it melts or we find more Clans! **I’m betting my commission that the 'Ash-Blood Anomaly' isn't a power failure—it’s a frequency mask. There’s a lavsidian Node up there vibrating at a pitch the Scriveners are too scared to chart. We hit that Overclock, and we won't just climb; we'll ignite!** I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
 
 **Valerius:** [amused, slightly appalled] "Well, that sounds... entirely reckless! A 'frequency mask'? You'll have the [[scrivener-guild]] in a tizzy, Scorch. And speaking of surviving the impossible, our next guest is a living legend. He literally wrote the book on survival—*The Percussive Maintenance Guide (Vol. 4)*! Please welcome Captain 'Iron-Hide' Jorah!"
 
@@ -39,7 +39,7 @@ To further weave in the [[Session 4 plan]], here are a few ways these lines help
 
 - **The Ash-Blood Mystery:** By having Scorch mention a "frequency mask," you give [[Ignatius]] a direct lead on why his homeland's integration was so low-yield (~20 amps). It suggests the power is there, just "hidden."
 - **The Mizizi Connection:** Iron-Hide mentioning "Vitruvian readings" and "Kinetic-Echoes" in the forest gives [[Britt]] and [[Aggie]] a mechanical/scientific way to look at their home's "magic." It also sets up the danger of the hallucinations mentioned in the [[Session 4 plan#Finding Rill|Finding Rill]] section.
-- **Node Mechanics:** Mentioning **Leidian** (Speed/Overclock), **Vitruvian** (Sync/Duration), and **Kinetic-Echo** (Evasion/Phasing) reinforces the "Battery Lesson" from the Resonance Race. It makes the "magic" feel like a tangible resource they need to manage.
+- **Node Mechanics:** Mentioning **lavsidian** (Speed/Overclock), **Vitruvian** (Sync/Duration), and **Kinetic-Echo** (Evasion/Phasing) reinforces the "Battery Lesson" from the Resonance Race. It makes the "magic" feel like a tangible resource they need to manage.
 - **The Loom Prophecies:** You can tie the Captains' bets to the **Loom one-liners** you're drafting. For example, if a PC gets the line *"The fire that doesn't burn feeds the root that doesn't grow,"* they might realize it refers to Scorch's "True Flame" or Iron-Hide's "Deep-Pulse."
 
 ### Suggested "Loom" One-Liners for your PCs:
@@ -59,7 +59,7 @@ Based on your plan, here are some "fortune-cookie" prophecies to hand out after 
 [Context: Notes: meta/radio-scripts/session-04-recap.md]
 [Timestamp: 2026/03/05 20:35:32]
 
-**ai**: Understood—let's keep the "Ash-Blood Anomaly" under wraps and focus on the more public-facing scientific and exploratory "bets" these captains are making. This keeps the mystery for the players to uncover while giving them clear mechanical hooks for the **Leidian** and **Vitruvian** nodes.
+**ai**: Understood—let's keep the "Ash-Blood Anomaly" under wraps and focus on the more public-facing scientific and exploratory "bets" these captains are making. This keeps the mystery for the players to uncover while giving them clear mechanical hooks for the **lavsidian** and **Vitruvian** nodes.
 
 Here is the revised script with the "Anomaly" removed and replaced with more "frontier-science" bets.
 
@@ -67,7 +67,7 @@ Here is the revised script with the "Anomaly" removed and replaced with more "fr
 
 **Valerius:** [rapid-fire] "First up in the studio, a man whose boiler runs hotter than a dragon's breath. He's betting on a vertical climb up a Storm-Needle mountain... Captain Ignis 'Scorch' of the Iron-Union!"
 
-**Captain Scorch:** [intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until it melts or we find more Clans! **I’m betting my commission that there’s a 'Leidian High-Stream' pulsing at the peak of the Needle that’ll cut travel time to the Outer-Rim by half! The [[scrivener-guild]] says the air is too thin for a stable resonance—I say they just don't have the guts to redline their batteries!** I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
+**Captain Scorch:** [intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until it melts or we find more Clans! **I’m betting my commission that there’s a 'lavsidian High-Stream' pulsing at the peak of the Needle that’ll cut travel time to the Outer-Rim by half! The [[scrivener-guild]] says the air is too thin for a stable resonance—I say they just don't have the guts to redline their batteries!** I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
 
 **Valerius:** [amused, slightly appalled] "A 'High-Stream'? You'll either be a hero or a very fast-moving smear on the rocks, Scorch. And speaking of surviving the impossible, our next guest is a living legend. He literally wrote the book on survival—*The Percussive Maintenance Guide (Vol. 4)*! Please welcome Captain 'Iron-Hide' Jorah!"
 
@@ -81,9 +81,9 @@ Here is the revised script with the "Anomaly" removed and replaced with more "fr
 
 To help the characters connect these lines to the [[Session 4 plan]], here are some additional details you can drop during the session:
 
-- **The Leidian High-Stream (Scorch's Bet):**
+- **The lavsidian High-Stream (Scorch's Bet):**
     - **The Hook:** This appeals to characters like [[Ignatius]] or anyone interested in the **Iron-Union**. 
-    - **The Discovery:** If Scorch is right, it means the "speed" nodes (Leidian) aren't just on the ground; they form atmospheric "rivers." This would revolutionize how the Sky-Spires communicate.
+    - **The Discovery:** If Scorch is right, it means the "speed" nodes (lavsidian) aren't just on the ground; they form atmospheric "rivers." This would revolutionize how the Sky-Spires communicate.
     - **The Risk:** High-altitude resonance is notoriously unstable, leading to "Battery-Bleed" or engine meltdowns.
 
 - **The Vitruvian Root-Node (Iron-Hide's Bet):**
@@ -95,7 +95,7 @@ To help the characters connect these lines to the [[Session 4 plan]], here are s
     - You could actually let the players "place a bet" with [[Lucky]] (from the [[Session 4 plan#Finding Lucky (The Extortion)|Finding Lucky]] scene) on which Captain will actually find what they're looking for. This gives them a financial stake in the Proving Voyage before they even leave the Academy.
 
 - **Node Tie-ins:**
-    - **Leidian (Yellow/Gold):** Associated with Scorch. Focuses on **Speed, Initiative, and Overclocking**.
+    - **lavsidian (Yellow/Gold):** Associated with Scorch. Focuses on **Speed, Initiative, and Overclocking**.
     - **Vitruvian (Green/Blue):** Associated with Iron-Hide. Focuses on **Defense, Stability, and Syncing** with the ship's systems.
 [Timestamp: 2026/03/05 20:35:45]
 
@@ -344,7 +344,7 @@ Here is the revised radio segment, weaving in the [[Timon]] glass, the [[resonan
 
 **Professor Kante:** "I am saying that in Harmonics, certainty is safety. Until the Ash-Blood resonance finds its... how do you say... its 'level' within the Harmony grid, it remains a variable. And the Circuit-Run has no room for variables. We race on what we know."
 
-**Valerius:** "Well, there you have it! Safety first, even if it means a dimmer skyline. Thank you, Professor! Candidates, take note: if the Professor can't tune it, don't you dare try to 'Harvest' it! Stick to the Leidian and Vitruvian nodes we know and love!"
+**Valerius:** "Well, there you have it! Safety first, even if it means a dimmer skyline. Thank you, Professor! Candidates, take note: if the Professor can't tune it, don't you dare try to 'Harvest' it! Stick to the lavsidian and Vitruvian nodes we know and love!"
 
 [grand] "...Momentum is Life"
 

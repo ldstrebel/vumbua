@@ -5,6 +5,8 @@ tags:
 
 # Tommy
 
+![Portrait](../../meta/foundry-exports/portraits/tommy_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Clerk, Power Room Front Desk |

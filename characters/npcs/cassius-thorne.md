@@ -9,6 +9,8 @@ tags:
 
 # Cassius Thorne
 
+![Portrait](../../meta/foundry-exports/portraits/cassius_thorne_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Student (Gold Rank) |

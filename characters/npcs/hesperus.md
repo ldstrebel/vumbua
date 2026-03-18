@@ -8,6 +8,8 @@ tags:
 
 # Senior Exploranaut Hesperus
 
+![Portrait](../../meta/foundry-exports/portraits/hesperus_portrait.png)
+
 **Role:** Senior Exploranaut / Instructor
 **Affiliation:** [[Vumbua Academy]], The Guilds
 **Status:** Active

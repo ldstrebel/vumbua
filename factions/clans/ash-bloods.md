@@ -66,7 +66,7 @@ Integration has split the Ash-Bloods into two ideological camps:
 
 **Traditionalists** (e.g. [[ignatius|Ignatius]]):
 - Fire and volcanic heritage are sacred, non-negotiable
-- Ash-Bloods should find new sources of leidian and master their own element
+- Ash-Bloods should find new sources of lavsidian and master their own element
 - Harmony's crystal batteries are useful tools, not replacements for true fire
 - Ignatius's personal quest: *"I want to find the heart of the volcano"*
 
@@ -81,10 +81,10 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 ### Ash-Blood Physiology ([[session-02|Session 2]])
 
 - Ash-Bloods release heat by **burning hotter** (thermodynamic heat transfer), not sweating
-- Their clothing is designed to withstand extreme heat; leidian doesn't burn through it
+- Their clothing is designed to withstand extreme heat; lavsidian doesn't burn through it
 - They were going through a **"Great Cooling"** (volcanoes dying) before Harmony found them
 - Integration revived the heat---but the mechanism isn't fully understood
-- Ignatius carries a piece of leidian (obsidian-like heat stone) in his pocket
+- Ignatius carries a piece of lavsidian (obsidian-like heat stone) in his pocket
 
 ### Known Ash-Bloods
 
@@ -99,7 +99,7 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 - **[[session-00|Session 0]]** — [[ash-blood-isles|Ash-Blood Isles]] discovery by Captain Elara Thorne; [[valentine-sterling-sr|Valentine Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
 - **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatius|Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
-- **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, leidian properties *(Scene 3)*
+- **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, lavsidian properties *(Scene 3)*
 - **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes

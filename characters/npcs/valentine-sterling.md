@@ -12,6 +12,8 @@ tags:
 
 # Valentine "Val" Sterling
 
+![Portrait](../../meta/foundry-exports/portraits/valentine_sterling_portrait.png)
+
 > "Good evening, Vumbua Academy! This is Valentine Sterling coming to you LIVE..."
 
 | | |

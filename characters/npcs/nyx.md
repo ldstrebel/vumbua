@@ -6,6 +6,8 @@ tags:
 
 # Nyx
 
+![Portrait](../../meta/foundry-exports/portraits/nyx_portrait.png)
+
 **Role:** Squad 03 (The Silence) - Captain (Silver/Gold) / Rogue
 **Affiliation:** [[Vumbua Academy]], The Guilds (Shadows)
 **Status:** Active

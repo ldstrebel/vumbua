@@ -10,6 +10,8 @@ tags:
 
 # Lady Ignis
 
+![Portrait](../../meta/foundry-exports/portraits/lady_ignis_scorch_portrait.png)
+
 | | |
 |---|---|
 | **Role** | [[Ash-Bloods\|Ash-Blood]] Matriarch / Harmony's Highest Voting Power |

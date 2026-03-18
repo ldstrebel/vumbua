@@ -181,13 +181,13 @@ Suddenly, [[Rill]] (from the Mizizi exchange) appears and grabs Zephyr.
 
 Lomi introduces himself properly to Britt and Aggie, explaining his boiler room background.
 
-**[[lomi|Lomi]]:** "We use the [[Leidian]] from the [[ash-blood-isles|Ash-Blood Isles]]. Best stuff."
+**[[lomi|Lomi]]:** "We use the [[lavsidian]] from the [[ash-blood-isles|Ash-Blood Isles]]. Best stuff."
 
-**[[ignatius|Ignatius]]:** "Obsidian. I have now named it [[Leidian]]. Just take lava and obsidian and smash those two babies together."
+**[[ignatius|Ignatius]]:** "Obsidian. I have now named it [[lavsidian]]. Just take lava and obsidian and smash those two babies together."
 
 Iggy reveals his character motivation:
 
-**[[ignatius|Ignatius]]:** "I want to find the heart of the volcano. The next [[Leidian]] deposit. I want to find out *why* it's reheating."
+**[[ignatius|Ignatius]]:** "I want to find the heart of the volcano. The next [[lavsidian]] deposit. I want to find out *why* it's reheating."
 
 The group decides to keep the night going.
 
@@ -216,7 +216,7 @@ The group decides to keep the night going.
 - [x] Create/Update [[Percy Vane-Smythe III]]
 - [x] Create/Update [[Zephyr]] (Lightning Girl)
 - [x] Create/Update [[Lucky]]
-- [x] Create/Update [[Leidian]] (Iggy's term for fuel rocks)
+- [x] Create/Update [[lavsidian]] (Iggy's term for fuel rocks)
 - [x] Update [[ash-blood-isles|Ash-Blood Isles]] with "Great Cooling" history
 - [x] Update [[mizizi|Mizizi]] with death philosophy
 

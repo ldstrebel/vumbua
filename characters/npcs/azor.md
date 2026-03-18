@@ -7,6 +7,8 @@ reveal: players
 
 # Azor
 
+![Portrait](../../meta/foundry-exports/portraits/azor_portrait.png)
+
 > *"The water said you were real. The paper will prove it."*
 
 ## Overview

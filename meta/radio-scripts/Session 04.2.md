@@ -91,6 +91,8 @@ Here is the revised radio segment, weaving in the [[Timon]] glass, the [[resonan
 
 **Professor Kante:** "It is a matter of... what do you like, know... relative strength. A Resonance Race is a closed loop. The nodes must feed the Central Spire with a very specific, very stable charge. If the amplitude of a node is not yet... 'set,' we cannot calibrate the rigs' Harvest-Prongs to receive it."
 
+"Handcrafted from lavsidian itself. The genuine heat-stone. Five columns, each one veined with magma visible through hairline cracks in the surface. On sync, the design called for no flash, no bang. A pulse. Low. Resonant. The sound of a forge being lit. Something that would say to every spectator in these stands: *this is what the Ash-Bloods contribute*."
+
 **Valerius:** "But it’s been weeks since the integration! Is the Ash-Blood frequency really that difficult to tune? Or is the Spire just... underpowered?"
 
 **Professor Kante:** [choosing words carefully] "It is not a question of 'power,' but of 'synchronization.' The [[The Power System|Global Amplitude]] is currently... fluctuating. If we were to include an uncalibrated node in the Circuit-Run, the feedback would be... catastrophic. A rig hitting that node wouldn't get a boost; it would likely experience a total resonator-melt. We cannot connect the Central Spire with a 'ghost frequency' that we haven't yet mapped to the Panda 5 standards."

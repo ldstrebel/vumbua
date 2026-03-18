@@ -5,6 +5,8 @@ tags:
 
 # Marla
 
+![Portrait](../../meta/foundry-exports/portraits/marla_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Maintenance Worker, Power Room |

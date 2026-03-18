@@ -32,10 +32,10 @@ aliases:
 ### What Players Know
 - ✅ [[Vumbua Academy|Vumbua]] has "flickering lights" occasionally (might not have noticed)
 - ✅ The Academy relocated recently to the [[Ash-Blood Isles]]
-- ✅ Leidian is burning 80% hotter per gram in the last 2 years since integration ([[session-02|Session 2]])
-- ✅ Leidian has a halflife oscillation---heat tapers then rises again ([[session-02|Session 2]])
-- ✅ Leidian loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]] ([[session-02|Session 2]])
-- ✅ The boiler room uses both crystal batteries and leidian ([[session-02|Session 2]])
+- ✅ lavsidian is burning 80% hotter per gram in the last 2 years since integration ([[session-02|Session 2]])
+- ✅ lavsidian has a halflife oscillation---heat tapers then rises again ([[session-02|Session 2]])
+- ✅ lavsidian loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]] ([[session-02|Session 2]])
+- ✅ The boiler room uses both crystal batteries and lavsidian ([[session-02|Session 2]])
 - 
 ### Iggy Only ([[session-02.5|Session 2.5]] — via [[Professor Kante]])
 - 🔶 [[The Power System|Global Amplitude]] measures total ether energy across Harmony — increases with each node integration

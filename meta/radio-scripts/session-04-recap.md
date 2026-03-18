@@ -22,7 +22,7 @@
 
   
 
-[intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until they melt or I find a 'Leidian High-Stream' pulsing at the peak of the Needle that’ll cut travel time to the through the core by half! The Scriveners says the air is too thin for a stable resonance—I say they just don't have the guts to redline their resonators! I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
+[intense, slightly manic, fast pacing] "Speed is survival, Sterling! We aren't just climbing that mountain; we're launching up it! I'm running the engine at 120% until they melt or I find a 'lavsidian High-Stream' pulsing at the peak of the Needle that’ll cut travel time to the through the core by half! The Scriveners says the air is too thin for a stable resonance—I say they just don't have the guts to redline their resonators! I need candidates with Heat-Resistance, high Constitution, and no fear of heights. If you can handle the heat, you're on my crew."
 
   
 

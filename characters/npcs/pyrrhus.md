@@ -7,9 +7,14 @@ tags:
 
 # Pyrrhus
 
-**Role:** Ash-Blood Student / Map Room Researcher
-**Affiliation:** [[Vumbua Academy]], Ash-Blood
-**Status:** Active
+|                      |                                                  |
+| -------------------- | ------------------------------------------------ |
+| **Role**             | Ash-Blood Student / Map Room Researcher          |
+| **Affiliation**      | [[Vumbua Academy]], Ash-Blood                    |
+| **Status**           | Active                                           |
+| **First Appearance** | [[session-03\|Session 3]]                        |
+
+![Portrait](../../meta/foundry-exports/portraits/pyrrhus_portrait.png)
 
 ## Overview
 An Ash-Blood student who spends time in the Great Library's map room, tracing charts and investigating where Harmony's heat is going.

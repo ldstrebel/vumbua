@@ -91,5 +91,6 @@
 - **[[Tus]]** - Nstyl Bruiser, failed Academy candidate
 - **[[ignis-scorch|Captain Ignis "Scorch"]]** - Iron-Union Daredevil, Captain of the Proving Voyage
 - **[[iron-hide|Captain "Iron-Hide"]]** - Iron-Union Legend, Captain of The Bulwark
+- **[[Finch Gable]]** - Harmony Student, Logistics Nerd
 
 - Captains List - a list of all Captains and their charter for the Venture

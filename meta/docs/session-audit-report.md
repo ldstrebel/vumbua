@@ -40,8 +40,8 @@ Key indexes used:
 
 ### Session 02 (`session-02.md`)
 - Normalized key proper-noun links in the quick summary and scenes (e.g. `[[Block 99]]`, `[[Percy Vane-Smythe III]]`, `[[Lucky]]`, `[[Zephyr]]`, `[[Rill]]`, `[[Celestial Lounge]]`).
-- Canonicalized **Leidian** spelling:
-  - `Lidian` → `[[Leidian]]` (matches `.agent/workflows/lore-index.md` and `locations/ash-blood-isles.md`).
+- Canonicalized **lavsidian** spelling:
+  - `Lidian` → `[[lavsidian]]` (matches `.agent/workflows/lore-index.md` and `locations/ash-blood-isles.md`).
 - Replaced out-of-vault terminology where appropriate:
   - “Warforged” → “veteran” (only in descriptive narration; character/NPC page remains `[[Sarge]]`).
 - Canonicalized Captain Thorne naming in-session:
@@ -83,13 +83,13 @@ Key indexes used:
 **Action taken:**
 - Cleaned session 01 uses `[[Serra Vox]]` / `[[Serra Vox|Serra]]` consistently.
 
-### 3) Leidian spelling drift (Lidian / Leidian)
+### 3) lavsidian spelling drift (Lidian / lavsidian)
 **Observed:**
 - Some session text used “Lidian”.
-- Canon elsewhere uses **Leidian**.
+- Canon elsewhere uses **lavsidian**.
 
 **Action taken:**
-- Cleaned session 02 updated to `[[Leidian]]`.
+- Cleaned session 02 updated to `[[lavsidian]]`.
 
 ### 4) “Seed of Harmony” link target unclear
 **Observed:**

@@ -8,6 +8,8 @@ aliases:
 
 # "Wall" Maria
 
+![Portrait](../../meta/foundry-exports/portraits/maria_wall_portrait.png)
+
 **Role:** Squad 02 (The Breakers) - Tank
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

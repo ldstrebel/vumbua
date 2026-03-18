@@ -6,6 +6,8 @@ tags:
 
 # Hearth
 
+![Portrait](../../meta/foundry-exports/portraits/hearth_portrait.png)
+
 **Role:** Squad 06 (The Kiln) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

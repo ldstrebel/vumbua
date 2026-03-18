@@ -130,7 +130,7 @@
 - **[[Zephyr]]'s Lightning:** Purple bolt from clear sky strikes her; she's unharmed *(Scene 4: The Lightning)*
 - **[[Rill]]** appears, retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class (grass-covered building)
 - [[Ignatius]] reveals [[Ash-Bloods|Ash-Blood]] cultural divide: traditionalists (himself) vs modernizers ([[Ember]])
-- Leidian properties discussed: 80% hotter, halflife oscillation, distance decay
+- lavsidian properties discussed: 80% hotter, halflife oscillation, distance decay
 - Party heads to the **[[Celestial Lounge]]** for a nightcap
 
 ### Intake Week - Night of Day 1 ([[session-02.5|Session 2.5]]: The Power Room)
