@@ -17,6 +17,7 @@ aliases:
 - ✅ There's a problem: "too much life"---things aren't dying properly ([[session-02|Session 2]])
 - ✅ [[Mizizi]] view death as natural and celebrate the cycle; Harmony culture fears death ([[session-02|Session 2]])
 - ✅ The Mizizi have NOT been formally integrated---no seat at Harmony, just a "semi-short-term weapons trade" ([[session-02|Session 2]])
+- ✅ The forest has noticeably resisted dying/pruning over the last two years, drawing a possible parallel to the "dead island" phenomenon ([[s4.5-clean|Session 4.5]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The forest is a **data archive/library**
@@ -36,7 +37,9 @@ aliases:
 - ✅ lavsidian has a halflife oscillation---heat tapers then rises again ([[session-02|Session 2]])
 - ✅ lavsidian loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]] ([[session-02|Session 2]])
 - ✅ The boiler room uses both crystal batteries and lavsidian ([[session-02|Session 2]])
-- 
+- ✅ Harmony technology is powered by "resonance" (a river of energy) which must be regulated by Umber Crystals to prevent explosions ([[s4.5-clean|Session 4.5]])
+- ✅ Professor Silas Thorne teaches Reality Anchoring to keep the "edge of the world" at bay ([[s4.5-clean|Session 4.5]])
+- ✅ The "dead island" is a phenomenon where matter remains but energy is entirely void, causing Harmony tech to fail completely ([[s4.5-clean|Session 4.5]])
 ### Iggy Only ([[session-02.5|Session 2.5]] — via [[Professor Kante]])
 - 🔶 [[The Power System|Global Amplitude]] measures total ether energy across Harmony — increases with each node integration
 - 🔶 The Global Amplitude has been declining for 30-40 years (first decline in recorded history)

@@ -53,7 +53,7 @@ Lyra is one half of the Castellan twins, a political family from the lower spire
 ## Session Appearances
 
 ### Session 4.5
-- **Dorm Hallway**: Attempted to corner Val in the Sterling Wing, offering him "a private vintage of Aether-Wine" to help him relax from the stresses of the Great Filter.
+- **The Sentries:** Glared down the gaggle of students trying to follow Val into his Sterling Hall dorm, giving them a severe "century stare" before slamming the door.
 
 
 Based on the details in their notes and the geography of Harmony, here is a look at where Lyra and [[ludo-castellan]] likely hail from and what truly drives them.

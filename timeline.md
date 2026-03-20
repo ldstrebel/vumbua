@@ -103,7 +103,7 @@
 
 ---
 
-## Current Timeline ([[session-00|Session 0]]–[[session-02.5|Session 2.5]])
+## Current Timeline ([[session-00|Session 0]]–[[s4.5-clean|Session 4.5]])
 
 ### Intake Week - Day 1 ([[session-00|Sessions 0]]–[[session-01|1]])
 - **100,000 candidates** take the trials
@@ -143,6 +143,11 @@
 - [[Iggy]] mentions "the Exchange" — Kante has never heard of it
 - Kante gives [[Iggy]] an **umber crystal** and invites him to return as a collaborator
 - [[Iggy]] designs five experiments to test "connection" — rejoins group for [[Celestial Lounge]]
+
+### Intake Week - Day 2 ([[session-03|Session 3]]–[[s4.5-clean|Session 4.5]])
+- **Session 3:** The party visits the Celestial Lounge; [[Valentine Sterling|Val]] sells a study guide to [[Lucky]]; [[Britt]] is ambushed by Azer, Nickel, and Tus.
+- **Session 4:** First day of classes begins; [[Ignatius]] hit by chalk in Logistics; [[Lomi]] rebuffed by Finch Gable; Party trades Ash-Blood genesis myth to Lucky for Val's study guide.
+- **Session 4.5:** Britt experiences "bacon"; [[Kael]] explains Speaking Stones and Resonance theory; Professor Thorne lectures on Reality Anchoring and the "dead island" before walking out; [[Aggie]] spots Val entering Sterling Hall with the Castellan twins.
 
 ---
 

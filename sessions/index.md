@@ -141,7 +141,28 @@ The grueling first week of Vumbua Academy begins. After a morning of diverse bre
 - [[Finch Gable]] is a highly competent but elitist Logistics student
 - [[Lucky]] demands genuine secrets, not just money or stories, for the actual test answers
 
+
 ---
+
+### [[s4.5-clean|Session 4.5: Reality Anchors & Dead Pigs]]
+**Date:** 2026-03-18
+
+Brit and Aggie process the previous night's trauma, their Mizi upbringing clashing with Academy life—especially over breakfast, where the concept of "dead pigs" (bacon) bewilders Brit. In Reality Anchoring class, Professor Thorne introduces the horrifying "dead island" phenomenon, challenging Mizi philosophies on death.
+
+**Key Events:**
+- [[Brit]] and [[Aggie]] meet [[Pip]], [[Kael]], and [[Saffron]]
+- [[Kael]] explains Harmony tech's reliance on "resonance" and Umber Crystals
+- [[Silas Thorne|Professor Thorne]] teaches the first class on Reality Anchoring
+- Thorne abruptly walks out; the group pursues him through the halls
+- Thorne describes the "dead island" and warns of the "edge of the world"
+- Aggie spots [[Valentine Sterling|Val]] entering Sterling Hall, guarded by the intimidating [[Lyra Castellan|Castellan twins]]
+
+**Players Discovered:**
+- A "dead island" exists where matter remains but energy is a complete vacuum
+- Reality Anchoring is the science of porting resonance to keep the "edge of the world" away
+- Resonance powers all Harmony tech and must be regulated by Umber Crystals
+- Mizi forest's recent resistance to pruning might be linked to the dead island phenomenon
+- The Castellan twins act as Val's aggressive sentries
 
 ## Upcoming
 

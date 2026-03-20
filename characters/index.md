@@ -26,6 +26,7 @@
 - **[[Lucina]]** - Maintenance Worker, Power Room
 - **[[Marla]]** - Maintenance Worker, Power Room
 - **[[Tommy]]** - Clerk, Power Room Front Desk
+- **[[Silas Thorne|Professor Silas Thorne]]** - Professor of Reality Anchoring
 
 ### Student Squads
 
@@ -51,7 +52,6 @@
 
 #### Squad 05: The Harvesters
 - **[[Dr. Rose Halloway]]** - Captain, Druid
-- **[[Silas Thorne|Silas "Old Man" Thorne]]** - Scrapper, Tech Vendor
 - **[[Bramble]]** - Plant-Kin Tank
 
 #### Squad 06: The Kiln
@@ -92,5 +92,10 @@
 - **[[ignis-scorch|Captain Ignis "Scorch"]]** - Iron-Union Daredevil, Captain of the Proving Voyage
 - **[[iron-hide|Captain "Iron-Hide"]]** - Iron-Union Legend, Captain of The Bulwark
 - **[[Finch Gable]]** - Harmony Student, Logistics Nerd
+- **[[Pip]]** - Gnome Student, Breakfast Enthusiast
+- **[[Kael]]** - Student, Inventor of Speaking Stones
+- **[[Saffron]]** - Student, Sketch Artist
+- **[[Lyra Castellan]]** - Sentry for Val, Castellan Family
+- **[[Ludo Castellan]]** - Sentry for Val, Castellan Family
 
 - Captains List - a list of all Captains and their charter for the Venture

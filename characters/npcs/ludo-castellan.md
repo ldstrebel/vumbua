@@ -53,4 +53,4 @@ Ludo is the more "academic" half of the Castellan twins. While his sister Lyra h
 ## Session Appearances
 
 ### Session 4.5
-- **Dorm Hallway**: Flanked Val with Lyra, offering him "exclusive debate notes" for their upcoming seminars and inviting him to a private table to avoid the "riff-raff."
+- **The Sentries:** While his sister Lyra intimidated the crowd outside, Ludo warmly welcomed Val inside the Sterling Hall dorm, looping an arm around him and greeting him fondly before shutting the crowd out.

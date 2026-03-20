@@ -3,36 +3,31 @@ aliases:
 - Old Man Thorne
 - Silas
 - Silas Thorne
+- Professor Thorne
 tags:
 - npc
-- squad-05
+- professor
 ---
 
-# Silas "Old Man" Thorne
+# Professor Silas Thorne
 
 ![Portrait](../../meta/foundry-exports/portraits/silas_thorne_portrait.png)
 
-**Role:** Squad 05 (The Harvesters) - Member (Rust Tier)
-**Affiliation:** [[Vumbua Academy]], Thorne Family (Black Sheep)
-**Status:** Active
-**Archetype:** The Archivist of Rust
+| | |
+|---|---|
+| **Role** | Professor of Reality Anchoring |
+| **Race** | Human |
+| **Affiliation** | [[Vumbua Academy]], Thorne Family |
+| **Status** | Active |
+| **First Appearance** | [[s4.5-clean\|Session 4.5]] |
 
 ## Overview
-Silas Thorne is an older student (perhaps a repeating senior or lifelong learner) in the Rust Tier. He is a scrapper, a smuggler, and a technological savant who prefers "Pre-Stitch" tech.
+"Old Man Thorne" (who is actually only about 30 years old) is a bedraggled, ink-stained professor teaching the massive 5,000-student "Reality Anchoring" core class. He approaches his wildly theoretical and controversial subject matter with an eccentric mix of absolute gravity and casual dismissiveness. 
 
-## Personality
-- Grumpy, cynical, but wise.
-- **Motivation:** He collects "Pre-Stitch" tech (combustion engines, kinetic weapons) not for greed, but because he believes they are the only things that will work when the magic/Venture fails.
-- **Connections:** Distant relation to [[Cassius Thorne]] (Squad 01) and Captain Elara Thorne.
+## Session Appearances
 
-## Mechanics
-- **Vendor:** Can procure rare "Rust" items or scavenged parts for the party.
-
-## Related Pages
-
-- [[Dr. Rose Halloway]] — Squad 05 Captain
-- [[Bramble]] — Squad 05 Tank
-- [[Cassius Thorne]] — Distant relation
-- [[Pre-Stitch Artifacts]] — Tech he collects
-- [[The Minimum]] — Motivation for hoarding non-magic tech
-- [[Vumbua Academy]] — Current posting
+### Session 4.5
+- **Reality Anchoring:** Taught the first class on the subject, explaining how the "edge of the world" is encroaching on Harmony, and how "Reality Anchors" keep it at bay.
+- **The Walkout:** Frustrated by students not paying attention, he abruptly packed up his book and walked out in the middle of his own lecture.
+- **The Dead Island:** When pursued by [[Pip]]'s group and [[Brit]] and [[Aggie]], he elaborated on his discovery of a "dead island" where matter remained but energy vanished entirely.
+- **Philosophical Debate:** Countered the Mizi perspective that a lack of death is catastrophic, arguing that the true danger is the complete absence of resonance.
