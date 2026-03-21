@@ -44,6 +44,30 @@ Before Track Assignment, the party needs to execute their plan: track down [[Luc
 - **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Lomi's new reputation as a rib-breaker.
 - **The Catch:** If they successfully intimidate him, Lucky might hand it over but remember the slight. If they barter, he'll gladly take the watch but might try to upsell them on something else.
 - The "study guide" contains 10 annotated questions from Val, some of which Val noted were fundamentally flawed but useful.
+- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[GenEd_-_Exploration101_survey.json]].
+
+---
+
+### Val's Study Guide — Design Philosophy
+
+Val's questions are a "level up" from what might be on the general exam, even though they cover similar core competencies:
+
+1.  **Increased Complexity & Nuance:**
+    *   Instead of a "floating island rotating," Valentine's guide presents a "Chrono-Spatial Drift" with flickering charts and temporal eddies, adding layers of temporal distortion to spatial navigation.
+    *   A "Node humming in B-Minor" becomes a "Crystalline formation emitting a complex, multi-frequency resonance" causing "unpredictable mutations," demanding a more nuanced bio-harmonic understanding.
+
+2.  **Counter-Intuitive Solutions:**
+    *   Where the general exam might test a standard "Synchronized Helix," Valentine's "Entropic Pulse" scenario requires a "controlled energy *drain*" to stabilize, rather than an injection, forcing students to think paradoxically.
+
+3.  **Higher Stakes & Deeper Philosophical/Ethical Challenges:**
+    *   "Ether-Mist dissolves your ego" becomes a "Psychic anomaly that fragments your sense of self," requiring a more fundamental anchor than just "The Flaw" or "The Law."
+    *   A "resource-negative weed" becomes a "Sentient mineral vein" that feels "immense distress," pushing ethical considerations into truly alien territory.
+
+4.  **Abstracted Practical Application:**
+    *   "Manually plotting a non-Euclidean archipelago" evolves into "charting a sub-aetheric current" that "dissipates upon direct observation," demanding predictive intuition over reactive drawing.
+    *   "Landing a ship blind" becomes navigating a "Temporal Labyrinth" or "Chronal Eddy" where time itself is erratic, requiring mastery beyond linear perception.
+
+By crafting scenarios that are conceptually related but significantly more intricate, unpredictable, or ethically ambiguous, Valentine's guide forces students to internalize the *principles* of Venture exploration, crisis management, and ethical interaction at a much deeper level. It's designed to make them truly *think* and adapt, rather than just recall information, which aligns perfectly with his character as a playful, high-level mentor.
 
 ---
 
@@ -102,12 +126,12 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 
 > [!NOTE]
 > Items that need GM decisions or future drafting:
-> - [ ] **Lucky's test questions** — 10 questions with Val's annotated answers
+> - [x] **Lucky's test questions** — See `sessions/planning/exam/Gened exam.md` and `GenEd_-_Exploration101_survey.json`
 > - [ ] **Track department heads** — Fill in TBD faculty for Ironworks, Verdant Studies, Shadow Ops, Medicae
 > - [ ] **Resonance Race** — Transcribe Excalidraw drawings `[Reso Race 1]` and `[Reso Race Basin]` into full scene
-> - [ x] **Loom one-liners** — Craft the actual team assignment prophecies for each PC
-> - [ x] **Professor Ink NPC page** — Create `characters/npcs/professor-ink.md`
-> - [ x] **Simulate race outcome** — Generate a play-by-play for the first Vumbua Circuit-Run
+> - [x] **Loom one-liners** — Craft the actual team assignment prophecies for each PC
+> - [x] **Professor Ink NPC page** — Create `characters/npcs/professor-ink.md`
+> - [x] **Simulate race outcome** — Generate a play-by-play for the first Vumbua Circuit-Run
 
 ---
 
