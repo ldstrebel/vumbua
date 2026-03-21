@@ -6,6 +6,8 @@ tags:
 
 # Pressure
 
+![Portrait](../../meta/foundry-exports/portraits/pressure_portrait.png)
+
 **Role:** Squad 07 (The Bathysphere) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

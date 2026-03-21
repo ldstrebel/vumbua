@@ -9,6 +9,8 @@ tags:
 
 # Zephyr
 
+![Portrait](../../meta/foundry-exports/portraits/zephyr_portrait.png)
+
 > "That one was pretty good."
 > --- *Zephyr*, after being struck by her own purple lightning bolt.
 

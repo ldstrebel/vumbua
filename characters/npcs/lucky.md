@@ -6,6 +6,8 @@ tags:
 
 # Lucky
 
+![Portrait](../../meta/foundry-exports/portraits/lucky_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Squad 09 (The Ablative) - Member (Rust Tier) |
@@ -49,7 +51,7 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Backstory
-A street urchin from the Anchorage outskirts who pickpocketed a dead candidate's Loom Receipt to get into the intake. He isn't supposed to be here at all.
+A street urchin from the Anchorage outskirts who pickpocketed a dead candidate's Loom Receipt to get into the intake. He isn't supposed to be here at all. He is an orphan; his parents were killed in a tragic exploration accident that [[Sarge]] was a member of.
 
 ### Bond
 A younger sister living in the "Low-Bunks" whom he sends his extra rations to.

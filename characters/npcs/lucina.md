@@ -5,6 +5,8 @@ tags:
 
 # Lucina
 
+![Portrait](../../meta/foundry-exports/portraits/lucina_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Maintenance Worker, Power Room |

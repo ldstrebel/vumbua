@@ -6,6 +6,8 @@ tags:
 
 # Bramble
 
+![Portrait](../../meta/foundry-exports/portraits/bramble_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Squad 05 (The Harvesters) - Member |
@@ -17,7 +19,14 @@ tags:
 ## Overview
 Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure what Bramble is---plant-person? Harmony botanist who got weird? [[Mizizi]]-adjacent? Member of Squad 05, The Harvesters.
 
-## Session 2 Appearance
+## Session Appearances
+
+### Session 4.5
+- **The Unlikely Mount:** Served as [[Pip]]'s walking transport and makeshift sleeping rest during classes.
+- **The Chase:** Helped the group chase down [[Silas Thorne|Professor Thorne]], making a path and physically dragging the exhausted [[Kael]] behind him.
+- **The Tree Person:** Caught [[Aggie]]'s attention when he wondered what tree-people eat for breakfast (mostly water, and he intensely dislikes meat).
+
+### Session 2
 At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While [[Percival Vane-Smythe III|Percy]] argued for missing clans and [[Iron-Jaw Jax|Jax]] dismissed the idea, Bramble offered the most provocative perspective:
 
 *"What if they are not the missing? What if we are the ones who forgot?"*

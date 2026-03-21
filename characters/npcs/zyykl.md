@@ -16,6 +16,8 @@ reveal: players
 | **Affiliation** | None (Manipulated by Azor) |
 | **First Appearance** | [[session-03\|Session 3]] |
 
+![Portrait](../../meta/foundry-exports/portraits/zyykl_portrait.png)
+
 ## GM Description
 A very large, powerful young man from Nstyl. He communicates entirely through sign language and physically cannot speak. He is burly and farm-strong from the Nstyl quarries. 
 

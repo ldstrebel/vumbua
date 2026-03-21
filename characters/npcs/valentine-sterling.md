@@ -12,6 +12,8 @@ tags:
 
 # Valentine "Val" Sterling
 
+![Portrait](../../meta/foundry-exports/portraits/valentine_sterling_portrait.png)
+
 > "Good evening, Vumbua Academy! This is Valentine Sterling coming to you LIVE..."
 
 | | |
@@ -56,6 +58,10 @@ Valentine is the Scion of House Sterling, son of the legendary explorer [[valent
 - **The Interaction:** Recognized Ignatius as an [[Ash-Bloods|Ash-Blood]].
 - **The Handshake:** Hesitated to shake hands ("Will your hand burn me?"), then wiped his hand of soot and stormed off, spitting.
 - **Vibe:** "Bridgerton-esque," but with a chaotic social energy.
+
+### Session 4.5
+- **The Celebrity:** Was spotted trying to escape a gaggle of sycophants in Sterling Hall.
+- **Sterling Hall:** Avoided the crowd by entering his high-end dorm guarded by his "sentries," the [[Lyra Castellan|Castellan]] [[Ludo Castellan|twins]].
 
 ### Session 3 *(Planned)*
 - **The Celestial Lounge:** Hosting the late-night gathering, one of the last people still awake.

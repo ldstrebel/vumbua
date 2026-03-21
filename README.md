@@ -102,6 +102,7 @@ meta/                             # ★ APP MANAGEMENT & TOOLING
 ├── add-session.md                # Process raw transcripts
 ├── add-character.md              # Create/update character profiles
 ├── add-lore.md                   # Add/update world lore
+├── export-to-foundry.md          # Export journals to Foundry VTT
 ├── radio-recap.md                # Generate radio recap scripts
 ├── deploy.md                     # Deploy to Netlify
 └── human-instructions.md         # User guide for AI workflows

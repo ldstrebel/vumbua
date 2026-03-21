@@ -1491,13 +1491,13 @@ Feb 9, 2026
 **Luke Foreman:** Well, we we get the power from various sources,  
 **John Hagey:** Yeah.  
 **Luke Foreman:** you know. We do have the traditional sort of s  
-**John Hagey:** I mean, Lomi, I would assume you, Lomi, I would assume you use the the leidian from from the ashwood, right? I mean, it if you're going to heat something up,  
+**John Hagey:** I mean, Lomi, I would assume you, Lomi, I would assume you use the the lavsidian from from the ashwood, right? I mean, it if you're going to heat something up,  
 **GM or Aggie:** Obsidian.  
 **John Hagey:** that's that's my assumption.  
 **Luke Foreman:** It is the best. It is the best.  
-**John Hagey:** I have now named it Leidian.  
+**John Hagey:** I have now named it lavsidian.  
 **Luke Foreman:** I like  
-**John Hagey:** Leidian.  
+**John Hagey:** lavsidian.  
 **Luke Foreman:** it.  
 **John Hagey:** Just take lava and obsidian and smash those two babies together.  
 **GM or Aggie:** All right. Yeah, that's I dig  
@@ -1511,7 +1511,7 @@ Feb 9, 2026
 
    
 **Luke Foreman:** and keeping things running on time and minimal downtime. So, it's a mix of things.  
-**Sophie Foreman Noone:** H. This leidian, is there an unlimited amount of it? What happens when you run out?  
+**Sophie Foreman Noone:** H. This lavsidian, is there an unlimited amount of it? What happens when you run out?  
 **Luke Foreman:** I think Ignatius uh I mean he's he brought a piece with him,  
 **John Hagey:** Well,  
 **Luke Foreman:** a little piece of home. I saw him pull it out. So I let him know you you tell them.  
@@ -1522,14 +1522,14 @@ Feb 9, 2026
 **John Hagey:** that's to be to to be fair,  
 **Sophie Foreman Noone:** Ignatius?  
 **Luke Foreman:** over.  
-**John Hagey:** that's one of the driving factors of this um relationship with Harmony is in and one of my one of my personal um motivations for joining because I I want to find a new a new source of Lidian. And we we have plenty and ever since Harmony, it's been burning hotter, but not nearly as hot as it used to burn. So, I want to find I want to find the the the heart of the volcano, if you will, the heart of the magma that I want to find the next Leidian deposit.  
+**John Hagey:** that's one of the driving factors of this um relationship with Harmony is in and one of my one of my personal um motivations for joining because I I want to find a new a new source of Lidian. And we we have plenty and ever since Harmony, it's been burning hotter, but not nearly as hot as it used to burn. So, I want to find I want to find the the the heart of the volcano, if you will, the heart of the magma that I want to find the next lavsidian deposit.  
    
  
 
 ### 02:03:31
 
    
-**John Hagey:** I want to find the next thing that's going to I want to find the next thing that's going to reheat our volcano because it's been cooling. It's been going under this great cooling for a while now. And I I I I don't trust that Harmony is going to always be able to to reheat it. And we need we need to have the ash bloods. We need to have our own independent form of leidian and  
+**John Hagey:** I want to find the next thing that's going to I want to find the next thing that's going to reheat our volcano because it's been cooling. It's been going under this great cooling for a while now. And I I I I don't trust that Harmony is going to always be able to to reheat it. And we need we need to have the ash bloods. We need to have our own independent form of lavsidian and  
 **Sophie Foreman Noone:** H.  
 **John Hagey:** heat.  
 **GM or Aggie:** Do you think that do you think that well okay which is in character out of character? Uh now it's out of character. Do you think that Ignatius is more interested in understanding why the Lidian is getting hotter over the last two years or  

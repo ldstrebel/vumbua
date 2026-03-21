@@ -974,7 +974,7 @@ The following is the full list of entities that should be wikilinked. This regis
 | Global Amplitude | -- |
 | The Loom | -- |
 | Crystal Batteries | Vox Batteries |
-| Leidian | -- |
+| lavsidian | -- |
 | Chime Spires | Resonators |
 | Aether | The Ether, Ether |
 | Safe-Flame | -- |

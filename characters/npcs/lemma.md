@@ -6,6 +6,8 @@ tags:
 
 # Lemma
 
+![Portrait](../../meta/foundry-exports/portraits/lemma_portrait.png)
+
 **Role:** Squad 04 (The Axiom) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active

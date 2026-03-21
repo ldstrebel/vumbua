@@ -9,6 +9,8 @@ tags:
 
 # Captain Barnacle
 
+![Portrait](../../meta/foundry-exports/portraits/captain_barnacle_portrait.png)
+
 **Role:** Squad 07 (The Bathysphere) - Captain
 **Affiliation:** [[Vumbua Academy]], [[Trench-Kin]] (suspected)
 **Status:** Active

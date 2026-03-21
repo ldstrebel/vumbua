@@ -6,6 +6,8 @@ tags:
 
 # Brawn
 
+![Portrait](../../meta/foundry-exports/portraits/brawn_portrait.png)
+
 **Role:** Squad 02 (The Breakers) - Member
 **Affiliation:** [[Vumbua Academy]]
 **Status:** Active
@@ -15,7 +17,7 @@ The third member of "The Breakers," fulfilling the role of heavy hitter.
 
 ## Personality
 - Simple, direct, and enthusiastic about destruction.
-- Forms a terrifying trio with [[Iron-Jaw Jax|Jax]] and [[Maria Wall|Maria]].
+- Forms a terrifying trio with  [[iron-jaw-jax|Jax]] and [[maria-wall|Maria Wall]]
 
 ## Related Pages
 

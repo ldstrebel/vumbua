@@ -17,8 +17,8 @@ Harmony runs on ether---a pervasive energy field that flows through integrated l
 
 ### Source References
 
-- **[[session-02|Session 2]]** — Leidian properties discussed: 80% hotter per gram, halflife oscillation, distance decay *(Scene 6: Ash-Blood Politics)*
-- **[[session-02|Session 2]]** — Boiler room uses both crystal batteries and leidian *(Scene 6)*
+- **[[session-02|Session 2]]** — lavsidian properties discussed: 80% hotter per gram, halflife oscillation, distance decay *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — Boiler room uses both crystal batteries and lavsidian *(Scene 6)*
 - **[[session-02.5|Session 2.5]]** — [[professor-kante|Professor Kante]] explained [[The Power System|Global Amplitude]], the Ash-Blood Anomaly, and the Night of Sparks to [[Iggy]] *(Scene 4: The Professor)*
 - **[[session-02.5|Session 2.5]]** — [[Iggy]] sketched the Panda 5 resonator batteries; decoded their design philosophy *(Scene 3: The Warehouse)*
 - **[[session-02.5|Session 2.5]]** — Kante gave [[Iggy]] an umber crystal; explained integration works through cultural connection *(Scene 5: The Theory)*

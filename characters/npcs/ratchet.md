@@ -6,6 +6,8 @@ tags:
 
 # Ratchet
 
+![Portrait](../../meta/foundry-exports/portraits/ratchet_portrait.png)
+
 | | |
 |---|---|
 | **Role** | Copper-Rank Student / [[Block 99]]-Piston Roommate |

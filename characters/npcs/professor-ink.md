@@ -11,6 +11,8 @@ tags:
 
 # Professor Ink
 
+![Portrait](../../meta/foundry-exports/portraits/professor_ink_portrait.png)
+
 | | |
 |---|---|
 | **Aliases** | Ink, Professor Ink |
@@ -48,4 +50,4 @@ Professor Ink is a veteran explorer and researcher from the [[scrivener-guild|Sc
 
 - **[[session-02.5|Session 2.5]]** — Mentioned as a fungal biology specialist arguing with [[Rill]] about "Standard Protocol" *(Scene 4)*
 - **[[circuit-run|The Circuit-Run]]** — Scrivener Guild Captain involved in resonance calculations and rig safety analysis.
-- **[[Session 3 Plan]]** — Planning the Mizizi Forest expedition with Rill.
+- **[[s3-plan]]** — Planning the Mizizi Forest expedition with Rill.

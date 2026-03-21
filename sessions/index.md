@@ -55,19 +55,19 @@ The party's first night at Vumbua. A bonfire at Block 99 becomes the stage for n
 - [[Mizizi]]/Harmony cultural exchange about death
 - **[[Zephyr]]'s Lightning:** Purple bolt from clear sky; she's unharmed
 - [[Rill]] retrieves [[Zephyr]], invites [[Britt]]/[[Aggie]] to find her after class
-- Ash-Blood cultural divide revealed: traditionalists vs modernizers
-- Leidian properties discussed (80% hotter, halflife, distance decay)
-- Party heads to the Celestial Lounge
+- [[Ash-Bloods|Ash-Blood]] cultural divide revealed: traditionalists vs modernizers
+- [[lavsidian]] properties discussed (80% hotter, halflife, distance decay)
+- Party heads to the [[Celestial Lounge]]
 
 **Players Discovered:**
 - The Inverse Power Doctrine (newest member gets highest voting power)
 - [[Lady Ignis]] is essentially "President" of Harmony
 - The Sixfold Theory (missing Earth, Air, Water clans)
-- Zephyr can cause purple lightning
-- Leidian is burning 80% hotter since integration
-- Ash-Blood cultural divide between fire-keepers and battery-adopters
-- The [[Mizizi]] forest has no clear "purpose" unlike other nodes
-- Academy structure: classes → exam → Loom → rest week → trial venture
+- [[Zephyr]] can cause purple lightning
+- [[lavsidian]] is burning 80% hotter since integration
+- [[Ash-Bloods|Ash-Blood]] cultural divide between fire-keepers and battery-adopters
+- The [[mizizi-petrified-forest|Mizizi forest]] has no clear "purpose" unlike other nodes
+- [[Vumbua Academy|Academy]] structure: classes → exam → Loom → rest week → trial venture
 
 ---
 
@@ -119,6 +119,50 @@ The party arrives at the Celestial Lounge in the Upper Core. Lomi joins Val and 
 - "Crown and Ruin" is a popular game involving Hope/Fear dice and Grease Shots
 
 ---
+
+### [[Session 04|Session 4: The First Day of Classes]]
+**Date:** 2026-03-09
+
+The grueling first week of Vumbua Academy begins. After a morning of diverse breakfast routines, the party attends their first class, Aetheric Ballistics & Logistics. Ignatius suffers emotional damage from a thrown piece of chalk, Lomi meets a snobbish rival, and the group learns about the fast-approaching Circuit Race. Later, they track down Lucky and trade the ancient Ash-Blood Genesis Myth for the exam's study guide.
+
+**Key Events:**
+- [[Iggy]] samples his first massive breakfast selection
+- [[Ignatius]] is hit in the head with chalk during Logistics class
+- [[Lomi]] asks [[Finch Gable]] for notes and gets brutally rebuffed
+- The Academy posts the week's grueling schedule and announces the upcoming Circuit Race
+- The party tracks down [[Lucky]] and trades stories to get Val's study guide
+- [[Ignatius]] recounts the Ash-Blood Genesis Myth of the Sky Dragon and Sea Dragon
+- The session ends on a cliffhanger as Lucky leads them into a private room to discuss Iggy's test receipt
+
+**Players Discovered:**
+- The first week consists of seven classes followed by a major cull exam on Friday
+- The Circuit Race (Reszo Race) takes place at the Apex Ring on Thursday afternoon
+- The Ash-Blood Isles were formed by the burning body of a Sky Dragon caught by a Sea Dragon
+- [[Finch Gable]] is a highly competent but elitist Logistics student
+- [[Lucky]] demands genuine secrets, not just money or stories, for the actual test answers
+
+
+---
+
+### [[s4.5-clean|Session 4.5: Reality Anchors & Dead Pigs]]
+**Date:** 2026-03-18
+
+Brit and Aggie process the previous night's trauma, their Mizi upbringing clashing with Academy life—especially over breakfast, where the concept of "dead pigs" (bacon) bewilders Brit. In Reality Anchoring class, Professor Thorne introduces the horrifying "dead island" phenomenon, challenging Mizi philosophies on death.
+
+**Key Events:**
+- [[Brit]] and [[Aggie]] meet [[Pip]], [[Kael]], and [[Saffron]]
+- [[Kael]] explains Harmony tech's reliance on "resonance" and Umber Crystals
+- [[Silas Thorne|Professor Thorne]] teaches the first class on Reality Anchoring
+- Thorne abruptly walks out; the group pursues him through the halls
+- Thorne describes the "dead island" and warns of the "edge of the world"
+- Aggie spots [[Valentine Sterling|Val]] entering Sterling Hall, guarded by the intimidating [[Lyra Castellan|Castellan twins]]
+
+**Players Discovered:**
+- A "dead island" exists where matter remains but energy is a complete vacuum
+- Reality Anchoring is the science of porting resonance to keep the "edge of the world" away
+- Resonance powers all Harmony tech and must be regulated by Umber Crystals
+- Mizi forest's recent resistance to pruning might be linked to the dead island phenomenon
+- The Castellan twins act as Val's aggressive sentries
 
 ## Upcoming
 

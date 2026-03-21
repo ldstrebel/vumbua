@@ -11,6 +11,8 @@ tags:
 
 # Percival "Percy" Vane-Smythe III
 
+![Portrait](../../meta/foundry-exports/portraits/percy_portrait.png)
+
 > "Mark my words! When we find the missing clans, I'll be vindicated!"
 
 | | |

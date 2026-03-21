@@ -16,6 +16,8 @@ reveal: players
 | **Affiliation** | None (Manipulated by Azor) |
 | **First Appearance** | [[session-03\|Session 3]] |
 
+![Portrait](../../meta/foundry-exports/portraits/tus_portrait.png)
+
 ## GM Description
 A huge, burly young man from Nstyl, moving with eerie, completely silent coordination. He communicates exclusively via sign language, as spoken word is physically impossible for him. 
 

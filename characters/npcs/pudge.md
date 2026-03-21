@@ -6,9 +6,14 @@ tags:
 
 # Pudge
 
-**Role:** Squad 09 (The Ablative) - Member (Rust Tier)
-**Affiliation:** [[Vumbua Academy]]
-**Status:** Active
+|                      |                                                  |
+| -------------------- | ------------------------------------------------ |
+| **Role**             | Squad 09 (The Ablative) - Member (Rust Tier)     |
+| **Affiliation**      | [[Vumbua Academy]]                               |
+| **Status**           | Active                                           |
+| **First Appearance** | [[session-01\|Session 1]]                        |
+
+![Portrait](../../meta/foundry-exports/portraits/pudge_portrait.png)
 
 ## Overview
 Member of Squad 09 (The Ablative). Lovable, loyal, and hardy---the heart of his squad.
