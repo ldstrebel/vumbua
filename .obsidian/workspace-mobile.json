@@ -1,48 +1,33 @@
 {
   "main": {
-    "id": "57e499c73027e722",
+    "id": "50b3d30b044ff1bc",
     "type": "split",
     "children": [
       {
-        "id": "ee6fc3f6aa78a6dc",
+        "id": "e38b21e29bf4c03d",
         "type": "tabs",
         "children": [
           {
-            "id": "2ade9fb315eb2fdc",
+            "id": "b3362489846134d2",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "meta/Excalidraw/Reso Race 1.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Reso Race 1"
-            }
-          },
-          {
-            "id": "52084d20db0e2eb1",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "Excalidraw/Session 4.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Session 4"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "a3d607160b307b0b",
+    "id": "ec82c2cac5e39f39",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "7b8b0d5c2271cba7",
+        "id": "806f9e307650e7cd",
         "type": "leaf",
         "state": {
           "type": "file-explorer",
@@ -55,7 +40,7 @@
         }
       },
       {
-        "id": "32470948bb477417",
+        "id": "314053716ca331d7",
         "type": "leaf",
         "state": {
           "type": "search",
@@ -72,7 +57,7 @@
         }
       },
       {
-        "id": "a8d0c28f6eec6b07",
+        "id": "ff0d2f9e2721a063",
         "type": "leaf",
         "state": {
           "type": "tag",
@@ -87,7 +72,7 @@
         }
       },
       {
-        "id": "bf9bd4b9a977b7a3",
+        "id": "ea67b51953759789",
         "type": "leaf",
         "state": {
           "type": "all-properties",
@@ -101,7 +86,7 @@
         }
       },
       {
-        "id": "b4b70024a11b29fe",
+        "id": "8e3a2777341aafbb",
         "type": "leaf",
         "state": {
           "type": "bookmarks",
@@ -114,16 +99,15 @@
     "currentTab": 0
   },
   "right": {
-    "id": "4d4d187e98c86888",
+    "id": "61f40c6dcc1996a1",
     "type": "mobile-drawer",
     "children": [
       {
-        "id": "289d8e69d0d3413a",
+        "id": "b9c7e2b3a88c80f7",
         "type": "leaf",
         "state": {
           "type": "backlink",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -137,12 +121,11 @@
         }
       },
       {
-        "id": "2e6ecb1749b3da99",
+        "id": "4af0e1bace5c88e8",
         "type": "leaf",
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "lore/characters/npcs/calculus-prime.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           },
@@ -151,12 +134,11 @@
         }
       },
       {
-        "id": "ec711ee536a1cec2",
+        "id": "df273229fa2b70ab",
         "type": "leaf",
         "state": {
           "type": "outline",
           "state": {
-            "file": "lore/index.md",
             "followCursor": false,
             "showSearch": false,
             "searchQuery": ""
@@ -164,19 +146,9 @@
           "icon": "lucide-list",
           "title": "Outline"
         }
-      },
-      {
-        "id": "499e02d4ef684ef1",
-        "type": "leaf",
-        "state": {
-          "type": "copilot-chat-view",
-          "state": {},
-          "icon": "message-square",
-          "title": "Copilot"
-        }
       }
     ],
-    "currentTab": 3
+    "currentTab": 0
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -189,78 +161,10 @@
       "bases:Create new base": false,
       "obsidian-excalidraw-plugin:New drawing": false,
       "omnisearch:Omnisearch": false,
+      "handwritten-notes:Create empty handwritten note": false,
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a183fea3e5e952f7",
-  "lastOpenFiles": [
-    "sessions/planning/Session 4 plan.md",
-    "sessions/planning/Session 3 Plan.md",
-    "Valerius Sterling Sr..md",
-    "The Minimum.md",
-    "characters/npcs/valentine-sterling.md",
-    "copilot/copilot-conversations/Considering_this_is_my_first_time_as_a_GM_for@20260224_000149.md",
-    "Gened exam.md",
-    "characters/npcs/lucky.md",
-    "Exam json gened.md",
-    "GenEd_-_Exploration101_survey.json",
-    "locations/celestial-lounge.md",
-    "copilot/copilot-conversations/Help_me_describe_the_celestial_lounge@20260222_224852.md",
-    "characters/player-characters/iggy.md",
-    "characters/player-characters/ignatius.md",
-    "Block 12.md",
-    "world/circuit-run.md",
-    "Screenshot_20260222_193632_Obsidian.jpg",
-    "meta/Excalidraw/Reso Race 1.png",
-    "meta/Excalidraw/Reso Race 1.md",
-  "active": "52084d20db0e2eb1",
-  "lastOpenFiles": [
-    "Excalidraw/Session 4.png",
-    "meta/Excalidraw/Reso Race 1.md",
-    "Excalidraw/Session 4.md",
-    "sessions/planning/old/Session 3 Plan.md",
-    "meta/radio-scripts/session-04-recap.md",
-    "Screenshot_20260222_193632_Obsidian.jpg",
-    "sessions/transcripts/clean/session-00.md",
-    "world/Harmony.md",
-    "world/circuit-run.md",
-    "sessions/transcripts/raw/s3-raw.md",
-    "sessions/transcripts/clean/session-03.md",
-    "sessions/planning/old/s2/s2.5-planning.md",
-    "sessions/planning/old/s2/s2-planning.md",
-    "sessions/planning/old/s2/bonfire_scene.md",
-    "sessions/planning/old/s2",
-    "sessions/planning/session 4 plan",
-    "sessions/planning/old",
-    "sessions/planning",
-    "meta/radio-scripts/session-03-recap.md",
-    "locations/umbra-mountain.md",
-    "locations/trail-tail-trench.md",
-    "locations/shepta.md",
-    "locations/settika.md",
-    "locations/relina.md",
-    "locations/prima.md",
-    "locations/octo.md",
-    "locations/nstyl.md",
-    "locations/minnow.md",
-    "locations/lenoa.md",
-    "locations/juxta.md",
-    "locations/gilded.md",
-    "Excalidraw/Session 3 drawing.png",
-    "sessions/planning/s2",
-    "meta/Excalidraw/Reso Race 1.png",
-    "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
-    "copilot/copilot-custom-prompts",
-    "meta/Daggerheart-Core/Screenshot_20260222_180117_OneDrive.jpg",
-
-    "copilot/memory",
-    "copilot/copilot-conversations",
-    "copilot/copilot-custom-prompts",
-    "copilot",
-    "lore-dump/Taratannen.pdf",
-    "Excalidraw/Devin OCR test.png",
-    "sessions/planning/s2",
-    "sessions/transcripts",
-    "sessions/planning"
-  ]
+  "active": "b3362489846134d2",
+  "lastOpenFiles": []
 }
