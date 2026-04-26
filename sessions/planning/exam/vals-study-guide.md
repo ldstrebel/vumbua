@@ -3,6 +3,15 @@
 
 *A crumbling, hand-copied pamphlet sold by Lucky for 20 silver. The margins are crammed with Val's scrawled ink corrections and increasingly unhelpful advice.*
 
+
+Let's use  Val's guide to Lore build 
+
+1. He is somewhat obsessed with the Mizizi before even meeting Britt and Aggie, he loved the Idea of a small clan whore anyone knows each other and from cant to know there's not obscene wealth or status. Each doing their part. His case of duty is to explore for his family  name & the employees of the Sterling's but
+2. His notes give a slightly condescending view of Harmony and the dependency on one another and the nodes. Something beautiful turned into something too public, too saved and glorified. He would have a good breakdown of the cities and how the notes affected their civilization To do make this part of the guide
+3. It should be pretty verbose with options and have some logic on why he chose each based off what was discussed in class.
+
+
+
 ---
 
 ## VOLUMETRIC CARTOGRAPHY
@@ -10,7 +19,7 @@
 **1. The Z-Axis Paradox**
 A floating island rotates at 45° per minute. A Solar Gale pushes against rotation. If you must pass through the gale, what is the safest maneuver?
 - [ ] A) The Synchronized Helix
-- [ ] B) Drop Anchor and Wait
+- [ ] B) Drop Anchor and Wait too
 - [x] C) The "Needle-Thread" Intercept
 - [ ] D) Dead-Stick Drop
 > **Val's Note:** C. It's always C. The professors love a dramatic maneuver. Tell them you'll "thread the needle" and they'll eat it up. Also, islands don't rotate that fast. Who wrote this?

@@ -14,6 +14,8 @@ This document details the core classes held in Hangar 12 (The "Echo Chamber") an
 - **Val's Guess (Morning):** *"It's all about the C-Major Pulse. Protocol is king. Just follow the rhythm and you won't explode."*
 - **Val's Guess (After Class):** *"Kante is a romantic. He thinks Nodes are alive. If the test asks about a weeping node, don't use a pulse—match the frequency. He wants 'Sympathetic Dissonance.' Write that down."*
 
+
+
 ## 2. Volumetric Cartography
 - **Instructor:** Senior Exploranaut [[hesperus|Hesperus]]
 - **Location:** Hangar 12 - North Navigation Tier
@@ -43,6 +45,13 @@ This document details the core classes held in Hangar 12 (The "Echo Chamber") an
 - **Exam Alignment:** [[Gened exam#MODULE 4: Xenobiological Scavenging|Module 4: Xenobiological Scavenging]]
 - **Val's Guess (Morning):** *"Scavenge everything. If it's rare, it's valuable. We're here to discover, right?"*
 - **Val's Guess (After Class):** *"Aris gave a twenty-minute lecture on the 'distress' of sentient mineral veins. She's a preservationist. If you see a 'Void-Lily', the 'correct' answer isn't to harvest it—it's to falsify the report and leave the ecosystem intact."*
+
+ The "Navigational Lure" (The Trap)
+The Concept: This connects Resonance Biology to Hesperus's Volumetric Cartography.
+
+The Question for Players: "Hesperus warns that Light-trails are the 'siren songs' of the Mist. Biologically speaking, why does a ship's crew feel a physical compulsion to steer toward them?"
+The Answer: The Light-trails emit a frequency that harmonizes with the human inner ear. It creates a biological sense of "home" or "safety," overriding the pilot's logic.
+Future Plan: Force a "Will" or "Resonance" save. The players see a beautiful golden trail (the Light-trail culture) and every instinct tells them it’s the way out, even though their instruments (and Hesperus’s training) say it leads straight into a gravity well.
 
 ## 5. Survival Ethics
 - **Instructor:** [[Dean Isolde Vane]] (via Hologram)
