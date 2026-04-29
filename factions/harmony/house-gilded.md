@@ -27,7 +27,8 @@ When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major no
 
 ## Key NPCs
 
-- **Valerius "Val" Sterling** - Gold-rank Captain/Student. Arrogant scion seeking a Node massive enough to secure his father's Council seat. Mid-Atlantic accent, checks his magically polished fingernails while others speak.
+- **[[Valentine Sterling]]** - Gold-rank student in Squad 01 (The Echelon). Arrogant scion seeking a Node massive enough to secure his father's Council seat. Mid-Atlantic accent, checks his magically polished fingernails while others speak.
+- **[[Valerius Sterling]]** - The "Voice of Vumbua" Radio Host, older cousin to Valentine, and previous graduate of the Academy. Though technically affiliated with House Gilded, his influence comes entirely from his broadcast reach rather than Academy rank.
 - **Lady Vespera** - Captain. Represents the ruthlessness of Highborne trade.
 
 ---
@@ -39,9 +40,12 @@ When the **Night of Sparks** (~400 years ago) nearly destroyed them---a major no
 
 ### The "Minimum" Motive
 
-The Crystal Banks are insolvent. They need the "Great Surge" (500 years of power) not just to keep the lights on, but to hide the fact that they leveraged the empire's future on bad energy bets during the Silent Era. House Gilded isn't just wealthy---they're hiding bankruptcy.
+The Crystal Banks are insolvent. They need the "Great Surge" (500 years of power) not just to keep the lights on, but to hide the fact that they leveraged the empire's future on bad energy bets during the Silent Era. House Gilded isn't just wealthy---they're hiding bankruptcy. To survive, they tied their bets with **House Sterling** (who lead the Syndicate of Sails), banking on an influx in global amplitude that has not yet come. This has forced them to delay the launch of the "Panda line."
 
 The irony: they survived the Night of Sparks only because they had already diversified into banking. Now their banks are failing for the opposite reason---not enough power flowing through the system.
+
+### The Sterling Partnership
+House Gilded is funding House Sterling (and by extension the Syndicate of Sails) to aggressively explore because they are desperate to reduce Harmony's reliance on House Vox's umber crystals. House Gilded hopes Sterling will find an umber alternative they can bring to market.
 
 ### Valentine Sterling Sr.
 

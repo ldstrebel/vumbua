@@ -55,6 +55,19 @@ New entities, reveals, and changes introduced in the most recent session. Update
 
 ---
 
+## Visual Aesthetics & Anti-Tropes
+
+When generating images, videos, or writing vivid descriptions for the Vumbua campaign, strictly adhere to these visual pillars to prevent the AI from falling back on generic tropes:
+
+1. **The "Rowing Race" Rule (Transit):** Transit in Vumbua is about academic observation and Victorian elegance. Always describe transit as *ornate, steam-pulled observation cars with vast glass windows and outward-facing bleacher seating* (reminiscent of Oxford rowing races). **CRITICAL ARCHITECTURE:** The tracks run elevated *behind* the grandstands, so the train looks over the tops of the audience's heads, providing an unobstructed view of the basin and allowing easy hop-on/hop-off access. **Anti-Trope:** NEVER use words like "mag-lev", "sleek", or "hovering capsule." Do not allow the AI to generate modern Japanese Shinkansen bullet trains, and do not place tracks between the crowd and the view.
+2. **The "Resonance Engine" Rule (Power/Energy):** Energy is derived from crystal warmth and steam venting. Always describe power systems as *vented brass steam engines glowing warmly with umber crystal resonance energy.* **Anti-Trope:** NEVER allow the AI to generate sci-fi jet engines, rocket thrusters, or modern turbines. 
+3. **The "Oxford Stone" Rule (Architecture):** The world features pristine, high-academia architecture *integrated directly into raw nature*. Buildings are *bright pristine white marble, manicured ivy, and sweeping arches* that are often **carved into or bolted onto rugged, natural cliff faces and jagged mountains**. Contrast the blinding white stone against the textured brown and orange of natural rock. **Anti-Trope:** NEVER allow the AI to generate a purely man-made concrete or marble city. It must always feel like it is built *into* a natural, unyielding landscape. Avoid generic industrial steampunk (raw leaky pipes, grim soot, clock-faces glued to buildings, or literal gears serving no purpose).
+4. **The "Treasure Planet" Exception (Ships):** The one area that *does* lean heavily into high-fantasy steampunk is racing crafts and airships. Describe them as *Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive, silk-textured golden dirigible balloons*. They often feature ornate golden sails and thick brass cabling. **Anti-Trope:** Do not just ask for "boats" or it will draw mundane, normal sailboats. Avoid generic modern blimps; emphasize the transition between the opulent golden balloon and the heavy industrial ship hull.
+5. **The "Starting Grid" Rule (Geography):** The basin racing start line is exactly half solid earth and half deep turquoise water. The massively diverse racing rigs (crawlers and boats) idle side-by-side at ground level. **CRITICAL ARCHITECTURE:** The colossal, four-legged industrial Walker-Core crane is always set *far back behind* the starting line to offer an optional aerial launch point. NEVER describe it as a regatta anchoring completely on the water, and NEVER describe all rigs dropping from a crane at once.
+6. **Setting Consistency & Clean Frames:** In multi-panel generations, explicitly restate the biome (e.g., *turquoise river canyon basin*) in every panel description so the AI doesn't default to a generic dirt arena. Furthermore, explicitly ban all text, typography, and anime subtitles in your prompts.
+
+---
+
 ## Canonical Spellings
 
 These are the **correct** spellings. Transcription errors are common — always correct to these:

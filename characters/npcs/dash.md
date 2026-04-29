@@ -17,7 +17,7 @@ reveal: gm
 |---|---|
 | **Role** | Black Market Merchandise Dealer |
 | **Faction** | Unknown |
-| **First Appearance** | [[s4-plan\|Session 4 Plan]] / Session 5 |
+| **First Appearance** | [[s4-plan|Session 4 Plan]] / Session 5 |
 
 ## GM Description
 Dash is an eccentric, fast-talking merch dealer student. He has street-smarts out the wazoo, wears an oversized long coat full of hidden pockets, and sports heavy brass goggles.

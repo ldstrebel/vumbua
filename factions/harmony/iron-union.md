@@ -27,7 +27,7 @@ The Iron-Union is the blue-collar nobility of Harmony. They build and maintain t
 ## Key NPCs
 
 - **[[Lomi]] (PC)** - The prodigy mechanic. Older than the average student. "Union Strong."
-- **"Old Man" Silas** - Captain. The cynical veteran who knows where the bodies are buried. Collects Pre-Stitch artifacts.
+- **"Old Man" Siller** - Captain. The cynical veteran who knows where the bodies are buried. Collects Pre-Stitch artifacts.
 - **"Hammer"** - Squad 05 Leader. The ambitious climber.
 - **Iron-Hide** - Captain. A living legend among the Union. Started as a Copper-rank boiler scrubber (just like [[Lomi]]). Famously held a cracked thermal vent shut with his geomantic skin for 6 hours. Wrote "The Percussive Maintenance Guide (Vol. 4)"---the only textbook Lomi actually likes.
 

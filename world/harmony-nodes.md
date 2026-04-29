@@ -119,8 +119,8 @@ The six ancient clan nodes exist outside Harmony's network. They are Major in si
 | Wadi | Water/Life | Life (The Sustainers) |
 | Fulgur-Born | Lightning/Storm | *(Unknown)* |
 
-### The Trail-Tail Trench (Minor, Unintegrated)
+### The Trail-Tail Trench (Moderate, Unintegrated)
 
 - **Resource:** Trail-Tail Seeds
-- **Description:** When ingested, these seeds cause the consumer to leave a glowing trail of light behind them, like a Tron light-cycle. Found in the deep waters of the [[Trench-Kin]] territory. Fish there use the seeds naturally, creating bioluminescent trails through the dark water.
-- **Status:** Not integrated. No city or settlement---this is a wild node in [[Trench-Kin]] territory.
+- **Description:** When ingested, these seeds cause the consumer to leave a glowing trail of light behind them. Found in the deep waters of [[Trench-Kin]] territory, the Trench is an incredibly powerful node home to massive aquatic beasts. These predators rely on Siren-Stalkers, which emit a hypnotic 60 BPM pulse that lulls unwary creatures—and explorers—to sleep, drawing them into the dark maws below. However, pilots who manage to "Sync" with the node's frequency can resist the Sirens and gain hyper-awareness of their surroundings.
+- **Status:** Not integrated. No city or settlement---this is a wild, highly dangerous node in [[Trench-Kin]] territory.

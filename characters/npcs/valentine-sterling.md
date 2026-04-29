@@ -19,7 +19,7 @@ tags:
 | | |
 |---|---|
 | **Role** | Scion of House Sterling / Student / Squad 01 |
-| **Affiliation** | [[Vumbua Academy]], [[House Gilded]], Sterling Family |
+| **Affiliation** | [[Vumbua Academy]], [[House Gilded]], House Sterling (Syndicate of Sails) |
 | **Status** | Active |
 | **First Appearance** | [[session-01|Session 1]] |
 

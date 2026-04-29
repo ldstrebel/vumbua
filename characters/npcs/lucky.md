@@ -10,13 +10,13 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Squad 09 (The Ablative) - Member (Rust Tier) |
+| **Role** | Squad 09 (The Ablative) - Member (Silver Tier) |
 | **Affiliation** | [[Vumbua Academy]] |
 | **Status** | Active |
-| **First Appearance** | [[session-01\|Session 1]] |
+| **First Appearance** | [[session-01|Session 1]] |
 
 ## Overview
-A student in the Rust tier known for acquiring hard-to-find items. A small kid who runs around with a ball of fire and a sales pitch.
+A student in the Silver tier (ranked purely on survival instinct, as he hasn't attended a single class) known for acquiring hard-to-find items. A street-smart hustler who views the Academy as one giant "score" waiting to be cracked.
 
 ## Session Appearances
 
@@ -33,9 +33,22 @@ A student in the Rust tier known for acquiring hard-to-find items. A small kid w
 
 ## Personality
 - **Enterprising Hustler:** If you need it, Lucky can get it (for a price).
-- **Resourceful:** Survives by being useful to everyone.
-- Fearless salesman---pitches to anyone regardless of rank
-- Keeps a "you owe me" ledger
+- **Survival Instinct:** Relies on the same grit that got him through the Anchorage outskirts and his first disaster.
+- **Suspicious/Observant:** Watches for "System Errors" and "Anomalies" like [[Iggy]] and [[Zephyr]].
+- **Fearless Salesman:** Pitches to anyone regardless of rank.
+- **"The Score" Focused:** Skipping every class to focus on his real objective: getting off the "Ablative" track.
+
+## Timeline: The Hustle and the Hook
+For a detailed breakdown of Lucky's journey and his discovery of Iggy's tech, see: [[lucky-timeline|Lucky's Detailed Timeline]].
+
+- **Pre-Academy:** Surviving the Anchorage outskirts after his parents' death in an exploration accident involving [[Sarge]].
+- **The Intake:** Pickpocketed a dead candidate's Loom Receipt to get into the Academy.
+- **The First Meeting:** Approached [[Iggy]] in the Great Hall. Sold him a stolen guard turban. This wasn't an accident—Lucky saw the "Look" during intake and decided to "invest" early.
+- **The Flip:** Took some of [[Iggy]]'s discarded "mechanical junk" (pins and gears) to his city vendor. 
+    - **The Reveal:** The vendor LOVED it. Called it "old school"—mechanical power generation over HTech. Wanted all Lucky could get.
+    - **The Result:** Lucky got suspicious. Why is "old school" tech more valuable than HTech to a city shark?
+- **The Watcher:** Saw [[Zephyr]] taken by [[Dean Isolde Vane|Isolde]]. Recognized the same "lost puppy genius" look. 
+- **Current:** Skipping classes, maintaining a Silver rank through raw survival results, and actively looking for more "anomalies." He’s betting his future on [[Iggy]] and [[Zephyr]].
 
 ## Source References
 
@@ -60,4 +73,4 @@ A younger sister living in the "Low-Bunks" whom he sends his extra rations to.
 Pathological Grifter. He cannot stop the "hustle," even when it's counter-productive.
 
 ### Motive
-To "fake it 'til he makes it" into a comfortable administrative job where he doesn't have to bleed.
+To find his "Big Score" and get out. Instead of a comfortable administrative job, he is now focused on finding a way to buy his own ship and escape the "Ablative" cycle entirely. He views the "lost puppy geniuses" as his ticket out.

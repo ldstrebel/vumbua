@@ -9,11 +9,18 @@ This page details the notable teams and soloists competing in the intake year's 
 | **Rig** | **The Ironclad** - A massive, brutalist heavy rig built for straight-line speed and surviving impacts. It lacks maneuverability but makes up for it in sheer momentum and thick armor plating. |
 | **Strategy** | **Brute Force & Overclocking.** They aim for high-yield nodes to offset their incredible weight, relying on raw power to bulldoze through obstacles rather than steering around them. |
 
+## Team 2: Sail & Stun
+|              |                                                                                                                                                                                                                                     |
+| ------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Role**     | Disruptor Team                                                                                                                                                                                                                      |
+| **Rig**      | **The Siren's Wake** - A fast sailing vessel rigged with sonic emitters and electromagnetic dampeners.                                                                                                                              |
+| **Strategy** | **Speed & Disruption.** Built to create chaos. They don't just race; they deploy localized static fields around nodes to throw off rival rig telemetry, causing stalls and misfires in pursuing teams. Connected to Team 4 (Pudge). |
+
 ## Team 3: Marble Wall
-| | |
-|---|---|
-| **Role** | Aggro/Hunter Team |
-| **Rig** | **The Bastion** - A reinforced heavy crawler covered in reactive armor. Less a racing vehicle and more a mobile blockade designed to absorb and dish out punishment. |
+|              |                                                                                                                                                                                                                                                              |
+| ------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| **Role**     | Aggro/Hunter Team                                                                                                                                                                                                                                            |
+| **Rig**      | **The Bastion** - A reinforced heavy crawler covered in reactive armor. Less a racing vehicle and more a mobile blockade designed to absorb and dish out punishment.                                                                                         |
 | **Strategy** | **Attrition & Elimination.** They don't race to win by speed; they hunt the competition. Their strategy is to destroy or disable faster, smaller rigs early on, securing a win by being the last team left functional or heavily crippling the frontrunners. |
 
 ## Team 4: Pudge
@@ -38,4 +45,4 @@ This page details the notable teams and soloists competing in the intake year's 
 
 ### Goliath
 - **Rig:** A massive land-ship, officially listed as a soloist but the size of a mobile fortress.
-- **Strategy:** Survive "The Drop" and act as a moving hazard. Very slow, but virtually indestructible by standard rigs.
+- **Strategy:** Survive the frantic chaotic start at ground-level and act as a moving hazard. Very slow, but virtually indestructible by standard rigs.

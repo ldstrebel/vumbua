@@ -108,11 +108,11 @@ Fire multiple pulses.
 ---
 
 MODULE 3: **Navigational Bio-Interference**  
-"During a long-range sortie, a pilot encounters a 'Light-trail' node culture. Despite the ship's instruments indicating a gravity well ahead, the pilot feels an overwhelming 'gut instinct' that the light is a safe passage. According to the Hesperus-Aris seminar, what is the biological cause of this 'Siren Song' effect?"
+"During a long-range sortie, a pilot encounters a 'Light-trail' node culture. Despite the ship's instruments indicating massive biological hazards ahead, the pilot begins to feel drowsy and experiences an overwhelming 'gut instinct' that the light is a safe passage. According to the Hesperus-Aris seminar, what is the biological cause of this 'Siren Song' effect?"
 
 - **A)** The light-trail emits a pheromone that dissolves the pilot's rational centers. +1
-- **B)** The node's frequency synchronizes with the human inner ear and resting heart rate, creating a false biological sense of safety. +5
-- **C)** The violet light causes a temporary blindness that makes the gravity well appear as a flat, open plane -2
+- **B)** The node's frequency synchronizes with the human inner ear and resting heart rate, creating a hypnotic lull that puts pilots to sleep and creates a false sense of safety. +5
+- **C)** The violet light causes a temporary blindness that makes the predators appear as a flat, open plane -2
 - **D)** The ship's  Panda Battery is being  disconnected by the node, which then broadcasts 'calming' messages to the crew. -5
 
 **Correct Answer:** **B**.  

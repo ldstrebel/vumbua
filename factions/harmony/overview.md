@@ -27,13 +27,15 @@ These families hold seats on the **High Council** and effectively run the civili
     *   **Seraphina "Serra" Vox**: His runaway daughter, hiding at the Academy as "[[Serra Vox]]".
     *   **[[Professor Kante]]**: A tortoise researcher from [[House Gilded]] whose work is sponsored by House Vox. Key figure in harmonics research and creator of multiple Vox battery generations.
 
-### House Sterling (The Sail)
+### House Sterling (The Sail / Syndicate of Sails)
 * **Domain**: Trade, Logistics, Fleet Command.
 * **Philosophy**: "Movement is Wealth."
+* **Notes**: House Sterling operates the **Syndicate of Sails** on the Domestic Council, but leverages its wealth with House Gilded to maintain influence in the Venture Council.
 * **Key Members**:
     *   **[[Valentine Sterling]] Sr.**: Legendary explorer. Discovered the [[Mizizi]] ("[[Valentine Sterling Sr.|The Paper Man]]") one week before Thorne found the [[Ash-Bloods]], but moved on because integration work bored him.
-    *   **Captain Elara Thorne**: Famous exploranaut who discovered the Ash-Blood Isles 24 months ago.
-    *   **[[Valerius Sterling]] Jr.**: Gold-rank student, Captain of Squad 01 (The Echelon). Carries his father's opportunism.
+    *   **Captain Elara Thorne**: Famous exploranaut who discovered the Ash-Blood Isles 24 months ago. (A close ally of the House).
+    *   **[[Valentine Sterling]]**: Scion of House Sterling, student in Squad 01 (The Echelon). Carries his father's opportunism.
+    *   **[[Valerius Sterling]]**: Valentine's older cousin and the "Voice of Vumbua" Radio Host.
 
 ### House Gilded (The Vault)
 * **Domain**: Treasury, Banking, Resonance Infrastructure.

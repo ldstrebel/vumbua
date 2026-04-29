@@ -50,8 +50,8 @@ This document details the core classes held in Hangar 12 (The "Echo Chamber") an
 The Concept: This connects Resonance Biology to Hesperus's Volumetric Cartography.
 
 The Question for Players: "Hesperus warns that Light-trails are the 'siren songs' of the Mist. Biologically speaking, why does a ship's crew feel a physical compulsion to steer toward them?"
-The Answer: The Light-trails emit a frequency that harmonizes with the human inner ear. It creates a biological sense of "home" or "safety," overriding the pilot's logic.
-Future Plan: Force a "Will" or "Resonance" save. The players see a beautiful golden trail (the Light-trail culture) and every instinct tells them it’s the way out, even though their instruments (and Hesperus’s training) say it leads straight into a gravity well.
+The Answer: The Light-trails emit a frequency that harmonizes with the human inner ear. It creates a hypnotic lull and a biological sense of "home" or "safety," overriding the pilot's logic and putting them to sleep.
+Future Plan: Force a "Will" or "Resonance" save. The players see a beautiful violet trail (the Light-trail culture) and every instinct tells them it’s the way out, but they begin to feel incredibly drowsy. If they fail, they are lulled to sleep even though their instruments (and Hesperus’s training) say the trail leads straight into the maws of massive aquatic beasts.
 
 ## 5. Survival Ethics
 - **Instructor:** [[Dean Isolde Vane]] (via Hologram)

@@ -6,7 +6,7 @@ aliases:
 - Syndicate of Sails
 ---
 
-# The Syndicate of Sails (The Logistics)
+# The Syndicate of Sails (House Sterling Logistics)
 
 > *"Momentum is Value."*
 
@@ -18,7 +18,7 @@ aliases:
 
 ## What Players Know
 
-Not yet encountered directly. The Syndicate controls the flow of goods between Nodes. They are privatized Quartermasters from the Silent Era.
+Not yet encountered directly. The Syndicate controls the flow of goods between Nodes, operated from the shadows by House Sterling. They are privatized Quartermasters from the Silent Era.
 
 ---
 
@@ -37,4 +37,4 @@ The Syndicate operates through proxies, buying the loyalty of low-rank students 
 
 ### Key Agent
 
-**Broker Silas.** A slick fixer in the Celestial Lounge trying to buy the loyalty of Rust-tier students (like [[Lucky]]) to map the black market routes. He offers "favors" instead of cash---a new receipt, a better dorm assignment, a message delivered home.
+**Broker Syl.** A slick fixer in the Celestial Lounge trying to buy the loyalty of Rust-tier students (like [[Lucky]]) to map the black market routes. He offers "favors" instead of cash---a new receipt, a better dorm assignment, a message delivered home.
