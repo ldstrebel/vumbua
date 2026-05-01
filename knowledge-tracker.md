@@ -175,3 +175,34 @@ aliases:
 - ❌ Vumbua relocation: 6 months ago
 - ❌ Rill arrived at Academy: 2 months ago
 - ❌ The 3,000-year history of Harmony
+
+---
+
+## The Reso Race & Scouting
+
+### What Players Know
+- ✅ The **Reso Race** (Circuit Race) is a premier sport occurring at the **Apex Ring** on Thursday.
+- ✅ The arena layout is **50/50 land and water**; synergy between rigs and terrain is key.
+- ✅ The spires are randomized, popping up on mobile underground "missile bunker" boxes.
+- ✅ **Juxta's Spire** (lift-stone) tends to pop near vegetation (South Forest).
+- ✅ **Pudge** (Griffin rider) is the underdog with the lowest odds.
+- ✅ **Rill** is a racer in the upcoming event.
+- ✅ **Prism Water** security exists at the maintenance gates—it reveals the true identity/role of those seeking entry.
+- ✅ **Ambrosia of Luck** is the branded "Engine Grease" grog distributed by Lomi and Lucky.
+
+### GM Secrets (Players Don't Know)
+- ❌ The "Griffin" rules nerf biologicals because they are hard to care and feed for on extended journeys and would have a disproportionate advantage in the race.
+
+---
+
+## Lucky's Agenda
+
+### What Players Know
+- ✅ Lucky is tracking "anomalies" like [[Iggy]] and [[Zephyr]] because they represent a "Big Score."
+- ✅ He sees the Academy as a cycle of "Ablatives" and wants a ship to escape entirely.
+- ✅ He has a crush on [[Zephyr]] because she is "electric."
+- ✅ He values non-Harmony tech (clockwork) as a disruptive commodity.
+
+### GM Secrets (Players Don't Know)
+- ❌ Lucky's parents were killed in an accident involving [[Sarge]].
+- ❌ He pickpocketed a dead candidate's receipt to get in.

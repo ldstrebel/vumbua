@@ -119,6 +119,12 @@ The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing 
 - Named the fuel rocks "[[lavsidian]]" (lava + obsidian)
 - Stated his quest: "I want to find the heart of the volcano. The next lavsidian deposit. I want to find out *why* it's reheating."
 - Called [[Zephyr]] "Lightning Girl" after her purple lightning bolt; she called him "Lava Boy" via [[Rill]]
+- Joined [[Lomi]] in scouting the [[Apex Ring]] arena layout.
+
+### [[s5-clean|Session 5]] — Cards on the Table
+- Accompanied [[Iggy]] to [[Lucky]]'s "warehouse" interrogation.
+- Acted as **Iggy's self-appointed "agent"** during the negotiation with Lucky, ensuring his roommate didn't get fleeced.
+- Scouted the **Apex Ring** with [[Lomi]], observing the randomized spire deployment boxes and the [[Juxta's Spire]] location.
 
 ## Relationships
 

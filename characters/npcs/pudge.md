@@ -18,6 +18,13 @@ tags:
 ## Overview
 Member of Squad 09 (The Ablative). Lovable, loyal, and hardy---the heart of his squad.
 
+## Session Appearances
+
+### Session 5
+- Identified by [[Lucky]] as the underdog in the upcoming Reso Race
+- Races using a **Griffin** (biological vehicle), which is currently nerfed by the rules
+- Has the lowest odds of winning
+
 ## Personality
 - Lovable, loyal, perhaps a bit clumsy but hardy
 - The heart of the "Ablative" squad

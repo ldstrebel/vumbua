@@ -31,6 +31,10 @@ tags:
 ### Session 2
 - At the Block 99 bonfire, leaning against a wall watching [[Lucky]] sell Engine Grease, kicking empty bottles disapprovingly
 
+### Session 5
+- Present in [[Lucky]]'s warehouse during the "interrogation" of the party
+- Has a bruised chin from an earlier "pop" caused by one of [[Iggy]]'s clockwork inventions
+
 ## Personality
 - **Not Bitter, Protective:** He isn't bitter about his station; he's protective. He warns [[Ignatius]] about his fire because he's seen unchecked energy kill good people.
 - **Goal:** Wants his squad to survive the physics of the world, avoiding the politics.

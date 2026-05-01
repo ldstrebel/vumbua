@@ -149,18 +149,22 @@
 - **Session 4:** First day of classes begins; [[Ignatius]] hit by chalk in Logistics; [[Lomi]] rebuffed by Finch Gable; Party trades Ash-Blood genesis myth to Lucky for Val's study guide.
 - **Session 4.5:** Britt experiences "bacon"; [[Kael]] explains Speaking Stones and Resonance theory; Professor Thorne lectures on Reality Anchoring and the "dead island" before walking out; [[Aggie]] spots Val entering Sterling Hall with the Castellan twins.
 
+### Intake Week - Days 2-4 ([[s5-clean|Session 5]]: Cards on the Table)
+- **Monday Night:** [[Lucky]] interrogates [[Iggy]] in his "warehouse" (storage closet).
+- **The Confession:** Lucky reveals he is tracking "anomalies" ([[Iggy]] and [[Zephyr]]) to secure a ticket out of the "Ablative" cycle.
+- **The Deal:** [[Iggy]] trades clockwork inventions (fidget spinner, gadgets) for an annotated exam guide and Reso Race intel.
+- **The Scouting:** [[Ignatius]] and [[Lomi]] scout the **Apex Ring**; they discover randomized spire boxes and **Prism Water** security.
+- **The Branding:** [[Lomi]] and [[Lucky]] strike a deal to sell branded "Ambrosia of Luck" (engine grease grog) at the race.
+- **Mid-Week:** [[Aggie]] forms a study group with [[Pip]] and [[Bramble]]; [[Rill]] revealed as a racer in the upcoming Reso Race.
+- **Thursday Prep:** [[Ignatius]] and [[Iggy]] plan to infiltrate the race hangars using a trench coat and a stolen turban.
+
 ---
 
 ## Upcoming
 
-### Next Session
-- First day of classes
-- [[The Loom]] assigns teams after first-week exam
-- Rest week with captain interviews
-- Month-long trial venture
-- Meeting [[Rill]] at the grass-covered building after class
-
-### Expected Timeline (GM Notes)
-- Another 20,000 will be sent home after "Intro Voyages"
-- Proper facilities available once class size manageable
-- Major room reshuffle expected
+### Next Session (Session 6: The Apex Hustle)
+- **Wednesday:** The **Reso Race** begins at the **Apex Ring**.
+- **The Hangar Hustle:** [[Iggy]] and [[Ignatius]] infiltrate the race hangars to sabotage or investigate.
+- **The Race:** The first Circuit-Run of the year; [[Pudge]] vs [[Rill]] vs others.
+- **Friday:** The **Gen-Ed Exam** at the Basin; attrition of ~20,000 students expected.
+- **Team Formation:** [[The Loom]] assigns official squads following the exam.

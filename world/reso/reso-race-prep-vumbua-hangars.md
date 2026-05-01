@@ -60,7 +60,7 @@ Because the ultimate prize is real-world licensing, teams are torn between two e
 
 ## Roleplaying Hooks (When the PCs come down here)
 If the players spend their Tuesday/Wednesday here instead of in class, they can engage in:
-*   **Espionage:** Trying to spy on Squad 01 (Valentine Sterling's team). What exactly are those House Gilded "Panda Line" parts doing? Getting past the Turbaned Guards to peek requires high stealth or clever social engineering.
+*   **Espionage:** Trying to spy on **[[valentine-sterling|Valentine Sterling]] (Squad 01 - The Echelon):** Sponsoring **Team 2 (Sail & Stun)**. He is showing off experimental **Panda Line** rig thrusters funded by House Gilded. He is under massive pressure to win and prove Gilded's investment. Getting past the Turbaned Guards to peek requires high stealth or clever social engineering.
 *   **The Black Market (Iron Union):** Finding the Iron Union mechanics who are running a shadow-market in the sub-hangars. The PCs can trade favors (or umber crystal shards) for illegal rig modifications. Look for **[[hollow-jack]]** or **[[vex]]** in Pit-Row for the "real" gear.
 *   **Sponsor Hunting:** Wealthy Scions, minor nobles, and syndicate bookies are touring the catwalks above the hangar, looking at the rigs. The PCs could try to schmooze one of these VIPs to secure a backer, vastly increasing their chances of getting that Fast-Track License if they survive the race.
 *   **Sabotage Defense:** Having to deal with an attempted break-in on their own bay by a rival team looking to clip their aether-lines.
@@ -72,9 +72,10 @@ Because **first-years (candidates) and non-cadets are strictly forbidden from pi
 
 Here are the key Second-Year NPCs dominating the hangar floors:
 
-*   **Captain "Stamper" Vance (Team 1: Shatter Stamper):** 
-    *   A burly, unyielding Second-Year who pilots the brutalist heavy rig, *The Ironclad*. 
-    *   **The Hook:** Vance is currently looking for desperate first-year "candidates" (like the PCs) brave enough to strap into the exterior and man the manual coolant lines during the race.
+*   **[[alistair-rook|Alistair "The Rook" Rookwood]] (Team 1: Shatter Stamper):** 
+    *   **The Vibe:** Industrial, no-nonsense, and deeply skeptical of "Gilded" tech.
+    *   **The Interaction:** He is currently arguing with a hangar technician about the weight of his armor plates. He is looking for a "Heavy-Grade Umber Cell" to offset the Ironclad's massive power draw.
+    *   **The Hook:** If the players can source a high-output battery (or help him "liberate" one from a rival team), he'll give them access to his hangar-floor workbench.
 *   **Fabian & Dancer (Team 5):** 
     *   A duo of flashy, high-society Second-Years piloting *The Glass-Sail*, an incredibly fragile but agile precision rig. 
     *   **The Hook:** They blew a critical aether-valve and are desperate for a discreet mechanic who can fix their resonant-phasing hull before race day. They will offer a significant cut of a sponsor's prize money to any first-year who can pull it off.

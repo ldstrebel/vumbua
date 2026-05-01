@@ -63,6 +63,11 @@ Valentine is the Scion of House Sterling, son of the legendary explorer [[valent
 - **The Celebrity:** Was spotted trying to escape a gaggle of sycophants in Sterling Hall.
 - **Sterling Hall:** Avoided the crowd by entering his high-end dorm guarded by his "sentries," the [[Lyra Castellan|Castellan]] [[Ludo Castellan|twins]].
 
+### Session 5
+- **The Study Guide:** Clarified (via [[Lucky]]) that the study guide Val sold was not an "answer key" but a list of hypothesized questions designed to force students to learn the fundamentals.
+- **Legacy:** Mentioned by [[Pip]] as the son of the man who "started this city."
+- **The hangars-on** follow him everywhere and Pip is pressuring Aggie to ask him to let them on the airship.
+
 ### Session 3 *(Planned)*
 - **The Celestial Lounge:** Hosting the late-night gathering, one of the last people still awake.
 - Bought one of [[Lucky]]'s test answer packets and found errors — potential RP hook.

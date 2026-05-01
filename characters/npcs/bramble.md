@@ -26,6 +26,9 @@ Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure wha
 - **The Chase:** Helped the group chase down [[Silas Thorne|Professor Thorne]], making a path and physically dragging the exhausted [[Kael]] behind him.
 - **The Tree Person:** Caught [[Aggie]]'s attention when he wondered what tree-people eat for breakfast (mostly water, and he intensely dislikes meat).
 
+### Session 5
+- Formed a study group with [[Aggie]] and [[Pip]] in the courtyard to prepare for the Friday exams
+
 ### Session 2
 At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While [[Percival Vane-Smythe III|Percy]] argued for missing clans and [[Iron-Jaw Jax|Jax]] dismissed the idea, Bramble offered the most provocative perspective:
 

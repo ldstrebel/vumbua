@@ -10,7 +10,7 @@ tags:
 ---
 
 **user**: I need some help flavoring Lucky and Sarge - after the last session where Lucky was going to ask Iggy some questions - what other ideas can I pull off of?
-[Context: Notes: sessions/planning/s5/s5-plan.md]
+[Context: Notes: sessions/planning/archive/s5/s5-plan.md]
 [Timestamp: 2026/04/28 19:10:17]
 
 **ai**: Based on the details in [[s5-plan]] and the established history between [[lucky]], [[sarge]], and [[iggy]], here are several ways to flavor their interactions and push the narrative forward during the interrogation and beyond:
@@ -52,3 +52,81 @@ To humanize Sarge, you can lean into his history with Lucky’s parents.
 
 You can use these during the **🕒 00:00 – 00:15 | The Lucky Interrogations** segment of your [[s5-plan]] to make the scene feel more personal and high-stakes.
 [Timestamp: 2026/04/28 19:10:30]
+
+**user**: I need the NPCs on each team to be in reso-racers. Somewhere we lost the actual racer names
+[Context: Notes: world/reso/resonance-racers.md]
+[Timestamp: 2026/04/28 21:48:57]
+
+**ai**: To restore the missing racer names and integrate the details from your [[s5-plan]], here is the updated list for [[resonance-racers]]. I have added **Squad 01 (The Echelon)** which was mentioned in your planning notes but missing from the racer list, and filled in the names for the other teams.
+
+# Resonance Racers
+
+This page details the notable teams and soloists competing in the intake year's opening [[circuit-run|Resonance Race]].
+
+## Team 0: Squad 01 - The Echelon
+| | |
+|---|---|
+| **Racers** | [[valentine-sterling]], [[lyra-castellan]], [[ludo-castellan]] |
+| **Role** | Elite / Corporate-Backed Team |
+| **Rig** | **The Gilded Wing** - A high-spec rig featuring experimental **Panda Line** thrusters funded by House Gilded. |
+| **Strategy** | **Superior Tech & Optics.** They aim to maintain the lead from the start, using high-end sensors to avoid hazards that would slow down lesser rigs. Under massive pressure to prove their investment. |
+
+## Team 1: Shatter Stamper
+| | |
+|---|---|
+| **Racers** | **Kaelen "The Hammer"** & **Mora** |
+| **Role** | Heavy-Class Racing Team |
+| **Rig** | **The Ironclad** - A massive, brutalist heavy rig built for straight-line speed and surviving impacts. |
+| **Strategy** | **Brute Force & Overclocking.** They rely on raw power to bulldoze through obstacles rather than steering around them. |
+
+## Team 2: Sail & Stun
+| | |
+|---|---|
+| **Racers** | **Vex** & **Silas** |
+| **Role** | Disruptor Team |
+| **Rig** | **The Siren's Wake** - A fast sailing vessel rigged with sonic emitters and electromagnetic dampeners. |
+| **Strategy** | **Speed & Disruption.** They deploy localized static fields around nodes to throw off rival rig telemetry. Connected to Team 4 (Pudge). |
+
+## Team 3: Marble Wall
+| | |
+|---|---|
+| **Racers** | **Torin** & **Bane** |
+| **Role** | Aggro/Hunter Team |
+| **Rig** | **The Bastion** - A reinforced heavy crawler covered in reactive armor. |
+| **Strategy** | **Attrition & Elimination.** They hunt the competition, aiming to disable faster rigs early on to win by being the last team functional. |
+
+## Team 4: Pudge
+| | |
+|---|---|
+| **Racers** | **Pudge** & **Rook** |
+| **Role** | Experimental Light-Class Team |
+| **Rig** | **The Gryphon-Hybrid** - A bulbous gyro-boat with experimental Aero-Static components. |
+| **Strategy** | **High-Risk Synchronization.** They rely on linking with specialized nodes to perform massive vertical jumps, bypassing complex terrain. |
+
+## Team 5: Dancer & Fabian
+| | |
+|---|---|
+| **Racers** | [[dancer]] & [[fabian]] |
+| **Role** | Underdog / Precision Team |
+| **Rig** | **The Glass-Sail** - A lightweight racing sailboat with the lowest power rating but highest precision. |
+| **Strategy** | **Agility & Evasion.** They use technical skill and precision drafting to outmaneuver heavier, aggressive teams. |
+
+## Notable Soloists
+
+### Stinger
+- **Racer:** **Zane**
+- **Rig:** A minimalist, razor-thin hover-bike.
+- **Strategy:** Extreme speed and tight weaving. Highly vulnerable; relies entirely on not getting hit.
+
+### Goliath
+- **Racer:** **Captain Holloway**
+- **Rig:** A massive land-ship, the size of a mobile fortress.
+- **Strategy:** Acts as a moving hazard. Very slow, but virtually indestructible by standard rigs.
+
+---
+
+### 💡 DM Notes for the Race:
+- **The Sarge Connection:** [[sarge]] is currently seen fixing bolts under a car in the hangars (likely helping a team or the PCs).
+- **The Lucky Hustle:** [[lucky]] is moving through the crowd selling flags for these teams. He is currently betting on [[iggy]] and [[zephyr]] as "System Errors" that will disrupt the standard odds.
+- **The Siren's Lag:** Remind the racers that the **Light-trail** nodes (like those used by Team 4 and Team 5) carry the 60 BPM biological trap mentioned in the [[s5-plan]].
+[Timestamp: 2026/04/28 21:49:10]

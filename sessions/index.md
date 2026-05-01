@@ -164,6 +164,31 @@ Brit and Aggie process the previous night's trauma, their Mizi upbringing clashi
 - Mizi forest's recent resistance to pruning might be linked to the dead island phenomenon
 - The Castellan twins act as Val's aggressive sentries
 
+### [[s5-clean|Session 5: Cards on the Table]]
+**Date:** 2026-04-28
+
+Lucky leads the party into his "warehouse" for a high-stakes negotiation. He reveals his obsession with "anomalies" and his curiosity about Iggy's non-Harmony inventions. A deal is struck: Iggy's clockwork trinkets and Lomi's marketing expertise for the annotated exam guide and Reso Race intel. Later, the group scouts the Apex Ring, discovering the randomized spire mechanics and the "Prism Water" security systems.
+
+**Key Events:**
+- [[Lucky]] reveals he is tracking "anomalies" like [[Iggy]] and [[Zephyr]]
+- [[Iggy]] trades clockwork trinkets for the annotated exam guide, with help from [[ignatius]] his new agent
+- [[Lomi]] strikes a deal for "Ambrosia of Luck" (grease) distribution
+- Scouting the [[Apex Ring]]: Digging into [[Juxta's Spire]] and random deployment boxes
+- [[Lomi]] identifies "Prism Water" security at the maintenance gates
+- Mid-week study grind: [[Aggie]], [[Pip]], and [[Bramble]] form a study group
+- [[Rill]] revealed as a racer in the upcoming Reso Race
+- [[Ignatius]] and [[Iggy]] plan a hangar infiltration using a trench coat and a turban
+
+**Players Discovered:**
+- Lucky's motivation is tracking high-potential people, things, and stories for leverage/sponsorship
+- The Reso Race arena is 50/50 land/water; [[Juxta's Spire]] pops near vegetation slightly more often than not.
+- [[Pudge]] (Griffin rider) is the underdog with the lowest odds
+- Prism Water is a high-security access fluid that reveals true roles/identities
+- [[Professor Kante]] offers Iggy a power source for research
+- Spires move on mobile "missile bunker" boxes beneath the stadium floor
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)

@@ -10,20 +10,6 @@
 * [[#Race Montage — Scene by Scene]]  (The 4-beat play-by-play)
 * [[reso-race-enterprise]] for the day to day logistics
 
----
-
-## 📅 The Week's Timeline & Action Tracker
-
-Use this to track exactly what the PCs should be doing as the week progresses toward the Gen-Ed Exam.
-
-| Day / Phase | The Action | DM Focus & Mechanics |
-| :--- | :--- | :--- |
-| **Mon/Tue: The Grind** | PCs choose how to spend the 48 hours before the race. | Ask each player their focus. Award based on choice:<br>• **Grind (Study/Train):** "Over-Prepared" Exp (+2 to Exam)<br>• **Social:** Gain 2 Hope<br>• **Tech / Hangars (The Hangar Hustle):** Navigate the crowds (**2d10x10 mins**) to infiltrate and find a **Prism Flush** or meet **Vex**.<br>• **Physical:** Clear all Stress<br>• **Observe:** Run a "Missing PC Hook" (see below)<br>• **Pit-Row:** Visit the **[[reso-race-enterprise\|Apex Fringe]]** to meet **[[hollow-jack]]** or place bets. |
-| **Wed: The Surge** | The Academy halts. 500,000 people flood the Apex Ring. | The PCs walk to the gates. Describe the massive scale and the 3 Viewing Tiers (Bleachers, Rim-Tracker, Zephyrs). |
-| **Wed: The Race** | The first Circuit-Run of the year begins. | Run the **Race Montage Play-by-Play**. Give each PC one moment to react to the action. Drop 1-2 **Spectator Sandbox NPCs** to deliver lore or secrets. |
-| **Wed: Aftermath** | The crowds disperse. The PCs notice the Ash-Blood anomaly. | [[ignatius\|Ignatius]] or [[iggy\|Iggy]] realize the Ash-Blood node was missing. They go looking for faculty. Run the **Finding Rill** scene. |
-| **Thu: Study Day** | Final prep for the Gen-Ed Exam. | **Study Group Check (Knowledge/Instinct):** If they succeed together, everyone gets Advantage on the first exam roll. If they fail, they start the exam with 1 Stress. |
-| **Fri: The Exam** | The mechanical hurdle. | Transition to `Gened exam.md`. |
 
 ---
 
@@ -129,7 +115,7 @@ The Resonance Race is a "living ecosystem." Use these NPCs to drip-feed lore, pr
 
 | NPC | Action / Hook | The "Intel" or Reward |
 | :--- | :--- | :--- |
-| [[rill\|Rill]] | Arguing with a transport crew about the "vibration stress" on the [[mizizi-petrified-forest]] samples. | **The Quest:** She needs a crew for a "silent run" back to the forest. She’s looking for people who aren't afraid of the "Siren Song." |
+| [[rill\|Rill]] | Prepping **The Reed-Runner** (Team 6) or arguing with transport crews about the "vibration stress" on the [[mizizi-petrified-forest]] samples. | **The Quest:** She needs a crew for a "silent run" back to the forest. She is using the race as a data-gathering mission for her navigation AI. |
 
 ---
 

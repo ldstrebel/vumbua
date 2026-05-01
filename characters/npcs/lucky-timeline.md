@@ -22,8 +22,12 @@ A detailed chronological breakdown of [[Lucky]]'s path from street urchin to the
 - **The Watcher:** Lucky witnesses [[Dean Isolde Vane|Isolde]] personally smuggling [[Zephyr]] onto campus. He sees "The Look" again. 
 - **The Pivot:** Lucky stops attending classes entirely. He knows he can't compete academically, but he can win by out-hustling the system.
 - **The Rank:** Despite skipping every lecture, Lucky is ranked **Silver** by the end of the week. His survival instincts and "practical results" (hustling supplies, fixing minor issues for credits) keep his grades afloat.
-- **The Goal:** Lucky is now actively hunting for more "lost puppy geniuses." He views Iggy and Zephyr as the core of his "Big Score."
+- **The Goal:** Lucky is now actively hunting for more high-potential people, things, and stories. He views Iggy and Zephyr as the core of his "Big Score."
 
-## V. Current Status: Session 5
-- **The Interrogation:** Lucky is ready to confront the PCs. He isn't selling moonshine anymore; he’s selling a way out.
+## V. Week 2: The Cards on the Table
+- **The Interrogation ([[s5-clean|Session 5]]):** Lucky leads [[Iggy]], [[Ignatius]], and [[Lomi]] into his warehouse. He stops the minor hustles and goes "Cards on the Table."
+- **The Confession:** He admits to tracking high-potential people, things, and stories. He saw [[Zephyr]] taken by the Dean and realized that Iggy and Zephyr are part of the same disruptive pattern. 
+- **The Crush:** Lucky reveals his fascination with Zephyr ("She's electric").
+- **The Deal:** He trades his annotated exam guide and Reso Race intel (identifying [[Pudge]] as the underdog) for usage-rights to Iggy's inventions.
+- **The Branding:** Partners with [[Lomi]] to distribute "Ambrosia of Luck" (branded engine grease) at the race, realizing that the party's social reach is the final piece of his hustle.
 - **The Philosophy:** *"Instead of a comfortable administrative job, I'm focused on a ship. A ship with no anchor. And you guys? You're the ones who are going to build it for me."*

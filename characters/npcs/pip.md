@@ -26,6 +26,11 @@ Pip is a bubbly, hyperactive gnome student who quickly attached herself to [[Agg
 - **The Chase:** Rode on [[Bramble]]'s shoulders to direct the group chasing after [[Silas Thorne|Professor Thorne]] when he walked out of class.
 - **Class:** Fell asleep almost immediately on Bramble's arm during Reality Anchoring class.
 
+### Session 5
+- Formed a late-night study group with [[Aggie]] and [[Bramble]] in the courtyard
+- Eagerly anticipates the Reso Race for its "networking" potential and the chance to impress captains
+- Pressuring Aggie to get Val to invite on the airship for the race
+
 ## Relationships
 - **[[Bramble]]:** Her unofficial transport and patient friend. She often rides on his shoulders to see over crowds.
 - **[[Kael]]:** Follows him because "he's the smartest of all of us."

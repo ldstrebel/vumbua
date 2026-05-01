@@ -34,6 +34,12 @@ Before leaving, she recognized [[Britt]] and [[Aggie]] and told them to come fin
 
 When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephyr, [[Ignatius|Lava Boy]]."*
 
+### Session 5: The Reso Race
+- **Team:** Captain of **Team 6: The Silent Drift**.
+- **Rig:** **The Reed-Runner** — A minimalist, insectoid walker-glider that uses experimental "Wadi Flow" tech masked as Mizizi bio-resonance. It is designed for stealth and high-precision node-syncing rather than raw speed.
+- **Goal:** She is using the race as a high-stakes field test for the navigation systems she needs for her "Silent Run" into the [[mizizi-petrified-forest|Mizizi Petrified Forest]].
+- **The Conflict:** She is currently arguing with the Academy's transport crews about the "Vibration Stress" the heavier rigs (like Goliath) are putting on the delicate forest samples in the Basin floor.
+
 ## Timeline
 - **2 Years Ago:** Left the [[Mizizi]] Forest (The "Traitor" event).
 - **2 Months Ago:** Arrived at [[Vumbua Academy]] as a researcher.
@@ -45,7 +51,8 @@ When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephy
 - **Connection:** Knows [[Britt]] and [[Aggie]] from her time in the forest. They may not know her true [[Wadi]] nature.
 - **The Secret:** Her [[Wadi]] heritage gives her a different perspective on "Flow" and "Stagnation" than a true [[Mizizi]], allowing her to solve problems they cannot.
 - Has a familiar relationship with [[Dean Isolde Vane]].
-- Manages [[Zephyr]] on behalf of the Dean (knows how to handle her---hot chocolate, patience).
+- Manages [[Zephyr]] on behalf of the Dean (knows how to handle her---hot chocolate, patience). However, she is increasingly worried about Zephyr's "resonance leakage."
+- Currently working with [[professor-ink|Professor Ink]] on petrified bark analysis, trying to unlock "tree memories."
 
 ## Relationships
 

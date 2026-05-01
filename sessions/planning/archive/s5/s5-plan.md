@@ -165,7 +165,7 @@ During the montage leading up to the race, here is what the different classes ar
 *   **Aetheric Defense (Kaelen):** Creating internal pressure cores to resist the massive G-forces and crushing depths of high-speed node racing.
 
 #### NPC Prep & Faction Moves:
-*   **Valentine Sterling (Squad 01 - The Echelon):** Showing off experimental **Panda Line** rig thrusters funded by House Gilded. They are under massive pressure to win and prove Gilded's investment.
+*   **[[valentine-sterling\|Valentine Sterling]] (Squad 01 - The Echelon):** Sponsoring **Team 2 (Sail & Stun)**. Showing off experimental **Panda Line** rig thrusters funded by House Gilded. He is under massive pressure to win and prove Gilded's investment.
 *   **Valerius Sterling (Radio/Comms):** Broadcasting pre-race interviews, setting odds, and hyping up "underdog" squads to drum up syndicate action.
 *   **House Vox Scions:** Smugly preparing their rigs with high-capacity umber crystals, affording them longer, safer boosts without the fear of power burnout.
 *   **Iron Union Mechanics:** Working overtime in the lower hangars, striking backroom deals with desperate students for illegal rig modifications (e.g., bypassing safety limiters).

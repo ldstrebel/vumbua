@@ -7,10 +7,8 @@ aliases:
 # Vumbua Campaign — Lore Index
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
->
 > **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
->
-> **Last Updated**: Session 2.5 (February 2026)
+> **Last Updated**: Session 5 (April 2026)
 
 ---
 
@@ -38,16 +36,42 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - If something is GM planning (not spoken in-session), tag it as `gm-plan` and keep it out of player-facing sections.
 ```
 
-**New NPCs introduced**: [[Finch Gable]] (Snobbish Harmony-born student in Logistics class)
+**New NPCs introduced**: [[Finch Gable]] (Snobbish Harmony-born student in Logistics class)  
 **Key reveals**:
+
 - The first week has 7 total classes culminating in a test on Friday.
 - The **Circuit Race (Reszo Race)** is Harmony's premier logistical sport, taking place on Thursday afternoon at the Apex Ring.
-- **Ashblood Genesis Myth**: The Ash-Blood isles were formed by the burning body of a Sky Dragon caught in the loving embrace of a Sea Dragon.
-**Lucky's Exchange**: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded *real secrets* before handing over the actual answers.
-**Lomi's changes**: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.
+- **Ashblood Genesis Myth**: The Ash-Blood isles were formed by the burning body of a Sky Dragon caught in the loving embrace of a Sea Dragon.  
+**Lucky's Exchange**: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded *real secrets* before handing over the actual answers.  
+**Lomi's changes**: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.  
 **Plot threads opened**: Lucky pulled Lomi, Ignatius, and Iggy into a private "interrogation chamber" side room to discuss Iggy's mysterious test receipt before handing over the answers.
 
+## Session Delta (Session 05: Cards on the Table)
+
+### New / First-Mentioned Entities
+
+- NPC: [[Pudge]] — Squad 09 member revealed as an underdog racer in the Reso Race using a Griffin — Source: [[s5-clean|Session 5]]
+- Location: [[Apex Ring]] (Bleachers) — The mile-wide canyon stadium where the Reso Race occurs — Source: [[s5-clean|Session 5]]
+- Term: [[Prism Water]] — Security fluid that reveals identity/role for access control — Source: [[s5-clean|Session 5]]
+- Term: [[Ambrosia of Luck]] — Branding for the "Engine Grease" grog sold at the race — Source: [[s5-clean|Session 5]]
+- Term: [[Juxta's Spire]] — A specific lift-stone spire from the city — Source: [[s5-clean|Session 5]]
+
+### Updated Entity Pages
+
+- [[Lucky]] — Reveal of "anomaly" tracking motivation; Zephyr crush; grog deal.
+- [[Sarge]] — Presence in warehouse; bruised chin.
+- [[Rill]] — Revealed as a racer.
+- [[Valentine Sterling]] — Clarification that his study guide was hypothesized questions.
+
+### Player Knowledge Changes
+
+- Knowledge Tracker: ✅ Lucky's motivation (tracking anomalies for a Big Score).
+- Knowledge Tracker: ✅ Reso Race arena layout (50/50 land/water) and random spire mechanics.
+- Knowledge Tracker: ✅ Pudge is the underdog; Rill is a racer.
+- Knowledge Tracker: ✅ Prism Water security mechanics.
+
 ### Truth tiers (RAG safety)
+
 - **transcript**: said/seen in-session
 - **gm-narration**: narrated by GM but not yet known to PCs
 - **gm-plan**: prep/rosters/intent not yet occurred in-session (do not treat as established canon)
@@ -60,10 +84,10 @@ New entities, reveals, and changes introduced in the most recent session. Update
 When generating images, videos, or writing vivid descriptions for the Vumbua campaign, strictly adhere to these visual pillars to prevent the AI from falling back on generic tropes:
 
 1. **The "Rowing Race" Rule (Transit):** Transit in Vumbua is about academic observation and Victorian elegance. Always describe transit as *ornate, steam-pulled observation cars with vast glass windows and outward-facing bleacher seating* (reminiscent of Oxford rowing races). **CRITICAL ARCHITECTURE:** The tracks run elevated *behind* the grandstands, so the train looks over the tops of the audience's heads, providing an unobstructed view of the basin and allowing easy hop-on/hop-off access. **Anti-Trope:** NEVER use words like "mag-lev", "sleek", or "hovering capsule." Do not allow the AI to generate modern Japanese Shinkansen bullet trains, and do not place tracks between the crowd and the view.
-2. **The "Resonance Engine" Rule (Power/Energy):** Energy is derived from crystal warmth and steam venting. Always describe power systems as *vented brass steam engines glowing warmly with umber crystal resonance energy.* **Anti-Trope:** NEVER allow the AI to generate sci-fi jet engines, rocket thrusters, or modern turbines. 
+2. **The "Resonance Engine" Rule (Power/Energy):** Energy is derived from crystal warmth and steam venting. Always describe power systems as *vented brass steam engines glowing warmly with umber crystal resonance energy.* **Anti-Trope:** NEVER allow the AI to generate sci-fi jet engines, rocket thrusters, or modern turbines.
 3. **The "Oxford Stone" Rule (Architecture):** The world features pristine, high-academia architecture *integrated directly into raw nature*. Buildings are *bright pristine white marble, manicured ivy, and sweeping arches* that are often **carved into or bolted onto rugged, natural cliff faces and jagged mountains**. Contrast the blinding white stone against the textured brown and orange of natural rock. **Anti-Trope:** NEVER allow the AI to generate a purely man-made concrete or marble city. It must always feel like it is built *into* a natural, unyielding landscape. Avoid generic industrial steampunk (raw leaky pipes, grim soot, clock-faces glued to buildings, or literal gears serving no purpose).
 4. **The "Treasure Planet" Exception (Ships):** The one area that *does* lean heavily into high-fantasy steampunk is racing crafts and airships. Describe them as *Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive, silk-textured golden dirigible balloons*. They often feature ornate golden sails and thick brass cabling. **Anti-Trope:** Do not just ask for "boats" or it will draw mundane, normal sailboats. Avoid generic modern blimps; emphasize the transition between the opulent golden balloon and the heavy industrial ship hull.
-5. **The "Starting Grid" Rule (Geography):** The basin racing start line is exactly half solid earth and half deep turquoise water. The massively diverse racing rigs (crawlers and boats) idle side-by-side at ground level. **CRITICAL ARCHITECTURE:** The colossal, four-legged industrial Walker-Core crane is always set *far back behind* the starting line to offer an optional aerial launch point. NEVER describe it as a regatta anchoring completely on the water, and NEVER describe all rigs dropping from a crane at once.
+5. **The "Starting Grid" Rule (Geography):** The basin racing start line is approximarely half solid earth and half deep turquoise water. The massively diverse racing rigs (crawlers and boats) idle side-by-side at ground level. **CRITICAL ARCHITECTURE:** The colossal, four-legged industrial Walker-Core crane is always set *far back behind* the starting line to offer an optional aerial launch point. NEVER describe it as a regatta anchoring completely on the water, and NEVER describe all rigs dropping from a crane at once.
 6. **Setting Consistency & Clean Frames:** In multi-panel generations, explicitly restate the biome (e.g., *turquoise river canyon basin*) in every panel description so the AI doesn't default to a generic dirt arena. Furthermore, explicitly ban all text, typography, and anime subtitles in your prompts.
 
 ---
@@ -72,41 +96,45 @@ When generating images, videos, or writing vivid descriptions for the Vumbua cam
 
 These are the **correct** spellings. Transcription errors are common — always correct to these:
 
-| Correct | Common Errors |
-|---------|---------------|
-| **lavsidian** | Lasidian, Lydian, Leidien |
-| **Seraphina "Serra" Vox** | Sarah, Sara, Sera, Sarah Fox |
-| **Cassius Thorne** | Casius, Cassias |
+
+| Correct                              | Common Errors                         |
+| ------------------------------------ | ------------------------------------- |
+| **lavsidian**                        | Lasidian, Lydian, Leidien             |
+| **Seraphina "Serra" Vox**            | Sarah, Sara, Sera, Sarah Fox          |
+| **Cassius Thorne**                   | Casius, Cassias                       |
 | **Percival "Percy" Vane-Smythe III** | Percy Vane-Smith, Percival Van Smythe |
-| **Iron-Jaw Jax** | Iron Jaw Jacks, Ironjaw |
-| **Mizizi** | Misizi, Mizisi |
-| **Ash-Bloods** | Ash Bloods, Ashblood |
-| **Trench-Kin** | Trenchkin, Trench Kin |
-| **Renali** | Renalli, Ranali |
-| **Wadi** | Waddi, Waldi |
-| **Fulgur-Born** | Fulgar, Fulgurn |
-| **Rill** | Ryll, Ril |
-| **Ember** | (no common errors) |
-| **Zephyr** | Zephir, Zepher |
-| **Vumbua** | Vumba, Vumbra |
-| **Aether** | Ether (both acceptable) |
-| **Exploranaut** | Exploranot, Explorenaut |
-| **The Loom** | (no common errors) |
-| **Sky-Spire** | Sky Spire, Skyspire |
-| **Walker-Core** | Walker Core |
-| **Deep-Hull** | Deep Hull, Deephull |
+| **Iron-Jaw Jax**                     | Iron Jaw Jacks, Ironjaw               |
+| **Mizizi**                           | Misizi, Mizisi                        |
+| **Ash-Bloods**                       | Ash Bloods, Ashblood                  |
+| **Trench-Kin**                       | Trenchkin, Trench Kin                 |
+| **Renali**                           | Renalli, Ranali                       |
+| **Wadi**                             | Waddi, Waldi                          |
+| **Fulgur-Born**                      | Fulgar, Fulgurn                       |
+| **Rill**                             | Ryll, Ril                             |
+| **Ember**                            | (no common errors)                    |
+| **Zephyr**                           | Zephir, Zepher                        |
+| **Vumbua**                           | Vumba, Vumbra                         |
+| **Aether**                           | Ether (both acceptable)               |
+| **Exploranaut**                      | Exploranot, Explorenaut               |
+| **The Loom**                         | (no common errors)                    |
+| **Sky-Spire**                        | Sky Spire, Skyspire                   |
+| **Walker-Core**                      | Walker Core                           |
+| **Deep-Hull**                        | Deep Hull, Deephull                   |
+
 
 ---
 
 ## Player ↔ Character Mapping
 
-| Player (OOC) | Character (IC) | Clan/Origin | Rank | File |
-|--------------|----------------|-------------|------|------|
-| **Sophie** | **Britt** | Mizizi (gray fungal-turtle) | Gold | `characters/player-characters/britt.md` |
-| **Kristina** | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md` |
-| **John** | **Ignatius** | Ash-Blood (Ember Islander) | Silver | `characters/player-characters/ignatius.md` |
-| **Luke F** | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
-| **Holly** | **Iggy** | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
+
+| Player (OOC) | Character (IC) | Clan/Origin                                    | Rank   | File                                       |
+| ------------ | -------------- | ---------------------------------------------- | ------ | ------------------------------------------ |
+| **Sophie**   | **Britt**      | Mizizi (gray fungal-turtle)                    | Gold   | `characters/player-characters/britt.md`    |
+| **Kristina** | **Aggie**      | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md`    |
+| **John**     | **Ignatius**   | Ash-Blood (Ember Islander)                     | Silver | `characters/player-characters/ignatius.md` |
+| **Luke F**   | **Lomi**       | Harmony-born (Octoumba, Iron-Union)            | Copper | `characters/player-characters/lomi.md`     |
+| **Holly**    | **Iggy**       | "Earthkin" (secretly Trench-Kin)               | Gold   | `characters/player-characters/iggy.md`     |
+
 
 **Speaker attribution**: Use character name for in-character dialogue, player name for out-of-character talk. Determine from context.
 
@@ -116,49 +144,55 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 ### Academy Faculty & Staff
 
-| NPC | Role | File |
-|-----|------|------|
-| **Dean Isolde Vane** | Head of Vumbua Academy | `characters/npcs/dean-isolde-vane.md` |
-| **Celia Vance** | Operations Director | `characters/npcs/celia-vance.md` |
-| **Senior Exploranaut Hesperus** | Instructor, Field Training | `characters/npcs/hesperus.md` |
-| **Ratchet** | Copper-Rank Student, Block 99-Piston | `characters/npcs/ratchet.md` |
-| **Kojo** | Mizizi Student, Help Desk Tutor | `characters/npcs/kojo.md` |
-| **Pyrrhus** | Ash-Blood Student, Map Room Researcher | `characters/npcs/pyrrhus.md` |
-| **Professor Kante** | Tortoise professor of harmonics | `characters/npcs/professor-kante.md` |
+
+| NPC                             | Role                                   | File                                  |
+| ------------------------------- | -------------------------------------- | ------------------------------------- |
+| **Dean Isolde Vane**            | Head of Vumbua Academy                 | `characters/npcs/dean-isolde-vane.md` |
+| **Celia Vance**                 | Operations Director                    | `characters/npcs/celia-vance.md`      |
+| **Senior Exploranaut Hesperus** | Instructor, Field Training             | `characters/npcs/hesperus.md`         |
+| **Ratchet**                     | Copper-Rank Student, Block 99-Piston   | `characters/npcs/ratchet.md`          |
+| **Kojo**                        | Mizizi Student, Help Desk Tutor        | `characters/npcs/kojo.md`             |
+| **Pyrrhus**                     | Ash-Blood Student, Map Room Researcher | `characters/npcs/pyrrhus.md`          |
+| **Professor Kante**             | Tortoise professor of harmonics        | `characters/npcs/professor-kante.md`  |
+
 
 ### Student Squads
 
-| Squad | Members | Files |
-|-------|---------|-------|
-| **01: The Echelon** | Valerius "Val" Sterling (Cpt), Seraphina "Serra" Vox, Cassius Thorne | `valerius-sterling.md`, `serra-vox.md`, `cassius-thorne.md` |
-| **02: The Breakers** | Iron-Jaw Jax (Cpt), "Wall" Maria, Brawn | `iron-jaw-jax.md`, `maria-wall.md`, `brawn.md` |
-| **03: The Silence** | Nyx (Cpt), Kaelen, Mira | `nyx.md`, `kaelen.md`, `mira.md` |
-| **04: The Axiom** | Calculus Prime (Cpt), Theorem, Lemma | `calculus-prime.md`, `theorem.md`, `lemma.md` |
-| **05: The Harvesters** | Dr. Rose Halloway (Cpt), Silas "Old Man" Thorne, Bramble | `dr-rose-halloway.md`, `silas-thorne.md`, `bramble.md` |
-| **06: The Kiln** | Cinder-4 (Cpt), Hearth, Kindle | `cinder-4.md`, `hearth.md`, `kindle.md` |
-| **07: The Bathysphere** | Captain Barnacle (Cpt), Pressure, Depth | `captain-barnacle.md`, `pressure.md`, `depth.md` |
-| **08: The Legacy** | Percival Vane-Smythe III (Cpt), Lady Glimmer, Baron Bolt | `percival-vane-smythe-iii.md`, `lady-glimmer.md`, `baron-bolt.md` |
-| **09: The Ablative** | Sarge (Cpt, Rust Tier), Lucky, Pudge | `sarge.md`, `lucky.md`, `pudge.md` |
-| **Block 99-Piston** | Ratchet, Soot (Lomi's roommates) | `ratchet.md`, `soot.md` |
 
-*All NPC files are in `characters/npcs/`*
+| Squad                   | Members                                                              | Files                                                             |
+| ----------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
+| **01: The Echelon**     | Valerius "Val" Sterling (Cpt), Seraphina "Serra" Vox, Cassius Thorne | `valerius-sterling.md`, `serra-vox.md`, `cassius-thorne.md`       |
+| **02: The Breakers**    | Iron-Jaw Jax (Cpt), "Wall" Maria, Brawn                              | `iron-jaw-jax.md`, `maria-wall.md`, `brawn.md`                    |
+| **03: The Silence**     | Nyx (Cpt), Kaelen, Mira                                              | `nyx.md`, `kaelen.md`, `mira.md`                                  |
+| **04: The Axiom**       | Calculus Prime (Cpt), Theorem, Lemma                                 | `calculus-prime.md`, `theorem.md`, `lemma.md`                     |
+| **05: The Harvesters**  | Dr. Rose Halloway (Cpt), Silas "Old Man" Thorne, Bramble             | `dr-rose-halloway.md`, `silas-thorne.md`, `bramble.md`            |
+| **06: The Kiln**        | Cinder-4 (Cpt), Hearth, Kindle                                       | `cinder-4.md`, `hearth.md`, `kindle.md`                           |
+| **07: The Bathysphere** | Captain Barnacle (Cpt), Pressure, Depth                              | `captain-barnacle.md`, `pressure.md`, `depth.md`                  |
+| **08: The Legacy**      | Percival Vane-Smythe III (Cpt), Lady Glimmer, Baron Bolt             | `percival-vane-smythe-iii.md`, `lady-glimmer.md`, `baron-bolt.md` |
+| **09: The Ablative**    | Sarge (Cpt, Rust Tier), Lucky, Pudge                                 | `sarge.md`, `lucky.md`, `pudge.md`                                |
+| **Block 99-Piston**     | Ratchet, Soot (Lomi's roommates)                                     | `ratchet.md`, `soot.md`                                           |
+
+
+*All NPC files are in `characters/npcs/*`
 
 ### Notable Figures
 
-| NPC | Role | File |
-|-----|------|------|
-| **Lady Ignis** | Ash-Blood Matriarch, Harmony High Councilor | `lady-ignis.md` |
-| **Rill** | Wadi researcher (poses as Mizizi), Dean's assistant | `rill.md` |
-| **Zephyr** | Storm-Kin exchange member, purple lightning | `zephyr.md` |
-| **Lance** | Harmony Student (Independent?) | `lance.md` |
+
+| NPC                        | Role                                                       | File                       |
+| -------------------------- | ---------------------------------------------------------- | -------------------------- |
+| **Lady Ignis**             | Ash-Blood Matriarch, Harmony High Councilor                | `lady-ignis.md`            |
+| **Rill**                   | Wadi researcher (poses as Mizizi), Dean's assistant        | `rill.md`                  |
+| **Zephyr**                 | Storm-Kin exchange member, purple lightning                | `zephyr.md`                |
+| **Lance**                  | Harmony Student (Independent?)                             | `lance.md`                 |
 | **Valentine Sterling Sr.** | Legendary Explorer, Father of Valentine, Uncle of Valerius | `valentine-sterling-sr.md` |
-| **Lady Glissade** | Harmony Noble | `lady-glissade.md` |
-| **Valentine Sterling** | Radio Host, Sterling Family | `valentine-sterling.md` |
-| **Ember** | Ash-Blood student, Ignatius's cousin, modernizer | `ember.md` |
-| **Tommy** | Gnome clerk (power room, Session 2.5) | `tommy.md` |
-| **Lucina** | Dwarf maintenance (power room, Session 2.5) | `lucina.md` |
-| **Marla** | Human who failed out (power room, Session 2.5) | `marla.md` |
-| **Finch Gable** | Harmony Student, Logistics Nerd (Session 4) | `finch-gable.md` |
+| **Lady Glissade**          | Harmony Noble                                              | `lady-glissade.md`         |
+| **Valentine Sterling**     | Radio Host, Sterling Family                                | `valentine-sterling.md`    |
+| **Ember**                  | Ash-Blood student, Ignatius's cousin, modernizer           | `ember.md`                 |
+| **Tommy**                  | Gnome clerk (power room, Session 2.5)                      | `tommy.md`                 |
+| **Lucina**                 | Dwarf maintenance (power room, Session 2.5)                | `lucina.md`                |
+| **Marla**                  | Human who failed out (power room, Session 2.5)             | `marla.md`                 |
+| **Finch Gable**            | Harmony Student, Logistics Nerd (Session 4)                | `finch-gable.md`           |
+
 
 ---
 
@@ -166,47 +200,53 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 ### Harmony Houses (8)
 
-| House | Domain | Key Detail |
-|-------|--------|------------|
-| **House Vane (The Shield)** | Defense, Walls | Dean Isolde is from here |
-| **House Vox (The Spark)** | Energy, Crystal Batteries | Serra Vox is the runaway daughter |
-| **House Sterling (The Sail)** | Trade, Logistics | Sterling Sr. discovered Mizizi |
-| **House Gilded (The Vault)** | Treasury, Banking | Originally built Chime Spires |
-| **Iron-Union** | Engines, Boilers | Lomi is a member (Diamond Union subset) |
-| **Scrivener Guild** | Knowledge, Maps | Decoded integration mechanics |
-| **The Verdant Trust** | Agriculture | Less relevant on frontier |
-| **High-Justiciars** | Law, Balance | (The Scales) |
-| **Grand Architects** | Construction | (House Mason) |
-| **Syndicate of Sails** | Trade routes | Logistics |
+
+| House                         | Domain                    | Key Detail                              |
+| ----------------------------- | ------------------------- | --------------------------------------- |
+| **House Vane (The Shield)**   | Defense, Walls            | Dean Isolde is from here                |
+| **House Vox (The Spark)**     | Energy, Crystal Batteries | Serra Vox is the runaway daughter       |
+| **House Sterling (The Sail)** | Trade, Logistics          | Sterling Sr. discovered Mizizi          |
+| **House Gilded (The Vault)**  | Treasury, Banking         | Originally built Chime Spires           |
+| **Iron-Union**                | Engines, Boilers          | Lomi is a member (Diamond Union subset) |
+| **Scrivener Guild**           | Knowledge, Maps           | Decoded integration mechanics           |
+| **The Verdant Trust**         | Agriculture               | Less relevant on frontier               |
+| **High-Justiciars**           | Law, Balance              | (The Scales)                            |
+| **Grand Architects**          | Construction              | (House Mason)                           |
+| **Syndicate of Sails**        | Trade routes              | Logistics                               |
+
 
 ### Clans (6) — The Shattered Circuit
 
-| Clan | Node Role | Integration Status | Key Members |
-|------|-----------|-------------------|-------------|
-| **Mizizi** (Root-Kin) | Memory | 15% (stalled) | Britt, Aggie |
-| **Ash-Bloods** (Ember-Kin) | Power | 100% (24 mo ago) | Ignatius, Ember, Lady Ignis |
-| **Trench-Kin** (Earthkin) | Resources | 0% (uncontacted) | Iggy (secret) |
-| **Renali** (Air Clan) | Vision | 0% (uncontacted) | Zephyr (exchange) |
-| **Wadi** (River Clan) | Life | Unknown | Rill (secret identity) |
-| **Fulgur-Born** (Storm-Chasers) | — | — | Zephyr (true clan) |
+
+| Clan                            | Node Role | Integration Status | Key Members                 |
+| ------------------------------- | --------- | ------------------ | --------------------------- |
+| **Mizizi** (Root-Kin)           | Memory    | 15% (stalled)      | Britt, Aggie                |
+| **Ash-Bloods** (Ember-Kin)      | Power     | 100% (24 mo ago)   | Ignatius, Ember, Lady Ignis |
+| **Trench-Kin** (Earthkin)       | Resources | 0% (uncontacted)   | Iggy (secret)               |
+| **Renali** (Air Clan)           | Vision    | 0% (uncontacted)   | Zephyr (exchange)           |
+| **Wadi** (River Clan)           | Life      | Unknown            | Rill (secret identity)      |
+| **Fulgur-Born** (Storm-Chasers) | —         | —                  | Zephyr (true clan)          |
+
 
 ---
 
 ## Key Locations
 
-| Location | Description |
-|----------|-------------|
+
+| Location                        | Description                                              |
+| ------------------------------- | -------------------------------------------------------- |
 | **Vumbua Academy (The Safiri)** | Mobile city-state, 3 Cores, currently at Ash-Blood Isles |
-| **Sky-Spire** | Golden airship — Command, Elite Dorms, Dean's office |
-| **Walker-Core** | Four-legged mech — Engineering, Power, The Loom |
-| **Deep-Hull** | Submersible — Storage, Archives, Research |
-| **Spire-Scape** | 70% temporary scaffolding structures |
-| **Block 99** | Industrial district, bonfire location (geothermal plant) |
-| **Celestial Lounge** | Upscale club, NW "fancy district" |
-| **Harmony Prime (The Seat)** | Capital city, ~8M people, High Council |
-| **Ash-Blood Isles** | Volcanic chain, Vumbua's current location |
-| **Mizizi Petrified Forest** | Stone mega-flora, stalled integration |
-| **The Frontier** | Uncharted territories beyond Safe Lanes |
+| **Sky-Spire**                   | Golden airship — Command, Elite Dorms, Dean's office     |
+| **Walker-Core**                 | Four-legged mech — Engineering, Power, The Loom          |
+| **Deep-Hull**                   | Submersible — Storage, Archives, Research                |
+| **Spire-Scape**                 | 70% temporary scaffolding structures                     |
+| **Block 99**                    | Industrial district, bonfire location (geothermal plant) |
+| **Celestial Lounge**            | Upscale club, NW "fancy district"                        |
+| **Harmony Prime (The Seat)**    | Capital city, ~8M people, High Council                   |
+| **Ash-Blood Isles**             | Volcanic chain, Vumbua's current location                |
+| **Mizizi Petrified Forest**     | Stone mega-flora, stalled integration                    |
+| **The Frontier**                | Uncharted territories beyond Safe Lanes                  |
+
 
 ---
 
@@ -226,14 +266,17 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 ## Session Status
 
-| Session | Raw Transcript | Cleaned Transcript | Status |
-|---------|---------------|-------------------|--------|
-| Session 0 | `sessions/transcripts/raw/s0-raw.md` | `sessions/transcripts/clean/session-00.md` | ✅ Complete |
-| Session 1 | `sessions/transcripts/raw/s1-raw.md` | `sessions/transcripts/clean/session-01.md` | ✅ Complete |
-| Session 2 | `sessions/transcripts/raw/s2-raw.md` | `sessions/transcripts/clean/session-02.md` | ✅ Complete |
+
+| Session     | Raw Transcript                         | Cleaned Transcript                           | Status     |
+| ----------- | -------------------------------------- | -------------------------------------------- | ---------- |
+| Session 0   | `sessions/transcripts/raw/s0-raw.md`   | `sessions/transcripts/clean/session-00.md`   | ✅ Complete |
+| Session 1   | `sessions/transcripts/raw/s1-raw.md`   | `sessions/transcripts/clean/session-01.md`   | ✅ Complete |
+| Session 2   | `sessions/transcripts/raw/s2-raw.md`   | `sessions/transcripts/clean/session-02.md`   | ✅ Complete |
 | Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/session-02.5.md` | ✅ Complete |
-| Session 3 | `sessions/transcripts/raw/s3-raw.md` | `sessions/transcripts/clean/session-03.md` | ✅ Complete |
-| Session 4 | `sessions/transcripts/raw/s4-raw.md` | `sessions/transcripts/clean/session-04.md` | ✅ Complete |
+| Session 3   | `sessions/transcripts/raw/s3-raw.md`   | `sessions/transcripts/clean/session-03.md`   | ✅ Complete |
+| Session 4   | `sessions/transcripts/raw/s4-raw.md`   | `sessions/transcripts/clean/session-04.md`   | ✅ Complete |
+| Session 5   | `sessions/transcripts/raw/s5-raw.md`   | `sessions/transcripts/clean/s5-clean.md`     | ✅ Complete |
+
 
 ---
 
@@ -266,7 +309,7 @@ bestiary/                         # Creature profiles
 meta/                             # ★ APP MANAGEMENT & TOOLING
 ├── scripts/                      # Python/bash automation scripts
 ├── docs/                         # Jekyll/NotebookLM exports
-├── exports/                      # Export output
+├── exports/                      # Export outputs
 ├── radio-scripts/                # Radio-style session recaps
 ├── Excalidraw/                   # Excalidraw test files
 ├── Ink/                          # Ink drawing/writing files
@@ -286,10 +329,11 @@ meta/                             # ★ APP MANAGEMENT & TOOLING
 
 ### Key Distinctions
 
-| Directory | Purpose | Updated By |
-|-----------|---------|------------|
-| repo root (index + top-level content dirs) | Source of truth for all campaign content | AI via workflows |
-| `characters/` | Character index, PCs, and canonical NPC profiles | AI via `/add-character` |
-| `sessions/` | Raw + cleaned session files + planning | AI via `/add-session` |
-| `meta/docs/notebooklm/` | Consolidated exports for NotebookLM | Manual re-export after major updates |
-| `meta/legacy/` | Original source docs (legacy) | Not actively updated |
+
+| Directory                                  | Purpose                                          | Updated By                           |
+| ------------------------------------------ | ------------------------------------------------ | ------------------------------------ |
+| repo root (index + top-level content dirs) | Source of truth for all campaign content         | AI via workflows                     |
+| `characters/`                              | Character index, PCs, and canonical NPC profiles | AI via `/add-character`              |
+| `sessions/`                                | Raw + cleaned session files + planning           | AI via `/add-session`                |
+| `meta/docs/notebooklm/`                    | Consolidated exports for NotebookLM              | Manual re-export after major updates |
+| `meta/legacy/`                             | Original source docs (legacy)                    | Not actively updated                 |

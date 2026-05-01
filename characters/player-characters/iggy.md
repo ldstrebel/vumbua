@@ -139,6 +139,11 @@ Everything changed. Wandered into the power plant and met [[Professor Kante]], w
 - Designed five experiments to test "connection" with people
 - Rejoined the group for the [[Celestial Lounge]] trip
 
+### [[s5-clean|Session 5]] — Cards on the Table
+- Interrogated by [[Lucky]] in his "warehouse" (storage closet) alongside [[Ignatius]] and [[Lomi]].
+- Traded his custom-built clockwork trinkets for Lucky's annotated study guide and crucial intel on the Reso Race.
+- **[[Ignatius]]** stepped in as his self-appointed "agent" during the deal, managing the negotiation to protect Iggy from Lucky's hustling.
+
 ## Relationships
 
 | Character | Relationship |

@@ -26,10 +26,17 @@ A student in the Silver tier (ranked purely on survival instinct, as he hasn't a
 - Hawked "authentic Ash-Blood" memorabilia: *"That guy's red hot hair? Look at it. Got it right here. Two gold pieces. Hot off the rock."*
 
 ### Session 2
-- At the Block 99 bonfire, set up in a corner selling **Engine Grease** (moonshine/engine oil)---the drink of choice among boiler room workers
+- At the Block 99 bonfire, set up in a corner selling **Engine Grease** (moonshine/engine oil)—the drink of choice among boiler room workers
 - His pitch: *"Grease your grades or grease your livers!"*
 - [[Percival Vane-Smythe III|Percy Vane-Smythe III]] is a regular customer
 - [[Sarge]] was watching Lucky disapprovingly from a distance, kicking empty bottles
+
+### Session 5
+- Led [[Iggy]], [[Ignatius]], and [[Lomi]] to his "warehouse" (a storage closet) for a "Cards on the Table" negotiation
+- Revealed he is tracking people, things, and stories like [[Iggy]] and [[Zephyr]] because they represent a "Big Score" or a ticket out
+- Admits to a crush on [[Zephyr]] ("She's electric. No cooties—she just zaps them.")
+- Traded an annotated exam guide and Reso Race intel for [[Iggy]]'s clockwork inventions
+- Struck a distribution deal with [[Lomi]] for "Ambrosia of Luck" (Engine Grease branding)
 
 ## Personality
 - **Enterprising Hustler:** If you need it, Lucky can get it (for a price).
@@ -37,6 +44,7 @@ A student in the Silver tier (ranked purely on survival instinct, as he hasn't a
 - **Suspicious/Observant:** Watches for "System Errors" and "Anomalies" like [[Iggy]] and [[Zephyr]].
 - **Fearless Salesman:** Pitches to anyone regardless of rank.
 - **"The Score" Focused:** Skipping every class to focus on his real objective: getting off the "Ablative" track.
+- **Crush:** Smitten with [[Zephyr]]; calls her "electric" and likes that she zaps cooties.
 
 ## Timeline: The Hustle and the Hook
 For a detailed breakdown of Lucky's journey and his discovery of Iggy's tech, see: [[lucky-timeline|Lucky's Detailed Timeline]].
@@ -55,6 +63,7 @@ For a detailed breakdown of Lucky's journey and his discovery of Iggy's tech, se
 - **[[session-01|Session 1]]** — Sold [[Iggy]] a stolen guard turban as a "Kleenex"; hawked Ash-Blood memorabilia *(Scene 7: The Hustle)*
 - **[[session-02|Session 2]]** — Selling Engine Grease at the [[Block 99]] bonfire *(Scene 2: Getting Lucky)*
 - **[[session-02|Session 2]]** — [[Percival Vane-Smythe III|Percy]] as a regular customer; [[Sarge]] watching disapprovingly *(Scene 2)*
+- **[[s5-clean|Session 5]]** — "Cards on the Table" negotiation; trades for inventions; Zephyr crush revealed; "Ambrosia of Luck" grog deal.
 
 ---
 
