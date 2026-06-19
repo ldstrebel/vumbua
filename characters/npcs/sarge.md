@@ -11,7 +11,7 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Squad 09 (The Ablative) - Captain (Rust Tier) |
+| **Role** | Student Candidate (Rust Rank) / Squad 09 (Prospective) |
 | **Affiliation** | [[Vumbua Academy]], "The Engine Room" |
 | **Location** | [[Block 99]] area |
 | **Status** | Active |
@@ -47,10 +47,10 @@ tags:
 
 ---
 
-## GM Narration [NOT YET REVEALED TO PLAYERS]
+## GM Secrets
 
 > [!warning]-
-> The following information has been narrated by the GM but is not known to the player characters.
+> The following information is not known to the player characters.
 
 ### Backstory
 A former grunt who watched his entire crew die because an arrogant Exploranaut pushed too hard into a Shattered Node. He survived, but he refuses to let it happen again.

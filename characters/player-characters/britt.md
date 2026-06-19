@@ -1,4 +1,6 @@
 ---
+aliases:
+  - Brit
 tags:
   - pc
   - mizizi
@@ -108,3 +110,13 @@ Serra Vox approached her and Aggie at the bonfire, calling it "the most importan
 | **[[Ignatius]]** | Fellow candidate — met at Vumbua |
 | **[[Lomi]]** | Fellow candidate — met at Vumbua |
 | **[[Iggy]]** | Fellow candidate — met at Vumbua |
+
+---
+
+## GM Secrets
+
+> [!WARNING]- GM Secrets
+> - **The Compass Origin & Elder Secret:** The Surveyor's Compass found by Britt belonged to another Harmony explorer who successfully crossed the ocean and made contact with the Mizizi clan a decade ago. The Mizizi elders kept this visit a secret to protect their isolation, buried the explorer's cache, and engineered specific alert mushrooms around it.
+> - **Fungal Decay Curse:** Because Britt disturbed the cache and handled the compass, the protective spores of the alert mushrooms have seeped into her skin. She will soon begin to rapidly decay—the elders' ancient security mechanism to prevent knowledge of the outside world from spreading.
+> - **The Quest for Elder Zaza:** The only way to cure the decay is to return to the forest and seek out **Zaza**, the oldest elder and caretaker of the forest secrets (planned for around Session 10). Zaza will reluctantly explain the forest's true purpose: it is a repository for storing ancient knowledge. She will direct Britt into the forest's ruins to retrieve the knowledge that can save her, teaching her that their true calling is not death and destruction, but preservation and growth.
+> - **The Fragmented Vision:** This revelation will be delivered to Britt as a fragmented, hallucinatory vision. Aggie will also experience this vision as she anchors Britt in the mycelial network. The GM will write this as a script for the two players to piece together.

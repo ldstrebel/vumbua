@@ -69,7 +69,7 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 
 **Player Discoveries:**
 - Harmony made contact 1-2 cycles ago
-- "[[Valerius Sterling Sr.|The Paper Man]]" led the expedition (sterile metal outfit)
+- "[[valentine-sterling-sr|Valentine Sterling Sr.]]" ("[[valentine-sterling-sr|The Paper Man]]") led the expedition (sterile metal outfit)
 - Harmony provides tools to destroy the forest (solvents, weapons)
 - In return, Harmony takes soil, roots, bark, and stone
 - Neither side fully understands what the other wants

@@ -8,7 +8,7 @@ aliases:
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 > **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
-> **Last Updated**: Session 5 (April 2026)
+> **Last Updated**: Session 6 (June 2026)
 
 ---
 
@@ -45,6 +45,30 @@ New entities, reveals, and changes introduced in the most recent session. Update
 **Lucky's Exchange**: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded *real secrets* before handing over the actual answers.  
 **Lomi's changes**: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.  
 **Plot threads opened**: Lucky pulled Lomi, Ignatius, and Iggy into a private "interrogation chamber" side room to discuss Iggy's mysterious test receipt before handing over the answers.
+
+## Session Delta (Session 06: Potatoes and Peas)
+
+### New / First-Mentioned Entities
+
+- NPC: [[Warden Rovaldi]] — Chief of the Guards at the hangar with a mechanical eye — Source: [[s6-clean|Session 6]] (Scene 2)
+- NPC: [[Jorge]] — Dragonkin student and friend of Valentine — Source: [[s6-clean|Session 6]] (Scene 4)
+- Location: [[Hangar 12]] — Basalt-carved hangar vault containing race builds — Source: [[s6-clean|Session 6]] (Scene 2)
+- Location: [[The Colonnade]] — Pillared hallway leading to airship berths — Source: [[s6-clean|Session 6]] (Scene 4)
+- Term: [[Surveyor's Compass]] — Ornate compass found outside the city pointing consistently — Source: [[s6-clean|Session 6]] (Scene 3)
+
+### Updated Entity Pages
+
+- [[Valentine Sterling]] — Added details of his cafeteria mapping, feelings of heritage pressure, and the airship invite.
+- [[Lyra Castellan]] & [[Ludo Castellan]] — Added their courtyard and cafeteria interactions, including Lomi blocking Lyra and Iggy throwing toast.
+- [[Pip]] & [[Bramble]] — Added courtyard and cafeteria appearances (food sharing, grass smoothing).
+- [[Finch Gable]] — Added alleyway enforcer trade spying activities.
+
+### Player Knowledge Changes
+
+- Knowledge Tracker: ✅ Surveyor's Compass found (+2 to navigation checks, spend 1 Hope to reroll).
+- Knowledge Tracker: ✅ Finch Gable trying to trade secrets about Valerius (the Radio Host) to guards for hangar access.
+- Knowledge Tracker: ✅ Valentine's team replacement node is locked in Hangar Bay 4 by Warden Rovaldi.
+- Knowledge Tracker: ✅ Valentine invites the group to board the Sterling airship VIP deck to study and watch the race.
 
 ## Session Delta (Session 05: Cards on the Table)
 
@@ -89,6 +113,9 @@ When generating images, videos, or writing vivid descriptions for the Vumbua cam
 4. **The "Treasure Planet" Exception (Ships):** The one area that *does* lean heavily into high-fantasy steampunk is racing crafts and airships. Describe them as *Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive, silk-textured golden dirigible balloons*. They often feature ornate golden sails and thick brass cabling. **Anti-Trope:** Do not just ask for "boats" or it will draw mundane, normal sailboats. Avoid generic modern blimps; emphasize the transition between the opulent golden balloon and the heavy industrial ship hull.
 5. **The "Starting Grid" Rule (Geography):** The basin racing start line is approximarely half solid earth and half deep turquoise water. The massively diverse racing rigs (crawlers and boats) idle side-by-side at ground level. **CRITICAL ARCHITECTURE:** The colossal, four-legged industrial Walker-Core crane is always set *far back behind* the starting line to offer an optional aerial launch point. NEVER describe it as a regatta anchoring completely on the water, and NEVER describe all rigs dropping from a crane at once.
 6. **Setting Consistency & Clean Frames:** In multi-panel generations, explicitly restate the biome (e.g., *turquoise river canyon basin*) in every panel description so the AI doesn't default to a generic dirt arena. Furthermore, explicitly ban all text, typography, and anime subtitles in your prompts.
+7. **The "Clean & Grand" Principle (Aesthetic):** The aesthetic is clean, academic, and stately. Think Oxford stone, pristine white marble, and manicured green ivy integrated into dramatic natural features. Do NOT describe environments as grungy, dirty, soot-choked, or cluttered with messy copper wiring, leaky pipes, or loose, non-functional gears. The steampunk elements are grand, elegant, and clean—best represented by majestic solar galleons, ornate dirigibles, and refined Victorian architecture.
+8. **The Nature of the Loom (Metaphysics):** The Loom is not a sentient god, an AI computer, or an active protagonist. It is an ancient, trusted conduit where the fluid combination of grades (intellectual efforts) and karmic magic naturally flows and pools students into squads. It behaves like water finding its natural level, or sand settling into geometric patterns on a vibrating plate. Squad match readouts are not "computer-generated fortune cookie prophecies," but poetic transcriptions reflecting the natural, combined resonance of the students.
+9. **Harmonics as an Empirical Study (Magic System):** "Harmonics" and resonance are NOT common spellcasting methods or everyday vernacular. Harmony is in a Victorian-esque stage of empirical exploration; they are actively trying to study and understand these forces. Their technology is functional but experimental, subject to human/experimental error, and they are not always "in tune."
 
 ---
 
@@ -161,7 +188,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Squad                   | Members                                                              | Files                                                             |
 | ----------------------- | -------------------------------------------------------------------- | ----------------------------------------------------------------- |
-| **01: The Echelon**     | Valerius "Val" Sterling (Cpt), Seraphina "Serra" Vox, Cassius Thorne | `valerius-sterling.md`, `serra-vox.md`, `cassius-thorne.md`       |
+| **01: The Echelon**     | Valentine "Val" Sterling (Cpt), Seraphina "Serra" Vox, Cassius Thorne | `valentine-sterling.md`, `serra-vox.md`, `cassius-thorne.md`       |
 | **02: The Breakers**    | Iron-Jaw Jax (Cpt), "Wall" Maria, Brawn                              | `iron-jaw-jax.md`, `maria-wall.md`, `brawn.md`                    |
 | **03: The Silence**     | Nyx (Cpt), Kaelen, Mira                                              | `nyx.md`, `kaelen.md`, `mira.md`                                  |
 | **04: The Axiom**       | Calculus Prime (Cpt), Theorem, Lemma                                 | `calculus-prime.md`, `theorem.md`, `lemma.md`                     |
@@ -186,7 +213,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Lance**                  | Harmony Student (Independent?)                             | `lance.md`                 |
 | **Valentine Sterling Sr.** | Legendary Explorer, Father of Valentine, Uncle of Valerius | `valentine-sterling-sr.md` |
 | **Lady Glissade**          | Harmony Noble                                              | `lady-glissade.md`         |
-| **Valentine Sterling**     | Radio Host, Sterling Family                                | `valentine-sterling.md`    |
+| **Valerius Sterling**     | Radio Host, Sterling Family                                | `valerius-sterling.md`    |
 | **Ember**                  | Ash-Blood student, Ignatius's cousin, modernizer           | `ember.md`                 |
 | **Tommy**                  | Gnome clerk (power room, Session 2.5)                      | `tommy.md`                 |
 | **Lucina**                 | Dwarf maintenance (power room, Session 2.5)                | `lucina.md`                |
@@ -269,12 +296,12 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Session     | Raw Transcript                         | Cleaned Transcript                           | Status     |
 | ----------- | -------------------------------------- | -------------------------------------------- | ---------- |
-| Session 0   | `sessions/transcripts/raw/s0-raw.md`   | `sessions/transcripts/clean/session-00.md`   | ✅ Complete |
-| Session 1   | `sessions/transcripts/raw/s1-raw.md`   | `sessions/transcripts/clean/session-01.md`   | ✅ Complete |
-| Session 2   | `sessions/transcripts/raw/s2-raw.md`   | `sessions/transcripts/clean/session-02.md`   | ✅ Complete |
-| Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/session-02.5.md` | ✅ Complete |
-| Session 3   | `sessions/transcripts/raw/s3-raw.md`   | `sessions/transcripts/clean/session-03.md`   | ✅ Complete |
-| Session 4   | `sessions/transcripts/raw/s4-raw.md`   | `sessions/transcripts/clean/session-04.md`   | ✅ Complete |
+| Session 0   | `sessions/transcripts/raw/s0-raw.md`   | `sessions/transcripts/clean/s0-clean.md`     | ✅ Complete |
+| Session 1   | `sessions/transcripts/raw/s1-raw.md`   | `sessions/transcripts/clean/s1-clean.md`     | ✅ Complete |
+| Session 2   | `sessions/transcripts/raw/s2-raw.md`   | `sessions/transcripts/clean/s2-clean.md`     | ✅ Complete |
+| Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/s2.5-clean.md`   | ✅ Complete |
+| Session 3   | `sessions/transcripts/raw/s3-raw.md`   | `sessions/transcripts/clean/s3-clean.md`     | ✅ Complete |
+| Session 4   | `sessions/transcripts/raw/s4-raw.md`   | `sessions/transcripts/clean/s4-clean.md`     | ✅ Complete |
 | Session 5   | `sessions/transcripts/raw/s5-raw.md`   | `sessions/transcripts/clean/s5-clean.md`     | ✅ Complete |
 
 

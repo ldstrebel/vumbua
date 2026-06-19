@@ -13,7 +13,7 @@ How Harmony keeps the lights on---and why they're flickering.
 
 ## What Players Know
 
-Harmony runs on ether---a pervasive energy field that flows through integrated land. The more territory Harmony integrates, the stronger this field becomes. Crystal batteries power everything from streetlights to medical devices, and the currency of daily life is measured in "Charge" or "Battery Hours."
+Harmony runs on ether---a pervasive energy field that flows through integrated land. The more territory Harmony integrates, the stronger this field becomes. Crystal resonators power everything from streetlights to medical devices through tapping into that energy. The problem is that the energy ebbs and flows which is why teh night of sparks occurred and feeds the wealth and importance of the Vox family and their umbra crystals to act as resistors to ensure consistent power levels
 
 ### Source References
 
@@ -96,7 +96,7 @@ Developed after the Night of Sparks using **umber crystals** mined from **Umbra 
 
 ### The Ash-Blood Anomaly
 
-This is the central mystery that [[professor-kante|Professor Kante]] is investigating (revealed in [[session-02.5|Session 2.5]]):
+This small amplitude change is the central mystery that [[professor-kante|Professor Kante]] is investigating (revealed in [[session-02.5|Session 2.5]]):
 
 **Expected:** A major node integration (like the [[Ash-Bloods]]) should produce a massive Global Amplitude increase (+300 to +800 amps), similar to the surge that caused the Night of Sparks ~400 years ago.
 
@@ -108,9 +108,9 @@ This is the central mystery that [[professor-kante|Professor Kante]] is investig
 3. If the amplitude drops further below storage thresholds, the ether field's natural breathing/surging will cause power output to become erratic and unpredictable
 4. The Shattered Circuit theory may explain the leak---the Ash-Blood node is "reaching out" to its missing siblings, bleeding energy into the void
 
-### The Great Surge (Endgame)
+### The Great Surge (Endgame) - CURRENTLY UNKNOWN BY ANY PARTY IN HARMONY
 
-The Shattered Circuit theory predicts that when ALL SIX ancient clans are fully integrated, the Global Amplitude will spike to **2,000+**---far beyond anything in recorded history. This would be catastrophic for current infrastructure:
+The Shattered Circuit theory (which has not yet been established in Harmony) predicts that when ALL SIX ancient clans are fully integrated, the Global Amplitude will spike to **2,000+**---far beyond anything in recorded history. This would be catastrophic for current infrastructure:
 
 - **Vox Crystal Batteries will shatter:** The Panda line is rated at 550 amps. Even the scrapped Apex 1 was only designed for 900-1,400. A 2,000+ surge would overwhelm every crystal battery in Harmony, repeating the Night of Sparks on a vastly larger scale.
 - **The solution requires old and new:** Harmony would need the original Gilded "Flow" technology (Chime Spires that channel raw ether without caps) combined with [[Trench-Kin]] grounding to safely absorb and distribute the surge.

@@ -18,7 +18,7 @@ tags:
 > --- *Serra*, trying too hard.
 
 **Aliases:** Serra Vox, Serra
-**Role:** Squad 01 (The Echelon) - Bard (Gold Rank)
+**Role:** Student Candidate (Gold Rank) / Squad 01 (Prospective)
 **Affiliation:** Harmony (Vox Family), [[Vumbua Academy]]
 **Status:** Active
 
@@ -38,6 +38,7 @@ Key slip-ups in Session 2:
 - Admitted to spending time in The Seat under "political pressure"
 - Knew detailed political doctrine (unusual for a small-town girl)
 - Called it "unfortunate" that she'd been to the capital
+- Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[Ignatius]] *(Scene 6)*
 
 ## Personality
 - **Public Persona (Serra Vox):** Eager, nervous, and fascinated by the Clans (almost to the point of fetishization). She asks slightly inappropriate questions but means well.
@@ -51,7 +52,7 @@ Key slip-ups in Session 2:
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Valerius Sterling]]** | Her squad captain. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
+| **[[Valentine Sterling]]** | Her prospective squadmate. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
 | **[[Ignatius]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
 | **[[Cassius Thorne]]** | He has a crush on her; she seems oblivious. |
 | **[[Britt]]/[[Aggie]]** | Genuinely fascinated by them but made them uncomfortable with too many questions. |

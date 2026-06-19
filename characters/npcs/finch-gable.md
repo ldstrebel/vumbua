@@ -5,8 +5,8 @@ tags:
   - npc
   - harmony-born
   - student
-canon: gm-plan
-reveal: gm
+canon: transcript
+reveal: player
 ---
 
 # Finch Gable
@@ -43,6 +43,9 @@ He ended up sitting next to [[Lomi]] during the brutal first-week *Aetheric Ball
 - Sits next to [[Lomi]] during the first-week montage in the *Aetheric Ballistics & Logistics* lecture.
 - Rebuffs Lomi's attempt to copy his notes after Ignatius is hit in the head with chalk. Promises to sit in a different row tomorrow to avoid them.
 
+### Session 6
+- **The Alleyway Trade:** Spotted by [[Britt]] in a side alley outside the city, whispering to an Indigo Turban enforcer. Finch tried to trade information/secrets about [[Valerius Sterling]] in exchange for access to the hangar bay so he could spy on what the second-years are building for the Reso Race.
+
 ## Relationships
 | Character | Relationship |
 |-----------|-------------|
@@ -51,9 +54,11 @@ He ended up sitting next to [[Lomi]] during the brutal first-week *Aetheric Ball
 
 ---
 
-## GM Narration [NOT YET REVEALED TO PLAYERS]
+## GM Secrets
 
 > [!warning]-
 > The following information has been narrated by the GM but is not known to the player characters.
 
-Finch isn't just good at math — he's good at noticing patterns. If he survives the cut, he's the kind of character who might calculate that the Academy's supply consumption doesn't match its publicly stated population, hinting at the existence of the deep-hull vaults or other secret projects.
+- **The Hangar Infiltration & Class Theory:** Finch was desperate to test a logistics/aerodynamics theory he had formulated in class, which required measuring a second-year rig. This was his sole motivation for attempting to infiltrate the hangar.
+- **The Trade with Valerius's Agent:** Finch discovered that the replacement node (the Harmony-compatible core) for Valerius's backed team (**Shatter Stamper**) was confiscated by Warden Rovaldi because of a late spec-change submission. Knowing that Valerius (and Ember, who is pushing Valerius to act) has no idea their rig is compromised, Finch used this secret to strike a deal. He didn't talk to a random guard; he whispered to one of **Valerius's reporters/enforcers** (who works for Valerius's radio show/club while pulling duty as an Indigo Turban enforcer), offering the news of the confiscated node in exchange for access to the **observer balloon**, where he could watch the race more clearly to test his logistics and wind-shear theories.
+- **Pattern Recognition:** Finch isn't just good at math — he's good at noticing patterns. If he survives the cut, he's the kind of character who might calculate that the Academy's supply consumption doesn't match its publicly stated population, hinting at the existence of the deep-hull vaults or other secret projects.

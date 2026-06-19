@@ -31,7 +31,7 @@ The sun rises on the first official day of classes at Vumbua Academy. In the caf
 
 Lomi is stressed. The reality of the Academy's rigor is setting in, and he reminds the party that they have a massive test at the end of the week. "The muffins... they're a little carb-heavy for me in the mornings," Lomi says, waving off Iggy's offerings. "I get a crash. We got a big test. We gotta be on our game this week."
 
-Ignatius tries to calm him down, confident that they can just track down **[[Lucky]]** later to get the study guide **[[Valerius Sterling|Val]]** wrote. Lomi agrees but insists they stay focused for the day.
+Ignatius tries to calm him down, confident that they can just track down **[[Lucky]]** later to get the study guide **[[Valentine Sterling|Val]]** wrote. Lomi agrees but insists they stay focused for the day.
 
 Meanwhile, elsewhere on campus, **[[Aggie]]** and **[[Britt]]** begin their own morning routines, preparing for the grueling week ahead.
 

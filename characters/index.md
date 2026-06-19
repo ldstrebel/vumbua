@@ -27,50 +27,54 @@
 - **[[Marla]]** - Maintenance Worker, Power Room
 - **[[Tommy]]** - Clerk, Power Room Front Desk
 - **[[Silas Thorne|Professor Silas Thorne]]** - Professor of Reality Anchoring
+- **[[Warden Rovaldi]]** - Chief of the Guards (Captain Raldi)
 
-### Student Squads
+### Prospective Student Squads (Pending Loom Sorting)
+
+> [!IMPORTANT]
+> **Loom Sorting Pending:** The student squads listed below have *not* been officially assigned yet, as the Loom team sorting takes place after Friday's exam. The groupings below represent prospective/future squads for the first-year student candidates. In the current timeline (Intake Week), they are all independent **Student Candidates**.
 
 #### Squad 01: The Echelon
-- **[[Valerius Sterling|Valerius "Val" Sterling]]** - Captain (Gold), Rival
-- **[[Serra Vox|Seraphina "Serra" Vox]]** - Bard (Gold), "Serra Vox"
-- **[[Cassius Thorne]]** - The Muscle
+- **[[Valentine Sterling|Valentine "Val" Sterling]]** - Gold Candidate (Prospective Captain / Rival)
+- **[[Serra Vox|Seraphina "Serra" Vox]]** - Bard (Gold Candidate), "Serra Vox"
+- **[[Cassius Thorne]]** - Gold Candidate ("The Muscle")
 
 #### Squad 02: The Breakers
-- **[[Iron-Jaw Jax]]** - Captain, Brawler
+- **[[Iron-Jaw Jax]]** - Silver/Gold Candidate (Prospective Captain / Brawler)
 - **[[Maria Wall|"Wall" Maria]]** - Tank
 - **[[Brawn]]** - Heavy Hitter
 
 #### Squad 03: The Silence
-- **[[Nyx]]** - Captain, Stealth
+- **[[Nyx]]** - Silver/Gold Candidate (Prospective Captain / Stealth)
 - **[[Kaelen]]** - Infiltrator
 - **[[Mira]]** - Spotter
 
 #### Squad 04: The Axiom
-- **[[Calculus Prime]]** - Captain, Construct
+- **[[Calculus Prime]]** - Prospective Captain (Construct)
 - **[[Theorem]]** - Strategist
 - **[[Lemma]]** - Support
 
 #### Squad 05: The Harvesters
-- **[[Dr. Rose Halloway]]** - Captain, Druid
+- **[[Dr. Rose Halloway]]** - Prospective Captain (Druid)
 - **[[Bramble]]** - Plant-Kin Tank
 
 #### Squad 06: The Kiln
-- **[[Cinder-4]]** - Captain, Ash-Blood Construct
+- **[[Cinder-4]]** - Prospective Captain (Ash-Blood Construct)
 - **[[Hearth]]** - Support
 - **[[Kindle]]** - Striker
 
 #### Squad 07: The Bathysphere
-- **[[Captain Barnacle]]** - Captain, Heavy Armor
+- **[[Captain Barnacle]]** - Prospective Captain (Heavy Armor)
 - **[[Pressure]]** - Member
 - **[[Depth]]** - Member
 
 #### Squad 08: The Legacy
-- **[[Percival Vane-Smythe III]]** - Captain, Noble
+- **[[Percival Vane-Smythe III]]** - Gold Candidate (Prospective Captain / Noble)
 - **[[Lady Glimmer]]** - Member
 - **[[Baron Bolt]]** - Member
 
 #### Squad 09: The Ablative
-- **[[Sarge]]** - Captain (Rust Tier), "Safety Inspector"
+- **[[Sarge]]** - Rust Candidate (Prospective Captain / "Safety Inspector")
 - **[[Lucky]]** - Hustler/Procurer
 - **[[Pudge]]** - The Heart
 - **[[Soot]]** - Block 99-Piston, Lomi's Roommate
@@ -82,7 +86,7 @@
 - **[[Ember]]** - Ash-Blood Student
 - **[[Zephyr]]** - Storm-Kin Exchange Member
 - **[[Lance]]** - Harmony Student (Independent?)
-- **[[Valentine Sterling]]** - Radio Host, Sterling Family
+- **[[Valerius Sterling]]** - Radio Host, Sterling Family
 - **[[Valentine Sterling Sr.]]** - Legendary Explorer
 - **[[Lady Glissade]]** - Harmony Noble
 - **Captain Elara Thorne** - Legendary explorer (Historical)
@@ -97,5 +101,6 @@
 - **[[Saffron]]** - Student, Sketch Artist
 - **[[Lyra Castellan]]** - Sentry for Val, Castellan Family
 - **[[Ludo Castellan]]** - Sentry for Val, Castellan Family
+- **[[Jorge]]** - Dragonkin Student, friend of Valentine Sterling
 
 - Captains List - a list of all Captains and their charter for the Venture

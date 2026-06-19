@@ -16,7 +16,7 @@
         "id": "silver"
       },
       {
-        "min_score": 80,
+        "min_score": 100,
         "label": "COPPER",
         "id": "copper",
         "description": "Recognized as Fleet Support. Eligible for general crew duties."
@@ -67,7 +67,7 @@
       "id": "silver"
     },
     {
-      "min_score": 80,
+      "min_score": 100,
       "label": "COPPER",
       "id": "copper",
       "description": "Recognized as Fleet Support. Eligible for general crew duties."
@@ -102,7 +102,7 @@
             },
             "subtext": "Though she is interested in what skills and growth the academy can offer her, Britt is attending in pursuit of finding answers to lingering suspicions and questions about Harmony and its relationship to her clan. She is outspoken, tough, and diligent. \n",
             "id": "profile_britt",
-            "meta": 100,
+            "meta": 95,
             "nextId": "q1_cartography"
           },
           {
@@ -115,7 +115,7 @@
               "GOLD": 2
             },
             "nextId": "q1_cartography",
-            "meta": 100
+            "meta": 95
           },
           {
             "scores": {
@@ -126,7 +126,7 @@
             "text": "Aggie",
             "id": "profile_aggie",
             "subtext": "Quieter than her cousin, but just as skeptical and suspicious of Harmony and \"civilization\". Eager to build on her knowledge of poison so she can hopefully help the forest regain it's balance of life and death. \n",
-            "meta": 85,
+            "meta": 80,
             "nextId": "q1_cartography"
           },
           {
@@ -138,7 +138,7 @@
             },
             "id": "profile_ignatius",
             "subtext": "An Emberkin from the Ash Blood clan. A young upstart who seeks a new magma heart for the clan. While he does not hate the empire of Harmony, he hates the dependence on harmony and feels they can not be called equals until the relationship is built upon mutual trade and respect. His beliefs have caused  a stir back on his islands so he fled to the mainland to become an adventurer to find a new source of heat for his people while rising in the ranks as an adventurer.",
-            "meta": 85,
+            "meta": 80,
             "nextId": "q1_cartography"
           },
           {
@@ -151,7 +151,7 @@
               "LOAMI": 1
             },
             "nextId": "q1_cartography",
-            "meta": 70
+            "meta": 60
           }
         ],
         "blocks": [

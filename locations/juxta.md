@@ -1,6 +1,7 @@
 ---
 aliases:
   - Juxta
+  - Juxta's Spire
 tags:
   - location
   - harmony

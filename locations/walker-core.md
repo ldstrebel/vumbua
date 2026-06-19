@@ -20,7 +20,7 @@ tags:
 | **Key Figures** | [[Professor Kante]], [[Tommy]], [[Lucina]], [[Marla]] |
 | **First Appearance** | [[session-02.5\|Session 2.5]] (interior) |
 
-The Walker-Core is one of [[Vumbua Academy]]'s three permanent Cores — a four-legged industrial power unit positioned at the edge of the grounds. It houses the engineering department, power systems, and [[The Loom]] (a massive crystal computer that calculates probabilities and assigns ranks).
+The Walker-Core is one of [[Vumbua Academy]]'s three permanent Cores — a four-legged industrial power unit positioned at the edge of the grounds. It houses the engineering department, power systems, and [[The Loom]] (an ancient, trusted conduit that utilizes a combination of grades and karmic magic to organically group students into squads).
 
 ## What Players Know
 

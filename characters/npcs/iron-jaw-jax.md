@@ -13,14 +13,14 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Squad 02 (The Breakers) - Captain (Silver/Gold) |
+| **Role** | Student Candidate (Silver/Gold Rank) / Squad 02 (Prospective) |
 | **Race** | Warforged (Construct) |
 | **Affiliation** | [[Vumbua Academy]] |
 | **Status** | Active |
 | **First Appearance** | [[session-02\|Session 2]] |
 
 ## Overview
-Jax is a young warforged---still has "curves" and hasn't quite "slimmed out" yet. Leader of Squad 02, "The Breakers." Known for brute force solutions but also a skeptic who dismisses academic theories.
+Jax is a young warforged---still has "curves" and hasn't quite "slimmed out" yet. Student candidate of prospective Squad 02, "The Breakers." Known for brute force solutions but also a skeptic who dismisses academic theories.
 
 ## Session 2 Appearance
 At the Block 99 bonfire, Jax was part of the Speculators' Debate with [[Percival Vane-Smythe III|Percy]], [[Bramble]], and [[Zephyr]]. He dismissed the Sixfold Theory: *"That's nonsense. We found [[Ash-Bloods|Ash Blood]] and Maze. That's probably all there is."*

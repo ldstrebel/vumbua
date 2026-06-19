@@ -11,12 +11,12 @@ tags:
 
 ![Portrait](../../meta/foundry-exports/portraits/cinder_4_portrait.png)
 
-**Role:** Squad 06 (The Kiln) - Captain
+**Role:** Student Candidate / Squad 06 (Prospective)
 **Affiliation:** [[Vumbua Academy]], [[Ash-Bloods|Ash-Blood]] / Construct
 **Status:** Active
 
 ## Overview
-Leader of Squad 06, "The Kiln." A Warforged/Construct powered by an internal flame, possibly Ash-Blood technology.
+Student candidate of prospective Squad 06, "The Kiln." A Warforged/Construct powered by an internal flame, possibly Ash-Blood technology.
 
 ## Personality
 - Fiery temperament but mechanically precise.

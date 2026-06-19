@@ -158,13 +158,18 @@
 - **Mid-Week:** [[Aggie]] forms a study group with [[Pip]] and [[Bramble]]; [[Rill]] revealed as a racer in the upcoming Reso Race.
 - **Thursday Prep:** [[Ignatius]] and [[Iggy]] plan to infiltrate the race hangars using a trench coat and a stolen turban.
 
+### Intake Week - Wednesday & Thursday ([[s6-clean|Session 6]]: Potatoes and Peas)
+- **Wednesday Afternoon:** [[Britt]] explores outside the city, finding a [[Surveyor's Compass]] and overhearing [[Finch Gable]] trading secrets with a guard to spy on second-year builds. She learns the replacement node is locked in Hangar Bay 4.
+- **Wednesday Night:** [[Iggy]] and [[Ignatius]] infiltrate Hangar 12. Iggy is caught and questioned by [[Warden Rovaldi]], but is escorted out safely after showing curiosity about Rovaldi's mechanical eye.
+- **Thursday Courtyard:** Britt shares her discoveries with Aggie and Lomi. Lomi tries to talk to [[Valentine Sterling]] in the courtyard but is blocked by [[Lyra Castellan]].
+- **Thursday Cafeteria:** The group meets [[Valentine Sterling]] and [[Jorge]] in the cafeteria. Valentine invites the group to board the Sterling airship VIP deck to watch the race. Lomi blocks [[Lyra Castellan]]'s return, and Iggy throws toast at her head.
+- **Milestone:** The party reaches Level 2.
+
 ---
 
 ## Upcoming
 
-### Next Session (Session 6: The Apex Hustle)
-- **Wednesday:** The **Reso Race** begins at the **Apex Ring**.
-- **The Hangar Hustle:** [[Iggy]] and [[Ignatius]] infiltrate the race hangars to sabotage or investigate.
-- **The Race:** The first Circuit-Run of the year; [[Pudge]] vs [[Rill]] vs others.
+### Next Session (Session 7)
+- **Thursday Afternoon:** The **Reso Race** begins at the **Apex Ring**.
 - **Friday:** The **Gen-Ed Exam** at the Basin; attrition of ~20,000 students expected.
 - **Team Formation:** [[The Loom]] assigns official squads following the exam.

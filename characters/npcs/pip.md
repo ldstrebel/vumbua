@@ -29,7 +29,11 @@ Pip is a bubbly, hyperactive gnome student who quickly attached herself to [[Agg
 ### Session 5
 - Formed a late-night study group with [[Aggie]] and [[Bramble]] in the courtyard
 - Eagerly anticipates the Reso Race for its "networking" potential and the chance to impress captains
-- Pressuring Aggie to get Val to invite on the airship for the race
+- Pressuring Aggie to get [[Valentine Sterling]] to invite them on the airship for the race
+
+### Session 6
+- **Airship Pressure:** Urged Aggie in the courtyard to speak with Valentine to get tickets for the Sterling airship.
+- **Food Bonding:** Bonded heavily with Iggy in the cafeteria, sharing and trading bites of bacon and biscuits. She had Bramble pour water into her mouth because her hands were full of food.
 
 ## Relationships
 - **[[Bramble]]:** Her unofficial transport and patient friend. She often rides on his shoulders to see over crowds.

@@ -96,7 +96,7 @@ The Resonance Race is a "living ecosystem." Use these NPCs to drip-feed lore, pr
 | NPC | Action / Hook | The "Intel" or Reward |
 | :--- | :--- | :--- |
 | [[valentine-sterling\|Valentine]] | Looking miserable in a formal suit, holding a glass of glowing nectar. | **The Hook:** He pulls a PC aside: *"My dad has a slot on his ship for the next expedition. I want you on it. Help me get out of here."* |
-| [[Valerius Sterling Sr.]] | Providing booming live commentary over the speakers. | **The Power:** He ignores the "Siren" warnings, calling them "superstitious nonsense" to keep the crowd excited. |
+| [[valerius-sterling|Valerius Sterling]] | Providing booming live commentary over the speakers. | **The Power:** He ignores the "Siren" warnings, calling them "superstitious nonsense" to keep the crowd excited. |
 
 ---
 
@@ -248,7 +248,7 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
 
 |                          |                                                                                                                                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Role**                 | [[scrivener-guild                                                                                                                                     |
+| **Role**                 | [[scrivener-guild|Scrivener Guild]] Captain                                                                                                           |
 | **Specialty**            | Fungal biology, petrified bark analysis                                                                                                               |
 | **Personality**          | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[Ignatius]] will burn his specimens.             |
 | **Motivation**           | The trees of the [[Mizizi Petrified Forest]] may be the oldest living records in Harmony. If they're *remembering* something, Ink wants to know what. |

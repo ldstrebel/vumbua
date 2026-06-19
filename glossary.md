@@ -2,6 +2,11 @@
 
 ## A
 
+**Apex Ring**
+- A massive natural geographic basin on the frontier where the Resonance Race (Circuit-Run) is held
+- Holds half a million spectators in layered bleachers, cable-cars, and VIP zephyrs
+- Uses "Prism Water" security systems to regulate access
+
 **Aether / The Ether**
 - The chaotic space between integrated realities
 - Filled with dangerous beasts and unstable physics
@@ -152,10 +157,10 @@
 - Named by [[Ignatius]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 5)*
 
 **The Loom**
-- Massive crystal computer in the [[Walker-Core]]
-- Calculates probabilities and assigns ranks
-- Can flag "Savant" outliers based on variance
-- Takes exams, psych profiles, and builds optimal adventure team combos ([[session-02|Session 2]])
+- An ancient, trusted conduit located in the [[Walker-Core]]
+- Combines grades (intellectual efforts) and karmic magic to group students
+- Behaves like a natural force of confluence (water finding its level or sand settling into patterns on a vibrating plate)
+- Roster readouts are poetic, natural reflections of the students' combined resonance, not computerized predictions
 - If one team member fails, the whole team gets expelled ([[session-02|Session 2]])
 
 ## M
@@ -200,6 +205,13 @@
 
 **Outward Flow**
 - See "Integration"
+
+## P
+
+**Prism Falls / Prism Water** (Water of Revelation)
+- The unique resource of the integrated node-city [[Settika]]
+- Responds to conceptual imbuement (e.g., clearance) by matching moments/memories in a person's soul
+- In its base (unimbued) state, it acts as a diagnostic tool, shifting color to expose physical, structural, or spiritual disharmonies (such as sickness, tears in fabric, or physical disguises)
 
 ## R
 

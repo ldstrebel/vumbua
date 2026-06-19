@@ -372,7 +372,7 @@ Based on this specific conversation, here are the narrative levers you need to p
 
 1. **Britt (The Unintentional Ace):** Sophie explicitly stated Britt is "unintentionally very, very good in class" \[`1205`\].
 
-   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like Valerius or [[Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
+   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like [[Valentine Sterling|Val]] or [[Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
 2. **Lomi (The Process Guy):** Luke F is interested in the *mechanics* of the transition—"How do you get selected?" \[`1205`\].
 
    * *Session 1 Goal:* Make the "Squad Assignment" and the "Captain Interviews" feel bureaucratic and weighty. He wants to see the gears of the institution turning.  

@@ -26,7 +26,7 @@ tags:
 | **Rank**             | Dean of [[Vumbua Academy]]           |
 | **Affiliation**      | [[Vumbua Academy]], [[Vane Lineage]] |
 | **Location**         | [[Sky-Spire]]                        |
-| **First Appearance** | [[session-01                         |
+| **First Appearance** | [[session-01|Session 1]] |
 
 
 ## GM Description

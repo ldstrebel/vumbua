@@ -8,12 +8,12 @@ tags:
 
 ![Portrait](../../meta/foundry-exports/portraits/nyx_portrait.png)
 
-**Role:** Squad 03 (The Silence) - Captain (Silver/Gold) / Rogue
+**Role:** Student Candidate (Silver/Gold Rank) / Squad 03 (Prospective) / Rogue
 **Affiliation:** [[Vumbua Academy]], The Guilds (Shadows)
 **Status:** Active
 
 ## Overview
-Leader of Squad 03, "The Silence." A specialist in stealth and infiltration.
+Student candidate of prospective Squad 03, "The Silence." A specialist in stealth and infiltration.
 
 ## Personality
 - Elusive, observant, and speaks only when necessary.

@@ -21,9 +21,15 @@ tags:
 
 ## Overview
 
-Settika is built around the Prism Falls — a water source that reveals the true nature of whatever it touches. Rot, disease, structural weakness, and hidden flaws become immediately visible when Prism Falls water is poured over them. The water is used across Harmony for medicine, engineering inspection, and food safety.
+Settika is built around the Prism Falls — a water source that responds directly to conceptual imbuement and structural disharmony. 
 
-In [[Nstyl]] and other frontier cities, Prism Falls water carries an almost sacred reverence — people trust what the water reveals about a person's nature. This belief can be exploited by those who understand how the water actually works.
+### The Magic Science of Prism Water
+* **Concept Imbuement:** A ritual can be performed to imbue a specific concept (e.g., "authorized entry") into the water. When a person passes through the mist or water, it momentarily taps into their soul, searching for the exact moment or memory when that concept was transferred to them (e.g., when they were granted permission by an authority). If the connection is found, the water aligns and passes them (often flashing a soft blue).
+* **The Base State (Diagnostic/Mood Ring):** Without a specific imbued concept, raw Prism Water reacts to physical, structural, or spiritual disharmony. It changes color to highlight anything that is "wrong" or not working as it was designed to. A tear in cloth, a diseased kidney, a fractured bone, or a disguised silhouette will light up in distinct warning colors, the meanings of which scholars still actively debate.
+
+Because of this, Prism Water is widely used across Harmony for medical diagnostics, engineering inspection (spotting structural cracks), food safety, and security.
+
+In [[Nstyl]] and other cities, Prism Falls water carries an almost sacred reverence — people trust what the water reveals about a person's nature. This belief can be exploited by those who understand how the water actually works.
 
 ## Session 3 Relevance
 

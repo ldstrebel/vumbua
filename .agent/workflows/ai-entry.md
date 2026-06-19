@@ -33,10 +33,11 @@ If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workf
 **The Great Stitching** is Harmony’s process of physically integrating isolated civilizations (and their “Nodes” of reality) into a growing magitek-steampunk empire. **[[Vumbua Academy]]** is a mobile city-state / academy that has relocated to a new frontier after ~80 years of stagnation.
 
 Themes/pillars:
-- Integration vs extraction (cultural connection matters)
-- House politics inside Harmony
-- Newly integrated clans and cultural tension
-- A looming systemic crisis: Harmony’s ether power baseline is failing
+- **Clean Victorian Aesthetic:** High-academia stone, white marble, and ivy integrated into raw nature. Steampunk is expressed through grand vehicles (solar man-o'-wars, dirigibles) and elegant brass fixtures. Avoid grungy, dirty, or wire-cluttered industrial tropes.
+- **The Loom's Karmic Confluence:** Not a sentient computer/god or protagonist. It is an ancient, trusted conduit where grades and karmic magic naturally flow and pool like water to group students. Roster readouts are poetic reflections of combined resonance, not computer-calculated prophecies.
+- **Empirical Harmonics:** "Harmonics" and resonance are experimental, Victorian-esque studies under active research. It is not common magic or everyday vernacular, and systems are imperfect and subject to error.
+- **Integration vs. Extraction:** Cultural connection matters for successful node integration, rather than raw resource extraction.
+- **A Looming Systemic Crisis:** Harmony's ether power baseline is failing ("The Minimum").
 
 ---
 

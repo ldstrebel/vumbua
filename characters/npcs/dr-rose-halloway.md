@@ -11,12 +11,12 @@ tags:
 
 ![Portrait](../../meta/foundry-exports/portraits/dr_rose_halloway_portrait.png)
 
-**Role:** Squad 05 (The Harvesters) - Captain / Druid
+**Role:** Student Candidate / Squad 05 (Prospective) - Druid
 **Affiliation:** [[Vumbua Academy]], [[Mizizi]] (expatriate?)
 **Status:** Active
 
 ## Overview
-Leader of Squad 05, "The Harvesters." A specialist in flora and organic manipulation.
+Student candidate of prospective Squad 05, "The Harvesters." A specialist in flora and organic manipulation.
 
 ## Personality
 - Calm, nurturing but fierce when threatened.

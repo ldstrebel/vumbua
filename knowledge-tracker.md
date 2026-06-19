@@ -25,6 +25,8 @@ aliases:
 - ❌ Destroying it erases thousands of years of knowledge
 - ❌ The "new growth" represents hardy archive fragments
 - ❌ Integration requires Mizizi bark to be turned into paper filled with knowledge
+- ❌ Zaza, the caretaker, understands that the forest was the great library of the scattered clans and has all of the records of their history, which they have been actively trying to get destroyed over the last thousand years.
+- ❌ **The Surveyor's Compass & Fungal Decay:** The compass found by Britt belonged to a Harmony explorer from 10 cycles ago. The elders buried the cache and engineered alert mushrooms to protect their isolation secrets. Handling the compass seeps decay into Britt's skin (ancient security), and she must find Elder Zaza in the forest to cure it and receive the fragmented knowledge vision. 
 
 ---
 
@@ -189,9 +191,16 @@ aliases:
 - ✅ **Rill** is a racer in the upcoming event.
 - ✅ **Prism Water** security exists at the maintenance gates—it reveals the true identity/role of those seeking entry.
 - ✅ **Ambrosia of Luck** is the branded "Engine Grease" grog distributed by Lomi and Lucky.
+- ✅ **Surveyor's Compass:** Brit found a Harmony surveyor's compass that points in a stable direction and reads: "momentum is life always towards home" (+2 to navigation, reroll using 1 Hope) ([[s6-clean|Session 6]])
+- ✅ **Finch's Intrigue:** Finch Gable is trying to trade secrets about Valerius's team's core confiscation to his reporter/enforcer in exchange for access to the observer balloon ([[s6-clean|Session 6]])
+- ✅ **Locked Node:** The replacement node for Valerius's backed team (Shatter Stamper) is locked in Hangar Bay 4 by Warden Rovaldi ([[s6-clean|Session 6]])
+- ✅ **Valentine's Isolation:** Valentine (student candidate) is heavily isolated and monitored by his handlers, the Castellians ([[s6-clean|Session 6]])
+- ✅ **The Airship Invitation:** Valentine invited the group to board the Sterling family airship (Zephyr) VIP deck to study and watch the race together ([[s6-clean|Session 6]])
+- ✅ **Rovaldi's Eye:** Warden Rovaldi of the guards has a mechanical eye that scans different spectrums ([[s6-clean|Session 6]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The "Griffin" rules nerf biologicals because they are hard to care and feed for on extended journeys and would have a disproportionate advantage in the race.
+- ❌ **Warden Rovaldi's Owl Surveillance:** Warden Rovaldi's mechanical eye scanned Iggy during the hangar encounter and detected a discordant frequency (lack of Harmony imbuement). He has deployed his mechanical pet owl to shadow Iggy and report back, prompting perception checks for Iggy. Rovaldi is torn between reporting Iggy to the Dean or directly to Valentine's father (Valentine Sterling Sr.).
 
 ---
 

@@ -29,6 +29,10 @@ Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure wha
 ### Session 5
 - Formed a study group with [[Aggie]] and [[Pip]] in the courtyard to prepare for the Friday exams
 
+### Session 6
+- **Courtyard Studying:** Smooths a patch of grass in the courtyard for the group to sit and study.
+- **Cafeteria Care:** Helps collect textbooks for the group, feeds water to Pip whose hands are full, and witnesses Iggy's toast throw.
+
 ### Session 2
 At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While [[Percival Vane-Smythe III|Percy]] argued for missing clans and [[Iron-Jaw Jax|Jax]] dismissed the idea, Bramble offered the most provocative perspective:
 

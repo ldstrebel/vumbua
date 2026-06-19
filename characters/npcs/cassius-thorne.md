@@ -13,9 +13,9 @@ tags:
 
 | | |
 |---|---|
-| **Role** | Student (Gold Rank) |
+| **Role** | Student Candidate (Gold Rank) |
 | **Affiliation** | Harmony (Thorne Family), [[Vumbua Academy]] |
-| **Squad** | Squad 01 — The Echelon |
+| **Squad** | Squad 01 (Prospective) — The Echelon |
 | **Status** | Active |
 | **First Appearance** | [[session-02\|Session 2]] |
 

@@ -18,7 +18,7 @@ status: cleanup-complete
 - **[[Sarge]]** — Present in Lucky's warehouse. Has a bruised chin from an Iggy gadget.
 - **[[Pip]]** — Part of a study group with Aggie and Bramble. Hype for networking.
 - **[[Bramble]]** — In the study group with Pip and Aggie.
-- **[[Valerius Sterling|Valerius "Val" Sterling]]** — Mentioned as being followed by groupies. Study guide clarified as hypothesized questions.
+- **[[Valentine Sterling|Valentine "Val" Sterling]]** — Mentioned as being followed by groupies. Study guide clarified as hypothesized questions.
 - **[[Rill]]** — Revealed to be a racer in the upcoming Reso Race.
 - **[[Pudge]]** — Underdog racer riding a Griffin (biological vehicle). Lowest odds.
 
@@ -125,13 +125,29 @@ status: cleanup-complete
 
 **[[Pip]]:** "Everyone is going to be at the race! It’s a networking event. We have to make an impression on the captains! Should we try to get on an airship? Val’s dad is the reason we’re all here!"
 
-**[[Lomi]] (PC):** "Lucky, I’ve got a deal for you. We sell 'Engine Grease' grog at the stadium. We call it 'Ambrosia of Luck.' We get them lubed up so they buy more of your merch."
+**[[Lomi]] (PC):** "Lucky, I got an idea for you. You got me some engine grease the other day, and it was fine quality. I'm not going to say it's exceptional by any means, but I think you know that. They don't have the best stuff up here. Granted, it was pretty good, and I think we can make a quick buck at the stadium. Get a couple of people hopping around the stands. Maybe—I know it's frowned upon, but maybe we just station someone on the train taking orders and have people handing out cups as they get off the train. Something like that. I don't know."
 
-**[[Lucky]]:** "I like the branding. Ambrosia of Luck. I'll cut you in if you're the distributor."
+**[[Lucky]]:** "Yeah. Yeah. Yeah. I mean, they got like... there's not really rules against it. So, I hear you. I mean, I'm selling merch, so I've already got a little stand set up, but I'm also only traveling in the train. So, you think you're going to post there? Get them lubed up so they buy more merch... but I mean, what are you bringing? Muscle or money?"
 
-### Part 4: The Hangar Plan
+**[[Lomi]] (PC):** "Where's your stand going to be set up?"
 
-*Wednesday night. The night before the race.*
+**[[Lucky]]:** "I'll probably start by the entrance at the first bell, and then hit the quad at the second, and then we'll see where the race is going."
+
+**[[Lomi]] (PC):** "I think that's an easy thing to write on each bottle as we hand them out. It's a marketing campaign. We're bringing ideas. And I understand you could execute this plan yourself, but I think you and our little group work together, and we work together well, and I think you make a little extra money on this. I can hype up the grease to some of my buddies. That word gets around and suddenly everyone's drinking. The first thing that came to my head was 'Lucky Juice,' but I don't know about that."
+
+**[[Lucky]]:** "Oh, I mean, hey, that 'Ambrosia of Luck,' everyone's gonna want it."
+
+**[[Lomi]] (PC):** "Ambrosia of Luck. I like it. I like it."
+
+**[[Lucky]]:** "So, all right, you help be my distributor and yeah, I'll cut you in. Deal."
+
+**[[Lomi]] (PC):** "I'll see if I can get a little extra supply from down in the furnaces, too."
+
+**[[Lucky]]:** "Deal."
+
+### Part 4: The Hangar Plan and The Climax
+
+*Wednesday night. The night before the race. Ignatius and Iggy are looking at Iggy's failed miniature models in their dorm room. Iggy has been building them using the power source from Professor Kante, but they are only frustrating him.*
 
 **[[Ignatius]] (PC):** "Iggy, enough with the models. They're just frustrating you. Let's just go look at the actual rigs. See how they're built."
 
@@ -139,6 +155,18 @@ status: cleanup-complete
 
 **[[Ignatius]] (PC):** "Well, we have a turban. And a trench coat. And you're very small."
 
-*The session ends as Ignatius and Iggy walk out of their dorm, Ignatius holding the trench coat and Iggy holding the turban they 'acquired' on the first day. Lomi passes them, heading back from his deal with Lucky, while Aggie, Pip, and Bramble continue their late-night study session in the courtyard.*
+**[[Iggy]] (PC):** "The guard... he didn't want the turban back after I blew my snot in it. I've been wearing it as a scarf."
 
-**GM (LUKE S):** "Next time: The Race and the Exam."
+**[[Ignatius]] (PC):** "Exactly. So, we have a turban, a trench coat, and a really small guy, and a guy who's somewhat familiar with the guards. We can do a 'Little Rascals' style stack in the trench coat."
+
+*Iggy's eyes light up. Before Ignatius can even finish his thought, Iggy is immediately up and walking straight out the door toward the hangars.*
+
+**[[Ignatius]] (PC):** "Ah, s***." *He grabs the trench coat and runs after him.*
+
+*Outside, near Block 99, Lomi walks out of Lucky's warehouse area and spots two things at once. First, a whole gaggle of groupies is following [[Valentine Sterling|Valentine "Val" Sterling]]. In the courtyard, Aggie, Bramble, and Pip are sitting and studying.*
+
+**[[Pip]]:** "There he is! He's right there!" *She furiously taps Aggie's shoulder, pointing at Val.*
+
+*A moment later, Lomi also spots Iggy and Ignatius coming out of their dorm. Iggy is clutching the guard's turban in one hand, and Ignatius is holding the trench coat in the other, running to keep up. Lomi stands there, deciding which of these situations he's going to intervene in.*
+
+**GM (LUKE S):** "And I think maybe that's where we'll end tonight, with Lomi deciding which of these things he's going to do anything about. Next time: The Race and the Exam."

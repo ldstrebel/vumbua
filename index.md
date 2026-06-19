@@ -82,13 +82,3 @@ Read scene-by-scene recaps of our adventures.
 - [Character Codex](characters/index.md) - All characters at a glance
 
 ---
-
-## Campaign Status
-
-**Current Session:** 2  
-**Next Session:** Every 2 weeks  
-**System:** Daggerheart (v1.5/1.6)
-
----
-
-*This is a living campaign wiki. Content updates regularly as the story unfolds.*

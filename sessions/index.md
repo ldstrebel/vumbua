@@ -189,6 +189,32 @@ Lucky leads the party into his "warehouse" for a high-stakes negotiation. He rev
 
 ---
 
+### [[s6-clean|Session 6: Potatoes and Peas]]
+**Date:** 2026-06-18
+
+As the final week of classes wraps up, the group prepares for the upcoming Reso Race. Iggy and Ignatius attempt to infiltrate Hangar 12 but are confronted by Warden Rovaldi. Meanwhile, Britt discovers a mysterious surveyor's compass outside the city and uncovers Finch Gable's plot. In the cafeteria, the group secures a coveted invitation to watch the race from the Sterling family airship, while Lomi stands his ground against Val's handlers.
+
+**Key Events:**
+- [[Iggy]] and [[Ignatius]] infiltrate Hangar 12; Iggy is caught and questioned by [[Warden Rovaldi]]
+- [[Britt]] finds a [[Surveyor's Compass]] outside the city in an abandoned cache
+- Britt overhears [[Finch Gable]] trading secrets about Valerius's team's core confiscation to his reporter/enforcer in exchange for observer balloon access
+- [[Lomi]] attempts to contact [[Valentine Sterling]] but is blocked by [[Lyra Castellan]]
+- The group meets [[Valentine Sterling]] and [[Jorge]] in the cafeteria; Valentine invites the group to board the Sterling airship for the race
+- [[Lomi]] intercepts and blocks [[Lyra Castellan]]'s return to the table
+- Iggy throws toast at Lyra's head after she insults the group
+- The party reaches milestone Level 2
+
+**Players Discovered:**
+- Warden Rovaldi possesses a mechanical eye that scans different spectrums
+- Finch Gable is trading secrets about Valerius's team's core confiscation to get access to the observer balloon
+- The replacement node for Valerius's backed team (Shatter Stamper) is locked in Bay 4 of the hangar
+- A Surveyor's Compass from Harmony Prime provides a stable navigation reference
+- Valentine feels isolated and pressured by his family name and his Castellan handlers
+- Valentine's airship invitation will let the group study and view the race from the VIP deck
+
+---
+
 ## Upcoming
 
-**Next Session:** TBD (Every 2 weeks)
+**Next Session:** Session 7 (TBD)
+

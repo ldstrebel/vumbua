@@ -19,7 +19,7 @@ The party arrives at the Celestial Lounge in the Upper Core. Iggy gains a new ca
 * **[[iggy|Iggy]]**: Gained a "Cartography" experience trait from mapping the view of Vumbua from the Celestial Lounge. Provided cross-bow cover during the ambush.
 
 ### NPCs
-* **[[valerius-sterling|Valerius Sterling]]**: Found playing "Crown and Ruin" with Ember in the Celestial Lounge. Reveals he wrote the upcoming exam and sold a "study guide" to Lucky. Passes out from drinking.
+* **[[valentine-sterling|Valentine "Val" Sterling]]**: Found playing "Crown and Ruin" with Ember in the Celestial Lounge. Reveals he wrote the upcoming exam and sold a "study guide" to Lucky. Passes out from drinking.
 * **[[ember|Ember]]**: Seen socializing and taking notes alongside Val in the Lounge.
 * **[[lucky|Lucky]]**: Mentioned. Bought the "study guide" from Val. The party's target for tomorrow.
 * **[[azor|Azor]]**: The smaller leader of a trio that ambushed Britt. Failed his candidacy run into the Academy, resulting in him trying to steal test receipts. Pinned by Britt and then suffered a broken rib from Lomi's punch during interrogation.
@@ -46,20 +46,20 @@ The party arrives at the Celestial Lounge in the Upper Core. Iggy gains a new ca
 * [[britt|Britt]] and [[lomi|Lomi]] begin looking around for games to play in the lounge.
 
 ### A Game of Crown and Ruin
-* They spot [[valerius-sterling|Val]] and [[ember|Ember]] playing a game called "Crown and Ruin".
+* They spot [[valentine-sterling|Val]] and [[ember|Ember]] playing a game called "Crown and Ruin".
 * [[lomi|Lomi]] decides to join them for a game while [[iggy|Iggy]] orders a "Grease Shot" to drink.
 * The game involves rolling Hope and Fear dice against a target of 13.
-* [[lomi|Lomi]] rolls a 15, successfully beating [[valerius-sterling|Val]].
+* [[lomi|Lomi]] rolls a 15, successfully beating [[valentine-sterling|Val]].
 * [[britt|Britt]] takes a moment to compose herself, using a Hope point to clear a point of Stress.
 
 ### The Study Guide Revelation
-* After the game, [[lomi|Lomi]] queries [[valerius-sterling|Val]] regarding the exams scheduled for the first day of class.
-* [[valerius-sterling|Val]], likely under the influence of the drinks, admits that he wrote a challenging test and sold it as a "study guide" to [[lucky|Lucky]].
-* [[valerius-sterling|Val]] explains his motive: *"I didn't really write the study guide... I just wrote a really hard test so that if people are scared about it, they'll buy this test... I wanted to ensure that if people could get the answers on my test, they would have really good fundamentals."*
-* Shortly after this admission, [[valerius-sterling|Val]] passes out from a combination of drinking and exhaustion. [[ember|Ember]], having lost the game, returns to taking notes.
+* After the game, [[lomi|Lomi]] queries [[valentine-sterling|Val]] regarding the exams scheduled for the first day of class.
+* [[valentine-sterling|Val]], likely under the influence of the drinks, admits that he wrote a challenging test and sold it as a "study guide" to [[lucky|Lucky]].
+* [[valentine-sterling|Val]] explains his motive: *"I didn't really write the study guide... I just wrote a really hard test so that if people are scared about it, they'll buy this test... I wanted to ensure that if people could get the answers on my test, they would have really good fundamentals."*
+* Shortly after this admission, [[valentine-sterling|Val]] passes out from a combination of drinking and exhaustion. [[ember|Ember]], having lost the game, returns to taking notes.
 
 ### The Alley Ambush
-* As attendants begin to clean up the floor around the passed-out [[valerius-sterling|Val]], the party decides they need to track down [[lucky|Lucky]].
+* As attendants begin to clean up the floor around the passed-out [[valentine-sterling|Val]], the party decides they need to track down [[lucky|Lucky]].
 * [[britt|Britt]] notices a suspicious group—[[azor|Azor]] and two large bruisers, [[zyykl|Zyykl]] and [[tus|Tus]]—communicating openly via sign language as they leave.
 * Feeling curious, [[britt|Britt]] approaches them for directions to Block 99. [[azor|Azor]] claims he failed his candidacy run but knows the city, offering to show her the way.
 * [[iggy|Iggy]] attempts to tail them, but [[azor|Azor]] starts playing a game of evasion, turning the navigation into an intense *"lose the tail spy game,"* leading [[britt|Britt]] into an unfamiliar alleyway before springing an ambush.
