@@ -118,6 +118,16 @@ Add a location page for the Resonance Raceway. It appeared in Session 5.
 
 All files in `locations/` are auto-included in the next Foundry rebuild.
 
+### `/surveyor-protocols` — Create or update interactive Daggerheart surveys
+
+```
+/surveyor-protocols
+Create a choose-your-own-adventure survey for Ignatius to catch him up.
+[paste details or attach notes]
+```
+
+Builds and seeds interactive surveys with Daggerheart game mechanics (Stress, Hope/Fear, Tier 1 Loot) and React Flow JSON output.
+
 ### `/export-to-foundry` — Manual rebuild without a new session
 
 ```
@@ -172,6 +182,7 @@ The pipeline automatically strips:
 | Foundry codex JSON | `meta/foundry-exports/vumbua-codex.json` |
 | Foundry import macro | `meta/foundry-exports/foundry-macro.js` |
 | Lore reference (AI) | `.agent/workflows/lore-index.md` |
+| Surveyor protocols (AI) | `.agent/workflows/surveyor-protocols.md` |
 | Character index | `characters/index.md` |
 | Knowledge tracker | `knowledge-tracker.md` |
 | Timeline | `timeline.md` |

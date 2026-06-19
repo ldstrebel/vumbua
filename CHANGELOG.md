@@ -4,6 +4,10 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ---
 
+## 2026-06-19
+
+- **Surveyor Agent Protocols & Daggerheart integration**: Created the surveyor protocols workflow for building Daggerheart choice/dice surveys with GM preconditions check-ins, Stress, Hope/Fear, and Tier 1 loot tracking. Added references in human-instructions. → `.agent/workflows/surveyor-protocols.md`, `.agent/workflows/human-instructions.md`
+
 ## 2026-06-16
 
 - **Session 6 Planning Refactoring**: Reorganized and expanded the Session 6 planning guide into a playable chronological Daggerheart v1.6 DM guide. Added Scene 1: Lomi's Crossroads (Union shift choice, study group ticket pressure, heist slip-past), Scene 2: Hangar Infiltration & Rill's Save (Prism Gate, Rovaldi monocle scan table, Rill's rescue & limits, pushing luck), Scene 3: Thursday morning class & Valerius's ticket confrontation (entourage escape roleplay, ground vs. air, Presence checks), Scene 4: The Reso Race Sandbox (Bleachers vs. Zephyr actions, grog selling with Lucky & Lomi, active NPC prompts, 4-beat roll-interpretation guide), Scene 5: Curfew & Study Night (Loom-Guard curfew enforcement, study guides checks), and Scene 6: The Written Exam & Confluence (Resonant Ink, Copper baseline math, Loom prophecies). → `sessions/planning/s6/S6 Planning.md`
