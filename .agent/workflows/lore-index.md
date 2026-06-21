@@ -62,6 +62,8 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - [[Lyra Castellan]] & [[Ludo Castellan]] — Added their courtyard and cafeteria interactions, including Lomi blocking Lyra and Iggy throwing toast.
 - [[Pip]] & [[Bramble]] — Added courtyard and cafeteria appearances (food sharing, grass smoothing).
 - [[Finch Gable]] — Added alleyway enforcer trade spying activities.
+- [[Ember]] — Added Hangar 12 detour appearance, deal for a future favor, and Ash Reds faction alignment details.
+- [[alistair-rook|Alistair Rookwood]] — Added Hangar 12 detour appearance, pre-heating help, and explanation of rig design.
 
 ### Player Knowledge Changes
 
@@ -69,6 +71,8 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - Knowledge Tracker: ✅ Finch Gable trying to trade secrets about Valerius (the Radio Host) to guards for hangar access.
 - Knowledge Tracker: ✅ Valentine's team replacement node is locked in Hangar Bay 4 by Warden Rovaldi.
 - Knowledge Tracker: ✅ Valentine invites the group to board the Sterling airship VIP deck to study and watch the race.
+- Knowledge Tracker: ✅ Shatter Stamper rig design is a brutalist defensive crawler built for attrition and blocking, backed by the modernizer Ash Reds.
+- Knowledge Tracker: ✅ Ignatius assisted the crew by pre-warming the engines using his fire and secured a future favor from Ember and Valerius.
 
 ## Session Delta (Session 05: Cards on the Table)
 

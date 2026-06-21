@@ -40,3 +40,8 @@ Alistair pilots **The Ironclad** (Team 1). His strategy is simple: strike the fi
 
 ## Mechanics
 - **Signature Move:** "The Rook's Gambit" - Forcing a collision that damages both rigs, knowing his Ironclad is built to survive it while the opponent's isn't.
+
+## Session Appearances
+
+### Session 6
+- **Hangar Detour:** Present in the Shatter Stamper bay checking diagnostic logs on **The Ironclad**. He welcomed Ignatius's help in pre-heating the engines and explained that the rig's brutalist, maneuver-limiting design was built for attrition and bottlenecking rather than flashy speed.

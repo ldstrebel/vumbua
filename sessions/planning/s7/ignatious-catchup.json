@@ -164,7 +164,7 @@
             "id": "escape_success_next",
             "text": "Keep moving",
             "subtext": "Look for a safe place to hide.",
-            "nextId": "q2_ember_encounter",
+            "nextId": "q2_ember_encounter_clean",
             "scores": {}
           }
         ]
@@ -186,7 +186,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "You slip on a patch of oil. One of the guards clips your shoulder with a stun-pike, sending a jolt of disruptive energy through your body before you can scramble back up and tear yourself away into the scaffolding. You take 1 Stress."
+            "content": "You slip on a patch of oil. One of the guards clips your shoulder with a stun-pike, sending a jolt of disruptive energy through your body before you can scramble back up and tear yourself away into the scaffolding. You take 2 Stress."
           }
         ],
         "ports": [
@@ -194,10 +194,8 @@
             "id": "escape_failure_next",
             "text": "Keep moving",
             "subtext": "Nursing your sore shoulder.",
-            "nextId": "q2_ember_encounter",
-            "scores": {
-              "stress": 1
-            }
+            "nextId": "q2_ember_encounter_rough",
+            "scores": {}
           }
         ]
       }
@@ -277,7 +275,7 @@
             "id": "persuade_success_next",
             "text": "Walk away quickly",
             "subtext": "Slip into the next hangar aisle.",
-            "nextId": "q2_ember_encounter",
+            "nextId": "q2_ember_encounter_clean",
             "scores": {}
           }
         ]
@@ -299,7 +297,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "'Nice try, candidate,' the lead guard sneers, grabbing your collar. You have to pull away violently, ripping your sleeve and taking a painful shock from a stun-pike as you bolt into the shadows. You take 1 Stress."
+            "content": "'Nice try, candidate,' the lead guard sneers, grabbing your collar. You have to pull away violently, ripping your sleeve and taking a painful shock from a stun-pike as you bolt into the shadows. You take 2 Stress."
           }
         ],
         "ports": [
@@ -307,20 +305,18 @@
             "id": "persuade_failure_next",
             "text": "Bolt into the dark",
             "subtext": "Nursing your sore arm.",
-            "nextId": "q2_ember_encounter",
-            "scores": {
-              "stress": 1
-            }
+            "nextId": "q2_ember_encounter_rough",
+            "scores": {}
           }
         ]
       }
     },
     {
-      "id": "q2_ember_encounter",
+      "id": "q2_ember_encounter_clean",
       "type": "custom",
       "position": {
         "x": 1200,
-        "y": 300
+        "y": 200
       },
       "measured": {
         "width": 320,
@@ -335,32 +331,64 @@
           },
           {
             "type": "text",
-            "content": "Your childhood cousin looks frantic, her hair sparking with orange embers. 'Ignatius! Thank the Ancestors. Everyone is chasing that rolling metal ball of a student towards Hangar 12. I need you right now. It's about Valerius's team.'"
-          },
-          {
-            "type": "text",
-            "variant": "warning",
-            "content": "You feel a sharp weight of exhaustion from the chase (You take 1 Stress)."
+            "content": "Your childhood cousin looks relieved. 'Ignatius! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'"
           }
         ],
         "ports": [
           {
-            "id": "follow_ember",
+            "id": "follow_ember_clean",
             "text": "Follow Ember immediately",
             "subtext": "She's your cousin and she looks genuinely desperate. Let's see what she wants.",
             "nextId": "q4_hangar_bay",
-            "scores": {
-              "stress": 1
-            }
+            "scores": {}
           },
           {
-            "id": "find_iggy",
+            "id": "find_iggy_clean",
             "text": "Try to find Iggy first",
             "subtext": "You can't just leave Iggy to the guards. You need to see where he went.",
             "nextId": "q3_find_iggy",
-            "scores": {
-              "stress": 1
-            }
+            "scores": {}
+          }
+        ]
+      }
+    },
+    {
+      "id": "q2_ember_encounter_rough",
+      "type": "custom",
+      "position": {
+        "x": 1200,
+        "y": 400
+      },
+      "measured": {
+        "width": 320,
+        "height": 380
+      },
+      "data": {
+        "header": "EMBER'S GRAB",
+        "blocks": [
+          {
+            "type": "text",
+            "content": "You slide behind a massive canvas partition, nursing your sore, static-shocked shoulder. Suddenly, a hand clamps over your mouth and drags you backward into a darkened alcove. Your skin flares with heat—but the hand is immune. It's Ember."
+          },
+          {
+            "type": "text",
+            "content": "She spots you wincing. 'Ignatius! Get in here, quick! I saw those guards clip you with a pike. Keep your head down—we have to hide before they double back. And I need your help right now—it's about Valerius's team.'"
+          }
+        ],
+        "ports": [
+          {
+            "id": "follow_ember_rough",
+            "text": "Follow Ember immediately",
+            "subtext": "Slip away with Ember before the patrol turns back around.",
+            "nextId": "q4_hangar_bay",
+            "scores": {}
+          },
+          {
+            "id": "find_iggy_rough",
+            "text": "Try to find Iggy first",
+            "subtext": "Even with your shoulder aching, you want to double-back to check on Iggy.",
+            "nextId": "q3_find_iggy",
+            "scores": {}
           }
         ]
       }
@@ -533,7 +561,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "Ember leads you into the hangar bay opposite Hangar 12. Tarped off from public view is the massive, brutalist heavy crawler of Team 1: **Shatter Stamper**. The rig, *The Ironclad*, looms like a steel fortress on treads. The pit crew is running around in a panic."
+            "content": "Ember leads you into the hangar bay opposite Hangar 12. Tarped off from public view is the massive, brutalist heavy crawler of Team 1: **Shatter Stamper**. The rig, **The Ironclad**, looms like a steel fortress on treads. The pit crew is running around in a panic."
           },
           {
             "type": "text",
@@ -1022,7 +1050,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "You apply heat too quickly. A valve hisses and a puff of soot blows back into your face. The crew scrambles to reset the pressure. It works, but you're exhausted from holding the flare back (1 Stress)."
+            "content": "You apply heat too quickly. A valve hisses and a puff of soot blows back into your face. The crew scrambles to reset the pressure. It works, but you're exhausted from holding the flare back (2 Stress)."
           }
         ],
         "ports": [
@@ -1031,9 +1059,7 @@
             "text": "Inspect the results",
             "subtext": "Wiping soot from your eyes.",
             "nextId": "q8_lore_reveal",
-            "scores": {
-              "stress": 1
-            }
+            "scores": {}
           }
         ]
       }
@@ -1135,7 +1161,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "The nozzle backfires, sending a splash of burning oil onto your forearm. Your Ash-Blood skin resists the heat, but the sudden pop shakes you (1 Stress). The flamethrower is primed, but barely."
+            "content": "The nozzle backfires, sending a splash of burning oil onto your forearm. Your Ash-Blood skin resists the heat, but the sudden pop shakes you (2 Stress). The flamethrower is primed, but barely."
           }
         ],
         "ports": [
@@ -1144,9 +1170,7 @@
             "text": "Inspect the results",
             "subtext": "Shaking off the soot.",
             "nextId": "q8_lore_reveal",
-            "scores": {
-              "stress": 1
-            }
+            "scores": {}
           }
         ]
       }
@@ -1248,7 +1272,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "The furnace heat is oppressive, even for you. You struggle to keep pace with the fuel draw and strain your back lifting the heavy obsidian shovel (1 Stress). The furnace is hot, but you are spent."
+            "content": "The furnace heat is oppressive, even for you. You struggle to keep pace with the fuel draw and strain your back lifting the heavy obsidian shovel (2 Stress). The furnace is hot, but you are spent."
           }
         ],
         "ports": [
@@ -1257,9 +1281,7 @@
             "text": "Inspect the results",
             "subtext": "Wiping sweat from your brow.",
             "nextId": "q8_lore_reveal",
-            "scores": {
-              "stress": 1
-            }
+            "scores": {}
           }
         ]
       }
@@ -1314,25 +1336,626 @@
       },
       "measured": {
         "width": 320,
-        "height": 260
+        "height": 400
       },
       "data": {
         "header": "DETOUR COMPLETED",
         "blocks": [
           {
-            "type": "result",
-            "content": "You have successfully completed Ignatius's async catchup detour! You have helped prime Shatter Stamper's heavy rig for the race."
+            "type": "text",
+            "variant": "success",
+            "content": "You slip back into your room in Block 12 before the night shifts change and the patrols double. You helped prime Shatter Stamper's heavy rig for the race."
           },
           {
             "type": "text",
-            "content": "Your choices and performance have determined your standing: check your gained clues, items, and stress below!"
-          },
+            "content": "Congratulations! You completed Ignatius's catchup detour. Your choices and rolls have been saved to the database. Tell your GM what you did!\n\n**Based on your choices, you have earned:**\n\n-   **Loot:** {{LOOT}}\n-   **Experiences:** {{EXPERIENCES}}\n-   **Clues:** {{CLUES}}\n-   **Stress:** {{STRESS}}"
+          }
+        ],
+        "ports": [
           {
-            "type": "result",
-            "content": "STRESS TAKEN: {{stress}}\nVALERIUS ACCESS: {{clue_valerius_access}}\nPIT CREW ACCESS: {{clue_pit_crew_access}}\nFUTURE FAVOR: {{loot_favor}}"
+            "id": "end_to_wait",
+            "text": "Complete Detour",
+            "subtext": "Rest and await Session 7.",
+            "nextId": "wait_node"
+          }
+        ]
+      }
+    },
+    {
+      "id": "wait_node",
+      "type": "custom",
+      "position": {
+        "x": 6000,
+        "y": 300
+      },
+      "measured": {
+        "width": 320,
+        "height": 200
+      },
+      "data": {
+        "header": "DETOUR COMPLETED",
+        "isWaitNode": true,
+        "blocks": [
+          {
+            "type": "text",
+            "content": "You have completed your catchup detour. Await the start of Session 7."
           }
         ],
         "ports": []
+      }
+    }
+  ],
+  "edges": [
+    {
+      "id": "e-start-escape",
+      "source": "q0_start",
+      "sourceHandle": "guards_bolt",
+      "target": "q1_guards_escape_roll",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-start-persuade",
+      "source": "q0_start",
+      "sourceHandle": "guards_talk",
+      "target": "q1_guards_persuade_roll",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-escape-success",
+      "source": "q1_guards_escape_roll",
+      "sourceHandle": "escape_success",
+      "target": "q1_escape_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-escape-failure",
+      "source": "q1_guards_escape_roll",
+      "sourceHandle": "escape_failure",
+      "target": "q1_escape_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-escape-success-next",
+      "source": "q1_escape_success",
+      "sourceHandle": "escape_success_next",
+      "target": "q2_ember_encounter_clean",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-escape-failure-next",
+      "source": "q1_escape_failure",
+      "sourceHandle": "escape_failure_next",
+      "target": "q2_ember_encounter_rough",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-persuade-success",
+      "source": "q1_guards_persuade_roll",
+      "sourceHandle": "persuade_success",
+      "target": "q1_persuade_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-persuade-failure",
+      "source": "q1_guards_persuade_roll",
+      "sourceHandle": "persuade_failure",
+      "target": "q1_persuade_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-persuade-success-next",
+      "source": "q1_persuade_success",
+      "sourceHandle": "persuade_success_next",
+      "target": "q2_ember_encounter_clean",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-persuade-failure-next",
+      "source": "q1_persuade_failure",
+      "sourceHandle": "persuade_failure_next",
+      "target": "q2_ember_encounter_rough",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-ember-clean-follow",
+      "source": "q2_ember_encounter_clean",
+      "sourceHandle": "follow_ember_clean",
+      "target": "q4_hangar_bay",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-ember-clean-iggy",
+      "source": "q2_ember_encounter_clean",
+      "sourceHandle": "find_iggy_clean",
+      "target": "q3_find_iggy",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-ember-rough-follow",
+      "source": "q2_ember_encounter_rough",
+      "sourceHandle": "follow_ember_rough",
+      "target": "q4_hangar_bay",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-ember-rough-iggy",
+      "source": "q2_ember_encounter_rough",
+      "sourceHandle": "find_iggy_rough",
+      "target": "q3_find_iggy",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-iggy-success",
+      "source": "q3_find_iggy",
+      "sourceHandle": "find_iggy_success",
+      "target": "q3_see_iggy",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-iggy-failure",
+      "source": "q3_find_iggy",
+      "sourceHandle": "find_iggy_failure",
+      "target": "q3_lose_iggy",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-see-iggy-follow",
+      "source": "q3_see_iggy",
+      "sourceHandle": "see_iggy_follow",
+      "target": "q4_hangar_bay",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-lose-iggy-follow",
+      "source": "q3_lose_iggy",
+      "sourceHandle": "lose_iggy_follow",
+      "target": "q4_hangar_bay",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-lose-iggy-ignore",
+      "source": "q3_lose_iggy",
+      "sourceHandle": "lose_iggy_ignore",
+      "target": "q3_dragged",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-dragged-next",
+      "source": "q3_dragged",
+      "sourceHandle": "dragged_next",
+      "target": "q4_hangar_bay",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-hangar-free",
+      "source": "q4_hangar_bay",
+      "sourceHandle": "help_free",
+      "target": "q6_help_task",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-hangar-valerius",
+      "source": "q4_hangar_bay",
+      "sourceHandle": "negotiate_valerius",
+      "target": "q5_deal_valerius",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-hangar-pit",
+      "source": "q4_hangar_bay",
+      "sourceHandle": "negotiate_pit",
+      "target": "q5_deal_pit_crew",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-hangar-favor",
+      "source": "q4_hangar_bay",
+      "sourceHandle": "negotiate_favor",
+      "target": "q5_deal_favor",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-valerius-success",
+      "source": "q5_deal_valerius",
+      "sourceHandle": "valerius_success",
+      "target": "q5_valerius_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-valerius-failure",
+      "source": "q5_deal_valerius",
+      "sourceHandle": "valerius_failure",
+      "target": "q5_negotiation_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-valerius-success-next",
+      "source": "q5_valerius_success",
+      "sourceHandle": "valerius_success_next",
+      "target": "q6_help_task",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-pit-success",
+      "source": "q5_deal_pit_crew",
+      "sourceHandle": "pit_crew_success",
+      "target": "q5_pit_crew_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-pit-failure",
+      "source": "q5_deal_pit_crew",
+      "sourceHandle": "pit_crew_failure",
+      "target": "q5_negotiation_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-pit-success-next",
+      "source": "q5_pit_crew_success",
+      "sourceHandle": "pit_crew_success_next",
+      "target": "q6_help_task",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-favor-success",
+      "source": "q5_deal_favor",
+      "sourceHandle": "favor_success",
+      "target": "q5_favor_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-deal-favor-failure",
+      "source": "q5_deal_favor",
+      "sourceHandle": "favor_failure",
+      "target": "q5_negotiation_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-favor-success-next",
+      "source": "q5_favor_success",
+      "sourceHandle": "favor_success_next",
+      "target": "q6_help_task",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-negotiate-fail-help",
+      "source": "q5_negotiation_failure",
+      "sourceHandle": "negotiate_fail_help",
+      "target": "q6_help_task",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-negotiate-fail-refuse",
+      "source": "q5_negotiation_failure",
+      "sourceHandle": "negotiate_fail_refuse",
+      "target": "q7_refuse_end",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-help-engines",
+      "source": "q6_help_task",
+      "sourceHandle": "help_engines",
+      "target": "q6a_heat_engines",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-help-flamethrower",
+      "source": "q6_help_task",
+      "sourceHandle": "help_flamethrower",
+      "target": "q6b_energize_flamethrower",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-help-ignition",
+      "source": "q6_help_task",
+      "sourceHandle": "help_ignition",
+      "target": "q6c_shovel_ignition",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-engines-success",
+      "source": "q6a_heat_engines",
+      "sourceHandle": "engines_success",
+      "target": "q6a_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-engines-failure",
+      "source": "q6a_heat_engines",
+      "sourceHandle": "engines_failure",
+      "target": "q6a_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-engines-success-next",
+      "source": "q6a_success",
+      "sourceHandle": "engines_success_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-engines-failure-next",
+      "source": "q6a_failure",
+      "sourceHandle": "engines_failure_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-flamethrower-success",
+      "source": "q6b_energize_flamethrower",
+      "sourceHandle": "flamethrower_success",
+      "target": "q6b_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-flamethrower-failure",
+      "source": "q6b_energize_flamethrower",
+      "sourceHandle": "flamethrower_failure",
+      "target": "q6b_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-flamethrower-success-next",
+      "source": "q6b_success",
+      "sourceHandle": "flamethrower_success_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-flamethrower-failure-next",
+      "source": "q6b_failure",
+      "sourceHandle": "flamethrower_failure_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-shovel-success",
+      "source": "q6c_shovel_ignition",
+      "sourceHandle": "shovel_success",
+      "target": "q6c_success",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-shovel-failure",
+      "source": "q6c_shovel_ignition",
+      "sourceHandle": "shovel_failure",
+      "target": "q6c_failure",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-shovel-success-next",
+      "source": "q6c_success",
+      "sourceHandle": "shovel_success_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-shovel-failure-next",
+      "source": "q6c_failure",
+      "sourceHandle": "shovel_failure_next",
+      "target": "q8_lore_reveal",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-lore-reveal-next",
+      "source": "q8_lore_reveal",
+      "sourceHandle": "lore_reveal_next",
+      "target": "q9_end_catchup",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-end-to-wait",
+      "source": "q9_end_catchup",
+      "sourceHandle": "end_to_wait",
+      "target": "wait_node",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
       }
     }
   ]

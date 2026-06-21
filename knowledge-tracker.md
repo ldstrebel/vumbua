@@ -197,6 +197,8 @@ aliases:
 - ✅ **Valentine's Isolation:** Valentine (student candidate) is heavily isolated and monitored by his handlers, the Castellians ([[s6-clean|Session 6]])
 - ✅ **The Airship Invitation:** Valentine invited the group to board the Sterling family airship (Zephyr) VIP deck to study and watch the race together ([[s6-clean|Session 6]])
 - ✅ **Rovaldi's Eye:** Warden Rovaldi of the guards has a mechanical eye that scans different spectrums ([[s6-clean|Session 6]])
+- ✅ **Shatter Stamper Design:** Team 1's heavy crawler, the Ironclad, is a brutalist defensive rig on treads built for attrition and bottlenecking rather than speed, backed by Lady Ignis and the modernizer Ash Reds faction ([[s6-clean|Session 6]])
+- ✅ **Ember's Deal:** Ember (Ignatius's cousin) is aligned with the modernizer Ash Reds. She secured Ignatius's help to pre-warm the engine block using his Ash-Blood fire in exchange for a future favor from her and Valerius ([[s6-clean|Session 6]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The "Griffin" rules nerf biologicals because they are hard to care and feed for on extended journeys and would have a disproportionate advantage in the race.

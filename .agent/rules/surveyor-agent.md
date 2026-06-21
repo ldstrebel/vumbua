@@ -151,6 +151,7 @@ This format matches what is used in [britt_adventure.json](file:///d:/Code/vumbu
     *   *Tip*: Use `class="border-l border-white/20 pl-2"` for blockquotes.
 3.  **Root**: There MUST be a node/entry with key `root` (or a node with ID `root`).
 4.  **Subtext**: Always separate the "Action" (`text`) from the "Context" (`subtext`).
+5.  **Formatting Constraints**: In all text and content blocks, double asterisks (`**`) are parsed to render as bold. Single asterisks (`*`) are NOT supported for formatting (e.g., italics, bullets) and will render as nothing. Do NOT use single asterisks (`*`) for italics, list bullets, or emphasis. For bulleted lists, use hyphens (`-`) instead.
 
 ---
 

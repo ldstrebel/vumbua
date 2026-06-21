@@ -196,6 +196,8 @@ As the final week of classes wraps up, the group prepares for the upcoming Reso 
 
 **Key Events:**
 - [[Iggy]] and [[Ignatius]] infiltrate Hangar 12; Iggy is caught and questioned by [[Warden Rovaldi]]
+- Ignatius is separated from Iggy, cornered by guards, and escapes into the scaffolding, meeting his cousin [[Ember]] working on the pit crew for Team 1's rig, the **Ironclad** (Shatter Stamper)
+- Ignatius pre-heats the Shatter Stamper engine block using Ash-Blood fire in exchange for a future favor
 - [[Britt]] finds a [[Surveyor's Compass]] outside the city in an abandoned cache
 - Britt overhears [[Finch Gable]] trading secrets about Valerius's team's core confiscation to his reporter/enforcer in exchange for observer balloon access
 - [[Lomi]] attempts to contact [[Valentine Sterling]] but is blocked by [[Lyra Castellan]]
@@ -209,6 +211,8 @@ As the final week of classes wraps up, the group prepares for the upcoming Reso 
 - Finch Gable is trading secrets about Valerius's team's core confiscation to get access to the observer balloon
 - The replacement node for Valerius's backed team (Shatter Stamper) is locked in Bay 4 of the hangar
 - A Surveyor's Compass from Harmony Prime provides a stable navigation reference
+- Team 1's rig, the **Ironclad** (Shatter Stamper), is a brutalist defensive crawler built for bottlenecking and attrition rather than speed, backed by Lady Ignis and the modernizer Ash Reds faction
+- Ember is working with pit boss [[alistair-rook|Alistair Rookwood]] on Shatter Stamper and secured a future favor from her and Valerius in exchange for Ignatius's help
 - Valentine feels isolated and pressured by his family name and his Castellan handlers
 - Valentine's airship invitation will let the group study and view the race from the VIP deck
 

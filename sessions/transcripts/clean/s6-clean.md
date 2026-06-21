@@ -21,6 +21,8 @@ status: cleanup-complete
 - **[[Pip]]** — Present in the courtyard and cafeteria. Bonded heavily with Iggy over food, sharing bites. Had Bramble pour water in her mouth because her hands were full of food.
 - **[[Bramble]]** — Present in the courtyard and cafeteria. Gathered textbooks, helped Pip, and saw Iggy throw the bread at Lyra.
 - **[[Finch Gable]]** — Spotted by Brit in a side alley outside the city, whispering to an Indigo Turban guard and trying to trade secrets about Valerius (the Radio Host) to gain access to the hangar and spy on second-year builds. (No direct appearance, but first-hand observation by Brit).
+- **[[Ember]]** — Found in Hangar 12 area working on the pit crew for Shatter Stamper. She intercepted Ignatius, dragging him into an alcove to ask for his help pre-warming the engine block of **The Ironclad** using Ash-Blood fire in exchange for a future favor.
+- **[[alistair-rook|Alistair "The Rook" Rookwood]]** — Present in the Shatter Stamper bay checking diagnostic logs on **The Ironclad**. He welcomed Ignatius's help and explained the crawler's attrition-based defensive design.
 
 ### New locations
 - **Hangar 12 (Gantry Level & Catwalks)** — Cavernous vault carved from basalt, where racing rigs are cradled in berths. Patrolled by guards and Warden Rovaldi.
@@ -38,6 +40,8 @@ status: cleanup-complete
 - ✅ **Valentine's Isolation:** Val's handlers, the Castellians, actively isolate and control who Val talks to.
 - ✅ **The VIP Invite:** The group is invited to board the Sterling family airship (Zephyr) VIP deck one hour before the race, meeting at the colonnade.
 - ✅ **Rovaldi's Spectacle:** Warden Rovaldi of the guards has a mechanical eye that scans different spectrums.
+- ✅ **Shatter Stamper Design:** Team 1's heavy crawler, the Ironclad, is a brutalist defensive rig on treads built for attrition and bottlenecking rather than speed, backed by Lady Ignis and the modernizer Ash Reds faction.
+- ✅ **Ember's Deal:** Ember is aligned with the modernizer Ash Reds. She secured Ignatius's help to pre-warm the engine block using his Ash-Blood fire in exchange for a future favor.
 
 ---
 
@@ -143,7 +147,27 @@ status: cleanup-complete
 
 ---
 
-### Part 3: Courtyard Confrontations
+### Part 3: Ignatius's Hangar Detour
+
+*Wednesday night. As Ignatius watches Iggy curl into a bowling ball of doom and lead a swarm of shouting Turbaned Guards away, he is left standing in a half-empty corridor near Hangar Bay 12. Before he can sneak away, three Indigo Turban guards turn the corner and spot him.*
+
+*The guards lower their stun-pikes, demanding he state his business. Trusting his reflexes, Ignatius bolts past them into the shadows of the scaffolding. He slides cleanly beneath the first guard's stun-pike, kicks off a steam pipe to pivot around the second, and vanishes into the maze of tarps and scaffolding.*
+
+*Catching his breath behind a massive canvas partition, Ignatius is suddenly grabbed from behind. A hand clamps over his mouth and drags him into a darkened alcove. Ignatius's skin flares with heat, but the hand is immune—it is his childhood cousin, Ember.*
+
+*Ember looks relieved to find him, explaining that everyone is distracted by Iggy's stunt. She reveals that Valerius Sterling's team, Shatter Stamper, is in a panic because they are short on Ash-Blood energy. Their backup resonator was confiscated by Warden Rovaldi in Bay 4 due to a late specs submission (the very secret Finch Gable was trying to trade). Without Ash-Blood heat, their rig—The Ironclad—will stall during the race.*
+
+*Before agreeing to help, Ignatius negotiates a deal: in exchange for his fire, Ember and Valerius will owe him a blank favor to be cashed in later. Ember accepts the terms, sealing the deal with sparks.*
+
+*Ember leads Ignatius to the crawler. He channels a steady, radiating heat directly into the coolant conduits to pre-warm the engine block. Pre-warming the engine block requires precise thermal control to avoid cracking the valves, but Ignatius successfully keeps the temperature steady. The engine purrs to life with a deep, volcanic vibration.*
+
+*Alistair "The Rook" Rookwood, the captain and pilot of Shatter Stamper, is impressed and grunts his approval. Ignatius inspects the rig, noticing that the massive, treaded Ironclad has almost no steering jets—it is designed like a moving brick. Alistair explains that Shatter Stamper is designed for attrition and bottlenecking rather than flashy speed, aiming to pin down lighter teams.*
+
+*Ember pulls Ignatius aside and reveals that the modernizer Ash Reds faction (backed by Matriarch Lady Ignis) is sponsoring the rig for positive public relations. They want to prove they can build advanced Harmony-compatible machinery that burns hotter than anything else, rather than traditional gliders.*
+
+---
+
+### Part 4: Courtyard Confrontations
 
 *Thursday morning. In the courtyard of Block 04, Aggie (PC) is studying with Pip and Bramble. Britt returns from her excursion and rejoins the group.*
 
@@ -185,7 +209,7 @@ status: cleanup-complete
 
 ---
 
-### Part 4: Cafeteria Conspiracies
+### Part 5: Cafeteria Conspiracies
 
 *Thursday lunchtime/afternoon. The group gathers in the cafeteria. Iggy joins them, looking exhausted and carrying a biscuit and bacon. Lomi sits with a textbook, looking stressed about the upcoming written exam.*
 
@@ -259,7 +283,7 @@ status: cleanup-complete
 
 **[[Lomi]] (PC):** *[Rejoining the table]* "You guys got an invite from Val? To the airship? That's the best place to see the race! That's where all the VIPs are."
 
-**[[Britt]] (PC):** "You're invited too, Lomi."
+**[[Britt]] (PC): "You're invited too, Lomi."
 
 **[[Lomi]] (PC):** *[Stops, realized he now has to choose between selling grog with Lucky on the ground or watching the race from the Sterling family airship.]* "Devastating..."
 
@@ -271,7 +295,7 @@ status: cleanup-complete
 
 ---
 
-### Part 5: Milestone Level-Up
+### Part 6: Milestone Level-Up
 
 *Thursday night. The party returns to their dorm blocks to rest before the final day of classes and the upcoming exams.*
 

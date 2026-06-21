@@ -339,7 +339,7 @@
                     },
                     {
                         "type": "text",
-                        "content": "You cry out and pull back, your tough shell taking the brunt of the heat but leaving you parched and shaken (1 Stress). You have to retreat empty-handed before the guards spot you."
+                        "content": "You cry out and pull back, your tough shell taking the brunt of the heat but leaving you parched and shaken (2 Stress). You have to retreat empty-handed before the guards spot you."
                     }
                 ],
                 "ports": [
@@ -348,9 +348,7 @@
                         "text": "Head back to the dorms",
                         "subtext": "Nursing your scalded hand.",
                         "nextId": "q3_convergence",
-                        "scores": {
-                            "stress": 1
-                        }
+                        "scores": {}
                     }
                 ]
             }
@@ -578,7 +576,7 @@
                     },
                     {
                         "type": "text",
-                        "content": "Professor Kante and Tommy turn around immediately. Tommy spots you: 'Oh, sorry, student! This area is off-limits.' Kante looks at you suspiciously before Tommy politely but firmly ushers you back to the front desk. You left empty-handed and stressed (1 Stress)."
+                        "content": "Professor Kante and Tommy turn around immediately. Tommy spots you: 'Oh, sorry, student! This area is off-limits.' Kante looks at you suspiciously before Tommy politely but firmly ushers you back to the front desk. You left empty-handed and stressed (2 Stress)."
                     }
                 ],
                 "ports": [
@@ -587,9 +585,7 @@
                         "text": "Head back to the dorms",
                         "subtext": "Exiting quickly.",
                         "nextId": "q3_convergence",
-                        "scores": {
-                            "stress": 1
-                        }
+                        "scores": {}
                     }
                 ]
             }
@@ -818,7 +814,7 @@
                     },
                     {
                         "type": "text",
-                        "content": "The impact leaves you bruised and shaken (1 Stress). The cache is out of reach, and you have to climb back up empty-handed."
+                        "content": "The impact leaves you bruised and shaken (2 Stress). The cache is out of reach, and you have to climb back up empty-handed."
                     }
                 ],
                 "ports": [
@@ -827,9 +823,7 @@
                         "text": "Head back to the dorms",
                         "subtext": "Dusting yourself off.",
                         "nextId": "q3_convergence",
-                        "scores": {
-                            "stress": 1
-                        }
+                        "scores": {}
                     }
                 ]
             }
@@ -1058,7 +1052,7 @@
                     },
                     {
                         "type": "text",
-                        "content": "A Gilded guard immediately approaches: 'Pardon me, candidate, but this platform is reserved for captains and guests.' He politely but firmly escorts you back to the public elevator. The embarrassment leaves you stressed (1 Stress)."
+                        "content": "A Gilded guard immediately approaches: 'Pardon me, candidate, but this platform is reserved for captains and guests.' He politely but firmly escorts you back to the public elevator. The embarrassment leaves you stressed (2 Stress)."
                     }
                 ],
                 "ports": [
@@ -1067,9 +1061,7 @@
                         "text": "Head back to the dorms",
                         "subtext": "Stepping into the elevator.",
                         "nextId": "q3_convergence",
-                        "scores": {
-                            "stress": 1
-                        }
+                        "scores": {}
                     }
                 ]
             }
@@ -1291,7 +1283,37 @@
                     },
                     {
                         "type": "text",
-                        "content": "Congratulations! You completed Britt's Afternoon Out. Your final choices and rolls have been saved to the survey metadata without ambiguity. Tell your GM what you did!\n\n**Based on your choices, you have earned:**\n\n*   **Loot:** {{LOOT}}\n*   **Experiences:** {{EXPERIENCES}}\n*   **Clues:** {{CLUES}}\n*   **Stress:** {{STRESS}}"
+                        "content": "Congratulations! You completed Britt's Afternoon Out. Your final choices and rolls have been saved to the survey metadata without ambiguity. Tell your GM what you did!\n\n**Based on your choices, you have earned:**\n\n-   **Loot:** {{LOOT}}\n-   **Experiences:** {{EXPERIENCES}}\n-   **Clues:** {{CLUES}}\n-   **Stress:** {{STRESS}}"
+                    }
+                ],
+                "ports": [
+                    {
+                        "id": "end_to_wait",
+                        "text": "Complete Adventure",
+                        "subtext": "Rest and await Session 6.",
+                        "nextId": "wait_node"
+                    }
+                ]
+            }
+        },
+        {
+            "id": "wait_node",
+            "type": "custom",
+            "position": {
+                "x": 2600,
+                "y": 400
+            },
+            "measured": {
+                "width": 320,
+                "height": 200
+            },
+            "data": {
+                "header": "ADVENTURE COMPLETE",
+                "isWaitNode": true,
+                "blocks": [
+                    {
+                        "type": "text",
+                        "content": "You have completed your afternoon out. Await the start of Session 6."
                     }
                 ],
                 "ports": []
@@ -1799,6 +1821,17 @@
             "source": "q3_conv_observe_res",
             "sourceHandle": "observe_end",
             "target": "q4_end_results",
+            "animated": true,
+            "style": {
+                "strokeWidth": 2,
+                "stroke": "#fff"
+            }
+        },
+        {
+            "id": "e-end-wait",
+            "source": "q4_end_results",
+            "sourceHandle": "end_to_wait",
+            "target": "wait_node",
             "animated": true,
             "style": {
                 "strokeWidth": 2,

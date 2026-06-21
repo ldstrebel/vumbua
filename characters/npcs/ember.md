@@ -67,6 +67,13 @@ Before coming to Vumbua, she had already started dressing like a Harmony citizen
 | **[[valerius-sterling\|Valerius Sterling]]** | Her employer and, secretly, her role model. She admires his command of language and his confidence. She tells people she works for him "because he feeds her well" — the truth is she works for him because he makes her feel like she belongs. |
 | **[[valentine-sterling\|Valentine Sterling]]** | Social companion at Academy events. She looks at him differently when he shows vulnerability. |
 
+## Session Appearances
+
+### Session 6
+- **Hangar Detour:** Found in the Hangar 12 area working on the pit crew for Shatter Stamper. She intercepted Ignatius, dragging him into an alcove to ask for his help. She explained that their rig (**The Ironclad**) was short on Ash-Blood energy and needed heat to pre-warm the engine block.
+- **The Deal:** Agreed to a future favor in exchange for Ignatius's assistance in heating the engines.
+- **Ash Reds Backing:** Revealed that the modernizer Ash Reds faction (backed by Matriarch Lady Ignis) is supporting this heavy, defensive rig to show Harmony that they can build advanced mechanical systems.
+
 ## Source References
 
 - **[[session-02|Session 2]]** — [[Serra Vox]] mentioned Ember during the bonfire conversation about [[Ash-Bloods|Ash-Blood]] cultural tensions *(Scene 6: Ash-Blood Politics)*

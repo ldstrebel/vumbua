@@ -102,5 +102,6 @@
 - **[[Lyra Castellan]]** - Sentry for Val, Castellan Family
 - **[[Ludo Castellan]]** - Sentry for Val, Castellan Family
 - **[[Jorge]]** - Dragonkin Student, friend of Valentine Sterling
+- **[[alistair-rook\|Alistair "The Rook" Rookwood]]** - Second-Year Cadet, Captain of Squad 06 / Shatter Stamper Pilot
 
 - Captains List - a list of all Captains and their charter for the Venture

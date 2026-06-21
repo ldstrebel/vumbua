@@ -2487,3 +2487,90 @@ Slip back into Block 04 before curfew.
 ### Transcription ended after 02:11:56
 
 *This editable transcript was computer generated and might contain errors. People can also change the text after it was created.*
+
+
+## Smash
+**Result:** experience_ash_blood_politics (1)
+
+1. **[root]** HANGAR DETOUR
+
+   > As you watch Iggy curl into a bowling ball of doom, careening down the corridor and dragging a swarm of shouting Turbaned Guards with him, you find yourself left standing in a half-empty corridor. Before you can sneak away, three Indigo Turban guards turn the corner and spot you near the Restricted Hangar Bay 12.
+   > 
+   > They lower their stun-pikes. 'You there! Halt! Candidates are barred from this sector after shift end. State your business!'
+
+   * **Decision:** **Try to bolt past them** _Trust your reflexes and dash into the shadows of the scaffolding._
+
+2. **[q1_guards_escape_roll]** ROLL AGILITY (DC 13)
+
+   > The corridor is slick with aether-oil runoff. You leap over a crate of brass valves, attempting to slide under their reach. Add your Agility modifier to the roll!
+
+   * **Roll:** 19 (raw: [10, 9]) - **HOPE**
+   * **Decision:** **Success! Slipped through!**
+
+3. **[q1_escape_success]** SLIPPED THROUGH
+
+   > You slide cleanly beneath the first guard's stun-pike, kicking off a steam pipe to pivot around the second. Before they can coordinate, you vanish into the maze of tarps and scaffolding.
+
+   * **Decision:** **Keep moving** _Look for a safe place to hide._
+
+4. **[q2_ember_encounter_clean]** EMBER'S GRAB
+
+   > You catch your breath behind a massive canvas partition. Suddenly, a hand clamps over your mouth and drags you backward into a darkened alcove. Your skin flares with heat—but the hand is immune. It's Ember.
+   > 
+   > Your childhood cousin looks relieved. 'Ignatius! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'
+
+   * **Decision:** **Follow Ember immediately** _She's your cousin and she looks genuinely desperate. Let's see what she wants._
+
+5. **[q4_hangar_bay]** THE SHATTER STAMPER BAY
+
+   > Ember leads you into the hangar bay opposite Hangar 12. Tarped off from public view is the massive, brutalist heavy crawler of Team 1: **Shatter Stamper**. The rig, **The Ironclad**, looms like a steel fortress on treads. The pit crew is running around in a panic.
+   > 
+   > Ember speaks fast: 'The team is short in Ash-Blood energy. We need to infuse anything you have into the craft. The judges ruled they couldn't replace their backup resonator—which Warden Rovaldi confiscated in Bay 4. It's exactly what that logistics kid, Finch, was gossiping about! Without a source of Ash-Blood heat, the rig will stall in the tight quarters of the first run.'
+
+   * **Decision:** **Negotiate: A future favor** _Demand a favor from Ember and Valerius that you can cash in later._
+
+6. **[q5_deal_favor]** NEGOTIATE A FAVOR (DC 11)
+
+   > You demand a blank favor to be cashed in at a time of your choosing. Add your Presence modifier!
+
+   * **Roll:** 18 (raw: [8, 10]) - **FEAR**
+   * **Decision:** **Success! Deal struck!**
+
+7. **[q5_favor_success]** DEAL STRUCK: FUTURE FAVOR
+
+   > Ember spits on her palm, her skin sparking. 'A favor. Traditional style. I accept, Ignatius. Just don't let this rig stall!' You gained a future favor!
+
+   * **Decision:** **Get to work** _Step up to the machine._
+
+8. **[q6_help_task]** WHERE DO YOU HELP?
+
+   > Ember hands you an insulated copper conduit connected to the rig's combustion manifold. 'Where can you focus your heat the best, cousin? Choose wisely.'
+
+   * **Decision:** **Heating the Engines** _Channel steady, radiating heat directly into the coolant conduits to pre-warm the block._
+
+9. **[q6a_heat_engines]** ROLL KNOWLEDGE (DC 12)
+
+   > Pre-warming the engine block requires precise thermal control to avoid cracking the valves. Add your Knowledge modifier!
+
+   * **Roll:** 22 (raw: [12, 10]) - **HOPE**
+   * **Decision:** **Success! Smooth pre-heat!**
+
+10. **[q6a_success]** ENGINES HUMMING
+
+   > You slowly raise the temperature of the coolant conduits. The engine purrs to life with a deep, volcanic vibration. The Rook smiles: 'Perfect resonance. That'll keep us from freezing on the launch pads.'
+
+   * **Decision:** **Inspect the results** _Look around the bay._
+
+11. **[q8_lore_reveal]** SHATTER STAMPER REVELATIONS
+
+   > As the engine stabilizes, you watch the pit crew run diagnostic checks on the Ironclad's heavy armor plating. You notice that the rig has almost no steering jets—it is designed like a moving brick.
+   > 
+   > Alistair grunts, seeing your expression: 'Shatter Stamper isn't built for a cool show, candidate. Our goal is to get into positions that keep bottlenecks and stop other crafts. It's pure attrition. We let the lighter teams show off, then we pin them.'
+   > 
+   > Ember pulls you aside: 'Matriarch Lady Ignis and the modernizer faction—the Ash Reds—are backing this rig. It's mostly for good PR. We want to look cool and capable, but we don't want to threaten the existing players yet. We want to be seen as an emerging power and the most mechanical version of Harmony Tech. Everyone thought the Ember Isles would build light and movable gliders—but we want to show up on their city and show them we can build a furnace that burns hotter than anything else.'
+
+   * **Decision:** **Complete Detour** _View your results summary._
+
+
+---
+
