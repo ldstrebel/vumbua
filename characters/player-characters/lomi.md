@@ -84,6 +84,18 @@ Got Copper rank — the lowest tier. Not discouraged. Settled into Block 99-Pist
 ### Session 2 — Finding His People
 The bonfire was the first real social event. Lomi secured moonshine, bonded with Percy over curiosity about the world, and helped light the fire alongside Ignatius. He's becoming the social glue of the group — the guy who can talk to anyone and make connections. His curiosity is growing. Percy's theories about missing clans and the noises Lomi "hears" in the boiler room are starting to make the world feel bigger than he expected.
 
+### Session 3 — The Game & The Intervention
+Lomi visited the Celestial Lounge, winning a game of "Crown and Ruin" against Valerius Sterling. However, the night took a dangerous turn when Britt was ambushed. Lomi and Iggy intervened in the alley, and Lomi broke the rib of an ambusher named Azer to save his friend, proving he can protect his crew when things go wrong.
+
+### Session 4 — Rebuffed but Resolute
+Classes proved challenging as Lomi was brutally rebuffed by Finch Gable when asking for notes. He remained resolute, assisting the group in tracking down Lucky and negotiating the trade for Val's study guide.
+
+### Session 5 — The Grog Hustle
+Lomi struck a deal with Lucky to distribute "Ambrosia of Luck" (grease grog) during the Reso Race, turning his boiler room connections into a business opportunity. He scouted the Apex Ring with Ignatius, noting the randomized spire deployment and identifying the "Prism Water" security at the maintenance gates.
+
+### Session 6 — Cafeteria Wall & The Dilemma
+In the cafeteria, Lomi acted as a physical wall, intercepting and blocking Lyra Castellan to give Britt and Aggie time to talk to Valentine. The effort paid off with VIP airship passes, but Lomi now faces a professional and personal dilemma: stay on the ground to run the grease-grog hustle with Lucky, or go up to the Sterling VIP deck with his squad.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
@@ -107,6 +119,23 @@ The bonfire was the first real social event. Lomi secured moonshine, bonded with
 - Helped light the bonfire alongside [[Ignatius]]
 - Introduced himself: "Lomi Sultano. Boiler Maker family for ages."
 - Explained that the boilers use [[lavsidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]]
+
+### [[session-03|Session 3]] — The Celestial Lounge and The Ambush
+- Visited the Celestial Lounge and played "Crown and Ruin" with Val and Ember, winning the game against Val.
+- Intervened in the alley ambush alongside Iggy to save Britt, breaking the rib of the attacker Azer.
+
+### [[s4-clean|Session 4]] — First Day of Classes
+- Attended classes; was rebuffed by Finch Gable when asking for Logistics notes.
+- Tracked down Lucky with the group, assisting in the myth-for-guide trade.
+
+### [[s5-clean|Session 5]] — Cards on the Table
+- Struck a business agreement with Lucky to distribute "Ambrosia of Luck" engine grease at the race.
+- Scouted the Apex Ring with Ignatius, identifying the randomized spires and the "Prism Water" security at the maintenance gates.
+
+### [[s6-clean|Session 6]] — Potatoes and Peas
+- Blocked Lyra Castellan's path in the cafeteria, forcing her to take a long route around tables and allowing the party to talk to Valentine.
+- Learned of the group's VIP invitation to board the Sterling airship for the race.
+- Stood conflicted between his business commitment with Lucky on the ground and watching the race with his friends from the airship.
 
 ## Relationships
 

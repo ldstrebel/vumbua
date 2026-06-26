@@ -94,6 +94,15 @@ The facade of confidence cracked when he saw Vumbua — the massive ships, the c
 ### Session 2 — Declaring His Quest
 The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing off), panicked Cassius, but it became a great moment when Lomi helped smooth things over. Then he stated his quest openly: *"I want to find the heart of the volcano. The next [[lavsidian]] deposit. I want to find out why it's reheating."* He named the fuel rocks himself — lavsidian (lava + obsidian). He's a traditionalist: annoyed at Ember's modernizing, skeptical of Serra Vox's interest. The "Lava Boy" nickname from Zephyr/Rill stuck. His quest is clear and public now.
 
+### Session 4 — The Myth for the Guide
+Ignatius faced his first academic hurdles in Logistics class, but found that his cultural roots had tangible value. He traded the traditional Ash-Blood Genesis Myth of the Sky and Sea Dragons to Lucky to secure the annotated exam study guide for the group, showing that the stories of the Ember Isles hold power even in the mechanical halls of the Academy.
+
+### Session 5 — Standing Up as Agent
+Accompanying Iggy to the high-stakes negotiation with Lucky, Ignatius stepped into the role of Iggy's self-appointed "agent." He protected his roommate's naive genius from Lucky's predatory deals, making sure Iggy's clockwork creations were traded fairly for the Reso Race intel and study guide annotations.
+
+### Session 6 — The Hangar Deal
+After getting split up from Iggy in Hangar 12, Ignatius evaded the guards and was cornered by his cousin Ember. He put his volcanic heritage to practical use by pre-heating the engine block of Team 1's crawler, the **Ironclad** (Shatter Stamper), in exchange for a blank future favor from Ember and Valerius. Working with pilot Alistair "The Rook" Rookwood, Ignatius gained insight into the heavy rig's attrition-based design and the political goals of the modernizer Ash Reds.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
@@ -121,10 +130,21 @@ The bonfire was Ignatius's moment. He lit it prematurely (instinct, not showing 
 - Called [[Zephyr]] "Lightning Girl" after her purple lightning bolt; she called him "Lava Boy" via [[Rill]]
 - Joined [[Lomi]] in scouting the [[Apex Ring]] arena layout.
 
+### [[s4-clean|Session 4]] — First Day of Classes
+- Attended Aetheric Ballistics & Logistics class; got hit in the head by a piece of thrown chalk.
+- Accompanied the group to trade with Lucky, narrating the Ash-Blood Genesis Myth to secure the exam study guide.
+
 ### [[s5-clean|Session 5]] — Cards on the Table
 - Accompanied [[Iggy]] to [[Lucky]]'s "warehouse" interrogation.
 - Acted as **Iggy's self-appointed "agent"** during the negotiation with Lucky, ensuring his roommate didn't get fleeced.
 - Scouted the **Apex Ring** with [[Lomi]], observing the randomized spire deployment boxes and the [[Juxta's Spire]] location.
+
+### [[s6-clean|Session 6]] — Potatoes and Peas
+- Infiltrated Hangar 12 with Iggy; evaded guards in the scaffolding after getting separated.
+- Rejoined his cousin Ember in the Shatter Stamper crawler bay.
+- Struck a deal for a blank future favor from Ember and Valerius.
+- Used his Ash-Blood fire to safely pre-warm the engine block of the **Ironclad** (Shatter Stamper) crawler without cracking the valves, earning the approval of captain Alistair "The Rook" Rookwood.
+- Discovered the crawler's defensive bottlenecking design and Lady Ignis's backing of the modernizer Ash Reds faction.
 
 ## Relationships
 

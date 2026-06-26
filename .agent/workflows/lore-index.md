@@ -307,6 +307,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | Session 3   | `sessions/transcripts/raw/s3-raw.md`   | `sessions/transcripts/clean/s3-clean.md`     | ✅ Complete |
 | Session 4   | `sessions/transcripts/raw/s4-raw.md`   | `sessions/transcripts/clean/s4-clean.md`     | ✅ Complete |
 | Session 5   | `sessions/transcripts/raw/s5-raw.md`   | `sessions/transcripts/clean/s5-clean.md`     | ✅ Complete |
+| Session 6   | `sessions/transcripts/raw/s6-raw.md`   | `sessions/transcripts/clean/s6-clean.md`     | ✅ Complete |
 
 
 ---

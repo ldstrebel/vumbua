@@ -78,13 +78,22 @@ The academy is overwhelming but Britt is holding her ground. Got Gold rank, whic
 ### Session 2 — Gathering Intel
 Serra Vox approached her and Aggie at the bonfire, calling it "the most important anthropological cauldron in years" — Britt tried to charm her for more info but failed. Serra shut down. Rill recognized the Mizizi cousins and invited them to visit after class. The bonfire gave Britt a taste of how much she doesn't know about the wider world: missing clans, lightning powers, Ash-Blood politics. The investigation continues.
 
+### Session 3 — The Ambush
+Britt's investigation turned dangerous when she followed a suspicious group into a dark alley. She was ambushed by Azer, Nickel, and Tus, losing her test receipt but managed to save her pocket watch before Lomi and Iggy arrived to drive them off.
+
+### Session 4.5 — Anchoring & Dead Pigs
+In class, Britt learned about the terrifying "dead island" phenomenon from Professor Silas Thorne, where reality remains but energy is entirely void. Meanwhile, she struggled with Academy food, bewildered by the concept of eating "dead pigs" (bacon).
+
+### Session 6 — Cache & The VIP Ticket
+Britt followed a runoff pipe outside the city to find an abandoned cache containing a stable Harmony Surveyor's Compass. She also overheard Finch Gable trading secrets about Val's team's core confiscation to enforcers for balloon access. In the cafeteria, she approached Valentine Sterling, securing VIP passes to the family airship for the group, allowing them to watch the race from the skies.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
 - Established as [[Mizizi]] clan member — gray, dusty, powdery turtle-mushroom
 - Defined relationship with [[Aggie]] (cousins, same year, shared mission)
 - Discussed clan philosophy on death and decay
-- Left the [[Mizizi Petrified Forest|Petrified Forest]] for the first time
+- Left the [[Mizizi Petrified Forest|Petrified Forest]] of the Mizizi homeland
 - Sophie's framing: "The call is coming from inside the house" — Britt is here to investigate
 
 ### [[session-01|Session 1]] — Arrival at [[Vumbua Academy]]
@@ -99,6 +108,20 @@ Serra Vox approached her and Aggie at the bonfire, calling it "the most importan
 - Tried to charm [[Serra Vox]] for more info (Failure with Fear) — Serra shut down and deflected
 - Immediate reaction to [[Dean Isolde Vane]]: *"I don't trust this f***ing guy"*
 - [[Rill]] recognized her and [[Aggie]]; invited them to visit after class tomorrow
+
+### [[session-03|Session 3]] — The Celestial Lounge and The Ambush
+- Visited the Celestial Lounge with the group.
+- Followed a suspicious group into an alley and was ambushed by Azer, Nickel, and Tus, losing her exam receipt but reclaiming her pocket watch.
+
+### [[s4.5-clean|Session 4.5]] — Reality Anchors & Dead Pigs
+- Met Pip, Kael, and Saffron, expressing confusion over bacon ("dead pigs").
+- Attended Professor Silas Thorne's Reality Anchoring class, pursuing him through the corridors to learn of the "dead island" phenomenon.
+- Spotted Valentine entering Sterling Hall under guard.
+
+### [[s6-clean|Session 6]] — Potatoes and Peas
+- Discovered an abandoned cache outside the city containing a stable Harmony Surveyor's Compass.
+- Overheard Finch Gable trading secrets to enforcers for observer balloon access.
+- Approached Valentine Sterling and Jorge in the cafeteria, securing VIP airship deck passes for the party.
 
 ## Relationships
 

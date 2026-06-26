@@ -106,6 +106,18 @@ Secretly enjoyed being included at the bonfire. Socialized with the group. Notic
 ### Session 2.5 — The Turning Point
 Everything changed. Wandered into the power plant and met [[Professor Kante]], who validated his technical intuition. Learned that the world's power (Global Amplitude) is declining and that integration — cultural connection between peoples — is how it's restored. This directly contradicts everything he was taught: that connection with the outside world would destroy his people. Now Iggy has a real question to answer: *Was he lied to, or is Kante wrong?* He designed five experiments to test "connection" with people at the [[Celestial Lounge]]. He has a mentor, an umber crystal, and for the first time, a reason to stay.
 
+### Session 3 — Alley Defense & Mapping
+Iggy put his cartography skills to the test mapping the view at the Celestial Lounge. Later, he joined Lomi in the alley to save Britt from the ambushers, securing the safety of the squad.
+
+### Session 4 — Slime & The Guide
+In classes, Iggy accidentally broke a typewriter with slime during his exams. He later went with the group to find Lucky, helping secure the study guide.
+
+### Session 5 — Trinkets for Truth
+Iggy traded his hand-crafted clockwork toys and gadgets to Lucky in exchange for the Reso Race intel and annotated study guide answers. Supported by Ignatius, who acted as his agent, Iggy realized that his non-magic machinery holds high value for surface dwellers.
+
+### Session 6 — Monocle Scan & Toast Launch
+In Hangar 12, Iggy was caught by Warden Rovaldi, whose mechanical eye scanned him and detected his lack of Harmony imbuement. Escaping safely, he joined the group in the cafeteria, where he launched a piece of toast that bounced cleanly off Lyra Castellan's head after she insulted his friends, cementing his protective bond with the party.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
@@ -139,10 +151,23 @@ Everything changed. Wandered into the power plant and met [[Professor Kante]], w
 - Designed five experiments to test "connection" with people
 - Rejoined the group for the [[Celestial Lounge]] trip
 
+### [[session-03|Session 3]] — The Celestial Lounge and The Ambush
+- Visited the Celestial Lounge, gaining cartographic insights from the heights.
+- Assisted Lomi in rescuing Britt from the alley ambushers.
+
+### [[s4-clean|Session 4]] — First Day of Classes
+- Attended Aetheric Ballistics class; broke a typewriter with slime.
+- Accompanied the group to trade with Lucky for the study guide.
+
 ### [[s5-clean|Session 5]] — Cards on the Table
 - Interrogated by [[Lucky]] in his "warehouse" (storage closet) alongside [[Ignatius]] and [[Lomi]].
 - Traded his custom-built clockwork trinkets for Lucky's annotated study guide and crucial intel on the Reso Race.
 - **[[Ignatius]]** stepped in as his self-appointed "agent" during the deal, managing the negotiation to protect Iggy from Lucky's hustling.
+
+### [[s6-clean|Session 6]] — Potatoes and Peas
+- Infiltrated Hangar 12 with Ignatius; caught and questioned by Warden Rovaldi.
+- Scanned by Rovaldi's mechanical eye, which detected a lack of Harmony energy.
+- Joined the group in the cafeteria, bonding with Pip over food and throwing a piece of toast at Lyra Castellan's head in retaliation for her insults.
 
 ## Relationships
 

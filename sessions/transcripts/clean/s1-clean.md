@@ -76,7 +76,7 @@ The party navigates the intake exam, receives their rank assignments (Gold, Silv
 
 **GM (LUKE S)** (As Attendant) "No."
 
-**IGGY (HOLLY)** "That's okay. That's okay. I have an idea." (Action) He goes up to the receipt thing that's been printing and he just pulls down.
+**IGGY (HOLLY)** "That's okay. That's okay. I have an idea." (Action) He goes up to the receipt thing that's been printing and he just pulls down then blows his nose into it.
 
 **GM (LUKE S)** Oh, no.
 
@@ -86,7 +86,7 @@ The party navigates the intake exam, receives their rank assignments (Gold, Silv
 
 **IGGY (HOLLY)** "But I don't know what this is."
 
-**GM (LUKE S)** (As Supervisor) "Does [[iggy|Iggy]] use his receipt at all?"
+**GM (LUKE S)** Does [[iggy|Iggy]] use his receipt at all when he blew his nose?
 
 **IGGY (HOLLY)** No, no, he did not use his receipt.
 
@@ -365,17 +365,3 @@ The group exits the Great Hall. A machine prints out punch cards for housing ass
 **IGGY (HOLLY)** I think Iggy would be fine with whatever ends up giving him **Answers**. (Beat) Exploration sounds fun. But I don't know if the deep under-workings of what is going on are tied to the Academy, or if it's something you find out *outside* of the Academy. That would influence my answer. \[`1206`\]
 
 ---
-
-### **Session 1 Prep: The Player Hooks**
-
-Based on this specific conversation, here are the narrative levers you need to pull for Session 1:
-
-1. **Britt (The Unintentional Ace):** Sophie explicitly stated Britt is "unintentionally very, very good in class" \[`1205`\].
-
-   * *Session 1 Goal:* Give her a moment in the "Gen-Ed" scene where she answers a question correctly without trying, annoying the "Gold" NPCs (like [[Valentine Sterling|Val]] or [[Calculus Prime]]) who actually studied. This frees her up to snoop on the **Politics**.  
-2. **Lomi (The Process Guy):** Luke F is interested in the *mechanics* of the transition—"How do you get selected?" \[`1205`\].
-
-   * *Session 1 Goal:* Make the "Squad Assignment" and the "Captain Interviews" feel bureaucratic and weighty. He wants to see the gears of the institution turning.  
-3. **Iggy (The Data Hunter):** Holly is undecided on *where* the answers are (Inside vs. Outside) \[`1206`\].
-
-   * *Session 1 Goal:* Present two distinct mysteries. One internal (Why is the power flickering?) and one external (What are those weird ships?). See which one Iggy chases.

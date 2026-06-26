@@ -9,7 +9,20 @@ status: cleanup-complete
 
 ### Proposed canonical title
 - **Session 6: Potatoes and Peas**
+## Summary
 
+The group navigates the final days before the Reso Race, balancing reconnaissance, social maneuvering, and unexpected alliances. While Britt discovers a relic of the past and uncovers [Finch Gable](app://obsidian.md/Finch%20Gable)'s double-dealing, Iggy and Ignatius infiltrate Hangar 12. Ignatius strikes a deal with his cousin [ember](obsidian://open?file=characters%2Fnpcs%2Fember.md) to power the Shatter Stamper rig, while Iggy has a tense encounter with the mechanical-eyed [Warden Rovaldi](app://obsidian.md/Warden%20Rovaldi). The session culminates in the cafeteria, where the group secures a VIP invitation from [Valentine Sterling](app://obsidian.md/Valentine%20Sterling) to watch the race from his family's airship, despite the interference of his aggressive handlers.
+
+---
+
+## Key Developments
+
+- **The Surveyor's Relic:** [britt](obsidian://open?file=characters%2Fplayer-characters%2Fbritt.md) explored the outskirts of the city, recovering a [Surveyor's Compass](app://obsidian.md/Surveyor's%20Compass) from an abandoned Harmony Prime cache. The compass points toward Harmony Prime and bears the inscription: _"momentum is life always towards home."_
+- **Hangar Infiltration:** [iggy](obsidian://open?file=characters%2Fplayer-characters%2Figgy.md) and Ignatius sneaked into Hangar 12. Iggy was intercepted by [Warden Rovaldi](app://obsidian.md/Warden%20Rovaldi), the Chief of Guards, who revealed that a critical replacement node for Valerius Sterling’s team is being held in Bay 4.
+- **The Ironclad's Spark:** Ignatius reunited with his cousin [ember](obsidian://open?file=characters%2Fnpcs%2Fember.md) and used his Ash-Blood fire to pre-warm the engine of **The Ironclad**, the heavy crawler piloted by [Alistair "The Rook" Rookwood](app://obsidian.md/alistair-rook). In exchange, Ignatius secured a future favor from the modernizer Ash Reds faction.
+- **Potatoes and Peas:** In the cafeteria, the group found [Valentine Sterling](app://obsidian.md/Valentine%20Sterling) and his friend [jorge](obsidian://open?file=characters%2Fnpcs%2Fjorge.md) using vegetables to model the race track. Val admitted to feeling the weight of his family's legacy and the constant surveillance of his handlers, [Lyra Castellan](app://obsidian.md/Lyra%20Castellan) and [Ludo Castellan](app://obsidian.md/Ludo%20Castellan).
+- **The VIP Invite:** After [lomi](obsidian://open?file=characters%2Fplayer-characters%2Flomi.md) successfully blocked and distracted [Lyra Castellan](app://obsidian.md/Lyra%20Castellan), Val invited the group to join him on the Sterling family airship, the **Zephyr**, to watch the race from the VIP deck.
+- **Food Fight:** The encounter ended with [iggy](obsidian://open?file=characters%2Fplayer-characters%2Figgy.md) bonding with [pip](obsidian://open?file=characters%2Fnpcs%2Fpip.md) over food and successfully sniping [Lyra Castellan](app://obsidian.md/Lyra%20Castellan) in the head with a piece of toast.
 ### New NPCs
 - **[[Warden Rovaldi]]** — Chief of the Guards at the hangar. Wears a maroon turban and has a mechanical eye that rotates and scans different spectrums. (Introduced himself in-game as "Captain Raldi").
 - **[[Jorge]]** — Dragonkin first-year student and friend of Valentine Sterling who helped him model the Reso Race track with potatoes in the cafeteria.

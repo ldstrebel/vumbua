@@ -110,10 +110,6 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 - They both sense something is wrong
 - Shared mission: Save their people
 
-**GM Notes:**
-> [!NOTE]
-> Britt's suspicion is well-founded. The forest destruction is a tragedy in progress.
-
 ---
 
 ### Scene 4: Civilization
@@ -281,8 +277,7 @@ The players take the assessment (a meta-game survey).
 
 **GM Notes:**
 > [!NOTE]
-> Actual ranks: Britt and Iggy are Gold, Aggie and Ignatius are Silver, Lomi is Copper. This will be revealed in Session 1.
-
+> Actual ranks: Britt and Iggy are Gold, Aggie and Ignatius are Silver, Lomi is Copper. Never revealed formally as part of Vumbua process
 ---
 
 ## Session Outcomes
@@ -313,24 +308,6 @@ The players take the assessment (a meta-game survey).
 
 ---
 
-## Lore Updates
-
-- [x] Update [[Knowledge Tracker]] - Nothing new revealed to players
-- [x] Update [[Timeline]] - Intake Day added
-- [x] Create [[britt|Britt]] profile
-- [x] Create [[aggie|Aggie]] profile
-- [x] Create [[ignatius|Ignatius]] profile
-- [x] Create [[lomi|Lomi]] profile
-- [x] Create [[iggy|Iggy]] profile
-
----
-
-## GM Reflections
-
-### What Worked Well
-- Survey-based class assignment created organic party composition
-- Character introductions established distinct personalities
-- [[mizizi|Mizizi]] lore drop set up mystery effectively
 
 ### Future Plot Threads to Develop
 - [[britt|Britt]] and [[aggie|Aggie]]'s investigation into Harmony's true motives

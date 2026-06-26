@@ -165,9 +165,6 @@ Suddenly, [[Rill]] (from the Mizizi exchange) appears and grabs Zephyr.
 - [[Rill]] is Zephyr's handler/friend and knows [[aggie|Aggie]]/[[britt|Britt]] from her exchange year.
 - "Lava Boy" and "Lightning Girl" nicknames established.
 
-**GM Notes:**
-> [!NOTE]
-> Zephyr's display of power was clearly magical/elemental, not tech. Everyone (Sarge, Lomi, Iggy) recognized it as abnormal. Rill's quick intervention suggests she's keeping Zephyr on a short leash.
 
 ---
 
@@ -212,28 +209,9 @@ The group decides to keep the night going.
 - **[[Rill]]** confirmed as present at the Academy.
 - **[[Percy Vane-Smythe III]]** introduced the "Missing Clans" theory to the players.
 
-### Lore Updates
-- [x] Create/Update [[Percy Vane-Smythe III]]
-- [x] Create/Update [[Zephyr]] (Lightning Girl)
-- [x] Create/Update [[Lucky]]
-- [x] Create/Update [[lavsidian]] (Iggy's term for fuel rocks)
-- [x] Update [[ash-blood-isles|Ash-Blood Isles]] with "Great Cooling" history
-- [x] Update [[mizizi|Mizizi]] with death philosophy
-
 ### Cliffhangers
 - The party is heading to the **[[Celestial Lounge|Celestial Lounge]]**.
 - **Zephyr's** true nature is a mystery.
 - **Rill** asked the group to find her "after class tomorrow."
 
 ---
-
-## GM Reflections
-
-### What Worked Well
-- The contrast between the high-society setting and Lomi's "boiler room" energy.
-- The "Campfire chat" naturally exposing deep lore differences (Death/Heat).
-- Zephyr's introduction was explosive (literally) and memorable.
-
-### Adjustments for Next Time
-- Ensure the transition to the Celestial Lounge allows for distinct social encounters.
-- Follow up on the "Missing Clans" theory—Percy is a goof, but he's right.

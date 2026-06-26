@@ -74,6 +74,15 @@ Got Silver rank. When Britt got special attention at the checkpoint for her Gold
 ### Session 2 — The Bonfire
 Serra Vox's approach was unsettling — being studied as an anthropological curiosity isn't comfortable. Rill's recognition felt different — warmer, more familiar. The invitation to visit after class is the first real lead. The bonfire exposed how much bigger this world is than the forest. The quest remains: observe, learn, find the truth.
 
+### Session 4.5 — Anchoring & Spurious Sightings
+In Reality Anchoring class, Aggie pursued Professor Silas Thorne to learn about the "dead island" phenomenon. Later, she spotted Valentine Sterling entering Sterling Hall under the heavy guard of the Castellan twins, confirming the family's intense surveillance of their heir.
+
+### Session 5 — The Study Group
+Aggie formed a study group with Pip and Bramble to prepare for the upcoming written exams, finding comfort in academic preparation while collecting insights about other student candidates.
+
+### Session 6 — Courtyard & The Airship Ticket
+Aggie studied in the courtyard with Pip and Bramble. Later, in the cafeteria, she accompanied Britt to approach Valentine Sterling. They successfully secured VIP passes to the family airship Zephyr for the group, opening a new avenue to study and witness the Reso Race from the skies.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
@@ -92,7 +101,19 @@ Serra Vox's approach was unsettling — being studied as an anthropological curi
 
 ### [[session-02|Session 2]] — The Bonfire
 - [[Serra Vox]] approached her and [[Britt]] at the [[Block 99]] bonfire
-- [[Rill]] recognized her and [[Britt]]; invited them to visit after class tomorrow
+- [[Rill]] recognized her and [[Aggie]]; invited them to visit after class tomorrow
+
+### [[s4.5-clean|Session 4.5]] — Reality Anchors & Dead Pigs
+- Met Pip, Kael, and Saffron.
+- Attended Reality Anchoring class with Professor Silas Thorne, pursuing him to learn of the "dead island" vacuum.
+- Spotted Valentine Sterling entering Sterling Hall under the watch of the Castellan twins.
+
+### [[s5-clean|Session 5]] — Cards on the Table
+- Formed a mid-week study group with Pip and Bramble to study for the upcoming exams.
+
+### [[s6-clean|Session 6]] — Potatoes and Peas
+- Studied in the courtyard of Block 04 with Pip and Bramble, witnessing Bramble smoothing the grass and Pip jumping on it.
+- Accompanied Britt in approaching Valentine and Jorge in the cafeteria, securing VIP airship deck passes for the party.
 
 ## Relationships
 

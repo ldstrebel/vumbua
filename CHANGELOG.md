@@ -4,6 +4,11 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ---
 
+## 2026-06-21
+
+- **Quest Trackers & Session Appearances Update**: Updated the `Quest Tracker` and `Session Appearances` sections in all 5 player character profiles to incorporate their Session 6 events and fill in historical session gaps (Sessions 3, 4, 4.5, 5). → `characters/player-characters/{ignatius.md, lomi.md, iggy.md, britt.md, aggie.md}`, `.agent/workflows/lore-index.md`
+- **Ignatius's Hangar Detour Catchup**: Integrated Ignatius's hangar detour adventure into the clean transcript of Session 6 and updated all down-stream campaign trackers, NPCs, timelines, and index files. Rebuilt the full Codex JSON for Foundry VTT. → `sessions/transcripts/clean/s6-clean.md`, `sessions/index.md`, `timeline.md`, `knowledge-tracker.md`, `characters/index.md`, `characters/npcs/ember.md`, `characters/npcs/alistair-rook.md`, `.agent/workflows/lore-index.md`, `meta/foundry-exports/vumbua-codex.json`
+
 ## 2026-06-19
 
 - **Surveyor Agent Protocols & Daggerheart integration**: Created the surveyor protocols workflow for building Daggerheart choice/dice surveys with GM preconditions check-ins, Stress, Hope/Fear, and Tier 1 loot tracking. Added references in human-instructions. → `.agent/workflows/surveyor-protocols.md`, `.agent/workflows/human-instructions.md`
