@@ -23,7 +23,7 @@
 - Industrial district within [[Vumbua Academy]] campus
 - Site of the student bonfire during intake week ([[session-02|Session 2]])
 - Contains a geothermal plant repurposed as student gathering space
-- Residents: [[Lomi]], [[Ratchet]], [[Soot]]
+- Residents: [[loami]], [[Ratchet]], [[Soot]]
 
 **[[The Bleed]]** (Dissolution)
 - The edge of the map where reality pixelates and fades
@@ -54,13 +54,13 @@
 
 **[[Iron-Union|Diamond Union]]**
 - Boiler room workers' union/guild
-- [[Lomi|Lomi Sultano]] is a proud member
+- [[loami|Loami Sultano]] is a proud member
 - Related to or subset of the [[Iron-Union]]
 
 ## E
 
 **[[Ember]]** (NPC)
-- Ash-Blood student, [[Ignatius]]'s childhood cousin
+- Ash-Blood student, [[ignatious]]'s childhood cousin
 - Modernizer who embraces Harmony's "clean" crystal battery energy
 - Refuses to touch organic fire
 - Represents the younger generation that sees integration as liberation
@@ -154,7 +154,7 @@
 - Has a "halflife" oscillation---heat tapers off then rises again
 - Loses some potency with distance from [[Ash-Blood Isles|Ash-Blood isle]]
 - Used in the boiler room alongside crystal batteries
-- Named by [[Ignatius]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 5)*
+- Named by [[ignatious]] in [[session-02|Session 2]] (lava + obsidian) *(Scene 5)*
 
 **The Loom**
 - An ancient, trusted conduit located in the [[Walker-Core]]
@@ -280,7 +280,7 @@
 **Silver** (Argent)
 - Second-tier rank - 24% of students
 - Professional workforce
-- [[Aggie]] and [[Ignatius]] are Silver
+- [[Aggie]] and [[ignatious]] are Silver
 
 **The Silent Era**
 - 80 years of no new Node discoveries
@@ -308,7 +308,7 @@
 
 **True Flame**
 - Natural fire that consumes oxygen (orange-colored)
-- What [[Ignatius]] uses despite Harmony's preference
+- What [[ignatious]] uses despite Harmony's preference
 - Casts dancing shadows, has spiritual significance
 
 ## U
@@ -358,7 +358,7 @@
 - Caused a **massive purple lightning bolt** from a clear sky at the [[session-02|Session 2]] bonfire *(Scene 4: The Lightning)*
 - Completely unharmed by her own lightning
 - Managed by [[Rill]] on the Dean's behalf
-- [[Ignatius]] called her "Lightning Girl"; she called him "Lava Boy" via [[Rill]]
+- [[ignatious]] called her "Lightning Girl"; she called him "Lava Boy" via [[Rill]]
 
 ## Locations
 

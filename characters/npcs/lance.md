@@ -15,7 +15,7 @@ tags:
 | **First Appearance** | [[session-01\|Session 1]] |
 
 ## Overview
-A Harmony native student, described as "Bridgerton-esque." He greeted [[Ignatius]] cordially but with the somewhat condescending politeness of the upper class.
+A Harmony native student, described as "Bridgerton-esque." He greeted [[ignatious]] cordially but with the somewhat condescending politeness of the upper class.
 
 ## Personality
 - **Charming, Polished:** Represents the idealized, if slightly vapid, face of Harmony youth.
@@ -23,4 +23,4 @@ A Harmony native student, described as "Bridgerton-esque." He greeted [[Ignatius
 
 ## Source References
 
-- **[[session-01|Session 1]]** — Greeted [[Ignatius]] cordially after the intake exam; recognized him as an [[Ash-Bloods|Ash-Blood]] *(Scene 8: The Punch Cards)*
+- **[[session-01|Session 1]]** — Greeted [[ignatious]] cordially after the intake exam; recognized him as an [[Ash-Bloods|Ash-Blood]] *(Scene 8: The Punch Cards)*

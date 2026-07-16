@@ -184,6 +184,10 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false,
+      "handwritten-notes:Create empty handwritten note": false,
+      "copilot:Open Copilot Chat": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,

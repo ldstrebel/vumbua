@@ -138,8 +138,8 @@ When isolated, Nodes are weak and slowly fade. When properly integrated through 
 - The Loom assigns ranks via typewriter system
 - **Party forms:**
   - Britt & Aggie (Mizizi cousins) - suspicious of Harmony
-  - Ignatius (Ash-Blood) - on pilgrimage for new heat
-  - Lomi (Harmony-born) - boiler room worker
+  - ignatious (Ash-Blood) - on pilgrimage for new heat
+  - Loami (Harmony-born) - boiler room worker
   - Iggy (disguised Trench-Kin) - infiltrator seeking answers
 - Dean Isolde welcomes class
 - Bonfire gathering at Block 99
@@ -390,7 +390,7 @@ Harmony is not a single bloodline but a coalition of **Great Houses** and **Guil
 **The Boiler Room:** Ash-Bloods beg for boiler shifts—only place hot enough to feel like home. Vumbua retrofitted port engine for Direct Obsidian Transfer (300% more efficient).
 
 **Known Ash-Bloods:**
-- Ignatius (PC) - On pilgrimage to find new heat
+- ignatious (PC) - On pilgrimage to find new heat
 - Lady Ignis - Representative on Harmony's High Council (Harmony Prime)
 - Kindle - Student desperately trying to fit in with Legacy Kids
 
@@ -400,7 +400,7 @@ Harmony is not a single bloodline but a coalition of **Great Houses** and **Guil
 > **GM ONLY**: 18 months ago, Ash-Bloods insulted Trench-Kin by dropping an Obsidian Tablet instead of sending Exchange bride. Tablet read: "The Heat has returned. We need nothing from the Dark." This triggered Iggy's infiltration to the surface.
 
 > [!CAUTION]
-> **GM ONLY**: Ash-Blood heat is a Resonance Chamber that amplifies when near other Nodes. Integration itself is the "new heat" Ignatius seeks—he just doesn't realize it yet.
+> **GM ONLY**: Ash-Blood heat is a Resonance Chamber that amplifies when near other Nodes. Integration itself is the "new heat" ignatious seeks—he just doesn't realize it yet.
 
 ---
 
@@ -732,7 +732,7 @@ The six clans were once one ancient Empire that fell 10,000 years ago. They are 
 
 **Rill:** Actually Wadi (River Clan), not Mizizi. Entered forest as exchange member 6 years ago. Researching if forest destruction is necessary.
 
-**Ignatius:** Genuinely believes he's seeking "new heat" for his clan. Doesn't realize integration itself IS the answer—his clan doesn't need external fire; they need to be part of a larger network.
+**ignatious:** Genuinely believes he's seeking "new heat" for his clan. Doesn't realize integration itself IS the answer—his clan doesn't need external fire; they need to be part of a larger network.
 
 ---
 

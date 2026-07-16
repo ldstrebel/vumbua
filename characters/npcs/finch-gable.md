@@ -36,12 +36,12 @@ Finch is a lanky, perpetual-motion machine of a student. He's Harmony-born, rais
 ## Background
 Finch comes from a family of loadmasters and quartermasters within the Syndicate of Sails. He spent his childhood calculating load balances for merchant airships. To him, the Academy's "No-Win" logistics scenarios aren't theoretical — they resemble the dinner table arguments his parents used to have about shipping margins. 
 
-He ended up sitting next to [[Lomi]] during the brutal first-week *Aetheric Ballistics & Logistics* class. Where others struggle with the crushing weight of the calculations, Finch thrives. Instead of helping, Finch refused to let Lomi copy his notes, citing that he didn't want to get "chalk dust" on himself from Lomi's friends. This establishes him as an early academic rival.
+He ended up sitting next to [[loami]] during the brutal first-week *Aetheric Ballistics & Logistics* class. Where others struggle with the crushing weight of the calculations, Finch thrives. Instead of helping, Finch refused to let Loami copy his notes, citing that he didn't want to get "chalk dust" on himself from Loami's friends. This establishes him as an early academic rival.
 
 ## Session Appearances
 ### Session 4
-- Sits next to [[Lomi]] during the first-week montage in the *Aetheric Ballistics & Logistics* lecture.
-- Rebuffs Lomi's attempt to copy his notes after Ignatius is hit in the head with chalk. Promises to sit in a different row tomorrow to avoid them.
+- Sits next to [[loami]] during the first-week montage in the *Aetheric Ballistics & Logistics* lecture.
+- Rebuffs Loami's attempt to copy his notes after ignatious is hit in the head with chalk. Promises to sit in a different row tomorrow to avoid them.
 
 ### Session 6
 - **The Alleyway Trade:** Spotted by [[Britt]] in a side alley outside the city, whispering to an Indigo Turban enforcer. Finch tried to trade information/secrets about [[Valerius Sterling]] in exchange for access to the hangar bay so he could spy on what the second-years are building for the Reso Race.
@@ -49,7 +49,7 @@ He ended up sitting next to [[Lomi]] during the brutal first-week *Aetheric Ball
 ## Relationships
 | Character | Relationship |
 |-----------|-------------|
-| **[[Lomi]]** | A one-sided academic rival. Lomi tried to get notes from him, but Finch brutally rejected him, calling him out for associating with "ignoramuses." |
+| **[[loami]]** | A one-sided academic rival. Loami tried to get notes from him, but Finch brutally rejected him, calling him out for associating with "ignoramuses." |
 | **Instructor Hallow** | Finch considers Hallow's complex atmospheric math problems to be "light puzzles." Hallow likely finds him both a star pupil and incredibly irritating. |
 
 ---

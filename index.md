@@ -17,8 +17,8 @@ The Academy has accepted its largest intake class ever: 100,000 candidates. Most
 Our story follows five unlikely students:
 - **[[Britt]]** - A gray fungal-turtle [[Mizizi]], suspicious of Harmony's motives
 - **[[Aggie]]** - [[Britt]]'s cousin, a red-spotted [[Mizizi]] seeking answers
-- **[[Ignatius]]** - An Ash-Blood on a pilgrimage to find new heat for his clan
-- **[[Lomi]]** - A Harmony-born boiler room worker, proud of his craft
+- **[[ignatious]]** - An Ash-Blood on a pilgrimage to find new heat for his clan
+- **[[loami]]** - A Harmony-born boiler room worker, proud of his craft
 - **[[Iggy]]** - A mysterious [[Trench-Kin|Earthkin]] tinkerer with endless curiosity
 
 ---
@@ -60,7 +60,7 @@ Read scene-by-scene recaps of our adventures.
 
 #### The Clans
 - [[Mizizi|Mizizi (Root-Kin)]] - Fungal-turtle archivists ([[Britt]] & [[Aggie]]'s clan)
-- [[Ash-Bloods]] - Volcanic forge-keepers ([[Ignatius]]'s clan)
+- [[Ash-Bloods]] - Volcanic forge-keepers ([[ignatious]]'s clan)
 - [[Trench-Kin]] - Deep-earth dwellers ([[Iggy]]'s secret origin)
 - [[Renali|Renali (Air Clan)]] - Sky riders on Air-Bees
 - [[Wadi|Wadi (River Clan)]] - Desert water-keepers ([[Rill]]'s secret origin)

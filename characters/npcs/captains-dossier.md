@@ -63,7 +63,7 @@
 ### ***3\. Ignis "Scorch" (The Daredevil)***
 
 * ***The Pitch:** "We are going to run the engine at 120% until it melts or we win."*  
-* ***The Secret:** His engine is melting. He needs an Elemental (Ignatius) or a Mechanic (Loami) to physically hold it together during the climb.*  
+* ***The Secret:** His engine is melting. He needs an Elemental (ignatious) or a Mechanic (Loami) to physically hold it together during the climb.*  
 * ***The Risk:** High probability of explosion. High probability of glory.*
 
 ### ***4\. Elara Thorne (The Saint)***
@@ -115,7 +115,7 @@
 
 * ***Valentine** won't take Loami (Copper).*  
 * ***Ghost** thinks Britt is too loud.*  
-* ***Ink** loves Iggy but fears Ignatius will burn his specimens.*  
+* ***Ink** loves Iggy but fears ignatious will burn his specimens.*  
 * ***Silas** will take anyone, but offers no prestige.*
 
 *This forces the players to leverage their connections to get the whole squad hired by a "Good" captain, or settle for the "Bad" one.*

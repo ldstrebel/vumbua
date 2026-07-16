@@ -30,15 +30,15 @@ At the Block 99 bonfire, Serra approached [[Britt]] and [[Aggie]] with aggressiv
 
 When [[Britt]] tried to charm her for more info (Failure with Fear), Serra shut down and deflected.
 
-Later, she explained the **Inverse Power Doctrine** to [[Ignatius]]: Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."* She revealed that [[Lady Ignis]] holds the most political power in Harmony because of this rule.
+Later, she explained the **Inverse Power Doctrine** to [[ignatious]]: Harmony grants the newest integrated member the highest voting power to prevent exploitation. *"The least of us should become the most of us."* She revealed that [[Lady Ignis]] holds the most political power in Harmony because of this rule.
 
-She also noted that every discovered place has a "purpose" except the [[Mizizi]] forest, which puzzles scholars. She took frantic notes when [[Ignatius]] explained Ash-Blood physiology (heat release via burning hotter, not sweating).
+She also noted that every discovered place has a "purpose" except the [[Mizizi]] forest, which puzzles scholars. She took frantic notes when [[ignatious]] explained Ash-Blood physiology (heat release via burning hotter, not sweating).
 
 Key slip-ups in Session 2:
 - Admitted to spending time in The Seat under "political pressure"
 - Knew detailed political doctrine (unusual for a small-town girl)
 - Called it "unfortunate" that she'd been to the capital
-- Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[Ignatius]] *(Scene 6)*
+- Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[ignatious]] *(Scene 6)*
 
 ## Personality
 - **Public Persona (Serra Vox):** Eager, nervous, and fascinated by the Clans (almost to the point of fetishization). She asks slightly inappropriate questions but means well.
@@ -53,7 +53,7 @@ Key slip-ups in Session 2:
 | Character | Relationship |
 |-----------|-------------|
 | **[[Valentine Sterling]]** | Her prospective squadmate. He knows her secret and protects it, but finds her fascination with the "Uncalibrated" clans dangerous. |
-| **[[Ignatius]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
+| **[[ignatious]]** | Skeptical of her "ally" persona ("I don't trust this b*tch"). |
 | **[[Cassius Thorne]]** | He has a crush on her; she seems oblivious. |
 | **[[Britt]]/[[Aggie]]** | Genuinely fascinated by them but made them uncomfortable with too many questions. |
 | **[[Rill]]** | Identified [[Rill]] as the person who pulled [[Dean Isolde Vane\|the Dean]] off stage. Called her "one of the greatest inventors in our age." |
@@ -61,7 +61,7 @@ Key slip-ups in Session 2:
 ## Source References
 
 - **[[session-02|Session 2]]** — Approached [[Britt]] and [[Aggie]] at the [[Block 99]] bonfire *(Scene 3: First Contact — Serra Vox)*
-- **[[session-02|Session 2]]** — Explained the [[Inverse Power Doctrine]] to [[Ignatius]] *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — Explained the [[Inverse Power Doctrine]] to [[ignatious]] *(Scene 6: Ash-Blood Politics)*
 - **[[session-02|Session 2]]** — Noted the [[Mizizi Petrified Forest\|Mizizi forest]] has no clear "purpose" *(Scene 5: Philosophy of Death)*
 - **[[session-02|Session 2]]** — Slipped about time at [[Harmony Prime\|The Seat]] under "political pressure" *(Scene 3)*
-- **[[session-02|Session 2]]** — Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[Ignatius]] *(Scene 6)*
+- **[[session-02|Session 2]]** — Took frantic notes on [[Ash-Bloods\|Ash-Blood]] physiology from [[ignatious]] *(Scene 6)*

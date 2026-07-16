@@ -41,9 +41,9 @@
     ],
     "id": "ignatious-catchup",
     "system": "Daggerheart v1.6",
-    "description": "An async choose-your-own-adventure for Ignatius to bridge the gap after Hangar 12 and learn about Team 1: Shatter Stamper before the race.",
-    "title": "Ignatius's Hangar Detour",
-    "name": "Ignatius's Hangar Detour",
+    "description": "An async choose-your-own-adventure for ignatious to bridge the gap after Hangar 12 and learn about Team 1: Shatter Stamper before the race.",
+    "title": "ignatious's Hangar Detour",
+    "name": "ignatious's Hangar Detour",
     "ranking_system": []
   },
   "nodes": [
@@ -331,7 +331,7 @@
           },
           {
             "type": "text",
-            "content": "Your childhood cousin looks relieved. 'Ignatius! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'"
+            "content": "Your childhood cousin looks relieved. 'ignatious! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'"
           }
         ],
         "ports": [
@@ -372,7 +372,7 @@
           },
           {
             "type": "text",
-            "content": "She spots you wincing. 'Ignatius! Get in here, quick! I saw those guards clip you with a pike. Keep your head down—we have to hide before they double back. And I need your help right now—it's about Valerius's team.'"
+            "content": "She spots you wincing. 'ignatious! Get in here, quick! I saw those guards clip you with a pike. Keep your head down—we have to hide before they double back. And I need your help right now—it's about Valerius's team.'"
           }
         ],
         "ports": [
@@ -494,7 +494,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "The shouts fade into distant corridors. You completely lose track of where Iggy ended up. Ember gets more persistent, blocking your path. 'He's gone, Ignatius! And the guards are doubling back. If we don't move now, we both get locked in cells!'"
+            "content": "The shouts fade into distant corridors. You completely lose track of where Iggy ended up. Ember gets more persistent, blocking your path. 'He's gone, ignatious! And the guards are doubling back. If we don't move now, we both get locked in cells!'"
           }
         ],
         "ports": [
@@ -833,7 +833,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "Ember spits on her palm, her skin sparking. 'A favor. Traditional style. I accept, Ignatius. Just don't let this rig stall!' You gained a future favor!"
+            "content": "Ember spits on her palm, her skin sparking. 'A favor. Traditional style. I accept, ignatious. Just don't let this rig stall!' You gained a future favor!"
           }
         ],
         "ports": [
@@ -865,7 +865,7 @@
         "blocks": [
           {
             "type": "text",
-            "content": "Ember shakes her head sharply. 'No time for bargaining, Ignatius! We either do this now, or I find someone else. Do you want to help your clan's standing or not?'"
+            "content": "Ember shakes her head sharply. 'No time for bargaining, ignatious! We either do this now, or I find someone else. Do you want to help your clan's standing or not?'"
           }
         ],
         "ports": [
@@ -906,7 +906,15 @@
             "content": "You refuse to work without a deal. Ember looks disappointed and turns back to her crew: 'Fine, get the secondary cells! We'll have to run it cold.' You slip out of the hangar empty-handed."
           }
         ],
-        "ports": []
+        "ports": [
+          {
+            "id": "refuse_to_wait",
+            "text": "Complete Detour",
+            "subtext": "Rest and await Session 7.",
+            "nextId": "wait_node",
+            "scores": {}
+          }
+        ]
       }
     },
     {
@@ -1348,7 +1356,7 @@
           },
           {
             "type": "text",
-            "content": "Congratulations! You completed Ignatius's catchup detour. Your choices and rolls have been saved to the database. Tell your GM what you did!\n\n**Based on your choices, you have earned:**\n\n-   **Loot:** {{LOOT}}\n-   **Experiences:** {{EXPERIENCES}}\n-   **Clues:** {{CLUES}}\n-   **Stress:** {{STRESS}}"
+            "content": "Congratulations! You completed ignatious's catchup detour. Your choices and rolls have been saved to the database. Tell your GM what you did!\n\n**Based on your choices, you have earned:**\n\n-   **Loot:** {{LOOT}}\n-   **Experiences:** {{EXPERIENCES}}\n-   **Clues:** {{CLUES}}\n-   **Stress:** {{STRESS}}"
           }
         ],
         "ports": [
@@ -1951,6 +1959,17 @@
       "id": "e-end-to-wait",
       "source": "q9_end_catchup",
       "sourceHandle": "end_to_wait",
+      "target": "wait_node",
+      "animated": true,
+      "style": {
+        "strokeWidth": 2,
+        "stroke": "#fff"
+      }
+    },
+    {
+      "id": "e-refuse-to-wait",
+      "source": "q7_refuse_end",
+      "sourceHandle": "refuse_to_wait",
       "target": "wait_node",
       "animated": true,
       "style": {

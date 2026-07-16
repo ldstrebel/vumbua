@@ -25,6 +25,10 @@ Member of Squad 09 (The Ablative). Lovable, loyal, and hardy---the heart of his 
 - Races using a **Griffin** (biological vehicle), which is currently nerfed by the rules
 - Has the lowest odds of winning
 
+### Session 7
+- **Won the first Reszo Race of the season.** Capitalized on three adjacent nodes in the volcanic flat, accumulating resonance faster than any other racer. Beat Sail and Stun to the Grand Resonator at the center spire, striking it just in time. Fireworks erupted from the center as the crowd cheered.
+- Pip approved of Pudge's Griffin despite "not really liking the guy riding it."
+
 ## Personality
 - Lovable, loyal, perhaps a bit clumsy but hardy
 - The heart of the "Ablative" squad

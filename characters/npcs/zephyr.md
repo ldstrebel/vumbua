@@ -16,7 +16,7 @@ tags:
 
 | | |
 |---|---|
-| **Aliases** | Lightning Girl ([[Ignatius]]'s nickname) |
+| **Aliases** | Lightning Girl ([[ignatious]]'s nickname) |
 | **Role** | Unknown — managed by [[Rill]]/[[Dean Isolde Vane\|the Dean]] |
 | **Race** | Unknown (Storm-Kin? [[Renali]]?) |
 | **Affiliation** | [[Vumbua Academy]], [[Dean Isolde Vane\|Dean Vane]]'s inner circle |
@@ -30,9 +30,9 @@ Zephyr is a chaotic, fun-loving girl with platinum hair who doesn't understand w
 ## Session 2 Appearance
 At the Block 99 bonfire, Zephyr was part of the Speculators' Debate where she dismissed pattern-seeking: *"Or maybe the world is just broken. Not everything needs to be a pattern."*
 
-When [[Lomi]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediately. On her second attempt to spit it into the fire, she turned purple, her hair stood up with static electricity, and she simultaneously spit grease into the fire AND summoned a **massive purple lightning bolt** from the clear sky that struck her. She was completely unharmed.
+When [[loami]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediately. On her second attempt to spit it into the fire, she turned purple, her hair stood up with static electricity, and she simultaneously spit grease into the fire AND summoned a **massive purple lightning bolt** from the clear sky that struck her. She was completely unharmed.
 
-[[Rill]] appeared immediately and dragged her away, bribing her with hot chocolate. [[Ignatius]] yelled to ask her name. Rill called back: *"Her name is Zephyr, [[Ignatius|Lava Boy]]."*
+[[Rill]] appeared immediately and dragged her away, bribing her with hot chocolate. [[ignatious]] yelled to ask her name. Rill called back: *"Her name is Zephyr, [[ignatious|Lava Boy]]."*
 
 ## Personality
 - Chaotic and impulsive---does things because they seem fun
@@ -60,7 +60,7 @@ When [[Lomi]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediatel
 | Character | Relationship |
 |-----------|-------------|
 | **[[Rill]]** | Manages her on behalf of the Dean. Can bribe her with hot chocolate. |
-| **[[Ignatius]]** | Called him "[[Ignatius|Lava Boy]]"; he called her "Lightning Girl." Mutual nicknames established. |
+| **[[ignatious]]** | Called him "[[ignatious|Lava Boy]]"; he called her "Lightning Girl." Mutual nicknames established. |
 | **[[Dean Isolde Vane\|The Dean]]** | Zephyr finds the questioning sessions boring but likes the Dean personally. |
 
 ## Source References
@@ -68,4 +68,4 @@ When [[Lomi]] brought Engine Grease (moonshine), Zephyr grabbed a jar immediatel
 - **[[session-02|Session 2]]** — Participated in the Speculators' Debate at the [[Block 99]] bonfire *(Scene 1: The Bonfire Theories)*
 - **[[session-02|Session 2]]** — Dismissed pattern-seeking: *"Or maybe the world is just broken"* *(Scene 1)*
 - **[[session-02|Session 2]]** — Purple lightning bolt from a clear sky after drinking Engine Grease *(Scene 4: The Lightning)*
-- **[[session-02|Session 2]]** — [[Rill]] retrieved her; [[Ignatius]] asked her name *(Scene 4)*
+- **[[session-02|Session 2]]** — [[Rill]] retrieved her; [[ignatious]] asked her name *(Scene 4)*

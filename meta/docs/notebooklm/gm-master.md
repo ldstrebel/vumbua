@@ -176,7 +176,7 @@
 
 **Plot Implications:**
 - Ash-Bloods don't know they triggered infiltration
-- Ignatius doesn't know he's why Iggy is here
+- ignatious doesn't know he's why Iggy is here
 - Trench-Kin represent Resources (The Miners) in Shattered Circuit
 - Integration would complete another piece of the puzzle
 
@@ -245,7 +245,7 @@
 
 ---
 
-### Ignatius (PC): The Irony of His Quest
+### ignatious (PC): The Irony of His Quest
 
 **What He Believes:** He's on pilgrimage to find "new heat" for his clan. The elders sent him on trial of adventure/banishment.
 
@@ -258,7 +258,7 @@
 
 **The Revelation:** The answer he seeks is the process he's living through. Every successful integration makes Ash-Bloods stronger.
 
-**Dramatic Irony:** Ignatius questions Integration while unknowingly experiencing its benefits. His skin is brighter than elders' was at his age—proof the system works.
+**Dramatic Irony:** ignatious questions Integration while unknowingly experiencing its benefits. His skin is brighter than elders' was at his age—proof the system works.
 
 ---
 
@@ -427,9 +427,9 @@
 **Why This Party Matters:**
 - Britt (Gold): Flag variant, Savant potential, Mizizi perspective
 - Iggy (Gold): Flagged variant, Trench-Kin bridge (unknowingly)
-- Ignatius (Silver): Ash-Blood experiencing integration benefits firsthand
+- ignatious (Silver): Ash-Blood experiencing integration benefits firsthand
 - Aggie (Silver): Diplomatic Mizizi, potential peace-maker
-- Lomi (Copper): Harmony native, represents Iron-Union workers
+- Loami (Copper): Harmony native, represents Iron-Union workers
 
 **The Loom's Calculations:**
 - Gold ranks aren't random—variance matters
@@ -457,12 +457,12 @@
 - Path B: Tragic figure caught between worlds
 - Path C: Catalyst for Trench-Kin integration
 
-**Ignatius's Arc:** From naive idealist to... ?
+**ignatious's Arc:** From naive idealist to... ?
 - Path A: Understands integration = "new heat"
 - Path B: Lady Ignis's successor (political path)
 - Path C: Disillusioned rebel against both sides
 
-**Lomi's Arc:** From Copper worker to... ?
+**Loami's Arc:** From Copper worker to... ?
 - Path A: Explorer (achieves dream)
 - Path B: Iron-Union advocate (worker rights)
 - Path C: Tech genius solving Integration Equation
@@ -616,7 +616,7 @@
 - NPCs: Ratchet (mechanic), Kindle (Ash-Blood student), Sarge (veteran)
 - Lore: Ash-Bloods beg for boiler shifts (feels like home), Direct Obsidian Transfer system
 - Mystery: Is something wrong with the Obsidian feed? Or Ash-Blood ritual Harmony doesn't understand?
-- Connections: Lomi's family might work here (worker perspective), Ignatius could translate cultural context
+- Connections: Loami's family might work here (worker perspective), ignatious could translate cultural context
 
 **Your Follow-Up Prompts:**
 - "What would Ratchet's reaction be if he thinks party is spying?"
@@ -670,11 +670,11 @@
 | Clan | Element | Role | Status | PC/NPC |
 |------|---------|------|--------|--------|
 | **Mizizi** | Memory | Archivists | 15% Integrated | Britt (PC), Aggie (PC) |
-| **Ash-Bloods** | Power | Engines | 100% Integrated | Ignatius (PC), Kindle (NPC) |
+| **Ash-Bloods** | Power | Engines | 100% Integrated | ignatious (PC), Kindle (NPC) |
 | **Trench-Kin** | Resources | Miners | 0% (Uncontacted) | Iggy (PC, secret) |
 | **Renali** | Vision | Architects | 0% (Scouts only) | Zephyr (NPC) |
 | **Wadi** | Life | Sustainers | 0% (Known) | Rill (NPC, secret) |
-| **Harmony** | Direction | Navigators | - | Lomi (PC), most NPCs |
+| **Harmony** | Direction | Navigators | - | Loami (PC), most NPCs |
 
 ---
 

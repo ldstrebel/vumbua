@@ -58,23 +58,23 @@ Ash-Bloods aren't forced to work in Vumbua's boiler rooms—they **beg** for the
 
 Harmony retrofitted the entire port engine to run on **Direct Obsidian Transfer** instead of generic energy cores. It's 300% more efficient, and the Ash-Bloods take immense pride in being the literal heartbeat of the city.
 
-[[ignatius|Ignatius]] likely worked these same boilers during construction.
+[[ignatious|ignatious]] likely worked these same boilers during construction.
 
 ### The Cultural Divide (Session 2)
 
 Integration has split the Ash-Bloods into two ideological camps:
 
-**Traditionalists** (e.g. [[ignatius|Ignatius]]):
+**Traditionalists** (e.g. [[ignatious|ignatious]]):
 - Fire and volcanic heritage are sacred, non-negotiable
 - Ash-Bloods should find new sources of lavsidian and master their own element
 - Harmony's crystal batteries are useful tools, not replacements for true fire
-- Ignatius's personal quest: *"I want to find the heart of the volcano"*
+- ignatious's personal quest: *"I want to find the heart of the volcano"*
 
 **Modernizers** (e.g. [[Ember]]):
 - Embrace Harmony's "clean" crystal battery energy
 - Refuse to touch organic fire---see it as outdated and dangerous
 - View integration as liberation from the harsh volcanic lifestyle
-- [[Ember]] (Ignatius's childhood cousin) is excited to never touch fire again
+- [[Ember]] (ignatious's childhood cousin) is excited to never touch fire again
 
 This tension extends beyond personal preference---it's about whether the Ash-Bloods retain their identity or assimilate into Harmony.
 
@@ -84,27 +84,27 @@ This tension extends beyond personal preference---it's about whether the Ash-Blo
 - Their clothing is designed to withstand extreme heat; lavsidian doesn't burn through it
 - They were going through a **"Great Cooling"** (volcanoes dying) before Harmony found them
 - Integration revived the heat---but the mechanism isn't fully understood
-- Ignatius carries a piece of lavsidian (obsidian-like heat stone) in his pocket
+- ignatious carries a piece of lavsidian (obsidian-like heat stone) in his pocket
 
 ### Known Ash-Bloods
 
-- **[[ignatius|Ignatius]]** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
-- **[[Ember]]** - Ignatius's childhood cousin, modernizer who rejects traditional fire
+- **[[ignatious|ignatious]]** - Student on a "pilgrimage" to find new heat for his clan (traditionalist)
+- **[[Ember]]** - ignatious's childhood cousin, modernizer who rejects traditional fire
 - **[[Lady Ignis]]** - Matriarch, holds highest voting power in Harmony via [[Inverse Power Doctrine]]
-- **"The Chad Student"** - Met Ignatius at intake, suspicious of soot
+- **"The Chad Student"** - Met ignatious at intake, suspicious of soot
 - ~200 Ash-Bloods at the Academy among 70,000 students
 
 ### Source References
 
 - **[[session-00|Session 0]]** — [[ash-blood-isles|Ash-Blood Isles]] discovery by Captain Elara Thorne; [[valentine-sterling-sr|Valentine Sterling Sr.]] found [[Mizizi]] one week prior *(background lore)*
-- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatius|Ignatius]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
+- **[[session-02|Session 2]]** — Cultural divide between traditionalists ([[ignatious|ignatious]]) and modernizers ([[Ember]]) *(Scene 3: Cultural Exchange)*
 - **[[session-02|Session 2]]** — [[Serra Vox]] explained [[Inverse Power Doctrine]] and [[Lady Ignis]]'s role *(Scene 3)*
 - **[[session-02|Session 2]]** — Ash-Blood physiology: heat release via burning hotter, lavsidian properties *(Scene 3)*
 - **[[session-02.5|Session 2.5]]** — [[Professor Kante]] identified the Ash-Blood Anomaly: integration produced only ~20 amp increase *(Scene 4)*
 
 ### Cultural Notes
 
-- They clean themselves regularly (Ignatius's constant soot is from travel, not culture)
+- They clean themselves regularly (ignatious's constant soot is from travel, not culture)
 - True Flame (orange, consuming oxygen) is sacred
 - Safe-Flame (teal, stable) is considered "fake fire" and shameful
 - Physical contact doesn't burn others (despite appearances)
@@ -177,14 +177,14 @@ The Ash-Bloods don't know this, but their integration is the **only thing** keep
 
 The Ash-Bloods think they joined a thriving empire. In reality, they're **life support** for a dying civilization.
 
-### What the Players Don't Know About Ignatius
+### What the Players Don't Know About ignatious
 
-**[[ignatius|Ignatius]]'s Cover Story:**
+**[[ignatious|ignatious]]'s Cover Story:**
 - He tells people he's on a "pilgrimage" to find new heat for his clan
 - The elders say he's "banished" to the trial of adventure
 
 **The Reality:**
-Both are true. The elders view leaving as punishment. [[ignatius|Ignatius]] views it as duty and destiny.
+Both are true. The elders view leaving as punishment. [[ignatious|ignatious]] views it as duty and destiny.
 
 He genuinely believes he will find a "new source of heat" and return a hero. He doesn't understand that **he is the new source**—his clan doesn't need external fire; they need to be part of a larger network.
 

@@ -34,8 +34,8 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 | Location | Description |
 |---|---|
 | [[Block 04]] | [[Mizizi]] dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
-| [[Block 12]] | Standard dorms. Classic Academy housing. [[Iggy]] and [[Ignatius]]'s room. |
-| [[Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[Lomi]]'s assignment. Site of the bonfire. |
+| [[Block 12]] | Standard dorms. Classic Academy housing. [[Iggy]] and [[ignatious]]'s room. |
+| [[Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[loami]]'s assignment. Site of the bonfire. |
 | **Greek Row** | Posh social clubs for Gold-tier students. |
 | **The Clan Assistance Office** | Where clan students get support navigating Harmony bureaucracy. |
 | **The Great Library** | Massive archive. Contains the "Bleached Atoll" report. |

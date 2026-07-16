@@ -61,7 +61,7 @@ Since you aren't sure where [[Iggy]] or the others might go, here are some "Magn
 **For [[Iggy]] (The Resonance Hook):**
 During a lecture by [[professor-kante|Professor Kante]], he mentions that the "Sync-Ledgers" for the upcoming race are behaving erratically near the North Arc. He asks if any student wants to "volunteer" to monitor the data-feed. This puts Iggy right next to Kante during the race.
 
-**For [[Lomi]] & [[Ignatius]] (The Revenge Hook):**
+**For [[loami]] & [[ignatious]] (The Revenge Hook):**
 They see [[Lucky]] in the courtyard, but he isn't alone. He’s talking to a group of Nstyl students—the same group that ambushed them. Lucky is holding the pocket watch up, laughing. It’s a clear provocation to go get their property back.
 
 **For [[Britt]] & [[Aggie]] (The Nature Hook):**
@@ -77,9 +77,9 @@ If the players decide to work together on Thursday night to study for the Friday
 *   **If they fail:** They stayed up too late arguing. Everyone starts the Exam with **1 Stress**.
 
 ### Summary of Rewards for your Notes:
-- **Ignatius:** Likely wants "Physical Conditioning" or "The Grind." Reward: +2 to his "Ash-Blood Combat" experience.
+- **ignatious:** Likely wants "Physical Conditioning" or "The Grind." Reward: +2 to his "Ash-Blood Combat" experience.
 - **Iggy:** Likely "Technical Mastery." Reward: A "Sync-Stabilizer" (one-time use to ignore a Fear result on a tech roll).
-- **Lomi:** Likely "Observation." Reward: He notices a mechanical flaw in one of the Race Rigs.
+- **Loami:** Likely "Observation." Reward: He notices a mechanical flaw in one of the Race Rigs.
 - **Britt/Aggie:** Likely "Social" or "Observation." Reward: They learn a secret about the Mizizi terrain simulation.
 [Timestamp: 2026/03/09 19:03:51]
 
@@ -166,8 +166,8 @@ Every time a player asks a question during this montage, answer it, but then imm
 **If they Succeeded (The "Functional" Morning):**
 > The bullhorns don't just make noise; they vibrate the floorboards. You’re awake before your brain is. The air in the dorms is thick with the smell of recycled oxygen and the frantic energy of thousands of teenagers realizing their lives depend on the next four days.
 
-*   **[[lomi]] (Block 99-Piston):** You wake up to the familiar rhythmic *thrum* of the steam stacks. For a second, you think you’re back on a furnace shift, but then you see [[Ratchet]] and [[Soot]] frantically shoving their feet into boots. The "Boiler Maker" in you knows the pressure is peaking—not in the pipes, but in the hallway.
-*   **[[ignatius]] & [[iggy]] (Block 12):** Ignatius, your flames are a dull, flickering orange—exhaustion is a heavy blanket. Iggy, the morning light hitting the high windows is already making your skin prickle. You’re fumbling for your pressurized goggles as the door to Block 12 slides open, revealing a corridor packed shoulder-to-shoulder with students.
+*   **[[loami]] (Block 99-Piston):** You wake up to the familiar rhythmic *thrum* of the steam stacks. For a second, you think you’re back on a furnace shift, but then you see [[Ratchet]] and [[Soot]] frantically shoving their feet into boots. The "Boiler Maker" in you knows the pressure is peaking—not in the pipes, but in the hallway.
+*   **[[ignatious]] & [[iggy]] (Block 12):** ignatious, your flames are a dull, flickering orange—exhaustion is a heavy blanket. Iggy, the morning light hitting the high windows is already making your skin prickle. You’re fumbling for your pressurized goggles as the door to Block 12 slides open, revealing a corridor packed shoulder-to-shoulder with students.
 *   **[[britt]] & [[aggie]] (Block 04):** The Mizizi block feels too dry, too sterile. You both wake up tangled in the thin Academy sheets, the "Petrified Forest" feeling a million miles away. Britt, you’re already throwing an elbow to clear space at the communal sink; Aggie, you’re looking for a dark corner just to process the noise.
 
 **If they Failed (The "Filter" Morning):**
@@ -217,7 +217,7 @@ By Wednesday morning, the air in the Academy is vibrating. The "Academic Hum" is
 > **ANNOUNCEMENT:** *"LECTURES SUSPENDED. ALL CANDIDATES REPORT TO THE SOUTHERN RIM. THE RESONANCE RACE BEGINS IN T-MINUS 60 MINUTES. OBSERVE. LEARN. DO NOT GET IN THE WAY."*
 
 **The Sandbox is now open:**
-- **[[lomi]] & [[ignatius]]:** You see [[Lucky]] near the exit, looking smug and holding a pocket watch.
+- **[[loami]] & [[ignatious]]:** You see [[Lucky]] near the exit, looking smug and holding a pocket watch.
 - **[[britt]] & [[aggie]]:** You see [[valentine-sterling|Valentine Sterling]] being escorted to a private Zephyr, looking down at the "commoners" with a smirk.
 - **[[iggy]]:** You feel a tug on your sleeve. It’s a messenger from **[[professor-kante|Professor Kante]]**. *"The Professor needs a 'collaborator' at the North Arc. He said you'd know what that means."*
 [Timestamp: 2026/03/09 19:18:23]
@@ -231,9 +231,9 @@ By Wednesday morning, the air in the Academy is vibrating. The "Academic Hum" is
 Here are a few ways that "wanting" something else causes students to be late, which you can use to show the players the stakes of the "Filter."
 
 ### 1. The "Frozen" Roommate ([[soot]])
-As [[lomi]] is rushing out of [[Block 99]]-Piston, he sees [[soot]] sitting on the edge of his bunk. He’s fully dressed, clutching his textbook to his chest like a shield, but he isn't moving.
+As [[loami]] is rushing out of [[Block 99]]-Piston, he sees [[soot]] sitting on the edge of his bunk. He’s fully dressed, clutching his textbook to his chest like a shield, but he isn't moving.
 
-- **The Interaction:** If Lomi stops, Soot whispers: *"I just... I wanted to have one morning where I didn't feel like a statistic. If I don't show up to the lecture, I haven't failed yet, right? As long as I'm in this room, I'm still a student."*
+- **The Interaction:** If Loami stops, Soot whispers: *"I just... I wanted to have one morning where I didn't feel like a statistic. If I don't show up to the lecture, I haven't failed yet, right? As long as I'm in this room, I'm still a student."*
 - **The Consequence:** As the party leaves, they see a **Prefect** with a clipboard standing outside Soot's door. The Prefect isn't knocking; they are just marking a red 'X' on the door's terminal.
 
 ### 2. The "Race-Watchers" (The Distraction)
@@ -246,7 +246,7 @@ In the courtyard, a group of about fifty students are gathered at the Southern R
 Near the docks, you see a small line of students—maybe twenty of them—sitting on their trunks. They aren't rushing. They "wanted" to leave on their own terms.
 
 - **The Vibe:** They are dressed in their civilian clothes again, having folded their grey Academy jumpsuits neatly on the ground. 
-- **The Narrative Beat:** One of them catches [[ignatius]]'s eye and just shrugs. *"Better to quit now than to be the 20,001st person who didn't make the cut on Friday. At least this way, I choose the ship I go home on."*
+- **The Narrative Beat:** One of them catches [[ignatious]]'s eye and just shrugs. *"Better to quit now than to be the 20,001st person who didn't make the cut on Friday. At least this way, I choose the ship I go home on."*
 
 ### 4. The "Alchemist's Gamble"
 In the hallway, you see a student frantically drinking three different colored glowing vials. He "wanted" to be the smartest person in the room for the Resonance lecture.
@@ -270,13 +270,13 @@ Here are four NPCs who are eating when they definitely should be running:
 ### 1. The "Hustle" Breakfast: [[Lucky]]
 You see [[Lucky]] leaning against a steam pipe near the entrance to Hangar 12. While thousands of students are sprinting past with grey faces, he is casually eating a **Spiced Skewer**—real meat, smelling of charcoal and peppers—that he definitely didn't get from the communal mess hall.
 
-- **The Interaction:** He’s holding a box of "Focus-Chews" (caffeine stimulants). He catches [[lomi]]'s eye and waves a skewer. *"Morning, Loaves! You look like you need a win. Five credits for a Focus-Chew, or ten if you want a bite of the good stuff. Don't worry about the bell—Kante always spends the first ten minutes coughing anyway."*
+- **The Interaction:** He’s holding a box of "Focus-Chews" (caffeine stimulants). He catches [[loami]]'s eye and waves a skewer. *"Morning, Loaves! You look like you need a win. Five credits for a Focus-Chew, or ten if you want a bite of the good stuff. Don't worry about the bell—Kante always spends the first ten minutes coughing anyway."*
 - **The Vibe:** He’s not late because he’s lazy; he’s late because he’s making a killing off the people who are panicking.
 
 ### 2. The "Stress-Choke": [[Cassius Thorne]]
 In the middle of the "Sea of Grey," you see [[Cassius Thorne]]. He is walking at a brisk, panicked pace, but he’s currently trying to shove a dry **Nutri-Paste Brick** into his mouth while simultaneously swiping through a holographic textbook on his ledger.
 
-- **The Interaction:** He bumps into [[ignatius]], nearly choking on the dry paste. *"Sorry! Sorry—I just—I forgot to eat yesterday. Did you know the thermal distribution of the Apex Ring is variable? I have to memorize the heat-sink locations before the lecture starts or I'll lose my Silver standing!"*
+- **The Interaction:** He bumps into [[ignatious]], nearly choking on the dry paste. *"Sorry! Sorry—I just—I forgot to eat yesterday. Did you know the thermal distribution of the Apex Ring is variable? I have to memorize the heat-sink locations before the lecture starts or I'll lose my Silver standing!"*
 - **The Vibe:** He is the embodiment of the "Filter" anxiety. He’s eating because his body is failing, but his mind is already in the classroom.
 
 ### 3. The "Gilded" Breakfast: [[valentine-sterling]]
@@ -288,7 +288,7 @@ As the PCs pass the **Gilded Zephyr** docking bay (the high-tier transport for G
 ### 4. The "Frozen" Eater: [[soot]]
 Back in [[Block 99]]-Piston, [[soot]] is still sitting on his bunk. He has a piece of grey, toasted bread in his hand. He has taken exactly one bite, and he’s just staring at the wall while the bread crumbs fall onto his jumpsuit.
 
-- **The Interaction:** If [[lomi]] tries to nudge him, Soot just looks at the bread. *"I... I think I'm going to be sick. If I eat this, I'll throw up in the lecture. If I don't eat it, I'll faint. Lomi, what happens if you faint during the Inverse Power lecture? Do they just... sweep you out?"*
+- **The Interaction:** If [[loami]] tries to nudge him, Soot just looks at the bread. *"I... I think I'm going to be sick. If I eat this, I'll throw up in the lecture. If I don't eat it, I'll faint. Loami, what happens if you faint during the Inverse Power lecture? Do they just... sweep you out?"*
 - **The Vibe:** He is paralyzed. The act of eating has become a monumental task he can't finish.
 
 ### Summary Table for the Morning
@@ -322,7 +322,7 @@ Gully isn't running. He isn't even walking fast. He is blowing on a spoonful of 
 
 *   **The Vibe:** He looks at the sprinting students with a sort of pitying detachment. 
 *   **Dialogue:** *"Easy, easy! You’ll spill the oats! Look, the lecture is three hours long. You want to do 'Inverse Power Theory' on an empty stomach? That’s how you get the shakes. That’s how you fail."*
-*   **The Provocation:** He might turn to **[[ignatius]]** and say, *"Hey, Lava Boy—give this a quick blast? It’s getting a bit of a skin on it."* Or to **[[lomi]]**, *"Lomi! Tell 'em. The boilers don't run without fuel, and neither do we. Rank 60,000 feels the same as Rank 10,000 if you've got a full belly."*
+*   **The Provocation:** He might turn to **[[ignatious]]** and say, *"Hey, Lava Boy—give this a quick blast? It’s getting a bit of a skin on it."* Or to **[[loami]]**, *"Loami! Tell 'em. The boilers don't run without fuel, and neither do we. Rank 60,000 feels the same as Rank 10,000 if you've got a full belly."*
 
 #### Why he’s late:
 Gully has decided that the "Filter" is a game he can't win by being fast, so he’s going to win by being the last one standing. He spent the last twenty minutes arguing with the Mess Hall attendant for an extra scoop of syrup.
@@ -347,47 +347,47 @@ Gully has decided that the "Filter" is a game he can't win by being fast, so he�
 **GM Note:** If a player hits Gully and spills his oats, he doesn't get angry—he just gets *sad*, which is much harder for the players to deal with when they're in a rush. *"That was the last of the blue syrup, mate. That was my 'Wednesday Motivation'..."*
 [Timestamp: 2026/03/09 21:18:09]
 
-**user**: ok i need a new NPC who would have sat next to Lomi
+**user**: ok i need a new NPC who would have sat next to Loami
 [Context: Notes: sessions/planning/Session 4 plan.md]
 [Timestamp: 2026/03/09 21:22:00]
 
-**ai**: To complement [[lomi]]'s practical, union-minded background, here is a new NPC who sits next to him in Hangar 12. This character serves as a mirror to Lomi’s working-class roots but lacks his confidence.
+**ai**: To complement [[loami]]'s practical, union-minded background, here is a new NPC who sits next to him in Hangar 12. This character serves as a mirror to Loami’s working-class roots but lacks his confidence.
 
 ### New NPC: Rook
 **Role:** The "Scrap-Runner" / Nervous Seat-mate
 **Ancestry:** Harmony Native (Human)
-**Rank:** Copper (just like Lomi)
-**Housing:** Block 98 (The block right next to Lomi's)
+**Rank:** Copper (just like Loami)
+**Housing:** Block 98 (The block right next to Loami's)
 
 #### Appearance
 Rook is a scrawny teenager with messy, oil-slicked hair and fingers that are permanently stained with grease-pencil. He’s wearing an Academy jumpsuit that is clearly a hand-me-down—it has a faded patch on the shoulder where a different name used to be. He doesn't have a high-tech ledger; he has a battered notebook made of flattened-out ration boxes and a single, chewed-up pencil.
 
-#### The Interaction: The Seat Next to Lomi
-As the 5,000 students in Hangar 12 are frantically trying to find their assigned tiers, Rook slides into the seat next to Lomi, breathing like he just ran a marathon. He smells faintly of sulfur and old copper—the "Lower Deck" scent that Lomi would recognize instantly.
+#### The Interaction: The Seat Next to Loami
+As the 5,000 students in Hangar 12 are frantically trying to find their assigned tiers, Rook slides into the seat next to Loami, breathing like he just ran a marathon. He smells faintly of sulfur and old copper—the "Lower Deck" scent that Loami would recognize instantly.
 
-*   **The Bond:** He looks at Lomi’s grease-stained hands and lets out a visible sigh of relief. 
+*   **The Bond:** He looks at Loami’s grease-stained hands and lets out a visible sigh of relief. 
 *   **Dialogue:** *"Oh, thank the gods. I thought I was gonna be stuck next to one of those 'Silver-Spoons' from the Spire who thinks Resonance is a type of poetry. You smell like Piston-Block. You’re maintenance, right? Or Boiler-crew?"*
 *   **The Anxiety:** He looks down at his ration-box notebook. *"I spent all night trying to memorize the 'Aetheric Impedance' charts, but the words just keep swimming. If Kante asks me a question, I’m gonna be the first one on the boat home. You... you actually know how this stuff works, don't you?"*
 
-#### Why he’s a good foil for Lomi:
-- **The "Cheater" Hook:** Rook is terrified. He might try to peek at Lomi’s notes during the lecture, not because he’s lazy, but because he’s desperate.
-- **The "Union" Connection:** If Lomi mentions his family's boiler schematics, Rook’s eyes will go wide. He’s from the "Scrap-Runners"—the kids who crawl into the pipes where the adults can't fit. He respects the "Boiler Maker" lineage.
-- **The "Filter" Stakes:** Rook represents the person Lomi is trying to protect. He’s the kid who *needs* this rank to help his family, but who is being crushed by the academic weight of the Academy.
+#### Why he’s a good foil for Loami:
+- **The "Cheater" Hook:** Rook is terrified. He might try to peek at Loami’s notes during the lecture, not because he’s lazy, but because he’s desperate.
+- **The "Union" Connection:** If Loami mentions his family's boiler schematics, Rook’s eyes will go wide. He’s from the "Scrap-Runners"—the kids who crawl into the pipes where the adults can't fit. He respects the "Boiler Maker" lineage.
+- **The "Filter" Stakes:** Rook represents the person Loami is trying to protect. He’s the kid who *needs* this rank to help his family, but who is being crushed by the academic weight of the Academy.
 
 #### Narrative Use in the Lecture:
 During **[[professor-kante|Professor Kante]]'s** lecture, Kante might drop a complex term like *"Harmonic Cavitation."* 
-*   **Rook** will whisper to Lomi: *"Is that... is that when the pipes start screaming? Or is that the thing that makes the batteries explode?"* 
-*   This gives Lomi a chance to show off his practical knowledge by explaining the "real world" version of the academic jargon.
+*   **Rook** will whisper to Loami: *"Is that... is that when the pipes start screaming? Or is that the thing that makes the batteries explode?"* 
+*   This gives Loami a chance to show off his practical knowledge by explaining the "real world" version of the academic jargon.
 
 ---
 
-### Updated Hangar 12 Seating Chart (Lomi's Row)
+### Updated Hangar 12 Seating Chart (Loami's Row)
 
 | Seat | Occupant | Status |
 | :--- | :--- | :--- |
 | **Left** | **[[soot]]** | Staring blankly at his textbook, vibrating with anxiety. |
-| **Center** | **[[lomi]]** | The practical anchor of the row. |
+| **Center** | **[[loami]]** | The practical anchor of the row. |
 | **Right** | **Rook** | Scribbling frantically on a ration box; smells like the lower decks. |
 
-**GM Tip:** If Lomi helps Rook understand a concept during the montage, Rook can become a "Contact" for the party later—someone who knows the secret crawlspaces and pipe-routes of the Academy.
+**GM Tip:** If Loami helps Rook understand a concept during the montage, Rook can become a "Contact" for the party later—someone who knows the secret crawlspaces and pipe-routes of the Academy.
 [Timestamp: 2026/03/09 21:27:52]

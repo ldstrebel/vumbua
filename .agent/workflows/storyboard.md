@@ -1,94 +1,193 @@
 ---
-description: Generate image and video prompts for animating a Vumbua scene
+description: Generate a graphic novel storyboard for a Vumbua campaign session
 ---
 
-# Storyboard & Animation Workflow (Slash Command: /storyboard)
+# Storyboard Workflow (Slash Command: /storyboard)
 
-Use this workflow when the user requests a storyboard prompt, a scene visualization, or an animation setup. 
-The goal is to translate a campaign scene into a strict 2-part prompt system:
-1. An **Image Prompt** (to generate the base storyboard frame / aesthetic reference).
-2. A **Video Animation Prompt** (to feed into an AI video generator alongside that image).
+Use this workflow when generating comic book pages for a Vumbua session.
 
----
-
-## 1. The Vumbua Aesthetic (CRITICAL)
-
-When writing image prompts, you must override default "fantasy" biases. The style of Vumbua is **NOT** dark, grim, medieval, or muddy. It is a bright, optimistic, and highly detailed fusion of eras. 
-
-**Always enforce these core visual pillars:**
-- **Lighting & Tone:** Bright, vibrant daylight, high contrast, cinematic volumetric lighting. Clear skies with dramatic clouds.
-- **Architecture:** "Oxford meets Steampunk, built into the Wild." Pristine, bright white marble facades, grandstands, and sweeping arches are **carved directly into or bolted onto massive, rugged natural cliff faces and jagged mountains**. There is a sharp, beautiful contrast between the manicured academic stone and the raw, weathered textures of nature.
-- **Scale & Composition:** Sweeping wide shots, massive scale, deep depth of field. 
-- **Atmosphere:** Clean, manicured green gardens and white marble structures integrated with heavy industrial brass machinery, all nestled within a vast, unyielding natural landscape. A world of grounded exploration. Students in crisp, uniform attire.
-- **Technology:** Gaslamp fantasy. Steam, brass, umber crystals, and gears. Do not use generic "glowing magical auras" unless specifically requested by the node physics.
-
-## 2. Step 1: The 3x3 Narrative Key-Frame Grid Prompt
-
-You must instruct the image generator to create a **single image containing a 3x3 grid**. The 9 panels must represent **sequential key-frames of a narrative scene**. The video AI will fill in the gaps between these major key moments. 
-
-Write an excruciatingly detailed, expert-level image prompt optimized for tools like Midjourney v6/Niji 6. 
-
-**Rules for the Image Prompt:**
-- **The Anime/Ghibli Style:** We are abandoning "video gamey" 3D render styles. The style must explicitly invoke high-budget anime movies (Studio Ghibli, Makoto Shinkai). Words to use: *vibrant painterly environments, lush cel-shaded anime style, incredibly detailed 2D animation frame, breathtaking anime cinematography.*
-- **The Vumbua Baseline (Anti-Tropes & Aesthetics):** Defend against generic biases across ALL eras! 
-  - **No Generic Steampunk:** NO standard trains, literal gears, clock-faces glued to pipes, or top hats. 
-  - **Transit & Spectator Vehicles:** Describe spectator vehicles as *ornate, steam-pulled observation cars with vast glass windows and outward-facing bleacher seating, reminiscent of Oxford rowing races*. **CRITICAL ARCHITECTURE:** The tracks run elevated *behind* the grandstands, so the train looks over the tops of the audience's heads, providing an unobstructed view of the basin and allowing easy hop-on/hop-off access. It NEVER runs between the crowd and the view.
-  - **The Starting Grid (Geography):** If generating the basin starting line, the ground is exactly half solid earth and half turquoise water so boats and heavy dirt crawlers can idle side-by-side. The colossal, four-legged Walker-Core crane is set *far back* behind the line. NEVER generate a purely aquatic regatta and NEVER generate a mass crane-drop.
-  - **Ships & Airships (The Exception):** If there is one area that *does* lean heavily into high-fantasy steampunk, it is the ships and racing crafts! Describe them as *Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive, silk-textured golden dirigible balloons*. They should feature ornate golden solar sails and thick brass cabling connecting the hull to the shimmering balloon. Do NOT just ask for "hover crafts" or it will draw boring sailboats. Avoid generic blimps.
-  - **No Sci-Fi / Modern:** Explicitly describe engines as *vented brass steam engines glowing warmly with crystal resonance energy, NO jet engines, NO rockets*.
-  - **No Text/Subtitles:** Anime styles often add Japanese subtitles. Explicitly ban text.
-- **Setting Consistency (Object Permanence):** Midjourney forgets the background by the end of the grid. In panels 7, 8, and 9, you MUST explicitly re-describe the specific background biome established in earlier panels.
-- **CRITICAL: "Thick" Panel Descriptions (NO SUMMARIES):** You must never regress into writing "thin" summaries. If you write "Top left: emerging into the blinding sunlight," the AI will hallucinate. You must write **THICK** micro-descriptions for *every single panel*, detailing exact materials, lighting, background elements, and specific character clothing. Every panel description must feel overwhelmingly dense (e.g., "Top Left: Dense crowds of students wearing crisp, tailored blue and gold uniforms walking casually through pristine, manicured white marble gardens with blooming crimson flora under volumetric sunlight.")
-
-**Structure the prompt strictly like this (Enforcing THICK Descriptions):**
-```text
-A 3x3 grid of sequential narrative anime key-frames showing [Scene Narrative]. Top left is [THICK description: lighting, material, specific clothing, background architecture of Moment 1], top middle is [THICK description: lighting, material, specific action, foreground elements of Moment 2...], top right is [THICK description: lighting, material, camera angle, specific weather of Moment 3...], middle left is [THICK description...], middle is [THICK description...], middle right is [THICK description...], bottom left is [THICK description...], bottom middle is [THICK description...], bottom right is [THICK description...]. [Vumbua Academy Aesthetic: pristine Oxford-style white stone academia blending flawlessly with elegant, massive brass high-fantasy technology]. [Anime Style: Studio Ghibli meets Makoto Shinkai, breathtaking vibrant 2D anime cinematography, lush painterly environments, beautifully stylized cel-shaded animation, crisp linework]. --no text, typography, lettering, subtitles, watermarks, generic steampunk, clock faces, modern vehicles, modern trains, bullet trains, jet engines, rockets, sci-fi thrusters, top hats, dirt arenas
-```
+> **Cross-reference:** All rules in `.agent/AGENTS.md` apply to every step of this workflow. Read them before starting.
 
 ---
 
-## 3. Step 2: The Video Animation Prompts
+## Step 0 — MANDATORY Ground-Truth Verification (DO NOT SKIP)
 
-## 3. Step 2: The Video Animation Prompts
+This step is not optional. Do not write a single panel description until it is complete.
 
-The reason video models often return jagged, graceless cuts between frames is because the prompt lacks transitional "meat". If you just tell the AI to "transition from the gardens to the arches," it will slightly shift the frame and hard-cut. 
+### 0a. Read the clean transcript
+Call `view_file` on `sessions/transcripts/clean/sN-clean.md` for the session being storyboarded.
+- Identify every major scene (a scene = a distinct location or narrative beat)
+- Note the exact dialogue lines that need to appear as speech bubbles
+- Note the order of events — do not rely on memory of the session
 
-You must design the camera path in tandem with the storyboard. In the Stitching Prompt, you must explicitly describe **HOW** the camera physically moves from the composition of one panel into the next. Use **structural wipes, match-cuts, or extreme spatial camera sweeps** to bridge the gaps. 
+### 0b. Read every character profile for characters in this session
+Call `view_file` on each file for characters who appear:
+- `characters/player-characters/loami.md`
+- `characters/player-characters/iggy.md`
+- `characters/player-characters/ignatious.md`
+- `characters/player-characters/aggie.md`
+- `characters/player-characters/britt.md`
+- Any relevant NPC file in `characters/npcs/`
 
-**CRITICAL: The "Double Tap" Rule**
-Video AI suffers from extreme amnesia. When transitioning to a new panel, you must **"double tap"** the key design elements (scale, material, aesthetic) to ensure it doesn't drift. Do not just say "reveal the stadium"; explicitly say "reveal the *colossal, blinding white marble* stadium."
+**For each character, copy the physical description lines into a working token block.** Do not write tokens from memory.
 
-You will generate **TWO separate video prompts**:
-1. **The Stitching Prompt (Image-to-Video):** Uses the 3x3 grid. Explicitly describes the physical camera sweeps, foreground wipes, and double-taps the key aesthetic keywords for every panel.
-2. **The Direct One-Shot Prompt (Text-to-Video):** Designed to generate the exact same scene entirely from text, skipping the storyboard grid.
+### 0c. Check which reference assets exist
+Call `list_dir` on `sessions/storyboards/assets/` to see what source images are available (blueprints, chalkboards, maps). Only reference files that actually exist.
 
-**Structure the verbose Stitching Prompt like this (Focusing on the "Meat" & Double Taps):**
-```text
-A seamless, continuous cinematic sequence. We begin on Panel 1, tracking left-to-right over the pristine, manicured gardens and blue uniforms. The camera then pushes rapidly forward, using the passing back of a student's uniform (Panel 1) to completely wipe the frame, seamlessly revealing the massive, sweeping brass structural arches of high-fantasy resonance tech (Panel 2). The camera tilts sharply up the brass supports (Panel 2) until the sun flares the lens, match-cutting brilliantly into the colossal, blindingly bright white marble stadium (Panel 3). We dolly backward from the stadium edge (Panel 3), dropping over the rim into a breathtaking aerial dive over the massive, turquoise river canyon basin (Panel 4). [Continue explicitly describing the foreground wipes, flares, or camera sweeps that bridge every single panel, ensuring you "double tap" the visual scale and aesthetic for each]. The AI generates perfectly fluid, high-budget 2D anime motion between these key moments with no graceless cuts, maintaining breathtaking Ghibli lighting throughout.
+### 0d. Build the scene outline — show it to the user before generating anything
+
+Write a scene list in this format and **stop here for user review**:
+
+```markdown
+## Scene Outline: Session N
+
+| # | Scene | Location | Key Characters | Proposed Pages |
+|---|---|---|---|---|
+| 1 | [Scene name] | [Location] | [Characters] | [e.g. 2] |
+...
+
+**Total proposed pages: [N]**
 ```
 
-**Structure the verbose One-Shot (Text-to-Video) Prompt like this:**
-```text
-A seamless, continuous continuous tracking shot in a breathtaking Studio Ghibli/Makoto Shinkai anime style. The camera begins by [detailed camera movement through Phase 1]. It then flows seamlessly into [continuous camera movement through Phase 2], sweeping past [details]. The sequence culminates as the camera [final cinematic move resolving on Phase 3/Climax]. [Insert Vumbua Visual Rules and Anti-Tropes here].
+**Wait for user confirmation** on the scene count and page budget before proceeding. If the user requests changes, revise the outline before any generation.
+
+---
+
+## Step 1 — Write the Full Storyboard Document
+
+Only begin this step after the user approves the scene outline.
+
+Write the complete storyboard to `sessions/storyboards/sN-storyboard.md` before generating any images. The storyboard is the ground-truth specification — images must match it, not the other way around.
+
+### Page budget guidance
+
+Scale page count to the session's actual content:
+- **1–2 short scenes:** 4–6 pages
+- **3–4 scenes:** 8–12 pages
+- **5+ scenes or complex mechanics:** 12–20 pages
+
+Never compress multiple major scenes onto a single page unless they are directly continuous (e.g., a two-line exchange).
+
+### Panel format (per page)
+
+Each page must include:
+
+```markdown
+## Page N: [Scene Title]
+
+**Scene:** [Location description — match AGENTS.md location rules]
+**Color palette:** [Specific palette: warm amber, steel grey, etc.]
+**Lighting:** [Direction and quality of light]
+
+### Panel 1
+**Shot:** [Wide / Medium / Close-up / Splash]
+**Description:** [THICK description — characters with full token strings, background elements, foreground details, action]
+**Speech bubble:** "[Exact quote from clean transcript]" — [Character token description, not name]
+**Sound effect:** [e.g., KA-CLANK! in bold hand-lettered style — if applicable]
+
+### Panel 2
+...
+
+#### 🖤 Gutter Transition:
+[Describe the spatial or temporal shift between this page and the next]
+```
+
+### Dialogue rules
+- **Exact quotes only** — lifted verbatim from the clean transcript. Never paraphrase.
+- **25-word maximum** per speech bubble. If a quote is longer, split across two bubbles or two panels.
+- **Dialect preservation** — Iggy's dropped letters (`'S nice`, `'course`), Kante's broken English. Do not "fix" these.
+
+### Character description tokens
+Never use a character's name in a panel prompt. Use the tokens extracted in Step 0b. Example structure:
+```
+[rugged broad-shouldered humanoid male, short brown hair, short beard, brown woolen flat cap with tiny Italian flag ribbon, heavy canvas working collar, dark engine grease smudges on hands and collar]
 ```
 
 ---
 
-## 4. Output Format
+## Step 2 — Generate Images (2–3 Pages at a Time)
 
-When executing this workflow, output the results to the user in this exact markdown format:
+Only begin generation after the full storyboard document is written and the user has had the opportunity to review the outline.
 
-### 🖼️ 3x3 Narrative Key-Frame Grid Prompt (Midjourney --niji 6)
-```text
-[Your highly detailed, Anime-styled 3x3 Sequential Grid Image Prompt Here]
+### Generation rules
+
+- Generate **2–3 pages per batch**, then stop
+- After each batch, **call `view_file` on the generated PNGs to visually audit character details and scene consistency. Document your findings, then present the images and your audit to the user for explicit confirmation** before continuing.
+- If the user (or the visual audit) identifies any character error, treat it as a hard fail — rewrite the prompt from scratch using the ground-truth token from the profile file.
+- Do not patch prompts. Rewrite them.
+
+### Image prompt structure (for `generate_image` tool)
+
+Each page = one `generate_image` call. Structure the prompt as:
+
+```
+[Style token: Detailed 2D graphic novel style, clean expressive manga-style linework, crisp black ink outlines, cel-shaded color flats, cinematic volumetric lighting]
+
+[Page layout description: e.g. "A three-panel comic book page"]
+
+Panel 1: [THICK description — shot type, character tokens, background, lighting, action, speech bubble text, sound effects]
+
+Panel 2: [THICK description]
+
+Panel 3: [THICK description]
+
+[Color palette note: e.g. "Warm amber gas-lamp interior lighting throughout, mahogany and brass textures"]
+
+--no text artifacts, no subtitles, no watermarks, no generic fantasy backgrounds
 ```
 
-### 🎬 Image-to-Video Sequence Stitching Prompt (Runway/Luma Gen-3)
-```text
-[Your verbose, camera-directed stitching Video Prompt Here]
-```
+### Mandatory pause points
 
-### 🎥 Direct Text-to-Video Prompt (Skipping Grid)
-```text
-[Your highly detailed, continuous one-shot Video Prompt Here]
-```  
+| After | Action |
+|---|---|
+| Scene outline (Step 0d) | ⏸ Stop — wait for user approval of page budget |
+| Pages 1–3 | ⏸ Stop — show images, wait for character confirmation |
+| Pages 4–6 | ⏸ Stop — show images, wait for confirmation |
+| Every 3 pages thereafter | ⏸ Stop — show images, wait for confirmation |
+| Final page | ⏸ Stop — ask user if any pages need regeneration |
+
+---
+
+## Step 3 — Save Assets and Update Storyboard
+
+After all pages are approved by the user:
+
+1. Copy each approved image to `sessions/storyboards/assets/sN_pageNN.png`
+2. Update the storyboard document to reference the asset paths
+3. Run `python _export.py` to rebuild the NotebookLM export
+
+---
+
+## The Vumbua Visual Style (Anti-Trope Rules)
+
+Apply these rules to every panel prompt.
+
+### Architecture
+"Oxford meets Steampunk, built into the Wild." Pristine white marble facades and sweeping arches are **carved directly into rugged natural cliff faces**. Sharp contrast between manicured academic stone and raw natural textures.
+
+### Technology
+Gaslamp fantasy. Steam, brass, umber crystals, gears. Do NOT use generic glowing magical auras or sci-fi thrusters.
+
+### Airships
+Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive silk-textured golden dirigible balloons with ornate golden solar sails. Do NOT generate generic blimps or sailboats.
+
+### The Apex Ring
+Half-mile-wide basalt canyon. Grandstands cut directly into the canyon walls. Ground is exactly half solid earth and half turquoise water. NEVER a floating stadium or a flat arena.
+
+### Spectator vehicles
+Ornate steam-pulled observation cars with vast glass windows and outward-facing bleacher seating. Tracks run elevated **behind** the grandstands, never between the crowd and the view.
+
+### Anti-tropes (ban from all prompts)
+`--no generic steampunk, clock faces, top hats, modern vehicles, bullet trains, jet engines, rockets, sci-fi thrusters, dirt arenas, generic fantasy castles, Japanese subtitles, watermarks`
+
+---
+
+## Video Prompt Output (Optional — for external tools)
+
+If the user requests video prompts for Runway/Luma after the graphic novel is approved, generate these separately using the approved images as reference:
+
+### Image-to-Video Stitching Prompt
+Describe the physical camera path between panels using structural wipes and match-cuts. **"Double tap"** key design elements at every transition (e.g., "revealing the *colossal, blinding white marble* stadium" not just "revealing the stadium").
+
+### Direct Text-to-Video Prompt
+Write a continuous tracking shot description in Studio Ghibli/Makoto Shinkai anime style, describing all three phases of the scene in a single unbroken camera movement.

@@ -6,8 +6,8 @@
 
 - **[[Britt]]** - [[Mizizi]] (Gray fungal-turtle) - Gold Rank — Housing: [[Block 04]]
 - **[[Aggie]]** - [[Mizizi]] (Red-and-white spotted mushroom-turtle) - Silver Rank — Housing: [[Block 04]]
-- **[[Ignatius]]** - [[Ash-Bloods|Ash-Blood]] ([[Ember]] Islander) - Silver Rank — Housing: [[Block 12]]
-- **[[Lomi]]** - Harmony-born (Octoumba, [[Iron-Union]]) - Copper Rank — Housing: [[Block 99]]
+- **[[Ignatious]]** - [[Ash-Bloods|Ash-Blood]] ([[Ember]] Islander) - Silver Rank — Housing: [[Block 12]]
+- **[[loami]]** - Harmony-born (Octoumba, [[Iron-Union]]) - Copper Rank — Housing: [[Block 99]]
 - **[[Iggy]]** - "[[Trench-Kin|Earthkin]]" ([[Trench-Kin]]) - Gold Rank — Housing: [[Block 12]]
 
 ---
@@ -77,7 +77,7 @@
 - **[[Sarge]]** - Rust Candidate (Prospective Captain / "Safety Inspector")
 - **[[Lucky]]** - Hustler/Procurer
 - **[[Pudge]]** - The Heart
-- **[[Soot]]** - Block 99-Piston, Lomi's Roommate
+- **[[Soot]]** - Block 99-Piston, Loami's Roommate
 
 ### Notable Figures & Others
 
@@ -103,5 +103,7 @@
 - **[[Ludo Castellan]]** - Sentry for Val, Castellan Family
 - **[[Jorge]]** - Dragonkin Student, friend of Valentine Sterling
 - **[[alistair-rook\|Alistair "The Rook" Rookwood]]** - Second-Year Cadet, Captain of Squad 06 / Shatter Stamper Pilot
+- **[[Angela Galaspora]]** - Mizizi Clan Elder, Aggie's Great-Aunt
+- **[[Cade Ashveil]]** - Ash-Blood Ambassador to Vumbua, Lady Ignis's Envoy
 
 - Captains List - a list of all Captains and their charter for the Venture

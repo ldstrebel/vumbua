@@ -30,7 +30,7 @@ Lucky smells a "glitch" in Iggy. He knows Iggy is too good with tech to be "stan
 
 - "You’ve got a very 'quiet' signal, Iggy. Most students are screaming in the data-stream, but you? You’re a ghost. And ghosts usually have something they’re protecting—or something they’re running from."
 - "I looked at the trial rankings. Your efficiency rating is a flat line. Nobody’s that consistent unless they’re capping their output. Why the limiter, kid? Afraid you’ll blow a fuse, or afraid we’ll see what’s behind the curtain?"
-- "You and [[ignatius|Ignatius]]... it’s a weird pair. The fire-starter and the circuit-breaker. I’m betting you’re the one keeping his 'Ash-Blood Anomaly' from melting the floor. What’s the kickback for a job like that?"
+- "You and [[ignatious|ignatious]]... it’s a weird pair. The fire-starter and the circuit-breaker. I’m betting you’re the one keeping his 'Ash-Blood Anomaly' from melting the floor. What’s the kickback for a job like that?"
 - "I don't need to know *what* you're hiding to know it's expensive. I just need to know who’s looking for it. Because right now, I’m the only thing standing between your 'private files' and [[professor-kante|Professor Kante]]’s curiosity."
 
 ### 3. General "Lucky-isms" (The Hustle)

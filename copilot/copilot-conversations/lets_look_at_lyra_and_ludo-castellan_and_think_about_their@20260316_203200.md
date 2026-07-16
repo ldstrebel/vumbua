@@ -52,7 +52,7 @@ They view [[Valentine Sterling]] as a "golden key."
 - **The Goal:** If they can make themselves indispensable to a Sterling, they effectively "skip the line" of the 80-year stagnation that has kept their family in the lower spires.
 
 #### 3. The "Interesting Clutter" (The Party)
-The twins view the rest of the party (like [[Iggy]], [[Lomi]], or [[Britt]]) as "clutter." Their motive here is **Risk Management**. They want to ensure these "low-rank" associates don't "stain" Val's reputation or, worse, provide Val with a sense of loyalty that doesn't involve the Castellans. If the party becomes too influential, expect the twins to try to "buy" them off or socially isolate them.
+The twins view the rest of the party (like [[Iggy]], [[loami]], or [[Britt]]) as "clutter." Their motive here is **Risk Management**. They want to ensure these "low-rank" associates don't "stain" Val's reputation or, worse, provide Val with a sense of loyalty that doesn't involve the Castellans. If the party becomes too influential, expect the twins to try to "buy" them off or socially isolate them.
 [Timestamp: 2026/03/16 20:32:14]
 
 **user**: I like the idea of harmony prime. We need to flesh out that location. Give me a list of families and factions there please
@@ -87,7 +87,7 @@ The bureaucratic engine of the empire. They don't own the resources, but they co
 ### The Iron Union (The Lower Spires & Foundations)
 The labor force that keeps the 8 million people alive. They live in the "Rust" and "Copper" tiers where the air is thick with steam.
 
-- **The Grinders**: A massive labor union of boiler-workers, engineers, and maintenance crews. They are the ones who actually handle the **lavsidian** and the heavy machinery. [[Lomi]] would have strong ties to this culture.
+- **The Grinders**: A massive labor union of boiler-workers, engineers, and maintenance crews. They are the ones who actually handle the **lavsidian** and the heavy machinery. [[loami]] would have strong ties to this culture.
 - **The Silt-Walkers**: A faction of spies and couriers who use "Silent Silt" from [[Nstyl]] to move through the city unheard. They are the primary source of the "Academic Secrets" that [[ludo-castellan]] prizes.
 - **The Battery-Scavengers**: A desperate underclass that hunts for "leaking" or discarded crystal batteries in the city's foundations. They are technically illegal but essential for the city's waste management.
 
@@ -137,14 +137,14 @@ In short: **[[house-gilded]]** is the "club" (and the energy-monopoly faction), 
 
 **ai**: At the beginning of Session 4, as the characters were waking up for their first day of classes at [[Vumbua Academy]], the DM (Luke S) asked each player a series of questions to establish their morning routines and mental states:
 
-**For [[Ignatius]] and [[Iggy]]**
+**For [[ignatious]] and [[Iggy]]**
 - What is the energy on the first day of class?
 - Do you wake up early or at the last possible minute to get to class on time?
 - Are you stressed or ready to go?
 - Do you even talk to each other in the morning?
 
-**For [[Lomi]]**
-- What is Lomi’s energy the morning of class?
+**For [[loami]]**
+- What is Loami’s energy the morning of class?
 - Is he a chatty guy in the morning, or does he just get the routine done and get out?
 - Has he handled pressure like this before (the individual pressure of the competition vs. the physical pressure of his job)?
 
@@ -162,12 +162,12 @@ In short: **[[house-gilded]]** is the "club" (and the energy-monopoly faction), 
 
 **ai**: Based on the provided notes for [[session-04|Session 4]], the specific answer Aggie gave to those morning routine questions is **not recorded in the context**.
 
-The session notes and transcript provided focus almost exclusively on the actions of **[[Lomi]]**, **[[Ignatius]]**, and **[[Iggy]]**. For example:
+The session notes and transcript provided focus almost exclusively on the actions of **[[loami]]**, **[[ignatious]]**, and **[[Iggy]]**. For example:
 - **[[Iggy]]** was having a "culinary awakening" in the cafeteria, trying one bite of every muffin.
-- **[[Lomi]]** was described as "stressed" and already feeling behind on the first day.
-- **[[Ignatius]]** arrived late to class but contributed to the discussion despite his dismal Evasion score.
+- **[[loami]]** was described as "stressed" and already feeling behind on the first day.
+- **[[ignatious]]** arrived late to class but contributed to the discussion despite his dismal Evasion score.
 
-The "Suggested Next Steps" and "NOTES from Granola" in the [[s4-raw|Session 4 Raw Transcript]] only mention the players for Lomi and Ignatius (Luke Foreman and John Hagey). It is possible that Aggie's player was not present for this part of the session or their specific morning routine was not captured in these particular notes. 
+The "Suggested Next Steps" and "NOTES from Granola" in the [[s4-raw|Session 4 Raw Transcript]] only mention the players for Loami and ignatious (Luke Foreman and John Hagey). It is possible that Aggie's player was not present for this part of the session or their specific morning routine was not captured in these particular notes. 
 
 If you have another note or a more complete transcript that includes Aggie's perspective, please let me know!
 [Timestamp: 2026/03/18 19:12:04]
@@ -187,7 +187,7 @@ Here are three new "Feel-Good" distraction options for the Day 2 Market:
 - **The Lesson:** Shows Britt that the people who actually *run* the city (the [[Iron-Union]]) value the Mizizi for their nature, not their political rank.
 
 ### 2. The "Good Luck" Charm from [[Soot]]
-**NPC:** [[Soot]] (Lomi’s anxious Rust-rank roommate)
+**NPC:** [[Soot]] (Loami’s anxious Rust-rank roommate)
 **The Interaction:** Britt finds [[Soot]] sitting on a crate, looking absolutely terrified of the upcoming "Great Filter" exams. When he sees Britt, he doesn't recoil or suck up; he’s genuinely awestruck by a "living forest" student.
 - **The Moment:** He offers Britt a small, polished piece of **Silent Silt** from [[Nstyl]] or a tiny **Friction Needle** fragment from [[Lenoa]]. "My dad says the Mizizi are the heart of the world. If the heart stops, the machine breaks. Take this... it’s for luck. I’m probably going to fail, but I’d feel better knowing someone like you made it through."
 - **The Lesson:** A peer-to-peer interaction where a Harmony citizen shows genuine, selfless respect for Mizizi culture.

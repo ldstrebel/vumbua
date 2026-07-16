@@ -29,5 +29,5 @@ Captain Ignis "Scorch" is a daredevil Captain from the Iron-Union offering berth
 **Vertical Climb:** He is betting on finding stable atmospheric currents at the summit of a vertical "Storm-Needle" mountain.
 
 ## Secret Agenda & Hook
-* **The Secret:** His engine is literally melting. He needs an Elemental (like [[Ignatius]]) to handle the heat or an expert Mechanic (like [[Lomi]]) to physically hold it together during the climb.
+* **The Secret:** His engine is literally melting. He needs an Elemental (like [[ignatious]]) to handle the heat or an expert Mechanic (like [[loami]]) to physically hold it together during the climb.
 * **The Pitch:** Looking for candidates with Heat-Resistance or high Constitution, ready to push past mortal limits.

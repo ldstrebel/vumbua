@@ -18,7 +18,7 @@ The expeditionary forces running [[Vumbua Academy]]. Focused on **Exploration & 
 | [[Vane Lineage|The Vane Lineage]] | Defense, Reality Anchors | Cold Iron (Magnetism) | "Defense is Survival" | Lord Commander Titus Vane, Celia Vance, Kaelo "Ghost" Vane |
 | [[House Vox]] | Energy, Crystal Batteries | Umber Crystals | "Power is Life" | Arch-Duke Cymon Vox, Serra Vox, Professor Kante |
 | [[Scrivener Guild|The Scrivener Guild]] | Navigation, Maps, Data | Aether (Data/Echoes) | "Discovery is Truth" | Dean Isolde Vane, Professor Ink, Senior Historian Nadine |
-| [[Iron-Union|The Iron-Union]] | Engines, Labor, Industry | Steam (Pressure/Force) | "Stabilization is Duty" | Lomi (PC), "Old Man" Silas, "Hammer" |
+| [[Iron-Union|The Iron-Union]] | Engines, Labor, Industry | Steam (Pressure/Force) | "Stabilization is Duty" | Loami (PC), "Old Man" Silas, "Hammer" |
 
 ## The Domestic Council (The Civilian Pillars)
 

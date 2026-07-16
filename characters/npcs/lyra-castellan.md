@@ -62,16 +62,16 @@ tags:
 *   **Focus Glass Fan**: Allows her to fan herself while secretly magnifying minor visual details of her targets (+1 to Instinct checks to spot social cues).
 
 ## Overview
-Lyra is one half of the Castellan twins, a political family from the lower spires that has spent generations clawing their way toward [[House Gilded]] affiliation. She is sharp, social, and views [[Valentine Sterling]] not as a friend, but as a golden key to her family's future.
+Lyra is one half of the Castellan twins, a political family from the lower spires that has spent generations clawing their way toward [[House Gilded]] affiliation. She is the designated family heir and the "responsible" one compared to her brother Ludo, bearing the brunt of the expectations to save their family, who are rumored to be on the cliff's edge of their fortune.
 
 ## Relationships
-- **[[Ludo Castellan]]**: Her twin brother. They operate as a single social unit, often surrounding their targets with complementary flattery.
-- **[[Valentine Sterling]]**: Her primary target. She aims to marry or associate her family so closely with the Sterlings that their Gilded status becomes undeniable.
+- **[[Ludo Castellan]]**: Her twin brother. While she carries the weight of being the heir, they operate as a single social unit.
+- **[[Valentine Sterling]]**: Her primary target, though she also harbors a deep, secret childhood crush on him. She aims to marry or associate her family so closely with the Sterlings that their Gilded status becomes undeniable.
 - **The Party**: Views them as "interesting clutter" or potential leverage if they continue to associate with Val.
 
 ## Personality
 - **Aggressively Charming**: She doesn't wait for an invitation to join a conversation; she assumes her presence is the highlight of it.
-- **Calculating**: Every compliment is a weigh-in of social value.
+- **Duty-Bound and Intense**: Underneath her calculating, sharp exterior, there are rare moments where she seems softer and vulnerable. However, she quickly hardens her core to do what her family needs.
 - **High Fashion**: Always dressed in the latest Vumbua trends, often slightly more "Gilded" than her actual status allows.
 
 ## Session Appearances
@@ -80,10 +80,10 @@ Lyra is one half of the Castellan twins, a political family from the lower spire
 - **The Sentries:** Glared down the gaggle of students trying to follow Val into his Sterling Hall dorm, giving them a severe "century stare" before slamming the door.
 
 ### Session 6
-- **Courtroom Wedging:** Blocked Lomi's path and wedged him out of the conversation with Val in the courtyard.
-- **The Cafeteria Intercept:** Attempted to return to Val's table in the cafeteria to interrupt his discussion with Aggie and Britt, but was physically blocked and stalled by Lomi.
-- **"The Mushrooms" Comment:** Mocked Val for "talking to the mushrooms" under her breath, which Lomi overheard and which prompted Val to leave the cafeteria in frustration.
-- **Toast Target:** Hit in the head by a piece of toast thrown by Iggy after insulting the group, causing her to glare daggers at Lomi (whom she assumed threw it).
+- **Courtroom Wedging:** Blocked Loami's path and wedged him out of the conversation with Val in the courtyard.
+- **The Cafeteria Intercept:** Attempted to return to Val's table in the cafeteria to interrupt his discussion with Aggie and Britt, but was physically blocked and stalled by Loami.
+- **"The Mushrooms" Comment:** Mocked Val for "talking to the mushrooms" under her breath, which Loami overheard and which prompted Val to leave the cafeteria in frustration.
+- **Toast Target:** Hit in the head by a piece of toast thrown by Iggy after insulting the group, causing her to glare daggers at Loami (whom she assumed threw it).
 
 
 Based on the details in their notes and the geography of Harmony, here is a look at where Lyra and [[ludo-castellan]] likely hail from and what truly drives them.
@@ -125,7 +125,7 @@ They view [[Valentine Sterling]] as a "golden key."
 - **The Goal:** If they can make themselves indispensable to a Sterling, they effectively "skip the line" of the 80-year stagnation that has kept their family in the lower spires.
 
 #### 3. The "Interesting Clutter" (The Party)
-The twins view the rest of the party (like [[Iggy]], [[Lomi]], or [[Britt]]) as "clutter." Their motive here is **Risk Management**. They want to ensure these "low-rank" associates don't "stain" Val's reputation or, worse, provide Val with a sense of loyalty that doesn't involve the Castellans. If the party becomes too influential, expect the twins to try to "buy" them off or socially isolate them.
+The twins view the rest of the party (like [[Iggy]], [[loami]], or [[Britt]]) as "clutter." Their motive here is **Risk Management**. They want to ensure these "low-rank" associates don't "stain" Val's reputation or, worse, provide Val with a sense of loyalty that doesn't involve the Castellans. If the party becomes too influential, expect the twins to try to "buy" them off or socially isolate them.
 
 ---
 

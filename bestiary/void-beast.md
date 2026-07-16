@@ -26,7 +26,7 @@ The Academy trains students to fight these with floodlights and force. They are 
 > [!warning]-
 > The following information is not known to the player characters.
 
-### Clan Lore (Ash-Blood / Ignatius): "Smoke-Stalkers"
+### Clan Lore (Ash-Blood / ignatious): "Smoke-Stalkers"
 
 They do not hunt heat; they hunt **fear**. They are physical manifestations of the void trying to reclaim reality.
 

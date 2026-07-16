@@ -30,7 +30,7 @@
 | **Theorem** | Academic Student | Out-of-place among Grinders | Grinder's Corner | S2 Planning |
 | **Iron-Jaw Jax** | Construct Veteran | Scarred, dismissive of theories | Speculators' Debate | S2 Planning |
 | **Bramble** | Plant-person | Thoughtful, quiet | Speculators' Debate | S2 Planning |
-| **Lance** | Harmony Native | Bridgerton-esque "chad" | Spotted Ignatius at intake | Session 1 |
+| **Lance** | Harmony Native | Bridgerton-esque "chad" | Spotted ignatious at intake | Session 1 |
 | **Lady Ignis** | Ash-Blood Council Member | Political powerhouse | Harmony Prime (distant) | Background |
 | **Captain Elara Thorne-Sterling** | Explorer | Discovered Ash-Blood Isles | Recently returned to Vumbua | Background |
 | **Lord Commander Titus Vane** | Military Leader | Aggressive expansionist | Harmony Prime (distant) | Background |
@@ -278,7 +278,7 @@
 
 **Relationships:**
 - One of ~200 Ash-Bloods at Academy
-- Could connect with Ignatius (fellow Ash-Blood)
+- Could connect with ignatious (fellow Ash-Blood)
 - Being used/dismissed by Legacy Kids
 
 **Plot Hooks:**
@@ -418,8 +418,8 @@
 - "The test ain't about knowin' the book... it's about knowin' the *world*..."
 
 **Relationships:**
-- Likely knows Lomi's family (boiler worker connections)
-- Could commiserate with Lomi
+- Likely knows Loami's family (boiler worker connections)
+- Could commiserate with Loami
 
 **Plot Hooks:**
 - Source of honest veteran perspective
@@ -533,9 +533,9 @@
 
 **Appearance:** Bridgerton-esque "chad," posh Clean-Suit.
 
-**Personality:** Recognized Ignatius as Ash-Blood immediately. Represents Harmony natives curious about clans.
+**Personality:** Recognized ignatious as Ash-Blood immediately. Represents Harmony natives curious about clans.
 
-**First Encounter:** Approached Ignatius after entrance exam.
+**First Encounter:** Approached ignatious after entrance exam.
 
 **Plot Hooks:**
 - Could befriend or patronize clan members
@@ -563,7 +563,7 @@
 **Relationships:**
 - Escorted to Harmony Prime by Captain Elara Thorne
 - Attempted to bring Mizizi Elders (they refused)
-- Ignatius sees her as successful integration example
+- ignatious sees her as successful integration example
 
 **Plot Hooks:**
 - Represents political path for clan members
@@ -640,8 +640,8 @@
 - **Serra** approached party (Session 1)
 - **Lucky** spotted party as potential marks/allies
 - **Rill** aware of Britt/Aggie arrival (sent letters)
-- **Kindle** could connect with Ignatius (both Ash-Blood)
-- **Sarge** might know Lomi's family (boiler workers)
+- **Kindle** could connect with ignatious (both Ash-Blood)
+- **Sarge** might know Loami's family (boiler workers)
 
 ### Legacy Student Network
 - **Serra ↔ Valerius** (he protects her secret)
@@ -655,9 +655,9 @@
 - **Dean Isolde ↔ Titus Vane** (sibling conflict over methods)
 
 ### Clan Connections
-- **Lady Ignis ← Ignatius** (clan matriarch as role model)
+- **Lady Ignis ← ignatious** (clan matriarch as role model)
 - **Rill → Britt/Aggie** (sent welcoming letters)
-- **Kindle ← Ignatius** (both Ash-Blood, potential connection)
+- **Kindle ← ignatious** (both Ash-Blood, potential connection)
 
 ---
 

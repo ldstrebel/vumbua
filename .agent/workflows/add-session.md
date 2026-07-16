@@ -195,9 +195,10 @@ Update `characters/index.md` for any new NPCs added.
 
 For each new NPC without a portrait:
 1. Check `meta/foundry-exports/portraits/` for `[snake_name]_portrait.png`
-2. If missing, generate using the AI image tool
-3. **Portrait style guidance:** match the style of existing portraits in `meta/foundry-exports/portraits/` — they are painterly fantasy character illustrations with muted/warm tones
-4. Filename must be: `[snake_case_name]_portrait.png` — slugify rule: lowercase, strip all quotes/punctuation, spaces → underscores
+2. If missing, **before generating**: call `view_file` on the NPC's profile file in `characters/npcs/[name].md` and extract every physical description detail from the transcript notes. Do not generate from the character's name alone — always use description tokens from the file.
+3. Generate using the AI image tool with those description tokens. **Portrait style guidance:** match the style of existing portraits in `meta/foundry-exports/portraits/` — they are painterly fantasy character illustrations with muted/warm tones.
+4. If no physical description exists in the profile yet, generate a placeholder portrait, name it correctly, and add a `<!-- regenerate: no physical description yet -->` comment to the NPC file as a reminder.
+5. Filename must be: `[snake_case_name]_portrait.png` — slugify rule: lowercase, strip all quotes/punctuation, spaces → underscores
    - "Professor Kante" → `professor_kante_portrait.png`
    - `Seraphina "Serra" Vox` → `seraphina_serra_vox_portrait.png`
 
@@ -241,6 +242,17 @@ Tell the user: *"Ready — `vumbua-codex.json` is built. Paste it into the Found
 Check whether `sessions/planning/sN+1-plan.md` exists.
 - If it exists → do not touch it (don't overwrite prep the GM has already done)
 - If it doesn't exist → create a stub noting what the party was doing at session end and any obvious hooks
+
+---
+
+## Step 11 — Storyboard handoff (if applicable)
+
+If a graphic novel storyboard is planned for this session, hand off to the `/storyboard` workflow now.
+
+Tell the user:
+> "The clean transcript is ready at `sessions/transcripts/clean/sN-clean.md`. Run `/storyboard` when you're ready to generate the comic pages — it will use this file as its ground-truth source."
+
+Do NOT begin storyboard generation inside this workflow. The `/storyboard` workflow has its own mandatory verification steps and human approval gates that must run separately.
 
 ---
 

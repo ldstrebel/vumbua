@@ -31,7 +31,7 @@ At the Block 99 bonfire, Percy was holding court about the Sixfold Theory, argui
 
 *"I'll wager 50 sovereigns that there's an Earth clan underground! We've got Plants, Fire... there MUST be an Earth clan to complete the symmetry!"*
 
-When [[Lomi]] mentioned hearing noises in the boiler room, Percy was delighted: *"See! Salt of the earth! The boiler workers know!"* He introduced himself as Percy Vane-Smythe III and immediately bonded with Lomi.
+When [[loami]] mentioned hearing noises in the boiler room, Percy was delighted: *"See! Salt of the earth! The boiler workers know!"* He introduced himself as Percy Vane-Smythe III and immediately bonded with Loami.
 
 Percy led the group to [[Lucky]] to buy "Engine Grease" (moonshine), showing he knows the campus hustler network. He paid in sovereigns.
 
@@ -49,7 +49,7 @@ Percy's core belief: the known clans (Plants/[[Mizizi]], Fire/[[Ash-Bloods]]) ar
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Lomi]]** | Bonded quickly over shared curiosity. Respects him as "salt of the earth." |
+| **[[loami]]** | Bonded quickly over shared curiosity. Respects him as "salt of the earth." |
 | **[[Lucky]]** | His supplier for contraband. Existing business relationship. |
 | **[[Iron-Jaw Jax]]** | Ongoing debate partner (Jax thinks the theory is nonsense). |
 | **[[Bramble]]** | Fellow debater at the bonfire. |
@@ -60,5 +60,5 @@ Percy's core belief: the known clans (Plants/[[Mizizi]], Fire/[[Ash-Bloods]]) ar
 ## Source References
 
 - **[[session-02|Session 2]]** — Led the Speculators' Debate at the [[Block 99]] bonfire; argued for the Sixfold Theory *(Scene 1: The Bonfire Theories)*
-- **[[session-02|Session 2]]** — Bonded with [[Lomi]] over "salt of the earth" shared curiosity *(Scene 1)*
+- **[[session-02|Session 2]]** — Bonded with [[loami]] over "salt of the earth" shared curiosity *(Scene 1)*
 - **[[session-02|Session 2]]** — Led the group to [[Lucky]] to buy Engine Grease; paid in sovereigns *(Scene 2: Getting Lucky)*

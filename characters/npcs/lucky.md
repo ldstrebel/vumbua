@@ -32,11 +32,11 @@ A student in the Silver tier (ranked purely on survival instinct, as he hasn't a
 - [[Sarge]] was watching Lucky disapprovingly from a distance, kicking empty bottles
 
 ### Session 5
-- Led [[Iggy]], [[Ignatius]], and [[Lomi]] to his "warehouse" (a storage closet) for a "Cards on the Table" negotiation
+- Led [[Iggy]], [[ignatious]], and [[loami]] to his "warehouse" (a storage closet) for a "Cards on the Table" negotiation
 - Revealed he is tracking people, things, and stories like [[Iggy]] and [[Zephyr]] because they represent a "Big Score" or a ticket out
 - Admits to a crush on [[Zephyr]] ("She's electric. No cooties—she just zaps them.")
 - Traded an annotated exam guide and Reso Race intel for [[Iggy]]'s clockwork inventions
-- Struck a distribution deal with [[Lomi]] for "Ambrosia of Luck" (Engine Grease branding)
+- Struck a distribution deal with [[loami]] for "Ambrosia of Luck" (Engine Grease branding)
 
 ## Personality
 - **Enterprising Hustler:** If you need it, Lucky can get it (for a price).
@@ -50,7 +50,6 @@ A student in the Silver tier (ranked purely on survival instinct, as he hasn't a
 For a detailed breakdown of Lucky's journey and his discovery of Iggy's tech, see: [[lucky-timeline|Lucky's Detailed Timeline]].
 
 - **Pre-Academy:** Surviving the Anchorage outskirts after his parents' death in an exploration accident involving [[Sarge]].
-- **The Intake:** Pickpocketed a dead candidate's Loom Receipt to get into the Academy.
 - **The First Meeting:** Approached [[Iggy]] in the Great Hall. Sold him a stolen guard turban. This wasn't an accident—Lucky saw the "Look" during intake and decided to "invest" early.
 - **The Flip:** Took some of [[Iggy]]'s discarded "mechanical junk" (pins and gears) to his city vendor. 
     - **The Reveal:** The vendor LOVED it. Called it "old school"—mechanical power generation over HTech. Wanted all Lucky could get.
@@ -73,7 +72,9 @@ For a detailed breakdown of Lucky's journey and his discovery of Iggy's tech, se
 > The following information has been narrated by the GM but is not known to the player characters.
 
 ### Backstory
-A street urchin from the Anchorage outskirts who pickpocketed a dead candidate's Loom Receipt to get into the intake. He isn't supposed to be here at all. He is an orphan; his parents were killed in a tragic exploration accident that [[Sarge]] was a member of.
+A street urchin from the Anchorage outskirts. He isn't supposed to be here at all. He is an orphan; his parents were killed in a tragic exploration accident on the ship **The Tempest**, which belonged to **Iron Hide**. [[Sarge]] and Iron Hide were the only survivors. 
+
+Growing up, Lucky was raised on raw survival skills and rule-bending by Sarge. Despite his rough background and history of grifting, Lucky actually took the Academy entrance exam fair and square.
 
 ### Bond
 A younger sister living in the "Low-Bunks" whom he sends his extra rations to.

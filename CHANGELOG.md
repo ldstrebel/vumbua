@@ -6,8 +6,8 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ## 2026-06-21
 
-- **Quest Trackers & Session Appearances Update**: Updated the `Quest Tracker` and `Session Appearances` sections in all 5 player character profiles to incorporate their Session 6 events and fill in historical session gaps (Sessions 3, 4, 4.5, 5). → `characters/player-characters/{ignatius.md, lomi.md, iggy.md, britt.md, aggie.md}`, `.agent/workflows/lore-index.md`
-- **Ignatius's Hangar Detour Catchup**: Integrated Ignatius's hangar detour adventure into the clean transcript of Session 6 and updated all down-stream campaign trackers, NPCs, timelines, and index files. Rebuilt the full Codex JSON for Foundry VTT. → `sessions/transcripts/clean/s6-clean.md`, `sessions/index.md`, `timeline.md`, `knowledge-tracker.md`, `characters/index.md`, `characters/npcs/ember.md`, `characters/npcs/alistair-rook.md`, `.agent/workflows/lore-index.md`, `meta/foundry-exports/vumbua-codex.json`
+- **Quest Trackers & Session Appearances Update**: Updated the `Quest Tracker` and `Session Appearances` sections in all 5 player character profiles to incorporate their Session 6 events and fill in historical session gaps (Sessions 3, 4, 4.5, 5). → `characters/player-characters/{ignatious.md, Loami.md, iggy.md, britt.md, aggie.md}`, `.agent/workflows/lore-index.md`
+- **ignatious's Hangar Detour Catchup**: Integrated ignatious's hangar detour adventure into the clean transcript of Session 6 and updated all down-stream campaign trackers, NPCs, timelines, and index files. Rebuilt the full Codex JSON for Foundry VTT. → `sessions/transcripts/clean/s6-clean.md`, `sessions/index.md`, `timeline.md`, `knowledge-tracker.md`, `characters/index.md`, `characters/npcs/ember.md`, `characters/npcs/alistair-rook.md`, `.agent/workflows/lore-index.md`, `meta/foundry-exports/vumbua-codex.json`
 
 ## 2026-06-19
 
@@ -15,7 +15,7 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 
 ## 2026-06-16
 
-- **Session 6 Planning Refactoring**: Reorganized and expanded the Session 6 planning guide into a playable chronological Daggerheart v1.6 DM guide. Added Scene 1: Lomi's Crossroads (Union shift choice, study group ticket pressure, heist slip-past), Scene 2: Hangar Infiltration & Rill's Save (Prism Gate, Rovaldi monocle scan table, Rill's rescue & limits, pushing luck), Scene 3: Thursday morning class & Valerius's ticket confrontation (entourage escape roleplay, ground vs. air, Presence checks), Scene 4: The Reso Race Sandbox (Bleachers vs. Zephyr actions, grog selling with Lucky & Lomi, active NPC prompts, 4-beat roll-interpretation guide), Scene 5: Curfew & Study Night (Loom-Guard curfew enforcement, study guides checks), and Scene 6: The Written Exam & Confluence (Resonant Ink, Copper baseline math, Loom prophecies). → `sessions/planning/s6/S6 Planning.md`
+- **Session 6 Planning Refactoring**: Reorganized and expanded the Session 6 planning guide into a playable chronological Daggerheart v1.6 DM guide. Added Scene 1: Loami's Crossroads (Union shift choice, study group ticket pressure, heist slip-past), Scene 2: Hangar Infiltration & Rill's Save (Prism Gate, Rovaldi monocle scan table, Rill's rescue & limits, pushing luck), Scene 3: Thursday morning class & Valerius's ticket confrontation (entourage escape roleplay, ground vs. air, Presence checks), Scene 4: The Reso Race Sandbox (Bleachers vs. Zephyr actions, grog selling with Lucky & Loami, active NPC prompts, 4-beat roll-interpretation guide), Scene 5: Curfew & Study Night (Loom-Guard curfew enforcement, study guides checks), and Scene 6: The Written Exam & Confluence (Resonant Ink, Copper baseline math, Loom prophecies). → `sessions/planning/s6/S6 Planning.md`
 - **Agent Alignment & Lore Sync**: Updated visual and mechanical campaign guidelines to reflect the clean Victorian-academic aesthetic, the Loom's organic confluence, and the empirical nature of harmonics → `.agent/workflows/lore-index.md`, `.agent/workflows/ai-entry.md`
 - **Lore Corrections**: Refined Settika's Prism Falls water and the Loom's definitions to replace legacy calculated/sci-fi computer descriptions with the organic, conceptual imbuement, and diagnostic magic science → `locations/settika.md`, `world/harmony-nodes.md`, `glossary.md`, `locations/walker-core.md`
 
@@ -38,7 +38,7 @@ All AI-driven changes to the Vumbua campaign repo, in reverse chronological orde
 - **Great Surge endgame**: Added 2000+ amplitude spike detail (GM-only) to `world/power-system.md`
 - **Harmony nodes**: Added faction ownership links (Gilded→Chime Spires, Vox→Umbra, Scrivener→Bloomfield) → `world/harmony-nodes.md`
 - **NPC backstory audit**: Added GM-only backstory/bond/flaw/motive from lore dump to: Sarge, Lucky, Pudge, Pyrrhus, Kojo, Ratchet, Valerius Sterling
-- **New NPC**: Created Soot (Lomi's Block 99-Piston roommate) → `characters/npcs/soot.md`
+- **New NPC**: Created Soot (Loami's Block 99-Piston roommate) → `characters/npcs/soot.md`
 - **Lore-index update**: Updated NPC roles (Ratchet, Kojo, Pyrrhus), added Block 99-Piston entry
 
 ## 2026-02-16

@@ -44,7 +44,7 @@ Before Track Assignment, the party needs to execute their plan: track down [[Luc
 - **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Lomi's new reputation as a rib-breaker.
 - **The Catch:** If they successfully intimidate him, Lucky might hand it over but remember the slight. If they barter, he'll gladly take the watch but might try to upsell them on something else.
 - The "study guide" contains 10 annotated questions from Val, some of which Val noted were fundamentally flawed but useful.
-- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[world/exam/GenEd_-_Exploration101_survey.json]].
+- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[GenEd_-_Exploration101_survey.json]].
 
 ---
 

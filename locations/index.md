@@ -26,8 +26,8 @@ tags:
 | Location | Type | Notable Residents / Features |
 |---|---|---|
 | [[Block 04]] | [[Mizizi]] dorms | [[Britt]], [[Aggie]] |
-| [[Block 12]] | Standard dorms | [[Iggy]], [[Ignatius]] |
-| [[Block 99]] | Industrial / Copper dorms | [[Lomi]], [[Ratchet]], [[Soot]]; bonfire pit |
+| [[Block 12]] | Standard dorms | [[Iggy]], [[ignatious]] |
+| [[Block 99]] | Industrial / Copper dorms | [[loami]], [[Ratchet]], [[Soot]]; bonfire pit |
 | [[Celestial Lounge]] | Upscale social club | Northwest "fancy district" |
 | [[Spire-Scape]] | Temporary urban district | 70% of Academy structures |
 

@@ -106,7 +106,7 @@ aliases:
 - ✅ The "Sixfold Theory" exists---[[Percival Vane-Smythe III|Percy]] theorizes Earth, Air, Water clans must exist (Session 2)
 - ✅ [[Ash-Bloods]] release heat by burning hotter, not sweating (Session 2)
 - ✅ Ash-Bloods were going through a "Great Cooling" before Harmony found them (Session 2)
-- ✅ Cultural divide: traditionalists ([[Ignatius]]) vs modernizers ([[Ember]]) on fire vs batteries (Session 2)
+- ✅ Cultural divide: traditionalists ([[Ignatious]]) vs modernizers ([[Ember]]) on fire vs batteries (Session 2)
 - ✅ ~200 Ash-Bloods at the Academy among 70,000 students (Session 2)
 - ✅ [[Zephyr]] can cause purple lightning---struck by bolt from clear sky, unharmed (Session 2)
 
@@ -190,7 +190,7 @@ aliases:
 - ✅ **Pudge** (Griffin rider) is the underdog with the lowest odds.
 - ✅ **Rill** is a racer in the upcoming event.
 - ✅ **Prism Water** security exists at the maintenance gates—it reveals the true identity/role of those seeking entry.
-- ✅ **Ambrosia of Luck** is the branded "Engine Grease" grog distributed by Lomi and Lucky.
+- ✅ **Ambrosia of Luck** is the branded "Engine Grease" grog distributed by Loami and Lucky.
 - ✅ **Surveyor's Compass:** Brit found a Harmony surveyor's compass that points in a stable direction and reads: "momentum is life always towards home" (+2 to navigation, reroll using 1 Hope) ([[s6-clean|Session 6]])
 - ✅ **Finch's Intrigue:** Finch Gable is trying to trade secrets about Valerius's team's core confiscation to his reporter/enforcer in exchange for access to the observer balloon ([[s6-clean|Session 6]])
 - ✅ **Locked Node:** The replacement node for Valerius's backed team (Shatter Stamper) is locked in Hangar Bay 4 by Warden Rovaldi ([[s6-clean|Session 6]])
@@ -198,7 +198,7 @@ aliases:
 - ✅ **The Airship Invitation:** Valentine invited the group to board the Sterling family airship (Zephyr) VIP deck to study and watch the race together ([[s6-clean|Session 6]])
 - ✅ **Rovaldi's Eye:** Warden Rovaldi of the guards has a mechanical eye that scans different spectrums ([[s6-clean|Session 6]])
 - ✅ **Shatter Stamper Design:** Team 1's heavy crawler, the Ironclad, is a brutalist defensive rig on treads built for attrition and bottlenecking rather than speed, backed by Lady Ignis and the modernizer Ash Reds faction ([[s6-clean|Session 6]])
-- ✅ **Ember's Deal:** Ember (Ignatius's cousin) is aligned with the modernizer Ash Reds. She secured Ignatius's help to pre-warm the engine block using his Ash-Blood fire in exchange for a future favor from her and Valerius ([[s6-clean|Session 6]])
+- ✅ **Ember's Deal:** Ember (Ignatious's cousin) is aligned with the modernizer Ash Reds. She secured Ignatious's help to pre-warm the engine block using his Ash-Blood fire in exchange for a future favor from her and Valerius ([[s6-clean|Session 6]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The "Griffin" rules nerf biologicals because they are hard to care and feed for on extended journeys and would have a disproportionate advantage in the race.
@@ -217,3 +217,24 @@ aliases:
 ### GM Secrets (Players Don't Know)
 - ❌ Lucky's parents were killed in an accident involving [[Sarge]].
 - ❌ He pickpocketed a dead candidate's receipt to get in.
+
+---
+
+## Session 7 & 7.5: The Resonance Anomaly & VIP Day
+
+### What Players Know
+- ✅ **The Resonance Engine Room:** Harmony's power functions like wireless "DC current" captured by resonators.
+- ✅ **The Resistor Design:** Umbra crystals (Vox family product) act as resistors to cap power flow.
+- ✅ **The Night of Sparks:** Historical surge catastrophe that burned half the world, leading to the creation of Umbra resistors.
+- ✅ **The Global Amplitude Anomaly:** The Ash-Blood integration failed to increase the global amplitude network capacity as predicted. Next-gen Panda resonators fluctuate and stall because the network power stays below their threshold.
+- ✅ **Castellan Exposure:** The Castellan family faces financial ruin if the next-gen resonator line is scrapped.
+- ✅ **Lady Ignis's Strategy:** Lady Ignis wants the Ash-Bloods established as a long-term Harmony faction. Cade Ashveil is working to facilitate Mizizi integration to improve the Ash-Bloods' standing.
+- ✅ **Ignatious's Ideology:** Ignatious has shifted from promoting Ash-Blood isolationism to believing their future lies with Harmony.
+- ✅ **The Race Outcome:** Pudge won the Reszo Race on his Griffin by striking the center spire. Shatter Stamper stalled out halfway.
+- ✅ **Mycelium Stagnation:** Great Aunt Angela Galaspora warned Aggie that the stagnation in the Mycelium Forest is moving faster, and gave her a compressed **Mizizi Spore Pod** to ground resonance surges.
+- ✅ **Feltland Node Anomaly:** During the race, the simulated Feltland terrain bark was visibly rejecting the resonance frequency.
+
+### GM Secrets (Players Don't Know)
+- ❌ The exact reason why the Ash-Blood integration failed to increase the amplitude (linked to the Trench-Kin and the Shattered Circuit metaphysics).
+- ❌ The detailed financial backing and contracts between the Castellans, the Vox family, and the Academy.
+

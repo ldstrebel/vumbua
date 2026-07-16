@@ -19,7 +19,7 @@ A cluttered, dimly lit bunker tucked away in the maintenance and boiler sections
 ## Session Appearances
 
 ### Session 4
-- The party (Iggy, Lomi, Ignatius) is pulled in here by [[Lucky]] after he sees Iggy's golden entrance exam receipt.
+- The party (Iggy, Loami, ignatious) is pulled in here by [[Lucky]] after he sees Iggy's golden entrance exam receipt.
 - [[Sarge]] is present, acting as muscle (though mostly just keeping an eye on Lucky).
 - The interrogation is interrupted by **Dash**, an eccentric student with an "in" for Resonance Race merchandise.
 

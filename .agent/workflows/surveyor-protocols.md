@@ -62,6 +62,7 @@ You must design the survey nodes to leverage these native mechanics:
     *   *Minor Utility Gear:* Focus Glass Piece (+1 to Instinct checks for details), Surveyor's Compass (Advantage on navigation), Silent Silt pouch (throw to silence a 10ft area).
     *   *Class Gear:* Pocket Mechanic Tools (for Guardians/Mechanics), Sterling Crest Pin (+1 to Presence checks with nobles).
 *   **Metadata Synchronization:** Ensure every loot piece, experience, clue, or stress point awarded by a choice or roll outcome is defined as a variable in the `surveyMeta.metas` array and matched in the port/outcome `scores` object. This ensures the database logs their character sheet updates without ambiguity.
+    *   *Design Constraint for Inter-Session / Study Grind Surveys:* For standard inter-session catchups and study grinds, do NOT award digital/meta stats, loot, clues, or bonuses via `scores` or `metas`. Players must remember what they read using their human brains to receive the benefit, rather than using meta fields to give them items/clues automatically. Reserve automatic metadata synchronization flows exclusively for when a player misses a session.
 
 ---
 

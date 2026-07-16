@@ -1,13 +1,14 @@
 ---
 aliases:
   - "Lava Boy"
+  - "Ignatius Magmatoa"
 tags:
   - pc
   - ash-blood
   - silver-rank
 ---
 
-# Ignatius
+# Ignatius Magmatoa
 
 > *"Why did all the elders leave?"*
 
