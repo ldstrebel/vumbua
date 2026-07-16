@@ -14,7 +14,7 @@ My colleagues in the administration treat it as a black box. They input candidat
 
 It does not merely score answers; it maps the resonance between concepts and the resonance between people. When a candidate takes a written slate, the Loom is measuring how their mind bridges the gap between academic theory and situational empathy. When they step into the simulator, it tracks how their unique bio-frequencies interact with the virtual nodes. And when it groups them, it is looking for existing threads of social and conceptual connectivity that we, in our clinical ignorance, might completely overlook. 
 
-The results of Cohort 08 have just been synthesized. The transition matrix is fascinating—and, as always, brutally pragmatic.
+The results of Cohort 08 have just been synthesized. The transition matrix is fascinating—and, as always, brutally pragmatic. Below is my analysis for your reading pleasure.
 
 ---
 
@@ -50,11 +50,3 @@ The Loom has synthesized **Squad #907**. I have reviewed the profiles of the fiv
     *   *Kante's Notes:* The flame-haired Emberkin. He possesses precise thermodynamic control, pre-heating engine coolant blocks without cracking the metal. He rejects Harmony integration in favor of mutual trade. He is a volatile, high-output energy source.
 *   **Loami (Warden / Flight Systems)**  
     *   *Kante's Notes:* A solid, industrial anchor. Raised in the boiler rooms, he understands working-class survival. His flight simulator instincts are superb. He is the practical hand that will keep the ship flying when the theory fails.
-
-### 2. The Resonance Rationale
-Why did the Loom bind these five? 
-My colleagues would say it is a mistake—their collective skepticism rating is at **87% variance** from Harmony loyalty baselines. But the Loom does not look at loyalty; it looks at *survival*. 
-
-By pairing Britt’s scouting, Iggy’s structural analysis, Aggie’s chemical preservation, Ignatius’s thermal drive, and Loami’s mechanical weight, the Loom has created a self-sustaining ecosystem. They have repeatedly self-selected as a cooperative unit during curfew hours and campus crises. The Loom did not invent their connection; it simply recognized the thread they had already spun.
-
-They have been cleared for the **Basalt Run**. I will watch them closely. If they survive the rapids and the vents, they may prove that the Loom's romantic logic is superior to our clinical metrics.

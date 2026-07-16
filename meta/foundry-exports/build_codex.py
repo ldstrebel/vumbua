@@ -110,6 +110,9 @@ def get_player_facing_content(content):
     # 3. Strip GM secrets and GM narration (non-greedy, stopping at next header or end of file)
     content = re.sub(r'## GM Secrets.*?(?=\n## |\n---|\Z)', '', content, flags=re.DOTALL | re.IGNORECASE)
     content = re.sub(r'## GM Narration.*?(?=\n## |\n---|\Z)', '', content, flags=re.DOTALL | re.IGNORECASE)
+    content = re.sub(r'## GM Notes.*?(?=\n## |\n---|\Z)', '', content, flags=re.DOTALL | re.IGNORECASE)
+    content = re.sub(r'## GM Session Plan Context.*?(?=\n## |\n---|\Z)', '', content, flags=re.DOTALL | re.IGNORECASE)
+    content = re.sub(r'## Secret Agenda.*?(?=\n## |\n---|\Z)', '', content, flags=re.DOTALL | re.IGNORECASE)
     
     return content.strip()
 
@@ -138,6 +141,9 @@ def markdown_to_html(text):
     # Pre-processing: Strip GM Secrets
     text = re.sub(r'## GM Secrets.*?(?=\n## |\n---|\Z)', '', text, flags=re.DOTALL | re.IGNORECASE)
     text = re.sub(r'## GM Narration.*?(?=\n## |\n---|\Z)', '', text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'## GM Notes.*?(?=\n## |\n---|\Z)', '', text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'## GM Session Plan Context.*?(?=\n## |\n---|\Z)', '', text, flags=re.DOTALL | re.IGNORECASE)
+    text = re.sub(r'## Secret Agenda.*?(?=\n## |\n---|\Z)', '', text, flags=re.DOTALL | re.IGNORECASE)
 
     # Tables: Improved parsing using safe split
     lines = text.split('\n')
