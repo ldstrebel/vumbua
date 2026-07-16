@@ -6,7 +6,7 @@ aliases:
 
 **Date:** [Campaign Start]  
 **Session Number:** 0  
-**Players Present:** [[britt|Britt]] (Sophie), [[aggie|Aggie]] (Kristina), [[ignatious|ignatious]] (John), [[loami|Loami]] (Luke F), [[iggy|Iggy]] (Holly)
+**Players Present:** [[britt|Britt]] (Sophie), [[aggie|Aggie]] (Kristina), [[ignatius|Ignatius]] (John), [[lomi|Lomi]] (Luke F), [[iggy|Iggy]] (Holly)
 
 ---
 
@@ -27,7 +27,7 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 
 **SOPHIE (BRITT)** Literally mine too. I'm telling you there's like—we think the same or something.
 
-**JOHN HAGEY (ignatious)** This was fate. This was decided by fate. We're not changing anything.
+**JOHN HAGEY (IGNATIUS)** This was fate. This was decided by fate. We're not changing anything.
 
 **SOPHIE (BRITT)** You can't fight fate.
 
@@ -69,7 +69,7 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 
 **Player Discoveries:**
 - Harmony made contact 1-2 cycles ago
-- "[[valentine-sterling-sr|Valentine Sterling Sr.]]" ("[[valentine-sterling-sr|The Paper Man]]") led the expedition (sterile metal outfit)
+- "[[Valerius Sterling Sr.|The Paper Man]]" led the expedition (sterile metal outfit)
 - Harmony provides tools to destroy the forest (solvents, weapons)
 - In return, Harmony takes soil, roots, bark, and stone
 - Neither side fully understands what the other wants
@@ -94,7 +94,7 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 
 **AGGIE (VIA LUKE S)** (Relayed thought) I feel like it would be distant relatives... maybe cousins or second cousins. Know enough about each other that when we find out we're going to the same school, it makes sense they would connect.
 
-**LUKE FOREMAN (Loami)** Same year at Turtle Camp.
+**LUKE FOREMAN (LOMI)** Same year at Turtle Camp.
 
 **SOPHIE (BRITT)** (Excited) What if we're cousins and we're in the same year at school? We've always been sort of forced together... but we obviously are similar in a lot of ways.
 
@@ -109,6 +109,10 @@ The largest intake class in [[Vumbua Academy]] history begins with 100,000 candi
 - Same year at "school" (cultural education)
 - They both sense something is wrong
 - Shared mission: Save their people
+
+**GM Notes:**
+> [!NOTE]
+> Britt's suspicion is well-founded. The forest destruction is a tragedy in progress.
 
 ---
 
@@ -178,29 +182,29 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 **Location:** The [[ash-blood-isles|Ember]] Trail to Vumbua  
 **Time:** Day of Arrival  
-**NPCs:** [[ignatious|ignatious]]
+**NPCs:** [[ignatius|Ignatius]]
 
-**ignatious (JOHN)**, a rebellious [[Ash-Bloods|Ash-Blood]] teenager with a backpack, arrives in the city. He looks at the magitek lights powered by Harmony's crystal batteries.
+**IGNATIUS (JOHN)**, a rebellious [[Ash-Bloods|Ash-Blood]] teenager with a backpack, arrives in the city. He looks at the magitek lights powered by Harmony's crystal batteries.
 
-**ignatious (JOHN)** (Internal Monologue) We're subbing out our own fuel for this fake stuff. It's all fake. It's all wrong. It's not how it should be.
+**IGNATIUS (JOHN)** (Internal Monologue) We're subbing out our own fuel for this fake stuff. It's all fake. It's all wrong. It's not how it should be.
 
 **GM (LUKE S)** (Clarifying) To the elders, you were banished to this trial of adventure...
 
-**ignatious (JOHN)** (To the Elders, in Flashback) No, this is simply a pilgrimage.
+**IGNATIUS (JOHN)** (To the Elders, in Flashback) No, this is simply a pilgrimage.
 
-**ignatious (JOHN)** (Internal Monologue) I'm going to find the new source of heat for the clan and everything's going to go back to the way it should be.
+**IGNATIUS (JOHN)** (Internal Monologue) I'm going to find the new source of heat for the clan and everything's going to go back to the way it should be.
 
 **Player Discoveries:**
-- [[ignatious|ignatious]] is an Ash-Blood teenager
+- [[ignatius|Ignatius]] is an Ash-Blood teenager
 - Views Harmony's "Safe-Flame" (crystal batteries) as fake/wrong
 - Elders say he's "banished to trial"
-- ignatious reframes it as a "pilgrimage"
+- Ignatius reframes it as a "pilgrimage"
 - His goal: Find new heat source for his clan
 - Believes things can "go back to the way it should be"
 
 **GM Notes:**
 > [!NOTE]
-> ignatious doesn't realize his clan is already thriving due to integration. The "new heat" he seeks is the network itself, not an external source.
+> Ignatius doesn't realize his clan is already thriving due to integration. The "new heat" he seeks is the network itself, not an external source.
 
 ---
 
@@ -208,24 +212,24 @@ He scrambles to cover himself, injecting pressurized fluid into his goggles to s
 
 **Location:** Vumbua Under-City - Boiler Room  
 **Time:** End of Shift  
-**NPCs:** [[loami|Loami]], Receptionist
+**NPCs:** [[lomi|Lomi]], Receptionist
 
-**Loami (LUKE F)** finishes a shift at the furnace. He is a "blue-collar grease monkey," perpetually covered in soot and dirt. He grabs his gear, not bothering to shower, and heads up to the Academy.
+**LOMI (LUKE F)** finishes a shift at the furnace. He is a "blue-collar grease monkey," perpetually covered in soot and dirt. He grabs his gear, not bothering to shower, and heads up to the Academy.
 
 **EXT. VUMBUA STREETS - CONTINUOUS**
 
-[[loami|Loami]] walks toward the Academy. He spots a **RECEPTIONIST** casually shredding a document and tossing it into a bin without looking. Loami stops.
+[[lomi|Lomi]] walks toward the Academy. He spots a **RECEPTIONIST** casually shredding a document and tossing it into a bin without looking. Lomi stops.
 
-**Loami (LUKE F)** Hey, you know, there's people in this city that take care of that stuff. You know, it doesn't just get done.
+**LOMI (LUKE F)** Hey, you know, there's people in this city that take care of that stuff. You know, it doesn't just get done.
 
 The Receptionist stares at him.
 
-**Loami (LUKE F)** Public infrastructure is important and there are people that run this city.
+**LOMI (LUKE F)** Public infrastructure is important and there are people that run this city.
 
-Loami walks away, muttering. He recalls his family's advice: *"Someone's got to fix the ship if it goes wrong."*
+Lomi walks away, muttering. He recalls his family's advice: *"Someone's got to fix the ship if it goes wrong."*
 
 **Player Discoveries:**
-- Loami is a Harmony-born worker (not from a clan)
+- Lomi is a Harmony-born worker (not from a clan)
 - Works in the boiler room (furnace shifts)
 - Family tradition: "Someone's got to fix the ship"
 - Advocates for workers and infrastructure
@@ -250,11 +254,11 @@ The group joins 100,000 other candidates.
 
 The players take the assessment (a meta-game survey).
 
-**ignatious (JOHN)** This feels like *Ender's Game* style stuff and I love it.
+**IGNATIUS (JOHN)** This feels like *Ender's Game* style stuff and I love it.
 
 **GM (LUKE S)** (Reviewing Results) I was determined to make it so that it would be really hard to meta the result. It is... super interesting.
 
-**Loami (LUKE F)** Is it an "Oops, all bards" situation or are we pretty good?
+**LOMI (LUKE F)** Is it an "Oops, all bards" situation or are we pretty good?
 
 **GM (LUKE S)** No, no, it's actually like... the party is pretty well balanced. Like zero repeat classes.
 
@@ -264,7 +268,7 @@ The players take the assessment (a meta-game survey).
 
 **GM (LUKE S)** (Closing the Session) The crew will have a chance at the "Chosen One" storyline. I'll tell you that like... none of you are "Rust," which is the bottom tier.
 
-**ignatious (JOHN)** Yo, good work team.
+**IGNATIUS (JOHN)** Yo, good work team.
 
 **Player Discoveries:**
 - 100,000 candidates taking the trials
@@ -277,7 +281,8 @@ The players take the assessment (a meta-game survey).
 
 **GM Notes:**
 > [!NOTE]
-> Actual ranks: Britt and Iggy are Gold, Aggie and ignatious are Silver, Loami is Copper. Never revealed formally as part of Vumbua process
+> Actual ranks: Britt and Iggy are Gold, Aggie and Ignatius are Silver, Lomi is Copper. This will be revealed in Session 1.
+
 ---
 
 ## Session Outcomes
@@ -285,14 +290,14 @@ The players take the assessment (a meta-game survey).
 ### Character Development
 - **[[britt|Britt]]:** Established as suspicious, protective, mission-driven
 - **[[aggie|Aggie]]:** Quieter cousin, shares concerns but less aggressive
-- **[[ignatious|ignatious]]:** Framed personal journey as pilgrimage vs banishment
-- **[[loami|Loami]]:** Working-class pride, infrastructure advocate
+- **[[ignatius|Ignatius]]:** Framed personal journey as pilgrimage vs banishment
+- **[[lomi|Lomi]]:** Working-class pride, infrastructure advocate
 - **[[iggy|Iggy]]:** Curious infiltrator adapting to surface (players don't know infiltrator part)
 
 ### Party Relationships
 - [[britt|Britt]] and [[aggie|Aggie]] are cousins with shared mission
-- [[ignatious|ignatious]] and [[iggy|Iggy]] will be roommates ([[Block 12]])
-- [[loami|Loami]] separate ([[Block 99]])
+- [[ignatius|Ignatius]] and [[iggy|Iggy]] will be roommates ([[Block 12]])
+- [[lomi|Lomi]] separate ([[Block 99]])
 - Group not yet fully formed
 
 ### World State Changes
@@ -308,9 +313,27 @@ The players take the assessment (a meta-game survey).
 
 ---
 
+## Lore Updates
+
+- [x] Update [[Knowledge Tracker]] - Nothing new revealed to players
+- [x] Update [[Timeline]] - Intake Day added
+- [x] Create [[britt|Britt]] profile
+- [x] Create [[aggie|Aggie]] profile
+- [x] Create [[ignatius|Ignatius]] profile
+- [x] Create [[lomi|Lomi]] profile
+- [x] Create [[iggy|Iggy]] profile
+
+---
+
+## GM Reflections
+
+### What Worked Well
+- Survey-based class assignment created organic party composition
+- Character introductions established distinct personalities
+- [[mizizi|Mizizi]] lore drop set up mystery effectively
 
 ### Future Plot Threads to Develop
 - [[britt|Britt]] and [[aggie|Aggie]]'s investigation into Harmony's true motives
-- [[ignatious|ignatious]]'s search for "new heat" (ironic quest)
+- [[ignatius|Ignatius]]'s search for "new heat" (ironic quest)
 - [[iggy|Iggy]]'s true origins and investigation
-- [[loami|Loami]]'s working-class perspective on Academy elite
+- [[lomi|Lomi]]'s working-class perspective on Academy elite

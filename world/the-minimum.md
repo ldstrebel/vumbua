@@ -16,7 +16,7 @@ Official propaganda: "We are re-routing power to the new expansion. It is a sign
 
 ## What Players Know
 
-The lights flicker sometimes. [[Block 99]] (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[loami]], who works in the boiler room, may sense something deeper is wrong with the engines.
+The lights flicker sometimes. [[Block 99]] (Copper dorms) lost power for 4 hours one night. Official reason: "Upgrades." [[Lomi]], who works in the boiler room, may sense something deeper is wrong with the engines.
 
 ### Source References
 
@@ -53,7 +53,7 @@ See [[The Power System]] for full technical details on [[The Power System|Global
 
 The City eats more than it bleeds. It is a parasite looking for a new host.
 
-**[[loami]]'s Insider Knowledge:** The boilers aren't just low on fuel; the *containment seals* are cracking. The city is trying to eat itself to stay alive.
+**[[Lomi]]'s Insider Knowledge:** The boilers aren't just low on fuel; the *containment seals* are cracking. The city is trying to eat itself to stay alive.
 
 ### The Block 99 Incident
 

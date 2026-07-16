@@ -7,12 +7,12 @@ The Academy's first week consists of 7 core classes. Below is the curriculum for
 ## 1. Aetheric Ballistics & Logistics
 **Instructor:** Instructor Hallow  
 
-**The TL;DR:** Kinematic equations for vessel transport and instinctual piloting under fire. The class featured hyper-accelerated math, but practical drills involved dodging heavy thrown objects. Hallow demonstrated trajectory mastery by hitting ignatious perfectly with chalk despite wind resistance, proving that true pilots don’t just calculate; they feel the arc.
+**The TL;DR:** Kinematic equations for vessel transport and instinctual piloting under fire. The class featured hyper-accelerated math, but practical drills involved dodging heavy thrown objects. Hallow demonstrated trajectory mastery by hitting Ignatius perfectly with chalk despite wind resistance, proving that true pilots don’t just calculate; they feel the arc.
 
 * **The True Exam (Module 5 Practical: The Blind Fly):** 
   * *Scenario:* Windows blacked out. Compass spinning. Land the ship. Roll Instinct.
   * *Correct Action:* Butter-Smooth Landing (Trusting instinct over sensors).
-* **Val's Notes (After Class):** "Hallow hit ignatious with chalk today because he didn't 'feel' it coming. The exam's Blind Fly isn't a math problem—it's an Instinct check. If the windows black out, trust your marrow, not the compass."
+* **Val's Notes (After Class):** "Hallow hit Ignatius with chalk today because he didn't 'feel' it coming. The exam's Blind Fly isn't a math problem—it's an Instinct check. If the windows black out, trust your marrow, not the compass."
 * **Lucky's Notes (The Hype):** "Always bet on the pilot who closes their eyes. They either crash immediately or they're a genius."
 * **Kael's Notes (Block 4 Study Feed):** "The compass spins because of latent aetheric friction on the hull. By tapping into the resonance frequency of the aether-oil on the exterior, you can mathematically deduce altitude without visual confirmation."
 

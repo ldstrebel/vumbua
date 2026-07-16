@@ -16,7 +16,7 @@ Meeting covered family communication and Daylight Savings time preference, with 
 Luke S. confirmed they would call their mother following a text communication delay and asserted preference for Daylight Savings Time despite the confusion. Luke S. recounted unexpected $30 per person bus fees and shady taxi practices during their travel from LaGuardia to Newark. Luke Foreman detailed ongoing issues with the fence opener, confirming the purchase of a new 4,500-pound motor to replace the inadequate 1,400-pound one.
 
 **DM Prep and Game Session**  
-Luke S. generated 54 NPC profile pictures using an AI code generator for their game, noting they are not reviewing the images before adding them. The first game session focused on the characters' morning routines, with ignatious and Iggy prioritizing food, which caused them to be ten minutes late to class. During the class disruption, ignatious and Iggy corrected the professor on physics problems, showcasing their blue-collar knowledge despite the high-level theoretical content.
+Luke S. generated 54 NPC profile pictures using an AI code generator for their game, noting they are not reviewing the images before adding them. The first game session focused on the characters' morning routines, with Ignatius and Iggy prioritizing food, which caused them to be ten minutes late to class. During the class disruption, Ignatius and Iggy corrected the professor on physics problems, showcasing their blue-collar knowledge despite the high-level theoretical content.
 
 **Acquiring Study Guide and Race**  
 The characters prioritized finding Lucky to acquire the study guide and prepare for the Reszo race, a major school sporting event involving custom-built vehicles. Lucky demanded secrets in exchange for the 10 questions for the study guide, leading the characters to trade a detailed lore-based story and an invention. The session concluded on a cliffhanger with an agreement to exchange secrets between Zephr and Lucky in a private chat.
@@ -34,53 +34,53 @@ The characters prioritized finding Lucky to acquire the study guide and prepare 
 
 * **Participant Check-in**: John Hagey provided an update on their recovery from food poisoning and noted they are stressed due to wedding preparations and an impending brief scheduled for Wednesday ([00:59:37](?tab=t.l5a4tn7lyufq#heading=h.a6jhg11anh8m)). Luke S. and Luke Foreman confirmed they were ready to begin the session, with Luke Foreman indicating they could play for an extended duration ([00:58:34](?tab=t.l5a4tn7lyufq#heading=h.b6nf53o7mxix)).
 
-* **Initiating the Game Session with Health Rolls**: Luke S. instructed all participants to roll dice for a "health roll," which they clarified was effectively a constitution roll, deciding that Strength would be the closest equivalent stat. Luke Foreman suggested Presence as an alternative, but Luke S. settled on Strength as the most "health based" metric ([01:01:15](?tab=t.l5a4tn7lyufq#heading=h.l2sob030yfcj)). Holly Strebel's character, ignatious, achieved a strong roll, and Luke Foreman's character received a crit ([01:02:41](?tab=t.l5a4tn7lyufq#heading=h.vrd4any4cdhq)).
+* **Initiating the Game Session with Health Rolls**: Luke S. instructed all participants to roll dice for a "health roll," which they clarified was effectively a constitution roll, deciding that Strength would be the closest equivalent stat. Luke Foreman suggested Presence as an alternative, but Luke S. settled on Strength as the most "health based" metric ([01:01:15](?tab=t.l5a4tn7lyufq#heading=h.l2sob030yfcj)). Holly Strebel's character, Ignatius, achieved a strong roll, and Luke Foreman's character received a crit ([01:02:41](?tab=t.l5a4tn7lyufq#heading=h.vrd4any4cdhq)).
 
-* **Long Rest and Class Preparation**: Based on the successful dice rolls, Luke S. confirmed that the characters achieved a long rest without taking any stress. The characters are now waking up on their first hectic day of classes, with Iggy and ignatious bunking together, as did Brent and Aggie, while Loami is in their own room in Block 99 ([01:03:23](?tab=t.l5a4tn7lyufq#heading=h.xwnebmuyolf1)).
+* **Long Rest and Class Preparation**: Based on the successful dice rolls, Luke S. confirmed that the characters achieved a long rest without taking any stress. The characters are now waking up on their first hectic day of classes, with Iggy and Ignatius bunking together, as did Brent and Aggie, while Lomi is in their own room in Block 99 ([01:03:23](?tab=t.l5a4tn7lyufq#heading=h.xwnebmuyolf1)).
 
-* **Iggy and ignatious’ Morning Routine**: The discussion focused on Iggy and ignatious' energy for the first day of class; ignatious woke up at the last minute and realized that Iggy, the "world's deepest sleeper," was still passed out ([01:04:34](?tab=t.l5a4tn7lyufq#heading=h.x71hihhefmc)). ignatious, despite being used to being late, was not accustomed to someone being later than them ([01:05:31](?tab=t.l5a4tn7lyufq#heading=h.b6vmylc3eyny)). ignatious then roused Iggy, who "crawls" and dramatically tumbles out of bed ([01:06:31](?tab=t.l5a4tn7lyufq#heading=h.kqetevo1g2fx)).
+* **Iggy and Ignatius’ Morning Routine**: The discussion focused on Iggy and Ignatius' energy for the first day of class; Ignatius woke up at the last minute and realized that Iggy, the "world's deepest sleeper," was still passed out ([01:04:34](?tab=t.l5a4tn7lyufq#heading=h.x71hihhefmc)). Ignatius, despite being used to being late, was not accustomed to someone being later than them ([01:05:31](?tab=t.l5a4tn7lyufq#heading=h.b6vmylc3eyny)). Ignatius then roused Iggy, who "crawls" and dramatically tumbles out of bed ([01:06:31](?tab=t.l5a4tn7lyufq#heading=h.kqetevo1g2fx)).
 
-* **Loami's Morning Routine**: Loami’s morning energy was described as methodical, like a typical workday, waking up with the sunlight to shave and eat a hearty, plain meal like oatmeal ([01:08:53](?tab=t.l5a4tn7lyufq#heading=h.s66vqs4j3zts)). Loami is not chatty in the morning, focusing on routine and exchanging only nods or grunts with others in their dorm ([01:10:05](?tab=t.l5a4tn7lyufq#heading=h.amy749zidgb)). Loami perceives the looming pressure of 20,000 students being sent home, but is primarily used to handling "pressure in the physical sense" from their work, not the mental, individual pressure of this competition ([01:11:13](?tab=t.l5a4tn7lyufq#heading=h.pgjh7igjxrnl)).
+* **Lomi's Morning Routine**: Lomi’s morning energy was described as methodical, like a typical workday, waking up with the sunlight to shave and eat a hearty, plain meal like oatmeal ([01:08:53](?tab=t.l5a4tn7lyufq#heading=h.s66vqs4j3zts)). Lomi is not chatty in the morning, focusing on routine and exchanging only nods or grunts with others in their dorm ([01:10:05](?tab=t.l5a4tn7lyufq#heading=h.amy749zidgb)). Lomi perceives the looming pressure of 20,000 students being sent home, but is primarily used to handling "pressure in the physical sense" from their work, not the mental, individual pressure of this competition ([01:11:13](?tab=t.l5a4tn7lyufq#heading=h.pgjh7igjxrnl)).
 
 * **Aggie's Morning Routine**: Aggie's dominant morning vibe was described as "calm but excited," as they are not overwhelmed by the high number of students and see the day as a chance to explore ([01:12:23](?tab=t.l5a4tn7lyufq#heading=h.8ytcszftjc81)). Aggie woke up early and spent time in the greenhouse before gently waking up Brit before the last minute ([01:13:39](?tab=t.l5a4tn7lyufq#heading=h.6wtsyb89gyxf)).
 
-* **Decision to Prioritize Food Over Timeliness**: When the characters had to choose between getting food or getting to class on time, ignatious and Iggy immediately chose food, with ignatious stating they cannot adventure on an empty stomach. The enticing smell of the buffet derailed Iggy, who had never encountered such food before, prompting them to skip class to go to the mess hall ([01:14:44](?tab=t.l5a4tn7lyufq#heading=h.eqcb4mj013ck)). Loami, having already consumed pre-prepared overnight oats and hard tack, maintained their routine and decided to bypass the real food smell, viewing their sustenance as purely transactional to "get the job done" ([01:15:31](?tab=t.l5a4tn7lyufq#heading=h.tlnwhlc8654f)).
+* **Decision to Prioritize Food Over Timeliness**: When the characters had to choose between getting food or getting to class on time, Ignatius and Iggy immediately chose food, with Ignatius stating they cannot adventure on an empty stomach. The enticing smell of the buffet derailed Iggy, who had never encountered such food before, prompting them to skip class to go to the mess hall ([01:14:44](?tab=t.l5a4tn7lyufq#heading=h.eqcb4mj013ck)). Lomi, having already consumed pre-prepared overnight oats and hard tack, maintained their routine and decided to bypass the real food smell, viewing their sustenance as purely transactional to "get the job done" ([01:15:31](?tab=t.l5a4tn7lyufq#heading=h.tlnwhlc8654f)).
 
-* **Loami's Union Mentality and Social Interaction**: Loami approaches tasks, including the current academic goal, with a strict, by-the-book mentality, similar to Union Strong policies for maintenance ([01:17:46](?tab=t.l5a4tn7lyufq#heading=h.fc8feenlqx1c)). Loami is superficially social, chatting with half a dozen people while getting coffee, but their interest is rooted in finding a "good story" rather than forming meaningful connections ([01:21:55](?tab=t.l5a4tn7lyufq#heading=h.qxydq6oezxzk)). Loami encounters a chatty student named Puppy Dough Boy and another cynical student, but neither catch Loami's attention enough for them to engage ([01:24:08](?tab=t.l5a4tn7lyufq#heading=h.phj8n3cec0xy)).
+* **Lomi's Union Mentality and Social Interaction**: Lomi approaches tasks, including the current academic goal, with a strict, by-the-book mentality, similar to Union Strong policies for maintenance ([01:17:46](?tab=t.l5a4tn7lyufq#heading=h.fc8feenlqx1c)). Lomi is superficially social, chatting with half a dozen people while getting coffee, but their interest is rooted in finding a "good story" rather than forming meaningful connections ([01:21:55](?tab=t.l5a4tn7lyufq#heading=h.qxydq6oezxzk)). Lomi encounters a chatty student named Puppy Dough Boy and another cynical student, but neither catch Lomi's attention enough for them to engage ([01:24:08](?tab=t.l5a4tn7lyufq#heading=h.phj8n3cec0xy)).
 
-* **The Late Arrival and Class Assignment**: ignatious and Iggy head to the mess hall, which is near the bonfire location, despite knowing that their first class is in the large central hall ([01:24:53](?tab=t.l5a4tn7lyufq#heading=h.3ixdpb3d218w)). ignatious acknowledged that they noticed the class assignment but chose to ignore it, prioritizing the availability of food over being on time, resulting in them marking two stress ([01:25:55](?tab=t.l5a4tn7lyufq#heading=h.u6ju0znllf1m)). The decision was driven by the belief that classrooms and knowledge will always be available, but meals are limited ([01:27:01](?tab=t.l5a4tn7lyufq#heading=h.arworrgv03sp)).
+* **The Late Arrival and Class Assignment**: Ignatius and Iggy head to the mess hall, which is near the bonfire location, despite knowing that their first class is in the large central hall ([01:24:53](?tab=t.l5a4tn7lyufq#heading=h.3ixdpb3d218w)). Ignatius acknowledged that they noticed the class assignment but chose to ignore it, prioritizing the availability of food over being on time, resulting in them marking two stress ([01:25:55](?tab=t.l5a4tn7lyufq#heading=h.u6ju0znllf1m)). The decision was driven by the belief that classrooms and knowledge will always be available, but meals are limited ([01:27:01](?tab=t.l5a4tn7lyufq#heading=h.arworrgv03sp)).
 
-* **The Buffet Scene and the Confrontation**: Upon entering the Hogwarts-like mess hall, Iggy and ignatious encounter a buffet of delicious food ([01:28:00](?tab=t.l5a4tn7lyufq#heading=h.dorwccqfe09x)). Despite having only minutes until class starts, they opt to grab trays and load them up with food ([01:30:16](?tab=t.l5a4tn7lyufq#heading=h.h2agcbbeuq7r)). Iggy starts sampling the food, smelling and tasting items before putting them back, which draws the ire of a burly orc server ([01:32:16](?tab=t.l5a4tn7lyufq#heading=h.clydf6jmf243)). ignatious intervenes, claiming Iggy is new to the food, but the situation escalates until ignatious physically picks up Iggy and rushes out of the mess hall to head to class while eating ([01:35:34](?tab=t.l5a4tn7lyufq#heading=h.6vlezrhtnlne)).
+* **The Buffet Scene and the Confrontation**: Upon entering the Hogwarts-like mess hall, Iggy and Ignatius encounter a buffet of delicious food ([01:28:00](?tab=t.l5a4tn7lyufq#heading=h.dorwccqfe09x)). Despite having only minutes until class starts, they opt to grab trays and load them up with food ([01:30:16](?tab=t.l5a4tn7lyufq#heading=h.h2agcbbeuq7r)). Iggy starts sampling the food, smelling and tasting items before putting them back, which draws the ire of a burly orc server ([01:32:16](?tab=t.l5a4tn7lyufq#heading=h.clydf6jmf243)). Ignatius intervenes, claiming Iggy is new to the food, but the situation escalates until Ignatius physically picks up Iggy and rushes out of the mess hall to head to class while eating ([01:35:34](?tab=t.l5a4tn7lyufq#heading=h.6vlezrhtnlne)).
 
-* **Loami Enters the Classroom**: Loami arrives five minutes early to the class, which is a huge amphitheater seating 5,000 people, and is taught by Professor Hollow, a man in a military uniform with a bronze prosthetic arm. The lesson, which focuses on "aeronautic ballistics and logistics," is heavy on formulas and kinematics, which Loami, despite their blue-collar background, finds completely overwhelming and new ([01:39:22](?tab=t.l5a4tn7lyufq#heading=h.gmdf65gc0bfq)). Loami realizes they are already behind and begins frantically copying notes and diagrams from a person next to them who seems to grasp the material ([01:44:08](?tab=t.l5a4tn7lyufq#heading=h.njdghug53gkm)).
+* **Lomi Enters the Classroom**: Lomi arrives five minutes early to the class, which is a huge amphitheater seating 5,000 people, and is taught by Professor Hollow, a man in a military uniform with a bronze prosthetic arm. The lesson, which focuses on "aeronautic ballistics and logistics," is heavy on formulas and kinematics, which Lomi, despite their blue-collar background, finds completely overwhelming and new ([01:39:22](?tab=t.l5a4tn7lyufq#heading=h.gmdf65gc0bfq)). Lomi realizes they are already behind and begins frantically copying notes and diagrams from a person next to them who seems to grasp the material ([01:44:08](?tab=t.l5a4tn7lyufq#heading=h.njdghug53gkm)).
 
-* **ignatious and Iggy Interrupt the Class**: Ten minutes into class, ignatious violently throws open the door at the bottom of the amphitheater ([01:45:26](?tab=t.l5a4tn7lyufq#heading=h.k4bsdgxwg3k)). The entrance causes murmuring, especially because ignatious is an ash blood, the only one Loami has seen in the classroom. Loami mutters under their breath, recognizing their late-arriving companions, which reminds them of their shared past ([01:46:32](?tab=t.l5a4tn7lyufq#heading=h.af9ih5p3kkzp)). When the professor pauses, ignatious quickly compares the problem of wind shear and ballistics to dodging volcanic rocks, and Iggy further interrupts by correcting the professor regarding the different coefficient of friction for boxes ([01:48:46](?tab=t.l5a4tn7lyufq#heading=h.h83z3xqd3w6j)) ([01:51:35](?tab=t.l5a4tn7lyufq#heading=h.4n4rzwqxkumf)).
+* **Ignatius and Iggy Interrupt the Class**: Ten minutes into class, Ignatius violently throws open the door at the bottom of the amphitheater ([01:45:26](?tab=t.l5a4tn7lyufq#heading=h.k4bsdgxwg3k)). The entrance causes murmuring, especially because Ignatius is an ash blood, the only one Lomi has seen in the classroom. Lomi mutters under their breath, recognizing their late-arriving companions, which reminds them of their shared past ([01:46:32](?tab=t.l5a4tn7lyufq#heading=h.af9ih5p3kkzp)). When the professor pauses, Ignatius quickly compares the problem of wind shear and ballistics to dodging volcanic rocks, and Iggy further interrupts by correcting the professor regarding the different coefficient of friction for boxes ([01:48:46](?tab=t.l5a4tn7lyufq#heading=h.h83z3xqd3w6j)) ([01:51:35](?tab=t.l5a4tn7lyufq#heading=h.4n4rzwqxkumf)).
 
-* **Seating and Final Scene**: Professor Hollow accepts the valid observations from ignatious and Iggy but tells them to take their seats and stop interrupting ([01:51:35](?tab=t.l5a4tn7lyufq#heading=h.4n4rzwqxkumf)). ignatious notices Loami, who is sitting three rows back in the middle and making eye contact while shaking their head. Although Loami has only one open seat next to them, the large auditorium offers sufficient space for Iggy to stand between two people if they chose ([01:52:39](?tab=t.l5a4tn7lyufq#heading=h.tdolvufn08rl)).
+* **Seating and Final Scene**: Professor Hollow accepts the valid observations from Ignatius and Iggy but tells them to take their seats and stop interrupting ([01:51:35](?tab=t.l5a4tn7lyufq#heading=h.4n4rzwqxkumf)). Ignatius notices Lomi, who is sitting three rows back in the middle and making eye contact while shaking their head. Although Lomi has only one open seat next to them, the large auditorium offers sufficient space for Iggy to stand between two people if they chose ([01:52:39](?tab=t.l5a4tn7lyufq#heading=h.tdolvufn08rl)).
 
-* **Student Arrival and Informal Discussion**: John Hagey and Holly Strebel moved toward Loy's area, with ignatious (Iggy) using a chair as a table for snacks while sitting on the ground ([01:54:43](?tab=t.l5a4tn7lyufq#heading=h.159qdddm5xuy)). Luke Foreman, known as Loami, was noticed to have inky stains on them and inquired if John Hagey knew the disruptive people who had arrived ([01:55:32](?tab=t.l5a4tn7lyufq#heading=h.1lrlwqa9uwx2)). John Hagey explained that Iggy was not familiar with classes and that getting food was a priority, while Iggy was focused on divvying up the muffins ([01:56:36](?tab=t.l5a4tn7lyufq#heading=h.47sjdd1g7frl)).
+* **Student Arrival and Informal Discussion**: John Hagey and Holly Strebel moved toward Loy's area, with Ignatius (Iggy) using a chair as a table for snacks while sitting on the ground ([01:54:43](?tab=t.l5a4tn7lyufq#heading=h.159qdddm5xuy)). Luke Foreman, known as Lomi, was noticed to have inky stains on them and inquired if John Hagey knew the disruptive people who had arrived ([01:55:32](?tab=t.l5a4tn7lyufq#heading=h.1lrlwqa9uwx2)). John Hagey explained that Iggy was not familiar with classes and that getting food was a priority, while Iggy was focused on divvying up the muffins ([01:56:36](?tab=t.l5a4tn7lyufq#heading=h.47sjdd1g7frl)).
 
-* **Conversation on Study Priorities and Tests**: The group discussed the importance of food for studying and Loami expressed concern about the carbohydrate content of the muffins and the need to be prepared for a "big test" this week. John Hagey mentioned that the test was fake, but noted that a study guide was found, and Loami conceded that the guide might help, but they needed to stay "locked in" ([01:57:42](?tab=t.l5a4tn7lyufq#heading=h.vogal1iignam)). Loami suggested they meet after class to chat ([01:58:35](?tab=t.l5a4tn7lyufq#heading=h.8zwh8qh4pbvs)).
+* **Conversation on Study Priorities and Tests**: The group discussed the importance of food for studying and Lomi expressed concern about the carbohydrate content of the muffins and the need to be prepared for a "big test" this week. John Hagey mentioned that the test was fake, but noted that a study guide was found, and Lomi conceded that the guide might help, but they needed to stay "locked in" ([01:57:42](?tab=t.l5a4tn7lyufq#heading=h.vogal1iignam)). Lomi suggested they meet after class to chat ([01:58:35](?tab=t.l5a4tn7lyufq#heading=h.8zwh8qh4pbvs)).
 
-* **Class Disruption and Academic Content**: The conversation shifted when a piece of chalk was thrown from the front of the class, striking ignatious in the forehead due to their low evasion score of seven. The chalk throw was described as being kinematically accurate by the professor ([01:59:38](?tab=t.l5a4tn7lyufq#heading=h.agrge1g20tiw)). The professor then paused and announced that the next teacher would be Arthorn after lunch for the history of the shatter ([02:00:36](?tab=t.l5a4tn7lyufq#heading=h.b1h7am4aojcj)).
+* **Class Disruption and Academic Content**: The conversation shifted when a piece of chalk was thrown from the front of the class, striking Ignatius in the forehead due to their low evasion score of seven. The chalk throw was described as being kinematically accurate by the professor ([01:59:38](?tab=t.l5a4tn7lyufq#heading=h.agrge1g20tiw)). The professor then paused and announced that the next teacher would be Arthorn after lunch for the history of the shatter ([02:00:36](?tab=t.l5a4tn7lyufq#heading=h.b1h7am4aojcj)).
 
-* **Post-Class Announcements and Schedule**: ignatious immediately focused on getting more food after hearing the next class was after lunch ([02:01:38](?tab=t.l5a4tn7lyufq#heading=h.ix8x2g8xc3a4)). As the class ended, the professor announced the schedule for the week, which included the two classes per day for three days and seven classes total, culminating in an exam on Friday morning ([02:04:31](?tab=t.l5a4tn7lyufq#heading=h.q40ddoojoa5r)). The professor also noted a required extracurricular event: the "reszo race" on Wednesday, and the assignment of teams after the end-of-week test, followed by an elimination of 20,000 students ([02:01:38](?tab=t.l5a4tn7lyufq#heading=h.ix8x2g8xc3a4)) ([02:06:46](?tab=t.l5a4tn7lyufq#heading=h.vpqus3h435a2)).
+* **Post-Class Announcements and Schedule**: Ignatius immediately focused on getting more food after hearing the next class was after lunch ([02:01:38](?tab=t.l5a4tn7lyufq#heading=h.ix8x2g8xc3a4)). As the class ended, the professor announced the schedule for the week, which included the two classes per day for three days and seven classes total, culminating in an exam on Friday morning ([02:04:31](?tab=t.l5a4tn7lyufq#heading=h.q40ddoojoa5r)). The professor also noted a required extracurricular event: the "reszo race" on Wednesday, and the assignment of teams after the end-of-week test, followed by an elimination of 20,000 students ([02:01:38](?tab=t.l5a4tn7lyufq#heading=h.ix8x2g8xc3a4)) ([02:06:46](?tab=t.l5a4tn7lyufq#heading=h.vpqus3h435a2)).
 
-* **Attempt to Acquire Notes and Discussion on Learning**: Loami attempted to copy notes from the person next to them but was refused due to concerns about chalk dust from John Hagey's friend's forehead ([02:02:38](?tab=t.l5a4tn7lyufq#heading=h.yrmq4rgbjz8e)). John Hagey joked that the person probably didn't want Loami to copy their homework because they mispronounced "ignoramus" ([02:03:39](?tab=t.l5a4tn7lyufq#heading=h.ukxqjakrhh3l)). Loami explained that they are a "physical learner" who is tripped up by theoretical questions, leading John Hagey to propose they should engage in real-world practice, possibly involving "cannons" on ships ([02:04:31](?tab=t.l5a4tn7lyufq#heading=h.q40ddoojoa5r)) ([02:09:01](?tab=t.l5a4tn7lyufq#heading=h.bfcrgcvqo3b6)).
+* **Attempt to Acquire Notes and Discussion on Learning**: Lomi attempted to copy notes from the person next to them but was refused due to concerns about chalk dust from John Hagey's friend's forehead ([02:02:38](?tab=t.l5a4tn7lyufq#heading=h.yrmq4rgbjz8e)). John Hagey joked that the person probably didn't want Lomi to copy their homework because they mispronounced "ignoramus" ([02:03:39](?tab=t.l5a4tn7lyufq#heading=h.ukxqjakrhh3l)). Lomi explained that they are a "physical learner" who is tripped up by theoretical questions, leading John Hagey to propose they should engage in real-world practice, possibly involving "cannons" on ships ([02:04:31](?tab=t.l5a4tn7lyufq#heading=h.q40ddoojoa5r)) ([02:09:01](?tab=t.l5a4tn7lyufq#heading=h.bfcrgcvqo3b6)).
 
 * **Planning the Week's Activities**: The group established their priorities for the week, which included finding Lucky, checking out the race, and gaining practical experience with logistical equipment ([02:09:01](?tab=t.l5a4tn7lyufq#heading=h.bfcrgcvqo3b6)). The consensus was to find Lucky today, then the following night would be dedicated to finding a ship to practice with the logistical equipment ([02:10:29](?tab=t.l5a4tn7lyufq#heading=h.u57fq4diym3q)).
 
-* **Discussion and Explanation of the Reszo Race**: Loami explained that the "reszo race," or circuit race, is the major sport of Harmony, described as exploration as an event. Teams enter with their own built vehicle and receive a penalty based on the vehicle's rated energy use ([02:12:14](?tab=t.l5a4tn7lyufq#heading=h.hmhge9dw2217)) ([02:16:33](?tab=t.l5a4tn7lyufq#heading=h.ylevu3wocovw)). The goal is to accumulate enough energy by striking various spires on a mile-wide map, which represent different cities and provide unique benefits, to light up the central spire ([02:13:28](?tab=t.l5a4tn7lyufq#heading=h.wjolmjymyb8n)).
+* **Discussion and Explanation of the Reszo Race**: Lomi explained that the "reszo race," or circuit race, is the major sport of Harmony, described as exploration as an event. Teams enter with their own built vehicle and receive a penalty based on the vehicle's rated energy use ([02:12:14](?tab=t.l5a4tn7lyufq#heading=h.hmhge9dw2217)) ([02:16:33](?tab=t.l5a4tn7lyufq#heading=h.ylevu3wocovw)). The goal is to accumulate enough energy by striking various spires on a mile-wide map, which represent different cities and provide unique benefits, to light up the central spire ([02:13:28](?tab=t.l5a4tn7lyufq#heading=h.wjolmjymyb8n)).
 
-* **Logistics and Spectating of the Race**: Loami, a "super fan" of the race, described that participants can launch from the land, the sea, or use a glider launch from the "walker core" ([02:17:34](?tab=t.l5a4tn7lyufq#heading=h.ocufvmwssovw)) ([02:21:05](?tab=t.l5a4tn7lyufq#heading=h.u38heo1aylp2)). Spectators can sit in stadium seats along the rim or ride cable cars along the top of the rim to follow the action, while airships are reserved for "rich people" ([02:18:24](?tab=t.l5a4tn7lyufq#heading=h.8awb6ign3i8l)). Loami recalled helping with the glider launcher and noted that they were enthusiastic about forming a team and building a vehicle ([02:20:08](?tab=t.l5a4tn7lyufq#heading=h.s0dzuq9lu7ps)) ([02:21:56](?tab=t.l5a4tn7lyufq#heading=h.ikk2n68so3tm)).
+* **Logistics and Spectating of the Race**: Lomi, a "super fan" of the race, described that participants can launch from the land, the sea, or use a glider launch from the "walker core" ([02:17:34](?tab=t.l5a4tn7lyufq#heading=h.ocufvmwssovw)) ([02:21:05](?tab=t.l5a4tn7lyufq#heading=h.u38heo1aylp2)). Spectators can sit in stadium seats along the rim or ride cable cars along the top of the rim to follow the action, while airships are reserved for "rich people" ([02:18:24](?tab=t.l5a4tn7lyufq#heading=h.8awb6ign3i8l)). Lomi recalled helping with the glider launcher and noted that they were enthusiastic about forming a team and building a vehicle ([02:20:08](?tab=t.l5a4tn7lyufq#heading=h.s0dzuq9lu7ps)) ([02:21:56](?tab=t.l5a4tn7lyufq#heading=h.ikk2n68so3tm)).
 
-* **Impact of the Race on Classes**: The group considered skipping classes since attendance was not being taken, prioritizing winning the reszo race instead of learning for the end-of-week test ([02:23:03](?tab=t.l5a4tn7lyufq#heading=h.3saxh4oafrxx)). Loami, an enthusiast of the professional racing league (Harmony Prime) and the school league (Vimua League), noted that the race at the school may feature a new spire due to the recent discovery of the Ash Blood node ([02:26:01](?tab=t.l5a4tn7lyufq#heading=h.et3l18brlf66)).
+* **Impact of the Race on Classes**: The group considered skipping classes since attendance was not being taken, prioritizing winning the reszo race instead of learning for the end-of-week test ([02:23:03](?tab=t.l5a4tn7lyufq#heading=h.3saxh4oafrxx)). Lomi, an enthusiast of the professional racing league (Harmony Prime) and the school league (Vimua League), noted that the race at the school may feature a new spire due to the recent discovery of the Ash Blood node ([02:26:01](?tab=t.l5a4tn7lyufq#heading=h.et3l18brlf66)).
 
-* **Consolidated Priorities and Search for Lucky**: Based on the discussion, the group's priorities were finding Lucky, gaining practical experience, and then attending class. ignatious, who struggled with the advanced math in class, was happy to go along with the plan, while Loami agreed to skip classes only for the purpose of building the vehicle and depending on the usefulness of Lucky's study guide ([02:29:08](?tab=t.l5a4tn7lyufq#heading=h.a418u0lkemfx)). The group spent two hours successfully looking for Lucky by rolling highly, finding them gesturing around and tolerating people near a crate ([02:31:44](?tab=t.l5a4tn7lyufq#heading=h.i9cm78e6yimn)).
+* **Consolidated Priorities and Search for Lucky**: Based on the discussion, the group's priorities were finding Lucky, gaining practical experience, and then attending class. Ignatius, who struggled with the advanced math in class, was happy to go along with the plan, while Lomi agreed to skip classes only for the purpose of building the vehicle and depending on the usefulness of Lucky's study guide ([02:29:08](?tab=t.l5a4tn7lyufq#heading=h.a418u0lkemfx)). The group spent two hours successfully looking for Lucky by rolling highly, finding them gesturing around and tolerating people near a crate ([02:31:44](?tab=t.l5a4tn7lyufq#heading=h.i9cm78e6yimn)).
 
-* **Negotiation for the Study Guide**: Loami and John Hagey went directly to Lucky, who was found with Sar lingering nearby ([02:32:49](?tab=t.l5a4tn7lyufq#heading=h.x09rbw5qobw1)). Lucky implied that the study guide would cost them something, which Val had previously mentioned was a story ([02:35:06](?tab=t.l5a4tn7lyufq#heading=h.ruba7hdakd40)). Loami offered a story about playing Crown and Ruin at the Celestial Lounge and acquiring a golden die from Val ([02:37:10](?tab=t.l5a4tn7lyufq#heading=h.ahsyt2o7cec)). John Hagey followed up with a detailed story about the genesis of the Ashwood Islands involving a sky dragon and a sea dragon ([02:40:07](?tab=t.l5a4tn7lyufq#heading=h.2afdebw6obgm)) ([02:42:31](?tab=t.l5a4tn7lyufq#heading=h.f82kgyotssrc)).
+* **Negotiation for the Study Guide**: Lomi and John Hagey went directly to Lucky, who was found with Sar lingering nearby ([02:32:49](?tab=t.l5a4tn7lyufq#heading=h.x09rbw5qobw1)). Lucky implied that the study guide would cost them something, which Val had previously mentioned was a story ([02:35:06](?tab=t.l5a4tn7lyufq#heading=h.ruba7hdakd40)). Lomi offered a story about playing Crown and Ruin at the Celestial Lounge and acquiring a golden die from Val ([02:37:10](?tab=t.l5a4tn7lyufq#heading=h.ahsyt2o7cec)). John Hagey followed up with a detailed story about the genesis of the Ashwood Islands involving a sky dragon and a sea dragon ([02:40:07](?tab=t.l5a4tn7lyufq#heading=h.2afdebw6obgm)) ([02:42:31](?tab=t.l5a4tn7lyufq#heading=h.f82kgyotssrc)).
 
-* **Acquiring the Study Guide and Notes**: Lucky was impressed by John Hagey's lore-based story and offered the 10 questions for the study guide ([02:43:46](?tab=t.l5a4tn7lyufq#heading=h.itsacmobau5r)). To acquire the corresponding notes, Lucky demanded more secrets, prompting Loami and John Hagey to look to ignatious ([02:44:33](?tab=t.l5a4tn7lyufq#heading=h.ox1aditqtgft)). ignatious, stating they couldn't share a story because they were told not to speak of their origins, instead offered to share an invention: a viewfinder for deep water, a "goggle straw," and a light-making device ([02:46:02](?tab=t.l5a4tn7lyufq#heading=h.h7xh2i77k4k9)). Lucky offered more items in exchange for the "real" secrets, including more grease, professor names, and a 60% accurate list of the captain's manifest one week before it is known ([02:50:30](?tab=t.l5a4tn7lyufq#heading=h.avg701pos2e4)).
+* **Acquiring the Study Guide and Notes**: Lucky was impressed by John Hagey's lore-based story and offered the 10 questions for the study guide ([02:43:46](?tab=t.l5a4tn7lyufq#heading=h.itsacmobau5r)). To acquire the corresponding notes, Lucky demanded more secrets, prompting Lomi and John Hagey to look to Ignatius ([02:44:33](?tab=t.l5a4tn7lyufq#heading=h.ox1aditqtgft)). Ignatius, stating they couldn't share a story because they were told not to speak of their origins, instead offered to share an invention: a viewfinder for deep water, a "goggle straw," and a light-making device ([02:46:02](?tab=t.l5a4tn7lyufq#heading=h.h7xh2i77k4k9)). Lucky offered more items in exchange for the "real" secrets, including more grease, professor names, and a 60% accurate list of the captain's manifest one week before it is known ([02:50:30](?tab=t.l5a4tn7lyufq#heading=h.avg701pos2e4)).
 
 * **Conversation with Lucky**: Lucky, who has secrets similar to Zephr's concerning their origins and present situation, approached Zephr, who was carrying a test receipt. Zephr showed Lucky the receipt, admitting they did not know what it meant, and Lucky acknowledged the interest of the situation because they also did not know what their own receipt meant ([02:52:17](?tab=t.l5a4tn7lyufq#heading=h.tv3ehymcgtw3)). Luke S. suggested they move off the main road to have a private chat to facilitate more conversation, which was agreed upon ([02:53:33](?tab=t.l5a4tn7lyufq#heading=h.ic4rca3cq1vv)).
 
@@ -110,8 +110,8 @@ The characters prioritized finding Lucky to acquire the study guide and prepare 
 - Etheric ballistics and logistics class with Professor Hall
   - Physics-heavy: wind shear calculations, projectile trajectories
   - Test at end of week eliminates 20,000 students
-  - ignatious/Iggy arrived late but contributed meaningfully to discussion
-- Loami struggled with advanced formulas
+  - Ignatius/Iggy arrived late but contributed meaningfully to discussion
+- Lomi struggled with advanced formulas
   - Attempted to copy notes from classmate who refused to share
   - Realized already behind on day one despite work experience with boilers/pressure systems
 - Class schedule: 2 classes daily for 3 days, then final exam Friday
@@ -124,8 +124,8 @@ The characters prioritized finding Lucky to acquire the study guide and prepare 
   - Operating informal trading post from crate setup
   - Sarge observed lingering nearby
 - Obtained 10-question study guide through story trading
-  - Loami shared Crown and Ruin gambling story involving Val
-  - ignatious told Ash Blood creation myth about sky/sea dragons
+  - Lomi shared Crown and Ruin gambling story involving Val
+  - Ignatius told Ash Blood creation myth about sky/sea dragons
 - Lucky revealed additional resources available for “secrets”
   - Val’s partial notes (every other word copied)
   - Professor names list
@@ -134,7 +134,7 @@ The characters prioritized finding Lucky to acquire the study guide and prepare 
 
 ### Circuit Race Planning
 
-- Loami explained Harmony’s major sport (Resonance Race)
+- Lomi explained Harmony’s major sport (Resonance Race)
   - Mile-wide arena with city-designed spires
   - Teams build vehicles, accumulate power by striking spires
   - Vehicle energy rating creates starting penalty/advantage
@@ -142,7 +142,7 @@ The characters prioritized finding Lucky to acquire the study guide and prepare 
 - Race mechanics involve strategy and combat
   - Different spires provide varying power amounts and temporary abilities
   - Launch options: land, sea, or elevated drop from Walker Corps
-- Loami’s extensive fan knowledge
+- Lomi’s extensive fan knowledge
   - Attended races since childhood
   - Worked underground maintaining spire power systems
   - Knows betting contacts for potential side wagers
@@ -1401,7 +1401,7 @@ Mar 9, 2026
    
 **Luke S:** um I think that's the most like health based on one. Yeah, let's go ahead and roll some straw some some some health rolls.  
 **Holly Strebel:** That's really  
-**Luke S:** ignatious coming out hot.  
+**Luke S:** Ignatius coming out hot.  
 **Holly Strebel:** good.  
 **John Hagey:** Nice  
 **Luke S:** Coming out. Yeah,  
@@ -1435,20 +1435,20 @@ Mar 9, 2026
 
    
 **Holly Strebel:** me.  
-**Luke S:** So I was going to set a low DC to let the the dice decide if I made a mistake or not. And you you all more than succeeded from the the difficulty I put for it. So you are able to get those long rests. You don't take any stress. Um, all of those numbers are well high enough from the DC, which means that you are waking up on your first day of classes and it is a pretty hectic first day at that. Um, let's see. So, we got Iggy and ignatious. Y'all are y'all bung together. Um, and Brent and Aggie bunk together. And Loami, I forget. Do you bunk? Where are you bunkked? I think you're bunkked in a different spot.  
+**Luke S:** So I was going to set a low DC to let the the dice decide if I made a mistake or not. And you you all more than succeeded from the the difficulty I put for it. So you are able to get those long rests. You don't take any stress. Um, all of those numbers are well high enough from the DC, which means that you are waking up on your first day of classes and it is a pretty hectic first day at that. Um, let's see. So, we got Iggy and Ignatius. Y'all are y'all bung together. Um, and Brent and Aggie bunk together. And Lomi, I forget. Do you bunk? Where are you bunkked? I think you're bunkked in a different spot.  
 **Luke Foreman:** Yeah,  
 **Luke S:** You're in 99\.  
 **Luke Foreman:** I'm  
 **Luke S:** Yeah. Yeah, you're in your own.  
 **Luke Foreman:** Yeah.  
-**Luke S:** Yep. Yep. Yep. Yep. Yep. Um, so um let's start with maybe Iggy and ignatious.  
+**Luke S:** Yep. Yep. Yep. Yep. Yep. Um, so um let's start with maybe Iggy and Ignatius.  
    
  
 
 ### 01:04:34
 
    
-**Luke S:** What's what what's the energy on first day of class? Like, do you feel like you would wake up early, wake up last possible minute to get to class on time? Are you stressed? Are you are you um ready to go? Like, do y'all even talk to each other the morning of? Um I don't know. Let's maybe ignatious. What do you What do you got? What's going through ignatious's head as he wakes?  
+**Luke S:** What's what what's the energy on first day of class? Like, do you feel like you would wake up early, wake up last possible minute to get to class on time? Are you stressed? Are you are you um ready to go? Like, do y'all even talk to each other the morning of? Um I don't know. Let's maybe Ignatius. What do you What do you got? What's going through Ignatius's head as he wakes?  
 **John Hagey:** literally last minute like like wakes up, throws on whatever, looks around for  
 **Holly Strebel:** I think Iggy is like the world's deepest sleeper  
 **John Hagey:** Iggy.  
@@ -1458,7 +1458,7 @@ Mar 9, 2026
 **Holly Strebel:** concept of school. So, he has like no real idea of what he needs to do.  
 **Luke S:** sure.  
 **Holly Strebel:** He's just sleeping. So, I think either just wakes him up or he stays in  
-**John Hagey:** ignatious is not stressed. ignatious is not stressed until he realizes Iggy is like passed out.  
+**John Hagey:** Ignatius is not stressed. Ignatius is not stressed until he realizes Iggy is like passed out.  
    
  
 
@@ -1466,16 +1466,16 @@ Mar 9, 2026
 
    
 **Holly Strebel:** bed.  
-**John Hagey:** Like ignatious is used to being the last one to class. What he's not used to is someone being later than he is.  
+**John Hagey:** Like Ignatius is used to being the last one to class. What he's not used to is someone being later than he is.  
 **Luke Foreman:** Uh  
 **John Hagey:** And he's just like is  
 **Luke Foreman:** yeah.  
-**Luke S:** Yeah. Do you think do you think ignatious is um has been awake for  
+**Luke S:** Yeah. Do you think do you think Ignatius is um has been awake for  
 **John Hagey:** Iggy.  
 **Luke S:** a while but just not getting up and and refusing to like acknowledge it or did does he have did he also wake up late?  
-**John Hagey:** ignatious.  
+**John Hagey:** Ignatius.  
 **Luke S:** Yeah.  
-**John Hagey:** I think he wakes up for a reasonable amount of time. This is exactly what would happen is ignatious wakes up. He's later than most people. So, he's getting his stuff together, but he he's used to being like running late but still making it on time sort of deal. And he's getting his stuff together. And then he just hears Iggy and he stops doing what he's doing. And he just turns around and realizes Iggy is just passed out and he's just like, "Iggy, we got to go.  
+**John Hagey:** I think he wakes up for a reasonable amount of time. This is exactly what would happen is Ignatius wakes up. He's later than most people. So, he's getting his stuff together, but he he's used to being like running late but still making it on time sort of deal. And he's getting his stuff together. And then he just hears Iggy and he stops doing what he's doing. And he just turns around and realizes Iggy is just passed out and he's just like, "Iggy, we got to go.  
    
  
 
@@ -1511,7 +1511,7 @@ Mar 9, 2026
    
 **Luke S:** Uh clearly, yeah,  
 **John Hagey:** Oh.  
-**Luke S:** clearly not enough space for the number of beds, but you've heard that that's only supposed to be temporary until 20,000 students aren't here and and some space opens up so you can have private rooms. And um I think block um block 12 where where y'all are is one that's a little bit a little bit over full right now, but won't be so much in the future. And so everyone else I think everyone else has just kind of vanished out. So as as ignatious and Iggy uh pull each other into the main room. Let's jump over to block 99\. Um Loami. Yeah, you've got a couple of people in the dorm room that you might have like come across. I don't know that he's had he hasn't met any of these people just in passing coming through the door a couple of familiar faces more than people he knew.  
+**Luke S:** clearly not enough space for the number of beds, but you've heard that that's only supposed to be temporary until 20,000 students aren't here and and some space opens up so you can have private rooms. And um I think block um block 12 where where y'all are is one that's a little bit a little bit over full right now, but won't be so much in the future. And so everyone else I think everyone else has just kind of vanished out. So as as Ignatius and Iggy uh pull each other into the main room. Let's jump over to block 99\. Um Lomi. Yeah, you've got a couple of people in the dorm room that you might have like come across. I don't know that he's had he hasn't met any of these people just in passing coming through the door a couple of familiar faces more than people he knew.  
 **Luke Foreman:** Yeah.  
 **Luke S:** Um what's Looney's energy the morning of  
 **Luke Foreman:** Morning. It It's like a work day.  
@@ -1522,7 +1522,7 @@ Mar 9, 2026
 ### 01:08:53
 
    
-**Luke Foreman:** Loami is has woken up with like the sunlight, has gotten up, shaved, and I I I kind of feel like he uh Sarge I assume is in 99 who is like the other kind of worker, and they're like at the mirror both like shaving to get ready for work and  
+**Luke Foreman:** Lomi is has woken up with like the sunlight, has gotten up, shaved, and I I I kind of feel like he uh Sarge I assume is in 99 who is like the other kind of worker, and they're like at the mirror both like shaving to get ready for work and  
 **Luke S:** Yeah.  
 **Luke Foreman:** like having like something like oatmeal, like some oatmeal or like porridge or something hearty and  
 **Luke S:** Yeah.  
@@ -1549,11 +1549,11 @@ Mar 9, 2026
 **Luke Foreman:** But yeah,  
 **Luke S:** Okay. All right.  
 **Luke Foreman:** some some nods,  
-**Luke S:** So I yeah I think maybe you know Loami's known  
+**Luke S:** So I yeah I think maybe you know Lomi's known  
 **Luke Foreman:** some grunts maybe.  
-**Luke S:** Sarge long enough to tell he's he's pretty nervous about today but he's he's not breaking down or panicking so I don't I don't know that he gets through Loami's routine morning vibe  
+**Luke S:** Sarge long enough to tell he's he's pretty nervous about today but he's he's not breaking down or panicking so I don't I don't know that he gets through Lomi's routine morning vibe  
 **Luke Foreman:** Yeah.  
-**Luke S:** but it is something that maybe you clock in the background as um as Sergeant and G not just Sergeant probably everyone and and maybe even Loami too anyone who wants this has to be nervous a a little bit cuz 20,000 people are going home.  
+**Luke S:** but it is something that maybe you clock in the background as um as Sergeant and G not just Sergeant probably everyone and and maybe even Lomi too anyone who wants this has to be nervous a a little bit cuz 20,000 people are going home.  
 **Luke Foreman:** Yeah. Yeah.  
 **Luke S:** Um, has has Lumi or anyone have like they handled pressure before? Have they had something they want dangled in front of them like this?  
    
@@ -1585,7 +1585,7 @@ Mar 9, 2026
 ### 01:12:23
 
    
-**Luke S:** Um, okay. I'm gonna make sure I didn't just break the codeex entirely. I'm hoping that I have Look at that. All sessions imported. Sweet. NPCs. We got more NPCs in here. Sweet. Okay. Um, so yeah. So then that Loami kind of walks out and starts stretching his way over to class, which leaves um which leaves Britain Aggie and we can we can do y'all's morning of later if you want. Or we can but but generally what would Aggie's vibe be? I think her dominant vibe is like a calm but excited. Like I don't think she's really thinking about the pressure of the number of people because she just can't fathom it realist realistically she's like okay it's a big deal like but like there's so much to see. Yeah. And so I think it's like not a very like expressive excited but it's like kind of beneath the surface. Gotcha. But very excited. Okay. Um, I'm good with however you want to play this, but what do you think Aggie would do if Brit wasn't waking up?  
+**Luke S:** Um, okay. I'm gonna make sure I didn't just break the codeex entirely. I'm hoping that I have Look at that. All sessions imported. Sweet. NPCs. We got more NPCs in here. Sweet. Okay. Um, so yeah. So then that Lomi kind of walks out and starts stretching his way over to class, which leaves um which leaves Britain Aggie and we can we can do y'all's morning of later if you want. Or we can but but generally what would Aggie's vibe be? I think her dominant vibe is like a calm but excited. Like I don't think she's really thinking about the pressure of the number of people because she just can't fathom it realist realistically she's like okay it's a big deal like but like there's so much to see. Yeah. And so I think it's like not a very like expressive excited but it's like kind of beneath the surface. Gotcha. But very excited. Okay. Um, I'm good with however you want to play this, but what do you think Aggie would do if Brit wasn't waking up?  
    
  
 
@@ -1599,11 +1599,11 @@ Mar 9, 2026
 ### 01:14:44
 
    
-**Luke S:** There is food being served. I don't know. Would that be a motivation to anyone to like make sure you got breakfast? Yeah. Okay. ignatious might might want I don't know.  
+**Luke S:** There is food being served. I don't know. Would that be a motivation to anyone to like make sure you got breakfast? Yeah. Okay. Ignatius might might want I don't know.  
 **Luke Foreman:** Jesus.  
 **Luke S:** All right.  
 **John Hagey:** Hell yeah.  
-**Luke S:** ignatious, you walk out and you are for sure. You're you're left with the choice because maybe because Iggy and also because you procrastinated of getting food or getting to class on time. What's the play?  
+**Luke S:** Ignatius, you walk out and you are for sure. You're you're left with the choice because maybe because Iggy and also because you procrastinated of getting food or getting to class on time. What's the play?  
 **John Hagey:** Oh, food for sure.  
 **Luke S:** Okay.  
 **John Hagey:** You can't adventure on an empty  
@@ -1644,12 +1644,12 @@ Mar 9, 2026
 **Holly Strebel:** I was going to  
 **Luke S:** Okay,  
 **Holly Strebel:** make  
-**Luke S:** so yeah, we have we have Iggy and ignatious just basically giving up on first impressions headed towards the mess hall. Um, but they're a little bit behind. So, let's let's jump over to Loami. Loami before work. I mean, you had your oats  
+**Luke S:** so yeah, we have we have Iggy and Ignatius just basically giving up on first impressions headed towards the mess hall. Um, but they're a little bit behind. So, let's let's jump over to Lomi. Lomi before work. I mean, you had your oats  
 **Luke Foreman:** I had the oats,  
 **Luke S:** already.  
 **Luke Foreman:** uh, the overnight oats and hard tac pre-repped. Um I  
 **John Hagey:** Yeah.  
-**Luke S:** Did like did Loamie make that decision knowing that there would be breakfast because he can't mess with his  
+**Luke S:** Did like did Lomie make that decision knowing that there would be breakfast because he can't mess with his  
    
  
 
@@ -1668,7 +1668,7 @@ Mar 9, 2026
 **Luke S:** Yeah,  
 **Luke Foreman:** it's it's I don't I bet he notices it because it's probably a much like larger amount than usual,  
 **Luke S:** that's  
-**Luke Foreman:** but like it it's like nope. I I'm on my way. I I I had my sustenance and and get everything in Loami's life is to get the job done. You know, the engine grease is to get the job done.  
+**Luke Foreman:** but like it it's like nope. I I'm on my way. I I I had my sustenance and and get everything in Lomi's life is to get the job done. You know, the engine grease is to get the job done.  
    
  
 
@@ -1687,7 +1687,7 @@ Mar 9, 2026
 **Luke Foreman:** I I think especially like Union Strong is like by the book 5,000 miles, clicks over, does it then with the proper oil once it hits 7,500 miles, he uses the high mileage oil. Like it's by the book to a  
 **Luke S:** Okay.  
 **Luke Foreman:** team.  
-**Luke S:** So, so then it sounds to me like LO I guess what would the buy the book morning for Loami be up until 7:30 classes start?  
+**Luke S:** So, so then it sounds to me like LO I guess what would the buy the book morning for Lomi be up until 7:30 classes start?  
    
  
 
@@ -1721,7 +1721,7 @@ Mar 9, 2026
 **John Hagey:** people,  
 **Luke S:** people's. Yeah. People's I guess people's fine beings. Yeah.  
 **John Hagey:** beings,  
-**Luke S:** Um, bipedals doesn't even work. It's It's a lot. It's I think Loami is not overwhelmed.  
+**Luke S:** Um, bipedals doesn't even work. It's It's a lot. It's I think Lomi is not overwhelmed.  
 **John Hagey:** sentient species of the world you've  
 **Luke S:** Yeah, sentience. I've heard sentience a few times in the books I've been reading.  
 **John Hagey:** built.  
@@ -1731,7 +1731,7 @@ Mar 9, 2026
 **Luke Foreman:** Right.  
 **Luke S:** except for big like union jobs. Maybe 70,000's not an insane number for him.  
 **Luke Foreman:** Yeah.  
-**Luke S:** I think he's he's been to amphitheaters and things that have more of a crowd. Um, but that said, um, and I'm kind of using Loami as like the the average between the groups right now for, uh, setting the pace for us.  
+**Luke S:** I think he's he's been to amphitheaters and things that have more of a crowd. Um, but that said, um, and I'm kind of using Lomi as like the the average between the groups right now for, uh, setting the pace for us.  
    
  
 
@@ -1739,12 +1739,12 @@ Mar 9, 2026
 
    
 **Luke Foreman:** Yeah.  
-**Luke S:** And is it like is he the type of person that if anyone wants to find anyone that they know, you have to hunt is what I'm getting at for ignatious and for for Agie for Loami just there's there's so  
+**Luke S:** And is it like is he the type of person that if anyone wants to find anyone that they know, you have to hunt is what I'm getting at for Ignatius and for for Agie for Lomi just there's there's so  
 **Luke Foreman:** Okay. Okay. Yeah.  
-**Luke S:** much there's so many but it's it's effortless to meet someone new and I'm trying to understand like where would where would each of you fall in that category of I'm a new student on day one. I know a couple of people. I can stay in my circle and probably find them again if I can ever find them again, but I don't have any way to contact them. I I know the dorms they are in maybe. Um but otherwise, I don't know anyone else here. What's that? What's that approach for? We'll just keep going with Loami for Loami.  
+**Luke S:** much there's so many but it's it's effortless to meet someone new and I'm trying to understand like where would where would each of you fall in that category of I'm a new student on day one. I know a couple of people. I can stay in my circle and probably find them again if I can ever find them again, but I don't have any way to contact them. I I know the dorms they are in maybe. Um but otherwise, I don't know anyone else here. What's that? What's that approach for? We'll just keep going with Lomi for Lomi.  
 **Luke Foreman:** Yeah. Okay. Um,  
 **Luke S:** Yeah.  
-**Luke Foreman:** I think it's very much with with Loami it's it's very um surface level similar to like how he was with like his drinking buddies is like he he might not even know their last name,  
+**Luke Foreman:** I think it's very much with with Lomi it's it's very um surface level similar to like how he was with like his drinking buddies is like he he might not even know their last name,  
    
  
 
@@ -1768,7 +1768,7 @@ Mar 9, 2026
 ### 01:23:11
 
    
-**Luke S:** Why does Loami remember anything about anyone? Is it just because he has a knack for remembering it? is because  
+**Luke S:** Why does Lomi remember anything about anyone? Is it just because he has a knack for remembering it? is because  
 **Luke Foreman:** I think he loves he loves storytelling and he loves a  
 **Luke S:** he's  
 **Luke Foreman:** good story. So like he he'll remember any any sort of night that leads to a good story and he'll remember all the details about everything that happened. Maybe slightly embellished,  
@@ -1782,18 +1782,18 @@ Mar 9, 2026
 **Luke Foreman:** Exactly.  
 **Luke S:** Okay, that makes perfect sense to me. Um,  
 **Luke Foreman:** Yeah.  
-**Luke S:** yeah. So, I'll just say that along along his morning, Loami runs into like as you're walking out, there's a couple of of uh 99ers that are walking with you. There's a little puppy dough boy who's behind you and um every time Loami talks, he just keeps chiming in and saying random stuff.  
+**Luke S:** yeah. So, I'll just say that along along his morning, Lomi runs into like as you're walking out, there's a couple of of uh 99ers that are walking with you. There's a little puppy dough boy who's behind you and um every time Lomi talks, he just keeps chiming in and saying random stuff.  
    
  
 
 ### 01:24:08
 
    
-**Luke S:** But I just don't think Loami finds him very interesting. He has no stories.  
+**Luke S:** But I just don't think Lomi finds him very interesting. He has no stories.  
 **Luke Foreman:** Yeah.  
-**Luke S:** He just kind of is is there every time at Loami's elbow and  
+**Luke S:** He just kind of is is there every time at Lomi's elbow and  
 **Luke Foreman:** Yeah. Yeah.  
-**Luke S:** um in my mind Loami just kind of like keeps wandering on his day, but this this kid is just always behind him. Uh and then there's there's another guy who he runs into who's who he comes across as Lumy's like his stories are pretty cynical, just kind of a negative vibe. And those are the two people that would have been around him the most. Would either of them I don't I don't I'm not I guess I'll leave it up to you.  
+**Luke S:** um in my mind Lomi just kind of like keeps wandering on his day, but this this kid is just always behind him. Uh and then there's there's another guy who he runs into who's who he comes across as Lumy's like his stories are pretty cynical, just kind of a negative vibe. And those are the two people that would have been around him the most. Would either of them I don't I don't I'm not I guess I'll leave it up to you.  
 **Luke Foreman:** Yeah,  
 **Luke S:** Would let me anchor on either of those people.  
 **Luke Foreman:** I Yeah, I don't think either would really catch his attention, but I, you know, I think it'd be a situation where on his way out,  
@@ -1808,9 +1808,9 @@ Mar 9, 2026
 **Luke Foreman:** And but like never asked his name. Never.  
 **Luke S:** Okay, perfect. Uh, yeah.  
 **Luke Foreman:** Yeah.  
-**Luke S:** And then like camera pans away and the kid's like, "That guy is so cool." Okay. So, I don't think Loami runs into anyone else that he knows. So,  
+**Luke S:** And then like camera pans away and the kid's like, "That guy is so cool." Okay. So, I don't think Lomi runs into anyone else that he knows. So,  
 **Luke Foreman:** Yeah.  
-**Luke S:** let's pan over to ignatious and Iggy, and y'all are are rushing out. Well, you're you're you're leaving the dorm. Um, you might have five minutes before class starts, and you've chosen to go get food. as you work your way towards the mess hall which is part of that large central building if in the quad if you remember there is like there is um actually you know what I think I'm going to change it I'm going to say the the mess hall is pretty close to where you had the bonfire um so because this is uh let's  
+**Luke S:** let's pan over to Ignatius and Iggy, and y'all are are rushing out. Well, you're you're you're leaving the dorm. Um, you might have five minutes before class starts, and you've chosen to go get food. as you work your way towards the mess hall which is part of that large central building if in the quad if you remember there is like there is um actually you know what I think I'm going to change it I'm going to say the the mess hall is pretty close to where you had the bonfire um so because this is uh let's  
 **John Hagey:** If you would let me move, I could run to it.  
 **Luke S:** do  
 **John Hagey:** But you keep locking my character for no reason. No historical reason ever.  
@@ -1820,7 +1820,7 @@ Mar 9, 2026
 ### 01:25:55
 
    
-**Luke S:** I'll let you run So yeah, that exactly that's that's where the messaul is. Um first class of course is in in the large hall. Uh you have all been assigned to different classes to show up to. It was in your dorm. You there's no way you would have missed it. Well, I guess maybe that's an assumption on my end. I don't I don't think you would have missed it. What do y'all think? Did I um it was posted everywhere. You would Iggy. Maybe ignatious. Would you have at any point realized that there was a a classroom that your entire dorm was assigned to show up to? Yeah. Okay. I love it. Let the dice choose. Yeah, that's for sure. That's for sure. Good enough. 21 with fear.  
+**Luke S:** I'll let you run So yeah, that exactly that's that's where the messaul is. Um first class of course is in in the large hall. Uh you have all been assigned to different classes to show up to. It was in your dorm. You there's no way you would have missed it. Well, I guess maybe that's an assumption on my end. I don't I don't think you would have missed it. What do y'all think? Did I um it was posted everywhere. You would Iggy. Maybe Ignatius. Would you have at any point realized that there was a a classroom that your entire dorm was assigned to show up to? Yeah. Okay. I love it. Let the dice choose. Yeah, that's for sure. That's for sure. Good enough. 21 with fear.  
 **John Hagey:** No.  
 **Luke S:** Uh there is a cost though. So, I'm gonna have you um I think I'm gonna have you mark two stress uh because in my mind that it's the combination of like there's a lot  
    
@@ -1832,13 +1832,13 @@ Mar 9, 2026
 **John Hagey:** I noticed it. I just chose to ignore  
 **Luke S:** Yeah.  
 **John Hagey:** it.  
-**Luke S:** Yeah. Right. Like you just you you chose sustenance over on time. Uh, do you think ignatious makes that choice because he really cares about the food or be or for any other reason?  
+**Luke S:** Yeah. Right. Like you just you you chose sustenance over on time. Uh, do you think Ignatius makes that choice because he really cares about the food or be or for any other reason?  
 **John Hagey:** Like why did he choose food over class?  
 **Luke S:** Yeah.  
 **John Hagey:** I think he literally just figures like having traveled so far like from the island and everything like you got to eat when you got you got to eat when you can eat. So it's like the classrooms are always going to be there. I can always find the knowledge from the teachers and the other students. I can ask for the notes but food food was only served three times a day. Like what are we talking about here? We're not missing a meal. That's  
 **Luke S:** Okay. Okay. Fair enough. Fair enough.  
 **John Hagey:** ridiculous.  
-**Luke S:** I I I kind of I I felt like there there could be an interpretation of of ignatious that maybe he was like a little bit rebellious of what he was supposed to be doing.  
+**Luke S:** I I I kind of I I felt like there there could be an interpretation of of Ignatius that maybe he was like a little bit rebellious of what he was supposed to be doing.  
    
  
 
@@ -1874,7 +1874,7 @@ Mar 9, 2026
 **John Hagey:** No, no, no, no. Like Mitches, but made from  
 **Luke S:** Oh, yeah. Yeah. Yeah. Yeah. Yeah.  
 **John Hagey:** stone.  
-**Luke S:** Yeah. Yeah. Not not not b not Yeah. Not bes. Um so the but the vibe is is mostly just like get your food and get out. It's not in this is our meeting place for culture and community and all that stuff. Uh it is nice though and and the food the smell is amazing. Uh, so as Igg Iggy and ignatious walk in, they're met with the classic buffet style breakfast with that bacon that you smell, the eggs, the toast, there's fresh food, fruit, there is um like coffee pots,  
+**Luke S:** Yeah. Yeah. Not not not b not Yeah. Not bes. Um so the but the vibe is is mostly just like get your food and get out. It's not in this is our meeting place for culture and community and all that stuff. Uh it is nice though and and the food the smell is amazing. Uh, so as Igg Iggy and Ignatius walk in, they're met with the classic buffet style breakfast with that bacon that you smell, the eggs, the toast, there's fresh food, fruit, there is um like coffee pots,  
 **John Hagey:** and French  
 **Luke S:** there's juices, and then there is freestyle seating in in French toast,  
 **John Hagey:** toast.  
@@ -1888,7 +1888,7 @@ Mar 9, 2026
    
 **Luke S:** Um  
 **John Hagey:** Just saying.  
-**Luke S:** and and and and France toast. Um so what's uh what what Eggy and ignatious do as you as you enter the hall? You know, you got like five minutes till now at this point. Class is starting as you're entering the food hall and  
+**Luke S:** and and and and France toast. Um so what's uh what what Eggy and Ignatius do as you as you enter the hall? You know, you got like five minutes till now at this point. Class is starting as you're entering the food hall and  
 **Holly Strebel:** I think I would say like Iggy truly has still no idea what's going on. He's just here to like live moment by moment, but he has like no understanding what a class is or like being on time.  
 **John Hagey:** Are there to-go boxes?  
 **Holly Strebel:** He's also never seen any of this food.  
@@ -1911,7 +1911,7 @@ Mar 9, 2026
 **John Hagey:** We are we are taking we are taking the trays with us and we are loading them full of  
 **Luke S:** and Okay,  
 **John Hagey:** food.  
-**Luke S:** sounds good. There there are a few students here and there but no one that you recognize. Uh so I guess kind of same questions I was asking Loami. Any interest in stopping to chat? But it sounds like it's get in get  
+**Luke S:** sounds good. There there are a few students here and there but no one that you recognize. Uh so I guess kind of same questions I was asking Lomi. Any interest in stopping to chat? But it sounds like it's get in get  
 **John Hagey:** Oh no, let's get that food.  
 **Luke S:** out.  
 **John Hagey:** We might not get it. We might sit down at a table. It depends on how much food we can  
@@ -1925,7 +1925,7 @@ Mar 9, 2026
 ### 01:32:16
 
    
-**John Hagey:** ignatious  
+**John Hagey:** Ignatius  
 **Holly Strebel:** So yeah,  
 **Luke S:** Yeah.  
 **Holly Strebel:** he will be there all day unless somebody intervenes.  
@@ -1933,7 +1933,7 @@ Mar 9, 2026
 **Holly Strebel:** But  
 **Luke S:** I I Okay.  
 **John Hagey:** We got we got we got to leave.  
-**Luke S:** Um, I think as as Iggy is is doing this, there is a uh like an a few of the the servers behind the buffet for some of like the the harder to reach items and just monitoring and refilling some of the pastries when they get low and stocking up on the bacon and things like that. And Iggy is just ignatious as you watch like there's this real burly orc who is slowly following Iggy every time they pick up something and put it back after sniffing it. And you can see they're getting like redder and redder and like a couple of times they've t every time put it back they've reached across and pulled the muffin out and put it behind the the thing.  
+**Luke S:** Um, I think as as Iggy is is doing this, there is a uh like an a few of the the servers behind the buffet for some of like the the harder to reach items and just monitoring and refilling some of the pastries when they get low and stocking up on the bacon and things like that. And Iggy is just Ignatius as you watch like there's this real burly orc who is slowly following Iggy every time they pick up something and put it back after sniffing it. And you can see they're getting like redder and redder and like a couple of times they've t every time put it back they've reached across and pulled the muffin out and put it behind the the thing.  
    
  
 
@@ -2009,7 +2009,7 @@ Mar 9, 2026
 
    
 **Luke S:** Yeah.  
-**John Hagey:** feel like I feel like ignatious is going to get him like outside the door and just like,  
+**John Hagey:** feel like I feel like Ignatius is going to get him like outside the door and just like,  
 **Holly Strebel:** boulder.  
 **Luke S:** Yeah.  
 **John Hagey:** "Holy s\*\*\*."  
@@ -2057,7 +2057,7 @@ Mar 9, 2026
 **John Hagey:** We'll work on this. We'll work on this. It's  
 **Luke S:** Um, okay.  
 **John Hagey:** fine.  
-**Luke S:** So, Iggy and ignatious start working their way toward the class. Um, I kind of feel like Aggie and Brit, are you still good with them sticking together or is there Okay. Uh if you I guess I'll keep circling back if there's something that Aggie wants to do as we go, but we're planning to do a catch up with Sophie and Christina. So, um she's just here for the vibes. Yeah. A little bit more observer than active participant. Uh okay. So then um Whoa. What happened? Did I leave the meat? No,  
+**Luke S:** So, Iggy and Ignatius start working their way toward the class. Um, I kind of feel like Aggie and Brit, are you still good with them sticking together or is there Okay. Uh if you I guess I'll keep circling back if there's something that Aggie wants to do as we go, but we're planning to do a catch up with Sophie and Christina. So, um she's just here for the vibes. Yeah. A little bit more observer than active participant. Uh okay. So then um Whoa. What happened? Did I leave the meat? No,  
 **John Hagey:** No,  
 **Luke S:** still there.  
 **John Hagey:** I can still see and hear  
@@ -2070,7 +2070,7 @@ Mar 9, 2026
    
 **Luke S:** Okay.  
 **John Hagey:** you.  
-**Luke S:** Um Okay, Dan. Loami, it's about 10 minutes into a class that you tell me how much of this makes sense to Loami and how much he's tracking. Uh he walks in and standing in front of the class which is a huge it's it's that same uh like there are many classes that are this big amphitheater style classic gened classes and this one seats about 5,000 just like the one that you did the indo in. It's in the same building but a different amphitheater. And he comes in and the professor is a man in a military uniform. Um very crisp, has metals on his shoulder. He's got this bronze prosthetic arm and um written on the board is aic ballistics and logistics which has a bunch of you can imagine like kinematics and parab like different arcs of projectiles and estimations of it's physics basically. Um, what's what's Lo's first in like first impression walking in?  
+**Luke S:** Um Okay, Dan. Lomi, it's about 10 minutes into a class that you tell me how much of this makes sense to Lomi and how much he's tracking. Uh he walks in and standing in front of the class which is a huge it's it's that same uh like there are many classes that are this big amphitheater style classic gened classes and this one seats about 5,000 just like the one that you did the indo in. It's in the same building but a different amphitheater. And he comes in and the professor is a man in a military uniform. Um very crisp, has metals on his shoulder. He's got this bronze prosthetic arm and um written on the board is aic ballistics and logistics which has a bunch of you can imagine like kinematics and parab like different arcs of projectiles and estimations of it's physics basically. Um, what's what's Lo's first in like first impression walking in?  
 **Luke Foreman:** I think is it is it mostly like diagrams and drawings on like a board or is it more like physical built built kind of  
    
  
@@ -2125,7 +2125,7 @@ Mar 9, 2026
 ### 01:44:08
 
    
-**Luke S:** And and what what becomes very apparent to Loami very quickly is some people were expecting this and some people were not as he's squinting and looking around at the people around.  
+**Luke S:** And and what what becomes very apparent to Lomi very quickly is some people were expecting this and some people were not as he's squinting and looking around at the people around.  
 **Luke Foreman:** Yeah.  
 **Luke S:** Um but maybe it also makes sense to me that at the end of this week is a test and that test is 20,000 people going home and on that test are going to be complicated formulas.  
 **Luke Foreman:** Yeah. Yeah.  
@@ -2134,7 +2134,7 @@ Mar 9, 2026
 **John Hagey:** Lucky.  
 **Luke S:** So,  
 **Luke Foreman:** Lucky.  
-**Luke S:** how would Loami react to like that that first 15 minutes of  
+**Luke S:** how would Lomi react to like that that first 15 minutes of  
 **Luke Foreman:** Yeah. Okay. I think he um coming kind of coming  
 **Luke S:** class?  
 **Luke Foreman:** coming to the realization that like oh my gosh, I know nothing. I'm like, it's day one and I'm Especially seeing people raise their hand and like knowing what this was was like it's day one and I'm already behind like like kind of a a adrenaline  
@@ -2156,8 +2156,8 @@ Mar 9, 2026
 **Luke S:** They're down at the bottom and you got to go up the the seats up the  
 **John Hagey:** Well,  
 **Luke S:** the  
-**John Hagey:** there's no point in sneaking in if it's in the if they're already at the bottom. So, uh I think I think ignatious is just throwing that door open.  
-**Luke S:** Okay. Uh yeah. So I think Loami as you've been there it it's not the first time that the doors have been opened throughout class. Uh like there's been some people that have been late as is inevitable and they've they've met.  
+**John Hagey:** there's no point in sneaking in if it's in the if they're already at the bottom. So, uh I think I think Ignatius is just throwing that door open.  
+**Luke S:** Okay. Uh yeah. So I think Lomi as you've been there it it's not the first time that the doors have been opened throughout class. Uh like there's been some people that have been late as is inevitable and they've they've met.  
    
  
 
@@ -2165,8 +2165,8 @@ Mar 9, 2026
 
    
 **Luke S:** Um, but I I do feel like there is a general I think sorceress murmuring is the word  
-**John Hagey:** ignatious  
-**Luke S:** that I'm looking for that the door uh one gets opened with with vigor and two gets opened by an ash blood because again still like kind of a kind of like a a novelty popular people to get to know and there's not as far as you've seen so far there's no other ash bloods in this entire classroom. Um, ignatious, you probably recognize that pretty quickly as well, but um,  
+**John Hagey:** Ignatius  
+**Luke S:** that I'm looking for that the door uh one gets opened with with vigor and two gets opened by an ash blood because again still like kind of a kind of like a a novelty popular people to get to know and there's not as far as you've seen so far there's no other ash bloods in this entire classroom. Um, Ignatius, you probably recognize that pretty quickly as well, but um,  
 **John Hagey:** does not he does not recognize that at all. I'm telling you right now.  
 **Luke S:** okay.  
 **John Hagey:** Does it even cross his mind?  
@@ -2187,14 +2187,14 @@ Mar 9, 2026
 **Luke Foreman:** so he he is loyal he is loyal on that  
 **John Hagey:** That did happen. That was a thing.  
 **Luke Foreman:** Right.  
-**Luke S:** Okay. Okay. So, what So, what is uh what does loyalty mean then? As as ignatious and Iggy, you're met with this huge classroom. Not ever. It's not like you're the center of attention now, but there's definitely there's definitely a thousand people looking at you out of the 5,000 in this room. The professor pauses for just a millisecond before continuing on.  
+**Luke S:** Okay. Okay. So, what So, what is uh what does loyalty mean then? As as Ignatius and Iggy, you're met with this huge classroom. Not ever. It's not like you're the center of attention now, but there's definitely there's definitely a thousand people looking at you out of the 5,000 in this room. The professor pauses for just a millisecond before continuing on.  
    
  
 
 ### 01:48:46
 
    
-**Luke S:** And all you hear is like and if the windshare comes across at 25 degrees off parabola, then you'll notice that the crate will not impact on its nexus, which could cause some harmonic dissonance. And if that becomes the case, then your center of gravity of course will be affected. So you have to counter that. And that's like the wave that hit Iggy and ignatious. I I kind of need to do this in series. I feel like there's very different reactions that are going to happen between the characters. So, uh, ignatious, you knock the doors open. What's next?  
+**Luke S:** And all you hear is like and if the windshare comes across at 25 degrees off parabola, then you'll notice that the crate will not impact on its nexus, which could cause some harmonic dissonance. And if that becomes the case, then your center of gravity of course will be affected. So you have to counter that. And that's like the wave that hit Iggy and Ignatius. I I kind of need to do this in series. I feel like there's very different reactions that are going to happen between the characters. So, uh, Ignatius, you knock the doors open. What's next?  
 **John Hagey:** He knows exactly what the f\*\*\* is going  
 **Luke S:** Yeah, I I'll give you that.  
 **John Hagey:** on.  
@@ -2223,7 +2223,7 @@ Mar 9, 2026
 **Holly Strebel:** that's what I anticipate he would have  
 **Luke S:** Uh,  
 **Holly Strebel:** done.  
-**Luke S:** do you think do you think Iggy would would be more likely to uh so ignatious like was very quick and and whether he meant to or not said something aloud enough that the professor could  
+**Luke S:** do you think do you think Iggy would would be more likely to uh so Ignatius like was very quick and and whether he meant to or not said something aloud enough that the professor could  
    
  
 
@@ -2251,10 +2251,10 @@ Mar 9, 2026
 
    
 **Holly Strebel:** I didn't do that.  
-**Luke S:** like I kind of like rolling twice more than anything anyways. Uh, so that that the math pretty much added up there. Okay. Um, so 17 and 18, like y'all didn't come across as super geniuses saying the most like um insightful s\*\*\* of all time or correcting the formula on the board. But I think both of you, you come in late, the professor pauses, and it's like ignatious says, "Oh, this is just like volcanoes." And if you had to dodge them, the professor's like, "It is kind of like that." Yeah, actually. And and I think Iggy might say something like, "But it's boxes and boxes have a different coefficient of friction and especially when you talk about wind." The professor like that's also true. Uh great observation students. Please again take your seats and stop  
-**John Hagey:** Does ignatious notice Loami?  
+**Luke S:** like I kind of like rolling twice more than anything anyways. Uh, so that that the math pretty much added up there. Okay. Um, so 17 and 18, like y'all didn't come across as super geniuses saying the most like um insightful s\*\*\* of all time or correcting the formula on the board. But I think both of you, you come in late, the professor pauses, and it's like Ignatius says, "Oh, this is just like volcanoes." And if you had to dodge them, the professor's like, "It is kind of like that." Yeah, actually. And and I think Iggy might say something like, "But it's boxes and boxes have a different coefficient of friction and especially when you talk about wind." The professor like that's also true. Uh great observation students. Please again take your seats and stop  
+**John Hagey:** Does Ignatius notice Lomi?  
 **Luke S:** interrupting.  
-**John Hagey:** And does Loami have a seat open next to him?  
+**John Hagey:** And does Lomi have a seat open next to him?  
 **Luke S:** He has one seat taken otherwise I don't know. Go ahead, love.  
    
  
@@ -2263,14 +2263,14 @@ Mar 9, 2026
 
    
 **Luke S:** I was just going to give you the  
-**Luke Foreman:** I I mean I I think Loami wouldn't like wave or anything,  
+**Luke Foreman:** I I mean I I think Lomi wouldn't like wave or anything,  
 **Luke S:** option.  
 **Luke Foreman:** but Lumi definitely would be making eye contact like just like shaking his head. So, like your eye would definitely catch someone shaking their head at you. Um, in terms of seats around, I mean, three rows back in the middle of the giant auditorium probably isn't the most popular seats. So, maybe around,  
 **Luke S:** Yeah. In my mind,  
 **Luke Foreman:** but  
 **Luke S:** I think 5,000 people in this class. There's 5,000 people in this class. So, it's likely that there's one seat open next to you,  
 **John Hagey:** Damn.  
-**Luke S:** maybe, Loami,  
+**Luke S:** maybe, Lomi,  
 **Luke Foreman:** yeah.  
 **Luke S:** or or like Yeah, I'll say there's one seat open to your right, but there's not a second one. However, the seats are spread out far enough that like theoretically someone small could easily stand between two people sitting and appear to be sitting without too much issue. Um, but I I do think like I walking into a room and catching the eye of one of 5,000 people is is kind of still impressive in its own right.  
    
@@ -2290,7 +2290,7 @@ Mar 9, 2026
 **Luke S:** Yeah.  
 **John Hagey:** contact.  
 **Luke S:** Yeah. Okay. I think  
-**Luke Foreman:** or or like looks to the teacher for the teacher's response and Loami is just locked eyes just shaking  
+**Luke Foreman:** or or like looks to the teacher for the teacher's response and Lomi is just locked eyes just shaking  
 **Luke S:** that  
 **Luke Foreman:** his head in in the third row.  
 **Luke S:** Yeah, that's fair. That's fair.  
@@ -2299,12 +2299,12 @@ Mar 9, 2026
 **Luke Foreman:** Yeah.  
 **Luke S:** 100 across or so.  
 **Luke Foreman:** Yeah.  
-**Luke S:** Um Okay, cool. Then yes, that that's what you see. ignatious in  
+**Luke S:** Um Okay, cool. Then yes, that that's what you see. Ignatius in  
 **Luke Foreman:** Yeah.  
 **John Hagey:** And is is Iggy already gone? Like is Iggy already gone somewhere into the  
 **Luke S:** the  
 **John Hagey:** seating.  
-**Holly Strebel:** I think if Igna I think he's like bonded to ignatious a little bit at this point. So if you start going and he sees like there's any room to sit next to you,  
+**Holly Strebel:** I think if Igna I think he's like bonded to Ignatius a little bit at this point. So if you start going and he sees like there's any room to sit next to you,  
    
  
 
@@ -2320,7 +2320,7 @@ Mar 9, 2026
 **Luke S:** I love the idea that it's like the least graceful. Like, oh, excuse me. Like, yeah, just  
 **John Hagey:** I I think Ignasious might find a chair on his way and like realize Iggy's like behind him like he might pick up the  
 **Luke S:** make  
-**John Hagey:** chair and carry it with over to Loami to have a second chair because that would just be rude not to offer Iggy a chair.  
+**John Hagey:** chair and carry it with over to Lomi to have a second chair because that would just be rude not to offer Iggy a chair.  
 **Luke S:** Okay.  
 **Holly Strebel:** And then I actually sits on the ground but uses the chair as his table for all of his snacks.  
 **Luke S:** the board at all.  
@@ -2342,7 +2342,7 @@ Mar 9, 2026
 **John Hagey:** priorities.  
 **Luke S:** Okay.  
 **Holly Strebel:** eat.  
-**Luke S:** Um, so you work your way over and as as you're working your way through the crowd, the the guy to your left, uh, Loami, he's a a pretty lanky uh, human and he kind of you can see he's also got like a bunch of where your stains are grease, his stains are inky, like bunch of ink all over his hands. And um he kind of leans over and just says,  
+**Luke S:** Um, so you work your way over and as as you're working your way through the crowd, the the guy to your left, uh, Lomi, he's a a pretty lanky uh, human and he kind of you can see he's also got like a bunch of where your stains are grease, his stains are inky, like bunch of ink all over his hands. And um he kind of leans over and just says,  
 **Luke Foreman:** Okay.  
 **Luke S:** "Uh, so you know these ones?  
 **Luke Foreman:** Sorry. What was that?  
@@ -2360,7 +2360,7 @@ Mar 9, 2026
 **Luke Foreman:** you know, that I think they just they probably just got lost on their way here. So, it's uh it's something, you know, maybe maybe we'll um I I think I think we'll get back to back to class. Maybe we'll chat we'll chat after class and um and and we can we can talk about talk about what we learned.  
 **Luke S:** Um perhaps and he turns back to his notebook and starts scribbling again, mostly unimpressed. Uh and yeah,  
 **Luke Foreman:** Yeah.  
-**Luke S:** so ignatious, you pull up your seat and sit and try and sit down.  
+**Luke S:** so Ignatius, you pull up your seat and sit and try and sit down.  
 **Luke Foreman:** Lo turns. Where have you What are you doing? It's the first day.  
 **John Hagey:** Yeah, but like Yeah, but like Iggy doesn't even know what school is or classes and like we had to go get food. Like you can't adventure on an empty stomach. That'd be ridiculous. And your your brain needs the food to study. So, you know, priorities.  
 **Holly Strebel:** Have you tried the muffins?  
@@ -2401,7 +2401,7 @@ Mar 9, 2026
 **Luke S:** be  
 **Luke Foreman:** but we got to we got to stay locked in.  
 **John Hagey:** Right. Right. Yeah. You're not wrong, but like it's fine. We'll we'll catch up.  
-**Luke Foreman:** Yeah, we'll uh we'll meet after class. And and Loami like taps the guy's shoulder next to him like, "Yeah, we'll we'll talk after class.  
+**Luke Foreman:** Yeah, we'll uh we'll meet after class. And and Lomi like taps the guy's shoulder next to him like, "Yeah, we'll we'll talk after class.  
 **Luke S:** I and uh what I Okay, I need I need I'm gonna look actually um let's see if this  
 **John Hagey:** Miss  
 **Luke S:** works. Plus three to this.  
@@ -2422,7 +2422,7 @@ Mar 9, 2026
 **Luke Foreman:** beefy but not  
 **John Hagey:** I I have a  
 **Luke Foreman:** evasive.  
-**Luke S:** Seven for ignatious. I think you might need to equip your armor.  
+**Luke S:** Seven for Ignatius. I think you might need to equip your armor.  
 **John Hagey:** seven.  
 **Luke S:** I I did give you Well, no, I gave it to you. Base score four. Yeah.  
 **Holly Strebel:** He's  
@@ -2430,7 +2430,7 @@ Mar 9, 2026
 **Holly Strebel:** also a  
 **Luke S:** also a rock.  
 **Holly Strebel:** rock.  
-**Luke S:** Uh they have ignatious with the lowest the lowest evasion score. A piece of chalk just drills you straight in the forehead and uh you just hear coming from the front.  
+**Luke S:** Uh they have Ignatius with the lowest the lowest evasion score. A piece of chalk just drills you straight in the forehead and uh you just hear coming from the front.  
 **John Hagey:** Ow\!  
 **Luke S:** And just like this chalk, you would notice if there was not so much wind being said from voices, it would have deviated its course more. But because of the kinematics, it would have directly struck at approximately 2.24.  
    
@@ -2442,7 +2442,7 @@ Mar 9, 2026
 **Luke S:** two four four sevens and he just continues. I want to know if he can do that to the back row, too. So, Aggie wouldn't be in this class, but it would be good. It would be It wasn't an incredible throw, but it was pretty good. Hit him in the forehead. It hit him in the forehead because he has such a low ination. It doesn't do you any damage, but it might it might do a little bit of stress for Yeah, a little emotional damage, but and he's basically he  
 **John Hagey:** emotional damage.  
 **Luke S:** just kind of keeps lecturing though, but you you've you've been called out.  
-**John Hagey:** Starts ignatious starts taking notes.  
+**John Hagey:** Starts Ignatius starts taking notes.  
 **Luke S:** Okay. Uh so the rest of of the class goes by and um at the end of it the professor takes a pause and he says okay um for these blocks your next  
 **John Hagey:** You  
 **Luke S:** teacher will be our thorn after lunch for the history of the shatter. Goodbye.  
@@ -2474,8 +2474,8 @@ Mar 9, 2026
 **Holly Strebel:** have.  
 **John Hagey:** Forgrudgingly,  
 **Luke S:** So got  
-**John Hagey:** I will follow Loami's good example.  
-**Luke Foreman:** But I I think Loami before is like is like  
+**John Hagey:** I will follow Lomi's good example.  
+**Luke Foreman:** But I I think Lomi before is like is like  
    
  
 
@@ -2506,7 +2506,7 @@ Mar 9, 2026
 **Luke Foreman:** Okay. Good day.  
 **Luke S:** and he he he walks out. You see him his head tucked together with a couple of other uh students as they go the opposite way out from where  
 **Luke Foreman:** Yeah.  
-**John Hagey:** Honestly, Loami, I don't think he wanted to copy his homework. He pronounced ignoramus wrong.  
+**John Hagey:** Honestly, Lomi, I don't think he wanted to copy his homework. He pronounced ignoramus wrong.  
 **Luke S:** is  
 **John Hagey:** So, I  
 **Luke Foreman:** Hey, that you got him there.  
@@ -2571,7 +2571,7 @@ Mar 9, 2026
 **John Hagey:** We lost Holly.  
 **Luke S:** lost Holly.  
 **John Hagey:** Iggy, no.  
-**Luke S:** Uh, and then it shows I'm just going to talk slowly. It it shows those seven classes and then it talks about a um there's only one extracurricular noted for the week and that's called um the circuit race at Apex Ring. There's not that much more information about it. And then um it mentions 20,000 students will be eliminated after the test. Um, and that's basically it. It's a pretty sparse answer, but yes, that that's kind of like the routine you can expect for the next three and a half days is class, lunch, class, sleep, class, lunch, class, sleep, class, lunch, class, sleep, class, test, stay, or go home. So, with that in mind, as Iggy, Ignat Well, as ignatious, and Loami at least go to lunch with Iggy following.  
+**Luke S:** Uh, and then it shows I'm just going to talk slowly. It it shows those seven classes and then it talks about a um there's only one extracurricular noted for the week and that's called um the circuit race at Apex Ring. There's not that much more information about it. And then um it mentions 20,000 students will be eliminated after the test. Um, and that's basically it. It's a pretty sparse answer, but yes, that that's kind of like the routine you can expect for the next three and a half days is class, lunch, class, sleep, class, lunch, class, sleep, class, lunch, class, sleep, class, test, stay, or go home. So, with that in mind, as Iggy, Ignat Well, as Ignatius, and Lomi at least go to lunch with Iggy following.  
    
  
 
@@ -2588,7 +2588,7 @@ Mar 9, 2026
 **Holly Strebel:** happened.  
 **Luke S:** Um so Iggy I was just basically describing that there's there's seven classes it's for three days one class one class one class one class one class one class six classes and then one class in the morning and then uh that'll be Thursday morning now that I'm doing the math you have Thursday afternoon off Friday morning will be the test and Thursday afternoon is the is is a place held for the resonance or for the the circuit race at  
 **Holly Strebel:** Okay.  
-**Luke S:** Apex Ring not much other information about that, but it it's given an entire day before the test. Um, and or entire half day before the test and uh which is a little different than I just described the other ones, but I like the format more. And so as Iggy, ignatious, and Loami head to lunch, um, is there I guess like we can use lunch as the mechanic, but I'm curious what the focus will be like almost as a montage.  
+**Luke S:** Apex Ring not much other information about that, but it it's given an entire day before the test. Um, and or entire half day before the test and uh which is a little different than I just described the other ones, but I like the format more. And so as Iggy, Ignatius, and Lomi head to lunch, um, is there I guess like we can use lunch as the mechanic, but I'm curious what the focus will be like almost as a montage.  
    
  
 
@@ -2599,8 +2599,8 @@ Mar 9, 2026
 **Luke S:** We'll go through these classes really quickly because they're not too important individually. Um, but I know one thing that I think y'all will want to do, is there anything else that you would do like as as you're walking out of this first class, how would you approach the  
 **John Hagey:** H.  
 **Luke S:** week?  
-**John Hagey:** Well, we got to find Lucky. I definitely am curious about the race stuff, but also we got to make sure Loami understands the trajectory of stuff, which means we got to go find a ship that has these things on them. I'm going to call them what I think they are. They're cannons. And they are a logistical piece of equipment. And we are going to logistics some s\*\*\* towards a target of sorts.  
-**Luke Foreman:** I like where this is going. I um yeah, I think Loami's got the got definitely a workman's mentality towards these classes, but definitely finding lucky is on the list to especially after this class kind of shaken on all right, let's get every advantage that we can in in this case.  
+**John Hagey:** Well, we got to find Lucky. I definitely am curious about the race stuff, but also we got to make sure Lomi understands the trajectory of stuff, which means we got to go find a ship that has these things on them. I'm going to call them what I think they are. They're cannons. And they are a logistical piece of equipment. And we are going to logistics some s\*\*\* towards a target of sorts.  
+**Luke Foreman:** I like where this is going. I um yeah, I think Lomi's got the got definitely a workman's mentality towards these classes, but definitely finding lucky is on the list to especially after this class kind of shaken on all right, let's get every advantage that we can in in this case.  
    
  
 
@@ -2610,7 +2610,7 @@ Mar 9, 2026
 **Luke S:** Got it. I'll flip you on the just just like let's let's have you walking to lunch talking about what's the plan for the  
 **Luke Foreman:** So  
 **Luke S:** week between like the three of you if that makes sense. So basically just doing but just um Yeah. Yeah.  
-**John Hagey:** Well, Loami, we know we got to find Lucky at some point, but we also got to make sure that we understand the trajectory launches of the logistical equipment that they were talking about, which that guy clearly knew about because I still have a welt on my head. So, I think we go find Lucky today.  
+**John Hagey:** Well, Lomi, we know we got to find Lucky at some point, but we also got to make sure that we understand the trajectory launches of the logistical equipment that they were talking about, which that guy clearly knew about because I still have a welt on my head. So, I think we go find Lucky today.  
 **Luke Foreman:** Yeah, I like that plan. I think we got some good I got some good uh interesting things to trade potentially for this test. So, I think we uh we'll be able to to get it off him. I think for sure.  
 **John Hagey:** Yeah. Yeah. But then then the next day the next day we gota we got to figure out Well, it'll probably be night if we're being honest.  
    
@@ -2647,7 +2647,7 @@ Mar 9, 2026
 **Luke Foreman:** Okay.  
 **Luke S:** this is this is the really the only sport that uh Harmony has and I'll throw you over to this actually. So there's that. I'll also just if you wanted to see it bigger I'll throw you here.  
 **John Hagey:** The Colossus is  
-**Luke S:** So, uh, Loami,  
+**Luke S:** So, uh, Lomi,  
 **John Hagey:** dope.  
 **Luke S:** what you would be describing to the other folks is basically there is, uh, did I? Yeah, sorry. Activate.  
 **Luke Foreman:** It's not  
@@ -2663,7 +2663,7 @@ Mar 9, 2026
 ### 02:13:28
 
    
-**Luke S:** And this is supposed to mock like the the logistical complexity of traveling with that vehicle over a long time to explore. And the the whole goal of the game is you're the the harmony energy is based around this idea. It's kind of like a battery, but instead of holding charge, it's like the inverse of a battery. I don't know how well Loami understands harmony technology. This is something that's like how well do you understand how a computer works for a lot of people?  
+**Luke S:** And this is supposed to mock like the the logistical complexity of traveling with that vehicle over a long time to explore. And the the whole goal of the game is you're the the harmony energy is based around this idea. It's kind of like a battery, but instead of holding charge, it's like the inverse of a battery. I don't know how well Lomi understands harmony technology. This is something that's like how well do you understand how a computer works for a lot of people?  
 **Luke Foreman:** Mhm.  
 **Luke S:** uh you generally know that you plug in the power and then you get power.  
 **Luke Foreman:** Yeah.  
@@ -2719,7 +2719,7 @@ Mar 9, 2026
 ### 02:18:24
 
    
-**Luke S:** They call the walker core. and Loami might have worked on it over the over some point of time, but um if you get that elevated launch, there's a cost, but it can be a way that people who have um have different vehicles can get a little bit of altitude before they drop. Uh and then the first so like around the ring is like a Formula 1 event. There is just stadium seats along the concrete rim. Um, there are a bunch of other things about the race that we can talk about if it ever becomes relevant. That's where kind of like the normal people sit. And then there are train cars that that go along the top of the rim that you can get on and get off because the rink's so wide. It's a mile wide. It's pretty common that like the action might be happening opposite you and you want to get on the the cable car to get to the other side of the ring to get closer to the action and watch where like people are fighting over a node or whatever.  
+**Luke S:** They call the walker core. and Lomi might have worked on it over the over some point of time, but um if you get that elevated launch, there's a cost, but it can be a way that people who have um have different vehicles can get a little bit of altitude before they drop. Uh and then the first so like around the ring is like a Formula 1 event. There is just stadium seats along the concrete rim. Um, there are a bunch of other things about the race that we can talk about if it ever becomes relevant. That's where kind of like the normal people sit. And then there are train cars that that go along the top of the rim that you can get on and get off because the rink's so wide. It's a mile wide. It's pretty common that like the action might be happening opposite you and you want to get on the the cable car to get to the other side of the ring to get closer to the action and watch where like people are fighting over a node or whatever.  
    
  
 
@@ -2805,7 +2805,7 @@ Mar 9, 2026
 **Luke Foreman:** more energy put a little more energy towards the  
 **John Hagey:** You know, that's a good start. Iggy,  
 **Luke Foreman:** vehicle.  
-**John Hagey:** how do you feel about racing? You know what? We'll explain later. Loami's got  
+**John Hagey:** how do you feel about racing? You know what? We'll explain later. Lomi's got  
 **Holly Strebel:** what  
 **Luke S:** Okay. Uh,  
 **John Hagey:** you.  
@@ -2816,7 +2816,7 @@ Mar 9, 2026
 ### 02:24:38
 
    
-**Luke S:** um just for your reading pleasure. And uh Loami, the other thing as as a super fan that like I would he be the type of guy that's you know getting the news pamphlets about the new season, following the racers, or is he more for the sport itself?  
+**Luke S:** um just for your reading pleasure. And uh Lomi, the other thing as as a super fan that like I would he be the type of guy that's you know getting the news pamphlets about the new season, following the racers, or is he more for the sport itself?  
 **Luke Foreman:** Um, I think it it's just like something it's an enthusiasm that you can only get from like starting watching something at a young age. like it you you sort of get this kind of admiration to to the people who've won it like they're just like they're legends even  
 **Luke S:** Yeah.  
 **Luke Foreman:** though at the time they're they were probably like you know 16 years old or whatever but he like remembers who won when he was five watching  
@@ -2888,7 +2888,7 @@ Mar 9, 2026
 **Luke Foreman:** Yeah. I think he would follow kind of the professional side of  
 **Luke S:** Okay.  
 **Luke Foreman:** it.  
-**Luke S:** Um, yeah. So then that's good to know. So, we'll keep that in mind that y'all want to race. Um, it is it's getting to 10 o'clock. Uh, so we might we might wrap it up here as y'all um so what I heard from the for like ignatious I didn't really hear as much from Iggy if you're completely on board, but correct me if if anything here Iggy wouldn't want to do is it's mostly it's uh in orders of priority.  
+**Luke S:** Um, yeah. So then that's good to know. So, we'll keep that in mind that y'all want to race. Um, it is it's getting to 10 o'clock. Uh, so we might we might wrap it up here as y'all um so what I heard from the for like Ignatius I didn't really hear as much from Iggy if you're completely on board, but correct me if if anything here Iggy wouldn't want to do is it's mostly it's uh in orders of priority.  
    
  
 
@@ -2897,11 +2897,11 @@ Mar 9, 2026
    
 **Luke S:** Finding lucky is near the top. Right next to getting some practical experience and then s somewhat significantly below that is attending class and learning from the  
 **Luke Foreman:** Mhm.  
-**Luke S:** teachers or would you would would would Loami would any of you skip classes entirely like on purpose?  
+**Luke S:** teachers or would you would would would Lomi would any of you skip classes entirely like on purpose?  
 **John Hagey:** I'm in a  
-**Luke S:** Yeah. So ignatious no problem.  
+**Luke S:** Yeah. So Ignatius no problem.  
 **John Hagey:** heartbeat.  
-**Luke S:** What about ALoami or Agy? I think Iggy like there there even Iggy was having a little bit of trouble keeping up with the math during class today for what it's worth. Like it's pretty it's pretty advanced stuff to learn in in a half  
+**Luke S:** What about Alomi or Agy? I think Iggy like there there even Iggy was having a little bit of trouble keeping up with the math during class today for what it's worth. Like it's pretty it's pretty advanced stuff to learn in in a half  
 **Holly Strebel:** I  
 **Luke S:** day.  
 **Holly Strebel:** think well I think right now Iggy is like on a food coma so I think he's like semi just like along for the ride for the first time in his life. Like he's not really thinking clearly. He's enjoying being around two people who seem to enjoy his presence. And I think he's like into the idea of like exploring more and less being stuck in a classroom, especially if he felt like he wasn't quite understanding or keeping up in the classroom.  
@@ -2914,7 +2914,7 @@ Mar 9, 2026
 **Luke S:** Okay. Okay. Got it. What about low me for classes?  
 **Luke Foreman:** I think it would have to be probably only for building the vehicle would be like  
 **Luke S:** Okay.  
-**Luke Foreman:** it has to be like a good enough reason and that would be a good enough reason for Loami just because he's so into it. Um,  
+**Luke Foreman:** it has to be like a good enough reason and that would be a good enough reason for Lomi just because he's so into it. Um,  
 **Luke S:** Okay.  
 **Luke Foreman:** but I think that also depends on getting the guide from Lucky. And if it's like utter nonsense, then probably probably be like,  
 **Luke S:** Sure.  
@@ -2973,7 +2973,7 @@ Mar 9, 2026
 **Luke Foreman:** Yeah.  
 **Luke S:** yeah,  
 **Luke Foreman:** Done.  
-**Luke S:** and with that, I think you you find you find Lucky damn near instantly. Uh, you know, he's he's in that same kind of like corner that he's sort of set up against one of the buildings where the bonfire was standing on his little crate and he's got a little little like um like a tarp laid out that he can quickly scoop up and run with hypothetically if he ever had to do so. And he's just gesturing around and every now and then he gets people to come by. Uh he seems to be sort of tolerated by everyone pretty like amicably. every now and then he gets kind of feisty and and you are starting to notice well I guess yeah I think with that good of a role um Loami you notice Sar just lingering around him as well again kind of like just around the side every now and then he walks by mentions something to Lucky and  
+**Luke S:** and with that, I think you you find you find Lucky damn near instantly. Uh, you know, he's he's in that same kind of like corner that he's sort of set up against one of the buildings where the bonfire was standing on his little crate and he's got a little little like um like a tarp laid out that he can quickly scoop up and run with hypothetically if he ever had to do so. And he's just gesturing around and every now and then he gets people to come by. Uh he seems to be sort of tolerated by everyone pretty like amicably. every now and then he gets kind of feisty and and you are starting to notice well I guess yeah I think with that good of a role um Lomi you notice Sar just lingering around him as well again kind of like just around the side every now and then he walks by mentions something to Lucky and  
    
  
 
@@ -3064,7 +3064,7 @@ Mar 9, 2026
 **Luke S:** He's not  
 **Luke Foreman:** He is not good. He's not lucky. There it is.  
 **John Hagey:** Lucky.  
-**Luke Foreman:** There it is. He's not lucky. And uh but I'll tell you what, I got a little souvenir, let's say, from from our little game of Crown and Ruin. And Loami holds out his hand and opens it up. And it's one of it's that extra golden dye that he convinced Val that he didn't give him  
+**Luke Foreman:** There it is. He's not lucky. And uh but I'll tell you what, I got a little souvenir, let's say, from from our little game of Crown and Ruin. And Lomi holds out his hand and opens it up. And it's one of it's that extra golden dye that he convinced Val that he didn't give him  
 **Luke S:** Nice.  
 **Luke Foreman:** one.  
 **Luke S:** This is one of those celestial ones, man. I always like to have the luck on those. No, give me the roll.  
@@ -3087,7 +3087,7 @@ Mar 9, 2026
 **Luke S:** All right. H I mean what you've told me the the putting  
 **Luke Foreman:** ending.  
 **Luke S:** valve out that happens every night up there in the Celestials. So you're just not lucky. It's a good story. It ain't that great. Stealing dies with slash alone. Arguably illegal. Also pretty lucky. So, I'll give you I'll give you one of the questions for  
-**Luke Foreman:** All right, ignatious,  
+**Luke Foreman:** All right, Ignatius,  
 **Luke S:** it.  
 **Luke Foreman:** tell them the rest. Let's take this thing home.  
 **John Hagey:** Oh, does that do I have to continue the same  
@@ -3295,7 +3295,7 @@ Mar 9, 2026
 **Luke S:** Uh what do you think he'll talk more if you're here or you're  
 **Holly Strebel:** He's  
 **Luke S:** not here? Okay.  
-**John Hagey:** probably more but also even more more with Loami  
+**John Hagey:** probably more but also even more more with Lomi  
 **Luke S:** Yeah. Yeah. You can come.  
 **Holly Strebel:** always  
 **John Hagey:** too. All right,  
