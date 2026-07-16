@@ -14,15 +14,15 @@ tags:
 
 > "The numbers do not lie. They simply wait for us to ask the right question."
 
-| | |
-|---|---|
-| **Role** | Professor of Harmonics |
-| **Race** | Tortoise (long-lived) |
-| **Affiliation** | [[House Gilded]] (origin), House Vox (research sponsor), [[Vumbua Academy]] |
-| **Location** | [[Walker-Core]] — Power Plant, catwalk office |
-| **Status** | Active |
-| **Accent** | Indian, slow-speaking |
-| **First Appearance** | [[session-02.5\|Session 2.5]] |
+|                      |                                                                             |
+| -------------------- | --------------------------------------------------------------------------- |
+| **Role**             | Professor of Harmonics                                                      |
+| **Race**             | Tortoise (long-lived)                                                       |
+| **Affiliation**      | [[House Gilded]] (origin), House Vox (research sponsor), [[Vumbua Academy]] |
+| **Location**         | [[Walker-Core]] — Power Plant, catwalk office                               |
+| **Status**           | Active                                                                      |
+| **Accent**           | Indian, slow-speaking                                                       |
+| **First Appearance** | [[session-02.5\|Session 2.5]]                                               |
 
 ## Overview
 
