@@ -313,8 +313,8 @@ Feb 9, 2026
 **John Hagey:** I'm giving you I don't know what you're talking  
 **GM or Aggie:** no one's  
 **John Hagey:** about.  
-**GM or Aggie:** fire eater um there's probably a hundred or 200 Ashb Bloods Evan. So the question would be how social is Ignatius? Because we've talked about like his politics and how where he'd be at politics, meaning he's not blind, but like does he have any um and and we can we can do this like a character building later if you want, but things like does he have any friends in his clan or does he have any um anybody else? because probably almost all the youths or like the the really the young people would be going to school this year. Um because the Ashwoods have leaned into Harmony pretty um pretty forward forward lean into harmony. So you  
-**John Hagey:** Yeah, I yeah, we can we'll build into it later, but I can definitely see like Ignatius like sure he kind of,  
+**GM or Aggie:** fire eater um there's probably a hundred or 200 Ashb Bloods Evan. So the question would be how social is ignatious? Because we've talked about like his politics and how where he'd be at politics, meaning he's not blind, but like does he have any um and and we can we can do this like a character building later if you want, but things like does he have any friends in his clan or does he have any um anybody else? because probably almost all the youths or like the the really the young people would be going to school this year. Um because the Ashwoods have leaned into Harmony pretty um pretty forward forward lean into harmony. So you  
+**John Hagey:** Yeah, I yeah, we can we'll build into it later, but I can definitely see like ignatious like sure he kind of,  
 **GM or Aggie:** would  
 **John Hagey:** you know, has that rebellious side to him, but that doesn't mean he doesn't have friends and, you know, like keep it's not like he he's not an antisocial person by any means.  
    
@@ -332,7 +332,7 @@ Feb 9, 2026
 **GM or Aggie:** Johnny?  
 **John Hagey:** Yes, that's Johnny Smokes.  
 **Luke Foreman:** Johnny Johnny Smokes.  
-**GM or Aggie:** Um, okay. Um, Lomi probably the same thing at least for like um the under the like the mechanics outside of class. There's definitely a few that you would know at Harmony. Um, so I' I've seen some people make a like uh make it the players responsibility to pull in people from their backstory as they see fit, which is kind of an interesting idea. And then they basically like DM the retcon. Um, so we can decide if we want to do that or not later, but um Okay. Uh, did y'all listen to the I know Luke listened to the thing.  
+**GM or Aggie:** Um, okay. Um, Loami probably the same thing at least for like um the under the like the mechanics outside of class. There's definitely a few that you would know at Harmony. Um, so I' I've seen some people make a like uh make it the players responsibility to pull in people from their backstory as they see fit, which is kind of an interesting idea. And then they basically like DM the retcon. Um, so we can decide if we want to do that or not later, but um Okay. Uh, did y'all listen to the I know Luke listened to the thing.  
    
  
 
@@ -407,7 +407,7 @@ Feb 9, 2026
 **Luke Foreman:** all.  
 **GM or Aggie:** I would and I wouldn't even if I could, you know. No. Yeah, it's it's all it's all it's all jacked. You're just getting names.  
 **John Hagey:** A  
-**GM or Aggie:** Okay. Um, so as you have heard from um, Mr. Mr. Sterling, the night of the first day of school is upon you. And where we left off last time was was right about when when the um when I think Lomi was going to come over was coming over to perhaps approach a a problem with a solution. And um at the same time, Ignatius was watching Iggy climb a crane. Aggie and Britt were judging both of them and judge and judging even more harshly Sarah Sarah Fox um who had come by and um and then before that, zooming back even further, there was a whole bunch of people at this very large campus and um you made your way through the intake exams and found yourself assigned dorms in your initial rankings and um and yeah and then so kind of like the the campus was your place to explore for the next day before you had to go to class the following morning.  
+**GM or Aggie:** Okay. Um, so as you have heard from um, Mr. Mr. Sterling, the night of the first day of school is upon you. And where we left off last time was was right about when when the um when I think Loami was going to come over was coming over to perhaps approach a a problem with a solution. And um at the same time, ignatious was watching Iggy climb a crane. Aggie and Britt were judging both of them and judge and judging even more harshly Sarah Sarah Fox um who had come by and um and then before that, zooming back even further, there was a whole bunch of people at this very large campus and um you made your way through the intake exams and found yourself assigned dorms in your initial rankings and um and yeah and then so kind of like the the campus was your place to explore for the next day before you had to go to class the following morning.  
    
  
 
@@ -421,7 +421,7 @@ Feb 9, 2026
 ### 00:44:56
 
    
-**GM or Aggie:** Um there's also all sorts of airships and and ship ships zooming all around Vimua at all hours. Um, and you also can see, so yeah, so in this in this main courtyard there is the the little one bonfire, but that's not the only one. There are several others all around you. And um, the second thing that you know is happening is over in like the sort of rich area of town. Some of these uh fancy places are holding essentially receptions for those who are from a more sophisticated lineage. Um and you know looking around there is a a lot of a lot of just different peoples here. you can see that there is um like a a huge hodge podge of civilization and um and there's like some people seem to sort of be trying to fit the clan fashion which um of the Ashb Bloods you see that there there's not been a whole lot that you've noticed but there you like 200 out of 70,000 is at least enough that you can maybe pick out one or two if you're really paying attention but there's so distinctive about Ash Blood clothing that would make them stand out like tremendously in a crowd besides um I think even Ignatius said earlier that he's he might be currently dirty but it's more from his travels than from his state of being.  
+**GM or Aggie:** Um there's also all sorts of airships and and ship ships zooming all around Vimua at all hours. Um, and you also can see, so yeah, so in this in this main courtyard there is the the little one bonfire, but that's not the only one. There are several others all around you. And um, the second thing that you know is happening is over in like the sort of rich area of town. Some of these uh fancy places are holding essentially receptions for those who are from a more sophisticated lineage. Um and you know looking around there is a a lot of a lot of just different peoples here. you can see that there is um like a a huge hodge podge of civilization and um and there's like some people seem to sort of be trying to fit the clan fashion which um of the Ashb Bloods you see that there there's not been a whole lot that you've noticed but there you like 200 out of 70,000 is at least enough that you can maybe pick out one or two if you're really paying attention but there's so distinctive about Ash Blood clothing that would make them stand out like tremendously in a crowd besides um I think even ignatious said earlier that he's he might be currently dirty but it's more from his travels than from his state of being.  
    
  
 
@@ -430,9 +430,9 @@ Feb 9, 2026
    
 **GM or Aggie:** So um the I just kind of imagine y'all mostly wear black because you know ash and so it's easier to get out than um particularly colorful clothing. So,  
 **John Hagey:** Yep.  
-**GM or Aggie:** um yeah, we'll we'll kind of pick up right where we left off with um Lomi approaching the group of you. Um Iggy's still up in the crane and um and Sarah, Aggie, Brit, and Ignatius are at the bottom of the actually just dropped down like superhero landing and did his little explosive poof. Uh, so yeah.  
+**GM or Aggie:** um yeah, we'll we'll kind of pick up right where we left off with um Loami approaching the group of you. Um Iggy's still up in the crane and um and Sarah, Aggie, Brit, and ignatious are at the bottom of the actually just dropped down like superhero landing and did his little explosive poof. Uh, so yeah.  
 **Luke Foreman:** Was  
-**GM or Aggie:** Uh, Lomi, what what what is um what's your kind of angle coming into the group? I don't know that y'all really have that tight of of connection yet that you can call it a favor, but  
+**GM or Aggie:** Uh, Loami, what what what is um what's your kind of angle coming into the group? I don't know that y'all really have that tight of of connection yet that you can call it a favor, but  
 **Luke Foreman:** this this was around the bonfire or I came from the bonfire  
 **GM or Aggie:** you came from the Yeah. Yeah.  
 **Luke Foreman:** to  
@@ -448,15 +448,15 @@ Feb 9, 2026
 **GM or Aggie:** And you had said,  
 **Luke Foreman:** that's Yeah.  
 **GM or Aggie:** "I I can fix that.  
-**Luke Foreman:** Yeah. All right. Lumi walks over and to the group and um Ignatius was a part of the the group with Lucky right in the  
+**Luke Foreman:** Yeah. All right. Lumi walks over and to the group and um ignatious was a part of the the group with Lucky right in the  
 **GM or Aggie:** Yeah. Yeah.  
 **Luke Foreman:** Okay.  
-**GM or Aggie:** Ignatius was there in that stands when  
+**GM or Aggie:** ignatious was there in that stands when  
 **Luke Foreman:** Yeah.  
 **GM or Aggie:** Yeah.  
 **Luke Foreman:** Hey,  
 **John Hagey:** So,  
-**Luke Foreman:** Ignatius. Good to see you again. Uh, they could use a little a little help over at the fire.  
+**Luke Foreman:** ignatious. Good to see you again. Uh, they could use a little a little help over at the fire.  
    
  
 
@@ -472,7 +472,7 @@ Feb 9, 2026
 **Luke Foreman:** handshake.  
 **John Hagey:** I'm glad you trust me so much right away.  
 **Luke Foreman:** It It just There's just something about you that makes it makes it seem like you'd be good starting the fire. I don't know.  
-**John Hagey:** Uh, Ignatius is like, "Yeah, yeah, yeah, sure. Absolutely." Just I guess he takes the the scrap of paper and walks over with me over to the fire and just you uh you need a little hand here or  
+**John Hagey:** Uh, ignatious is like, "Yeah, yeah, yeah, sure. Absolutely." Just I guess he takes the the scrap of paper and walks over with me over to the fire and just you uh you need a little hand here or  
    
  
 
@@ -483,7 +483,7 @@ Feb 9, 2026
 **Luke Foreman:** I think we uh just take the paper and and like either hand it to the  
 **GM or Aggie:** Uh,  
 **Luke Foreman:** person or this lit piece of paper just kind of like toss it in like it's not try try to keep it casual. You know, you got a new kid on campus got to look pretty cool just lighting up this fire.  
-**GM or Aggie:** okay. So you're just gonna you're just going to stroll your way over and you got the kid who got he he's been he's you know respectable respectled tinkering with the fire and then all of a sudden just a flame erupts in front of his face. It's like no it was not that I was the fire had to come from this side. What is this? And he just starts starts panicking and then he just gets real quiet and he's like, "Oh, it is on fire." But then this is very nonoptimal. Who? Who? And he like leans around the fire and looks at you. Lomi says, "Explain yourself, please. Why have you done  
+**GM or Aggie:** okay. So you're just gonna you're just going to stroll your way over and you got the kid who got he he's been he's you know respectable respectled tinkering with the fire and then all of a sudden just a flame erupts in front of his face. It's like no it was not that I was the fire had to come from this side. What is this? And he just starts starts panicking and then he just gets real quiet and he's like, "Oh, it is on fire." But then this is very nonoptimal. Who? Who? And he like leans around the fire and looks at you. Loami says, "Explain yourself, please. Why have you done  
    
  
 
@@ -495,7 +495,7 @@ Feb 9, 2026
 **Luke Foreman:** it uh down in the boiler room, I just, you know, moments that there's not that the fire's not running, that's that's costing you money. that's cost. You know, time is money. You got to focus on uptime, whether it's perfect or not. You know, perfect is the enemy of good. We got to we got to get this thing running and make sure make sure we got a good fire  
 **GM or Aggie:** Um,  
 **Luke Foreman:** going.  
-**GM or Aggie:** this is an interesting proposal. I will consider this. No, no, you're not. You're not. You're not. I will consider this. It was effective, but it is not always true that momentum is life. though with the radio always says it. Uh I don't have to and he just kind of like starts pitter powdering away. And then um you also like I don't know if uh so did as Ignatius came over did Aggie and Brit follow? I think Aggie's curious but also doesn't want to get too close.  
+**GM or Aggie:** this is an interesting proposal. I will consider this. No, no, you're not. You're not. You're not. I will consider this. It was effective, but it is not always true that momentum is life. though with the radio always says it. Uh I don't have to and he just kind of like starts pitter powdering away. And then um you also like I don't know if uh so did as ignatious came over did Aggie and Brit follow? I think Aggie's curious but also doesn't want to get too close.  
    
  
 
@@ -515,7 +515,7 @@ Feb 9, 2026
 **GM or Aggie:** okay. In that case, uh,  
 **John Hagey:** So,  
 **GM or Aggie:** I think Sarah Sarah would have stayed out there with y'all. It was kind of lingering, but we'll come back. I just wanted to know if she was there or not. Um so there's um as Casius where he and I think he said oh um well I I do have to say that you have accomplished a mission so um that is worth a name. Hello I am Casius and he reaches out his hand towards  
-**Luke Foreman:** Yeah, Lomi.  
+**Luke Foreman:** Yeah, Loami.  
 **GM or Aggie:** you.  
 **Luke Foreman:** Nice to meet you down uh work. I worked in the boiler room a number of years down, you know, it's it's nice to be a top side.  
    
@@ -562,15 +562,15 @@ Feb 9, 2026
 
    
 **John Hagey:** Listen.  
-**Luke Foreman:** You did a great job and this fire is beautiful." So, and it it Lomi gets a little bit louder as he's saying this. Like, you you just did such a great job, you know? I hear.  
+**Luke Foreman:** You did a great job and this fire is beautiful." So, and it it Loami gets a little bit louder as he's saying this. Like, you you just did such a great job, you know? I hear.  
 **GM or Aggie:** Oh,  
 **Luke Foreman:** And like gives him gives him a hand to like pull pull him up out of the out of the fire so he can  
 **GM or Aggie:** too much.  
 **Luke Foreman:** pat him on the  
 **GM or Aggie:** Just like stumbles forward a few steps and and like towards the fire.  
 **Luke Foreman:** back.  
-**GM or Aggie:** It's like, oh, um, amazing. And and yeah, so Ignatius, while while Lomi is kind of chatting up, Casius, are you are you hanging out too? Are you all are you wondering because there's there's a couple of other things that are happening outside of this one fire pit that depending on where your focus is.  
-**John Hagey:** Uh, I think Ignatius is going to wander a little  
+**GM or Aggie:** It's like, oh, um, amazing. And and yeah, so ignatious, while while Loami is kind of chatting up, Casius, are you are you hanging out too? Are you all are you wondering because there's there's a couple of other things that are happening outside of this one fire pit that depending on where your focus is.  
+**John Hagey:** Uh, I think ignatious is going to wander a little  
 **GM or Aggie:** Okay. Um, so we'll come back there. But first,  
 **John Hagey:** bit.  
 **GM or Aggie:** Brit and Aggie, as you're watching um watching the the the guys walk over this um small spark becomes a quite quite impressive bonfire rather quickly.  
@@ -611,7 +611,7 @@ Feb 9, 2026
 ### 00:58:36
 
    
-**GM or Aggie:** There's I've been always part of civilization. It's why it's so exciting to be here to see what the great new cities being founded. Um, hi Ignatius is your name. I think this is the uh  
+**GM or Aggie:** There's I've been always part of civilization. It's why it's so exciting to be here to see what the great new cities being founded. Um, hi ignatious is your name. I think this is the uh  
 **John Hagey:** Who's talking right now?  
 **GM or Aggie:** Sarah.  
 **John Hagey:** This is S.  
@@ -678,10 +678,10 @@ Feb 9, 2026
 ### 01:02:42
 
    
-**GM or Aggie:** Um, so she she just I think um she just kind of shuts down a little bit and she it's just a lot there. But um oh look the fire is did did we put this up? And she she kind of like jogs forward and um as Lomi is hyping up Cas comes over. Casius, did you do this? He's like, yes, with some help from um Ignatius and from uh  
+**GM or Aggie:** Um, so she she just I think um she just kind of shuts down a little bit and she it's just a lot there. But um oh look the fire is did did we put this up? And she she kind of like jogs forward and um as Loami is hyping up Cas comes over. Casius, did you do this? He's like, yes, with some help from um ignatious and from uh  
 **John Hagey:** No, he pretty much did it all by himself.  
 **Luke Foreman:** Yeah,  
-**GM or Aggie:** Lomi.  
+**GM or Aggie:** Loami.  
 **Luke Foreman:** we we couldn't have done it.  
 **John Hagey:** Match fire.  
 **Luke Foreman:** We couldn't have done it ourselves. No way.  
@@ -770,7 +770,7 @@ Feb 9, 2026
 **GM or Aggie:** parses you see Lucky standing on a small little box and he's got this like uh satchel and he's pulling things out of it and uh gesturing to people as they come by. You can also  
 **John Hagey:** g stop you right there.  
 **GM or Aggie:** um  
-**John Hagey:** Ignatius is definitely interested in the the the commotion of the  
+**John Hagey:** ignatious is definitely interested in the the the commotion of the  
 **GM or Aggie:** Okay. Okay. Yeah. And then there's Yeah.  
 **John Hagey:** argument.  
 **GM or Aggie:** Then there's like there's a crowd that's moving off campus to go to the the other parties and stuff that are more they're dressed more formally.  
@@ -782,11 +782,11 @@ Feb 9, 2026
    
 **GM or Aggie:** Um Okay. So So he's headed towards the uh the argument. What about what about  
 **John Hagey:** Yeah.  
-**GM or Aggie:** Lomi?  
-**John Hagey:** Hey, Lomi.  
+**GM or Aggie:** Loami?  
+**John Hagey:** Hey, Loami.  
 **Luke Foreman:** Yeah,  
 **John Hagey:** You listening to this?  
-**Luke Foreman:** I think Lomi is into it.  
+**Luke Foreman:** I think Loami is into it.  
 **GM or Aggie:** Okay. So as I'll go What about Britain and Aggie? Are they I think she's at least Aggie's confused when Sarah runs off and she's just like, "Did did I say something?"  
 **Sophie Foreman Noone:** You didn't say anything to me. I don't know. I I do think I I think I'm also drawn to the argument though.  
 **GM or Aggie:** Okay.  
@@ -818,7 +818,7 @@ Feb 9, 2026
 **John Hagey:** I think as soon as I hear the topic of this,  
 **GM or Aggie:** in  
 **John Hagey:** he loses all interest. Like immediately he's just like, "All right, whatever.  
-**Luke Foreman:** How I How plugged in is Lomi to like distant his distant history as like with some Earth King in his past.  
+**Luke Foreman:** How I How plugged in is Loami to like distant his distant history as like with some Earth King in his past.  
 **GM or Aggie:** I think that, you know, Earthkin's a pretty like not an uncommon race. So there wouldn't be like a genetic tie to the first Earth King of Harmony, for example. But I think that you would have some tie into like the world as a whole or just,  
 **Luke Foreman:** Yeah.  
 **GM or Aggie:** you know, you'd be smarter than most at identifying interesting things about the world. What What are you trying to What are you trying to learn?  
@@ -847,7 +847,7 @@ Feb 9, 2026
 
    
 **GM or Aggie:** Yeah.  
-**John Hagey:** Earthkin are common enough that it's not like Lomi is going to show up and be like I'm Earthkin and they're going to be like but like okay I was I was also trying to track  
+**John Hagey:** Earthkin are common enough that it's not like Loami is going to show up and be like I'm Earthkin and they're going to be like but like okay I was I was also trying to track  
 **GM or Aggie:** Right. Yeah. Yeah. Yeah. Like the race itself is is is enough like other races that it's  
 **John Hagey:** that  
 **GM or Aggie:** not, you know, pink skin, pink hair, obviously different, but the way they live and some of the other things that make uh like Iggy Iggy, for example, are going to be very different than what makes low me low  
@@ -866,7 +866,7 @@ Feb 9, 2026
    
 **Luke Foreman:** And uh I don't know I like to I like to explore different areas of of being and you know I I like to believe there is a there is a people out there that's uh that's living down there watching us. A a very friendly people I would say. We've never had any issues of things going missing or people going missing or anything like that, but there's stories.  
 **GM or Aggie:** That see that's what I'm talking about. And the guy the he reached out and said Percy Van Smice III  
-**Luke Foreman:** Lomi, Lomi Sultano.  
+**Luke Foreman:** Loami, Loami Sultano.  
 **GM or Aggie:** pleasure  
 **Luke Foreman:** Uh, it's great to meet you. Been Boiler Maker family from for ages.  
 **GM or Aggie:** salt of the earth salt. See these are the type of people that know the I mean that's just that's I mean in the other guy the other one the war forest who I kind of imagine is like a a grown-up clank. He's kind of like, you know, a younger war forge. Still got a lot of a lot of curves on his. He hasn't quite like slimmed out all the way.  
@@ -926,7 +926,7 @@ Feb 9, 2026
 **Luke Foreman:** I'll go I'll go see what Ly's got.  
 **GM or Aggie:** fire.  
 **Luke Foreman:** He's got He's probably gota have something good.  
-**GM or Aggie:** Yeah. So Percy, let me head over towards Lucky. And um as you get closer, you hear and that's and now you're lucky, too. Man, you're lucky to have found lucky on this apicious night. Is that say that right? Apospiticious. I learned that one yesterday. Okay. Oh. Oh, is that is that my is that Percy? Percy, I bet you're lucky tonight. Percy, what do you need? What do you need? What can Lucky get for you? And Percy's like, easy luck. Easy luck. I'm here for some of that grease, you know. He said, "Oo, I got grease. I can grease your grades. I can grace your livers. Which one do you want? Lucky to grease." And Percy's like, "Well," and but looks at Lomi. He's like, "Um,  
+**GM or Aggie:** Yeah. So Percy, let me head over towards Lucky. And um as you get closer, you hear and that's and now you're lucky, too. Man, you're lucky to have found lucky on this apicious night. Is that say that right? Apospiticious. I learned that one yesterday. Okay. Oh. Oh, is that is that my is that Percy? Percy, I bet you're lucky tonight. Percy, what do you need? What do you need? What can Lucky get for you? And Percy's like, easy luck. Easy luck. I'm here for some of that grease, you know. He said, "Oo, I got grease. I can grease your grades. I can grace your livers. Which one do you want? Lucky to grease." And Percy's like, "Well," and but looks at Loami. He's like, "Um,  
 **Luke Foreman:** Then just deliver variety I think is is all good for  
    
  
@@ -970,7 +970,7 @@ Feb 9, 2026
 
    
 **Luke Foreman:** Yeah. Bringing it back.  
-**GM or Aggie:** Uh, as Lomi is coming back through the crowd, Aggie and Brit, I think, uh, after a minute, Sarah comes back up and she says, "Hey, so I'm sorry that that's got a little strange. I just, well, I'm still trying. I'm really nervous about tomorrow and I realized I didn't know um I don't know anything sometimes." Anyways, a weird thing to say, I know, but I hope that wasn't too off-putting. No, I'm I'm I'm sorry if I said something. I uh think I know even less. So, well, um I could riddle off all sorts of weird facts about momentum and and the all the things about random s\*\*\* that my father has made me learn over the years, but uh and much what I learned about where we like where we could go next. You know, it's just always about the past and about the current. And um I anyways, I I didn't want to be too biased when I talked about my home, so I decided not to say anything at all.  
+**GM or Aggie:** Uh, as Loami is coming back through the crowd, Aggie and Brit, I think, uh, after a minute, Sarah comes back up and she says, "Hey, so I'm sorry that that's got a little strange. I just, well, I'm still trying. I'm really nervous about tomorrow and I realized I didn't know um I don't know anything sometimes." Anyways, a weird thing to say, I know, but I hope that wasn't too off-putting. No, I'm I'm I'm sorry if I said something. I uh think I know even less. So, well, um I could riddle off all sorts of weird facts about momentum and and the all the things about random s\*\*\* that my father has made me learn over the years, but uh and much what I learned about where we like where we could go next. You know, it's just always about the past and about the current. And um I anyways, I I didn't want to be too biased when I talked about my home, so I decided not to say anything at all.  
    
  
 
@@ -1015,7 +1015,7 @@ Feb 9, 2026
    
 **GM or Aggie:** I my father's getting a little old and I don't know that he's he would rather talk about anything but death. That's kind of refreshing in a way to hear it spoken so directly about. Do um do you think like do you know anything about the what it takes for a new we call them nodes like new cities civilizations to integrate with harmony? Have you have you learned this yet?  
 **Sophie Foreman Noone:** No.  
-**GM or Aggie:** This is very interesting. For for example, the Ash Bloods, they had um their their uh I don't even know maybe Ignatius can can speak to it more clearly. I think I don't know if you're paying attention to the clans argument anymore or where you are really but if you're hearing um maybe you can explain the energy of of your town but um city civilization because it integrated it quite easily with harmony from what I  
+**GM or Aggie:** This is very interesting. For for example, the Ash Bloods, they had um their their uh I don't even know maybe ignatious can can speak to it more clearly. I think I don't know if you're paying attention to the clans argument anymore or where you are really but if you're hearing um maybe you can explain the energy of of your town but um city civilization because it integrated it quite easily with harmony from what I  
 **John Hagey:** Oh yeah, sure.  
 **GM or Aggie:** understand  
 **John Hagey:** I reach in my pocket and I pull out a literal like one of the small stones. Yeah, I keep this with me.  
@@ -1130,12 +1130,12 @@ Feb 9, 2026
 ### 01:33:57
 
    
-**GM or Aggie:** He hadn't made met Ignatius yet either because he turned around right when you heard the argument.  
+**GM or Aggie:** He hadn't made met ignatious yet either because he turned around right when you heard the argument.  
 **John Hagey:** Oh yeah.  
 **Sophie Foreman Noone:** You said this guy's boring and  
 **GM or Aggie:** Yeah. Yeah.  
 **John Hagey:** Yeah.  
-**GM or Aggie:** He goes over to Ignatius Hands and he he's he wants to go down the line and talk and go to Aggie  
+**GM or Aggie:** He goes over to ignatious Hands and he he's he wants to go down the line and talk and go to Aggie  
 **Sophie Foreman Noone:** left.  
 **GM or Aggie:** and Brett and while he's excitedly do the Mazizi haven't  
 **John Hagey:** Uh pleasure.  
@@ -1165,7 +1165,7 @@ Feb 9, 2026
 
    
 **GM or Aggie:** Um I also What does it mean that you're mushroom? I'm a mushroom. Did you like did you did you plant yourself like No, you have you have like parents. Yeah. I mean I'm part of turtle. So you're Wow,  
-**John Hagey:** Ignatius  
+**John Hagey:** ignatious  
 **GM or Aggie:** that's crazy. I I mean that's not that's I guess it's life, but like life finds a way, huh? Yeah. Cool. Cool. and and you're  
 **John Hagey:** is understanding what he's trying to ask her is dying like laughing and trying to hide  
 **GM or Aggie:** and  
@@ -1232,15 +1232,15 @@ Feb 9, 2026
 **Sophie Foreman Noone:** things.  
 **GM or Aggie:** New life comes. No, not really. She just is not here anymore. And she was here before. So like guess maggots lead her and that's that's gross. But she goes back into the cycle of life and death and life. Oh, so this is like a reincarnation thing.  
 **Sophie Foreman Noone:** in a way.  
-**GM or Aggie:** Uh maybe we won't solve this problem tonight. And uh I think you know as as the nights kind of worn on a lot of the the folks have started to like bleed away from the campfires and um really just kind of leaving leaving a few folks uh that are finishing off some of the engine grease which uh as Lomi's brought that back. Uh yeah. So, so as soon as you walk over the the blondhaired girl runs over to you, you lose like, "Oh, is this some stuff we can drink? Let's do it." And she like just takes one off and starts  
+**GM or Aggie:** Uh maybe we won't solve this problem tonight. And uh I think you know as as the nights kind of worn on a lot of the the folks have started to like bleed away from the campfires and um really just kind of leaving leaving a few folks uh that are finishing off some of the engine grease which uh as Loami's brought that back. Uh yeah. So, so as soon as you walk over the the blondhaired girl runs over to you, you lose like, "Oh, is this some stuff we can drink? Let's do it." And she like just takes one off and starts  
    
  
 
 ### 01:44:02
 
    
-**GM or Aggie:** unccoring it. And she says, "Um, that smells like you try first." And she passes it to Lomi.  
-**Luke Foreman:** Lomi takes a sip. Is it Is it more or less the  
+**GM or Aggie:** unccoring it. And she says, "Um, that smells like you try first." And she passes it to Loami.  
+**Luke Foreman:** Loami takes a sip. Is it Is it more or less the  
 **GM or Aggie:** This Yeah,  
 **Luke Foreman:** same?  
 **GM or Aggie:** I mean it's it's it's just some some good oldfashioned chime like had this this this take  
@@ -1266,7 +1266,7 @@ Feb 9, 2026
 **Luke Foreman:** It takes practice.  
 **GM or Aggie:** I'm I'm gonna go again. I'm gonna go again. I'm And she takes another swig and this time she she like you can see her bottling it up and she starts turning like purple. And you've you've seen some like magical displays here and there, some some cany level things with people showing off and um something like little fireballs in their hand or doing all sorts of stuff. But what you what you see happening with this girl is like her hair starts standing up and goes like you know full static electricity and she's just not swallow or she just like not swallowing it and yeah you I don't know just let me back up.  
 **Luke Foreman:** Yeah, he he sees what's coming.  
-**GM or Aggie:** Uh she Yeah. So, two things happen at the same time which um would definitely catch the attention of Britt and Ignatius and and probably everyone else around the fire and many people nearby.  
+**GM or Aggie:** Uh she Yeah. So, two things happen at the same time which um would definitely catch the attention of Britt and ignatious and and probably everyone else around the fire and many people nearby.  
    
  
 
@@ -1308,7 +1308,7 @@ Feb 9, 2026
 **GM or Aggie:** you lava boy.  
 **John Hagey:** that checks.  
 **GM or Aggie:** And we got to go back to the building where uh um tomorrow after class, come find me tomorrow after class. I'm in this building over there. She points over towards the building that's like inset into the hill um which is grass covered one. Yeah. Yeah. Yeah. Um yeah, it's this one  
-**John Hagey:** I'm gonna look at Lomi while you're explaining this and just look at him and go, "Did she just call me Lava  
+**John Hagey:** I'm gonna look at Loami while you're explaining this and just look at him and go, "Did she just call me Lava  
 **GM or Aggie:** right  
 **John Hagey:** Boy?  
 **Sophie Foreman Noone:** Mhm.  
@@ -1383,7 +1383,7 @@ Feb 9, 2026
 **Sophie Foreman Noone:** Interesting.  
 **GM or Aggie:** I I mean that's the goal I think right? Is that why you're here?  
 **Sophie Foreman Noone:** Mhm. Exactly.  
-**GM or Aggie:** Sarah's like kind of scared of Brett like um well he is to harmony I guess and she goes and and grabs the the other grease from Lomi and uh takes a swig and then passes it to probably an Aggie. Uh, she's definitely a little unsure about it. She like, and so she looks at Brit for like comfort. Like, should I take the tiniest little sub? Yeah. Uh, how would she react, do you think? I have no idea. Gonna roll for it to see how well she takes it. Um, same question for Britt. Is it once it comes around to her? Probably like seems like the front or finesse maybe. Yeah, I was I was actually just thinking strength. There's not really. Yeah, your vision's at 12\. Yeah, just do just do like straight. That's pretty good.  
+**GM or Aggie:** Sarah's like kind of scared of Brett like um well he is to harmony I guess and she goes and and grabs the the other grease from Loami and uh takes a swig and then passes it to probably an Aggie. Uh, she's definitely a little unsure about it. She like, and so she looks at Brit for like comfort. Like, should I take the tiniest little sub? Yeah. Uh, how would she react, do you think? I have no idea. Gonna roll for it to see how well she takes it. Um, same question for Britt. Is it once it comes around to her? Probably like seems like the front or finesse maybe. Yeah, I was I was actually just thinking strength. There's not really. Yeah, your vision's at 12\. Yeah, just do just do like straight. That's pretty good.  
    
  
 
@@ -1414,13 +1414,13 @@ Feb 9, 2026
 ### 01:56:45
 
    
-**Sophie Foreman Noone:** Is Lomi over there yet? I don't think we've ever even met Lomi.  
+**Sophie Foreman Noone:** Is Loami over there yet? I don't think we've ever even met Loami.  
 **GM or Aggie:** let me let me come over with Sarah with the the  
 **Sophie Foreman Noone:** Is this yours?  
 **GM or Aggie:** booze.  
 **Luke Foreman:** It's it's not mine,  
 **Sophie Foreman Noone:** What is this?  
-**Luke Foreman:** but it's it's something that we are very familiar with down in the boiler room. Uh name's Lomi Lomi Sultano. Boiler room. True and true. part of the part of the guild, part of the part of the what's the word?  
+**Luke Foreman:** but it's it's something that we are very familiar with down in the boiler room. Uh name's Loami Loami Sultano. Boiler room. True and true. part of the part of the guild, part of the part of the what's the word?  
 **GM or Aggie:** Turns the  
 **Luke Foreman:** I'm what's the word I'm thinking? Part of the diamond union down uh down below in the in the boiler room.  
 **GM or Aggie:** screw.  
@@ -1491,7 +1491,7 @@ Feb 9, 2026
 **Luke Foreman:** Well, we we get the power from various sources,  
 **John Hagey:** Yeah.  
 **Luke Foreman:** you know. We do have the traditional sort of s  
-**John Hagey:** I mean, Lomi, I would assume you, Lomi, I would assume you use the the lavsidian from from the ashwood, right? I mean, it if you're going to heat something up,  
+**John Hagey:** I mean, Loami, I would assume you, Loami, I would assume you use the the lavsidian from from the ashwood, right? I mean, it if you're going to heat something up,  
 **GM or Aggie:** Obsidian.  
 **John Hagey:** that's that's my assumption.  
 **Luke Foreman:** It is the best. It is the best.  
@@ -1512,7 +1512,7 @@ Feb 9, 2026
    
 **Luke Foreman:** and keeping things running on time and minimal downtime. So, it's a mix of things.  
 **Sophie Foreman Noone:** H. This lavsidian, is there an unlimited amount of it? What happens when you run out?  
-**Luke Foreman:** I think Ignatius uh I mean he's he brought a piece with him,  
+**Luke Foreman:** I think ignatious uh I mean he's he brought a piece with him,  
 **John Hagey:** Well,  
 **Luke Foreman:** a little piece of home. I saw him pull it out. So I let him know you you tell them.  
 **Sophie Foreman Noone:** Would you have heard that question,  
@@ -1520,7 +1520,7 @@ Feb 9, 2026
 **John Hagey:** well, Well,  
 **Luke Foreman:** I would have pulled him  
 **John Hagey:** that's to be to to be fair,  
-**Sophie Foreman Noone:** Ignatius?  
+**Sophie Foreman Noone:** ignatious?  
 **Luke Foreman:** over.  
 **John Hagey:** that's one of the driving factors of this um relationship with Harmony is in and one of my one of my personal um motivations for joining because I I want to find a new a new source of Lidian. And we we have plenty and ever since Harmony, it's been burning hotter, but not nearly as hot as it used to burn. So, I want to find I want to find the the the heart of the volcano, if you will, the heart of the magma that I want to find the next lavsidian deposit.  
    
@@ -1532,12 +1532,12 @@ Feb 9, 2026
 **John Hagey:** I want to find the next thing that's going to I want to find the next thing that's going to reheat our volcano because it's been cooling. It's been going under this great cooling for a while now. And I I I I don't trust that Harmony is going to always be able to to reheat it. And we need we need to have the ash bloods. We need to have our own independent form of lavsidian and  
 **Sophie Foreman Noone:** H.  
 **John Hagey:** heat.  
-**GM or Aggie:** Do you think that do you think that well okay which is in character out of character? Uh now it's out of character. Do you think that Ignatius is more interested in understanding why the Lidian is getting hotter over the last two years or  
+**GM or Aggie:** Do you think that do you think that well okay which is in character out of character? Uh now it's out of character. Do you think that ignatious is more interested in understanding why the Lidian is getting hotter over the last two years or  
 **John Hagey:** I think it's a I think it's a combination, right?  
 **GM or Aggie:** why?  
 **John Hagey:** Like the problem is the we were warned about the great cooling and we went through the great cooling. The Lidian is getting hotter which is good.  
 **GM or Aggie:** Yeah.  
-**John Hagey:** So when he when Ignatius is looking for a source like he thinks that the adventuring is going to either literally produce a physical source or it can be a physical source of like more Lidian that's heated or it can literally be the source of why is it heating back up.  
+**John Hagey:** So when he when ignatious is looking for a source like he thinks that the adventuring is going to either literally produce a physical source or it can be a physical source of like more Lidian that's heated or it can literally be the source of why is it heating back up.  
    
  
 
@@ -1587,7 +1587,7 @@ Feb 9, 2026
 **Luke Foreman:** Yeah.  
 **GM or Aggie:** And so storing it has actually become kind of like a a second trade. Um, so there's like a second market of people reselling their Lidian because they don't need it as much anymore. it keeps that's also become a problem because people's boilers are like exploding because it heats too hot. Um, and versus the harmony batteries which are if they're one thing it's stable. They never change.  
 **Luke Foreman:** Yeah.  
-**GM or Aggie:** It's it's definitely not as as raw or pal or powerful. There are other sources in harmony that could be more singularly hot, but that like consistent burn of the the licidian is is is definitely novel. Um it does it does seem to um like it's there's some sort of halflife to it though. Even even the the the stone that you're carrying with you um Ignatius is it's no longer getting um you probably wouldn't notice in in the span of days, but it's a measure that like over a certain amount of time listening does started start to like taper and hold and then it'll just kind of go up again.  
+**GM or Aggie:** It's it's definitely not as as raw or pal or powerful. There are other sources in harmony that could be more singularly hot, but that like consistent burn of the the licidian is is is definitely novel. Um it does it does seem to um like it's there's some sort of halflife to it though. Even even the the the stone that you're carrying with you um ignatious is it's no longer getting um you probably wouldn't notice in in the span of days, but it's a measure that like over a certain amount of time listening does started start to like taper and hold and then it'll just kind of go up again.  
    
  
 
@@ -1602,7 +1602,7 @@ Feb 9, 2026
 **John Hagey:** Well, uh, she was just telling me about Ember, who came from my island, but, uh, she's just she's so enthralled with the new stuff and everything else. She's kind of just honestly, if you ask me, she's just kind of disrespectful to to the culture and the the history of our ash of the ashwood, our ash blood. And yeah, you know, they some people just they want the the newest things and they just they just sometimes don't really care about the culture and and what's always  
 **GM or Aggie:** Yeah. Um,  
 **John Hagey:** worked.  
-**GM or Aggie:** so that that Ignatius is kind of like the divide right now in the Ash culture. You know, you're on one side, that would be the those are like the two conflicting ideologies.  
+**GM or Aggie:** so that that ignatious is kind of like the divide right now in the Ash culture. You know, you're on one side, that would be the those are like the two conflicting ideologies.  
    
  
 
@@ -1634,7 +1634,7 @@ Feb 9, 2026
 **GM or Aggie:** Yeah. Yeah,  
 **John Hagey:** Okay.  
 **GM or Aggie:** that's like your um that's the only thing that shows any indication of rank. And it it has been some people are flexing them like IDs. Look look at look how cool I am. I'm stamped gold right now. Um and presumably that's even more impactful over in like the other side of town where the kind of bougie parties are being held. But uh it it didn't really seem to be a thing by the fires.  
-**John Hagey:** Right. Hey, hey, Lomi, you want to Lomi?  
+**John Hagey:** Right. Hey, hey, Loami, you want to Loami?  
    
  
 
@@ -1651,7 +1651,7 @@ Feb 9, 2026
 **GM or Aggie:** Yeah. Just not to say you can't do that, but just know that like,  
 **John Hagey:** It's more of a curiosity thing.  
 **GM or Aggie:** you  
-**John Hagey:** Like I'm not Ignatius has no desire to to like mingle amongst  
+**John Hagey:** Like I'm not ignatious has no desire to to like mingle amongst  
 **GM or Aggie:** know,  
 **John Hagey:** those people there. He's just kind of curious about like what's it like over  
 **Luke Foreman:** Yeah,  
