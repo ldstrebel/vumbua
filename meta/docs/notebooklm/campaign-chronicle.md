@@ -65,7 +65,7 @@
 
 ---
 
-### Ignatius (Ash-Blood, Silver Rank)
+### ignatious (Ash-Blood, Silver Rank)
 
 **Player:** John  
 **Quote:** *"Why did all the elders leave?"*
@@ -89,7 +89,7 @@
 
 ---
 
-### Lomi (Harmony Native, Copper Rank)
+### Loami (Harmony Native, Copper Rank)
 
 **Player:** TBD  
 **Quote:** *"They paying you well here?"*
@@ -155,9 +155,9 @@ Students took entrance exams in brass cubicles connected to **The Loom**—a mas
 
 **Key Moments:**
 - Britt held down her flag, stalling to wait for Aggie to finish
-- Lomi checked on working conditions of overwhelmed attendants
+- Loami checked on working conditions of overwhelmed attendants
 - Iggy destroyed a cubicle by using the receipt printer as a tissue
-- Ignatius was recognized by Lance, a posh Harmony native
+- ignatious was recognized by Lance, a posh Harmony native
 
 #### The Culling
 
@@ -167,8 +167,8 @@ By day's end, 30,000 candidates had already been sent home. The Academy expects 
 
 **The Loom** assigned ranks:
 - **Gold** (1%): Britt, Iggy - Cannot be demoted to Rust
-- **Silver** (24%): Aggie, Ignatius - Professional workforce
-- **Copper** (55%): Lomi - Laborers and general workforce
+- **Silver** (24%): Aggie, ignatious - Professional workforce
+- **Copper** (55%): Loami - Laborers and general workforce
 - **Rust** (20%): Many sent home immediately
 
 #### Dean's Welcome
@@ -183,15 +183,15 @@ By day's end, 30,000 candidates had already been sent home. The Academy expects 
 
 First-years gathered at an informal bonfire in Block 99 (a repurposed geothermal plant). The party formed organically:
 - Britt and Aggie found each other (Mizizi cousins)
-- Ignatius approached, curious about other clan members
-- Lomi joined, offering Harmony-native perspective
+- ignatious approached, curious about other clan members
+- Loami joined, offering Harmony-native perspective
 - Iggy wandered in, bewildered but curious
 
 **Conversations:**
 - Shared concerns about Harmony's motives
 - Discussed the forest's failure to decay (Mizizi perspective)
-- Questioned the Integration ceremony (Ignatius's experience)
-- Learned about Vumbua's structure and history (Lomi's knowledge)
+- Questioned the Integration ceremony (ignatious's experience)
+- Learned about Vumbua's structure and history (Loami's knowledge)
 
 ---
 
@@ -204,7 +204,7 @@ First-years gathered at an informal bonfire in Block 99 (a repurposed geothermal
 
 Dorm assignments scattered the group across the Spire-Scape:
 - **Block 12** (Academic District): Britt, Aggie (Mizizi with other high-rank students)
-- **Block 99** (Industrial District): Ignatius, Lomi (near boiler workers)
+- **Block 99** (Industrial District): ignatious, Loami (near boiler workers)
 - **Block 04** (Random Assignment): Iggy (supervisor didn't know where else to put him)
 
 Despite separation, curiosity brought them back together.
@@ -232,7 +232,7 @@ This incident became campus gossip within hours.
 - She's a runaway hiding her identity
 - She has access to resources far beyond typical students
 
-Britt was suspicious. Aggie was polite but cautious. Ignatius saw potential ally. Iggy asked if she knew where he was.
+Britt was suspicious. Aggie was polite but cautious. ignatious saw potential ally. Iggy asked if she knew where he was.
 
 #### Learning About Rill
 
@@ -253,7 +253,7 @@ Britt and Aggie have mixed feelings—curiosity vs. clan loyalty.
 - Trading dorm reassignmenttickets
 - Offering to "expedite" equipment requisitions
 
-The party observed but didn't engage. Lomi recognized the hustle—seen it in every station he's worked.
+The party observed but didn't engage. Loami recognized the hustle—seen it in every station he's worked.
 
 #### Tomorrow: First Classes
 
@@ -408,7 +408,7 @@ Students scattered to prepare. Some sought bonfire gatherings for hints. Others 
 **❌ GM Secrets (Players Don't Know):**
 - **Rill:** Actually Wadi, not Mizizi. Entered forest as exchange member 6 years ago. Researching if forest destruction is necessary.
 - **Serra:** Seraphina Vox, runaway daughter of Arch-Duke Cymon Vox. Hiding noble identity to learn authentically.
-- **Ignatius:** Genuinely doesn't know integration itself IS the "new heat" he seeks.
+- **ignatious:** Genuinely doesn't know integration itself IS the "new heat" he seeks.
 - **Lady Ignis:** Under Harmony's "Inverse Power Doctrine," she's one of most powerful people in empire. She *signed* the Expansion Bill authorizing Vumbua's relocation.
 
 ---
@@ -432,7 +432,7 @@ The camera pulls back from the bonfire to reveal **seventy thousand students** l
 
 **Harmony's Diversity:** Vast majority are Harmony citizens—humans of every culture, constructs, warforged, integrated species from a hundred territories. Ideology divides them: Clean-Suits (elite) vs. Tech-Wear (workers), Believers vs. Skeptics, Loyalists vs. Rebels.
 
-**The Clan Minority:** Among 70,000, clan members like Ignatius, Britt, and Aggie are vanishingly rare—perhaps a few hundred total. They stand out precisely because they're different in a sea of Harmony conformity.
+**The Clan Minority:** Among 70,000, clan members like ignatious, Britt, and Aggie are vanishingly rare—perhaps a few hundred total. They stand out precisely because they're different in a sea of Harmony conformity.
 
 **The Message:** You are three clan members in a city of seventy thousand Harmony citizens. You could disappear here—or make them all remember your names.
 
@@ -450,7 +450,7 @@ Percy holds court about "Sixfold Theory"—there must be Earth and Lightning cla
 **Plot Hooks:**
 - Percy might recruit party for expedition
 - Bramble might ask Britt/Aggie about "the flow" in forest
-- Jax might warn Ignatius: "Kid, they'll work you till you burn out. Literally."
+- Jax might warn ignatious: "Kid, they'll work you till you burn out. Literally."
 - Zephyr seems unusually nervous about this topic - why? And why did she sneak out to come here?
 
 ---
@@ -543,8 +543,8 @@ This answers Gen-Ed Question #2.
 **Afternoon: Practical Simulations**
 - Aether-Graph Plot (Agility)—Iggy has secret advantage (Trench-Kin navigation)
 - Density Chamber (Constitution)—Iggy has secret advantage (high-pressure adapted)
-- Blind Fly (Instinct)—Lomi has advantage (feel the gears)
-- Tuning Injection (Tech/Dexterity)—Lomi has advantage (boiler experience)
+- Blind Fly (Instinct)—Loami has advantage (feel the gears)
+- Tuning Injection (Tech/Dexterity)—Loami has advantage (boiler experience)
 
 ---
 

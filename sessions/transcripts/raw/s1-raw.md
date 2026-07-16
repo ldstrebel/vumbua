@@ -33,7 +33,7 @@ Jan 28, 2026
 
    
 **John Hagey:** right?  
-**GM or Aggie:** um, I'm going to make sure that we are respected. And we'll maybe leave it there because there there's a couple other things she would have said, but I don't know if he would have caught them yet. So, we can see how how his character kind of plays out. But um that that has kind of given like [[Ignatius]] and any Ashb Blood a quasi uh famous status lately. Like if you say you're from the clans because it's a very cosmopol cosmopolitan world.  
+**GM or Aggie:** um, I'm going to make sure that we are respected. And we'll maybe leave it there because there there's a couple other things she would have said, but I don't know if he would have caught them yet. So, we can see how how his character kind of plays out. But um that that has kind of given like [[ignatious]] and any Ashb Blood a quasi uh famous status lately. Like if you say you're from the clans because it's a very cosmopol cosmopolitan world.  
 **Loami or [[Britt]]:** There you can.  
 **GM or Aggie:** The only way that they would know is maybe by like your accent or your mannerisms. Um or maybe like the things you wear,  
 **Loami or [[Britt]]:** Yeah.  
@@ -132,7 +132,7 @@ Jan 28, 2026
 **Loami or Britt:** Cool.  
 **GM or Aggie:** like.  
 **Loami or Britt:** Okay.  
-**GM or Aggie:** Okay. Uh sweet. any other and then for for [[Lomi]] the the important bits that you know is that um Harmony is it didn't teleport it is it is kind of like um there's these two main vessels like a huge basically like an ironclide cruise ship and a massive airship and they uh they like dock together to make up the core of whatever Vimula is whatever the they where wherever the academy is they are like the core and they don't move a lot but like every 50 years they move to a new location and so Lomi is not that old so it's always been in one place for him.  
+**GM or Aggie:** Okay. Uh sweet. any other and then for for [[loami]] the the important bits that you know is that um Harmony is it didn't teleport it is it is kind of like um there's these two main vessels like a huge basically like an ironclide cruise ship and a massive airship and they uh they like dock together to make up the core of whatever Vimula is whatever the they where wherever the academy is they are like the core and they don't move a lot but like every 50 years they move to a new location and so Loami is not that old so it's always been in one place for him.  
    
  
 
@@ -194,21 +194,21 @@ Jan 28, 2026
 **GM or Aggie:** Yeah, what's your point?  
 **Loami or Britt:** story.  
 **John Hagey:** move.  
-**GM or Aggie:** Uh, okay. So that said, um then what getting back to where we were, the um what would have happened for all of you is how every different way you made it into Bombua, the the city of the academy. um you uh like the Mizi, the [[Ash-Bloods|Ash Bloods]] specifically, and [[Lomi]], you know, like it's it's the academy is open registration. Anyone can can apply to go to the academy, but you only get to do it one time.  
+**GM or Aggie:** Uh, okay. So that said, um then what getting back to where we were, the um what would have happened for all of you is how every different way you made it into Bombua, the the city of the academy. um you uh like the Mizi, the [[Ash-Bloods|Ash Bloods]] specifically, and [[loami]], you know, like it's it's the academy is open registration. Anyone can can apply to go to the academy, but you only get to do it one time.  
    
  
 
 ### 00:13:08
 
    
-**GM or Aggie:** And to to find the academy and to get there is the first test. And it's not a hard test, but it does mean you have to get on a little adventure. If you are on the far side of Harmony and you wanted to be an adventurer, you got to show that you can get there. It's not that hard. Book a flight, book a passage. But um there is no online application. It's be there on the date to take the grant, to take the exam, the entrance exam. And for some people, for 20,000 people, that was it. And they got sent back. Their one shot of their entire life didn't pan out. Um, and part of the reason this class is so big is because for like especially Lomi would know, um, there hasn't been any new major discoveries in a while. And discoveries are usually of two types in harmony's history. Something that like a land which had sentient beings on it. Um, or a just a unique biome that seemed to have a special property.  
+**GM or Aggie:** And to to find the academy and to get there is the first test. And it's not a hard test, but it does mean you have to get on a little adventure. If you are on the far side of Harmony and you wanted to be an adventurer, you got to show that you can get there. It's not that hard. Book a flight, book a passage. But um there is no online application. It's be there on the date to take the grant, to take the exam, the entrance exam. And for some people, for 20,000 people, that was it. And they got sent back. Their one shot of their entire life didn't pan out. Um, and part of the reason this class is so big is because for like especially Loami would know, um, there hasn't been any new major discoveries in a while. And discoveries are usually of two types in harmony's history. Something that like a land which had sentient beings on it. Um, or a just a unique biome that seemed to have a special property.  
    
  
 
 ### 00:14:06
 
    
-**GM or Aggie:** And I don't know that Lomi knows much about like the underlying mechanics of the world. So that's kind of probably as much as he would know and he would know the most. Um, but there's not been like a grand new discovery in a long time. So the the finding of two clans each with their own different like magical energy and they both have you know people living there is is reviving the century old like nothing has happened for a really long time and it's been it's been a really long time. It's been like a thousand years since any real civilization was found. The only things recently were like one or two bones of people had been found. So you could tell there used to be civilization there, but there's not there anymore. So it's a really big and and because of that, it's it's caused this huge resurgent in like resurgence in wanting to be an explorer. So tons of people have flooded to this intake exam because they realize like the frontier has just been breached.  
+**GM or Aggie:** And I don't know that Loami knows much about like the underlying mechanics of the world. So that's kind of probably as much as he would know and he would know the most. Um, but there's not been like a grand new discovery in a long time. So the the finding of two clans each with their own different like magical energy and they both have you know people living there is is reviving the century old like nothing has happened for a really long time and it's been it's been a really long time. It's been like a thousand years since any real civilization was found. The only things recently were like one or two bones of people had been found. So you could tell there used to be civilization there, but there's not there anymore. So it's a really big and and because of that, it's it's caused this huge resurgent in like resurgence in wanting to be an explorer. So tons of people have flooded to this intake exam because they realize like the frontier has just been breached.  
    
  
 
@@ -540,8 +540,8 @@ Jan 28, 2026
 
    
 **Loami or Britt:** I  
-**GM or Aggie:** Okay. So y'all are able to to join back together into the flow and you eventually um head your way and like Lomi and [[Iggy]] and India like I don't I don't know that anything here is particularly impactful for y'all but if you want to pause and and take a moment to like ask ask a question or try to do anything uh this would be where y'all are kind of getting pulled through after taking your exams as  
-**Loami or Britt:** think just during like the general stroll to the exam and like being shuffled away from the exam, Lomi's talking with the guy like, "Hey, there's quite a lot of you here. How how's you know, how's your benefits? How how's it you all right? Yeah. Everybody doing well? They they paying you well here?  
+**GM or Aggie:** Okay. So y'all are able to to join back together into the flow and you eventually um head your way and like Loami and [[Iggy]] and India like I don't I don't know that anything here is particularly impactful for y'all but if you want to pause and and take a moment to like ask ask a question or try to do anything uh this would be where y'all are kind of getting pulled through after taking your exams as  
+**Loami or Britt:** think just during like the general stroll to the exam and like being shuffled away from the exam, Loami's talking with the guy like, "Hey, there's quite a lot of you here. How how's you know, how's your benefits? How how's it you all right? Yeah. Everybody doing well? They they paying you well here?  
 **GM or Aggie:** You are a copper. It is always good to know your options. I hope you make it through the next round. Um, I do you need a job? Are you are you looking for  
    
  
@@ -701,7 +701,7 @@ Jan 28, 2026
 **John Hagey:** Yes. I don't know what to roll though.  
 **GM or Aggie:** Yeah, this is like kind of like call Cthulhu. I'm not supposed to tell you. You're supposed to choose and tell me why you chose.  
 **Loami or Britt:** Oh. W  
-**GM or Aggie:** So looking at [[Ignatius]] like Yeah. Okay. He chose Yeah.  
+**GM or Aggie:** So looking at [[ignatious]] like Yeah. Okay. He chose Yeah.  
 **John Hagey:** I think that I don't know if I meant to roll two things, but I  
 **GM or Aggie:** So you gave him my you gave you gave the first fear role and then nine with  
 **John Hagey:** did.  
@@ -749,10 +749,10 @@ Jan 28, 2026
 ### 00:43:34
 
    
-**GM or Aggie:** I think um Ignatius is he's kind of a lot going on here  
+**GM or Aggie:** I think um ignatious is he's kind of a lot going on here  
 **Loami or Britt:** It's  
 **GM or Aggie:** and  
-**John Hagey:** I think Ignatius like had this facade of like confidence walking in and  
+**John Hagey:** I think ignatious like had this facade of like confidence walking in and  
 **GM or Aggie:** um  
 **John Hagey:** then getting through this it just melts away. Like what the f\*\*\*?  
 **GM or Aggie:** uh I think coming right after you is a uh a tall like nicely dressed kind of like a Bridgetgertonesque vibe but a little bit more meat. on him. Um, he's uh pretty like quintessentially uh like Chad Blonde but from, you know, Oxford.  
@@ -813,7 +813,7 @@ Jan 28, 2026
 **John Hagey:** hand.  
 **Loami or Britt:** Oh,  
 **GM or Aggie:** And he's like, "All right, jolly good." patching like what the f\*\*\* he storms off and he's got like his rag off. He's spitting and like uh trying to get all the all the the It's just Yeah, it's  
-**John Hagey:** I think Ignatius finds this really funny because like that's not a normal thing for him to always be covered in  
+**John Hagey:** I think ignatious finds this really funny because like that's not a normal thing for him to always be covered in  
 **GM or Aggie:** just  
 **John Hagey:** stone. It's just because of how far he's traveled and where he's had to travel. Like it's not a normal thing, but he just plays into it every now and  
 **GM or Aggie:** nice. Nice.  
@@ -835,7 +835,7 @@ Jan 28, 2026
 **John Hagey:** And that's the Wi-Fi password. We're not  
 **GM or Aggie:** yeah, exactly.  
 **John Hagey:** savages.  
-**GM or Aggie:** Um and then Lomi. Yeah, like I I think that you you might have even seen some of the inside of the of Vimua because I think you you came across as part of the the maintenance crew on it. Um so I don't it wouldn't be a huge surprise to you.  
+**GM or Aggie:** Um and then Loami. Yeah, like I I think that you you might have even seen some of the inside of the of Vimua because I think you you came across as part of the the maintenance crew on it. Um so I don't it wouldn't be a huge surprise to you.  
 **Loami or Britt:** Yeah.  
 **GM or Aggie:** You might you probably even you know you worked here normally. Um but I think you're like I don't know maybe a little bit proud or impressed of of how far it's come because it is getting pretty close to holding students and it was it was just a boat and a ship like half a  
 **Loami or Britt:** Yeah.  
@@ -850,7 +850,7 @@ Jan 28, 2026
 **Loami or Britt:** So, I think he he's coming out and and just looking around and going,  
 **GM or Aggie:** go.  
 **Loami or Britt:** "Yeah, this will do. This is this they do good work." They do. You know what? What can we say? They, you know, all all power to them. You know, it's a little more cushy than the Boiler Room. I'll say it. Doesn't take as much doesn't take as much grit, but, you know, they do good work.  
-**GM or Aggie:** I love it. Um I think and I think uh Lomi might even um he runs into he recognizes someone because you've you've kind of been around the the campus now, but there is um someone else who surprised you who's coming out of the exams around the same time. Um and all you know him by is [[Sarge]]. And you know him because the workers would have these campfires set up that you that would be like the social hour. You just go and um have a drink by the fire, maybe grill some stuff, use that the funny, you know, it's always like do we cook with the obsidian or do we cook with the camp grill like and there's a whole debate about which one give us better quality meat and all that.  
+**GM or Aggie:** I love it. Um I think and I think uh Loami might even um he runs into he recognizes someone because you've you've kind of been around the the campus now, but there is um someone else who surprised you who's coming out of the exams around the same time. Um and all you know him by is [[Sarge]]. And you know him because the workers would have these campfires set up that you that would be like the social hour. You just go and um have a drink by the fire, maybe grill some stuff, use that the funny, you know, it's always like do we cook with the obsidian or do we cook with the camp grill like and there's a whole debate about which one give us better quality meat and all that.  
    
  
 
@@ -892,7 +892,7 @@ Jan 28, 2026
 **Loami or Britt:** You know, this is it's pretty overwhelming. I'll be honest. It's pretty overwhelming. Uh we'll uh you know, I think we just give it our best shot. See what happens. You know, we you know, we always got something to go back to if it doesn't work out.  
 **GM or Aggie:** Yeah, you're right. You're right. I mean, I just I got to remember why I'm here, you know? Got to remember why I'm here. I'm doing this doing this for the labs.  
 **Loami or Britt:** That's right. Got to represent  
-**GM or Aggie:** And uh I I don't I think maybe over the campfires you've um is what type of social person is Lomi? Is he like a lock it all in super going to remember everything about you?  
+**GM or Aggie:** And uh I I don't I think maybe over the campfires you've um is what type of social person is Loami? Is he like a lock it all in super going to remember everything about you?  
    
  
 
@@ -905,7 +905,7 @@ Jan 28, 2026
 **Loami or Britt:** you've shared. Like he's he's not going to remember kind of about your past, but he's going to remember that one time you ordered a drink that was way too strong and it knocked you on your ass or whatever. Like that that sort of shared  
 **GM or Aggie:** Gotcha.  
 **Loami or Britt:** experience.  
-**GM or Aggie:** Okay. Yeah. In that case, then all all that Lomi really kind of remembers about Sher's background is that one of the nights of the campfire, he was kind of crying and and he got real and then he he decided he was going to he was going to do the application and and then y'all got hammered drunk and then woke up the next morning on the floor  
+**GM or Aggie:** Okay. Yeah. In that case, then all all that Loami really kind of remembers about Sher's background is that one of the nights of the campfire, he was kind of crying and and he got real and then he he decided he was going to he was going to do the application and and then y'all got hammered drunk and then woke up the next morning on the floor  
 **Loami or Britt:** Okay.  
 **GM or Aggie:** like uh he's got some sort of and and and maybe there's a couple of  
    
@@ -915,7 +915,7 @@ Jan 28, 2026
 
    
 **Loami or Britt:** Yeah.  
-**GM or Aggie:** pickling memories in there for Lomi that he has something like he he had something to do with adventuring.  
+**GM or Aggie:** pickling memories in there for Loami that he has something like he he had something to do with adventuring.  
 **Loami or Britt:** Uhuh.  
 **GM or Aggie:** He wasn't a grease monkey. He he came from the other side of the academy.  
 **Loami or Britt:** Gotcha. Yeah.  
@@ -923,7 +923,7 @@ Jan 28, 2026
 **Loami or Britt:** He was kind of like a manager of the side. Yeah.  
 **GM or Aggie:** Like he he he talked enough about his travels that even Lily picked up that he he was like he wasn't he was the grunts who had been, you know, he kept he kept the things running but not got no glory for it.  
 **Loami or Britt:** Yeah. Yeah.  
-**GM or Aggie:** that kind of guy versus Lomi is the at home version in my mind of kind of what  
+**GM or Aggie:** that kind of guy versus Loami is the at home version in my mind of kind of what  
 **Loami or Britt:** Perfect. Yeah. Yeah.  
 **GM or Aggie:** some um okay so at some  
 **Loami or Britt:** Totally.  
@@ -951,7 +951,7 @@ Jan 28, 2026
 **Loami or Britt:** Perfect.  
 **GM or Aggie:** Um but obviously they've gone through through some of the curriculum and things like that already. Uh okay. Any good good any other questions? All right.  
 **Holly Strebel:** Mhm.  
-**GM or Aggie:** So the the flow brings you into that huge auditorium and um the mo the majority of of people like there's um it's mostly all from harmony. There's like I think there's a couple of other ash bloods that might be in your class that we can come back to, Ignatius, but there's no other Mizi. We talked about that. There's no other clans like in existence. So, everybody else is from Harmony. Uh, which makes you all quite a bit minority and and every time someone kind of recognizes that you're um from a different place, then it's like a minor celebrity status is how you're usually reacted to. Um, so you you make it in and the uh after a few minutes a small like um if you've seen Arcane Professor Heimerdinger is the image that you need to have in your mind, but a female version of of him, which is basically like a small uh teddy bear guy who or girl who is just bouncing with this like vibrant kinetic energy and um jumps her way onto the stage.  
+**GM or Aggie:** So the the flow brings you into that huge auditorium and um the mo the majority of of people like there's um it's mostly all from harmony. There's like I think there's a couple of other ash bloods that might be in your class that we can come back to, ignatious, but there's no other Mizi. We talked about that. There's no other clans like in existence. So, everybody else is from Harmony. Uh, which makes you all quite a bit minority and and every time someone kind of recognizes that you're um from a different place, then it's like a minor celebrity status is how you're usually reacted to. Um, so you you make it in and the uh after a few minutes a small like um if you've seen Arcane Professor Heimerdinger is the image that you need to have in your mind, but a female version of of him, which is basically like a small uh teddy bear guy who or girl who is just bouncing with this like vibrant kinetic energy and um jumps her way onto the stage.  
    
  
 
@@ -1037,7 +1037,7 @@ Jan 28, 2026
 **Holly Strebel:** Well, I had quite the adventure,  
 **John Hagey:** Did you just Did you apply?  
 **Holly Strebel:** too, but I'm not going to tell you about it. I just So, it's a school.  
-**John Hagey:** Uh, sort of. I'mg Ignatius, by the way.  
+**John Hagey:** Uh, sort of. I'mg ignatious, by the way.  
 **Holly Strebel:** Oh,  
 **John Hagey:** Um,  
 **Holly Strebel:** well, my name's Iggy. Do you have a  
@@ -1050,7 +1050,7 @@ Jan 28, 2026
 **Holly Strebel:** Sorry.  
 **John Hagey:** tissue?  
 **Holly Strebel:** Sorry, man. It's This place is a little different where I'm from and I don't  
-**John Hagey:** Ignatius just hands Ignat just pulls out a just super sy handkerchief  
+**John Hagey:** ignatious just hands Ignat just pulls out a just super sy handkerchief  
 **Holly Strebel:** know.  
 **John Hagey:** like here you want  
 **Holly Strebel:** Yeah, I do.  
@@ -1119,10 +1119,10 @@ Jan 28, 2026
 **Loami or Britt:** Yeah. I applied and got accepted.  
 **John Hagey:** accepted?  
 **Loami or Britt:** You know there haven't there hasn't really been anything to to look at around here for a while. And you know now that there is I you know my family goes back you know we're boiler makers for sure we're boiler makers but way back when we had some explorer knots in our past and you know I'm I'm digging up that history rewriting it you know  
-**John Hagey:** All right. That's That's pretty badass. I'm My name's Ignatius, by the way. And he sticks out his hand again.  
-**Loami or Britt:** no fear fire no fear Lomi's Lomi is in there.  
+**John Hagey:** All right. That's That's pretty badass. I'm My name's ignatious, by the way. And he sticks out his hand again.  
+**Loami or Britt:** no fear fire no fear Loami's Loami is in there.  
 **John Hagey:** There's just soot and grease mixed together.  
-**Loami or Britt:** Yeah, exactly. Exactly. I Yeah, I'm Lomi. [[Lomi|Lomi Sultano]].  
+**Loami or Britt:** Yeah, exactly. Exactly. I Yeah, I'm Loami. [[loami|Loami Sultano]].  
 **John Hagey:** Oh, nice.  
 **GM or Aggie:** Am  
 **John Hagey:** I'm Oh, we do we're doing last names. That's that's pretty formal, I guess.  
@@ -1132,7 +1132,7 @@ Jan 28, 2026
 ### 01:04:49
 
    
-**John Hagey:** Uh my name is uh my name is Ignatius of Magma, actually. So, um but yeah, you can just call me Ignatius. I'd tell you to call me Iggy,  
+**John Hagey:** Uh my name is uh my name is ignatious of Magma, actually. So, um but yeah, you can just call me ignatious. I'd tell you to call me Iggy,  
 **GM or Aggie:** I lucky?  
 **John Hagey:** but that dude's name is  
 **GM or Aggie:** Hey, hey, hey,  
@@ -1144,7 +1144,7 @@ Jan 28, 2026
 **Holly Strebel:** Is that And it's just wind.  
 **GM or Aggie:** wait.  
 **Holly Strebel:** What is that?  
-**Loami or Britt:** Yeah. The door the door opened the the the Yeah, we're we're getting directed out. Iggy. Uh, all right. Iggy Ignatius. All right. I can remember that. I can remember that.  
+**Loami or Britt:** Yeah. The door the door opened the the the Yeah, we're we're getting directed out. Iggy. Uh, all right. Iggy ignatious. All right. I can remember that. I can remember that.  
 **GM or Aggie:** Uh yeah, and I think like at this point there's there's not a ton of people left, but there is there is one little like uh little little kid who's just walking around to people and saying, "Hey, you I'm [[Lucky]]. You need something? You let Lucky know? I'll get it for you." That guy's red hot hair. Look at it.  
    
  
@@ -1228,21 +1228,21 @@ Jan 28, 2026
 **GM or Aggie:** Can I just like  
 **Holly Strebel:** away.  
 **GM or Aggie:** flubixed? Like, did this kid just take my hat to use it as a tissue and then give it back to me?  
-**John Hagey:** Ignatius is just laughing his ass off and he's going to grab Lo and be like, "Let's  
+**John Hagey:** ignatious is just laughing his ass off and he's going to grab Lo and be like, "Let's  
 **Loami or Britt:** Yeah, let's get out of here. I don't,  
 **John Hagey:** go.  
 **GM or Aggie:** Uh,  
 **Loami or Britt:** you know, I I'm definitely not feeling quite as lucky as that guy. So, let's let's get  
 **GM or Aggie:** it's amazing.  
 **Loami or Britt:** lost.  
-**GM or Aggie:** So, Iggy, Ignatius, and Lomi make your way towards the end of the uh little like aisle corridor, and you pass by the machine, and it prints out a uh a line item, like a little uh punch card for each of you.  
+**GM or Aggie:** So, Iggy, ignatious, and Loami make your way towards the end of the uh little like aisle corridor, and you pass by the machine, and it prints out a uh a line item, like a little uh punch card for each of you.  
    
  
 
 ### 01:10:20
 
    
-**GM or Aggie:** And the Iggy it says like um Iggy and then it says block 12 printed out and then drops and then um Ignatius block 12 printed out. Lomi block 99 printed out. Uh and then Britain Aggie you would have gotten block four printed out.  
+**GM or Aggie:** And the Iggy it says like um Iggy and then it says block 12 printed out and then drops and then um ignatious block 12 printed out. Loami block 99 printed out. Uh and then Britain Aggie you would have gotten block four printed out.  
 **Loami or Britt:** Nice.  
 **GM or Aggie:** Um and as you come up behind uh so now you're back like behind the buildings is where the um the you there's like um uh the campus loops around in a big horseshoe courtyard outside of the center courtyard. So the dorms are all of these buildings that have the scaffolding going up. So, if you were to look top down, it would have the airship and the the um cruise ship, I guess, there there' be there's an inlet that goes out to the sea from in front of the cruise ship, like a big horseshoe. Um, and then there is another big horseshoe where all of the courtyard and the buildings are. So, um, I can probably draw that if you need to. I didn't do it top down, but not super important.  
    
@@ -1297,8 +1297,8 @@ Jan 28, 2026
    
 **GM or Aggie:** And then there's, you know, like the other blocks are they kind of seem to be um using some  
 **Holly Strebel:** Um,  
-**GM or Aggie:** of the labs as dorms. They probably won't use do the lab until the initial genet is done. So all the specialized buildings uh don't have any of their equipment in it. They just have bodies in it right now. And you're in one of those. There's also like a geothermal plant looking thing that's got a bunch of like um steam coming out of it that people are actually seem to be bunking in. Uh and that's where Lomi would be headed. And then there is a uh a bunch of like more classic dorms where a lot of the student body is also going. That's where Iggy and Ignatius would be going. any of those catch your eye that you'd want to like try to go into?  
-**Loami or Britt:** I think I want to go into the where Lomi is into the sort of steam the place that looks like it's it's industrial something like that where you know things are being built things are being there's energy there because I think that's a partial concern for us is that things are being things are moving and building and  
+**GM or Aggie:** of the labs as dorms. They probably won't use do the lab until the initial genet is done. So all the specialized buildings uh don't have any of their equipment in it. They just have bodies in it right now. And you're in one of those. There's also like a geothermal plant looking thing that's got a bunch of like um steam coming out of it that people are actually seem to be bunking in. Uh and that's where Loami would be headed. And then there is a uh a bunch of like more classic dorms where a lot of the student body is also going. That's where Iggy and ignatious would be going. any of those catch your eye that you'd want to like try to go into?  
+**Loami or Britt:** I think I want to go into the where Loami is into the sort of steam the place that looks like it's it's industrial something like that where you know things are being built things are being there's energy there because I think that's a partial concern for us is that things are being things are moving and building and  
    
  
 
@@ -1309,8 +1309,8 @@ Jan 28, 2026
 **Loami or Britt:** continuing.  
 **GM or Aggie:** Okay, I dig that. Um,  
 **Loami or Britt:** for me.  
-**GM or Aggie:** so while while they did the long route, um, Ignatius, Lomi, would y'all have gone directly to your assigned rooms or would you have detourred elsewhere?  
-**John Hagey:** Uh I think Ignatius is well once Ignatius immediately like as soon as Ignatius finds out that uh Iggy it's it's Ignatius and Iggy  
+**GM or Aggie:** so while while they did the long route, um, ignatious, Loami, would y'all have gone directly to your assigned rooms or would you have detourred elsewhere?  
+**John Hagey:** Uh I think ignatious is well once ignatious immediately like as soon as ignatious finds out that uh Iggy it's it's ignatious and Iggy  
 **Loami or Britt:** Mhm.  
 **John Hagey:** right as soon as he finds out that like oh this is the little guy that like I had a short conversation  
 **Loami or Britt:** And Aggie  
@@ -1335,9 +1335,9 @@ Jan 28, 2026
 **John Hagey:** Yeah, but now I'm curious.  
 **Holly Strebel:** Well, then come on.  
 **GM or Aggie:** That's what  
-**John Hagey:** Ignatius is appalled that he was like for a second about to be a rule follower and then this little like thing was like no we're just walk around like who am I all rightious is just gonna follow  
+**John Hagey:** ignatious is appalled that he was like for a second about to be a rule follower and then this little like thing was like no we're just walk around like who am I all rightious is just gonna follow  
 **GM or Aggie:** Okay. Where  
-**John Hagey:** the whims of Iggy for a little bit Ignatius is less curious about everything going on around him and more curious on like what is this little like thing gonna do because he's still not 100% sure what Iggy is.  
+**John Hagey:** the whims of Iggy for a little bit ignatious is less curious about everything going on around him and more curious on like what is this little like thing gonna do because he's still not 100% sure what Iggy is.  
 **GM or Aggie:** Fair enough.  
 **John Hagey:** He he digs them,  
    
@@ -1349,7 +1349,7 @@ Jan 28, 2026
 **GM or Aggie:** There have been there have been a lot of weird creatures  
 **John Hagey:** but he's just not really sure what the deal is. He's like,  
 **GM or Aggie:** you've seen, but but Iggy is is pretty odd. Uh, and clearly like asking he's just he's not acting like very many other people for sure. Most everyone else is kind of following the script right now. There's a couple of outliers, but yeah.  
-**John Hagey:** If if if Iggy is curious about seeing everything else, Ignatius is curious about Iggy. So, he's like, "Now's the time to figure out more about the person I'm rooming with." So,  
+**John Hagey:** If if if Iggy is curious about seeing everything else, ignatious is curious about Iggy. So, he's like, "Now's the time to figure out more about the person I'm rooming with." So,  
 **GM or Aggie:** I love it. Uh, where does Aggie's feet take him?  
 **Holly Strebel:** He is he has like his journal back out. He pulls some contraption out of his little bag of tricks that's like a big magnifying glass that just like amplifies his already ginormous eyes that he has goggles on. Um, and he's like literally walking down every hallway looking at everything and like drawing the whole thing. But like when you look at it, it just looks like a schizophrenic is taking notes.  
    
@@ -1364,14 +1364,14 @@ Jan 28, 2026
 **GM or Aggie:** What is his pace like? Is he is he is he thorough and he still hasn't even left the great hall or is he is he tearing up  
 **Holly Strebel:** I think it's like it's very like he's all of a sudden he catches a wild hair and he's like,  
 **GM or Aggie:** ground?  
-**Holly Strebel:** "Oh, this is good. This is good. This is good." Oh. And then he'll stop and then he's like really thoroughly inspecting like something very small. Oh, this is nothing. Oh, this is good. He just is like completely muttering to himself. He'll like ha he'll turn to Ignatius and have him hold random things and pull out new tools from his bag that he uses to inspect things and then he puts it all back.  
+**Holly Strebel:** "Oh, this is good. This is good. This is good." Oh. And then he'll stop and then he's like really thoroughly inspecting like something very small. Oh, this is nothing. Oh, this is good. He just is like completely muttering to himself. He'll like ha he'll turn to ignatious and have him hold random things and pull out new tools from his bag that he uses to inspect things and then he puts it all back.  
    
  
 
 ### 01:23:02
 
    
-**Holly Strebel:** Like it's just chaos that I don't think Ignatius could make any sense of. But it's it's just Iggy like exploring in detail his  
+**Holly Strebel:** Like it's just chaos that I don't think ignatious could make any sense of. But it's it's just Iggy like exploring in detail his  
 **GM or Aggie:** Okay. So,  
 **Holly Strebel:** surroundings.  
 **GM or Aggie:** the first thing as he comes out of the the main room, there's kind of a long hallway that goes to the right that seems to be like towards other classrooms and auditoriums. There is the exit to the courtyard that most other people are going to.  
@@ -1399,8 +1399,8 @@ Jan 28, 2026
 
    
 **GM or Aggie:** Ash Bloods that um makes you just generally distrust fire. Uh so that's you'll see that as you're going towards what is kind of like a currently repurposed dorms. Um and then you also see like there is um a small group of students who is started to like dig out a little uh hole in the ground and they're starting to throw like spare wood and things inside of it.  
-**Loami or Britt:** I think it's definitely like a looking up and being like a huh what's going on? And then I think I say to Aggie, I think I'm like that looks promising. Come on. And I head toward Iggy and Ignatius.  
-**GM or Aggie:** Okay. Um, okay. Uh, and so Ignatius and Iggy are I mean I I literally like I don't know that Iggy is taking apart the crane as he's going up it. But I also don't like the um anything not bolted down isn't going down to Ignatius where he's holding your pack or something. He's like, "Hey, take take this one now." Um, but at some point maybe you get high enough that you can like you might accidentally look down or look around.  
+**Loami or Britt:** I think it's definitely like a looking up and being like a huh what's going on? And then I think I say to Aggie, I think I'm like that looks promising. Come on. And I head toward Iggy and ignatious.  
+**GM or Aggie:** Okay. Um, okay. Uh, and so ignatious and Iggy are I mean I I literally like I don't know that Iggy is taking apart the crane as he's going up it. But I also don't like the um anything not bolted down isn't going down to ignatious where he's holding your pack or something. He's like, "Hey, take take this one now." Um, but at some point maybe you get high enough that you can like you might accidentally look down or look around.  
    
  
 
@@ -1421,7 +1421,7 @@ Jan 28, 2026
 **Holly Strebel:** Never mind.  
 **John Hagey:** I mean, we can get on the flying ship. I mean, it'll get us more in the air, but you you are touching the air.  
 **Holly Strebel:** But like I don't feel it.  
-**John Hagey:** Ignatius just looks up and looks at Iggy and goes, "I didn't know you could feel it.  
+**John Hagey:** ignatious just looks up and looks at Iggy and goes, "I didn't know you could feel it.  
 **Loami or Britt:** I think Brit walks up and says,  
 **Holly Strebel:** Well,  
 **Loami or Britt:** "Come down, please.  
@@ -1503,7 +1503,7 @@ Jan 28, 2026
 **Loami or Britt:** Take a photo. It'll last  
 **GM or Aggie:** Oh,  
 **Loami or Britt:** longer.  
-**John Hagey:** Yeah. Is she if she's saying that like she's saying that Ignatius is just looking down like,  
+**John Hagey:** Yeah. Is she if she's saying that like she's saying that ignatious is just looking down like,  
 **GM or Aggie:** person  
 **John Hagey:** "Huh? Is she talking to us?"  
 **GM or Aggie:** you plugged up there too.  
@@ -1511,7 +1511,7 @@ Jan 28, 2026
 **GM or Aggie:** Yeah,  
 **John Hagey:** I just didn't make it as far as Iggy at at all.  
 **GM or Aggie:** that is funny. So then it's  
-**John Hagey:** Like Iggy is way up there. Ignatius is maybe like 10 feet up.  
+**John Hagey:** Like Iggy is way up there. ignatious is maybe like 10 feet up.  
 **GM or Aggie:** just  
 **John Hagey:** Iggy's like 20 30 feet up. And you guys just like, damn.  
 **GM or Aggie:** So then maybe before that as Brit's shaking the the tower, did you all start working your way back down?  
@@ -1528,7 +1528,7 @@ Jan 28, 2026
 **John Hagey:** Complete 180\.  
 **Loami or Britt:** stopped.  
 **Holly Strebel:** Perfect.  
-**John Hagey:** Like Ignatius is so confused. His attention span. It's gone so many different  
+**John Hagey:** Like ignatious is so confused. His attention span. It's gone so many different  
 **Loami or Britt:** Can we Can we help you?  
 **John Hagey:** places.  
 **Holly Strebel:** Oops.  
@@ -1589,7 +1589,7 @@ Jan 28, 2026
 **GM or Aggie:** It's like, yeah, these  
 **Holly Strebel:** Where's  
 **GM or Aggie:** guys.  
-**John Hagey:** Ignatius is gonna lean over to bring and go.  
+**John Hagey:** ignatious is gonna lean over to bring and go.  
 **Holly Strebel:** this?  
 **John Hagey:** I don't trust this b\*\*\*\*.  
 **GM or Aggie:** I don't I feel like this is going to be uh Well, I I've read that. Um, well, what what what do you like to call your like um your your your  
@@ -1600,7 +1600,7 @@ Jan 28, 2026
 **Loami or Britt:** This  
 **GM or Aggie:** I mean you're well you're from and she points to um your cousins and  
 **John Hagey:** Um,  
-**GM or Aggie:** and Missy because I can tell by your clothes and you're ash blood cuz you're on fire and um I haven't seen anybody else who's not from Harmony except and well and she looks at Lomi for a minute. She's like, "Are you also on fire? I can't tell because Lomi is over there too.  
+**GM or Aggie:** and Missy because I can tell by your clothes and you're ash blood cuz you're on fire and um I haven't seen anybody else who's not from Harmony except and well and she looks at Loami for a minute. She's like, "Are you also on fire? I can't tell because Loami is over there too.  
    
  
 
@@ -1608,14 +1608,14 @@ Jan 28, 2026
 
    
 **GM or Aggie:** You said he was going to the dorm and then  
-**Loami or Britt:** He's going 99\. Uh, I'd say Lomi unintentionally gets to 99\. He like sees the Steam stacks and is like, "All right, here we go." And then he sees that it's building 99\. He's like, "All right, here we are."  
+**Loami or Britt:** He's going 99\. Uh, I'd say Loami unintentionally gets to 99\. He like sees the Steam stacks and is like, "All right, here we go." And then he sees that it's building 99\. He's like, "All right, here we are."  
 **GM or Aggie:** nice. Uh so yeah,  
 **Loami or Britt:** But  
-**GM or Aggie:** I mean maybe like if he was there because he's so he's still kind of grindy, right? He's still like he's I I picture him and grind as Ignatius.  
+**GM or Aggie:** I mean maybe like if he was there because he's so he's still kind of grindy, right? He's still like he's I I picture him and grind as ignatious.  
 **Loami or Britt:** Yeah. Yeah. He's He's seeing a crowd. He'll he'll saddle  
 **GM or Aggie:** Yeah. Um so maybe Lo's walking in right as you can see he he sees Iggy.  
 **Loami or Britt:** up.  
-**GM or Aggie:** He sees Ignatius over there talking. He I think you might have seen Iggy drop out of the the crane like a little wrecking ball hammer.  
+**GM or Aggie:** He sees ignatious over there talking. He I think you might have seen Iggy drop out of the the crane like a little wrecking ball hammer.  
 **Loami or Britt:** Yeah. Yeah.  
 **GM or Aggie:** Um and then he sees the Mazi girls walking over and saying hello. So what would Logi do? Would he head inside the dorm?  
    
@@ -1633,7 +1633,7 @@ Jan 28, 2026
 **GM or Aggie:** Yeah.  
 **Loami or Britt:** And they're they're throwing stuff into like a like a bonfire like a pit or something.  
 **GM or Aggie:** Yeah.  
-**Loami or Britt:** I Yeah, I think Lomi's Lomi's got to walk up to the the bonfire pit and kind of like looking in walking by the other candidates like So, you thinking you're going to lo use like an accelerant or something or we just going to go uh what do we got? Straight uh straight lumba in there? What's What's the plan?  
+**Loami or Britt:** I Yeah, I think Loami's Loami's got to walk up to the the bonfire pit and kind of like looking in walking by the other candidates like So, you thinking you're going to lo use like an accelerant or something or we just going to go uh what do we got? Straight uh straight lumba in there? What's What's the plan?  
 **GM or Aggie:** um uh there's a a a guy who's um who's kind of directing traffic a little bit. He says, "Oh, this is not the problem. We have it all here. A masked out look right here.  
    
  
@@ -1642,15 +1642,15 @@ Jan 28, 2026
 
    
 **GM or Aggie:** Optimal flow across the woods. You get the light winds at the bottom, heavier winds at the top, and then well, we don't have a source of flame yet. That is a problem.  
-**John Hagey:** Ignatius is just going to sit there and not say a f\*\*\*\*\*\*  
+**John Hagey:** ignatious is just going to sit there and not say a f\*\*\*\*\*\*  
 **Loami or Britt:** Yeah,  
 **John Hagey:** thing.  
 **GM or Aggie:** This is just far enough apart that  
-**Loami or Britt:** I think I think this is this is I think that's that's when Lomi  
+**Loami or Britt:** I think I think this is this is I think that's that's when Loami  
 **John Hagey:** Okay. Okay. Okay. Okay. Okay. Good. Good.  
 **GM or Aggie:** like  
 **John Hagey:** Good. I was about to say  
-**Loami or Britt:** goes Lomi like looks over his shoulder and is like I think we can solve that and and walks over to the starts walking over to that  
+**Loami or Britt:** goes Loami like looks over his shoulder and is like I think we can solve that and and walks over to the starts walking over to that  
 **GM or Aggie:** Nice. Nice. Um and I I like to maybe write comment and and say that that was when um when when Vox also came like oh are you going to talk to him? Can I come too? And then she like couldn't contain herself and ran ahead.  
    
  
@@ -1660,7 +1660,7 @@ Jan 28, 2026
    
 **GM or Aggie:** Uh and so that's yeah that's how you met Serra.  
 **Loami or Britt:** Okay.  
-**GM or Aggie:** Uh and then now Lomi has kind of like joined the group as as y'all are talking. Um,  
+**GM or Aggie:** Uh and then now Loami has kind of like joined the group as as y'all are talking. Um,  
 **Loami or Britt:** All right.  
 **GM or Aggie:** and okay, so 9:40. Uh, that's probably not a terrible stopping point if y'all want to call it there. Um,  
 **John Hagey:** Seven  
@@ -1678,7 +1678,7 @@ Jan 28, 2026
 **GM or Aggie:** I don't need them. If you if you know it, then yeah.  
 **Loami or Britt:** I definitely think Brit's motivation is very much I think unintentionally she's very very good in class but her her main interest always has lied in what is what are the political ramifications of the academy and and what what is like hiding below the surface because something something is but but What  
 **GM or Aggie:** Cool. Anybody else know or you still thinking about it?  
-**Loami or Britt:** I think for Lomi it would be the transition from like candidate to student and then like forming the party to like how how that work how you get  
+**Loami or Britt:** I think for Loami it would be the transition from like candidate to student and then like forming the party to like how how that work how you get  
    
  
 

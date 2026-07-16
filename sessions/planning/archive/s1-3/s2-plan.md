@@ -46,7 +46,7 @@ The "Gen-Ed" test is a mix of theory and practical simulations. Players can pick
 
 Tonight, scattered across the temporary industrial sprawl of Block 99, there are maybe 150-200 first-years gathered around makeshift fires. Construction scraps burn in metal drums. Contraband engine-hooch makes the rounds. Among the 70,000 students crammed into this repurposed expedition city, these bonfires are where the real introductions happen.
 
-Your party—[[Ignatius]], [[Britt]], [[Aggie]], Loami, and [[Iggy]]—are vanishingly rare. Clan members at Vumbua number in the hundreds at most. You WILL be noticed.
+Your party—[[ignatious]], [[Britt]], [[Aggie]], Loami, and [[Iggy]]—are vanishingly rare. Clan members at Vumbua number in the hundreds at most. You WILL be noticed.
 
 ---
 
@@ -176,7 +176,7 @@ Percy is holding court about a fringe theory he read in some obscure academic jo
 - The players might be asked to weigh in (do the clans have theories about other clans?)
 - Percy might try to recruit them for an expedition to find the "missing" clans
 - Bramble will be particularly interested in [[Britt]]/[[Aggie]] as "forest kin"—might ask about "the flow" in the Petrified Forest
-- Jax might pull [[Ignatius]] aside and warn: "Kid, they'll work you till you burn out. Literally."
+- Jax might pull [[ignatious]] aside and warn: "Kid, they'll work you till you burn out. Literally."
 - Zephyr seems unusually nervous about this topic - why? And why did she sneak out to come here?
 
 ---
@@ -293,7 +293,7 @@ Serra has set up a cozy spot and is interviewing students about clan culture. Ca
   - "Don't listen to him. Half that manual is outdated. They want to see if you can THINK, not parrot."
 
 **Player Engagement:**
-- Serra will eagerly question [[Ignatius]]/[[Britt]]/[[Aggie]] about clan culture (possibly tone-deaf questions like "Do you miss being primitive?")
+- Serra will eagerly question [[ignatious]]/[[Britt]]/[[Aggie]] about clan culture (possibly tone-deaf questions like "Do you miss being primitive?")
 - Cassius's puppy-dog crush could be endearing or awkward—he'll try to impress clan PCs too: "I read EVERYTHING about your people!"
 - Silas might bond with PCs over practical skills: "You actually LIVED in a volcano? That's way cooler than reading about it." 
 - Potential tension: Serra taking notes on EVERYTHING the PCs say (feels like being studied)
@@ -334,7 +334,7 @@ The "Legacy Kids"—descendants of famous explorers and wealthy families—have 
 - Creates tension: is the test asking for book answer or practical answer?
 
 **Player Engagement:**
-- Kindle might approach Ignatius desperately: "Please don't make a scene. I'm trying to blend in."
+- Kindle might approach ignatious desperately: "Please don't make a scene. I'm trying to blend in."
 - Glimmer's microaggressions could spark conflict
 - Val might recruit skilled PCs: "Best teams mix old blood with new fire."
 - Mira will ask innocent but probing questions
@@ -420,7 +420,7 @@ Rill is deep in research, surrounded by glowing spore samples and resonance equi
 - About 150-200 students gathered, mostly first-years with some upperclassmen.
 
 **Key Dynamic**:
-The PCs (especially [[Ignatius]], [[Britt]], and [[Aggie]]) will likely attract attention simply for being clan members. Among 70,000 students, perhaps only a few hundred are from the clans—making them exotic curiosities to most Harmony citizens.
+The PCs (especially [[ignatious]], [[Britt]], and [[Aggie]]) will likely attract attention simply for being clan members. Among 70,000 students, perhaps only a few hundred are from the clans—making them exotic curiosities to most Harmony citizens.
 
 **Key NPCs & Encounters**:
 See **The Bonfire Hooks** section above for detailed encounter groups:
@@ -431,7 +431,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
 5. The Grinder's Truth ([[Ratchet]], [[Brawn]], Celia, [[Theorem]])
 
 **Additional Encounters**:
-- **Seraphina "Serra" Vox**: Hiding her family identity, eager to learn about the clans. She'll seek out [[Ignatius]]/[[Britt]]/[[Aggie]] to ask (possibly insensitive) questions.
+- **Seraphina "Serra" Vox**: Hiding her family identity, eager to learn about the clans. She'll seek out [[ignatious]]/[[Britt]]/[[Aggie]] to ask (possibly insensitive) questions.
 - **Curious Onlookers**: Students may circle the PCs, asking questions like "Do you really eat rocks?" or "Can I smoke your moss?"—treating them like celebrities or specimens.
 - **The Two Factions**: Watch for the ideological divide at the bonfire:
     - *The Harmony Loyalists*: Students who genuinely believe in the Academy's mission of integration and unity.
@@ -526,7 +526,7 @@ See **The Bonfire Hooks** section above for detailed encounter groups:
     - *Decision*: Hard clock times for Academy (regimented, industrial).
 
 3.  **Names**:
-    - *Decision*: "[[Ignatius]] of Magma" is a pretentious title. [[Rill]] is the only other [[Mizizi]].
+    - *Decision*: "[[ignatious]] of Magma" is a pretentious title. [[Rill]] is the only other [[Mizizi]].
 
 4.  **Tech Level**:
     - *Clarification*: **Crystal-Punk**. Common tech is Steam/Mechanical, but the *energy source* is Harmony Crystal Batteries (Arcane-like).

@@ -1,6 +1,6 @@
 ---
 aliases:
-  - "Lomi Sultano"
+  - "Loami Sultano"
 tags:
   - pc
   - harmony-born
@@ -8,7 +8,7 @@ tags:
   - copper-rank
 ---
 
-# Lomi
+# Loami
 
 > *"They paying you well here?"*
 
@@ -22,14 +22,14 @@ tags:
 | **Class**    | Daggerheart Character                                                                                                                     |
 | **Player**   | Luke F (Luke Foreman)                                                                                                                     |
 | **Housing**  | [[meta/foundry-export-vault/locations/block-99\|block-99]]-Piston (with [[Ratchet]], [[Soot]])<br>[[locations/block-99\|Block 99-Piston]] |
-
+![[Pasted image 20260709171753.png]]
 ## Appearance
 
-Humanoid but perpetually dirty — you don't really know where skin ends and where dirt begins. Like Pigpen from Peanuts, there's always a cloud of grime and grease around him. He doesn't feel the need to shower after a shift. His Earthkin heritage is distant enough that he looks mostly human, but the connection to earth shows in a subtle, ever-present layer of soot and engine grease.
+A rugged, broad-shouldered humanoid mechanic. He has short brown hair, brown eyes (one showing a subtle green tint), a short beard, and is perpetually smudged with dark engine grease and soot. He wears a brown woolen flat cap with an Italian flag ribbon, a heavy canvas collar, and metallic shoulder plating/pauldrons over his working shirt. His appearance is that of a seasoned, blue-collar union worker.
 
 ## Personality
 
-Lomi is **practical, worker-conscious, and quick-witted**. His immediate instinct upon seeing the overwhelmed exam attendants was to check on their working conditions. He has strong ties to labor and the boiler worker community, and never misses a chance to remind people that the infrastructure doesn't maintain itself.
+Loami is **practical, worker-conscious, and quick-witted**. His immediate instinct upon seeing the overwhelmed exam attendants was to check on their working conditions. He has strong ties to labor and the boiler worker community, and never misses a chance to remind people that the infrastructure doesn't maintain itself.
 
 **Key Traits:**
 - Union-minded ("family born and raised, boiler mega-union")
@@ -38,11 +38,11 @@ Lomi is **practical, worker-conscious, and quick-witted**. His immediate instinc
 - Practical and observant — notices things others miss
 - Down-to-earth despite the extraordinary circumstances
 - Quick to improvise — his "noises in the boiler room" cover story was seamless
-- Proud of public infrastructure: "This city would fall apart without people like Lomi"
+- Proud of public infrastructure: "This city would fall apart without people like Loami"
 
 ## Background
 
-Unlike the clan characters, Lomi is a **Harmony native** from the Octoumba continent — where the previous version of Vumbua was located. He comes from a **long line of boiler workers** — his family has the original boiler schematics hung up in their living room. He can trace his lineage all the way back to the founding of Harmony, where his ancestors built the first boiler.
+Unlike the clan characters, Loami is a **Harmony native** from the Octoumba continent — where the previous version of Vumbua was located. He comes from a **long line of boiler workers** — his family has the original boiler schematics hung up in their living room. He can trace his lineage all the way back to the founding of Harmony, where his ancestors built the first boiler.
 
 He's been working as a maintenance person at the academy during its construction, watching it transform from "just a boat and a ship" to a functioning campus. His family and co-workers pushed him to apply for the explorer trials: *"Someone's got to fix the ship if it goes wrong."*
 
@@ -55,7 +55,7 @@ He's been working as a maintenance person at the academy during its construction
 - The academy uses [[lavsidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]] to fuel the boilers
 
 ### The Explorer Dream
-Like many Harmony citizens, Lomi has been swept up in the resurgence of explorer fever caused by the new discoveries. Getting Explorer rank is like becoming "an NFL star, a bull rider" — instant celebrity and lifetime government stipend. His family sees him as the "big smart guy" who works at the academy and figures he should make the jump.
+Like many Harmony citizens, Loami has been swept up in the resurgence of explorer fever caused by the new discoveries. Getting Explorer rank is like becoming "an NFL star, a bull rider" — instant celebrity and lifetime government stipend. His family sees him as the "big smart guy" who works at the academy and figures he should make the jump.
 
 ## Skills & Experiences
 
@@ -73,28 +73,31 @@ Like many Harmony citizens, Lomi has been swept up in the resurgence of explorer
 
 ## Quest Tracker
 
-> What Lomi believes his quest to be, based on what's happened in-session.
+> What Loami believes his quest to be, based on what's happened in-session.
 
 ### Session 0 — The Decision
-Lomi has worked the boilers his whole life. The discovery of two new clans has reignited the dream of exploration across Harmony, and his family and co-workers pushed him to apply. His family's advice echoes: *"Someone's got to fix the ship if it goes wrong."* He's here to become an explorer — to see what's out there, and to make sure whatever ship takes him there keeps running.
+Loami has worked the boilers his whole life. The discovery of two new clans has reignited the dream of exploration across Harmony, and his family and co-workers pushed him to apply. His family's advice echoes: *"Someone's got to fix the ship if it goes wrong."* He's here to become an explorer — to see what's out there, and to make sure whatever ship takes him there keeps running.
 
 ### Session 1 — Getting Oriented
-Got Copper rank — the lowest tier. Not discouraged. Settled into Block 99-Piston, recognized the steam stacks, and found familiar ground. Reconnected with Sarge from the construction campfires. The scale of the intake is overwhelming, but Lomi's treating it like any other job: show up, do the work, represent.
+Got Copper rank — the lowest tier. Not discouraged. Settled into Block 99-Piston, recognized the steam stacks, and found familiar ground. Reconnected with Sarge from the construction campfires. The scale of the intake is overwhelming, but Loami's treating it like any other job: show up, do the work, represent.
 
 ### Session 2 — Finding His People
-The bonfire was the first real social event. Lomi secured moonshine, bonded with Percy over curiosity about the world, and helped light the fire alongside Ignatius. He's becoming the social glue of the group — the guy who can talk to anyone and make connections. His curiosity is growing. Percy's theories about missing clans and the noises Lomi "hears" in the boiler room are starting to make the world feel bigger than he expected.
+The bonfire was the first real social event. Loami secured moonshine, bonded with Percy over curiosity about the world, and helped light the fire alongside ignatious. He's becoming the social glue of the group — the guy who can talk to anyone and make connections. His curiosity is growing. Percy's theories about missing clans and the noises Loami "hears" in the boiler room are starting to make the world feel bigger than he expected.
 
 ### Session 3 — The Game & The Intervention
-Lomi visited the Celestial Lounge, winning a game of "Crown and Ruin" against Valerius Sterling. However, the night took a dangerous turn when Britt was ambushed. Lomi and Iggy intervened in the alley, and Lomi broke the rib of an ambusher named Azer to save his friend, proving he can protect his crew when things go wrong.
+Loami visited the Celestial Lounge, winning a game of "Crown and Ruin" against Valerius Sterling. However, the night took a dangerous turn when Britt was ambushed. Loami and Iggy intervened in the alley, and Loami broke the rib of an ambusher named Azer to save his friend, proving he can protect his crew when things go wrong.
 
 ### Session 4 — Rebuffed but Resolute
-Classes proved challenging as Lomi was brutally rebuffed by Finch Gable when asking for notes. He remained resolute, assisting the group in tracking down Lucky and negotiating the trade for Val's study guide.
+Classes proved challenging as Loami was brutally rebuffed by Finch Gable when asking for notes. He remained resolute, assisting the group in tracking down Lucky and negotiating the trade for Val's study guide.
 
 ### Session 5 — The Grog Hustle
-Lomi struck a deal with Lucky to distribute "Ambrosia of Luck" (grease grog) during the Reso Race, turning his boiler room connections into a business opportunity. He scouted the Apex Ring with Ignatius, noting the randomized spire deployment and identifying the "Prism Water" security at the maintenance gates.
+Loami struck a deal with Lucky to distribute "Ambrosia of Luck" (grease grog) during the Reso Race, turning his boiler room connections into a business opportunity. He scouted the Apex Ring with ignatious, noting the randomized spire deployment and identifying the "Prism Water" security at the maintenance gates.
 
 ### Session 6 — Cafeteria Wall & The Dilemma
-In the cafeteria, Lomi acted as a physical wall, intercepting and blocking Lyra Castellan to give Britt and Aggie time to talk to Valentine. The effort paid off with VIP airship passes, but Lomi now faces a professional and personal dilemma: stay on the ground to run the grease-grog hustle with Lucky, or go up to the Sterling VIP deck with his squad.
+In the cafeteria, Loami acted as a physical wall, intercepting and blocking Lyra Castellan to give Britt and Aggie time to talk to Valentine. The effort paid off with VIP airship passes, but Loami now faces a professional and personal dilemma: stay on the ground to run the grease-grog hustle with Lucky, or go up to the Sterling VIP deck with his squad.
+
+### Session 7 — Grog Hustle & The Engine Room
+Loami resolved his dilemma by doing both: he ran the mobile "Engine Grease" grog operation on the ground with Lucky, then conned his way onto the Zephyr VIP airship with the boys by pretending to be a booze delivery crew. Onboard, he became an impromptu bartender on the promenade deck. He joined Ignatious and Iggy in the engine room, discovering the global amplitude decline and the instability of the Panda 5 resonators.
 
 ## Session Appearances
 
@@ -113,11 +116,11 @@ In the cafeteria, Lomi acted as a physical wall, intercepting and blocking Lyra 
 
 ### [[session-02|Session 2]] — The Bonfire
 - Brought Engine Grease (moonshine) to the [[Block 99]] bonfire
-- Encouraged [[Cassius Thorne]] with a critical-success roll after [[Ignatius]] lit the fire prematurely
+- Encouraged [[Cassius Thorne]] with a critical-success roll after [[ignatious]] lit the fire prematurely
 - Bonded with [[Percival Vane-Smythe III|Percy Vane-Smythe III]] over shared curiosity ("salt of the earth")
 - Mentioned hearing noises in the boiler room, delighting Percy
-- Helped light the bonfire alongside [[Ignatius]]
-- Introduced himself: "Lomi Sultano. Boiler Maker family for ages."
+- Helped light the bonfire alongside [[ignatious]]
+- Introduced himself: "Loami Sultano. Boiler Maker family for ages."
 - Explained that the boilers use [[lavsidian]] from the [[Ash-Blood Isles|Ash-Blood Isles]]
 
 ### [[session-03|Session 3]] — The Celestial Lounge and The Ambush
@@ -130,35 +133,42 @@ In the cafeteria, Lomi acted as a physical wall, intercepting and blocking Lyra 
 
 ### [[s5-clean|Session 5]] — Cards on the Table
 - Struck a business agreement with Lucky to distribute "Ambrosia of Luck" engine grease at the race.
-- Scouted the Apex Ring with Ignatius, identifying the randomized spires and the "Prism Water" security at the maintenance gates.
+- Scouted the Apex Ring with ignatious, identifying the randomized spires and the "Prism Water" security at the maintenance gates.
 
 ### [[s6-clean|Session 6]] — Potatoes and Peas
 - Blocked Lyra Castellan's path in the cafeteria, forcing her to take a long route around tables and allowing the party to talk to Valentine.
 - Learned of the group's VIP invitation to board the Sterling airship for the race.
 - Stood conflicted between his business commitment with Lucky on the ground and watching the race with his friends from the airship.
 
+### [[s7-clean|Session 7]] — Race Day
+- Ran a mobile grog dispensing operation on the ground with Lucky.
+- Conned his way onto the Zephyr VIP airship deck with Ignatious and Iggy posing as a delivery crew.
+- Served drinks to the VIPs on the promenade deck, observing the race from the skies.
+- Investigated the Zephyr's engine room, learning about the wireless "DC current" resonance and the global amplitude decline.
+- Returned to the dorms to cram for Friday's exam.
+
 ## Relationships
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Sarge]]** | Boiler room buddy; recognized Lomi after exams ([[session-01|Session 1]]) |
+| **[[Sarge]]** | Boiler room buddy; recognized Loami after exams ([[session-01|Session 1]]) |
 | **[[Ratchet]]** | Roommate at [[Block 99]]-Piston |
 | **[[Soot]]** | Roommate at [[Block 99]]-Piston |
 | **[[Percival Vane-Smythe III]]** | Bonded over curiosity at the bonfire ([[session-02|Session 2]]) |
 | **[[Cassius Thorne]]** | Encouraged him at the bonfire ([[session-02|Session 2]]) |
 | **[[Britt]]** | Fellow candidate — met at Vumbua |
 | **[[Aggie]]** | Fellow candidate — met at Vumbua |
-| **[[Ignatius]]** | Fellow candidate — helped light the bonfire together ([[session-02|Session 2]]) |
+| **[[ignatious]]** | Fellow candidate — helped light the bonfire together ([[session-02|Session 2]]) |
 | **[[Iggy]]** | Fellow candidate — met at Vumbua |
 
 
 Viewed circuit-run.md:150-450
 
-As a true Resonance Race superfan and infrastructure nerd, Lomi wouldn't just know the *stats* of the Spires—he'd know exactly what they look like, sound like, and what kind of tactical advantages they offer to a savvy crew. 
+As a true Resonance Race superfan and infrastructure nerd, Loami wouldn't just know the *stats* of the Spires—he'd know exactly what they look like, sound like, and what kind of tactical advantages they offer to a savvy crew. 
 
 While every Spire grants raw Connection Units (CU), some provide specific, game-changing temporary **Boons** that last until the rig syncs with a new Spire. 
 
-Here is the complete Spire roster and the known boons, broken down exactly how Lomi would explain them to a captive (or cornered) audience:
+Here is the complete Spire roster and the known boons, broken down exactly how Loami would explain them to a captive (or cornered) audience:
 
 ### 🏆 The Major Spires (The Game-Changers)
 These are the massive anchors of the race. Everyone wants them, but only the heavy hitters or the very fast usually get them.
@@ -167,13 +177,13 @@ These are the massive anchors of the race. Everyone wants them, but only the hea
    * **Value:** 80 CU (3 charges)
    * **Look & Feel:** Gold compass arc. An elaborate array of organ-pipe brass columns. When struck, it doesn’t just hum—it physically plays a massive, sustained chord that can be heard across the entire basin.
    * **The Boon — *Harmonic Lock*:** This completely stabilizes a rig's "Loadlight" effects (mass reduction physics). It's an absolute lifesaver for experimental or organic-hybrid rigs (like Pudge's Gryphon) that play fast and loose with standard physics.
-   * **Lomi's take:** *"You always know when someone hits the Chime. The whole stadium vibrates. It always spawns at Horn 3 in the north flats—if you aren't positioned for it, you're already losing."*
+   * **Loami's take:** *"You always know when someone hits the Chime. The whole stadium vibrates. It always spawns at Horn 3 in the north flats—if you aren't positioned for it, you're already losing."*
 
 2. **Umber Crystal (Origin: Umbra Mountain)**
    * **Value:** 70 CU (3 charges)
    * **Look & Feel:** Deep violet arc. It’s made of faceted obsidian that glows cold from the inside, looking supercharged before anyone even touches it.
    * **The Boon — *Deficit Shear*:** Provides an instant, flat **-15 bonus** to a rig's Craft Draw reduction on top of the raw CU. 
-   * **Lomi's take:** *"The ultimate comeback node. If your Craft Draw is bleeding you dry, the Umber Crystal’s Deficit Shear can singlehandedly flip your LEDs from red to green."*
+   * **Loami's take:** *"The ultimate comeback node. If your Craft Draw is bleeding you dry, the Umber Crystal’s Deficit Shear can singlehandedly flip your LEDs from red to green."*
 
 ### ⚙️ The Moderate Spires (The Reliable Core)
 These keep the mid-field competitive. Good CU, moderate contention. 
@@ -185,7 +195,7 @@ These keep the mid-field competitive. Good CU, moderate contention.
 5. **Focus Glass (Origin: Timon)** | 35 CU (2 charges)
    * **Look & Feel:** Clear/prismatic arc. A giant lens structure that bends light. If your Prong striker gets disoriented by the optical distortion, they'll miss the strike.
 6. **Live Soil (Origin: Feltland)** | 35 CU (2 charges)
-   * **Look & Feel:** Earth brown arc. Encased in organic material and vines. Lomi loves this one because it literally smells like fresh soil in the middle of a stone stadium.
+   * **Look & Feel:** Earth brown arc. Encased in organic material and vines. Loami loves this one because it literally smells like fresh soil in the middle of a stone stadium.
 
 ### 🏁 The Standard Spires (The Mid-Field Farm)
 Bread-and-butter nodes. Crews will fight tooth-and-nail over these to keep their drain rates at bay.
@@ -208,7 +218,7 @@ Only 1 charge each. Low CU, but they pop up in weird places and offer incredible
     * **Value:** 20 CU (1 charge)
     * **Look & Feel:** Matte grey-brown arc. Almost invisible in the shadows, and makes absolutely *zero* noise when struck. 
     * **The Boon — *Mute Wake*:** Completely silences the rig's engines. 
-    * **Lomi's take:** *"If a heavyweight rig like Marble Wall hits Silent Silt, they turn into a ghost ship. Twenty tons of metal moving completely silently. Terrifying, and brilliant."*
+    * **Loami's take:** *"If a heavyweight rig like Marble Wall hits Silent Silt, they turn into a ghost ship. Twenty tons of metal moving completely silently. Terrifying, and brilliant."*
 
 13. **Clockwork Blooms (Origin: Bloomfield)** | 20 CU (1 charge)
     * **Look & Feel:** Copper arc. Literal mechanical metal flowers that loudly tick and clack open and closed. 
@@ -221,6 +231,6 @@ Only 1 charge each. Low CU, but they pop up in weird places and offer incredible
 
 ***
 
-**Lomi’s Extra Trivia Bits:**
+**Loami’s Extra Trivia Bits:**
 * **Contention Bonus:** If you and a rival are within Prong-reach of the same Spire when one of you syncs it, the winner gets an automatic **+10 CU**. You can literally win races by playing chicken at the nodes.
-* **The Empty Arc:** The Ash-Blood Isles arc on the compass **never lights up**. Lomi would definitely have theories about this political snub—the terrain is physically built into the arena, but the Scrivener Guild refuses to acknowledge their node data.
+* **The Empty Arc:** The Ash-Blood Isles arc on the compass **never lights up**. Loami would definitely have theories about this political snub—the terrain is physically built into the arena, but the Scrivener Guild refuses to acknowledge their node data.

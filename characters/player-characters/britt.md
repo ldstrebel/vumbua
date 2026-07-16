@@ -1,13 +1,14 @@
 ---
 aliases:
   - Brit
+  - Britt Galaspora
 tags:
   - pc
   - mizizi
   - gold-rank
 ---
 
-# Britt
+# Britt Galaspora
 
 > *"When things stop dying, we start dying."*
 
@@ -20,10 +21,10 @@ tags:
 | **Class** | Daggerheart Character |
 | **Player** | Sophie |
 | **Housing** | [[Block 04]] (with [[Aggie]]) |
-
+![[Pasted image 20260709171812.png]]
 ## Appearance
 
-A turtle-mushroom hybrid of the [[Mizizi]] clan. Shape-wise turtle, but colors and textures are distinctly fungal — **gray, dusty, and powdery**, like dried spore-covered bark. Her shell is sturdy enough to bump desks and knock things over. Medium-small eyes, not quite red. She can retreat into her shell. Moss, mycelia, and fungal growths are natural features of her physiology.
+A green-skinned elf-like root-kin of the [[Mizizi]] clan. She has wild, long dreadlocks that resemble organic roots and thick hanging vines. She wears a simple, sleeveless dark grey tunic and is constantly seen carrying a massive, round leaf-woven backpack/pouch on her back that towers over her head. Her features are expressive and sharp, leaning heavily into plant-kin characteristics rather than a turtle shell shell.
 
 ## Personality
 
@@ -79,13 +80,16 @@ The academy is overwhelming but Britt is holding her ground. Got Gold rank, whic
 Serra Vox approached her and Aggie at the bonfire, calling it "the most important anthropological cauldron in years" — Britt tried to charm her for more info but failed. Serra shut down. Rill recognized the Mizizi cousins and invited them to visit after class. The bonfire gave Britt a taste of how much she doesn't know about the wider world: missing clans, lightning powers, Ash-Blood politics. The investigation continues.
 
 ### Session 3 — The Ambush
-Britt's investigation turned dangerous when she followed a suspicious group into a dark alley. She was ambushed by Azer, Nickel, and Tus, losing her test receipt but managed to save her pocket watch before Lomi and Iggy arrived to drive them off.
+Britt's investigation turned dangerous when she followed a suspicious group into a dark alley. She was ambushed by Azer, Nickel, and Tus, losing her test receipt but managed to save her pocket watch before Loami and Iggy arrived to drive them off.
 
 ### Session 4.5 — Anchoring & Dead Pigs
 In class, Britt learned about the terrifying "dead island" phenomenon from Professor Silas Thorne, where reality remains but energy is entirely void. Meanwhile, she struggled with Academy food, bewildered by the concept of eating "dead pigs" (bacon).
 
 ### Session 6 — Cache & The VIP Ticket
 Britt followed a runoff pipe outside the city to find an abandoned cache containing a stable Harmony Surveyor's Compass. She also overheard Finch Gable trading secrets about Val's team's core confiscation to enforcers for balloon access. In the cafeteria, she approached Valentine Sterling, securing VIP passes to the family airship for the group, allowing them to watch the race from the skies.
+
+### Session 7.5 — The VIP Mingle & Terrain Anomaly
+Britt boarded the Zephyr VIP airship with Aggie. She explored the Colonnade fairgrounds, purchasing weightless lift-stone carvings or Silent Silt. Boarding the VIP deck, she witnessed the simulated Feltland terrain anomalies rejecting the resonance frequency. She also helped Pip secure truffles in a heist and assisted Bramble with a textbook swap.
 
 ## Session Appearances
 
@@ -123,6 +127,16 @@ Britt followed a runoff pipe outside the city to find an abandoned cache contain
 - Overheard Finch Gable trading secrets to enforcers for observer balloon access.
 - Approached Valentine Sterling and Jorge in the cafeteria, securing VIP airship deck passes for the party.
 
+### [[s7-clean|Session 7]] — Race Day
+- Remained in Block 04 preparing for the exams while the boys visited the airship engine rooms.
+
+### [[s7.5-clean|Session 7.5]] — Britt & Aggie's VIP Day
+- Explored the Colonnade fairgrounds, purchasing Silent Silt or Juxta lift-stone carvings.
+- Boarded the Zephyr airship early and mingled on the VIP deck.
+- Witnessed the Feltland node simulated terrain anomaly rejecting the resonance frequency.
+- Assisted Pip with a truffle heist and helped Bramble with a textbook swap.
+- Returned to the dorms to cram for Friday's exam.
+
 ## Relationships
 
 | Character | Relationship |
@@ -130,8 +144,8 @@ Britt followed a runoff pipe outside the city to find an abandoned cache contain
 | **[[Aggie]]** | Cousin and fellow [[Mizizi]]. Same year at "turtle camp." They share a mission: figure out what Harmony really wants. |
 | **[[Serra Vox]]** | Approached Britt at the bonfire; Britt tried to charm her for info but failed ([[session-02|Session 2]]) |
 | **[[Rill]]** | Recognized the Mizizi cousins; invited them to visit ([[session-02|Session 2]]) |
-| **[[Ignatius]]** | Fellow candidate — met at Vumbua |
-| **[[Lomi]]** | Fellow candidate — met at Vumbua |
+| **[[ignatious]]** | Fellow candidate — met at Vumbua |
+| **[[loami]]** | Fellow candidate — met at Vumbua |
 | **[[Iggy]]** | Fellow candidate — met at Vumbua |
 
 ---

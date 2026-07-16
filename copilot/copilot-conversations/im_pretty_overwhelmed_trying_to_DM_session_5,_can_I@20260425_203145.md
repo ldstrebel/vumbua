@@ -62,7 +62,7 @@ Here is your 90-minute pacing guide for Session 5:
 
 ### 💡 DM Cheat Sheet for the Race
 *   **The "Siren" Effect:** Remind them of the 60 BPM pulse if they get close to a node.
-*   **The Missing Node:** If [[ignatius|Ignatius]] looks at the Ash-Blood section, tell him it’s the only one without a glowing Spire.
+*   **The Missing Node:** If [[ignatious|ignatious]] looks at the Ash-Blood section, tell him it’s the only one without a glowing Spire.
 *   **Lucky's Hustle:** Have [[lucky|Lucky]] appear in the crowd every 20 minutes selling a different team's flag based on who is winning.
 
 **Pacing Advice:** If you are running behind, cut the "Finding Rill" scene and move her to the **Research Deck** where the PCs can see her through binoculars instead.
@@ -419,7 +419,7 @@ The "Academic Hum" is replaced by the **"Stadium Roar."** 500,000 people fill th
 
 1. **The Drop:** Rigs are slung from the rim. [[resonance-racers#Goliath|Goliath]] (Super-Heavy) nearly crushes [[resonance-racers#Stinger|Stinger]] (Hover-bike) on the way down.
 2. **The First Sync:** [[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]] hits a node and leaps a canyon wall. The crowd roars.
-3. **The Missing Node:** [[ignatius|Ignatius]] or [[iggy|Iggy]] notices the Ash-Blood Isles terrain is present, but there is **no glowing Spire** for it.
+3. **The Missing Node:** [[ignatious|ignatious]] or [[iggy|Iggy]] notices the Ash-Blood Isles terrain is present, but there is **no glowing Spire** for it.
 4. **The Siren Trap:** A rig steers toward a violet Light-trail, ignoring its instruments. It nearly hits a gravity well before the pilot snaps out of the "Siren's Lag."
 5. **The Win:** The Grand Resonator lights up in a pillar of white-purple light. The winning team (likely [[resonance-racers#Team 4 Pudge|Pudge]] or [[resonance-racers#Team 1 Shatter Stamper|Shatter Stamper]]) is hoisted onto shoulders.
 

@@ -46,9 +46,9 @@
                         "nextId": "recaps_ignatius"
                     },
                     {
-                        "id": "p_lomi",
-                        "text": "Lomi",
-                        "nextId": "recaps_lomi"
+                        "id": "p_Loami",
+                        "text": "Loami",
+                        "nextId": "recaps_Loami"
                     },
                     {
                         "id": "p_iggy",
@@ -119,10 +119,10 @@
             }
         },
         {
-            "id": "recaps_lomi",
+            "id": "recaps_Loami",
             "type": "custom",
             "data": {
-                "header": "LOMI'S RECAP",
+                "header": "Loami'S RECAP",
                 "blocks": [
                     {
                         "type": "text",
@@ -131,7 +131,7 @@
                 ],
                 "ports": [
                     {
-                        "id": "r_lomi",
+                        "id": "r_Loami",
                         "text": "Continue",
                         "nextId": "crossroads_start"
                     }

@@ -32,7 +32,7 @@ Later at the Block 99 bonfire, Rill appeared after [[Zephyr]]'s lightning incide
 
 Before leaving, she recognized [[Britt]] and [[Aggie]] and told them to come find her after class tomorrow, pointing to the grass-covered building inset into the hill.
 
-When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephyr, [[Ignatius|Lava Boy]]."*
+When [[ignatious]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephyr, [[ignatious|Lava Boy]]."*
 
 ### Session 5: The Reso Race
 - **Team:** Captain of **Team 6: The Silent Drift**.
@@ -70,4 +70,4 @@ When [[Ignatius]] asked [[Zephyr]]'s name, Rill called back: *"Her name is Zephy
 - **[[session-02|Session 2]]** — [[Serra Vox]] identified her as the person who managed the Dean *(Scene 4)*
 - **[[session-02|Session 2]]** — Retrieved [[Zephyr]] after the lightning incident; bribed her with hot chocolate *(Scene 4: The Lightning)*
 - **[[session-02|Session 2]]** — Invited [[Britt]] and [[Aggie]] to visit her at the grass-covered building *(Scene 4)*
-- **[[session-02|Session 2]]** — Called [[Ignatius]] "Lava Boy" *(Scene 4)*
+- **[[session-02|Session 2]]** — Called [[ignatious]] "Lava Boy" *(Scene 4)*

@@ -56,13 +56,32 @@ Before drafting the JSON schema, you must consult the GM and ask clarifying ques
 
 ### Step B: Standard Mechanics to Integrate
 You must design the survey nodes to leverage these native mechanics:
-*   **The Stress Budget:** Program risky options to award `{"stress": 1}` in their `scores` block on failure. Highlight this consequence in the text (e.g. *"You take 1 Stress as the steam vents singe your arm"*).
+*   **The Stress Budget:** Program risky options to award `{"stress": 1}` in their `scores` block on failure. Do NOT write "+1 Stress" or meta-game text inside the narrative content blocks; let the backend handle the adjustments and let the engine display them on the summary card.
 *   **Hope/Fear Resolution:** In Dice Nodes, label the outcomes clearly as **Success with Hope** (clean win, bonus info), **Success with Fear** (win with a complication, e.g. taking Stress), or **Failure** (taking Stress or being cornered).
-*   **Tier 1 Loot (Levels 1–4):** Reward items that fit the Tier 1 Daggerheart power level:
-    *   *Consumables:* Warm Sun-Cakes (+1 HP/Stress recover), healing potions, minor elixirs.
-    *   *Minor Utility Gear:* Focus Glass Piece (+1 to Instinct checks for details), Surveyor's Compass (Advantage on navigation), Silent Silt pouch (throw to silence a 10ft area).
-    *   *Class Gear:* Pocket Mechanic Tools (for Guardians/Mechanics), Sterling Crest Pin (+1 to Presence checks with nobles).
-*   **Metadata Synchronization:** Ensure every loot piece, experience, clue, or stress point awarded by a choice or roll outcome is defined as a variable in the `surveyMeta.metas` array and matched in the port/outcome `scores` object. This ensures the database logs their character sheet updates without ambiguity.
+*   **Restricted Daggerheart Rewards Framework:** The only rewards that can be granted by a survey are:
+    1. **Hope:** (e.g. `loot_hope` +1)
+    2. **Tier-Appropriate Items:** Consumables or minor utility gear matching the player's Tier (e.g., `loot_pocket_tool`, `loot_sun_cake`).
+    3. **Narrative Rewards:** Fictional permissions that shift faction dynamics, reputational leverage, access to resources, titles, or blueprints (e.g. *Tempest Coolant-Yeast* giving permission to brew a refined grog, or *Finger-Pier Credentials* giving permission to bypass sentry checks).
+*   **Narrative Clean-up (Immersive Prose):** Keep all story descriptions in the `content` blocks purely in-character. Remove all out-of-character lines such as *"gain grog profits"* or *"Clear 1 Stress"*.
+*   **Quote Formatting Protocol (Dialogue)**: Do not embed spoken character dialogue directly inside general description/narration blocks. All spoken dialogue must be split into its own independent block of type `"text"` with `"style": "quote"` specified. This ensures it is styled with the elegant border-left and italics inside the UI.
+*   **Metadata Synchronization & Prefix Rules:** Ensure every loot piece, experience, clue, or stress point is defined in `surveyMeta.metas` and matched in `scores` using standard prefixes so the dynamic variable replacements work correctly:
+    *   `loot_` for loot/gains (renders in `{{LOOT}}`)
+    *   `experience_` for experiences/alliances/permissions (renders in `{{EXPERIENCES}}`)
+    *   `clue_` for clues (renders in `{{CLUES}}`)
+    *   `stress` for stress (renders in `{{STRESS}}`)
+    *   *Note:* Avoid custom/arbitrary variables in summary screens since only the standard placeholders (`{{STRESS}}`, `{{LOOT}}`, `{{EXPERIENCES}}`, `{{CLUES}}`, `{{TOP_CLASS}}`, `{{TOP_META}}`) are parsed at runtime.
+*   **Penultimate Choice Recap Protocol**: Every survey path must feature a penultimate node (the last narrative scene node just before the `wait_node` spinner lobby) that summarizes all of the player's choices and earnings. This node must contain a text block using the standard dynamic variables:
+    ```markdown
+    Congratulations! You completed [Survey Name]. Your final choices and rolls have been saved to the database. Tell your GM what you did!
+
+    **Based on your choices, you have earned:**
+
+    -   **Loot:** {{LOOT}}
+    -   **Experiences:** {{EXPERIENCES}}
+    -   **Clues:** {{CLUES}}
+    -   **Stress:** {{STRESS}}
+    ```
+
 
 ---
 
@@ -151,7 +170,7 @@ This format matches what is used in [britt_adventure.json](file:///d:/Code/vumbu
     *   *Tip*: Use `class="border-l border-white/20 pl-2"` for blockquotes.
 3.  **Root**: There MUST be a node/entry with key `root` (or a node with ID `root`).
 4.  **Subtext**: Always separate the "Action" (`text`) from the "Context" (`subtext`).
-5.  **Formatting Constraints**: In all text and content blocks, double asterisks (`**`) are parsed to render as bold. Single asterisks (`*`) are NOT supported for formatting (e.g., italics, bullets) and will render as nothing. Do NOT use single asterisks (`*`) for italics, list bullets, or emphasis. For bulleted lists, use hyphens (`-`) instead.
+5.  **Visual Builder Schema Validation (Edges Required):** The visual React Flow `SurveyBuilder` requires that the exported JSON contains both the `nodes` AND `edges` arrays. If `edges` is omitted, the import fails with an "Invalid survey JSON format" error. Ensure every visual format JSON has a fully structured `edges` array.
 
 ---
 

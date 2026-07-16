@@ -4,7 +4,7 @@ tags:
   - pc
 ---
 
-# Ignatius — GM Notes
+# ignatious — GM Notes
 
 > [!warning]
 > The following information is not known to the player characters.
@@ -22,10 +22,10 @@ tags:
 ## Session Notes
 
 ### Session 0
-- John described Ignatius as a "classic teenager who has very strong political ideals who doesn't really know how the world works"
+- John described ignatious as a "classic teenager who has very strong political ideals who doesn't really know how the world works"
 - He views the Harmony relationship as: "We're subbing out our own fuel for this fake stuff. It's all fake. It's all wrong."
 - Got in trouble exploring areas he wasn't supposed to be in — elders "banished him to this trial of adventure"
-- Ignatius reframed it: "No, this is simply a pilgrimage."
+- ignatious reframed it: "No, this is simply a pilgrimage."
 - His core quest from the start: "I'm going to find the new source of heat for the clan and everything's going to go back to the way it should be."
 - John compared the cultural sentiment to "a hyperbole of some Hawaiian sentiment" — culturally tied to the Ash-Blood clan, wants independence/partnership not subservience.
 - The Stitching ceremony: obsidian cooking stone vs. Harmony battery cooking meat side-by-side. When they took the first bite, the volcano came alive again.

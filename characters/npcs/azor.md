@@ -36,7 +36,7 @@ Failed his own candidacy run for the Academy. Afterwards, he decided to con two 
 - Snatched Britt's family heirloom (a petrified acorn necklace) but was chased down, tackled, and pinned by her. 
 - During interrogation, he revealed his con, claimed the test receipts were useless anyway, and showed no remorse.
 - Britt ripped his pocket watch from his coat as compensation.
-- Disgusted by his attitude, Lomi punched him in the gut, breaking his rib and leaving him helpless against the wall.
+- Disgusted by his attitude, Loami punched him in the gut, breaking his rib and leaving him helpless against the wall.
 
 ## Relationships
 | Character | Relationship |
@@ -44,7 +44,7 @@ Failed his own candidacy run for the Academy. Afterwards, he decided to con two 
 | **[[Zyykl]]** | Manipulated target/Accomplice in the ambush. |
 | **[[Tus]]** | Manipulated target/Accomplice in the ambush. |
 | **[[Britt]]** | Victim of his ambush. She pinned him and took his pocket watch. |
-| **[[Lomi]]** | Broke his rib out of disgust for his behavior. |
+| **[[loami]]** | Broke his rib out of disgust for his behavior. |
 
 ---
 

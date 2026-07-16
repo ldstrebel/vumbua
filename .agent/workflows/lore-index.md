@@ -12,44 +12,34 @@ aliases:
 
 ---
 
-## Last Session Delta (Session 04: The First Day of Classes)
+## Last Session Delta (Session 07: Race Day)
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
-**Standard format (for diff-based updates):**
+**New NPCs introduced**: [[Cade Ashveil]] (Ash-Blood ambassador to Vumbua), [[Angela Galaspora]] (Mizizi clan elder, Aggie's great-aunt)  
+**Key reveals**:
+- **Global amplitude anomaly**: The Ash-Blood integration did not increase global amplitude as predicted, causing next-gen Panda resonators to fluctuate and fail.
+- **Night of Sparks**: Historical event where a new node integration caused a catastrophic power surge, leading to the development of Umbra crystal resistors.
+- **Umbra crystals**: Vox-produced resistors that cap power thresholds to prevent surge repeats.
+- **Lady Ignis's strategy**: Cade revealed Lady Ignis wants to help the Mizizi integrate to strengthen the Ash-Bloods' position.
+- **Ignatious's shift**: Ignatious declared his belief that the Ash-Bloods' future lies with Harmony, not isolation.
+- **Pudge won the Reszo Race** on his Griffin.
 
-```markdown
-## Session Delta (Session NN: <Title>)
+## Session Delta (Session 07.5: Britt & Aggie's VIP Day)
 
 ### New / First-Mentioned Entities
-- NPC: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-- Location: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-- Term: [[Name]] — <1-line context> — Source: [[session-NN|Session NN]] (Scene X)
-
-### Updated Entity Pages
-- [[Name]] — add/update “Session Appearances”
+- Term: [[Silent Silt]] — Pouch/jar that silences a 5-foot radius area — Source: [[s7.5-vip-day|Session 7.5]] (Scene 2)
+- Term: [[Weightless Lift-Stone Trinket]] — Carved lift-stone that cancels equipment weight — Source: [[s7.5-vip-day|Session 7.5]] (Scene 2)
+- Term: [[Mizizi Spore Pod]] — Obscuring mist pod that grounds resonance surges — Source: [[s7.5-vip-day|Session 7.5]] (Scene 4)
 
 ### Player Knowledge Changes
-- Knowledge Tracker: ✅/❌ <bullet>
-
-### Truth / Provenance Notes
-- If something is GM planning (not spoken in-session), tag it as `gm-plan` and keep it out of player-facing sections.
-```
-
-**New NPCs introduced**: [[Finch Gable]] (Snobbish Harmony-born student in Logistics class)  
-**Key reveals**:
-
-- The first week has 7 total classes culminating in a test on Friday.
-- The **Circuit Race (Reszo Race)** is Harmony's premier logistical sport, taking place on Thursday afternoon at the Apex Ring.
-- **Ashblood Genesis Myth**: The Ash-Blood isles were formed by the burning body of a Sky Dragon caught in the loving embrace of a Sea Dragon.  
-**Lucky's Exchange**: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded *real secrets* before handing over the actual answers.  
-**Lomi's changes**: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.  
-**Plot threads opened**: Lucky pulled Lomi, Ignatius, and Iggy into a private "interrogation chamber" side room to discuss Iggy's mysterious test receipt before handing over the answers.
+- Knowledge Tracker: ✅ Britt and Aggie boarded early, connecting with Great Aunt Angela Galaspora and Cade Ashveil.
+- Knowledge Tracker: ✅ Great Aunt Angela warned about mycelium stagnation and gave them a Mizizi Spore Pod.
+- Knowledge Tracker: ✅ Feltland node simulated terrain bark rejected the resonance frequency during the race.
 
 ## Session Delta (Session 06: Potatoes and Peas)
 
 ### New / First-Mentioned Entities
-
 - NPC: [[Warden Rovaldi]] — Chief of the Guards at the hangar with a mechanical eye — Source: [[s6-clean|Session 6]] (Scene 2)
 - NPC: [[Jorge]] — Dragonkin student and friend of Valentine — Source: [[s6-clean|Session 6]] (Scene 4)
 - Location: [[Hangar 12]] — Basalt-carved hangar vault containing race builds — Source: [[s6-clean|Session 6]] (Scene 2)
@@ -57,27 +47,24 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - Term: [[Surveyor's Compass]] — Ornate compass found outside the city pointing consistently — Source: [[s6-clean|Session 6]] (Scene 3)
 
 ### Updated Entity Pages
-
-- [[Valentine Sterling]] — Added details of his cafeteria mapping, feelings of heritage pressure, and the airship invite.
-- [[Lyra Castellan]] & [[Ludo Castellan]] — Added their courtyard and cafeteria interactions, including Lomi blocking Lyra and Iggy throwing toast.
-- [[Pip]] & [[Bramble]] — Added courtyard and cafeteria appearances (food sharing, grass smoothing).
-- [[Finch Gable]] — Added alleyway enforcer trade spying activities.
-- [[Ember]] — Added Hangar 12 detour appearance, deal for a future favor, and Ash Reds faction alignment details.
-- [[alistair-rook|Alistair Rookwood]] — Added Hangar 12 detour appearance, pre-heating help, and explanation of rig design.
+- [[Valentine Sterling]] — Cafeteria mapping, feelings of heritage pressure, and the airship invite.
+- [[Lyra Castellan]] & [[Ludo Castellan]] — Cafeteria interactions, including Loami blocking Lyra and Iggy throwing toast.
+- [[Pip]] & [[Bramble]] — Cafeteria appearances (food sharing, grass smoothing).
+- [[Finch Gable]] — Alleyway enforcer trade spying activities.
+- [[Ember]] — Hangar 12 detour appearance, deal for a future favor, and Ash Reds faction alignment details.
+- [[alistair-rook|Alistair Rookwood]] — Hangar 12 detour appearance, pre-heating help, and explanation of rig design.
 
 ### Player Knowledge Changes
-
 - Knowledge Tracker: ✅ Surveyor's Compass found (+2 to navigation checks, spend 1 Hope to reroll).
 - Knowledge Tracker: ✅ Finch Gable trying to trade secrets about Valerius (the Radio Host) to guards for hangar access.
 - Knowledge Tracker: ✅ Valentine's team replacement node is locked in Hangar Bay 4 by Warden Rovaldi.
 - Knowledge Tracker: ✅ Valentine invites the group to board the Sterling airship VIP deck to study and watch the race.
 - Knowledge Tracker: ✅ Shatter Stamper rig design is a brutalist defensive crawler built for attrition and blocking, backed by the modernizer Ash Reds.
-- Knowledge Tracker: ✅ Ignatius assisted the crew by pre-warming the engines using his fire and secured a future favor from Ember and Valerius.
+- Knowledge Tracker: ✅ Ignatious assisted the crew by pre-warming the engines using his fire and secured a future favor from Ember and Valerius.
 
 ## Session Delta (Session 05: Cards on the Table)
 
 ### New / First-Mentioned Entities
-
 - NPC: [[Pudge]] — Squad 09 member revealed as an underdog racer in the Reso Race using a Griffin — Source: [[s5-clean|Session 5]]
 - Location: [[Apex Ring]] (Bleachers) — The mile-wide canyon stadium where the Reso Race occurs — Source: [[s5-clean|Session 5]]
 - Term: [[Prism Water]] — Security fluid that reveals identity/role for access control — Source: [[s5-clean|Session 5]]
@@ -85,18 +72,30 @@ New entities, reveals, and changes introduced in the most recent session. Update
 - Term: [[Juxta's Spire]] — A specific lift-stone spire from the city — Source: [[s5-clean|Session 5]]
 
 ### Updated Entity Pages
-
 - [[Lucky]] — Reveal of "anomaly" tracking motivation; Zephyr crush; grog deal.
 - [[Sarge]] — Presence in warehouse; bruised chin.
 - [[Rill]] — Revealed as a racer.
 - [[Valentine Sterling]] — Clarification that his study guide was hypothesized questions.
 
 ### Player Knowledge Changes
-
 - Knowledge Tracker: ✅ Lucky's motivation (tracking anomalies for a Big Score).
 - Knowledge Tracker: ✅ Reso Race arena layout (50/50 land/water) and random spire mechanics.
 - Knowledge Tracker: ✅ Pudge is the underdog; Rill is a racer.
 - Knowledge Tracker: ✅ Prism Water security mechanics.
+
+## Session Delta (Session 04: The First Day of Classes)
+
+### New / First-Mentioned Entities
+- NPC: [[Finch Gable]] — Snobbish Harmony-born student in Logistics class — Source: [[s4-clean|Session 4]]
+
+### Player Knowledge Changes
+- Knowledge Tracker: ✅ The first week has 7 total classes culminating in a test on Friday.
+- Knowledge Tracker: ✅ The Circuit Race (Reszo Race) is Harmony's premier logistical sport, taking place on Thursday afternoon at the Apex Ring.
+- Knowledge Tracker: ✅ Ash-Blood Genesis Myth: The Ash-Blood isles were formed by the burning body of a Sky Dragon caught in the loving embrace of a Sea Dragon.
+- Knowledge Tracker: ✅ Lucky's Exchange: Lucky gave the party Val's 10-Question Study Guide in exchange for stories, but he demanded real secrets before handing over the actual answers.
+- Knowledge Tracker: ✅ Loami's changes: Revealed to be a massive fan of the Circuit Race, having grown up watching and working on the spires.
+- Knowledge Tracker: ✅ Plot threads opened: Lucky pulled Loami, Ignatious, and Iggy into a private "interrogation chamber" side room to discuss Iggy's mysterious test receipt before handing over the answers.
+
 
 ### Truth tiers (RAG safety)
 
@@ -120,6 +119,65 @@ When generating images, videos, or writing vivid descriptions for the Vumbua cam
 7. **The "Clean & Grand" Principle (Aesthetic):** The aesthetic is clean, academic, and stately. Think Oxford stone, pristine white marble, and manicured green ivy integrated into dramatic natural features. Do NOT describe environments as grungy, dirty, soot-choked, or cluttered with messy copper wiring, leaky pipes, or loose, non-functional gears. The steampunk elements are grand, elegant, and clean—best represented by majestic solar galleons, ornate dirigibles, and refined Victorian architecture.
 8. **The Nature of the Loom (Metaphysics):** The Loom is not a sentient god, an AI computer, or an active protagonist. It is an ancient, trusted conduit where the fluid combination of grades (intellectual efforts) and karmic magic naturally flows and pools students into squads. It behaves like water finding its natural level, or sand settling into geometric patterns on a vibrating plate. Squad match readouts are not "computer-generated fortune cookie prophecies," but poetic transcriptions reflecting the natural, combined resonance of the students.
 9. **Harmonics as an Empirical Study (Magic System):** "Harmonics" and resonance are NOT common spellcasting methods or everyday vernacular. Harmony is in a Victorian-esque stage of empirical exploration; they are actively trying to study and understand these forces. Their technology is functional but experimental, subject to human/experimental error, and they are not always "in tune."
+
+---
+
+## Canonical Character Image Tokens (Image Generation)
+
+> **Purpose:** These are the ready-to-paste physical description tokens for each PC for use in image generator prompts. They are pulled directly from the character profile files. **Do not use character names in image prompts — use these tokens instead.**
+> 
+> **These tokens must be re-verified against the profile files at the start of each new session's storyboard.** If a profile has been updated, update these tokens to match.
+
+### Loami (Player: Luke F)
+*Source: `characters/player-characters/loami.md` — Appearance section*
+
+```
+rugged broad-shouldered humanoid male mechanic, short brown hair, brown eyes with a subtle green tint, short beard, perpetually smudged with dark engine grease and soot, wearing a brown woolen flat cap with a tiny Italian flag ribbon, heavy canvas working collar, metallic shoulder pauldrons over his working shirt — appearance of a seasoned blue-collar union worker
+```
+
+> ⚠️ **DO NOT use:** "Octoumba" as a species. Octoumba is the geographical region Loami comes from. He is a half-Earthkin half-human. He is fully humanoid. He is NOT an octopus or aquatic creature.
+
+---
+
+### Iggy (Player: Holly)
+*Source: `characters/player-characters/iggy.md` — Appearance section*
+
+```
+small clay-and-soil-kin mole-like creature of Earthkin origin, body composed of packed dirt and clay, green moss and small plant sprouts growing from the top of his head, giant wide-eyed brown eyes behind oversized round copper goggles filled with protective fluid, extremely light-sensitive and starts steaming in sunlight, wearing a dark oversized heavy wool trench coat
+```
+
+> ⚠️ **DO NOT use:** turtle, shell, stone shell, hard shell. Iggy has NO shell whatsoever. He is a clay mole creature.
+
+---
+
+### Ignatious (Player: John)
+*Source: `characters/player-characters/ignatious.md` — Appearance section*
+
+```
+Ember Islander young male, literal burning flames for hair forming a burning orange crown around his head of dark hair, warm glowing yellow-orange eyes, wearing a dark hooded traveler's cloak, soot-dusted from travels, often carrying a piece of warm glowing molten volcanic stone in his hands
+```
+
+> ⚠️ **DO NOT use:** generic red spiky hair, school uniform, academic robes, or student attire. His hair is literal fire, not red-dyed hair.
+
+---
+
+### Aggie (Player: Christina)
+*Source: `characters/player-characters/aggie.md` — Appearance section*
+
+```
+turtle-mushroom hybrid female of the Mizizi clan, light grey textured turtle-like skin, expressive green eyes, neat shoulder-length white hair adorned with a green leaf crown, wearing a simple white linen dress with vine embroidery, back shell is a vibrant red-and-white spotted Amanita mushroom cap she can retreat fully into, natural moss and fungal growths
+```
+
+---
+
+### Britt (Player: Sophie)
+*Source: `characters/player-characters/britt.md` — Appearance section*
+
+```
+green-skinned elf-like root-kin female of the Mizizi clan, wild long dreadlocks resembling organic roots and thick hanging vines, wearing a simple sleeveless dark grey tunic, carrying a massive round leaf-woven backpack/pouch on her back that towers over her head, sharp expressive features with plant-kin characteristics
+```
+
+> ⚠️ **Note:** Britt does NOT have a turtle shell. She is a root-kin/elf-like plant character. Aggie has the mushroom shell.
 
 ---
 
@@ -162,8 +220,8 @@ These are the **correct** spellings. Transcription errors are common — always 
 | ------------ | -------------- | ---------------------------------------------- | ------ | ------------------------------------------ |
 | **Sophie**   | **Britt**      | Mizizi (gray fungal-turtle)                    | Gold   | `characters/player-characters/britt.md`    |
 | **Kristina** | **Aggie**      | Mizizi (red-and-white spotted mushroom-turtle) | Silver | `characters/player-characters/aggie.md`    |
-| **John**     | **Ignatius**   | Ash-Blood (Ember Islander)                     | Silver | `characters/player-characters/ignatius.md` |
-| **Luke F**   | **Lomi**       | Harmony-born (Octoumba, Iron-Union)            | Copper | `characters/player-characters/lomi.md`     |
+| **John**     | **Ignatious**   | Ash-Blood (Ember Islander)                     | Silver | `characters/player-characters/Ignatious.md` |
+| **Luke F**   | **Loami**       | Harmony-born (Octoumba, Iron-Union)            | Copper | `characters/player-characters/Loami.md`     |
 | **Holly**    | **Iggy**       | "Earthkin" (secretly Trench-Kin)               | Gold   | `characters/player-characters/iggy.md`     |
 
 
@@ -201,7 +259,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **07: The Bathysphere** | Captain Barnacle (Cpt), Pressure, Depth                              | `captain-barnacle.md`, `pressure.md`, `depth.md`                  |
 | **08: The Legacy**      | Percival Vane-Smythe III (Cpt), Lady Glimmer, Baron Bolt             | `percival-vane-smythe-iii.md`, `lady-glimmer.md`, `baron-bolt.md` |
 | **09: The Ablative**    | Sarge (Cpt, Rust Tier), Lucky, Pudge                                 | `sarge.md`, `lucky.md`, `pudge.md`                                |
-| **Block 99-Piston**     | Ratchet, Soot (Lomi's roommates)                                     | `ratchet.md`, `soot.md`                                           |
+| **Block 99-Piston**     | Ratchet, Soot (Loami's roommates)                                     | `ratchet.md`, `soot.md`                                           |
 
 
 *All NPC files are in `characters/npcs/*`
@@ -218,7 +276,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Valentine Sterling Sr.** | Legendary Explorer, Father of Valentine, Uncle of Valerius | `valentine-sterling-sr.md` |
 | **Lady Glissade**          | Harmony Noble                                              | `lady-glissade.md`         |
 | **Valerius Sterling**     | Radio Host, Sterling Family                                | `valerius-sterling.md`    |
-| **Ember**                  | Ash-Blood student, Ignatius's cousin, modernizer           | `ember.md`                 |
+| **Ember**                  | Ash-Blood student, Ignatious's cousin, modernizer           | `ember.md`                 |
 | **Tommy**                  | Gnome clerk (power room, Session 2.5)                      | `tommy.md`                 |
 | **Lucina**                 | Dwarf maintenance (power room, Session 2.5)                | `lucina.md`                |
 | **Marla**                  | Human who failed out (power room, Session 2.5)             | `marla.md`                 |
@@ -238,7 +296,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **House Vox (The Spark)**     | Energy, Crystal Batteries | Serra Vox is the runaway daughter       |
 | **House Sterling (The Sail)** | Trade, Logistics          | Sterling Sr. discovered Mizizi          |
 | **House Gilded (The Vault)**  | Treasury, Banking         | Originally built Chime Spires           |
-| **Iron-Union**                | Engines, Boilers          | Lomi is a member (Diamond Union subset) |
+| **Iron-Union**                | Engines, Boilers          | Loami is a member (Diamond Union subset) |
 | **Scrivener Guild**           | Knowledge, Maps           | Decoded integration mechanics           |
 | **The Verdant Trust**         | Agriculture               | Less relevant on frontier               |
 | **High-Justiciars**           | Law, Balance              | (The Scales)                            |
@@ -252,7 +310,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | Clan                            | Node Role | Integration Status | Key Members                 |
 | ------------------------------- | --------- | ------------------ | --------------------------- |
 | **Mizizi** (Root-Kin)           | Memory    | 15% (stalled)      | Britt, Aggie                |
-| **Ash-Bloods** (Ember-Kin)      | Power     | 100% (24 mo ago)   | Ignatius, Ember, Lady Ignis |
+| **Ash-Bloods** (Ember-Kin)      | Power     | 100% (24 mo ago)   | Ignatious, Ember, Lady Ignis |
 | **Trench-Kin** (Earthkin)       | Resources | 0% (uncontacted)   | Iggy (secret)               |
 | **Renali** (Air Clan)           | Vision    | 0% (uncontacted)   | Zephyr (exchange)           |
 | **Wadi** (River Clan)           | Life      | Unknown            | Rill (secret identity)      |

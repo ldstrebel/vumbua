@@ -37,7 +37,7 @@ Here is a revised version of the Captains' dialogue with added world-building, n
 
 To further weave in the [[Session 4 plan]], here are a few ways these lines help your players:
 
-- **The Ash-Blood Mystery:** By having Scorch mention a "frequency mask," you give [[Ignatius]] a direct lead on why his homeland's integration was so low-yield (~20 amps). It suggests the power is there, just "hidden."
+- **The Ash-Blood Mystery:** By having Scorch mention a "frequency mask," you give [[ignatious]] a direct lead on why his homeland's integration was so low-yield (~20 amps). It suggests the power is there, just "hidden."
 - **The Mizizi Connection:** Iron-Hide mentioning "Vitruvian readings" and "Kinetic-Echoes" in the forest gives [[Britt]] and [[Aggie]] a mechanical/scientific way to look at their home's "magic." It also sets up the danger of the hallucinations mentioned in the [[Session 4 plan#Finding Rill|Finding Rill]] section.
 - **Node Mechanics:** Mentioning **lavsidian** (Speed/Overclock), **Vitruvian** (Sync/Duration), and **Kinetic-Echo** (Evasion/Phasing) reinforces the "Battery Lesson" from the Resonance Race. It makes the "magic" feel like a tangible resource they need to manage.
 - **The Loom Prophecies:** You can tie the Captains' bets to the **Loom one-liners** you're drafting. For example, if a PC gets the line *"The fire that doesn't burn feeds the root that doesn't grow,"* they might realize it refers to Scorch's "True Flame" or Iron-Hide's "Deep-Pulse."
@@ -48,11 +48,11 @@ Based on your plan, here are some "fortune-cookie" prophecies to hand out after 
 
 | PC | Loom One-Liner |
 |---|---|
-| **[[Ignatius]]** | "The spark that seeks the sun often forgets the hearth." |
+| **[[ignatious]]** | "The spark that seeks the sun often forgets the hearth." |
 | **[[Iggy]]** | "A full battery is a silent mind; seek the hum between the notes." |
 | **[[Britt]]** | "The stone remembers the leaf, but the leaf has forgotten the wind." |
 | **[[Aggie]]** | "To guide the flow, one must first admit they are the river." |
-| **[[Lomi]]** | "The strongest weld is the one made under the most pressure." |
+| **[[loami]]** | "The strongest weld is the one made under the most pressure." |
 [Timestamp: 2026/03/05 20:34:08]
 
 **user**: dont anchor on the anonmoly - that's not known to the world necessarily
@@ -82,7 +82,7 @@ Here is the revised script with the "Anomaly" removed and replaced with more "fr
 To help the characters connect these lines to the [[Session 4 plan]], here are some additional details you can drop during the session:
 
 - **The lavsidian High-Stream (Scorch's Bet):**
-    - **The Hook:** This appeals to characters like [[Ignatius]] or anyone interested in the **Iron-Union**. 
+    - **The Hook:** This appeals to characters like [[ignatious]] or anyone interested in the **Iron-Union**. 
     - **The Discovery:** If Scorch is right, it means the "speed" nodes (lavsidian) aren't just on the ground; they form atmospheric "rivers." This would revolutionize how the Sky-Spires communicate.
     - **The Risk:** High-altitude resonance is notoriously unstable, leading to "Battery-Bleed" or engine meltdowns.
 

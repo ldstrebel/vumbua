@@ -49,12 +49,12 @@ Have everyone roll a **Resilience Check** (or Instinct if they are "light slee
 Before Track Assignment, the party needs to execute their plan: track down [[Lucky]] to get the "study guide" that Valentine sold him. 
 
 **The Setup:**
-- The party has Azor's stolen pocket watch and a highly embellished story of Lomi "heroically" breaking the ribs of an attacker.
+- The party has Azor's stolen pocket watch and a highly embellished story of Loami "heroically" breaking the ribs of an attacker.
 - Lucky is likely found near the breakfast halls or the courtyard, trading last-minute favors and taking bets on the Resonance Race.
 
 **The Negotiation:**
 - Lucky is a hustler. He doesn't give anything away for free. The study guide is valuable, especially right before the exam.
-- **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Lomi's new reputation as a rib-breaker.
+- **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Loami's new reputation as a rib-breaker.
 - **The Catch:** If they successfully intimidate him, Lucky might hand it over but remember the slight. If they barter, he'll gladly take the watch but might try to upsell them on something else.
 - The "study guide" contains 10 annotated questions from Val, some of which Val noted were fundamentally flawed but useful.
 - For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[world/exam/GenEd_-_Exploration101_survey.json]].
@@ -116,11 +116,11 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 
 | PC | Likely Track | Why | Tension |
 |---|---|---|---|
-| **[[Ignatius]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
+| **[[ignatious]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
 | **[[Iggy]]** | Harmonics | Already mentored by Kante, technical genius | Will Kante pull strings to get him? Does Iggy even understand what he's signing up for? |
 | **[[Britt]]** | Verdant Studies or Pathfinder | Mizizi connection to living systems | Tension between studying *what she is* vs. blazing her own trail |
 | **[[Aggie]]** | Verdant Studies or Shadow Ops | Mizizi ecology knowledge, practical wisdom | She may resist being "studied" — Shadow Ops lets her be an agent, not a specimen |
-| **[[Lomi]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
+| **[[loami]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
 
 ---
 
@@ -194,19 +194,19 @@ As they go through this montage, give them their "First Week Reward" based on wh
 
 ---
 
-### GOING TO LUNCH Lomi's enhthusiams earned the node descriptions:
+### GOING TO LUNCH Loami's enhthusiams earned the node descriptions:
 
 ---
 
 ## What Actually Happened (From Transcript)
 
-*   **Morning Routines:** Iggy tried all the muffins. Lomi stressed about the upcoming exam. Ignatius planned to find Lucky for the study guide.
-*   **Logistics Class:** Instructor Hallow was intense. He threw a piece of chalk that perfectly tracked and hit Ignatius due to his low Evasion score.
-*   **New Rival:** Lomi tried to cheat off a well-dressed student named **Finch Gable**, who rudely refused and insulted Lomi.
-*   **The Circuit Race:** The party learned about the upcoming Reszo Race. Lomi fangirled hard over it, revealing he grew up watching and working on the spires in Harmony.
+*   **Morning Routines:** Iggy tried all the muffins. Loami stressed about the upcoming exam. ignatious planned to find Lucky for the study guide.
+*   **Logistics Class:** Instructor Hallow was intense. He threw a piece of chalk that perfectly tracked and hit ignatious due to his low Evasion score.
+*   **New Rival:** Loami tried to cheat off a well-dressed student named **Finch Gable**, who rudely refused and insulted Loami.
+*   **The Circuit Race:** The party learned about the upcoming Reszo Race. Loami fangirled hard over it, revealing he grew up watching and working on the spires in Harmony.
 *   **Trading with Lucky:** The party found Lucky that night to get Val's study guide. Lucky demanded secrets in exchange.
-    *   Lomi told the story of getting Val drunk and stealing his golden celestial die.
-    *   Ignatius told a beautifully improvised, millennia-old creation myth about the Sky Dragon and Sea Dragon forming the Ash-Blood isles.
+    *   Loami told the story of getting Val drunk and stealing his golden celestial die.
+    *   ignatious told a beautifully improvised, millennia-old creation myth about the Sky Dragon and Sea Dragon forming the Ash-Blood isles.
 *   **The Cliffhanger:** Lucky gave them the raw 10-question guide but demanded *real* secrets for the answers. He noticed Iggy's strange inventions and the gold entrance exam receipt. Seeing the receipt, Lucky's demeanor shifted drastically—not just because of the gold, but because he could immediately tell Iggy was hiding massive secrets. He pulled the trio into a private "interrogation chamber" to talk business.
 
 ---

@@ -44,4 +44,4 @@ Alistair pilots **The Ironclad** (Team 1). His strategy is simple: strike the fi
 ## Session Appearances
 
 ### Session 6
-- **Hangar Detour:** Present in the Shatter Stamper bay checking diagnostic logs on **The Ironclad**. He welcomed Ignatius's help in pre-heating the engines and explained that the rig's brutalist, maneuver-limiting design was built for attrition and bottlenecking rather than flashy speed.
+- **Hangar Detour:** Present in the Shatter Stamper bay checking diagnostic logs on **The Ironclad**. He welcomed ignatious's help in pre-heating the engines and explained that the rig's brutalist, maneuver-limiting design was built for attrition and bottlenecking rather than flashy speed.

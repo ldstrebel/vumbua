@@ -154,14 +154,14 @@ Val's cousin, **[[valerius-sterling|Valerius Sterling]]**, came by after finishi
 
 | # | Statement | Truth/Lie | Weight | GM Notes |
 |---|---|---|---|---|
-| 1 | *"The clean fire of Harmony — the crystal energy — it feels more alive to me than the heat of the volcano ever did. The first time I held a battery, I felt... home."* | **TRUTH** | 🔴 Big | This is her deepest truth and the core of her character tension. She means it. Her voice is quiet. If [[Ignatius]] is at the table, this lands like a bomb. |
+| 1 | *"The clean fire of Harmony — the crystal energy — it feels more alive to me than the heat of the volcano ever did. The first time I held a battery, I felt... home."* | **TRUTH** | 🔴 Big | This is her deepest truth and the core of her character tension. She means it. Her voice is quiet. If [[ignatious]] is at the table, this lands like a bomb. |
 | 2 | *"Before I came to Vumbua, I'd already started dressing like a Harmony citizen. I was ashamed of fitting in here more than I ever fit in at home."* | **TRUTH** | 🟡 Mid | She's been a modernizer since before the Academy. This isn't new — it's who she's always been. The shame is real. |
 | 3 | *"I work for Valerius because he feeds me well. Best meals I've ever had. That's the whole arrangement."* | **LIE** | 🟡 Mid | She works for Valerius because she *admires* him — his command of words, his confidence, his ability to be Harmony-passing. The food is fine. The real payment is belonging. |
 | 4 | *"Back on the Isles, I set fire to a warehouse full of traditional fire-oil. On purpose. As a statement."* | **LIE** | 🟠 Fun | Pure invention — Ember is rebellious in spirit but not destructive. She tells this lie because she wants to seem bold and dangerous. The delivery is too intense. Easy to catch. |
-| 5 | *"My cousin—"* (she glances at [[Ignatius]]) *"—used to catch salamanders and name them after types of rock. He had one called Igneous. It was the ugliest."* | **TRUTH** | 🟢 Light | A childhood memory. Endearing. Humanizes both Ember and Ignatius. If Ignatius is here, he'll either confirm or deny — either way it's gold. |
+| 5 | *"My cousin—"* (she glances at [[ignatious]]) *"—used to catch salamanders and name them after types of rock. He had one called Igneous. It was the ugliest."* | **TRUTH** | 🟢 Light | A childhood memory. Endearing. Humanizes both Ember and ignatious. If ignatious is here, he'll either confirm or deny — either way it's gold. |
 | 6 | *"Valerius told me that if I bring him a good enough story tonight, he'll give me my own segment on the show. 'Ember's Embers.' Three minutes, once a week."* | **TRUTH** | 🟡 Mid | This is real — and it reveals her ambition. She doesn't just want to report for Valerius. She wants her own voice. The segment name is embarrassing and she knows it. |
 
-> **Recommended order:** Start with #5 (light, connects to Ignatius), then #4 or #3 (lies), build to #1 or #2 (emotional gut-punches).
+> **Recommended order:** Start with #5 (light, connects to ignatious), then #4 or #3 (lies), build to #1 or #2 (emotional gut-punches).
 
 ---
 
@@ -177,13 +177,13 @@ Val's cousin, **[[valerius-sterling|Valerius Sterling]]**, came by after finishi
 - Val challenges PCs to play — a chance to bond or rival with him.
 - The games are **mechanical tutorials** disguised as roleplay. By the end, players understand Hope/Fear dice, Stress, contested rolls, and spending Hope.
 - If PCs ask about the exam, he'll share his analysis of Lucky's test between rounds.
-- Callback to Session 1: He remembers [[Ignatius]] from the courtyard handshake incident and may reference it—awkward or playful depending on how PCs approach.
+- Callback to Session 1: He remembers [[ignatious]] from the courtyard handshake incident and may reference it—awkward or playful depending on how PCs approach.
 
 ---
 
 #### [[ember|Ember]] — Valerius's Reporter *(First On-Screen Appearance)*
 
-Ember is an [[Ash-Bloods|Ash-Blood]] student and [[Ignatius]]'s childhood cousin. She is attending the Celestial Lounge as a field reporter for [[valerius-sterling|Valerius Sterling]]'s radio show. She is well aware that her boss is currently asleep in the East Parlor, having been there when the disastrous game of Crown & Ruin occurred.
+Ember is an [[Ash-Bloods|Ash-Blood]] student and [[ignatious]]'s childhood cousin. She is attending the Celestial Lounge as a field reporter for [[valerius-sterling|Valerius Sterling]]'s radio show. She is well aware that her boss is currently asleep in the East Parlor, having been there when the disastrous game of Crown & Ruin occurred.
 
 **Why this works for Ember:**
 - She's an Ash-Blood who loves the majesty and lore of Harmony—fascinated by the culture, not resentful of it.
@@ -195,7 +195,7 @@ Ember is an [[Ash-Bloods|Ash-Blood]] student and [[Ignatius]]'s childhood cousin
 - She's not hiding—she's openly working. Students may or may not know she reports to Valerius.
 
 **Player Engagement:**
-- [[Ignatius]] encountering his cousin working for a Harmony radio host could be a charged moment—does he see it as betrayal or pragmatism?
+- [[ignatious]] encountering his cousin working for a Harmony radio host could be a charged moment—does he see it as betrayal or pragmatism?
 - She represents the cultural divide within the [[Ash-Bloods]]: modernizers vs. traditionalists.
 - She may try to interview the PCs for the show—giving players a choice about their public image.
 
@@ -213,7 +213,7 @@ Valerius physically came to the Celestial Lounge after his late-night broadcast,
 
 1. **Arrival** — PCs enter the Celestial Lounge as it's winding down. Describe the fading glamour, sleepy students, emptying tables.
 2. **Valentine's Invitation** — Val spots the party and tries to rope them into playing his game. He's friendly, energetic, slightly desperate for company.
-3. **Ember Encounter** — PCs notice (or are noticed by) Ember. She's taking notes. If Ignatius is present, this is a family reunion moment.
+3. **Ember Encounter** — PCs notice (or are noticed by) Ember. She's taking notes. If ignatious is present, this is a family reunion moment.
 4. **Exam Talk** — Conversation may drift to tomorrow's exams. Val shares his take on Lucky's test answers. Ember might fish for a quote.
 5. **Winding Down** — The Lounge empties further. PCs decide when to leave—setting up the transition to the Ambush.
 
@@ -369,5 +369,5 @@ Based on Daggerheart SRD p76-77 (Jagged Knife adversaries), reskinned:
 
 - **The Lounge:** The party played Crown & Ruin with Valentine. Valentine got drunk and revealed he sold his exam "study guide" to Lucky.
 - **The Ambush:** Britt spotted Azor, Zyykl, and Tus and approached them. Azor led Britt into an alley where she was ambushed. She took heavy damage, used all her armor slots, and lost her test receipt but fought back to protect her heirloom petrified acorn necklace.
-- **The Interrogation:** Iggy, Lomi, and Aggie arrived. Britt pinned Azor and took his pocket watch as compensation for the mugging. Lomi, disgusted by Azor's lack of remorse, brutally punched the defeated Settikan in the gut, breaking his rib.
-- **The Plan:** Tomorrow, the party plans to track down Lucky and use Azor's pocket watch and the embellished story of Lomi breaking ribs to leverage/intimidate him into handing over the study guide.
+- **The Interrogation:** Iggy, Loami, and Aggie arrived. Britt pinned Azor and took his pocket watch as compensation for the mugging. Loami, disgusted by Azor's lack of remorse, brutally punched the defeated Settikan in the gut, breaking his rib.
+- **The Plan:** Tomorrow, the party plans to track down Lucky and use Azor's pocket watch and the embellished story of Loami breaking ribs to leverage/intimidate him into handing over the study guide.

@@ -39,12 +39,12 @@ aliases:
 > **Design notes:** Ember is sharp-eyed and physically quick (+3 Instinct, +2 Agility) — she reads people and reacts fast. But her social skills betray her (−1 Presence) — she's too intense, too earnest, and bad at performing. Her lower Stress threshold reflects how easily her composure cracks under social pressure.
 
 ## Overview
-Ember is an Ash-Blood student and [[Ignatius]]'s childhood cousin. She represents the **modernizer** faction among the [[Ash-Bloods]]---those who embrace Harmony's technology and prefer "clean" crystal battery energy over traditional organic fire.
+Ember is an Ash-Blood student and [[ignatious]]'s childhood cousin. She represents the **modernizer** faction among the [[Ash-Bloods]]---those who embrace Harmony's technology and prefer "clean" crystal battery energy over traditional organic fire.
 
 She works as a field reporter for [[valerius-sterling|Valerius Sterling]]'s radio show, attending social events and gathering stories. She's angling for her own segment: *"Ember's Embers"* — three minutes, once a week. The name is embarrassing and she knows it.
 
 ## The Cultural Divide
-Ember is excited to use Harmony's batteries and refuses to touch organic fire ever again. This puts her in direct opposition to traditionalists like [[Ignatius]], who views her stance as disrespectful to Ash-Blood heritage.
+Ember is excited to use Harmony's batteries and refuses to touch organic fire ever again. This puts her in direct opposition to traditionalists like [[ignatious]], who views her stance as disrespectful to Ash-Blood heritage.
 
 Before coming to Vumbua, she had already started dressing like a Harmony citizen. She was ashamed of fitting in with Harmony more than she ever fit in at home — and that shame is its own secret.
 
@@ -62,7 +62,7 @@ Before coming to Vumbua, she had already started dressing like a Harmony citizen
 
 | Character | Relationship |
 |-----------|-------------|
-| **[[Ignatius]]** | Childhood cousin. He considers her rejection of fire disrespectful to their heritage. She remembers him catching salamanders and naming them after radio hosts. |
+| **[[ignatious]]** | Childhood cousin. He considers her rejection of fire disrespectful to their heritage. She remembers him catching salamanders and naming them after radio hosts. |
 | **[[Lady Ignis]]** | Likely aligned with Ignis's pragmatic pro-integration stance. |
 | **[[valerius-sterling\|Valerius Sterling]]** | Her employer and, secretly, her role model. She admires his command of language and his confidence. She tells people she works for him "because he feeds her well" — the truth is she works for him because he makes her feel like she belongs. |
 | **[[valentine-sterling\|Valentine Sterling]]** | Social companion at Academy events. She looks at him differently when he shows vulnerability. |
@@ -70,9 +70,15 @@ Before coming to Vumbua, she had already started dressing like a Harmony citizen
 ## Session Appearances
 
 ### Session 6
-- **Hangar Detour:** Found in the Hangar 12 area working on the pit crew for Shatter Stamper. She intercepted Ignatius, dragging him into an alcove to ask for his help. She explained that their rig (**The Ironclad**) was short on Ash-Blood energy and needed heat to pre-warm the engine block.
-- **The Deal:** Agreed to a future favor in exchange for Ignatius's assistance in heating the engines.
+- **Hangar Detour:** Found in the Hangar 12 area working on the pit crew for Shatter Stamper. She intercepted ignatious, dragging him into an alcove to ask for his help. She explained that their rig (**The Ironclad**) was short on Ash-Blood energy and needed heat to pre-warm the engine block.
+- **The Deal:** Agreed to a future favor in exchange for ignatious's assistance in heating the engines.
 - **Ash Reds Backing:** Revealed that the modernizer Ash Reds faction (backed by Matriarch Lady Ignis) is supporting this heavy, defensive rig to show Harmony that they can build advanced mechanical systems.
+
+### Session 7
+- Present on the Zephyr's promenade deck as [[Cade Ashveil]]'s campus liaison.
+- Cade described her as having been "great" showing him around Vumbua since his arrival (~3 days prior).
+- Reacted to Loami's engine grease drink with a visible grimace, though the ambassador Cade kept a straight face.
+- Nodded from the corner after ignatious and Cade exchanged a mutual favor agreement.
 
 ## Source References
 
@@ -86,7 +92,7 @@ Before coming to Vumbua, she had already started dressing like a Harmony citizen
 > The following information is not known to the player characters.
 
 ### Core Tension
-Ember's deepest truth is that Harmony's clean energy feels more alive to her than the Ash-Blood volcano ever did. When she says this, she means it — and if [[Ignatius]] hears it, it's a bomb.
+Ember's deepest truth is that Harmony's clean energy feels more alive to her than the Ash-Blood volcano ever did. When she says this, she means it — and if [[ignatious]] hears it, it's a bomb.
 
 ### The Valerius Arrangement
 She tells people she works for Valerius because he feeds her well. The real reason is belonging — Valerius represents everything she wants to be: Harmony-passing, confident, commanding. The food is fine. The real payment is identity.
@@ -105,6 +111,6 @@ She tells people she works for Valerius because he feeds her well. The real reas
 | 2 | *"Before I came to Vumbua, I'd already started dressing like a Harmony citizen. I was ashamed of fitting in here more than I ever fit in at home."* | **TRUTH** | 🟡 Mid |
 | 3 | *"I work for Valerius because he feeds me well. Best meals I've ever had. That's the whole arrangement."* | **LIE** | 🟡 Mid |
 | 4 | *"Back on the Isles, I set fire to a warehouse full of traditional fire-oil. On purpose. As a statement."* | **LIE** | 🟠 Fun |
-| 5 | *"My cousin—"* (glances at [[Ignatius]]) *"—used to catch salamanders and name them after types of rock. He had one called Igneous. It was the ugliest."* | **TRUTH** | 🟢 Light |
+| 5 | *"My cousin—"* (glances at [[ignatious]]) *"—used to catch salamanders and name them after types of rock. He had one called Igneous. It was the ugliest."* | **TRUTH** | 🟢 Light |
 | 6 | *"Valerius told me that if I bring him a good enough story tonight, he'll give me my own segment on the show. 'Ember's Embers.' Three minutes, once a week."* | **TRUTH** | 🟡 Mid |
 

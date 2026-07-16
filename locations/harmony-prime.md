@@ -53,7 +53,7 @@ The bureaucratic engine of the empire. They don't own the resources, but they co
 ### The Iron Union (The Lower Spires & Foundations)
 The labor force that keeps the 8 million people alive. They live in the "Rust" and "Copper" tiers where the air is thick with steam.
 
-- **The Grinders**: A massive labor union of boiler-workers, engineers, and maintenance crews. They are the ones who actually handle the **lavsidian** and the heavy machinery. [[Lomi]] would have strong ties to this culture.
+- **The Grinders**: A massive labor union of boiler-workers, engineers, and maintenance crews. They are the ones who actually handle the **lavsidian** and the heavy machinery. [[loami]] would have strong ties to this culture.
 - **The Silt-Walkers**: A faction of spies and couriers who use "Silent Silt" from [[Nstyl]] to move through the city unheard. They are the primary source of the "Academic Secrets" that [[ludo-castellan]] prizes.
 - **The Battery-Scavengers**: A desperate underclass that hunts for "leaking" or discarded crystal batteries in the city's foundations. They are technically illegal but essential for the city's waste management.
 

@@ -1,6 +1,6 @@
 # Scene 1: The Bonfire (Block 99)
 
-**Setting:** Night. The industrial sector around Block 99 (Copper/Worker dorms). A geothermal plant with steam stacks forms the backdrop. The "Bonfire" is a burning pile of construction scraps in a pit---the students managed the airflow but couldn't light it until [[Ignatius]] arrived. Far above, the lights of the Sky-Spire shimmer where the Gold-tier galas are held. Down here, the air smells of smoke, engine grease, and possibility.
+**Setting:** Night. The industrial sector around Block 99 (Copper/Worker dorms). A geothermal plant with steam stacks forms the backdrop. The "Bonfire" is a burning pile of construction scraps in a pit---the students managed the airflow but couldn't light it until [[ignatious]] arrived. Far above, the lights of the Sky-Spire shimmer where the Gold-tier galas are held. Down here, the air smells of smoke, engine grease, and possibility.
 
 **Arrived via:** [[Serra Vox]]'s invitation at the crane (end of Session 1).
 
@@ -10,9 +10,9 @@
 
 ## The Scene
 
-The bonfire roars thanks to Ignatius's True Flame---the first real fire most Harmony students have ever seen. It casts dancing orange shadows instead of the steady teal glow of Safe-Flame. Students are drawn to it like moths. The party is at the center of attention whether they want to be or not.
+The bonfire roars thanks to ignatious's True Flame---the first real fire most Harmony students have ever seen. It casts dancing orange shadows instead of the steady teal glow of Safe-Flame. Students are drawn to it like moths. The party is at the center of attention whether they want to be or not.
 
-**Opening Beat:** Serra Vox is hovering near the party, nervously trying to play host. She keeps introducing the PCs to people, calling them "my friends from the Island." Britt's hostility and Ignatius's distrust make this increasingly awkward.
+**Opening Beat:** Serra Vox is hovering near the party, nervously trying to play host. She keeps introducing the PCs to people, calling them "my friends from the Island." Britt's hostility and ignatious's distrust make this increasingly awkward.
 
 **Ambient Details:**
 - ~40 students milling around, mostly Copper and Silver rank
@@ -20,7 +20,7 @@ The bonfire roars thanks to Ignatius's True Flame---the first real fire most Har
 - Steam vents hiss periodically, momentarily drowning out conversation
 - Someone rigged a crude speaker playing scratchy music from a crystal
 - The bonfire pit has been dug with mathematical precision (optimal airflow, as Cassius described)
-- Lomi's Block 99 dorm is visible behind the gathering---he's essentially hosting
+- Loami's Block 99 dorm is visible behind the gathering---he's essentially hosting
 
 ---
 
@@ -33,9 +33,9 @@ The bonfire roars thanks to Ignatius's True Flame---the first real fire most Har
 | [Serra Vox](#serra-vox) | Hovering near the party | "I'm an ally. Is that okay to say?" |
 | [Cassius Thorne](#cassius-thorne) | Hiding in the shadows near the pit | A well-dressed boy who shouldn't be here |
 | [Lucky](#lucky) | Working the crowd | Selling "study aids" and contraband |
-| [Sarge](#sarge) | Drinking alone by the steam vents | The veteran who knows Lomi |
+| [Sarge](#sarge) | Drinking alone by the steam vents | The veteran who knows Loami |
 | [Nyx](#nyx) | At the edge of the firelight | Watching everyone, saying nothing |
-| [Kojo](#kojo) | Tending the fire with Ignatius | A Mizizi Silver-rank who works the Help Desk |
+| [Kojo](#kojo) | Tending the fire with ignatious | A Mizizi Silver-rank who works the Help Desk |
 | [The Bonfire Itself](#the-bonfire) | Center | It's behaving strangely... |
 
 **Exploration Options:**
@@ -55,19 +55,19 @@ Serra is still buzzing from meeting the party at the crane. She's planted hersel
 > "So I was thinking---and please tell me if this is weird---but what if we formed a study group? I mean, not a *formal* one, obviously. I just think it would be really, really fascinating to compare notes. You know, cross-cultural academic synergy?"
 
 **If players are receptive:**
-> "Can I ask you something? The fire---[[Ignatius]]'s fire---it's *different*, right? It's not Safe-Flame. I've been studying Harmonic Theory for six years and I've never seen anything resonate like that. The frequency is all wrong. It should be chaotic but it's... beautiful?"
+> "Can I ask you something? The fire---[[ignatious]]'s fire---it's *different*, right? It's not Safe-Flame. I've been studying Harmonic Theory for six years and I've never seen anything resonate like that. The frequency is all wrong. It should be chaotic but it's... beautiful?"
 
-**If players are hostile (likely from [[Britt]]/[[Ignatius]]):**
+**If players are hostile (likely from [[Britt]]/[[ignatious]]):**
 > (Deflating) "I'm sorry. I know I'm being a lot. I just... nobody at the Spire parties actually *talks* about anything real. They just compare receipts. You're the first people who seem like you're actually *here* for something."
 
 > [!TIP]
 > **Gain Insight: Harmonic Theory**
-> Serra knows the difference between Geometric (Harmony) and Variance (Wild) magic. She's noticed Ignatius's fire doesn't follow Harmony's frequency patterns. This is the first hint that Wild Magic operates on different physics.
+> Serra knows the difference between Geometric (Harmony) and Variance (Wild) magic. She's noticed ignatious's fire doesn't follow Harmony's frequency patterns. This is the first hint that Wild Magic operates on different physics.
 
 **GM Notes:**
 - Serra is genuinely kind but socially clumsy. She is from House Vox (Gold-tier nobility) but is hiding that from the party. She's assigned to Squad 01 (The Echelon) with [[Valerius Sterling]], who she privately dislikes.
 - If [[Britt]] pushes hard on "what's your deal?", Serra will nervously deflect but drop breadcrumbs: she mentions "the gala" at the Spire (implying she was invited but chose to come here instead).
-- Her notebook contains surprisingly accurate sketches of Ash-Blood fire patterns. She's been observing Ignatius since the intake.
+- Her notebook contains surprisingly accurate sketches of Ash-Blood fire patterns. She's been observing ignatious since the intake.
 
 ---
 
@@ -140,10 +140,10 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 ### Sarge
 *The Veteran (Copper / Warrior / Squad 09)*
 
-[[Sarge]] is sitting on an overturned crate near the steam vents, nursing a flask of something that smells like engine coolant. He recognizes [[Lomi]] from the workers' campfires before the Academy existed.
+[[Sarge]] is sitting on an overturned crate near the steam vents, nursing a flask of something that smells like engine coolant. He recognizes [[loami]] from the workers' campfires before the Academy existed.
 
 **Opening:**
-> (To [[Lomi]] specifically) "Loaves! You made it past Day One. That's more than I can say for about ten thousand of those poor bastards." (Takes a drink) "You kids worry too much about the test. You should worry about what's left of you when the mist takes your legs."
+> (To [[loami]] specifically) "Loaves! You made it past Day One. That's more than I can say for about ten thousand of those poor bastards." (Takes a drink) "You kids worry too much about the test. You should worry about what's left of you when the mist takes your legs."
 
 **If players ask about the mist:**
 > "I worked perimeter detail during construction. Before they put up the fences. There's things out there---in the fog, past where the lights reach. Not animals. Animals run. These things *wait*. They wait until you're scared, and then they come."
@@ -151,7 +151,7 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 **If players ask about his Squad (09):**
 > (Bitter laugh) "Squad 09. 'The Ablative.' You know what ablative means? It means the part of the shield that burns off first to protect the rest. That's us. We go in first, and whatever happens to us tells the Silvers and Golds whether it's safe."
 
-**If Lomi asks about the engines:**
+**If Loami asks about the engines:**
 > "Something's wrong with the boilers, Loaves. I can feel it. The hum's off. Used to be steady---now it stutters. Like a heartbeat skipping. I asked the foreman; he said 'upgrades.' But I've been around engines my whole life. That ain't upgrades. That's something *dying*."
 
 > [!TIP]
@@ -163,12 +163,12 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 > Food is a luxury. Power is life. **Patch the Engine.** Always patch the engine first.
 
 > [!TIP]
-> **Gain Insight: The Boiler Problem** *(Lomi only)*
+> **Gain Insight: The Boiler Problem** *(Loami only)*
 > The engines are stuttering. The official line is "upgrades," but [[Sarge]]---who has worked engines his whole life---says something is dying. This is the first breadcrumb toward [[The Minimum]].
 
 **GM Notes:**
-- Sarge is Lomi's strongest existing relationship at the Academy. They bonded over campfires during the construction phase, before the intake.
-- His insight about the boilers is the first PC-accessible clue about [[The Minimum]]. If Lomi investigates, he can find the cracking containment seals.
+- Sarge is Loami's strongest existing relationship at the Academy. They bonded over campfires during the construction phase, before the intake.
+- His insight about the boilers is the first PC-accessible clue about [[The Minimum]]. If Loami investigates, he can find the cracking containment seals.
 - Sarge's Squad 09 assignment is effectively a death sentence. He knows it. He's drinking because he's already said goodbye.
 
 ---
@@ -236,13 +236,13 @@ A well-dressed boy in a slightly rumpled Academy uniform, crouching behind the b
 ### The Bonfire
 *The Fire Itself*
 
-The bonfire is burning Ignatius's True Flame---Variance (Wild) magic, not Harmony's Safe-Flame. It's behaving strangely.
+The bonfire is burning ignatious's True Flame---Variance (Wild) magic, not Harmony's Safe-Flame. It's behaving strangely.
 
 **What everyone notices:**
 - The fire is orange and red, not teal. It casts *shadows*---real, dancing shadows. Safe-Flame doesn't cast shadows.
 - The heat is different. It's not regulated. Some gusts are scorching; some are gentle. The fire is *alive*.
 
-**What Ignatius notices (Ash-Blood perception):**
+**What ignatious notices (Ash-Blood perception):**
 > The fire is... hungry. It's eating the construction scraps, but it's reaching for something else. The flames lean toward Iggy, then toward the Mizizi students, then back to you. It's tasting the air around each clan member. You've never seen fire do this before.
 
 **What Iggy notices ([[Trench-Kin]] perception):**
@@ -258,7 +258,7 @@ The bonfire is burning Ignatius's True Flame---Variance (Wild) magic, not Harmon
 **GM Notes:**
 - This is the single most important moment of the bonfire. The fire's behavior is the first physical evidence of the Shattered Circuit theory. Three clan members (Ash-Blood, [[Trench-Kin]], Mizizi) are in proximity for the first time, and their Nodes are resonating through them.
 - Do NOT explain this to the players. Let them describe what they're seeing and feeling. If they connect the dots, it's a eureka moment. If they don't, it becomes a mystery to revisit later.
-- If Ignatius tries to control the fire, it resists---but gently. It wants to reach the others.
+- If ignatious tries to control the fire, it resists---but gently. It wants to reach the others.
 
 ---
 
@@ -286,10 +286,10 @@ If a player (likely [[Iggy]]) decides to wander away from the bonfire:
 
 If a player goes to bed early, they get a full night's rest (mechanical benefit for tomorrow's exam). But they dream:
 
-- **[[Ignatius]] dreams:** His volcano, roaring. But the lava is flowing *toward* something, not erupting outward. It's reaching.
+- **[[ignatious]] dreams:** His volcano, roaring. But the lava is flowing *toward* something, not erupting outward. It's reaching.
 - **Iggy dreams:** The pressure of home. But for the first time, the darkness isn't comforting. Something is pushing *back* from below.
 - **[[Britt]]/[[Aggie]] dream:** The Petrified Forest. The trees are humming. Not the usual creaking---humming. Like they're trying to sing a song they've forgotten.
-- **[[Lomi]] dreams:** The boiler room. The gauges are all red. A voice says: "Patch the engine. Patch the engine. Patch the engine." When he reaches for the wrench, his hand passes through it.
+- **[[loami]] dreams:** The boiler room. The gauges are all red. A voice says: "Patch the engine. Patch the engine. Patch the engine." When he reaches for the wrench, his hand passes through it.
 
 ---
 

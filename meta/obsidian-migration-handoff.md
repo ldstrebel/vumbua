@@ -69,7 +69,7 @@ Files use **standard markdown links** with relative paths:
 - **No YAML frontmatter** on most files (only a few session transcripts and workflow files have it)
 - **Aliases** are written inline in NPC profiles as plain text, e.g.:
   ```
-  **Aliases:** Lightning Girl (Ignatius's nickname)
+  **Aliases:** Lightning Girl (ignatious's nickname)
   **Aliases:** Real, Rill, The River-Born
   **Aliases:** Serra Vox, Serra
   ```
@@ -127,7 +127,7 @@ tags:
 **Alias sources** (merge all of these):
 1. The `**Aliases:**` line in each NPC/PC file
 2. The "Common Errors" column in `.agent/workflows/lore-index.md` (canonical spellings table)
-3. Known nicknames from session transcripts (e.g., "[[Ignatius|Lava Boy]]" for [[Ignatius]], "[[Zephyr|Lightning Girl]]" for Zephyr)
+3. Known nicknames from session transcripts (e.g., "[[ignatious|Lava Boy]]" for [[ignatious]], "[[Zephyr|Lightning Girl]]" for Zephyr)
 4. Faction alternate names from the glossary (e.g., [[Mizizi]] = "[[Mizizi|Root-Kin]]" = "[[Mizizi|Deep-Root Clan]]" = "[[Mizizi|Mycelium Clan]]")
 
 **Tag taxonomy** (suggested):
@@ -349,7 +349,7 @@ The **Obsidian Copilot** plugin lets you chat with an AI that has your vault as 
 
 **Usage:**
 - Open the Copilot side panel (ribbon icon or hotkey)
-- Ask questions: "What does [[Ignatius]] know about the power crisis?"
+- Ask questions: "What does [[ignatious]] know about the power crisis?"
 - It retrieves relevant notes and answers with citations
 - You can ask it to draft new content, summarize sessions, or brainstorm plot threads
 
@@ -718,7 +718,7 @@ This section walks through exactly what happens when new lore arrives -- whether
 
 This is a real example. PR #7 processed a lore dump and produced:
 - A rewritten [[Dean Isolde Vane]] profile (85 lines, added GM backstory)
-- A brand new NPC: **Soot** ([[Lomi]]'s roommate)
+- A brand new NPC: **Soot** ([[loami]]'s roommate)
 - Backstory/bond/flaw additions to 7 existing NPCs ([[Sarge]], [[Lucky]], [[Pudge]], [[Pyrrhus]], [[Kojo]], [[Ratchet]], [[Valerius Sterling]])
 - Updated harmony-nodes.md and power-system.md with new GM-only details
 - Updated lore-index.md with new NPC roles
@@ -738,14 +738,14 @@ Here's how each workflow would handle it:
 
 **What works automatically:**
 - All existing `[[wikilinks]]` to updated files (e.g., `[[Dean Isolde Vane]]`) now show the new content on hover/click
-- Backlinks panel updates -- if Soot's page mentions `[[Lomi]]`, Lomi's backlinks now show Soot
+- Backlinks panel updates -- if Soot's page mentions `[[Loami]]`, Loami's backlinks now show Soot
 - Search finds the new content immediately
-- Graph view adds Soot as a new node connected to Lomi, Ratchet, Block 99
+- Graph view adds Soot as a new node connected to Loami, Ratchet, Block 99
 
 **What needs manual attention:**
 - If the AI created Soot's file in standard markdown format (no frontmatter, no wikilinks), you need to:
   1. Add YAML frontmatter with aliases and tags
-  2. Convert inline mentions to wikilinks (e.g., "Lomi" -> `[[Lomi]]`)
+  2. Convert inline mentions to wikilinks (e.g., "Loami" -> `[[Loami]]`)
 - Existing files that mention "Soot" as plain text won't auto-link -- you'd search for "Soot" and add `[[Soot]]` links where appropriate
 - The `Various Complements` plugin helps here: once Soot's page exists, the plugin auto-suggests `[[Soot]]` as you type in other notes
 
@@ -889,8 +889,8 @@ The following is the full list of entities that should be wikilinked. This regis
 |-----------|---------|
 | Britt | -- |
 | Aggie | -- |
-| Ignatius | Lava Boy |
-| Lomi | Lomi Sultano |
+| ignatious | Lava Boy |
+| Loami | Loami Sultano |
 | Iggy | -- |
 
 ### NPCs (45)

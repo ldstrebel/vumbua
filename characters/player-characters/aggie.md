@@ -1,11 +1,12 @@
----
+aliases:
+  - Aggie Galaspora
 tags:
   - pc
   - mizizi
   - silver-rank
 ---
 
-# Aggie
+# Aggie Galaspora
 
 > *"When things stop dying, we start dying."*
 
@@ -18,10 +19,10 @@ tags:
 | **Class** | Daggerheart Character |
 | **Player** | Christina (Kristina) |
 | **Housing** | [[Block 04]] (with [[Britt]]) |
-
+![[Pasted image 20260709171825.png]]
 ## Appearance
 
-A turtle-mushroom hybrid of the [[Mizizi]] clan. Shape-wise turtle, but colors and textures lean heavily fungal — her shell is the **red-and-white spotted mushroom** (like an Amanita cap), which she can retreat fully into. Medium-small eyes. Moss, mycelia, and fungal growths are natural features. She described herself as leaning "on the mushroom side" — softer textures, vibrant coloring distinct from [[Britt]]'s gray/dusty look.
+A turtle-mushroom hybrid of the [[Mizizi]] clan. She has light grey, textured turtle-like skin, expressive green eyes, and neat shoulder-length white hair adorned with a green leaf crown. She wears a simple white linen dress with vine embroidery. Her shell is a vibrant **red-and-white spotted mushroom** (Amanita cap) which she can retreat fully into. Moss, mycelia, and fungal growths are natural features.
 
 ## Personality
 
@@ -83,6 +84,9 @@ Aggie formed a study group with Pip and Bramble to prepare for the upcoming writ
 ### Session 6 — Courtyard & The Airship Ticket
 Aggie studied in the courtyard with Pip and Bramble. Later, in the cafeteria, she accompanied Britt to approach Valentine Sterling. They successfully secured VIP passes to the family airship Zephyr for the group, opening a new avenue to study and witness the Reso Race from the skies.
 
+### Session 7.5 — The VIP Mingle & Spore Pod
+Aggie boarded the Zephyr VIP airship early with Britt. On the VIP deck, she connected with Great Aunt Angela Galaspora, learning that the mycelium forest's stagnation is spreading quickly, and received a compressed Mizizi Spore Pod. She also witnessed the simulated Feltland terrain anomalies rejecting the resonance frequency.
+
 ## Session Appearances
 
 ### [[session-00|Session 0]] — Character Creation
@@ -115,6 +119,17 @@ Aggie studied in the courtyard with Pip and Bramble. Later, in the cafeteria, sh
 - Studied in the courtyard of Block 04 with Pip and Bramble, witnessing Bramble smoothing the grass and Pip jumping on it.
 - Accompanied Britt in approaching Valentine and Jorge in the cafeteria, securing VIP airship deck passes for the party.
 
+### [[s7-clean|Session 7]] — Race Day
+- Remained in Block 04 preparing for the exams while the boys visited the airship engine rooms.
+
+### [[s7.5-clean|Session 7.5]] — Britt & Aggie's VIP Day
+- Explored the Colonnade fairgrounds, purchasing Silent Silt or Settikan Prism-Infused Lemonade.
+- Boarded the Zephyr airship early and mingled on the VIP deck.
+- Met Great Aunt Angela Galaspora, learning of the mycelium stagnation and receiving a compressed Mizizi Spore Pod.
+- Witnessed the Feltland node simulated terrain anomaly rejecting the resonance frequency.
+- Assisted Pip with a truffle heist and helped Bramble with a textbook swap.
+- Returned to the dorms to cram for Friday's exam.
+
 ## Relationships
 
 | Character | Relationship |
@@ -122,6 +137,6 @@ Aggie studied in the courtyard with Pip and Bramble. Later, in the cafeteria, sh
 | **[[Britt]]** | Cousin and fellow [[Mizizi]]. Same year at "turtle camp." The louder half of their shared mission — Aggie observes while Britt confronts. |
 | **[[Serra Vox]]** | Approached Aggie at the bonfire; fascinated but made her uncomfortable ([[session-02|Session 2]]) |
 | **[[Rill]]** | Recognized the Mizizi cousins; invited them to visit ([[session-02|Session 2]]) |
-| **[[Ignatius]]** | Fellow candidate — met at Vumbua |
-| **[[Lomi]]** | Fellow candidate — met at Vumbua |
+| **[[ignatious]]** | Fellow candidate — met at Vumbua |
+| **[[loami]]** | Fellow candidate — met at Vumbua |
 | **[[Iggy]]** | Fellow candidate — met at Vumbua |

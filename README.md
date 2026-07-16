@@ -53,8 +53,8 @@ The party of five unlikely students must navigate:
 |--------|-----------|-------------|------|
 | Sophie | **Britt** | Mizizi (gray fungal-turtle) | Gold |
 | Kristina | **Aggie** | Mizizi (red-and-white spotted mushroom-turtle) | Silver |
-| John | **Ignatius** | Ash-Blood (Ember Islander) | Silver |
-| Luke F | **Lomi** | Harmony-born (Octoumba, Iron-Union) | Copper |
+| John | **ignatious** | Ash-Blood (Ember Islander) | Silver |
+| Luke F | **Loami** | Harmony-born (Octoumba, Iron-Union) | Copper |
 | Holly | **Iggy** | "Earthkin" (Trench-Kin) | Gold |
 
 ---

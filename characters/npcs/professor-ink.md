@@ -29,7 +29,7 @@ Professor Ink is a veteran explorer and researcher from the [[scrivener-guild|Sc
 
 - **Academic and Rigorous:** He has little patience for sloppy research or "guesswork." If it isn't documented and peer-reviewed, it isn't real.
 - **Intellectual Curiosity:** He is fascinated by anything new. He genuinely loves [[Iggy]]'s relentless curiosity and will spend hours debating resonance theory with him.
-- **Nervous Energy:** He is protective of his work and specimens. He frequently worries that [[Ignatius]] (who he calls "the fire-boy") will accidentally incinerate his delicate fungal cultures.
+- **Nervous Energy:** He is protective of his work and specimens. He frequently worries that [[ignatious]] (who he calls "the fire-boy") will accidentally incinerate his delicate fungal cultures.
 - **Scientific Peer:** He treats [[Rill]] as an intellectual equal, valueing her cultural insights into the [[Mizizi]] Forest as essential scientific data.
 
 ## Current Activities
@@ -43,7 +43,7 @@ Professor Ink is a veteran explorer and researcher from the [[scrivener-guild|Sc
 |-----------|-------------|
 | **[[Rill]]** | Research partners and close colleagues. They balance each other's perspectives (Academic vs Cultural). |
 | **[[Iggy]]** | Mentor figure; deeply impressed by Iggy's inquisitive mind. |
-| **[[Ignatius]]** | Terrified of him. Keeps a fire extinguisher within reach at all times. |
+| **[[ignatious]]** | Terrified of him. Keeps a fire extinguisher within reach at all times. |
 | **[[Dean Isolde Vane]]** | Respects her leadership but finds her pacing and social energy exhausting. |
 
 ## Source References

@@ -25,7 +25,7 @@ The Scriveners are the scholars and mapmakers of Harmony. They are descendants o
 ## Key NPCs
 
 - **[[Dean Isolde Vane]]** - Though a Vane by blood, she leads the Scrivener Guild's research agenda as Head of Academy.
-- **Professor Ink** - Captain. Represents the pure thirst for knowledge. Loves [[Iggy]]'s curiosity but fears [[Ignatius]] will burn his specimens.
+- **Professor Ink** - Captain. Represents the pure thirst for knowledge. Loves [[Iggy]]'s curiosity but fears [[ignatious]] will burn his specimens.
 - **Senior Historian Nadine** - Working with the Dean to prove the "Shattered Empire" theory. Decoding the [[Mizizi]] tree-ring data.
 
 ---

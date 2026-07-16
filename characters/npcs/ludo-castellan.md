@@ -38,16 +38,16 @@ tags:
 | **Thresholds** | Minor 4 / Major 8 |
 
 ## Overview
-Ludo is the more "academic" half of the Castellan twins. While his sister Lyra handles the social charm, Ludo focuses on the leverage of information—exclusive notes, political gossip, and technical shortcuts. He views the Academy as a ledger where every favor given is a debt to be collected later.
+Ludo is the more "academic" half of the Castellan twins. Because his sister Lyra is the designated heir carrying the heavy burden of their family's expectations, Ludo has more room to breathe. This allows him to focus on information-gathering and academic support, and enables a more genuine friendship with Val, though they are still under pressure due to their family being rumored to be on the cliff's edge of their fortune.
 
 ## Relationships
-- **[[Lyra Castellan]]**: His twin sister and partner in social engineering.
-- **[[Valentine Sterling]]**: A key target for his family's ambitions. Ludo tries to provide Val with "academic solutions" to buy his gratitude.
+- **[[Lyra Castellan]]**: His twin sister. While she bears the brunt of the heir's responsibilities, they coordinate closely to navigate Academy politics.
+- **[[Valentine Sterling]]**: A key target for his family's ambitions, though Ludo is capable of genuine friendship with him, supporting him technically and academically.
 - **[[Iggy]]**: Noticed Iggy's gold receipt and unusual inventions; he's keeping an eye on the "odd" one for potential exploitation.
 
 ## Personality
-- **Quietly Ambitious**: Less flamboyant than Lyra, but more observant.
-- **Smug**: Has a habit of acting like he knows a secret that you don't.
+- **Quietly Ambitious**: Less flamboyant and intense than Lyra, allowing him to be more observant.
+- **Academic and Helpful**: Provides real solutions and support rather than just social pressure.
 - **Well-Connected**: Always has the latest rumors from the High Table or the Dean's office (or at least claims to).
 
 ## Session Appearances

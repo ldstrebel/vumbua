@@ -18,14 +18,14 @@ tags:
 Here are the primary goals and threads to resolve for Session 6:
 
 ### 1. Resolve the "Hangar Heist" (Immediate Goal)
-The session ended with [[Ignatius]] and [[Iggy]] heading to the hangars using the "turban and trench coat" disguise.
+The session ended with [[ignatious]] and [[Iggy]] heading to the hangars using the "turban and trench coat" disguise.
 - **The Challenge:** Use Stealth or Deception checks to see if they can bypass the "Turban" guards.
 - **The Reward:** If successful, they get a close look at the racing rigs. You can provide intel on the land/water transition mechanics or let Iggy see a "Harmony tech" engine up close, which might help his "Academic" checks later.
 - **The Risk:** Getting caught could lead to a confrontation with [[Sarge]] or security, potentially jeopardizing their standing before the exams.
 
 ### 2. The Reso Race at the Apex Ring (Action Goal)
 The race is the "networking event" of the week.
-- **The "Ambrosia of Luck" Venture:** [[Lomi]] needs to distribute the grog. This is a great opportunity for Social/Charisma checks to see how well the branding lands and how much "cut" they actually get from [[Lucky]].
+- **The "Ambrosia of Luck" Venture:** [[loami]] needs to distribute the grog. This is a great opportunity for Social/Charisma checks to see how well the branding lands and how much "cut" they actually get from [[Lucky]].
 - **The Race Mechanics:** Use the details from Session 5:
     - The 50/50 land/water terrain.
     - The randomized "missile-bunker" spires (Juxta's Spire).
@@ -34,7 +34,7 @@ The race is the "networking event" of the week.
 
 ### 3. The Friday Exams (The "Cut")
 This is the mechanical "boss fight" of the week. 20,000 students are about to be sent home.
-- **The Study Guide:** [[Ignatius]] and [[Iggy]] have [[Lucky]]'s annotated guide. This should provide a bonus to their rolls.
+- **The Study Guide:** [[ignatious]] and [[Iggy]] have [[Lucky]]'s annotated guide. This should provide a bonus to their rolls.
 - **The Study Group:** [[Aggie]] is with [[Pip]] and [[Bramble]]. You can roleplay the stress of the "Academic Hum" and use their study sessions to determine their success.
 - **Consequences:** Make the stakes clear—failing means being cut from the academy, which would drastically change the campaign's direction.
 
@@ -62,7 +62,7 @@ Here is a stub for the Hangar Heist:
 
 ### 1. The Threshold: The Prism Mist
 The hangars aren't just guarded by "Turbans" (The Order of the Loom’s security); they are protected by a **Prism Water Vaporizer**.
-*   **The Worldbuilding:** Explain that Prism Water reacts to "unauthorized resonance." Since Iggy uses clockwork (no Harmony tech), he might actually be "invisible" to the sensors, but Ignatius (who "vibes" with resonance) will glow like a beacon.
+*   **The Worldbuilding:** Explain that Prism Water reacts to "unauthorized resonance." Since Iggy uses clockwork (no Harmony tech), he might actually be "invisible" to the sensors, but ignatious (who "vibes" with resonance) will glow like a beacon.
 *   **The Choice (Agency):** 
     *   **The "Trench Coat" Shuffle:** A high Deception/Performance check. If they fail, the "Turban" guards notice the weird height/gait.
     *   **The Technical Bypass:** Iggy can try to sabotage the vaporizer using a clockwork "smoke bomb" to mask their resonance.
@@ -124,7 +124,7 @@ Mention that the hangars smell like **Ozone and Jasmine**. The Ozone is the Harm
 ### Role in the Hangar Heist
 Vane is the "Final Boss" of the stealth mission. He shouldn't be someone the players fight, but someone they **avoid**.
 
-- **The Resonance Hunter:** Because of his Prism Eye, the "Turban and Trench Coat" disguise is dangerous. He won't see a tall student; he will see two distinct "resonance signatures" (Iggy and Ignatius) overlapping in a way that looks like a glitch in the Loom.
+- **The Resonance Hunter:** Because of his Prism Eye, the "Turban and Trench Coat" disguise is dangerous. He won't see a tall student; he will see two distinct "resonance signatures" (Iggy and ignatious) overlapping in a way that looks like a glitch in the Loom.
 - **The Worldbuilding Hook:** If he catches them, he doesn't just punish them—he "re-tunes" them. He might use a device that emits a high-frequency pitch, causing 1 **Stress** and making the character feel "out of sync" with the Academy for the rest of the day (Disadvantage on their next Academic roll).
 
 ### Potential Dialogue Lines:
@@ -279,9 +279,9 @@ Every time a player rolls **2d12 (Hope Die and Fear Die)**, the result dictates 
 ---
 
 ### 2. Managing the "Trench Coat" Duo (Action Tracker)
-In Daggerheart, there is no initiative. Since **Iggy** and **Ignatius** are acting as one "unit" in the trench coat:
+In Daggerheart, there is no initiative. Since **Iggy** and **ignatious** are acting as one "unit" in the trench coat:
 
-*   **The "Combined" Roll:** Have the player on top (Ignatius) roll for **Social/Observation** and the player on the bottom (Iggy) roll for **Movement/Stability**.
+*   **The "Combined" Roll:** Have the player on top (ignatious) roll for **Social/Observation** and the player on the bottom (Iggy) roll for **Movement/Stability**.
 *   **The Action Tracker:** Every time they roll, place a token on the Action Tracker. 
     *   *Tip:* If they roll **With Fear**, you can immediately interrupt their "turn" to have a guard move closer or have an **Echo-Bat** "ping" their location.
 *   **Spending Fear:** Use your Fear pool to trigger **"Environmental Actions"** without waiting for a failure. 
@@ -301,8 +301,8 @@ In Daggerheart, **Stress** is a great way to represent the tension of being caug
 *   If they are nearly spotted, don't just make them roll again. Offer a trade: *"You can stay hidden, but it requires holding your breath in the freezing Prism Flush. Take 1 Stress to automatically succeed on this Stealth check."*
 
 #### **The Reso Race: The "Support" Action**
-While the NPCs race, the players (like **Lomi** selling grog) can influence the outcome.
-*   **Lomi's Grog Sales:** Roll **Presence (Hope/Fear)**. 
+While the NPCs race, the players (like **Loami** selling grog) can influence the outcome.
+*   **Loami's Grog Sales:** Roll **Presence (Hope/Fear)**. 
     *   *Success with Hope:* The crowd goes wild. **Pudge** (the underdog) gains **Advantage** on his next maneuver because the crowd is cheering so loud.
     *   *Success with Fear:* You make a lot of money, but a "Turban" guard starts asking for a permit.
 
@@ -340,7 +340,7 @@ Here is a deeper dive into Daggerheart DMing, followed by the stat blocks for yo
 ### 1. The Daggerheart GM "Flow"
 In Daggerheart, the game moves in two beats: **The Player Move** and **The GM Move.**
 
-*   **The Spotlight:** You decide who is acting. If Ignatius is talking, he has the spotlight. If Iggy wants to tinker, the spotlight shifts to him. 
+*   **The Spotlight:** You decide who is acting. If ignatious is talking, he has the spotlight. If Iggy wants to tinker, the spotlight shifts to him. 
 *   **The Action Tracker:** Every time a player rolls, they put a token on the tracker. 
     *   **When do you act?** 
         1.  If a player rolls **Failure with Fear** or **Success with Fear**, you can immediately take a "GM Move" (like having a guard turn the corner).
@@ -383,33 +383,33 @@ In Daggerheart, NPCs are simplified. They have a **Difficulty (DL)** (what playe
 
 Here is the specific closing beat:
 
-*   **The Hangar Plan:** After a frustrating day of working on models, **[[Ignatius]]** convinced **[[Iggy]]** that they needed to see the actual racing rigs up close to understand how they are built.
+*   **The Hangar Plan:** After a frustrating day of working on models, **[[ignatious]]** convinced **[[Iggy]]** that they needed to see the actual racing rigs up close to understand how they are built.
 *   **The Disguise:** Knowing the hangars are guarded by the "Turbans" (the Academy's security), they decided to use a classic infiltration tactic: **a turban and a trench coat**. 
 *   **The Cliffhanger:** The session ended just as they were heading out to attempt this "two-kids-in-a-trench-coat" style heist to scout the hangar and the rigs.
 
-Meanwhile, **[[Aggie]]** was focused on studying with **[[Pip]]** and **[[Bramble]]**, and **[[Lomi]]** had successfully struck a deal with **[[Lucky]]** to sell "Engine Grease" (rebranded as **Ambrosia of Luck**) during the upcoming race.
+Meanwhile, **[[Aggie]]** was focused on studying with **[[Pip]]** and **[[Bramble]]**, and **[[loami]]** had successfully struck a deal with **[[Lucky]]** to sell "Engine Grease" (rebranded as **Ambrosia of Luck**) during the upcoming race.
 
-**Session 6 will pick up right at the gates of the hangar with Ignatius and Iggy in their disguise.**
+**Session 6 will pick up right at the gates of the hangar with ignatious and Iggy in their disguise.**
 [Timestamp: 2026/06/16 20:58:16]
 
-**user**: wasnt there a transition statement with lomi/
+**user**: wasnt there a transition statement with Loami/
 [Context: Notes: sessions/planning/archive/s6/S6 Planning.md]
 [Timestamp: 2026/06/16 20:59:19]
 
-**ai**: Yes, you're right! While the session technically ended on the "trench coat" cliffhanger with Ignatius and Iggy, there was a narrative transition for **[[Lomi]]** regarding her shift from student to entrepreneur.
+**ai**: Yes, you're right! While the session technically ended on the "trench coat" cliffhanger with ignatious and Iggy, there was a narrative transition for **[[loami]]** regarding her shift from student to entrepreneur.
 
-According to the **[[s5-clean]]** notes and the **[[S6 Planning]]** tracker, the transition statement for Lomi focused on her **"Ambrosia of Luck"** venture:
+According to the **[[s5-clean]]** notes and the **[[S6 Planning]]** tracker, the transition statement for Loami focused on her **"Ambrosia of Luck"** venture:
 
-### The Lomi Transition:
-As the "Academic Hum" of the week intensified, Lomi pivoted. Instead of just studying Resonance Theory and Survival Ethics for the exam, she began **applying her classes to the race**. 
+### The Loami Transition:
+As the "Academic Hum" of the week intensified, Loami pivoted. Instead of just studying Resonance Theory and Survival Ethics for the exam, she began **applying her classes to the race**. 
 
 The transition highlighted that:
 *   She finalized the deal with **[[Lucky]]** to rebrand her "Engine Grease" grog as **"Ambrosia of Luck."**
 *   She spent the latter half of the week (Wednesday night) moving from the library to the "production line," ensuring the distribution plan was ready for the **Reso Race**.
-*   The narrative beat was that while everyone else was worried about passing the test, Lomi was worried about **supply and demand**.
+*   The narrative beat was that while everyone else was worried about passing the test, Loami was worried about **supply and demand**.
 
 **The specific "vibe" of that transition was:** 
-> "Lomi, as the rest of the Academy is drowning in textbooks and resonance formulas, you’ve found a way to make those formulas profitable. You aren't just heading into the weekend as a student; you're heading in as the primary supplier for the biggest party in the Basin."
+> "Loami, as the rest of the Academy is drowning in textbooks and resonance formulas, you’ve found a way to make those formulas profitable. You aren't just heading into the weekend as a student; you're heading in as the primary supplier for the biggest party in the Basin."
 
 This sets her up perfectly for Session 6 to handle the **"Ambrosia of Luck" distribution** while the others are focused on the heist and the exams!
 [Timestamp: 2026/06/16 21:03:12]
@@ -427,13 +427,13 @@ This sets her up perfectly for Session 6 to handle the **"Ambrosia of Luck" dist
 **The Vibe:**
 The "Academic Hum" has reached a fever pitch. It’s no longer just a background noise; it’s a physical weight in the air of the Academy. You can feel it in the library, the dining halls, and the dorms. 25,000 students have already been cut. By Friday night, another 20,000 will be walking down the concave walls of the Basin to the waiting ships, their dreams of the Academy over.
 
-### 🧪 The Entrepreneur: [[Lomi]]
+### 🧪 The Entrepreneur: [[loami]]
 While the rest of the student body is drowning in Resonance Theory textbooks, you’ve pivoted. You’ve realized that where there is stress, there is a market. You’ve struck a deal with **[[Lucky]]** to turn your "Engine Grease" into **"Ambrosia of Luck."** As the Reso Race approaches, you aren't just a student anymore—you’re a mogul in the making. But the "Turban" guards are everywhere, and the line between "networking" and "smuggling" is getting dangerously thin.
 
 ### 📚 The Scholars: [[Aggie]] & [[Britt]]
 The library has become your battlefield. Between the "Academic Hum" and the looming Friday exams, the pressure is suffocating. You’ve been grinding away with **[[Pip]]** and **[[Bramble]]**, trying to make sense of Volumetric Cartography and Survival Ethics. You’ve seen **[[Rill]]**—the girl from the exams—and word is she’s not just a student; she’s a racer. The stakes are higher than just a grade; it’s about staying in the sky.
 
-### 🕵️‍♂️ The Infiltrators: [[Ignatius]] & [[Iggy]]
+### 🕵️‍♂️ The Infiltrators: [[ignatious]] & [[Iggy]]
 The models weren't enough. To understand the resonance of the racing rigs, you needed to see the real thing. After a tense interrogation in **Lucky's Warehouse**, you walked away with an annotated study guide and a mission. 
 
 We left off on Wednesday night. The two of you are currently standing at the threshold of the **Apex Ring Hangars**. You are wearing a single, oversized trench coat and a poorly wrapped turban, attempting to pass as a very tall, very wobbly security guard. 
@@ -480,21 +480,21 @@ We left off on Wednesday night. The two of you are currently standing at the thr
 <errorChunk>[GoogleGenerativeAI Error]: Error fetching from https://generativelanguage.googleapis.com/v1beta/models/gemini-3-flash-preview:streamGenerateContent?alt=sse: [503 ] This model is currently experiencing high demand. Spikes in demand are usually temporary. Please try again later.</errorChunk>
 [Timestamp: 2026/06/17 20:53:11]
 
-**user**: Alright, let's start thinking about what could have happened to Ignatius during the time Iggy left him all the way through to dinner. I'm thinking he needs to have gotten pulled away by Ember for some urgent help, so he actually knows about the stuff that Finch was referring to. So mock out what might have happened in a couple of decision points he would have had. 
+**user**: Alright, let's start thinking about what could have happened to ignatious during the time Iggy left him all the way through to dinner. I'm thinking he needs to have gotten pulled away by Ember for some urgent help, so he actually knows about the stuff that Finch was referring to. So mock out what might have happened in a couple of decision points he would have had. 
 
 The end goal of this will be to give him a "Choose Your Own Adventure" survey to go through.
 [Context: Notes: sessions/transcripts/clean/s6-clean.md]
 [Timestamp: 2026/06/19 09:54:37]
 
-**ai**: This is a great way to bridge the gap for Ignatius and tie him into the **Finch Gable / Bay 4** plotline. Since Ignatius was left standing in a half-empty trench coat while Iggy bolted, he was in a prime position to be "recruited" for a side mission.
+**ai**: This is a great way to bridge the gap for ignatious and tie him into the **Finch Gable / Bay 4** plotline. Since ignatious was left standing in a half-empty trench coat while Iggy bolted, he was in a prime position to be "recruited" for a side mission.
 
-Here is a **"Choose Your Own Adventure"** survey for Ignatius. Each choice will determine his current **Stress/Hope** levels and the specific intel he brings to the group at the Colonnade.
+Here is a **"Choose Your Own Adventure"** survey for ignatious. Each choice will determine his current **Stress/Hope** levels and the specific intel he brings to the group at the Colonnade.
 
 ***
 
-# 🕵️‍♂️ Ignatius’s Long Night: A Choose Your Own Adventure
+# 🕵️‍♂️ ignatious’s Long Night: A Choose Your Own Adventure
 
-**The Setup:** Iggy has just somersaulted out of the trench coat and vanished into the hangar. You are standing there, holding a limp coat, facing two very confused "Turban" guards. Just as they reach for their resonance staves, a hand grabs your shoulder and pulls you into the shadows of a nearby supply crate. It’s **[[Ember]]**. She looks frantic. *"Ignatius, thank the Loom. I need a pair of hands that aren't registered in the system. Now."*
+**The Setup:** Iggy has just somersaulted out of the trench coat and vanished into the hangar. You are standing there, holding a limp coat, facing two very confused "Turban" guards. Just as they reach for their resonance staves, a hand grabs your shoulder and pulls you into the shadows of a nearby supply crate. It’s **[[Ember]]**. She looks frantic. *"ignatious, thank the Loom. I need a pair of hands that aren't registered in the system. Now."*
 
 ### Decision 1: The Clean Getaway
 The guards are searching the perimeter for the "ghostly trench coat." How do you and Ember slip away from the Hangar 12 entrance?
@@ -515,16 +515,16 @@ It’s now 3:00 AM. You’ve spent the night navigating the underbelly of the Ac
 
 ***
 
-### 📊 The "Intel" Ignatius Brings to the Table:
-Regardless of his choices, Ignatius arrives at the Colonnade with the following "Truths":
+### 📊 The "Intel" ignatious Brings to the Table:
+Regardless of his choices, ignatious arrives at the Colonnade with the following "Truths":
 1.  **The Bay 4 Secret:** Warden Rovaldi has a "Replacement Node" (The Ash-Blood Node) locked in Bay 4. It belongs to Valerius Sterling’s team, the *Shatter Stampers*.
 2.  **Finch’s Betrayal:** Finch Gable is trying to trade the location of this node to gain access to the observer balloons.
-3.  **Rovaldi’s Eye:** Ignatius saw Rovaldi’s mechanical eye in action—it doesn't just see light; it sees "Resonance Debt."
+3.  **Rovaldi’s Eye:** ignatious saw Rovaldi’s mechanical eye in action—it doesn't just see light; it sees "Resonance Debt."
 
 ***
 
 **DM Instructions:** 
-Send this to the player of Ignatius. Ask them to pick one option for each Decision. 
+Send this to the player of ignatious. Ask them to pick one option for each Decision. 
 - If they pick mostly **A's**, they are the "Information Broker."
 - If they pick mostly **B's**, they are the "Stealth Specialist."
 - If they pick mostly **C's**, they are the "Chaos Agent."

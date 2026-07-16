@@ -51,7 +51,7 @@ see [[reso-race]] for the index here
 
 ### 💡 DM Cheat Sheet for the Race
 *   **The "Siren" Effect:** Remind them of the 60 BPM pulse if they get close to a node.
-*   **The Missing Node:** If [[ignatius|Ignatius]] looks at the Ash-Blood section, tell him it’s the only one without a glowing Spire.
+*   **The Missing Node:** If [[ignatious|ignatious]] looks at the Ash-Blood section, tell him it’s the only one without a glowing Spire.
 *   **Lucky's Hustle:** Have [[lucky|Lucky]] appear in the crowd every 20 minutes selling a different team's flag based on who is winning.
 
 **Pacing Advice:** If you are running behind, cut the "Finding Rill" scene and move her to the **Research Deck** where the PCs can see her through binoculars instead.

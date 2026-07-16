@@ -56,7 +56,7 @@ This document serves as your narrative sandbox. Feel free to edit, rewrite, or p
     - **The Study Circle:** Maintain your academic alliance with Pip, Bramble, and Saffron to keep a pulse on the student body.
         
 
-### Ignatius (John)
+### ignatious (John)
 
 - **Home & Philosophy:** You are a rebellious, proud Ash-Blood teenager. Your elders viewed your departure to Vumbua as a banishment trial; you proudly reframed it as a sacred pilgrimage to find the source of your clan's fading heat.
     
@@ -79,7 +79,7 @@ This document serves as your narrative sandbox. Feel free to edit, rewrite, or p
     - **The Commander's Desk:** Survive Friday's 20,000-student academic cull to secure your right to lead an exploration vessel.
         
 
-### Lomi (Luke F)
+### Loami (Luke F)
 
 - **Home & Philosophy:** You are a working-class, blue-collar grease monkey born and raised in the geothermal depths of the boiler rooms. Your family taught you the ultimate rule of survival: **"Someone's got to fix the ship if it goes wrong."**
     
@@ -216,7 +216,7 @@ This document maps out the interactive narrative flow, mechanics, and dialogue c
 
 ### Node: `focus_ballistics_cartography`
 
-- **Narrative:** You close your eyes and picture Instructor Hallow's South Logistics Deck. You remember the exact arc of the chalk that smacked Ignatius's forehead—Hallow didn't calculate the wind; he _felt_ the trajectory. You couple this with Senior Exploranaut Hesperus's holographic charts. He warns that when a floating island rotates at 45 degrees per minute against a solar gale, the manual's "Synchronous Helix" is a trap.
+- **Narrative:** You close your eyes and picture Instructor Hallow's South Logistics Deck. You remember the exact arc of the chalk that smacked ignatious's forehead—Hallow didn't calculate the wind; he _felt_ the trajectory. You couple this with Senior Exploranaut Hesperus's holographic charts. He warns that when a floating island rotates at 45 degrees per minute against a solar gale, the manual's "Synchronous Helix" is a trap.
     
 - **Roll Check:** Roll **Agility or Instinct (DC 13)** to simulate the maneuvers in your mind.
     

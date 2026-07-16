@@ -10,8 +10,8 @@ Use this schedule to track player choices and pacing as the week progresses.
 
 | Day & Phase | Event / Action | DM Pacing & Key Mechanics |
 | :--- | :--- | :--- |
-| **Wednesday Night (8:00 PM)** | **Scene 1: Lomi's Crossroads** | Lomi chooses between a union shift and study prep, observing the courtyard. |
-| **Wednesday Night (9:00 PM)** | **Scene 2: Hangar Infiltration & Rill's Save** | Ignatius and Iggy sneak in. Rill intervenes. Pushing luck vs. retreating to dorms. |
+| **Wednesday Night (8:00 PM)** | **Scene 1: Loami's Crossroads** | Loami chooses between a union shift and study prep, observing the courtyard. |
+| **Wednesday Night (9:00 PM)** | **Scene 2: Hangar Infiltration & Rill's Save** | ignatious and Iggy sneak in. Rill intervenes. Pushing luck vs. retreating to dorms. |
 | **Thursday Morning** | **Scene 3: Valerius Ticket Confrontation** | Thursday class ends. Aggie confronts Valerius to get Zephyr airship tickets. |
 | **Thursday Afternoon** | **Scene 4: The Reso Race Sandbox** | The race begins. Vantage point gameplay (Bleachers vs. Zephyrs) with active NPC prompts. |
 | **Thursday Night** | **Scene 5: Curfew & Study Night** | The Loom-Guard curfew lockdown and final exam cram session. |
@@ -40,16 +40,16 @@ Britt was going out to the city and I want her to have a quick survey to go thro
 
 
 
-## 🏗️ Scene 1: Lomi's Crossroads (Wednesday Night, 8:00 PM)
+## 🏗️ Scene 1: Loami's Crossroads (Wednesday Night, 8:00 PM)
 
-The air in the courtyard of Block 99-Piston is thick with the scent of wet coal and steam. Heavy steam valves hiss rhythmically from the grates. As [[lomi|Lomi]] returns from negotiating his grog deal with [[lucky|Lucky]], he sees two things
+The air in the courtyard of Block 99-Piston is thick with the scent of wet coal and steam. Heavy steam valves hiss rhythmically from the grates. As [[loami|Loami]] returns from negotiating his grog deal with [[lucky|Lucky]], he sees two things
 
 
-### 👁️ Courtyard Observations (What Lomi Sees)
+### 👁️ Courtyard Observations (What Loami Sees)
 
-While Lomi stands in the courtyard making his decision, describe these two concurrent events happening nearby:
-1. **The Study Group Pressure:** Across the courtyard, Lomi sees [[aggie|Aggie]] sitting at a stone table. Pip and Bramble are leaning over her, waving pamphlets. Pip's voice carries: *"Aggie, you literally sat next to Valerius Sterling in the lounge! You have to talk to him before the race. If he gets us onto the Sterling family airship, we can network with the senior Captains before the exam even starts! Go ask him for Zephyr tickets!"*
-2. **The Trench Coat Slip-Past:** Out of the corner of his eye, Lomi spots [[ignatius|Ignatius]] walking past, looking ridiculously tall and bulky under a giant heavy wool trench coat, wearing a guard's turban. A muffled sneeze (Iggy) comes from his chest level. They are slipping toward the Hangar Gantry.
+While Loami stands in the courtyard making his decision, describe these two concurrent events happening nearby:
+1. **The Study Group Pressure:** Across the courtyard, Loami sees [[aggie|Aggie]] sitting at a stone table. Pip and Bramble are leaning over her, waving pamphlets. Pip's voice carries: *"Aggie, you literally sat next to Valerius Sterling in the lounge! You have to talk to him before the race. If he gets us onto the Sterling family airship, we can network with the senior Captains before the exam even starts! Go ask him for Zephyr tickets!"*
+2. **The Trench Coat Slip-Past:** Out of the corner of his eye, Loami spots [[ignatious|ignatious]] walking past, looking ridiculously tall and bulky under a giant heavy wool trench coat, wearing a guard's turban. A muffled sneeze (Iggy) comes from his chest level. They are slipping toward the Hangar Gantry.
 
 ---
 
@@ -61,7 +61,7 @@ While Lomi stands in the courtyard making his decision, describe these two concu
 
 ### 🛡️ The Prism Gate Barrier
 
-To cross the Gantry, [[ignatius|Ignatius]] and [[iggy|Iggy]] must pass through the **Prism Gate** (vaporized Prism Water).
+To cross the Gantry, [[ignatious|ignatious]] and [[iggy|Iggy]] must pass through the **Prism Gate** (vaporized Prism Water).
 - **The Imbuement:** The mist is imbued with a concept of *approved access* matching the Chief of the Guards, Rovaldi.
 - **Daggerheart Check:** **Instinct (Stealth)** vs. **DC 12** to slip through.
   - *Failure:* The mist refracts a discordant, flashing amber warning light. Warden Rovaldi's passive scan is alerted.
@@ -110,7 +110,7 @@ Before Rovaldi can expose them, [[rill|Rill]] slides out from under a nearby hyd
 
 ## 🎫 Scene 3: Thursday Morning Class & The Valerius Ticket Confrontation (Thursday Morning)
 
-Class wraps up under the dry hum of Professor Kante's lecture. [[lomi|Lomi]]'s rival, [[finch-gable|Finch Gable]], sneers and hides his cartography notes as they pack up. 
+Class wraps up under the dry hum of Professor Kante's lecture. [[loami|Loami]]'s rival, [[finch-gable|Finch Gable]], sneers and hides his cartography notes as they pack up. 
 
 In the courtyard, Pip and Bramble nudge [[aggie|Aggie]]: *"There he is! Go talk to Valerius! Ask for the tickets!"*
 
@@ -119,12 +119,12 @@ In the courtyard, Pip and Bramble nudge [[aggie|Aggie]]: *"There he is! Go talk 
 [[valerius-sterling|Valerius "Val" Sterling]] is surrounded by a crowd of adoring candidates and groupies. He looks visually exhausted, overwhelmed by his high-society popularity, and is desperately looking for any excuse to escape gracefully.
 
 - **Val's Dialogue:** *"Oh, thank the Heavens! Aggie! Yes, yes, I must consult with you about... logistics. Excuse me, everyone, study group business!"* He dumps his entourage.
-- **Val's Ground Offer:** Val tells Aggie: *"Look, my dad’s business partners and a bunch of stuffy captains are all over the Zephyr platforms. I don't want to go up there. I'd love to join you guys on the ground in the Bleachers if I can sneak away. We can drink some of that grog Lomi was talking about!"*
+- **Val's Ground Offer:** Val tells Aggie: *"Look, my dad’s business partners and a bunch of stuffy captains are all over the Zephyr platforms. I don't want to go up there. I'd love to join you guys on the ground in the Bleachers if I can sneak away. We can drink some of that grog Loami was talking about!"*
 
 ### 🎲 Persuading Val to go up (The Zephyr tickets)
 
 If the PCs want to watch from the airships (Zephyrs) to network, they must persuade him to pull strings.
-- **Daggerheart Check:** **Presence (Influence)** vs. **DC 13** (Aggie gets Advantage if she mentions their shared time at the Celestial Lounge; Lomi gets +2 if he reminds Val of his Crown & Ruin win).
+- **Daggerheart Check:** **Presence (Influence)** vs. **DC 13** (Aggie gets Advantage if she mentions their shared time at the Celestial Lounge; Loami gets +2 if he reminds Val of his Crown & Ruin win).
   - *Success:* Valerius sighs: *"Alright, alright. I'll get you VIP passes. But you have to let me hang out with you on the deck, and if my father comes by, you pretend you're presenting a project."*
   - *Failure:* Valerius remains firm: *"I really can't face my father today. I'll meet you on the ground by the Bleachers."* They get Bleacher tickets instead.
 
@@ -144,16 +144,16 @@ Rather than asking the players "What now?", use the sandbox hooks below based on
 ├────────────────────────────────────────┬─────────────────────────────────┤
 │        OPTION A: THE BLEACHERS         │      OPTION B: THE ZEPHYRS      │
 ├────────────────────────────────────────┼─────────────────────────────────┤
-│ • Grog-selling with Lomi & Lucky       │ • Nobility gossip (Lady Glimmer)│
+│ • Grog-selling with Loami & Lucky       │ • Nobility gossip (Lady Glimmer)│
 │ • Bet-placing with Hollow Jack         │ • Spotting engine wakes (Lenses)│
 │ • High-volume cheers & mechanical hacks│ • Corporate networking          │
 └────────────────────────────────────────┴─────────────────────────────────┘
 ```
 
 ### 🏟️ Option A: The Bleachers (Ground Level)
-- **The Grog Business:** Lomi and [[lucky|Lucky]] set up their crates, selling "Ambrosia of Luck" grog to the rowdy crowd.
-- **NPC Prompt — [[lucky|Lucky]]:** Lucky pulls Lomi and Ignatius aside, whispering: *"Hey, check it out. The Echelon ship—Val's team—is carrying a custom Vox capacitor. It's radiating purple waves. See that? If that capacitor blows, it's going to trigger a massive resonance backlash. Do we bet against them?"*
-- **NPC Prompt — [[hollow-jack|Hollow Jack]]:** The scruffy Fringe bookie approaches: *"Hey, Union boy! Lomi! You worked the spires. Pudge is the underdog on that giant bird. The odds are 20-to-1. You think that bird can sync the Chime Spire, or is it going to stall in the Weeping Tunnel?"*
+- **The Grog Business:** Loami and [[lucky|Lucky]] set up their crates, selling "Ambrosia of Luck" grog to the rowdy crowd.
+- **NPC Prompt — [[lucky|Lucky]]:** Lucky pulls Loami and ignatious aside, whispering: *"Hey, check it out. The Echelon ship—Val's team—is carrying a custom Vox capacitor. It's radiating purple waves. See that? If that capacitor blows, it's going to trigger a massive resonance backlash. Do we bet against them?"*
+- **NPC Prompt — [[hollow-jack|Hollow Jack]]:** The scruffy Fringe bookie approaches: *"Hey, Union boy! Loami! You worked the spires. Pudge is the underdog on that giant bird. The odds are 20-to-1. You think that bird can sync the Chime Spire, or is it going to stall in the Weeping Tunnel?"*
 - **Active Ground Actions:**
   - *Distracting Rivals:* **Presence** check vs. DC 12 to cheer/jeer, causing a rival pilot to miss a prong strike.
   - *Fringe Bettor:* **Finesse** check vs. DC 13 to pickpocket a rival team's supporter.
@@ -184,17 +184,17 @@ crashes.       Jax's ironclad.    surges ahead.
 ```
 
 - **Beat 1: The Launch / Grid Release:** The starting gates drop. Rigs roar with umber crystal fire.
-  - *Low Roll:* A rig stalls, creating a massive pileup. *Prompt:* *"Ignatius, the Echelon rig is caught in the pileup. Do you warn Val's crew or let them burn?"*
+  - *Low Roll:* A rig stalls, creating a massive pileup. *Prompt:* *"ignatious, the Echelon rig is caught in the pileup. Do you warn Val's crew or let them burn?"*
   - *High Roll:* Pudge launches perfectly.
 - **Beat 2: The Weeping Tunnel:** Skiffs pass through a dark stone tunnel where dripping water acts as a natural harmonic mute.
   - *Moderate Roll:* Jax's ironclad uses brute steam power to push through.
-  - *Prompt to Lomi:* *"Lomi, you know the Soft Forge spire is just past the exit. How do you direct Pudge to align his Prong striker?"*
+  - *Prompt to Loami:* *"Loami, you know the Soft Forge spire is just past the exit. How do you direct Pudge to align his Prong striker?"*
 - **Beat 3: The Vertical Climb / Aether-Shear:** Hulls fight high winds near the floating rock spires.
   - *Low Roll:* A gust of wind shear threatens to throw Pudge's griffin into the canyon wall.
   - *Prompt to Aggie/Britt:* *"From the Zephyr deck, you see the wind shear hitting. How do you react to save Pudge?"*
 - **Beat 4: The Final Stretch:** The ships sprint across the turquoise water starting grid.
 
-**Post-Race Reveal:** The race ends (Pudge wins). The crowds disperse. Ignatius or Iggy realize the Ash-Blood node was missing from the wreckage/berths. Run the **Finding Rill** scene as they seek out faculty.
+**Post-Race Reveal:** The race ends (Pudge wins). The crowds disperse. ignatious or Iggy realize the Ash-Blood node was missing from the wreckage/berths. Run the **Finding Rill** scene as they seek out faculty.
 
 ---
 
@@ -245,7 +245,7 @@ Calculate final scores: **Baseline** (Gold 95, Silver 80, Copper 60) + **Exam Po
 
 The assignments appear on the Basin's displays as poetic, cryptic one-liners:
 
-- **[[ignatius|Ignatius]]:** 
+- **[[ignatious|ignatious]]:** 
   > *"The fire that doesn't burn feeds the root that doesn't grow."*
 - **[[britt|Britt]]:** 
   > *"The shadow on the wall knows where the candle hides."*
@@ -253,7 +253,7 @@ The assignments appear on the Basin's displays as poetic, cryptic one-liners:
   > *"What sinks in still water rises in the current."*
 - **[[iggy|Iggy]]:** 
   > *"The clockwork heart beats loudest when the spring is cracked."*
-- **[[lomi|Loami]]:** 
+- **[[loami|Loami]]:** 
   > *"The hammer asks the mountain: who shaped whom?"*
 
 Once all five PCs receive these matching lines, their runes coalesce on the water surface, forming the emblem of their newly established squad.

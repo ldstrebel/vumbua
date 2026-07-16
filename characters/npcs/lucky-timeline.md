@@ -25,9 +25,9 @@ A detailed chronological breakdown of [[Lucky]]'s path from street urchin to the
 - **The Goal:** Lucky is now actively hunting for more high-potential people, things, and stories. He views Iggy and Zephyr as the core of his "Big Score."
 
 ## V. Week 2: The Cards on the Table
-- **The Interrogation ([[s5-clean|Session 5]]):** Lucky leads [[Iggy]], [[Ignatius]], and [[Lomi]] into his warehouse. He stops the minor hustles and goes "Cards on the Table."
+- **The Interrogation ([[s5-clean|Session 5]]):** Lucky leads [[Iggy]], [[ignatious]], and [[loami]] into his warehouse. He stops the minor hustles and goes "Cards on the Table."
 - **The Confession:** He admits to tracking high-potential people, things, and stories. He saw [[Zephyr]] taken by the Dean and realized that Iggy and Zephyr are part of the same disruptive pattern. 
 - **The Crush:** Lucky reveals his fascination with Zephyr ("She's electric").
 - **The Deal:** He trades his annotated exam guide and Reso Race intel (identifying [[Pudge]] as the underdog) for usage-rights to Iggy's inventions.
-- **The Branding:** Partners with [[Lomi]] to distribute "Ambrosia of Luck" (branded engine grease) at the race, realizing that the party's social reach is the final piece of his hustle.
+- **The Branding:** Partners with [[loami]] to distribute "Ambrosia of Luck" (branded engine grease) at the race, realizing that the party's social reach is the final piece of his hustle.
 - **The Philosophy:** *"Instead of a comfortable administrative job, I'm focused on a ship. A ship with no anchor. And you guys? You're the ones who are going to build it for me."*

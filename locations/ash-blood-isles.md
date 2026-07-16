@@ -37,21 +37,21 @@ The Isles produce **lavsidian** — an obsidian-like heat stone that burns 80% h
 Before Harmony's arrival, the [[Ash-Bloods]] were experiencing "The Great Cooling" — their volcanoes were slowly dying. After integration, the heat returned. This is the core reason the clan embraced Harmony.
 
 ### Ash-Blood Genesis Myth
-According to Ash-Blood lore shared by [[Ignatius]], the islands were formed millennia ago out of tragedy and love. The Great Dragon of the Sky and the Great Dragon of the Sea respected each other but were separated by the horizon. Tricked by a demon into believing they could meet if the Sky Dragon dove from the sun, the Sky Dragon plummeted, unable to slow down, and caught fire. 
+According to Ash-Blood lore shared by [[ignatious]], the islands were formed millennia ago out of tragedy and love. The Great Dragon of the Sky and the Great Dragon of the Sea respected each other but were separated by the horizon. Tricked by a demon into believing they could meet if the Sky Dragon dove from the sun, the Sky Dragon plummeted, unable to slow down, and caught fire. 
 Burning up entirely, it was caught by the kind Sea Dragon in a loving embrace. The extinguished flames and the burned body of the Sky Dragon formed the Ash-Blood Isles. It is this loving embrace that continues to heat the islands and the stones used by the clan today.
 
 ## Source References
 
 - **[[session-00|Session 0]]** — Volcanoes visible from [[Mizizi]] forest *(Scene 4: Civilization)*
 - **[[session-02|Session 2]]** — lavsidian properties discussed; Great Cooling revealed *(Scene 8: Grinder Talk)*
-- **[[session-02|Session 2]]** — [[Ignatius]] describes Ash-Blood physiology *(Scene 6: Ash-Blood Politics)*
+- **[[session-02|Session 2]]** — [[ignatious]] describes Ash-Blood physiology *(Scene 6: Ash-Blood Politics)*
 - **[[session-02.5|Session 2.5]]** — [[Professor Kante]] explains the Ash-Blood Anomaly *(Scene 5)*
 
 ## Related Pages
 
 - [[Ash-Bloods]] — Native clan
 - [[Vumbua Academy]] — Currently stationed here
-- [[Ignatius]] — Ash-Blood PC from these Isles
+- [[ignatious]] — Ash-Blood PC from these Isles
 - [[Lady Ignis]] — Ash-Blood matriarch
 - [[Ember]] — Ash-Blood modernizer
 - [[The Power System]] — lavsidian and the Ash-Blood Anomaly

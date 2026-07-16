@@ -44,14 +44,14 @@ Valentine is the Scion of House Sterling, son of the legendary explorer [[valent
 ## Relationships
 - **[[valentine-sterling-sr|Valentine Sterling Sr.]]**: His father, the legendary explorer.
 - **[[Valerius Sterling]]**: His older cousin and the "Voice of Vumbua" Radio Host.
-- **[[Ignatius]]**: Met in the courtyard after Intake. Val was amused by the soot/fire but hesitant to touch him.
+- **[[ignatious]]**: Met in the courtyard after Intake. Val was amused by the soot/fire but hesitant to touch him.
 - **[[Serra Vox|Seraphina Vox]]:** His teammate and fellow noble. He respects her talent but worries about her eccentricities.
 - **The Party:** Rivals. He specifically targets them during assessments, but shows a growing willingness to connect with them outside of official channels.
 
 ## Session Appearances
 
 ### Session 1
-- **The Courtyard Encounter:** Met [[Ignatius]] immediately after the intake exam.
+- **The Courtyard Encounter:** Met [[ignatious]] immediately after the intake exam.
 - **The Handshake:** Hesitated to shake hands ("Will your hand burn me?"), then wiped his hand of soot and stormed off, spitting.
 
 ### Session 3
@@ -68,6 +68,13 @@ Valentine is the Scion of House Sterling, son of the legendary explorer [[valent
 - **Potato Mapping:** Found in the cafeteria with his friend [[Jorge]], using hollowed-out potatoes and peas to map the Reso Race track layout.
 - **The Pressure:** Confided to Britt and Aggie that he feels immense pressure from his heritage and family name, and dislikes the constant surveillance of his handlers, the Castellians.
 - **The Airship Invitation:** Invited the group to board the Sterling family airship (Zephyr) VIP deck one hour before the race to study and watch the race together, promising to help them get down to the stands afterwards.
+
+### Session 7
+- **Zephyr Host:** Greeted Iggy at the gangway, anxiously waiting for the party to arrive. Introduced Iggy to the looming glass technology.
+- **Engine Room Tour:** Led ignatious, Loami, and Iggy through the Zephyr's engine room after they convinced him it was "applied studying." Explained the resonance power system (DC-current-style wireless energy), the Night of Sparks historical catastrophe, Umbra crystals as resistors, and the Panda 5 battery packs.
+- **Global Amplitude Reveal:** Connected Iggy's drunken revelation of Professor Kante's research to the broader problem — the Ash-Blood integration didn't increase global amplitude as predicted, causing next-gen resonators to fluctuate. Noted this is "hush-hush" and that the Castellans are "toast" if the new resonator line fails.
+- **Shrewd Observation:** Rolled well enough to notice Loami's deception about the ambassador wanting a refill, but went along with it anyway.
+- **The Cram:** After the race, mentioned wanting to squeeze in one last study session before Friday's exam.
 
 ## Personality
 - **Charismatic:** Naturally open — the kind of person who makes you feel like the most important person in the room.

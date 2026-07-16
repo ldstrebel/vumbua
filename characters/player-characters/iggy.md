@@ -1,15 +1,17 @@
 ---
 aliases:
   - "The Mole"
+  - "Iggy Ashvein"
 tags:
   - pc
   - gold-rank
 ---
 
-# Iggy
+# Iggy Ashvein
 
-> *"Where am I?"*
-
+> *"Where am I?"
+> *
+![[Pasted image 20260709171535.png]]
 ## Overview
 
 | | |
@@ -19,11 +21,11 @@ tags:
 | **Rank** | Gold (receipt was... used as a tissue) |
 | **Class** | Daggerheart Character |
 | **Player** | Holly |
-| **Housing** | [[Block 12]] (with [[Ignatius]]) |
+| **Housing** | [[Block 12]] (with [[ignatious]]) |
 
 ## Appearance
 
-Semi-human shaped, but his limbs are made of packed dirt — he looks like he's constantly crumbling. Giant bug eyes that he has to wear **goggles** over, constantly injecting fluid into them with a syringe to keep the pressure right. Extremely light-sensitive — starts **steaming** in sunlight and is always applying a version of sunscreen, grabbing at things to cover himself. Produces slime and mucus. Pressure-sensitive — feels relief when weight is applied (the heavy trench coat settled him immediately). Wears a dark, heavy trench coat given to him by a stranger on the docks when he first emerged.
+A small, clay-and-soil-kin creature of the Earthkin origin. His body is composed of packed dirt and clay, with green moss and small sprouts growing from the top of his head. He has giant, wide-eyed brown eyes covered by oversized round copper **goggles** filled with protective fluid/water to keep them moist. Extremely light-sensitive — starts **steaming** in sunlight and is always applying a version of sunscreen. Pressure-sensitive — feels relief when weight is applied, wearing a dark, oversized heavy wool robe/coat.
 
 ## Personality
 
@@ -101,22 +103,25 @@ Iggy emerged from the water, covering his tracks immediately. He doesn't want an
 Got Gold rank (not that he understands what that means). His receipt was used as a tissue. The world above is loud, bright, and confusing. He asked "Where am I?" and meant it. His immediate quest is just to survive and figure out how things work here. He wants to "find out things" and walks around on his own terms. He climbed a crane because he wanted to touch the sky.
 
 ### Session 2 — Belonging (Quietly)
-Secretly enjoyed being included at the bonfire. Socialized with the group. Noticed Ignatius looking back at him as he left — a small connection forming. Then Irish-goodbyed when nobody was actively talking to him.
+Secretly enjoyed being included at the bonfire. Socialized with the group. Noticed ignatious looking back at him as he left — a small connection forming. Then Irish-goodbyed when nobody was actively talking to him.
 
 ### Session 2.5 — The Turning Point
 Everything changed. Wandered into the power plant and met [[Professor Kante]], who validated his technical intuition. Learned that the world's power (Global Amplitude) is declining and that integration — cultural connection between peoples — is how it's restored. This directly contradicts everything he was taught: that connection with the outside world would destroy his people. Now Iggy has a real question to answer: *Was he lied to, or is Kante wrong?* He designed five experiments to test "connection" with people at the [[Celestial Lounge]]. He has a mentor, an umber crystal, and for the first time, a reason to stay.
 
 ### Session 3 — Alley Defense & Mapping
-Iggy put his cartography skills to the test mapping the view at the Celestial Lounge. Later, he joined Lomi in the alley to save Britt from the ambushers, securing the safety of the squad.
+Iggy put his cartography skills to the test mapping the view at the Celestial Lounge. Later, he joined Loami in the alley to save Britt from the ambushers, securing the safety of the squad.
 
 ### Session 4 — Slime & The Guide
 In classes, Iggy accidentally broke a typewriter with slime during his exams. He later went with the group to find Lucky, helping secure the study guide.
 
 ### Session 5 — Trinkets for Truth
-Iggy traded his hand-crafted clockwork toys and gadgets to Lucky in exchange for the Reso Race intel and annotated study guide answers. Supported by Ignatius, who acted as his agent, Iggy realized that his non-magic machinery holds high value for surface dwellers.
+Iggy traded his hand-crafted clockwork toys and gadgets to Lucky in exchange for the Reso Race intel and annotated study guide answers. Supported by ignatious, who acted as his agent, Iggy realized that his non-magic machinery holds high value for surface dwellers.
 
 ### Session 6 — Monocle Scan & Toast Launch
 In Hangar 12, Iggy was caught by Warden Rovaldi, whose mechanical eye scanned him and detected his lack of Harmony imbuement. Escaping safely, he joined the group in the cafeteria, where he launched a piece of toast that bounced cleanly off Lyra Castellan's head after she insulted his friends, cementing his protective bond with the party.
+
+### Session 7 — Drunken Revelations in the Engine Room
+Iggy visited the Zephyr VIP airship with the boys. Getting motion-sick from the high-altitude glass deck, he drank Loami's Engine Grease grog and became heavily intoxicated. In the engine room, he inadvertently spilled Professor Kante's classified research regarding the global amplitude anomaly to Valentine Sterling.
 
 ## Session Appearances
 
@@ -137,7 +142,7 @@ In Hangar 12, Iggy was caught by Warden Rovaldi, whose mechanical eye scanned hi
 ### [[session-02|Session 2]] — The Bonfire
 - Socialized at the [[Block 99]] bonfire — secretly enjoyed being included
 - Climbed a crane to "touch the sky"
-- Noticed [[Ignatius]] looking back at him — connection building
+- Noticed [[ignatious]] looking back at him — connection building
 
 ### [[session-02.5|Session 2.5]] — The Power Room (1-on-1 with Holly)
 - Irish-goodbyed from the bonfire when nobody was actively talking to him
@@ -153,21 +158,27 @@ In Hangar 12, Iggy was caught by Warden Rovaldi, whose mechanical eye scanned hi
 
 ### [[session-03|Session 3]] — The Celestial Lounge and The Ambush
 - Visited the Celestial Lounge, gaining cartographic insights from the heights.
-- Assisted Lomi in rescuing Britt from the alley ambushers.
+- Assisted Loami in rescuing Britt from the alley ambushers.
 
 ### [[s4-clean|Session 4]] — First Day of Classes
 - Attended Aetheric Ballistics class; broke a typewriter with slime.
 - Accompanied the group to trade with Lucky for the study guide.
 
 ### [[s5-clean|Session 5]] — Cards on the Table
-- Interrogated by [[Lucky]] in his "warehouse" (storage closet) alongside [[Ignatius]] and [[Lomi]].
+- Interrogated by [[Lucky]] in his "warehouse" (storage closet) alongside [[ignatious]] and [[loami]].
 - Traded his custom-built clockwork trinkets for Lucky's annotated study guide and crucial intel on the Reso Race.
-- **[[Ignatius]]** stepped in as his self-appointed "agent" during the deal, managing the negotiation to protect Iggy from Lucky's hustling.
+- **[[ignatious]]** stepped in as his self-appointed "agent" during the deal, managing the negotiation to protect Iggy from Lucky's hustling.
 
 ### [[s6-clean|Session 6]] — Potatoes and Peas
-- Infiltrated Hangar 12 with Ignatius; caught and questioned by Warden Rovaldi.
+- Infiltrated Hangar 12 with ignatious; caught and questioned by Warden Rovaldi.
 - Scanned by Rovaldi's mechanical eye, which detected a lack of Harmony energy.
 - Joined the group in the cafeteria, bonding with Pip over food and throwing a piece of toast at Lyra Castellan's head in retaliation for her insults.
+
+### [[s7-clean|Session 7]] — Race Day
+- Visited the Zephyr airship with the boys, exploring the promenade deck and getting motion-sick on the heights.
+- Toured the engine room with Valentine Sterling, learning about resonance theory and resonator instability.
+- Drank Engine Grease grog and became heavily intoxicated, accidentally revealing Professor Kante's classified global amplitude data to Val.
+- Returned to the dorms to cram for Friday's exam.
 
 ## Relationships
 
@@ -175,8 +186,8 @@ In Hangar 12, Iggy was caught by Warden Rovaldi, whose mechanical eye scanned hi
 |-----------|-------------|
 | **[[Britt]]** | Fellow candidate — met at Vumbua |
 | **[[Aggie]]** | Fellow candidate — met at Vumbua |
-| **[[Ignatius]]** | Fellow candidate and roommate at [[Block 12]] — Iggy noticed him looking back during the Irish goodbye; connection building |
-| **[[Lomi]]** | Fellow candidate — met at Vumbua; Lomi covered for Iggy with his "boiler room noises" story |
+| **[[ignatious]]** | Fellow candidate and roommate at [[Block 12]] — Iggy noticed him looking back during the Irish goodbye; connection building |
+| **[[loami]]** | Fellow candidate — met at Vumbua; Loami covered for Iggy with his "boiler room noises" story |
 | **[[Professor Kante]]** | Mentor figure — impressed by Iggy's technical intuition, invited him to collaborate on battery research, gave him an umber crystal ([[session-02.5|Session 2.5]]) |
 | **[[Tommy]]** | Power plant clerk (gnome) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |
 | **[[Lucina]]** | Power plant mechanic (dwarf) — briefly met during Iggy's sneaking in ([[session-02.5|Session 2.5]]) |

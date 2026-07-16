@@ -46,8 +46,8 @@ Themes/pillars:
 |---|---|---|---|---|
 | Sophie | Britt | Mizizi | Gold | `characters/player-characters/britt.md` |
 | Kristina | Aggie | Mizizi | Silver | `characters/player-characters/aggie.md` |
-| John | Ignatius | Ash-Blood | Silver | `characters/player-characters/ignatius.md` |
-| Luke F | Lomi | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/lomi.md` |
+| John | ignatious | Ash-Blood | Silver | `characters/player-characters/ignatious.md` |
+| Luke F | Loami | Harmony-born (Octoumba, Iron-Union) | Copper | `characters/player-characters/Loami.md` |
 | Holly | Iggy | "Earthkin" (secretly Trench-Kin) | Gold | `characters/player-characters/iggy.md` |
 
 ---

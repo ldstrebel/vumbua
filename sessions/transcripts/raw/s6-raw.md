@@ -12,9 +12,9 @@ Meeting records [Transcript](https://docs.google.com/document/d/1_uq2stcQaJUn_V2
 
 * **Britts One Shot** Brent went outside the city and found a compass and saw Finch trying to make trades with some guards
 
-* **Dagger Heart Narrative Planning and Recap**: Luke S provides a recap of the previous gaming session, noting that characters Lomi, Iggy, Ignatius, and others were involved in plotlines regarding Sarge, the Apex Ring, and the Reszo race ([00:22:41](#heading=h.j3n7zff1sdse)) ([00:32:40](#00:32:40)). The group discusses the current status of their characters, confirming that Iggy and Ignatius were planning to infiltrate a hangar to view crafts, while Aggie and Brit were studying in the courtyard with Valentine ([00:22:41](#heading=h.j3n7zff1sdse)) ([00:33:52](#00:33:52)).
+* **Dagger Heart Narrative Planning and Recap**: Luke S provides a recap of the previous gaming session, noting that characters Loami, Iggy, ignatious, and others were involved in plotlines regarding Sarge, the Apex Ring, and the Reszo race ([00:22:41](#heading=h.j3n7zff1sdse)) ([00:32:40](#00:32:40)). The group discusses the current status of their characters, confirming that Iggy and ignatious were planning to infiltrate a hangar to view crafts, while Aggie and Brit were studying in the courtyard with Valentine ([00:22:41](#heading=h.j3n7zff1sdse)) ([00:33:52](#00:33:52)).
 
-* **Dagger Heart Gameplay \- Hangar Infiltration**: The group transitions to the game, focusing on Iggy and Ignatius attempting to access the hangar ([00:35:25](#00:35:25)). Luke S describes the environment, noting that the hangar is guarded by personnel performing crowd control ([00:36:43](#00:36:43)). Iggy attempts to enter the facility, leading to a roleplay interaction where they try to disguise themself and evade notice, ultimately leading to a precarious situation where Iggy loses the trench coat used for cover ([00:37:57](#00:37:57)).
+* **Dagger Heart Gameplay \- Hangar Infiltration**: The group transitions to the game, focusing on Iggy and ignatious attempting to access the hangar ([00:35:25](#00:35:25)). Luke S describes the environment, noting that the hangar is guarded by personnel performing crowd control ([00:36:43](#00:36:43)). Iggy attempts to enter the facility, leading to a roleplay interaction where they try to disguise themself and evade notice, ultimately leading to a precarious situation where Iggy loses the trench coat used for cover ([00:37:57](#00:37:57)).
 
 * **Gameplay Mechanics and Stealth**: During the infiltration, the players discuss the game mechanics relevant to Iggy's attempt to hide. They verify Iggy's specific traits, such as being Underborn, which grants advantages in low-light conditions ([00:46:52](#00:46:52)). Luke S guides the player through an agility-based hide roll, offering a \+3 bonus to reflect the character's natural abilities and the environmental context ([00:48:04](#00:48:04)).
 
@@ -28,27 +28,27 @@ Meeting records [Transcript](https://docs.google.com/document/d/1_uq2stcQaJUn_V2
 
 * **Social Dynamics and Courtyard Activity**: The group discussed the social climate and Pip's desire to watch the Reso race from an airship ([01:05:13](#01:05:13)). Observations of Val revealed that they appeared to be managed or controlled by their handlers, the Castellins, who systematically isolated Val from other students ([01:10:12](#01:10:12)).
 
-* **Lomi’s Interaction with Val**: Lomi attempted to engage Val to discuss a dice game called "Crown and Ruin," but the interaction was hindered by the presence of Val's handlers. Lomi managed to make contact, though the handlers effectively blocked further conversation ([01:12:26](#01:12:26)) ([01:14:17](#01:14:17)).
+* **Loami’s Interaction with Val**: Loami attempted to engage Val to discuss a dice game called "Crown and Ruin," but the interaction was hindered by the presence of Val's handlers. Loami managed to make contact, though the handlers effectively blocked further conversation ([01:12:26](#01:12:26)) ([01:14:17](#01:14:17)).
 
-* **Intel on Finch Gable**: Brit reported overheard information that Finch Gable was attempting to trade secrets regarding Valarius Sterling for access to the hangar bay to spy on second-year race builds ([01:16:26](#01:16:26)). The group decided to rely on Ignatius and Iggy to gather counter-intelligence ([01:17:26](#01:17:26)).
+* **Intel on Finch Gable**: Brit reported overheard information that Finch Gable was attempting to trade secrets regarding Valarius Sterling for access to the hangar bay to spy on second-year race builds ([01:16:26](#01:16:26)). The group decided to rely on ignatious and Iggy to gather counter-intelligence ([01:17:26](#01:17:26)).
 
-* **Reso Race Logistics**: Lomi provided details on the Reso race, explaining that it is a points-based sport where participants must tag pillars with randomized locations using their custom vehicles ([01:21:28](#01:21:28)). The group noted that the second-year races are scheduled for late next week, and success is critical for gaining access to future exploration opportunities ([01:22:28](#01:22:28)).
+* **Reso Race Logistics**: Loami provided details on the Reso race, explaining that it is a points-based sport where participants must tag pillars with randomized locations using their custom vehicles ([01:21:28](#01:21:28)). The group noted that the second-year races are scheduled for late next week, and success is critical for gaining access to future exploration opportunities ([01:22:28](#01:22:28)).
 
-* **Strategy and Preparation**: Lomi mentioned that they and Ignatius are working on a secret build to compete in the race, aiming to secure a position at the academy through performance rather than just academic testing ([01:23:18](#01:23:18)). The group discussed using the newly acquired compass to assist with navigation during the race ([01:26:13](#01:26:13)).
+* **Strategy and Preparation**: Loami mentioned that they and ignatious are working on a secret build to compete in the race, aiming to secure a position at the academy through performance rather than just academic testing ([01:23:18](#01:23:18)). The group discussed using the newly acquired compass to assist with navigation during the race ([01:26:13](#01:26:13)).
 
-* **Iggy’s Scouting Report**: Iggy joined the group at the cafeteria and shared details about their attempt to scout the airships. Iggy reported being unable to look left due to interference from a man with a "whirly eye," and noted that they had been separated from Ignatius during the process ([01:31:21](#01:31:21)).
+* **Iggy’s Scouting Report**: Iggy joined the group at the cafeteria and shared details about their attempt to scout the airships. Iggy reported being unable to look left due to interference from a man with a "whirly eye," and noted that they had been separated from ignatious during the process ([01:31:21](#01:31:21)).
 
 * **Observing Val at the Cafeteria**: The group located Val at the cafeteria, where Val was using food items like potatoes and peas to map out the Reso race arena for peers ([01:36:10](#01:36:10)). Upon approaching, the group was questioned by Val about their presence and the unusual use of food for modeling ([01:39:28](#01:39:28)).
 
 * **Negotiating with Val**: During the conversation, Val revealed personal pressure regarding their heritage and expectations, admitting to feeling uncomfortable with the constant attention from their handlers ([01:41:38](#01:41:38)). The group successfully negotiated a plan to meet Val at the colonnade one hour before the race to discuss studying and potential access to the airships ([01:44:51](#01:44:51)) ([01:54:12](#01:54:12)).
 
-* **Interception of Lyra**: Lyra, one of Val's handlers, attempted to interrupt the conversation with Val, but Lomi blocked their path, using their physical presence to create an immovable barrier ([01:46:58](#01:46:58)) ([01:50:08](#01:50:08)).
+* **Interception of Lyra**: Lyra, one of Val's handlers, attempted to interrupt the conversation with Val, but Loami blocked their path, using their physical presence to create an immovable barrier ([01:46:58](#01:46:58)) ([01:50:08](#01:50:08)).
 
-* **Aftermath of the Encounter**: Following the group's departure, Lomi overheard Lyra mocking Val for talking to the "mushrooms," which caused Val to leave the cafeteria in visible frustration ([01:55:32](#01:55:32)).
+* **Aftermath of the Encounter**: Following the group's departure, Loami overheard Lyra mocking Val for talking to the "mushrooms," which caused Val to leave the cafeteria in visible frustration ([01:55:32](#01:55:32)).
 
 * **Character Bonding and Interaction**: The participants discuss a narrative scene in which the characters Iggy and Pip are established as having bonded over food ([01:57:28](#01:57:28)). The discussion details a moment where Pip attempts to drink water while holding food, and Iggy throws a piece of food that inadvertently strikes a "jerk of a lady," with Luke S narrating the camera panning from the character Bramble's viewpoint to capture the incident ([01:58:30](#01:58:30)).
 
-* **The Reszo Race Invitation**: The group discusses an invitation received from the character Val to attend the "reszo race". The party plans to travel via an airship and then head down to the stadium, with the group noting that the location is a high-quality viewing area for VIPs. A conflict is identified regarding the character Lomi, who must decide between selling alcohol and watching the race ([01:58:30](#01:58:30)) ([02:00:37](#02:00:37)).
+* **The Reszo Race Invitation**: The group discusses an invitation received from the character Val to attend the "reszo race". The party plans to travel via an airship and then head down to the stadium, with the group noting that the location is a high-quality viewing area for VIPs. A conflict is identified regarding the character Loami, who must decide between selling alcohol and watching the race ([01:58:30](#01:58:30)) ([02:00:37](#02:00:37)).
 
 * **Game Leveling and Milestones**: Luke S instructs the group to level up their characters as part of a milestone before the next session. Luke S also notes a goal to have everyone complete a survey to progress past the first week of classes, provided all participants are present ([02:01:37](#02:01:37)).
 
@@ -184,7 +184,7 @@ You secured the surveyor's compass.
 
 **THE WHISPERING ALLEY**
 
-As you head back to the Block 04 dorms, you slip through a side alley to avoid the main patrol. Ahead, you spot Finch Gable—Lomi's arrogant rival candidate—whispering to an Indigo Turban enforcer.
+As you head back to the Block 04 dorms, you slip through a side alley to avoid the main patrol. Ahead, you spot Finch Gable—Loami's arrogant rival candidate—whispering to an Indigo Turban enforcer.
 
 You sneak closer and listen. Finch is trying to offer the guard information about Valerius Sterling in exchange for secure access to the Hangar Bay, so he can spy on what the second-years are building for the Reso Race.
 
@@ -210,11 +210,11 @@ Decision
 
 Slip back into Block 04 before curfew.
 
-**Luke S:** Okay. So, I'll do I'll do one more one more recap and then we can kind of get started. Um, last session five. Session five, we started off with Iggy and Ignatius and Lucky.
+**Luke S:** Okay. So, I'll do I'll do one more one more recap and then we can kind of get started. Um, last session five. Session five, we started off with Iggy and ignatious and Lucky.
 
 ### 00:32:40 {#00:32:40}
 
-**Luke S:** Um, and Lomi having a discussion with Sarge in the background making making some deals, not quite interrogating. Um, and a basically Lomi was trying to learn a little bit more about the the gameplay for the Apex Ring and for the Reszo race. Um, Iggy let Lucky play with his toys kind of for a little bit. And um, his vengeance, right?
+**Luke S:** Um, and Loami having a discussion with Sarge in the background making making some deals, not quite interrogating. Um, and a basically Loami was trying to learn a little bit more about the the gameplay for the Apex Ring and for the Reszo race. Um, Iggy let Lucky play with his toys kind of for a little bit. And um, his vengeance, right?
 
 **Holly Strebel:** inventions.
 
@@ -240,11 +240,11 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** Easy. All
 
-**Luke S:** a gaggle of follower. Um and at the same time, Ignatius and Iggy decided that they didn't want to study models anymore.
+**Luke S:** a gaggle of follower. Um and at the same time, ignatious and Iggy decided that they didn't want to study models anymore.
 
 **Holly Strebel:** right.
 
-**Luke S:** They wanted to see the real thing and they wanted to go sneak into the hangar or maybe just get into the hangar to look at some of the crafts that are being built for tomorrow's reso race basically. Um and that is pretty much where we left off. So I I think for um for Lomi then which which of the two paths would you think he would be more or or or another path maybe um that he would be looking to get in the action on between going and saying hi to I'm just gonna say Brit's back with Aggie now in the courtyard studying.
+**Luke S:** They wanted to see the real thing and they wanted to go sneak into the hangar or maybe just get into the hangar to look at some of the crafts that are being built for tomorrow's reso race basically. Um and that is pretty much where we left off. So I I think for um for Loami then which which of the two paths would you think he would be more or or or another path maybe um that he would be looking to get in the action on between going and saying hi to I'm just gonna say Brit's back with Aggie now in the courtyard studying.
 
 ### 00:35:25 {#00:35:25}
 
@@ -254,13 +254,13 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** That one
 
-**Luke S:** who obviously Lomi knows as well that Val and then the
+**Luke S:** who obviously Loami knows as well that Val and then the
 
 **Holly Strebel:** hurt.
 
-**Luke S:** Ignatius and and Iggy with the trench coat and the turban
+**Luke S:** ignatious and and Iggy with the trench coat and the turban
 
-**Luke Foreman:** I think Lomi thinking that it's probably a bad idea that Trench code in the tournament is probably going to distance himself a little bit from that. If they get information, great.
+**Luke Foreman:** I think Loami thinking that it's probably a bad idea that Trench code in the tournament is probably going to distance himself a little bit from that. If they get information, great.
 
 **Luke S:** Okay.
 
@@ -270,7 +270,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** Like
 
-**Luke S:** um is forcing Ignatius to really double down in his role of being your legs. Uh and so he will just be being guided by you anyways. Um, so we can do a quick a quick talk through of of what Iggy's goal is here. And uh, the way I picture it is you you and Ignatius make it across the courtyard um, as as the evening starts falling and it starts getting a little bit darker out and you get to the hangers and these hangers are large light.
+**Luke S:** um is forcing ignatious to really double down in his role of being your legs. Uh and so he will just be being guided by you anyways. Um, so we can do a quick a quick talk through of of what Iggy's goal is here. And uh, the way I picture it is you you and ignatious make it across the courtyard um, as as the evening starts falling and it starts getting a little bit darker out and you get to the hangers and these hangers are large light.
 
 ### 00:36:43 {#00:36:43}
 
@@ -282,7 +282,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** run out here.
 
-**Luke S:** here. This is like Ignatius's view inside of the trench
+**Luke S:** here. This is like ignatious's view inside of the trench
 
 **Holly Strebel:** Just imagine my current iPad situation as Iggy's
 
@@ -294,7 +294,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** great.
 
-**Luke S:** Um so yeah, that's you you get there and um Ignatius is is basically just going to be your legs for now. We might reccon a little bit later depending on how things go, but you can see that there is not really a way to get into the hanger.
+**Luke S:** Um so yeah, that's you you get there and um ignatious is is basically just going to be your legs for now. We might reccon a little bit later depending on how things go, but you can see that there is not really a way to get into the hanger.
 
 ### 00:37:57 {#00:37:57}
 
@@ -306,7 +306,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** being
 
-**Luke S:** So, as as you're walking on Ignatius's shoulders, you worm your way through the crowd and guard just puts his hand up and and and stops you. And though your turban does match, your coat certainly does not with the rest of the uniform. He says, "Uh, sorry, can't come. Can't come in. Private only.
+**Luke S:** So, as as you're walking on ignatious's shoulders, you worm your way through the crowd and guard just puts his hand up and and and stops you. And though your turban does match, your coat certainly does not with the rest of the uniform. He says, "Uh, sorry, can't come. Can't come in. Private only.
 
 **Holly Strebel:** I'm allowed.
 
@@ -352,7 +352,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** Yeah.
 
-**Luke S:** Okay. Uh wild wild choice. That's uh Yeah. So, so Ignatius will he'll when he comes back, the first thing he'll see after being asking you the whole time like, "Hey, what's going on? Iggy, what's going on?" is suddenly the guard is like right in front of him saying no. Um your agility, your early agility is good enough that yeah, you're able to hop up and you you start scurrying your way towards the the door of the hanger. um with the trench coat as like a long bridal chain behind you. Is that how you're picturing it?
+**Luke S:** Okay. Uh wild wild choice. That's uh Yeah. So, so ignatious will he'll when he comes back, the first thing he'll see after being asking you the whole time like, "Hey, what's going on? Iggy, what's going on?" is suddenly the guard is like right in front of him saying no. Um your agility, your early agility is good enough that yeah, you're able to hop up and you you start scurrying your way towards the the door of the hanger. um with the trench coat as like a long bridal chain behind you. Is that how you're picturing it?
 
 ### 00:41:34
 
@@ -806,7 +806,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** defeat.
 
-**Luke S:** Uh, you can maybe just hear like, oh, the I don't actually know what to call that. Young and like talking to the guards and all right, guys. Come on. We can't just let every rock person I haven't seen anyone do that before. I'm not really sure how to take it. Uh, and then we'll cut back over to to Lomi in the courtyard. Um, I don't Did you Did you get through your uh the thing or did it break on you, Sophie?
+**Luke S:** Uh, you can maybe just hear like, oh, the I don't actually know what to call that. Young and like talking to the guards and all right, guys. Come on. We can't just let every rock person I haven't seen anyone do that before. I'm not really sure how to take it. Uh, and then we'll cut back over to to Loami in the courtyard. Um, I don't Did you Did you get through your uh the thing or did it break on you, Sophie?
 
 **Sophie Foreman Noone:** Oh,
 
@@ -990,7 +990,7 @@ Slip back into Block 04 before curfew.
 
 ### 01:11:24
 
-**Luke S:** He just kind of like gets distracted by talking to the next person and sort of gets engaged in that conversation and then one of the castons will will ask him a question and pull away by the time he turns back that the person he was talking to is not there anymore. So that happens a couple times as he's walking his way across the courtyard. Um, and that's where you, Lomi, Clark, Aggie, and Brit sitting in the courtyard and and them like watching Val come across. Uh,
+**Luke S:** He just kind of like gets distracted by talking to the next person and sort of gets engaged in that conversation and then one of the castons will will ask him a question and pull away by the time he turns back that the person he was talking to is not there anymore. So that happens a couple times as he's walking his way across the courtyard. Um, and that's where you, Loami, Clark, Aggie, and Brit sitting in the courtyard and and them like watching Val come across. Uh,
 
 **Luke Foreman:** And Val's who we played the dice game with,
 
@@ -1016,7 +1016,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** yeah.
 
-**Luke Foreman:** But I think Lomi sees them walking over and is trying to kind of clock what's going
+**Luke Foreman:** But I think Loami sees them walking over and is trying to kind of clock what's going
 
 **Luke S:** Crown and ruin.
 
@@ -1028,9 +1028,9 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** Crown and ruin.
 
-**Luke Foreman:** That's right. Um he walks up to like this is a golden situation for Lomi. like he this is something butting into conversations is Lomi's forte. So he kind of comes up and like slaps Val on the back. He's like, "Hey Val, you trying to you trying to lose a little bit of more little bit more money? Uh play some Crown and Ruin tonight? What do you say?
+**Luke Foreman:** That's right. Um he walks up to like this is a golden situation for Loami. like he this is something butting into conversations is Loami's forte. So he kind of comes up and like slaps Val on the back. He's like, "Hey Val, you trying to you trying to lose a little bit of more little bit more money? Uh play some Crown and Ruin tonight? What do you say?
 
-**Luke S:** Val's like in the in the middle of one of those transitions between uh conversation. He's like, "Lom, Lomi, so good to see you." And he's like, "I would I would give you that that big Lomi high five, but um I just put on the shirt, man. You've already ruined two of my cuffs." Here's a little You've already ruined two of my cuffs,
+**Luke S:** Val's like in the in the middle of one of those transitions between uh conversation. He's like, "Lom, Loami, so good to see you." And he's like, "I would I would give you that that big Loami high five, but um I just put on the shirt, man. You've already ruined two of my cuffs." Here's a little You've already ruined two of my cuffs,
 
 **Luke Foreman:** That's all right.
 
@@ -1042,11 +1042,11 @@ Slip back into Block 04 before curfew.
 
 **Luke Foreman:** Um is is he he's older. Is he he's racing?
 
-**Luke S:** He he's he's younger than Lomi.
+**Luke S:** He he's he's younger than Loami.
 
 **Luke Foreman:** He's what?
 
-**Luke S:** He's he's younger than Lomi. He's like,
+**Luke S:** He's he's younger than Loami. He's like,
 
 **Luke Foreman:** Okay.
 
@@ -1078,7 +1078,7 @@ Slip back into Block 04 before curfew.
 
 **Luke Foreman:** Hey, Val, I uh it seems like you got other places to be, but I'll just tell you one thing. If you're uh you're looking out for us, you better be looking up. And and he's going to start walking walking away to go to go greet Britt and Aggie.
 
-**Luke S:** Okay. Uh, as as Lomi is saying that like he's you're just getting like eyeball to eyeball staires from the the woman Castellin and she's like and like trying to block the noises you're making without,
+**Luke S:** Okay. Uh, as as Loami is saying that like he's you're just getting like eyeball to eyeball staires from the the woman Castellin and she's like and like trying to block the noises you're making without,
 
 **Luke Foreman:** Yeah.
 
@@ -1096,13 +1096,13 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** but you hear him saying like uh looking. Okay. Yeah. Yeah. Yeah. No
 
-**Luke Foreman:** And as as Lomi is leaving,
+**Luke Foreman:** And as as Loami is leaving,
 
 **Luke S:** problem.
 
 **Luke Foreman:** he turns to the Castellian and goes, "Yeah, pleasure to meet you, too." And walks away.
 
-**Luke S:** And she you just hear her say like dead pan charmed. Uh, so you see Lomi going towards y'all and um Val's now kind of getting directed towards the cafeteria. It seems like
+**Luke S:** And she you just hear her say like dead pan charmed. Uh, so you see Loami going towards y'all and um Val's now kind of getting directed towards the cafeteria. It seems like
 
 **Luke Foreman:** Do you guys Brit, it's been a It's been a minute. Where Where have you
 
@@ -1158,7 +1158,7 @@ Slip back into Block 04 before curfew.
 
 **Sophie Foreman Noone:** heard.
 
-**Luke Foreman:** He seemed like more of a straight lace kind of guy. But here's the deal. We got Ignatius and Iggy doing the exact same thing. And I bet it's going perfectly.
+**Luke Foreman:** He seemed like more of a straight lace kind of guy. But here's the deal. We got ignatious and Iggy doing the exact same thing. And I bet it's going perfectly.
 
 **Sophie Foreman Noone:** Yeah, them two. Them two together for sure. I I I have all my all the faith in the world in them.
 
@@ -1196,7 +1196,7 @@ Slip back into Block 04 before curfew.
 
 ### 01:20:29
 
-**Luke S:** And you can see him talking to the people who are in line, but can't really make out much because everyone is is just chattering away from how far back y'all are. Um, Lomi, Brit, I assume are y'all going to dinner as
+**Luke S:** And you can see him talking to the people who are in line, but can't really make out much because everyone is is just chattering away from how far back y'all are. Um, Loami, Brit, I assume are y'all going to dinner as
 
 **Sophie Foreman Noone:** I think so. I mean,
 
@@ -1212,9 +1212,9 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** Okay.
 
-**Sophie Foreman Noone:** Lomi.
+**Sophie Foreman Noone:** Loami.
 
-**Luke Foreman:** we're we're like trailing a little bit back and Lomi is giving the full update on everything that's happened. And um and this is this is both for for character dev and also for Sophie.
+**Luke Foreman:** we're we're like trailing a little bit back and Loami is giving the full update on everything that's happened. And um and this is this is both for for character dev and also for Sophie.
 
 **Holly Strebel:** Thank
 
@@ -1262,7 +1262,7 @@ Slip back into Block 04 before curfew.
 
 ### 01:23:18 {#01:23:18}
 
-**Luke Foreman:** and the thing is we learned Ignatius and I were talking and
+**Luke Foreman:** and the thing is we learned ignatious and I were talking and
 
 **Luke S:** ring.
 
@@ -1286,7 +1286,7 @@ Slip back into Block 04 before curfew.
 
 ### 01:24:18
 
-**Luke S:** Lomi, I never see you out here with
+**Luke S:** Loami, I never see you out here with
 
 **Luke Foreman:** Yeah,
 
@@ -1308,7 +1308,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** She's like at the front of the line and just starts scooping up stuff uh again. And
 
-**Sophie Foreman Noone:** I think um I think Brit pulls out the compass and hands it to Lomi and says, "Aggie and I I found this when I was gone and Aggie and I don't really know what it is or what it means, but maybe we can use it in our vehicle.
+**Sophie Foreman Noone:** I think um I think Brit pulls out the compass and hands it to Loami and says, "Aggie and I I found this when I was gone and Aggie and I don't really know what it is or what it means, but maybe we can use it in our vehicle.
 
 ### 01:25:12
 
@@ -1402,7 +1402,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** room?
 
-**Holly Strebel:** I feel like he might have in some ways gone back to like start sketching out the few things he saw. But I mean, I think I also am assuming he's going to have some encounter with uh Ignatius whenever he rolls back out of there. And so if if if they both go somewhere,
+**Holly Strebel:** I feel like he might have in some ways gone back to like start sketching out the few things he saw. But I mean, I think I also am assuming he's going to have some encounter with uh ignatious whenever he rolls back out of there. And so if if if they both go somewhere,
 
 **Luke S:** Yeah.
 
@@ -1414,7 +1414,7 @@ Slip back into Block 04 before curfew.
 
 ### 01:28:31
 
-**Luke S:** Uh well, when Nikki comes back out, Ignatius is not
+**Luke S:** Uh well, when Nikki comes back out, ignatious is not
 
 **Holly Strebel:** Oh, okay. Well,
 
@@ -1532,7 +1532,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** tickets.
 
-**Luke Foreman:** He He and Wait, where's Ignatius? You guys snuck in
+**Luke Foreman:** He He and Wait, where's ignatious? You guys snuck in
 
 **Holly Strebel:** Is Iggy up close enough where he's hearing this?
 
@@ -1574,7 +1574,7 @@ Slip back into Block 04 before curfew.
 
 **Holly Strebel:** so I rolled out.
 
-**Luke Foreman:** Yeah. Uh, and you didn't you and Nikki got split up or Ignatius got split up.
+**Luke Foreman:** Yeah. Uh, and you didn't you and Nikki got split up or ignatious got split up.
 
 **Holly Strebel:** You could say
 
@@ -1612,7 +1612,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** right? It's my first time having it, too. I love it. Can't have enough. Literally. And she takes like four pieces like Twizzlers and just like chops off a whole lot. That was a lot for She just like now started chewing for the next several minutes.
 
-**Holly Strebel:** I'm just remembering that Ignatius and Iggy like went crazy on the buffet that first day. So, I think Iggy is also like he's just anything she's doing, he's imitating it. Like he's like re reestablishing like his hive for food.
+**Holly Strebel:** I'm just remembering that ignatious and Iggy like went crazy on the buffet that first day. So, I think Iggy is also like he's just anything she's doing, he's imitating it. Like he's like re reestablishing like his hive for food.
 
 **Luke S:** Nice.
 
@@ -1630,11 +1630,11 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** Iggy and
 
-**Luke Foreman:** Lomi.
+**Luke Foreman:** Loami.
 
 **Holly Strebel:** Yeah.
 
-**Luke Foreman:** Lomi has since opened his opened one of his textbooks and is
+**Luke Foreman:** Loami has since opened his opened one of his textbooks and is
 
 ### 01:34:41
 
@@ -1644,9 +1644,9 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** I gota study now.
 
-**Holly Strebel:** I think Iggy just keeps like taking one bite and then handing one to Lomi. Just like trying to feed him too cuz he doesn't understand why he's not eating.
+**Holly Strebel:** I think Iggy just keeps like taking one bite and then handing one to Loami. Just like trying to feed him too cuz he doesn't understand why he's not eating.
 
-**Luke S:** Grandma just seems like no thank you. Um Aggie, weren't we going to talk to Val? Uh yes, that that was the plan at some point. Well, I just happened to notice that the mean one went to the bathroom. And you look over and um Lyra is not by Val. Only only Ludo. Looks like an opportunity to me. Just gonna get up and just walk over. Okay. Uh yeah. So as you approach like half look at the rest of the table and she's like on her like anyone else but yeah just walks over there. Anyone gonna So um Iggy's eating Lomi is studing.
+**Luke S:** Grandma just seems like no thank you. Um Aggie, weren't we going to talk to Val? Uh yes, that that was the plan at some point. Well, I just happened to notice that the mean one went to the bathroom. And you look over and um Lyra is not by Val. Only only Ludo. Looks like an opportunity to me. Just gonna get up and just walk over. Okay. Uh yeah. So as you approach like half look at the rest of the table and she's like on her like anyone else but yeah just walks over there. Anyone gonna So um Iggy's eating Loami is studing.
 
 ### 01:36:10 {#01:36:10}
 
@@ -1768,7 +1768,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** And it's like, oh, what's his what's the little one's name? I don't remember. Um, two of them have like the same name, though. Yeah, there's there's Iggy and there's Yeah.
 
-**Luke Foreman:** I think Lomi sees the kind of like gesturing and stuff, so he walks
+**Luke Foreman:** I think Loami sees the kind of like gesturing and stuff, so he walks
 
 **Luke S:** Okay. Uh, as Loy's walking over,
 
@@ -1780,7 +1780,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** power striding towards um towards the group and your backs are to her though.
 
-**Luke Foreman:** Lomi is going to try and intercept that actually keep this conversation
+**Luke Foreman:** Loami is going to try and intercept that actually keep this conversation
 
 **Luke S:** Okay. Okay.
 
@@ -1800,7 +1800,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** mine.
 
-**Luke Foreman:** the into kind of her path kind of with with his his tray of food and everything and then kind of si getting like a wide stance. And this is this is something that Lomi has done in his past before. Has kind of always chocked it up more to like being um being like a heavy set, slow center of gravity guy, but he he like braces himself. Um, and this is actually like an earthkin where it's like his connection with the ground and just becomes an immovable wall and just kind of like locks in place.
+**Luke Foreman:** the into kind of her path kind of with with his his tray of food and everything and then kind of si getting like a wide stance. And this is this is something that Loami has done in his past before. Has kind of always chocked it up more to like being um being like a heavy set, slow center of gravity guy, but he he like braces himself. Um, and this is actually like an earthkin where it's like his connection with the ground and just becomes an immovable wall and just kind of like locks in place.
 
 ### 01:48:21
 
@@ -1992,9 +1992,9 @@ Slip back into Block 04 before curfew.
 
 **Sophie Foreman Noone:** Thanks.
 
-**Luke S:** um I think Lomi, you you kind of can see that they're they're finishing up with the conversation. So, what what would you do?
+**Luke S:** um I think Loami, you you kind of can see that they're they're finishing up with the conversation. So, what what would you do?
 
-**Luke Foreman:** Did Did Lomi overhear any of the the like invite to the blimp or
+**Luke Foreman:** Did Did Loami overhear any of the the like invite to the blimp or
 
 **Luke S:** Um,
 
@@ -2020,7 +2020,7 @@ Slip back into Block 04 before curfew.
 
 **Luke S:** so right as as you kind of clear out and and Lyra side steps around you, um, you out of the corner, who who would be who would be walking last, do you think?
 
-**Luke Foreman:** I think Lomi would because he would also turn back and go, "Oh, yeah. Hey, uh, great great to meet you again, by the
+**Luke Foreman:** I think Loami would because he would also turn back and go, "Oh, yeah. Hey, uh, great great to meet you again, by the
 
 **Luke S:** and she just doesn't even like acknowledge you at all. And instead,
 
@@ -2030,7 +2030,7 @@ Slip back into Block 04 before curfew.
 
 **Sophie Foreman Noone:** Did we hear her say that?
 
-**Luke S:** No, only Lomi did. She kind of said it under her breath to like the this the side of his head,
+**Luke S:** No, only Loami did. She kind of said it under her breath to like the this the side of his head,
 
 **Sophie Foreman Noone:** Okay.
 
@@ -2160,7 +2160,7 @@ Slip back into Block 04 before curfew.
 
 **Luke Foreman:** What does that happen?
 
-**Luke S:** table in front of her and then her eyes just like daggers into uh Iggy's Try to see Lomi. Yeah. I mean, Lomi is a couple of steps, but yeah.
+**Luke S:** table in front of her and then her eyes just like daggers into uh Iggy's Try to see Loami. Yeah. I mean, Loami is a couple of steps, but yeah.
 
 **Luke Foreman:** Yeah,
 
@@ -2176,7 +2176,7 @@ Slip back into Block 04 before curfew.
 
 **Luke Foreman:** that's
 
-**Luke S:** She just sees Lomi over there. And
+**Luke S:** She just sees Loami over there. And
 
 **Luke Foreman:** the best place to see the race.
 
@@ -2216,7 +2216,7 @@ Slip back into Block 04 before curfew.
 
 **Sophie Foreman Noone:** Six.
 
-**Luke S:** So now Lomi has to choose between uh selling booze and the seats of the
+**Luke S:** So now Loami has to choose between uh selling booze and the seats of the
 
 **Luke Foreman:** I know.
 
@@ -2517,7 +2517,7 @@ Slip back into Block 04 before curfew.
 
    > You catch your breath behind a massive canvas partition. Suddenly, a hand clamps over your mouth and drags you backward into a darkened alcove. Your skin flares with heat—but the hand is immune. It's Ember.
    > 
-   > Your childhood cousin looks relieved. 'Ignatius! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'
+   > Your childhood cousin looks relieved. 'ignatious! Thank the Ancestors. You're quiet on your feet. Everyone is chasing that rolling metal ball of a student towards Hangar 12, but I need you right now. It's about Valerius's team.'
 
    * **Decision:** **Follow Ember immediately** _She's your cousin and she looks genuinely desperate. Let's see what she wants._
 
@@ -2538,7 +2538,7 @@ Slip back into Block 04 before curfew.
 
 7. **[q5_favor_success]** DEAL STRUCK: FUTURE FAVOR
 
-   > Ember spits on her palm, her skin sparking. 'A favor. Traditional style. I accept, Ignatius. Just don't let this rig stall!' You gained a future favor!
+   > Ember spits on her palm, her skin sparking. 'A favor. Traditional style. I accept, ignatious. Just don't let this rig stall!' You gained a future favor!
 
    * **Decision:** **Get to work** _Step up to the machine._
 

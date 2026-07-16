@@ -1,4 +1,6 @@
-import json, re
+import json, re, sys
+
+sys.stdout.reconfigure(encoding='utf-8')
 
 with open(r'd:\Code\vumbua\meta\foundry-exports\vumbua-codex.json', 'r', encoding='utf-8') as f:
     data = json.load(f)

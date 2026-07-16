@@ -52,7 +52,7 @@ Two flows cover 90% of ongoing work. Everything else is referenced below.
 ```
 /add-session
 Process Session N. Raw transcript is at sessions/transcripts/raw/sN-raw.md.
-Players: Sophie (Britt), Kristina (Aggie), John (Ignatius), Luke (Lomi), Holly (Iggy).
+Players: Sophie (Britt), Kristina (Aggie), John (ignatious), Luke (Loami), Holly (Iggy).
 Date: [session date]
 ```
 
@@ -108,6 +108,15 @@ After all three checkpoints are cleared, the AI runs the Foundry rebuild.
 
 ## Other workflows
 
+### `/storyboard` — Generate graphic novel comic pages for a session
+
+```
+/storyboard
+Generate the comic storyboard for Session N.
+```
+
+Run this after `/add-session` completes and the clean transcript is confirmed. The workflow will read the transcript and all character files, propose a scene outline for your approval, then generate 2–3 pages at a time and stop for your review before continuing.
+
 ### `/add-lore` — Add or update world lore
 
 ```
@@ -122,7 +131,7 @@ All files in `locations/` are auto-included in the next Foundry rebuild.
 
 ```
 /surveyor-protocols
-Create a choose-your-own-adventure survey for Ignatius to catch him up.
+Create a choose-your-own-adventure survey for ignatious to catch him up.
 [paste details or attach notes]
 ```
 

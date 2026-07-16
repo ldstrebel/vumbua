@@ -48,8 +48,8 @@ Key indexes used:
   - “Allara Thorne” → `[[Captain Elara Thorne|Captain Elara Thorne]]` (note: Captain Elara Thorne is referenced in multiple docs but does not yet have a dedicated page).
 
 ### Session 02.5 (`session-02.5.md`)
-- Fixed typo: **Nick → John** (player name) in a sentence that is clearly referring to [[ignatius|Ignatius]].
-- Fixed typo: **Ignatious → Ignatius**.
+- Fixed typo: **Nick → John** (player name) in a sentence that is clearly referring to [[ignatious|ignatious]].
+- Fixed typo: **Ignatious → ignatious**.
 - Added/normalized wikilinks in quick summary + scene headers:
   - `[[Block 99]]`, `[[Walker-Core]]`, `[[Tommy]]`, `[[Lucina]]`, `[[professor-kante|Professor Kante]]`, `[[The Power System|Global Amplitude]]`, `[[Celestial Lounge]]`, `[[Serra Vox|Serra]]`.
 
@@ -57,7 +57,7 @@ Key indexes used:
 - Canonicalized “Captain Aara Thorne” → **Captain Elara Thorne** in:
   - `characters/index.md`
   - `characters/npcs/silas-thorne.md`
-  - `characters/player-characters/ignatius.md`
+  - `characters/player-characters/ignatious.md`
 
 ---
 

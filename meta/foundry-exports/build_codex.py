@@ -404,7 +404,7 @@ def populate_link_map():
     # 3. Scan NPCs
     if os.path.exists(NPC_DIR):
         for fname in os.listdir(NPC_DIR):
-            if fname.endswith('.md') and fname != 'index.md':
+            if fname.endswith('.md') and fname not in ['index.md', 'captains-dossier.md', 'lucky-timeline.md']:
                 fpath = os.path.join(NPC_DIR, fname)
                 register_file_links(fpath, fname[:-3])
                 
@@ -553,7 +553,7 @@ for fname in sorted(os.listdir(PC_DIR)):
 # 5. Process NPCs
 sort_idx = 100
 for fname in sorted(os.listdir(NPC_DIR)):
-    if fname.endswith('.md') and fname != 'index.md':
+    if fname.endswith('.md') and fname not in ['index.md', 'captains-dossier.md', 'lucky-timeline.md']:
         fpath = os.path.join(NPC_DIR, fname)
         with open(fpath, 'r', encoding='utf-8') as f:
             content = f.read()
