@@ -16,7 +16,7 @@
 ### 🧲 "Missing PC" Hooks (If they wander off Mon/Tue)
 If you aren't sure where a PC is during Monday/Tuesday prep, pull them toward these encounters:
 - **[[iggy\|Iggy]] (Resonance Hook):** [[professor-kante\|Professor Kante]] asks him to monitor a weird data-feed near the North Arc during the race.
-- **[[loami\|Loami]] / [[ignatious\|ignatious]] (Revenge Hook):** They spot [[lucky\|Lucky]] holding the stolen pocket watch, laughing with the Nstyl ambushers. A clear provocation.
+- **[[lomi\|Lomi]] / [[ignatius\|Ignatius]] (Revenge Hook):** They spot [[lucky\|Lucky]] holding the stolen pocket watch, laughing with the Nstyl ambushers. A clear provocation.
 - **[[britt\|Britt]] / [[aggie\|Aggie]] (Nature Hook):** They see simulated "Petrified Trees" being loaded into the arena. [[rill\|Rill]] is arguing with the crew that the "Resonance Load is too high for the bark."
 
 ---
@@ -96,7 +96,7 @@ The Resonance Race is a "living ecosystem." Use these NPCs to drip-feed lore, pr
 | NPC | Action / Hook | The "Intel" or Reward |
 | :--- | :--- | :--- |
 | [[valentine-sterling\|Valentine]] | Looking miserable in a formal suit, holding a glass of glowing nectar. | **The Hook:** He pulls a PC aside: *"My dad has a slot on his ship for the next expedition. I want you on it. Help me get out of here."* |
-| [[valerius-sterling|Valerius Sterling]] | Providing booming live commentary over the speakers. | **The Power:** He ignores the "Siren" warnings, calling them "superstitious nonsense" to keep the crowd excited. |
+| [[Valerius Sterling Sr.]] | Providing booming live commentary over the speakers. | **The Power:** He ignores the "Siren" warnings, calling them "superstitious nonsense" to keep the crowd excited. |
 
 ---
 
@@ -135,7 +135,7 @@ As the PCs move through the tiers or look through their binoculars:
 2. **The Safety Hazard:** If the PCs are on the Rim-Tracker, the open-air car has a problem. A "staff member" in a generic uniform is crouched at the undercarriage access panel, muttering about cable tension. It's **[[sarge|Sarge]]**. He has been riding this loop since before the gates opened. *"Fourteen tons of live passengers on a loop track and they used grade-four mounting bolts. Grade. Four."* He won't stop riding until he's satisfied, which means he won't stop riding.
 3. **The Silent Watcher:** If the PCs use binoculars to scan the Rim-Tracker, they might spot **[[nyx|Nyx]]**. She isn't cheering; she's timing the rigs with a mechanical stopwatch. If she catches them looking, she simply pulls her hood lower and moves to the next car.
 4. **The Merchant of Hype:** **[[lucky|Lucky]]** tried to sell them a "Shatter Stamper" flag five minutes ago. Now, he's sprinted around the rim and is trying to sell them a "Pudge" flag because they just hit a major node. *"Buy low! Buy low! Shatter's losing connection, Pudge is the new hotness!"*
-5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatious|ignatious]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
+5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatius|Ignatius]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
 
 ---
 
@@ -158,7 +158,7 @@ Use the beats below to run the race as a montage. Each one is a GM-read descript
 > The horn fires. The ground line explodes forward. 
 > Goliath surges from the dirt with a concussive roar felt through the stone steps. Stinger clips the water tension and vanishes into the Petrified Forest at speed. High above and far behind, the Walker-Core releases its cradle. The gryphon-hybrid drops, catches the rim thermal, and glides high over the chaos, banking north into the volcanic flat. Down below, Shatter Stamper tears out from the mud, their heavy rig bulldozing a straight line across the canyon floor.
 
-*PC beat: [[loami|Loami]] — the telemetric nodes at the starting line are reading something from each rig as they cross the threshold. Two seconds per rig, exactly. Every rig.*
+*PC beat: [[lomi|Lomi]] — the telemetric nodes at the starting line are reading something from each rig as they cross the threshold. Two seconds per rig, exactly. Every rig.*
 
 ---
 
@@ -248,9 +248,9 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
 
 |                          |                                                                                                                                                       |
 | ------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Role**                 | [[scrivener-guild|Scrivener Guild]] Captain                                                                                                           |
+| **Role**                 | [[scrivener-guild                                                                                                                                     |
 | **Specialty**            | Fungal biology, petrified bark analysis                                                                                                               |
-| **Personality**          | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[ignatious]] will burn his specimens.             |
+| **Personality**          | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[Ignatius]] will burn his specimens.             |
 | **Motivation**           | The trees of the [[Mizizi Petrified Forest]] may be the oldest living records in Harmony. If they're *remembering* something, Ink wants to know what. |
 | **Relationship to Rill** | Research partners. He provides the scientific rigour; she provides the cultural context and access.                                                   |
 

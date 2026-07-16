@@ -85,8 +85,8 @@ The distinction between major and minor is not purely about raw power---it's abo
 
 ### 12. Settika
 - **Resource:** Prism Falls
-- **Description:** Water that responds to conceptual imbuement (revealing aligned moments in a person's soul) or, in its base state, acts as a diagnostic tool that changes color to illuminate physical, structural, or spiritual disharmonies (like disease, cracked wood/bone, or physical disguises).
-- **Status:** Integrated. Used in medicine, security, and engineering inspection.
+- **Description:** Water that reveals the true nature of whatever it touches. Rot, disease, structural weakness, and hidden flaws become immediately visible when Prism Falls water is poured over them.
+- **Status:** Integrated. Used in medicine, engineering inspection, and food safety.
 
 ### 13. Nstyl
 - **Resource:** Silent Silt

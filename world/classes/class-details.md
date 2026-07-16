@@ -34,7 +34,7 @@ This document details the core classes held in Hangar 12 (The "Echo Chamber") an
 - **Teaching Style:** **Kinetic Drills.** He literally throws objects (chalk, wrenches, weighted pods) at students to test their predictive reflexes.
 - **Exam Alignment:** [[Gened exam#PRACTICAL: THE BLIND FLY|Module 5: Practical: The Blind Fly]]
 - **Val's Guess (Morning):** *"Watch the dials. The compass never lies, even if the windows are blacked out."*
-- **Val's Guess (After Class):** *"Hallow hit ignatious with chalk today because he didn't 'feel' it coming. The exam's Blind Fly isn't a math problem—it's an Instinct check. If the windows black out, trust your marrow, not the compass."*
+- **Val's Guess (After Class):** *"Hallow hit Ignatius with chalk today because he didn't 'feel' it coming. The exam's Blind Fly isn't a math problem—it's an Instinct check. If the windows black out, trust your marrow, not the compass."*
 
 ## 4. Resonance Biology
 - **Instructor:** Doctor Aris

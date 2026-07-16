@@ -45,11 +45,11 @@ The team formulated an impromptu plan to infiltrate the secured hangars to obser
 
 * **Building a Fence and Watch Discussion**: John Hagey and Luke Foreman briefly discuss the difficulty of building a fence, with John Hagey offering a trade of a stay near the beach for Luke Foreman's welder. The conversation shifts as they discuss Luke S's loop band and John Hagey mentions needing a new watch. Luke S notes that they still wear their watch but got a good deal on the loop band ([00:47:44](#00:47:44)).
 
-* **Meeting Recap and Current Status**: Luke S, acting as the Dungeon Master (DM), offers a quick recap of the current game status, noting that the characters are at school and trying to avoid getting cut in the next wave. It is the end of the second night, which is Monday night, and the characters have split up ([00:48:42](#00:48:42)). Iggy (ignatious) and Loami are in Ly's warehouse, which is described as a storage closet inside the dorms being used as an interrogation chamber ([00:49:54](#00:49:54)).
+* **Meeting Recap and Current Status**: Luke S, acting as the Dungeon Master (DM), offers a quick recap of the current game status, noting that the characters are at school and trying to avoid getting cut in the next wave. It is the end of the second night, which is Monday night, and the characters have split up ([00:48:42](#00:48:42)). Iggy (Ignatius) and Lomi are in Ly's warehouse, which is described as a storage closet inside the dorms being used as an interrogation chamber ([00:49:54](#00:49:54)).
 
 * **School Context and Upcoming Cutoffs**: The players are reminded that the rating from their entrance exam is important for opening doors, but the main goal is to avoid being rated 'rust' and thus ineligible to continue at the school. Already 25,000 people have been cut after the first exam, and another 20,000 will be dropped after the exam on Friday ([00:49:54](#00:49:54)). Classes are scheduled for Monday through Thursday morning, with the 'reszo race,' a big sporting event, scheduled for Thursday afternoon ([00:51:00](#00:51:00)).
 
-* **Initiation of the Deal with Lucky**: The conversation focuses on Loami and ignatious, who are in Ly's warehouse/storage room, which has been repurposed for Lucky's "smuggling operation". They are making an initial deal with Lucky to get more information about the exam, which he offers if he can ask Iggy some questions ([00:52:56](#00:52:56)). John Hagey clarifies that the group already secured a "decent amount" of the study guide ([00:54:17](#00:54:17)).
+* **Initiation of the Deal with Lucky**: The conversation focuses on Lomi and Ignatius, who are in Ly's warehouse/storage room, which has been repurposed for Lucky's "smuggling operation". They are making an initial deal with Lucky to get more information about the exam, which he offers if he can ask Iggy some questions ([00:52:56](#00:52:56)). John Hagey clarifies that the group already secured a "decent amount" of the study guide ([00:54:17](#00:54:17)).
 
 * **Lucky’s Offer and Interest in Iggy**: Lucky clarifies that the original offer was their annotations to the exam answers, not just the guide ([00:54:17](#00:54:17)). Lucky explains that he is primarily interested in Iggy because a device Iggy gave them did not use any "harmony tech," instead relying on old-school mechanics like springs and pins ([00:55:13](#00:55:13)). Iggy, exhibiting discomfort, attempts to backpedal out of the room to avoid answering questions about their origins ([00:56:09](#00:56:09)).
 
@@ -61,29 +61,29 @@ The team formulated an impromptu plan to infiltrate the secured hangars to obser
 
 * **Finalizing the Trade and Agent Representation**: John Hagey assumes the role of Iggy’s agent to handle the communication and negotiation ([01:03:19](#01:03:19)). Lucky ultimately agrees to give the annotated exam guide and information about the reszo race in exchange for more trinkets and knowledge of how Iggy made them. Iggy, meanwhile, is visibly confused by the negotiation happening around them ([01:04:22](#01:04:22)) ([01:08:55](#01:08:55)).
 
-* **Discussion of Reszo Race Tactics**: Lucky gives Loami specific information about the Reszo race, including a side note about an underdog second-class cadet named Pudge who is flying a biological vehicle (a Griffin) against common racing strategy. Loami, an underground worker, is interested in the underdog teams ([01:06:32](#01:06:32)). Lucky emphasizes that successful teams find the right "synergy" between their exploration style and the party composition, rather than reusing previous years' winning designs ([01:18:20](#01:18:20)).
+* **Discussion of Reszo Race Tactics**: Lucky gives Lomi specific information about the Reszo race, including a side note about an underdog second-class cadet named Pudge who is flying a biological vehicle (a Griffin) against common racing strategy. Lomi, an underground worker, is interested in the underdog teams ([01:06:32](#01:06:32)). Lucky emphasizes that successful teams find the right "synergy" between their exploration style and the party composition, rather than reusing previous years' winning designs ([01:18:20](#01:18:20)).
 
-* **Specific Race Details and Scouting**: Loami presses for more advanced concepts about the race, specifically asking about advantageous designs and map patterns ([01:15:12](#01:15:12)). Lucky reveals that the arena is roughly 50/50 land and water, advising the team to focus on vehicles that can quickly transition from water to land ([01:19:20](#01:19:20)). Loami attempts to get a tip on where Justa’s spire, a specific lift stone, might pop up this year, with Lucky confirming it is more likely to appear in a vegetated area ([01:20:19](#01:20:19)).
+* **Specific Race Details and Scouting**: Lomi presses for more advanced concepts about the race, specifically asking about advantageous designs and map patterns ([01:15:12](#01:15:12)). Lucky reveals that the arena is roughly 50/50 land and water, advising the team to focus on vehicles that can quickly transition from water to land ([01:19:20](#01:19:20)). Lomi attempts to get a tip on where Justa’s spire, a specific lift stone, might pop up this year, with Lucky confirming it is more likely to appear in a vegetated area ([01:20:19](#01:20:19)).
 
-* **Scouting Trip to the Apex Ring**: ignatious and Loami decide to go on a scouting trip to the Apex Ring, the location of the reszo race ([01:27:11](#01:27:11)). They pass through the campus and approach a large archway labeled "Apex Rings" ([01:28:20](#01:28:20)). They note that the bleachers are public access 24/7, and they can see the trains are currently on the rails but not running ([01:29:31](#01:29:31)).
+* **Scouting Trip to the Apex Ring**: Ignatius and Lomi decide to go on a scouting trip to the Apex Ring, the location of the reszo race ([01:27:11](#01:27:11)). They pass through the campus and approach a large archway labeled "Apex Rings" ([01:28:20](#01:28:20)). They note that the bleachers are public access 24/7, and they can see the trains are currently on the rails but not running ([01:29:31](#01:29:31)).
 
-* **Apex Ring Scouting Outcome**: Loami attempts to check the maintenance entrance but is aware that the security system uses "prism water," which makes it difficult to spoof. Loami realizes that because they are no longer maintaining the facility, the locks would not open for them ([01:31:40](#01:31:40)). They also establish that the spires emerge randomly from underground, and there is no activity in the basin at night, only groundskeepers maintaining the public areas ([01:34:02](#01:34:02)).
+* **Apex Ring Scouting Outcome**: Lomi attempts to check the maintenance entrance but is aware that the security system uses "prism water," which makes it difficult to spoof. Lomi realizes that because they are no longer maintaining the facility, the locks would not open for them ([01:31:40](#01:31:40)). They also establish that the spires emerge randomly from underground, and there is no activity in the basin at night, only groundskeepers maintaining the public areas ([01:34:02](#01:34:02)).
 
 * **Decision to Rest and Prepare for Classes**: Upon returning from the scouting trip, the group decides that sleep is important for the next day's operations ([01:25:51](#01:25:51)). The characters are reminded that the second-year cadet race is on Thursday afternoon, and their exams are on Friday ([01:41:27](#01:41:27)). The group plans to dedicate time to studying, with Aggie prioritizing studying 60-70% of the time, though still spending time with Pip and Bramble ([01:43:18](#01:43:18)).
 
-* **Loami's Study Strategy and Focus on the Race**: Loami's current focus is challenging due to the upcoming exams, but they become highly engaged once they realize that specific exams, particularly volumetric cartography and crisis management, are relevant to the race. Loami plans to apply their education practically to the ring, such as learning about mapping, plotting routes, and cartography, viewing this as a way to "kill two birds with one stone" ([01:45:40](#01:45:40)). They intend to secure a good seat at the race to take environmental notes and observe how the spires interact ([01:52:48](#01:52:48)).
+* **Lomi's Study Strategy and Focus on the Race**: Lomi's current focus is challenging due to the upcoming exams, but they become highly engaged once they realize that specific exams, particularly volumetric cartography and crisis management, are relevant to the race. Lomi plans to apply their education practically to the ring, such as learning about mapping, plotting routes, and cartography, viewing this as a way to "kill two birds with one stone" ([01:45:40](#01:45:40)). They intend to secure a good seat at the race to take environmental notes and observe how the spires interact ([01:52:48](#01:52:48)).
 
-* **ignatious's Professional Goals and Study Habits**: After taking in a lot of new information, ignatious is focused on what they need to do to become a successful explorer and a great captain ([01:45:40](#01:45:40)). Their goal is to gain prestige to ensure the Ashlin Islands maintain their representation and individuality, requiring them to pass classes and do well in the academic program. ignatious splits their time studying as best they can, frequently getting distracted by daydreaming about the future ([01:47:20](#01:47:20)).
+* **Ignatius's Professional Goals and Study Habits**: After taking in a lot of new information, Ignatius is focused on what they need to do to become a successful explorer and a great captain ([01:45:40](#01:45:40)). Their goal is to gain prestige to ensure the Ashlin Islands maintain their representation and individuality, requiring them to pass classes and do well in the academic program. Ignatius splits their time studying as best they can, frequently getting distracted by daydreaming about the future ([01:47:20](#01:47:20)).
 
 * **Iggy's Interest in New Information and Inventions**: Iggy is quickly drawn into the study materials, especially if they hint at new ways of understanding the world, viewing everything as a new mystery. They become enamored with the information, which is different from anything they have previously encountered, and start formulating a few things or changing their inventions in their notebook ([01:48:15](#01:48:15)). Iggy is less invested in relationships, becoming intensely absorbed in a project if the new information triggers their building instincts, potentially using the power source offered by Professor Conte at the lab ([01:49:24](#01:49:24)).
 
 * **Preparation for the Thursday Race and Networking Opportunities**: The group notes that the days are moving quickly, and the race is scheduled for Thursday, serving as a significant social and networking event ([01:50:14](#01:50:14)). Pip and Bramble emphasize the race as an opportunity to make an impression on captains and network with people outside the academy. Attendees are categorized into three classes: the elite who watch from airships, the plebeian pedestrians with standing room only, and everyone else who uses the train to move around the large arena ([01:53:54](#01:53:54)) ([01:55:54](#01:55:54)).
 
-* **Loami's Plan to Fundraise and Partner with Lucky**: Loami plans to attend the race and use the opportunity for a fundraising event by supplying Engine Grease grog ([01:57:19](#01:57:19)). Loami proposes a partnership with Lucky to sell the drink at the stadium, suggesting using the train as a distribution point to get people "lubed up" so they buy more merchandise ([02:04:55](#02:04:55)). They agree on a plan where Loami will bring ideas and act as a distributor for Lucky's merchandise, calling the drink "Ambrosia of luck" ([02:05:56](#02:05:56)).
+* **Lomi's Plan to Fundraise and Partner with Lucky**: Lomi plans to attend the race and use the opportunity for a fundraising event by supplying Engine Grease grog ([01:57:19](#01:57:19)). Lomi proposes a partnership with Lucky to sell the drink at the stadium, suggesting using the train as a distribution point to get people "lubed up" so they buy more merchandise ([02:04:55](#02:04:55)). They agree on a plan where Lomi will bring ideas and act as a distributor for Lucky's merchandise, calling the drink "Ambrosia of luck" ([02:05:56](#02:05:56)).
 
-* **ignatious and Iggy's Attempt to Access the Hangers**: ignatious expresses a desire to observe the activity in the hangers, which are where the actual race builds are being stored. The hangers are heavily guarded by guards wearing turbans, leading Iggy and ignatious to consider attempting to break into the building ([01:59:41](#01:59:41)). The two realize they possess a trench coat and a turban, which Iggy had previously worn as a scarf after the guard did not want it back, suggesting a plan based on the items ([02:00:36](#02:00:36)).
+* **Ignatius and Iggy's Attempt to Access the Hangers**: Ignatius expresses a desire to observe the activity in the hangers, which are where the actual race builds are being stored. The hangers are heavily guarded by guards wearing turbans, leading Iggy and Ignatius to consider attempting to break into the building ([01:59:41](#01:59:41)). The two realize they possess a trench coat and a turban, which Iggy had previously worn as a scarf after the guard did not want it back, suggesting a plan based on the items ([02:00:36](#02:00:36)).
 
-* **The Impromptu Plan to Infiltrate the Hangers**: The idea to go to the hangers forms when ignatious, frustrated by Iggy's failed models, jokingly suggests they should just go look at the actual builds. The plan forms on Wednesday night, the night before the race, as Loami returns from making their deal with Lucky, passing by a group following Val, as well as Iggy and ignatious leaving their dorms with the turban and trench coat. The group sees a gaggle of people following Val and also Aggie and Bramble studying in the courtyard ([02:02:54](#02:02:54)) ([02:07:59](#02:07:59)).
+* **The Impromptu Plan to Infiltrate the Hangers**: The idea to go to the hangers forms when Ignatius, frustrated by Iggy's failed models, jokingly suggests they should just go look at the actual builds. The plan forms on Wednesday night, the night before the race, as Lomi returns from making their deal with Lucky, passing by a group following Val, as well as Iggy and Ignatius leaving their dorms with the turban and trench coat. The group sees a gaggle of people following Val and also Aggie and Bramble studying in the courtyard ([02:02:54](#02:02:54)) ([02:07:59](#02:07:59)).
 
 *You should review Gemini's notes to make sure they're accurate. [Get tips and learn how Gemini takes notes](https://support.google.com/meet/answer/14754931)*
 
@@ -141,7 +141,7 @@ Apr 28, 2026
 **Holly Strebel:** been a while,  
 **Luke S:** Uh,  
 **Holly Strebel:** huh?  
-**Luke S:** been a while. So, I can do maybe a quick recap of the things from the DM's perspective. And then if y'all want to ask a couple of questions about things, it might might be a good thing to do. But but basically like TLDDR is you're at school and you're trying not to get cut and the next wave. So like right right now it's um it's the end of the second night. So first first day you were there and then you went into the club. That was like intro night and then you got back went to classes and then this is like the first night so Monday night basically. Um, and y'all split up. Um, Iggy is uh just having a conversation with Lucky, with S with What the hell's everyone's names again? Me, but I don't remember. Um, with ignatious, and with Loami.  
+**Luke S:** been a while. So, I can do maybe a quick recap of the things from the DM's perspective. And then if y'all want to ask a couple of questions about things, it might might be a good thing to do. But but basically like TLDDR is you're at school and you're trying not to get cut and the next wave. So like right right now it's um it's the end of the second night. So first first day you were there and then you went into the club. That was like intro night and then you got back went to classes and then this is like the first night so Monday night basically. Um, and y'all split up. Um, Iggy is uh just having a conversation with Lucky, with S with What the hell's everyone's names again? Me, but I don't remember. Um, with Ignatius, and with Lomi.  
    
  
 
@@ -181,14 +181,14 @@ Apr 28, 2026
 **John Hagey:** too.  
 **Luke S:** Um,  
 **Holly Strebel:** Delish.  
-**Luke S:** so the the first part is is really um we'll jump over into the the not quite interrogation chamber, but to give Holly a second to eat, um, Loami and ignatious as um, as you make this this initial deal with Lucky to get um some some some questions uh like the the exam he offers a little bit more if he could ask Iggy some questions.  
+**Luke S:** so the the first part is is really um we'll jump over into the the not quite interrogation chamber, but to give Holly a second to eat, um, Lomi and Ignatius as um, as you make this this initial deal with Lucky to get um some some some questions uh like the the exam he offers a little bit more if he could ask Iggy some questions.  
    
  
 
 ### 00:52:56 {#00:52:56}
 
    
-**Luke S:** You see Sarge is there as well, Loami, who you have uh some history with. And um he comes with y'all inside and you're you go into basically like I was describing one of like a big storage room inside the dorms which has been quasi repurposed to be what seems to be like Ly's little um smuggling operation. And there's some random boxes scattered around. He has a plywood sheet thrown over, a couple of um spare boxes, and that on top of which he's got a notebook thrown down and bunch of random things and uh he's got a chair behind it that he goes and plops into. And so, uh and Sarge goes and and and doesn't really like loiter near, but goes and sits off to the the far side of the room. So, ignatious and and um and Loami, would you all like what what's what's the energy like going into this? Are you feeling like you would spend more time near Lucky  
+**Luke S:** You see Sarge is there as well, Lomi, who you have uh some history with. And um he comes with y'all inside and you're you go into basically like I was describing one of like a big storage room inside the dorms which has been quasi repurposed to be what seems to be like Ly's little um smuggling operation. And there's some random boxes scattered around. He has a plywood sheet thrown over, a couple of um spare boxes, and that on top of which he's got a notebook thrown down and bunch of random things and uh he's got a chair behind it that he goes and plops into. And so, uh and Sarge goes and and and doesn't really like loiter near, but goes and sits off to the the far side of the room. So, Ignatius and and um and Lomi, would you all like what what's what's the energy like going into this? Are you feeling like you would spend more time near Lucky  
 **John Hagey:** Remind me,  
 **Luke S:** or  
 **John Hagey:** we we got as much as we could when it came to the study guide, right?  
@@ -308,7 +308,7 @@ Apr 28, 2026
 **Holly Strebel:** But I have more work.  
 **Luke S:** You You do you do um Okay. Yeah. I mean, uh let's talk more. What What um what can I What What can Lucky do for you? Well, I don't think See,  
 **Holly Strebel:** Nothing.  
-**Luke S:** see I I know other things, too. Um I uh Well, do you do you trust these guys? And he points at ignatious and  
+**Luke S:** see I I know other things, too. Um I uh Well, do you do you trust these guys? And he points at Ignatius and  
    
  
 
@@ -440,8 +440,8 @@ Apr 28, 2026
 **John Hagey:** lie.  
 **Luke S:** them. Um so out of seven.  
 **Luke Foreman:** Okay.  
-**Luke S:** Uh well, yeah. Well, let's say five. Let's say five. Um, Loami, what type of crew do you think you would follow? Would you follow like the big behemoths that move slow and kind of work semi against other teams to be successful or like the individual solo artists who move really quickly or the like sort of middle ground balanced teams?  
-**Luke Foreman:** I think Lo Loami just based on everything and being kind of like the underground sort of worker. I think he would go for whoever like the underdog of the year is that that that at least has shown some sort of like  
+**Luke S:** Uh well, yeah. Well, let's say five. Let's say five. Um, Lomi, what type of crew do you think you would follow? Would you follow like the big behemoths that move slow and kind of work semi against other teams to be successful or like the individual solo artists who move really quickly or the like sort of middle ground balanced teams?  
+**Luke Foreman:** I think Lo Lomi just based on everything and being kind of like the underground sort of worker. I think he would go for whoever like the underdog of the year is that that that at least has shown some sort of like  
 **Luke S:** Okay.  
 **Luke Foreman:** promise.  
 **Luke S:** Okay. So then you would know and this is just for like side sidebar trivia. This isn't too important, but you know that there is uh one team uh a new guy named Pudge.  
@@ -515,7 +515,7 @@ Apr 28, 2026
 **John Hagey:** cool.  
 **Luke S:** So then I I I think I Let's give you the exam guide uh page.  
 **Holly Strebel:** He  
-**John Hagey:** And ignatious is just building a hell of a resume right  
+**John Hagey:** And Ignatius is just building a hell of a resume right  
 **Luke S:** Uh  
 **John Hagey:** now.  
 **Luke S:** let me  
@@ -590,12 +590,12 @@ Apr 28, 2026
 **John Hagey:** and maybe profiles on the other  
 **Luke S:** You need like You need like a reser race for dummies.  
 **Holly Strebel:** Yes.  
-**Luke S:** Loami hasn't you haven't taught him anything.  
+**Luke S:** Lomi hasn't you haven't taught him anything.  
 **John Hagey:** comp.  
 **Luke S:** This guy's asking for how does the drop work.  
 **Luke Foreman:** I've gotten my eyes on the arena a little bit and we're I' I've got some notes down, but we haven't gone over it yet. I mean, we're just we're in the early stages.  
 **Luke S:** All right. So, well, I'll let you decide.  
-**John Hagey:** I'll turn this over to Loami so that we we're not covering the same things he already knows.  
+**John Hagey:** I'll turn this over to Lomi so that we we're not covering the same things he already knows.  
    
  
 
@@ -734,7 +734,7 @@ Apr 28, 2026
 **Luke Foreman:** Perfect.  
 **Luke S:** And then Iggy kind of he goes through the line. We don't have to role play that that whole scene.  
 **Holly Strebel:** Great. Great. Great. Great.  
-**Luke S:** But that's basically so like Ly's and Iggy are locked in. ignatious and Loami. Would there be anything else that y'all would want to do? That that whole experience is getting pretty late now. Um and most students would be turning in after dinner at this point.  
+**Luke S:** But that's basically so like Ly's and Iggy are locked in. Ignatius and Lomi. Would there be anything else that y'all would want to do? That that whole experience is getting pretty late now. Um and most students would be turning in after dinner at this point.  
    
  
 
@@ -753,7 +753,7 @@ Apr 28, 2026
 **Luke Foreman:** Mhm. Okay.  
 **Holly Strebel:** Okay.  
 **Luke S:** I also have uh just well actually I'll wait until you go because it's a cool reveal.  
-**Luke Foreman:** I I think Loami is talking to ignatious and is like, "We I I I think we should maybe doze off a little bit earlier than we did with the whole lounge situation, but I just wanted to check a few wanted to check a few doors, see uh see if they changed the locks on any of the  
+**Luke Foreman:** I I think Lomi is talking to Ignatius and is like, "We I I I think we should maybe doze off a little bit earlier than we did with the whole lounge situation, but I just wanted to check a few wanted to check a few doors, see uh see if they changed the locks on any of the  
    
  
 
@@ -782,7 +782,7 @@ Apr 28, 2026
 **Luke Foreman:** Thank  
 **Luke S:** Val that would have sent you back over to this side of campus. Yeah, she found a bed. Okay, cool. Okay.  
 **Luke Foreman:** you.  
-**Luke S:** Then, uh, Loami and ignatious, you work your way across campus and through the semioxfordian, uh, gardens and courtyards to eventually you hit a long hallway of  
+**Luke S:** Then, uh, Lomi and Ignatius, you work your way across campus and through the semioxfordian, uh, gardens and courtyards to eventually you hit a long hallway of  
 **Holly Strebel:** Thank  
 **Luke S:** large columns that lead into a like triumph arch with apex  
 **Holly Strebel:** you.  
@@ -821,7 +821,7 @@ Apr 28, 2026
 **Luke S:** work.  
 **Luke Foreman:** Okay. I think  
 **Luke S:** other  
-**Luke Foreman:** I think Loami Loami would check kind of the security,  
+**Luke Foreman:** I think Lomi Lomi would check kind of the security,  
 **Luke S:** show.  
 **Luke Foreman:** not the security, the maintenance entrance and see if there's a uh see if it's open or see if like old key card or keys,  
 **Luke S:** Sorry.  
@@ -844,8 +844,8 @@ Apr 28, 2026
 **Holly Strebel:** Okay.  
 **Luke S:** Do you have a an official given role? And so it's uh pretty hard to spoof.  
 **Holly Strebel:** Okay.  
-**Luke S:** And since Loami is no longer a m like maintaining the stuff that the locks would not open for  
-**Luke Foreman:** Yeah. Okay. Then I think Loami is going to  
+**Luke S:** And since Lomi is no longer a m like maintaining the stuff that the locks would not open for  
+**Luke Foreman:** Yeah. Okay. Then I think Lomi is going to  
    
  
 
@@ -904,12 +904,12 @@ Apr 28, 2026
 **Luke S:** legitimate. So artists and groundskeepers spend a lot of time on the surface before the race starts.  
 **Luke Foreman:** Gotcha.  
 **Luke S:** There's not at  
-**Luke Foreman:** Yeah. All right, ignatious,  
+**Luke Foreman:** Yeah. All right, Ignatius,  
 **Luke S:** night  
 **Luke Foreman:** you uh doesn't look like we can get anything tonight. Doesn't look like anyone's got any headlamps out working in the basin. Uh I was hoping maybe it'd reveal kind of potentially where some of these are going to pop up, but not not looking.  
 **Holly Strebel:** All  
 **John Hagey:** Do we do we want to talk about Do we want to talk to one of these workers who are cleaning up real quick? See if they have any any  
-**Luke S:** before you do that, ignatious,  
+**Luke S:** before you do that, Ignatius,  
 **John Hagey:** information  
 **Luke S:** I'm curious like is it he just takes this in stride this like feed of color like huge engineering just nothing new at this point it's just kind  
    
@@ -935,7 +935,7 @@ Apr 28, 2026
 **John Hagey:** That's That's fair. That's fair.  
 **Luke Foreman:** a good point.  
 **Luke S:** special.  
-**John Hagey:** I think I think just standing there and when Loami says that, he's like, "Yeah, yeah, yeah, yeah, yeah. Sleep."  
+**John Hagey:** I think I think just standing there and when Lomi says that, he's like, "Yeah, yeah, yeah, yeah, yeah. Sleep."  
    
  
 
@@ -946,7 +946,7 @@ Apr 28, 2026
 **Luke Foreman:** Yeah. Yeah. Um, it's a lot to take in. I I hear you. I hear you. This is uh this is a very special  
 **John Hagey:** There's There's trees and farms and and mountains and and pillars and and Yeah,  
 **Luke Foreman:** place.  
-**John Hagey:** there's a train in the There's a train. Loami, there's a train in the wall. Why is there a train in the wall, Loami? It's He's fine.  
+**John Hagey:** there's a train in the There's a train. Lomi, there's a train in the wall. Why is there a train in the wall, Lomi? It's He's fine.  
 **Luke Foreman:** I wouldn't worry yourself with it because you'll never be able to set foot in one of  
 **John Hagey:** It's fine. Everything's fine. This is all normal,  
 **Luke Foreman:** those.  
@@ -969,7 +969,7 @@ Apr 28, 2026
 
    
 **Luke S:** So they don't block the view.  
-**Luke Foreman:** reccon a bit too and and kind of have Loami when they get in there kind of walk down to the top and just kind of breathe it in, take it in. Just ah it's it's good to be back.  
+**Luke Foreman:** reccon a bit too and and kind of have Lomi when they get in there kind of walk down to the top and just kind of breathe it in, take it in. Just ah it's it's good to be back.  
 **Holly Strebel:** Okay.  
 **Luke Foreman:** These uh this is a very special place. I'll tell you this.  
 **Luke S:** Yeah.  
@@ -977,7 +977,7 @@ Apr 28, 2026
 **Luke S:** Cool. All right. So, do y'all want to talk to the maintenance crew or crash?  
 **Luke Foreman:** I think  
 **John Hagey:** Mhm. Mhm.  
-**Luke Foreman:** I think only Loami is gonna clock him and see if he knows him, if he has any like connection. If not,  
+**Luke Foreman:** I think only Lomi is gonna clock him and see if he knows him, if he has any like connection. If not,  
 **Luke S:** Yeah.  
    
  
@@ -999,7 +999,7 @@ Apr 28, 2026
 **Luke S:** Every time that you were trying to hang out, they that you just see them judging you and like checking their watch.  
 **Luke Foreman:** Yeah.  
 **Luke S:** Um one time they ate like they they took your grog. you're convinced out of the fridge like  
-**Luke Foreman:** Yeah. Yeah. Okay. Yeah. ignatious,  
+**Luke Foreman:** Yeah. Yeah. Okay. Yeah. Ignatius,  
 **Luke S:** Yeah.  
 **Luke Foreman:** I don't I don't think we're getting any information out of this guy. In fact, he'll probably end up taking something from us.  
 **John Hagey:** Time to  
@@ -1040,7 +1040,7 @@ Apr 28, 2026
 **Luke Foreman:** Holy  
 **Luke S:** yeah. So,  
 **Holly Strebel:** So  
-**Luke S:** I mean, he could also have le left with ignatious and Loami and then just gone back to  
+**Luke S:** I mean, he could also have le left with Ignatius and Lomi and then just gone back to  
 **Holly Strebel:** yeah,  
 **Luke S:** bed.  
 **Holly Strebel:** I mean I think he would have been a little bit interested if like he actually wanted to like look at his like more of the  
@@ -1119,8 +1119,8 @@ Apr 28, 2026
 ### 01:45:40 {#01:45:40}
 
    
-**Luke S:** I don't know. Maybe we'll start with Loami. Uh, what's Loami's focus for the next couple  
-**Luke Foreman:** I think Loami is struggling to focus on the exams  
+**Luke S:** I don't know. Maybe we'll start with Lomi. Uh, what's Lomi's focus for the next couple  
+**Luke Foreman:** I think Lomi is struggling to focus on the exams  
 **Luke S:** days?  
 **Luke Foreman:** until he realizes that like a lot of the exams potent or uh is specific specifically volutric cgraphy, crisis management, and uh let's see, I guess reality anger a little bit as well, but definitely those two studying those from like a race perspective, like he gets very into, okay, I can kill two birds with one stone and learn a bunch about like mapping and cgraphy and plotting  
 **Luke S:** Okay.  
@@ -1129,10 +1129,10 @@ Apr 28, 2026
 **Luke Foreman:** Exactly.  
 **Luke S:** Um,  
 **Luke Foreman:** Exactly.  
-**Luke S:** how okay maybe ignatious because I don't know where if you're going to be as fascinated with the race as as Loami is. Where do you feel like ignatious is  
-**John Hagey:** I think ignatious sits down and has like after taking in so much  
+**Luke S:** how okay maybe Ignatius because I don't know where if you're going to be as fascinated with the race as as Lomi is. Where do you feel like Ignatius is  
+**John Hagey:** I think Ignatius sits down and has like after taking in so much  
 **Luke S:** focusing  
-**John Hagey:** information and so many new experiences in the last 48 hours or so, 72 hours, I think ignatious sits down and goes, "Okay, what does this look like for me if I want to go be an explorer?" so that I can gain the prestige  
+**John Hagey:** information and so many new experiences in the last 48 hours or so, 72 hours, I think Ignatius sits down and goes, "Okay, what does this look like for me if I want to go be an explorer?" so that I can gain the prestige  
    
  
 
@@ -1198,9 +1198,9 @@ Apr 28, 2026
 **Holly Strebel:** But I think if he was having some influence by people to like build a certain like something for the race or something like that, I think he could be inclined to be like guided into an entire a type of invention that would benefit the team. But I think he would lose himself in it.  
 **Luke S:** Okay. Okay. So, that makes sense for for Tuesday and Wednesday. It sounds like like AI's mostly studying.  
 **Luke Foreman:** Okay,  
-**Luke S:** Loami is taking a study and applying to the races. Uh, ignatious is basically ADHD and and Iggy's taking studying but mostly caring about the thing like it doesn't sound like you care about history. It sounds like you care about the things that are helping you build more contraptions.  
+**Luke S:** Lomi is taking a study and applying to the races. Uh, Ignatius is basically ADHD and and Iggy's taking studying but mostly caring about the thing like it doesn't sound like you care about history. It sounds like you care about the things that are helping you build more contraptions.  
 **Holly Strebel:** Yeah.  
-**Luke S:** Um, okay. So, what does that mean for th So, like we're headed into Thursday morning now. Um, maybe I'll go back to Loami because of the the race connection.  
+**Luke S:** Um, okay. So, what does that mean for th So, like we're headed into Thursday morning now. Um, maybe I'll go back to Lomi because of the the race connection.  
    
  
 
@@ -1264,7 +1264,7 @@ Apr 28, 2026
 
    
 **Luke S:** Um, so the the five the million or so that need to fit would would be able to do so pretty easily with some some space. But but it does condense over the action points as time happens. So it's um that's the people who are really interested in the race are like playing the crowd game as much as anything because any seat is technically always available. Um, so with that in mind, does that approach anything for how you enter the light the last part of the  
-**Luke Foreman:** Loami definitely wants some a  
+**Luke Foreman:** Lomi definitely wants some a  
 **Luke S:** week?  
 **Luke Foreman:** solid amount of grog. I forget forget exactly what we called it.  
 **Luke S:** Yeah. Yeah.  
@@ -1296,8 +1296,8 @@ Apr 28, 2026
 **Luke Foreman:** but um yeah, once they do a little fundraising for their  
 **Luke S:** Um is that so what about what about  
 **Luke Foreman:** build.  
-**Luke S:** ignatious and Iggy? Is there any change to your end of your your race approach?  
-**John Hagey:** I don't think so. I think I think ignatious is just like doing his best like because we race next week,  
+**Luke S:** Ignatius and Iggy? Is there any change to your end of your your race approach?  
+**John Hagey:** I don't think so. I think I think Ignatius is just like doing his best like because we race next week,  
 **Luke S:** Yeah.  
 **John Hagey:** right?  
 **Luke S:** Well, if you if you qualify and you can build something that's good enough. Yeah.  
@@ -1401,7 +1401,7 @@ Apr 28, 2026
 **John Hagey:** Same same genre of of time and movie style.  
 **Luke S:** so Maybe it's not like I don't know y'all tell me how how  
 **Luke Foreman:** Honestly,  
-**Luke S:** how this plan starts forming. Like Loami, you've been you've been going out to the to the arena fairly often to do the measurements and stuff and I think at some point you've started to see like traffic to and from the the hangar. Uh ignatious, you might have been drawn to the hanger just because that's where the flow was going. You heard stuff. You knew things were being built in the hanger. So  
+**Luke S:** how this plan starts forming. Like Lomi, you've been you've been going out to the to the arena fairly often to do the measurements and stuff and I think at some point you've started to see like traffic to and from the the hangar. Uh Ignatius, you might have been drawn to the hanger just because that's where the flow was going. You heard stuff. You knew things were being built in the hanger. So  
 **Holly Strebel:** I think Iggy has been like also if he had that power source he's been building like miniature  
 **Luke S:** yeah.  
 **Holly Strebel:** versions of of what he is thinking is happening. But like yeah, he wants to see  
@@ -1415,14 +1415,14 @@ Apr 28, 2026
 
    
 **Luke S:** the night night before the night before the race and I'm trying to do the days of the week math. No, let's let's let's say it's Wednesday night. You study the first night and the second night you're all back at at your your dorm room. Um who who who approaches each other first? Like if y'all want to make this plan happen, who who starts the the idea, do you think?  
-**John Hagey:** I think if if ignatious sees Loami or Iggy, he's definitely going to approach them just based off of familiarity. So, I guess it depends on who I see  
+**John Hagey:** I think if if Ignatius sees Lomi or Iggy, he's definitely going to approach them just based off of familiarity. So, I guess it depends on who I see  
 **Luke Foreman:** Okay.  
 **John Hagey:** first.  
-**Holly Strebel:** I also he and ignatious are roommates,  
+**Holly Strebel:** I also he and Ignatius are roommates,  
 **Luke S:** Um  
 **Holly Strebel:** right? Like I was gonna say I was like I feel like it could have naturally like  
 **Luke S:** yeah.  
-**Holly Strebel:** ignatious could have said it as a joke cuz like Iggy's been trying to make all these models and he gets really frustrated and like I just imagine him getting frustrated and throwing  
+**Holly Strebel:** Ignatius could have said it as a joke cuz like Iggy's been trying to make all these models and he gets really frustrated and like I just imagine him getting frustrated and throwing  
 **John Hagey:** and just like we could just go look at  
    
  
@@ -1439,7 +1439,7 @@ Apr 28, 2026
 **John Hagey:** Just straight to the straight to the hangers. Yeah, that actually makes a lot of sense.  
 **Luke S:** Yeah.  
 **Holly Strebel:** Yeah.  
-**Luke S:** Okay. Uh Loami, are you you're in a different dorm or  
+**Luke S:** Okay. Uh Lomi, are you you're in a different dorm or  
 **Holly Strebel:** Yeah.  
 **Luke Foreman:** Yes. Yeah.  
 **Luke S:** Yeah.  
@@ -1461,7 +1461,7 @@ Apr 28, 2026
 **Luke Foreman:** I'm not going to say it's exceptional by any means, but I think you know that. Um, they don't have the best stuff up here. Uh, granted it was pretty good and I think we can make a quick buck at the stadium. Get a couple people hopping around the stands. Maybe maybe just I know it's frowned upon, but maybe we just station someone on the train taking orders and have people handing out cups as they get off the train. Something like that. I don't  
 **Luke S:** Yeah. Yeah. Yeah. I mean, they got like the there's not really rules against it. So, I hear I mean, I'm I'm I'm selling merch,  
 **Luke Foreman:** know.  
-**Luke S:** so I'm already got to have a little stand set up, but I'm also only traveling in the train. So, you think you're going to post that? So, I think maybe Lucky and Loami work out a little bit of a deal uh so we don't have to role play it too much to get into the next part.  
+**Luke S:** so I'm already got to have a little stand set up, but I'm also only traveling in the train. So, you think you're going to post that? So, I think maybe Lucky and Lomi work out a little bit of a deal uh so we don't have to role play it too much to get into the next part.  
    
  
 
@@ -1503,7 +1503,7 @@ Apr 28, 2026
 
    
 **Luke Foreman:** That's good.  
-**Luke S:** um you see Aggie and uh and Bramble and Pip sitting in the courtyard studying and Pip's like there he is he's right there. It's right there. and she's just like furiously tapping Aggie's shoulder. Uh, and then you also see um Biggie and ignatious come out of their dorms holding a uh a turban in one hand and ignatious holding a trench coat in the other hand. Uh, and I think maybe that's where we'll end tonight. uh with Loami deciding what which of these things he's going to do anything about.  
+**Luke S:** um you see Aggie and uh and Bramble and Pip sitting in the courtyard studying and Pip's like there he is he's right there. It's right there. and she's just like furiously tapping Aggie's shoulder. Uh, and then you also see um Biggie and Ignatius come out of their dorms holding a uh a turban in one hand and Ignatius holding a trench coat in the other hand. Uh, and I think maybe that's where we'll end tonight. uh with Lomi deciding what which of these things he's going to do anything about.  
 **Luke Foreman:** Yeah.  
 **Luke S:** Uh and um if we can get so  
 **Luke Foreman:** Yeah.  

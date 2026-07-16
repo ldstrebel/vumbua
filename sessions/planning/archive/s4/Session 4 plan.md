@@ -36,15 +36,15 @@ After the ambush, the party stumbles back to the dorms. They're battered, confus
 Before Track Assignment, the party needs to execute their plan: track down [[Lucky]] to get the "study guide" that Valentine sold him. 
 
 **The Setup:**
-- The party has Azor's stolen pocket watch and a highly embellished story of Loami "heroically" breaking the ribs of an attacker.
+- The party has Azor's stolen pocket watch and a highly embellished story of Lomi "heroically" breaking the ribs of an attacker.
 - Lucky is likely found near the breakfast halls or the courtyard, trading last-minute favors and taking bets on the Resonance Race.
 
 **The Negotiation:**
 - Lucky is a hustler. He doesn't give anything away for free. The study guide is valuable, especially right before the exam.
-- **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Loami's new reputation as a rib-breaker.
+- **The Pitch:** The party can use the pocket watch to barter, OR they can use Intimidation/Presence, leaning on Lomi's new reputation as a rib-breaker.
 - **The Catch:** If they successfully intimidate him, Lucky might hand it over but remember the slight. If they barter, he'll gladly take the watch but might try to upsell them on something else.
 - The "study guide" contains 10 annotated questions from Val, some of which Val noted were fundamentally flawed but useful.
-- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[world/exam/GenEd_-_Exploration101_survey.json]].
+- For the actual GenEd exam, see [[Gened exam|Ex-Ed 101: The Final Venture Exam]] and the interactive survey [[GenEd_-_Exploration101_survey.json]].
 
 ---
 
@@ -102,11 +102,11 @@ This is the in-fiction moment where the PCs choose their **Daggerheart class/sub
 
 | PC | Likely Track | Why | Tension |
 |---|---|---|---|
-| **[[ignatious]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
+| **[[Ignatius]]** | Ironworks or Pathfinder | Fire-based combat, physical presence | Does he want to fight, or does he want to explore and prove Ash-Blood value? |
 | **[[Iggy]]** | Harmonics | Already mentored by Kante, technical genius | Will Kante pull strings to get him? Does Iggy even understand what he's signing up for? |
 | **[[Britt]]** | Verdant Studies or Pathfinder | Mizizi connection to living systems | Tension between studying *what she is* vs. blazing her own trail |
 | **[[Aggie]]** | Verdant Studies or Shadow Ops | Mizizi ecology knowledge, practical wisdom | She may resist being "studied" — Shadow Ops lets her be an agent, not a specimen |
-| **[[loami]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
+| **[[Lomi]]** | Ironworks | Boiler-room background, mechanical aptitude | The "worker track" — exactly where Harmony expects him. Does he accept or rebel? |
 
 ---
 
@@ -176,7 +176,7 @@ The basin is a living ecosystem of agendas. Use this table as a "sandbox" for pl
 | NPC                          | Location                     | Visibility                     | Rooting For...     | Rationale/Behavior                         |                                                                                                                                |                                                                                                         |                                  |
 | ---------------------------- | ---------------------------- | ------------------------------ | ------------------ | ------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------- | -------------------------------- |
 | **[[valentine-sterling       | Valentine Sterling]]**       | **Gilded Zephyrs** (VIP)       | **Making a Scene** | *[[resonance-racers#Team 1 Shatter Stamper | Shatter Stamper]]*                                                                                                             | Hovering directly over the Spires; narrating the race into a private recorder for "post-game analysis." |                                  |
-| **[[ember                    | Ember]]**                    | **Bleacher-Walls** (South Rim) | **Incognito**      | *[[resonance-racers#Team 5 Dancer Fabian   | Dancer & Fabian]]*                                                                                                             | Scribbling furiously in a notebook; avoiding [[ignatious                                                 | ignatious]]'s eye if he's nearby. |
+| **[[ember                    | Ember]]**                    | **Bleacher-Walls** (South Rim) | **Incognito**      | *[[resonance-racers#Team 5 Dancer Fabian   | Dancer & Fabian]]*                                                                                                             | Scribbling furiously in a notebook; avoiding [[ignatius                                                 | Ignatius]]'s eye if he's nearby. |
 | **[[rill                     | Rill]]**                     | **Basin Floor** (The Pits)     | **Open (Working)** | *[[resonance-racers#Team 5 Dancer Fabian   | Dancer & Fabian]]*                                                                                                             | Calibrating a battery for the next heat; looks exhausted.                                               |                                  |
 | **[[professor-ink            | Professor Ink]]**            | **Rim-Tracker** (East Rim)     | **Open (Working)** | *None*                                     | Using a magnifying lens to study simulated petrified trees. Doesn't even look at the rigs.                                     |                                                                                                         |                                  |
 | **[[professor-kante          | Professor Kante]]**          | **Research Deck** (North Rim)  | **Incognito**      | *[[resonance-racers#Team 4 Pudge           | Pudge]]*                                                                                                                       | Watching the gryphon's metabolic-amplitude sync with a clinical intensity.                              |                                  |
@@ -202,7 +202,7 @@ As the PCs move through the tiers or look through their binoculars:
 2. **The Safety Hazard:** On the walk to their seats, the PCs are nearly knocked over by a "staff member" moving quickly. It's **[[sarge|Sarge]]**, swearing under his breath about the "total lack of structural redundancy on these temporary bleachers." 
 3. **The Silent Watcher:** If the PCs use binoculars to scan the Rim-Tracker, they might spot **[[nyx|Nyx]]**. She isn't cheering; she's timing the rigs with a mechanical stopwatch. If she catches them looking, she simply pulls her hood lower and moves to the next car.
 4. **The Merchant of Hype:** **[[lucky|Lucky]]** tried to sell them a "Shatter Stamper" flag five minutes ago. Now, he's sprinted around the rim and is trying to sell them a "Pudge" flag because they just hit a major node. *"Buy low! Buy low! Shatter's losing connection, Pudge is the new hotness!"*
-5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatious|ignatious]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
+5. **The Distant Gaze:** If an Ash-Blood PC (like **[[ignatius|Ignatius]]**) looks toward the West Bleachers, they see **[[cinder-4|Cinder-4]]**. They aren't watching the race; they are staring at the simulated Ash-Blood Isles terrain with a look of profound, mechanical mourning.
 
 ---
 
@@ -226,7 +226,7 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 **Why this year is special:**
 - The arena terrain has been **updated for the first time** to include the **Ash-Blood Isles** and the **Mizizi Forest island** — the two newest integrated territories
 - The entire student body is seeing simulated versions of these lands for the first time
-- **However:** There is no Ash-Blood Node in the arena. The [[scrivener-guild|Scrivener Guild]] claims the resonance data isn't finalised. This is a sore point — especially for Ash-Blood students like **[[ignatious|ignatious]]**.
+- **However:** There is no Ash-Blood Node in the arena. The [[scrivener-guild|Scrivener Guild]] claims the resonance data isn't finalised. This is a sore point — especially for Ash-Blood students like **[[ignatius|Ignatius]]**.
 
 **How the PCs experience it:**
 - As first-years, they're in the **Bleacher-Walls** (stone amphitheaters on the basin rim)
@@ -240,7 +240,7 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 
 2. **The Sync:** A team strikes a Leidian node and gains the **Overclock** boon — extreme speed with a "Phase-Dash" teleport. The crowd roars. But the heat stress is visible — the rig's hull glows cherry-red.
 
-3. **The Missing Node:** **[[ignatious|ignatious]]** notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks **[[professor-kante|Professor Kante]]** (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] — the integration only produced ~20 amps instead of the expected +300 to +800.
+3. **The Missing Node:** **[[ignatius|Ignatius]]** notices the Ash-Blood Isles terrain is there, but there's no Ash-Blood Spire. If he asks **[[professor-kante|Professor Kante]]** (or any faculty), the answer is evasive: *"The data isn't finalised."* This connects directly to the [[The Power System|Ash-Blood Anomaly]] — the integration only produced ~20 amps instead of the expected +300 to +800.
 
 4. **The Battery Lesson:** For students who paid attention in class (especially **[[iggy|Iggy]]**), the race is a live demonstration of everything **[[professor-kante|Professor Kante]]** teaches. Stored connection, not stored energy. The umber crystal gutter creating an artificial dead zone. The relationship between power draw and nodes needed. *This is the exam in practice.*
 
@@ -251,7 +251,7 @@ The **first Resonance Race of the intake year** is the biggest social event at [
 **GM Pacing Notes:**
 - This is a **montage scene**, not a mechanical encounter
 - Run it as a series of vivid descriptions with crowd reactions. 10-15 minutes max.
-- Give each PC one moment of reaction or observation — **[[iggy|Iggy]]** noticing the missing node, **[[britt|Britt]]** recognising the simulated Mizizi terrain, **[[loami|Loami]]** sizing up the engineering, etc.
+- Give each PC one moment of reaction or observation — **[[iggy|Iggy]]** noticing the missing node, **[[britt|Britt]]** recognising the simulated Mizizi terrain, **[[lomi|Lomi]]** sizing up the engineering, etc.
 - The race sets up future plot threads: the Ash-Blood data mystery, the connection/energy distinction, the Captains watching from above
 
 ### Play-by-Play: The First Vumbua Circuit-Run
@@ -316,7 +316,7 @@ When the PCs finally track her down, Rill is distracted, stressed, and clearly c
 |---|---|
 | **Role** | [[scrivener-guild|Scrivener Guild]] Captain |
 | **Specialty** | Fungal biology, petrified bark analysis |
-| **Personality** | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[ignatious]] will burn his specimens. |
+| **Personality** | Pure thirst for knowledge. Academic to the bone. Loves [[Iggy]]'s curiosity but is genuinely afraid [[Ignatius]] will burn his specimens. |
 | **Motivation** | The trees of the [[Mizizi Petrified Forest]] may be the oldest living records in Harmony. If they're *remembering* something, Ink wants to know what. |
 | **Relationship to Rill** | Research partners. He provides the scientific rigour; she provides the cultural context and access. |
 
@@ -384,9 +384,9 @@ After the exam, the remaining **~50,000 students** receive their team assignment
 - Students with matching one-liners are on the same team
 
 **Example Loom one-liners** (for the PC squad):
-- *"The fire that doesn't burn feeds the root that doesn't grow."* → ignatious + Britt?
+- *"The fire that doesn't burn feeds the root that doesn't grow."* → Ignatius + Britt?
 - *"What sinks in still water rises in the current."* → Aggie + Iggy?
-- *"The hammer asks the mountain: who shaped whom?"* → Loami?
+- *"The hammer asks the mountain: who shaped whom?"* → Lomi?
 
 > [!NOTE]
 > **GM Decision:** Craft the actual Loom one-liners for each PC. These should feel like fortune-cookie-meets-prophecy — short, poetic, and thematically tied to the character's arc.
