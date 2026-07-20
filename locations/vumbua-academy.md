@@ -17,6 +17,15 @@ tags:
 
 Vumbua is the massive mobile academy-city where the campaign takes place. It recently teleported to the Ash-Blood Isles after 80 years of stagnation. Over 100,000 candidates arrived for the intake. The city is under construction, with cranes and worker-constructs constantly assembling new districts.
 
+### Campus Layout & Geography
+
+The academy campus is organized into distinct districts integrated into the rugged natural landscape:
+- **Academic Campus (Center):** The heart of the school features a grand, U-shaped white stone academic building with a green-domed central tower, facing a formal, rectangular green lawn with gravel walkways and a central fountain.
+- **Residential Districts (West & North):** Modular dorm blocks and student houses wrap around the northern and western sides of the academic lawns. An elevated, Victorian-style railway line curves along the outer western edge of this district, providing transportation around the campus perimeter.
+- **[[Campus Harbor]] (South-Center):** Directly below the main academic campus is the central harbor basin. It features low-profile grassy islands with stone features connected by elegant stone walkways and bridges to the shore, center of which is the large resaerch ship knows as Deep Hull. This is a titanic-esque ship with brass accents and a large open deck with glass canopies and only one large steamstack. It is a classroom first, cruise ship second. 
+- **The Hangars (South):** A row of four massive, arched glass-and-steel hangars (including Hangar 12) stands at the south edge of the harbor basin, featuring vaulted copper/brass roofing and cavernous berths.
+- **[[Apex Ring]] (Northeast):** Tucked away in the natural basalt cliffs to the northeast of the main campus is the colossal, circular canyon arena where racing and written exams are held.
+
 ### The 30/70 Rule
 
 **The Cores (30%):** The only permanent, moving structures. They teleport/fly to new frontiers and act as the anchors.
@@ -24,7 +33,7 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 | Core | Function | Description |
 |---|---|---|
 | **[[Sky-Spire|The Sky-Spire]]** | Command, Elite Dorms, Navigation | A vertical, golden airship towering above the city |
-| **[[Deep-Hull|The Deep-Hull]]** | Classrooms, Logistics, Mess Halls | A massive iron steamship forming the city's base |
+| **[[Deep-Hull|The Deep-Hull]]** | Classrooms, Logistics, Mess Halls | A massive iron steamship forming the city's base, permanently moored in the harbor bay |
 | **[[Walker-Core|The Walker-Core]]** | Engineering, Power, [[The Loom]] | A four-legged industrial power unit on the grounds' edge |
 
 **[[Spire-Scape|The Spire-Scape]] (70%):** Upon landing, thousands of "Worker-Constructs" swarm out to assemble a temporary city around the Cores. A forest of scaffolding, steam cranes lifting prefab dorms, and ley-lines laid directly into the dirt. It feels like a high-tech refugee camp mixed with a World's Fair.
@@ -36,6 +45,8 @@ Vumbua is the massive mobile academy-city where the campaign takes place. It rec
 | [[Block 04]] | [[Mizizi]] dorms. Modular units built into a terraced cliff. Looks like a repurposed green room. |
 | [[Block 12]] | Standard dorms. Classic Academy housing. [[Iggy]] and [[ignatious]]'s room. |
 | [[Block 99]] | Copper/Worker dorms. A geothermal plant with steam stacks. [[loami]]'s assignment. Site of the bonfire. |
+| [[Campus Harbor]] | The central basin featuring docked solar airships, gantry bridges, and the moored Deep-Hull. |
+| **Hangar 12** | One of the four massive arched glass-and-steel hangars at the south edge of the harbor. |
 | **Greek Row** | Posh social clubs for Gold-tier students. |
 | **The Clan Assistance Office** | Where clan students get support navigating Harmony bureaucracy. |
 | **The Great Library** | Massive archive. Contains the "Bleached Atoll" report. |

@@ -24,7 +24,7 @@ tags:
 ![[Pasted image 20260709171812.png]]
 ## Appearance
 
-A green-skinned elf-like root-kin of the [[Mizizi]] clan. She has wild, long dreadlocks that resemble organic roots and thick hanging vines. She wears a simple, sleeveless dark grey tunic and is constantly seen carrying a massive, round leaf-woven backpack/pouch on her back that towers over her head. Her features are expressive and sharp, leaning heavily into plant-kin characteristics rather than a turtle shell shell.
+A turtle-mushroom hybrid of the [[Mizizi]] clan. Her skin is a darker green color with earthy accents, and she has slight fungal accents on her shell. She has wild, long dreadlocks that resemble organic roots and thick hanging vines. She wears a simple, sleeveless dark grey tunic and is constantly seen carrying a massive, round leaf-woven backpack/pouch on her back that towers over her head. Her features are expressive and sharp.
 
 ## Personality
 

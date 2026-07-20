@@ -37,6 +37,10 @@ tags:
 | **Evasion** | 9 |
 | **Thresholds** | Minor 4 / Major 8 |
 
+## Appearance
+A young dark-skinned male with rich dark brown skin, similar facial features as his twin sister [[Lyra Castellan]], dark hair, wearing a slightly disheveled blue candidate uniform with brass buttons.
+
+
 ## Overview
 Ludo is the more "academic" half of the Castellan twins. Because his sister Lyra is the designated heir carrying the heavy burden of their family's expectations, Ludo has more room to breathe. This allows him to focus on information-gathering and academic support, and enables a more genuine friendship with Val, though they are still under pressure due to their family being rumored to be on the cliff's edge of their fortune.
 
@@ -57,6 +61,9 @@ Ludo is the more "academic" half of the Castellan twins. Because his sister Lyra
 
 ### Session 6
 - **The Cafeteria Mapping:** Present at Val's table in the cafeteria, watching Val map the Reso Race track with potatoes and peas. He praised Val's academic prowess to Aggie and Britt, calling him a "genius" who wrote practice guides like a professor.
+
+### Session 8
+- **Exam Dismissal:** Failed the Exploration 101 written exam (as part of the Castellan siblings). He was escorted out of the stadium with Lyra and their brothers after they caused a disturbance.
 
 ---
 

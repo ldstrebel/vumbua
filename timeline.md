@@ -158,13 +158,37 @@
 - **Mid-Week:** [[Aggie]] forms a study group with [[Pip]] and [[Bramble]]; [[Rill]] revealed as a racer in the upcoming Reso Race.
 - **Thursday Prep:** [[Ignatius]] and [[Iggy]] plan to infiltrate the race hangars using a trench coat and a stolen turban.
 
+### Intake Week - Days 3-4 ([[s6-clean|Session 6]]: Potatoes and Peas)
+- [[Britt]] explores the outskirts, recovering a [[Surveyor's Compass]] from an abandoned cache.
+- Britt spots [[Finch Gable]] attempting to trade secrets to guards.
+- [[Iggy]] and [[Ignatious]] infiltrate Hangar 12; Iggy is confronted by [[Warden Rovaldi]].
+- [[Ignatious]] assists [[Ember]] by pre-heating the engine of the Shatter Stamper rig in exchange for a future favor.
+- [[Loami]] blocks [[Lyra Castellan]] in the cafeteria, securing a VIP invitation from [[Valentine Sterling]] to watch the race from the [[Zephyr]].
+
+### Intake Week - Day 4 ([[s7-clean|Session 7]]: Race Day)
+- [[Loami]] and [[Lucky]] run a mobile grog hustle in the stands using backpack dispensers.
+- [[Britt]], [[Aggie]], [[Ignatious]], and [[Iggy]] watch the race from the VIP deck of the [[Zephyr]].
+- [[Valentine Sterling]] explains the global amplitude decline and how [[Umbra]] crystals act as resistors.
+- Lady Ignis's political strategy is shared by [[Cade Ashveil]].
+- [[Pudge]] wins the Reszo Race on his Griffin. Iggy gets drunk on engine grease.
+
+### Intake Week - Night of Day 4 ([[s7.5-clean|Session 7.5]]: Britt & Aggie's VIP Day)
+- [[Britt]] and [[Aggie]] board the Zephyr early, connecting with Great-Aunt [[Angela Galaspora]] and [[Cade Ashveil]].
+- Angela warns them about mycelium stagnation.
+
+### Intake Week - Day 5 ([[s8-clean|Session 8]]: The Written Exam & Squad 907)
+- [[Britt]] is diagnosed with a toxic shell contamination at the infirmary.
+- [[Aggie]] connects the symptoms to a fatal condition that killed a newly integrated Mizizi a decade ago.
+- [[Iggy]] recovers his hydration by submerging at the bottom of the 1,700-foot-deep harbor.
+- Britt signals Iggy to surface using pebbles and a large boulder.
+- The student candidates take the written exam at the Apex Arena under telepathic suppression.
+- [[Bjorn]] and the Castellan siblings (Lyra and Ludo) fail the exam and are dismissed.
+- The Loom sorts the surviving candidates into Explorer squads; the party is sorted into **Squad 907**.
+- Lifts lower the new first-years into the Apex Ring basin for their physical test.
+
 ---
 
 ## Upcoming
 
-### Next Session (Session 6: The Apex Hustle)
-- **Wednesday:** The **Reso Race** begins at the **Apex Ring**.
-- **The Hangar Hustle:** [[Iggy]] and [[Ignatius]] infiltrate the race hangars to sabotage or investigate.
-- **The Race:** The first Circuit-Run of the year; [[Pudge]] vs [[Rill]] vs others.
-- **Friday:** The **Gen-Ed Exam** at the Basin; attrition of ~20,000 students expected.
-- **Team Formation:** [[The Loom]] assigns official squads following the exam.
+### Next Session (Session 9: The Basalt Run)
+- **Friday Afternoon:** The newly sorted squads begin their proving physical test on the Apex Arena floor.

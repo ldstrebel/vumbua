@@ -8,22 +8,21 @@ aliases:
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 > **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
-> **Last Updated**: Session 6 (June 2026)
+> **Last Updated**: Session 8 (July 2026)
 
 ---
 
-## Last Session Delta (Session 07: Race Day)
+## Last Session Delta (Session 08: The Written Exam & Squad 907)
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 
-**New NPCs introduced**: [[Cade Ashveil]] (Ash-Blood ambassador to Vumbua), [[Angela Galaspora]] (Mizizi clan elder, Aggie's great-aunt)  
+**New NPCs introduced**: [[Remmy]] (Academy Infirmary Lieutenant / Nurse)  
 **Key reveals**:
-- **Global amplitude anomaly**: The Ash-Blood integration did not increase global amplitude as predicted, causing next-gen Panda resonators to fluctuate and fail.
-- **Night of Sparks**: Historical event where a new node integration caused a catastrophic power surge, leading to the development of Umbra crystal resistors.
-- **Umbra crystals**: Vox-produced resistors that cap power thresholds to prevent surge repeats.
-- **Lady Ignis's strategy**: Cade revealed Lady Ignis wants to help the Mizizi integrate to strengthen the Ash-Bloods' position.
-- **Ignatious's shift**: Ignatious declared his belief that the Ash-Bloods' future lies with Harmony, not isolation.
-- **Pudge won the Reszo Race** on his Griffin.
+- **Green Sludge Contamination**: Britt has a reaction on her shell from being exposed to the green sludge near the northeast corner of the city. Remmy examined it and advised reporting it.
+- **Apex Arena suppression**: The Apex Arena grandstands are configured to suppress telepathic communication to prevent exam cheating.
+- **Written Exam Eliminations**: 25% of student candidates failed the written exam, including Bjorn and the Castellan siblings (Lyra and Ludo), who were escorted out by guards.
+- **Squad 907 Sorting**: The players (Aggie, Britt, Loami, Ignatius, and Iggy) have been assigned to Squad 907.
+- **Tablet Resources**: The newly sorted squad is given access to a Scatters List, a Captain's Dossier, and Professor Kante's Loom Analysis.
 
 ## Session Delta (Session 07.5: Britt & Aggie's VIP Day)
 
@@ -209,6 +208,7 @@ These are the **correct** spellings. Transcription errors are common — always 
 | **Sky-Spire**                        | Sky Spire, Skyspire                   |
 | **Walker-Core**                      | Walker Core                           |
 | **Deep-Hull**                        | Deep Hull, Deephull                   |
+| **Remmy**                            | Remi, Remy                            |
 
 
 ---

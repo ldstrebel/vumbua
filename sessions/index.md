@@ -189,6 +189,86 @@ Lucky leads the party into his "warehouse" for a high-stakes negotiation. He rev
 
 ---
 
+### [[Session 06|Session 6: Potatoes and Peas]]
+**Date:** 2026-06-18
+
+As intake week draws to a close, the candidates scramble to prepare for the upcoming Reso Race. Britt ventures outside the city gates to recover a mysterious surveyor's compass, while Iggy and Ignatious infiltrate Hangar 12 to scout the racing rigs, securing a future favor from the modernizer Ash-Bloods. In the cafeteria, Loami uses his size to block Valentine Sterling's overbearing handlers, earning the group a VIP invitation to watch the race from the Sterling family airship.
+
+**Key Events:**
+- [[Britt]] recovers a [[Surveyor's Compass]] from an abandoned cache.
+- [[Iggy]] and [[Ignatious]] infiltrate [[Hangar 12]].
+- [[Ignatious]] pre-heats the engine of the Shatter Stamper rig for [[Ember]], securing a future favor.
+- [[Loami]] blocks [[Lyra Castellan]] in the cafeteria, giving the party time to talk to [[Valentine Sterling]].
+- [[Valentine Sterling]] invites the group to board the [[Zephyr]] airship.
+- [[Iggy]] launches a piece of toast that hits [[Lyra Castellan]] in the head.
+
+**Players Discovered:**
+- [[Warden Rovaldi]] is holding the replacement resonance node for Valerius Sterling's team.
+- [[Finch Gable]] is attempting to trade secrets to guards for hangar access.
+- Valentine's handlers, the Castellans, strictly control and monitor his social interactions.
+
+---
+
+### [[Session 07|Session 7: Race Day]]
+**Date:** 2026-07-08
+
+The day of the Reso Race arrives with electric energy. While Loami and Lucky run a highly successful mobile grog operation in the grandstands, the rest of the party joins Valentine Sterling on the VIP deck of the Zephyr airship. The group gains critical insights into resonance mechanics and historical anomalies before the underdog racer Pudge clinches the victory.
+
+**Key Events:**
+- [[Loami]] and [[Lucky]] set up backpack dispensers to sell "engine grease" in the stands.
+- [[Britt]], [[Aggie]], [[Ignatious]], and [[Iggy]] watch the race from the [[Zephyr]].
+- [[Valentine Sterling]] explains the global amplitude anomaly and the creation of [[Umbra]] crystals.
+- Lady Ignis's political strategy regarding the Mizizi integration is revealed by [[Cade Ashveil]].
+- [[Pudge]] wins the Reszo Race on his Griffin.
+- [[Iggy]] drinks engine grease directly from the backpack tap and passes out.
+
+**Players Discovered:**
+- The Ash-Blood integration failed to increase global amplitude as predicted.
+- The Night of Sparks was a historical surge catastrophe that led to the deployment of Umbra crystal resistors.
+
+---
+
+### [[Session 07Pt5|Session 7.5: Britt & Aggie's VIP Day]]
+**Date:** 2026-07-09
+**Type:** Asynchronous side session
+
+Britt and Aggie board the Zephyr early, navigating the Colonnade promenade before the race starts. They cross paths with Great-Aunt Angela Galaspora and Ambassador Cade Ashveil, obtaining valuable warnings and unique items to aid them in the upcoming written exams.
+
+**Key Events:**
+- [[Britt]] and [[Aggie]] board the airship early.
+- Britt purchases specialized utility items from the Colonnade vendors.
+- [[Angela Galaspora]] warns the girls about mycelium stagnation.
+
+**Players Discovered:**
+- The written exam is only the first phase of the sorting process; a physical test awaits.
+- The Feltland node terrain simulated bark rejected the resonance frequency during the race.
+
+---
+
+### [[Session 08|Session 8: The Written Exam & Squad 907]]
+**Date:** 2026-07-16
+
+The grueling intake week culminates in the Exploration 101 written exam at the Apex Arena. While Britt undergoes testing for a mysterious shell contamination and Iggy submerges himself in the deep harbor to recover from his hangover, the squad races to find their seats before the gate closes. After a tense exam, the Loom sorting results are announced: twenty-five percent of candidates are eliminated, and the remaining party is officially grouped as Squad 907.
+
+**Key Events:**
+- [[Britt]] is diagnosed with a toxic shell contamination at the infirmary.
+- [[Aggie]] connects Britt's symptoms to a rare, fatal condition that killed a newly integrated Mizizi turtleborn a decade ago.
+- [[Aggie]] prepares a hangover pick-me-up for [[Iggy]] based on her herbal knowledge.
+- [[Iggy]] recovers his hydration by submerging at the bottom of the 1,700-foot-deep harbor.
+- [[Britt]] signals Iggy to surface using pebbles and a large boulder.
+- The candidates take the Exploration 101 exam under telepathic suppression.
+- [[Bjorn]] and the Castellan siblings (Lyra and Ludo) fail the exam and are dismissed.
+- The party is officially sorted into **Squad 907**.
+
+**Players Discovered:**
+- Britt's shell reacts green to water, indicating exposure to the green sludge in the northeast corner of the city.
+- Britt's symptoms match a rare poisoning that previously killed a Mizizi turtleborn within a year of joining the clan.
+- The Apex Arena grandstands suppress telepathic communication to prevent exam cheating.
+- Twenty-five percent of student candidates were eliminated by the written exam.
+- The squad has been given access to three new resources on their slates: a Scatters List, a Captain's Dossier, and Professor Kante's Loom Analysis.
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)

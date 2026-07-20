@@ -28,6 +28,7 @@
 - **[[Tommy]]** - Clerk, Power Room Front Desk
 - **[[Silas Thorne|Professor Silas Thorne]]** - Professor of Reality Anchoring
 - **[[Warden Rovaldi]]** - Chief of the Guards (Captain Raldi)
+- **[[Remmy]]** - Academy Infirmary Lieutenant / Nurse
 
 ### Prospective Student Squads (Pending Loom Sorting)
 

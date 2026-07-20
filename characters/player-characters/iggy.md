@@ -25,7 +25,7 @@ tags:
 
 ## Appearance
 
-A small, clay-and-soil-kin creature of the Earthkin origin. His body is composed of packed dirt and clay, with green moss and small sprouts growing from the top of his head. He has giant, wide-eyed brown eyes covered by oversized round copper **goggles** filled with protective fluid/water to keep them moist. Extremely light-sensitive — starts **steaming** in sunlight and is always applying a version of sunscreen. Pressure-sensitive — feels relief when weight is applied, wearing a dark, oversized heavy wool robe/coat.
+A small clay-and-soil-kin short humanoid-moleish creature of packed dirt and clay. Green moss and small plant sprouts grow from the top of his head. He wears oversized round goggles half filled with water. His body is clothed in a dark, oversized heavy wool trench coat. Extremely light-sensitive — starts steaming in sunlight and is always applying a version of sunscreen. Pressure-sensitive — feels relief when weight is applied.
 
 ## Personality
 

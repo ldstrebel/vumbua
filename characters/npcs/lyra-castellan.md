@@ -61,6 +61,10 @@ tags:
 *   **Speaking Stone (Pre-recorded)**: A stone containing recorded greetings from minor spire-lords, used to drop names during conversations.
 *   **Focus Glass Fan**: Allows her to fan herself while secretly magnifying minor visual details of her targets (+1 to Instinct checks to spot social cues).
 
+## Appearance
+A strikingly beautiful young dark-skinned female with rich dark brown skin, severe dark hair tied in a tight bun, wearing a high-collared blue uniform with brass buttons.
+
+
 ## Overview
 Lyra is one half of the Castellan twins, a political family from the lower spires that has spent generations clawing their way toward [[House Gilded]] affiliation. She is the designated family heir and the "responsible" one compared to her brother Ludo, bearing the brunt of the expectations to save their family, who are rumored to be on the cliff's edge of their fortune.
 
@@ -84,6 +88,9 @@ Lyra is one half of the Castellan twins, a political family from the lower spire
 - **The Cafeteria Intercept:** Attempted to return to Val's table in the cafeteria to interrupt his discussion with Aggie and Britt, but was physically blocked and stalled by Loami.
 - **"The Mushrooms" Comment:** Mocked Val for "talking to the mushrooms" under her breath, which Loami overheard and which prompted Val to leave the cafeteria in frustration.
 - **Toast Target:** Hit in the head by a piece of toast thrown by Iggy after insulting the group, causing her to glare daggers at Loami (whom she assumed threw it).
+
+### Session 8
+- **Exam Dismissal:** Failed the Exploration 101 written exam. She screamed at Dean Vance and was forcibly escorted out of the stadium grandstands by security.
 
 
 Based on the details in their notes and the geography of Harmony, here is a look at where Lyra and [[ludo-castellan]] likely hail from and what truly drives them.

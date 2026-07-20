@@ -25,7 +25,7 @@ tags:
 ![[Pasted image 20260709171753.png]]
 ## Appearance
 
-A rugged, broad-shouldered humanoid mechanic. He has short brown hair, brown eyes (one showing a subtle green tint), a short beard, and is perpetually smudged with dark engine grease and soot. He wears a brown woolen flat cap with an Italian flag ribbon, a heavy canvas collar, and metallic shoulder plating/pauldrons over his working shirt. His appearance is that of a seasoned, blue-collar union worker.
+A rugged, bulky, muscular tan Caucasian male in his late 20s. Short brown hair, brown eyes (one showing a subtle green tint), short beard, with hints of dirt on his face at all times. Wears a brown woolen flat cap with a tiny red, white, and green ribbon, a working shirt with a heavy canvas working collar, and metallic shoulder pauldrons over his working shirt. His appearance is that of a seasoned, blue-collar union worker.
 
 ## Personality
 

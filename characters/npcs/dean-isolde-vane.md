@@ -29,6 +29,10 @@ tags:
 | **First Appearance** | [[session-01|Session 1]] |
 
 
+## Appearance
+She is a Yordle, a small, elderly furry creature with an intellectual and commanding presence. She has thick, expressive snowy-white scholarly eyebrows, a small twitching nose, and wears oversized circular brass spectacles that magnify her sharp, knowing eyes. Her diminutive frame is draped in heavy, ornate academic robes made of deep teal velvet with gold embroidery. She carries herself with infectious, high-octane energy despite her age.
+
+
 ## GM Description
 
 A small, energetic figure---comparable to a female Professor Heimerdinger from *Arcane*. She bounces onto stage rather than walking, paces frantically during speeches, and radiates chaotic enthusiasm. Her size is notable; she is dwarfed by the podium and the massive auditorium she addresses. Despite leading the largest mobile city in Harmony, she presents as scattered and approachable rather than authoritative.
@@ -60,6 +64,11 @@ Dean of [[Vumbua Academy]] and member of the [[Vane Lineage]] ([[Vane Lineage|Ho
 ### Session 2
 
 - Not present on screen. [[Serra Vox]] identified [[Rill]] as the person who pulled the Dean off stage.
+
+### Session 8
+- **Presiding over Written Exams:** Presided over the written exam hall at the Apex Arena, initiating the exams and announcing the sorting results.
+- **Dismissal of Failures:** Instructed the failed student candidates to leave quietly.
+- **Squad Assignments:** Announced the sorting of the survivors into their official Explorer squads and distributed the digital tablet resources.
 
 ## Source References
 

@@ -18,6 +18,8 @@ aliases:
 - ✅ [[Mizizi]] view death as natural and celebrate the cycle; Harmony culture fears death ([[session-02|Session 2]])
 - ✅ The Mizizi have NOT been formally integrated---no seat at Harmony, just a "semi-short-term weapons trade" ([[session-02|Session 2]])
 - ✅ The forest has noticeably resisted dying/pruning over the last two years, drawing a possible parallel to the "dead island" phenomenon ([[s4.5-clean|Session 4.5]])
+- ✅ **Britt's Poisoning**: Britt developed dry spots on her neck/shell that react green to water, indicating exposure to the green sludge in the northeast corner of the city ([[session-8|Session 8]])
+- ✅ **The Decade-Old Case**: Aggie connected Britt's symptoms to a rare, fatal condition that killed a newly integrated Mizizi turtleborn about a decade ago after their color was leeched away ([[session-8|Session 8]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The forest is a **data archive/library**
@@ -137,6 +139,9 @@ aliases:
 - ✅ Campus layout: northwest side has manors, shops, [[Celestial Lounge]] ([[session-02|Session 2]])
 - ✅ The [[Celestial Lounge]] is an upscale club on top floor of tallest building in fancy district ([[session-02|Session 2]])
 - ✅ Rank receipts can be flashed for VIP access at clubs, but it's voluntary ([[session-02|Session 2]])
+- ✅ **The Gen-Ed Exam Cull**: 25% of student candidates were eliminated by the written exam, including Bjorn and the Castellan siblings ([[session-8|Session 8]])
+- ✅ **Squad Sorting**: The remaining candidates have been sorted into official squads, with the party placed in **Squad 907** ([[session-8|Session 8]])
+- ✅ **Telepathic Suppression**: The Apex Arena has enforcers and wards that suppress telepathic communication to prevent exam cheating ([[session-8|Session 8]])
 
 ### GM Secrets (Players Don't Know)
 - ❌ The Academy CAN'T return home if they fail (not enough power)

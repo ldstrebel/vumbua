@@ -28,6 +28,7 @@ tags:
 | [[Block 04]] | [[Mizizi]] dorms | [[Britt]], [[Aggie]] |
 | [[Block 12]] | Standard dorms | [[Iggy]], [[ignatious]] |
 | [[Block 99]] | Industrial / Copper dorms | [[loami]], [[Ratchet]], [[Soot]]; bonfire pit |
+| [[Campus Harbor]] | Port / Berths district | Moored airships, Deep-Hull, gantry bridges |
 | [[Celestial Lounge]] | Upscale social club | Northwest "fancy district" |
 | [[Spire-Scape]] | Temporary urban district | 70% of Academy structures |
 
