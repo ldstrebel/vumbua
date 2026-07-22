@@ -1,7 +1,8 @@
 ---
 tags:
+  - first-year
+  - squad-03
   - npc
-  - squad-09
   - rust-rank
 ---
 

@@ -3,9 +3,9 @@ aliases:
   - "Real"
   - "The River-Born"
 tags:
+  - notable-figure
   - npc
   - wadi
-  - faculty
 ---
 
 # Rill (The River-Born)

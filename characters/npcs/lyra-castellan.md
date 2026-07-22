@@ -3,6 +3,7 @@ aliases:
 - Lyra
 - Lyra Castellan
 tags:
+  - notable-figure
 - npc
 - student
 - castellan-family

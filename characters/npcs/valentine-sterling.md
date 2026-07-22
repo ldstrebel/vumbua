@@ -4,6 +4,8 @@ aliases:
   - Valentine
   - Valentine Sterling
 tags:
+  - first-year
+  - squad-01
   - npc
   - student
   - sterling-family

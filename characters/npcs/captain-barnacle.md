@@ -3,6 +3,7 @@ aliases:
 - Barnacle
 - Captain Barnacle
 tags:
+  - first-year
 - npc
 - squad-07
 ---

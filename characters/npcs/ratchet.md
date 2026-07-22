@@ -1,7 +1,7 @@
 ---
 tags:
-  - npc
   - faculty
+  - npc
 ---
 
 # Ratchet

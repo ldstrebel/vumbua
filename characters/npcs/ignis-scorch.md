@@ -4,6 +4,7 @@ aliases:
 - Ignis
 - Captain Scorch
 tags:
+  - notable-figure
 - npc
 - captain
 - iron-union

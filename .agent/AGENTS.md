@@ -103,3 +103,18 @@ Every image prompt must be **fully self-contained.** The image generator has zer
 
 *   **No cross-page assumptions:** Never assume the generator will "remember" a character from a previous page. Each prompt is an island.
 *   **Prompt validation before generation:** Before calling `generate_image`, verify each prompt against these rules. Use the `sessions/storyboards/scripts/validate_prompts.py` script if available.
+
+---
+
+## 9. NPC Grade-Level Integrity & Squad Validation Rules
+
+**To prevent grade-level misclassifications and squad sorting errors during campaign planning, the model must follow these strict rules:**
+
+1. **Grade-Level Separation (Zero Tolerance):**
+   * **First-Year Cadets:** Compete in the freshman Loom sorting and Friday's Basalt Run.
+   * **Second-Year Cadets:** Compete in upperclassman events (such as the Thursday Resonance Race) and operate in separate upperclassman crews. **NEVER mix Second-Year Cadets (e.g. Alistair Rook, Pudge, Dancer & Fabian, Vivi Frequency, Captain Gudge) into First-Year Loom squads.**
+2. **Action-Based Grade Verification:** Before assigning any NPC to a squad or grade bracket, verify their narrative actions across played transcripts (`sessions/transcripts/clean/`):
+   * Did they take Friday's entrance exam? -> **First-Year**
+   * Did they pilot a rig in Thursday's Reso Race? -> **Second-Year**
+3. **Mandatory Metadata Tagging:** Every NPC file in `characters/npcs/` must carry an explicit frontmatter category tag (`first-year`, `second-year`, `faculty`, or `notable-figure`).
+4. **Validation Script Gate:** Run `python d:\Code\vumbua\characters\scripts\validate_npcs.py` before finalizing any squad rosters or campaign planning documents to guarantee 100% clean metadata compliance.

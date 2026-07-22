@@ -3,6 +3,8 @@ aliases:
 - Cassius
 - Cassius Thorne
 tags:
+  - first-year
+  - squad-03
 - npc
 - squad-01
 ---

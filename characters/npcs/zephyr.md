@@ -2,6 +2,8 @@
 aliases:
   - "Lightning Girl"
 tags:
+  - first-year
+  - squad-02
   - npc
   - renali
   - fulgur-born

@@ -3,6 +3,7 @@ aliases:
 - Kante
 - Professor Kante
 tags:
+  - faculty
 - npc
 - faculty
 - house-gilded

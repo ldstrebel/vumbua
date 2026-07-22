@@ -6,6 +6,7 @@ aliases:
 - Dean Isolde
 - Dean Isolde Vane
 tags:
+  - faculty
 - npc
 - faculty
 - vane-lineage

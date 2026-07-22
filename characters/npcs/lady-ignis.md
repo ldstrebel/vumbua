@@ -3,6 +3,7 @@ aliases:
 - Ignis
 - Lady Ignis
 tags:
+  - notable-figure
 - npc
 - ash-blood
 - harmony-council

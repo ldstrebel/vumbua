@@ -3,6 +3,7 @@ aliases:
 - Glissade
 - Lady Glissade
 tags:
+  - notable-figure
 - npc
 ---
 

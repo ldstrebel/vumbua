@@ -1,5 +1,6 @@
 ---
 tags:
+  - faculty
 - npc
 - faculty
 aliases:

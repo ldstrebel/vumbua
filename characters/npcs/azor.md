@@ -1,6 +1,9 @@
 ---
 aliases: [Azor]
-tags: [npc, settikan]
+tags:
+  - npc
+  - settikan
+  - notable-figure
 canon: transcript
 reveal: players
 ---

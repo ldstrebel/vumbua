@@ -1,6 +1,9 @@
 ---
 aliases: [Zyykl]
-tags: [npc, nstyl]
+tags:
+  - npc
+  - nstyl
+  - notable-figure
 canon: transcript
 reveal: players
 ---

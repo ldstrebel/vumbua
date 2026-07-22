@@ -3,6 +3,8 @@ aliases:
 - Bolt
 - Baron Bolt
 tags:
+  - first-year
+  - squad-01
 - npc
 - squad-08
 ---

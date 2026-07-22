@@ -5,8 +5,8 @@ aliases:
   - Professor Aris
   - professor-aris
 tags:
-  - npc
   - faculty
+  - npc
 ---
 
 # Doctor Aris

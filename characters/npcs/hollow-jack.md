@@ -3,6 +3,7 @@ aliases:
 - Hollow-Jack
 - Jack
 tags:
+  - notable-figure
 - npc
 - pit-row
 - iron-union

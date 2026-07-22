@@ -1,5 +1,6 @@
 ---
 tags:
+  - notable-figure
   - npc
 canon: gm-plan
 reveal: gm

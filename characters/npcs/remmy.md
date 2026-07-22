@@ -1,3 +1,8 @@
+---
+tags:
+  - faculty
+---
+
 # Remmy
 
 ![Portrait](../../meta/foundry-exports/portraits/remmy_portrait.png)

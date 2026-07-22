@@ -1,5 +1,7 @@
 ---
 tags:
+  - first-year
+  - squad-05
   - npc
   - student
 ---

@@ -3,6 +3,8 @@ aliases:
 - Glimmer
 - Lady Glimmer
 tags:
+  - first-year
+  - squad-01
 - npc
 - squad-08
 ---

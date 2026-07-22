@@ -5,6 +5,8 @@ aliases:
 - Percy Vane-Smythe III
 - Percival Vane-Smythe III
 tags:
+  - first-year
+  - squad-03
 - npc
 - squad-08
 ---

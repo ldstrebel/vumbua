@@ -1,5 +1,6 @@
 ---
 tags:
+  - notable-figure
   - npc
   - mizizi
   - elder

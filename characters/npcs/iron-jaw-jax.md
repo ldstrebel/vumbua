@@ -3,6 +3,8 @@ aliases:
 - Jax
 - Iron-Jaw Jax
 tags:
+  - first-year
+  - squad-02
 - npc
 - squad-02
 ---

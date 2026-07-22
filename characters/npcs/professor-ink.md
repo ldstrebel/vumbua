@@ -3,10 +3,10 @@ aliases:
   - Ink
   - Professor Ink
 tags:
+  - faculty
   - npc
   - harmony
   - scrivener-guild
-  - faculty
 ---
 
 # Professor Ink

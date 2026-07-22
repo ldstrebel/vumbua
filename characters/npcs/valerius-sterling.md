@@ -2,6 +2,7 @@
 aliases:
   - Valerius Sterling
 tags:
+  - notable-figure
   - npc
   - radio-host
   - sterling-family

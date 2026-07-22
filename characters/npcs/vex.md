@@ -2,6 +2,7 @@
 aliases:
 - Vex
 tags:
+  - notable-figure
 - npc
 - pit-row
 - rogue

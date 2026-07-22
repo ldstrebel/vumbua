@@ -3,6 +3,7 @@ aliases:
 - Sergeant Krell
 - Krell
 tags:
+  - faculty
 - npc
 - academy-security
 - guard

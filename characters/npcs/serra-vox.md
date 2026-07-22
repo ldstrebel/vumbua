@@ -4,6 +4,8 @@ aliases:
 - Seraphina Vox
 - Serra Vox
 tags:
+  - first-year
+  - squad-03
 - npc
 - squad-01
 - gold-rank

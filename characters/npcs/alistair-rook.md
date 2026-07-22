@@ -3,9 +3,10 @@ aliases:
 - Alistair
 - The Rook
 tags:
+  - second-year
 - npc
 - student
-- squad-06
+- second-year
 ---
 
 # Alistair "The Rook" Rookwood

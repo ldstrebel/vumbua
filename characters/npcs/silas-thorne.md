@@ -5,6 +5,7 @@ aliases:
 - Silas Thorne
 - Professor Thorne
 tags:
+  - faculty
 - npc
 - professor
 ---

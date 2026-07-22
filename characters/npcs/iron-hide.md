@@ -4,6 +4,7 @@ aliases:
 - Captain Iron-Hide
 - Jorah Iron-Hide
 tags:
+  - notable-figure
 - npc
 - captain
 - iron-union

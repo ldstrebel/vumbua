@@ -1,14 +1,15 @@
 ---
 tags:
+  - second-year
+  - second-year
   - npc
-  - squad-09
 ---
 
 # Pudge
 
 |                      |                                                  |
 | -------------------- | ------------------------------------------------ |
-| **Role**             | Squad 09 (The Ablative) - Member (Rust Tier)     |
+| **Role**             | Second-Year Cadet / Reso Race Winner (Rust Tier)     |
 | **Affiliation**      | [[Vumbua Academy]]                               |
 | **Status**           | Active                                           |
 | **First Appearance** | [[session-01\|Session 1]]                        |

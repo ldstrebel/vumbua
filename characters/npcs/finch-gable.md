@@ -2,6 +2,8 @@
 aliases:
   - Finch
 tags:
+  - first-year
+  - squad-01
   - npc
   - harmony-born
   - student

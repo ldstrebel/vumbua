@@ -3,6 +3,7 @@ aliases:
 - Ludo
 - Ludo Castellan
 tags:
+  - notable-figure
 - npc
 - student
 - castellan-family

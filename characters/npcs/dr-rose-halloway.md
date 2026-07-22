@@ -3,6 +3,7 @@ aliases:
 - Rose Halloway
 - Dr. Rose Halloway
 tags:
+  - first-year
 - npc
 - squad-05
 ---

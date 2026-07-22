@@ -2,6 +2,7 @@
 aliases:
   - "Cinder"
 tags:
+  - first-year
   - npc
   - squad-06
   - ash-blood

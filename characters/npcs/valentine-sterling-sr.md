@@ -4,6 +4,7 @@ aliases:
 - The Paper Man
 - Valentine Sterling Sr.
 tags:
+  - notable-figure
 - npc
 - explorer
 ---

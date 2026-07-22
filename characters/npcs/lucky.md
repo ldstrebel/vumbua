@@ -1,7 +1,8 @@
 ---
 tags:
+  - first-year
+  - squad-04
   - npc
-  - squad-09
 ---
 
 # Lucky

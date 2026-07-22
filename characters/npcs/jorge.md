@@ -1,5 +1,7 @@
 ---
 tags:
+  - first-year
+  - squad-02
   - npc
 ---
 

@@ -2,8 +2,8 @@
 aliases:
   - "Senior Exploranaut Hesperus"
 tags:
-  - npc
   - faculty
+  - npc
 ---
 
 # Senior Exploranaut Hesperus
