@@ -139,19 +139,19 @@ Across the overwhelming sea of 50,000 shouting freshmen, candidate squads improv
 
 ## 🎲 Daggerheart Encounter Lookup Tables (4x 1d6 Environment + 1x 1d10 General)
 
-Click any encounter name to jump directly to its full DM stat block, Daggerheart skill prompts, and Node magic lesson in [[s9-encounters|s9-encounters.md]]!
+Click any encounter name to jump directly to its full DM stat block, Daggerheart skill prompts, and Node magic lesson in [[s8-encounters|s9-encounters.md]]!
 
 ### 🌲 1. Aerostatic & Acoustic (1d6 — Zones 1 & 5)
 *3 NPC Encounters + 3 Geography Encounters*
 
 | d6 | Type | Encounter Name (Wikilink to Stat Block & Node Lesson) | Node Magic Focus | Primary NPC / Squad Encounter |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | NPC | [[s9-encounters#1. The Floating Pylon Standoff (NPC)\|1. The Floating Pylon Standoff]] | Aerostatic Levitation Siphoning | [[dr-rose-halloway\|Dr. Halloway]], [[bramble\|Bramble]] & [[pip\|Pip]] |
-| **2** | NPC | [[s9-encounters#2. The Acoustic Echo Ambush (NPC)\|2. The Acoustic Echo Ambush]] | Harmonic Resonance Amplification | [[nyx\|Nyx]] & Squad 09 (The Silence) |
-| **3** | NPC | [[s9-encounters#3. The Sonic Cavern Quiz Gate (NPC)\|3. The Sonic Cavern Quiz Gate]] | Vibrational Frequency Tuning | [[percival-vane-smythe-iii\|Percy]] & [[serra-vox\|Serra Vox]] |
-| **4** | Geo | [[s9-encounters#4. The Grav-Flip Shear (Geography)\|4. The Grav-Flip Shear]] | Gravitational Inversion Boundaries | Independent Scrappers & Float Crate |
-| **5** | Geo | [[s9-encounters#5. The Silent Void Pocket (Geography)\|5. The Silent Void Pocket]] | Sound-Dampening Null Fields | Audio Null-Field Puzzle |
-| **6** | Geo | [[s9-encounters#6. The Floating Boulder Collapse (Geography)\|6. The Floating Boulder Collapse]] | Gravitational Flux Instability | Unstable Buoyancy Crossing |
+| **1** | NPC | [[s8-encounters#1. The Floating Pylon Standoff (NPC)\|1. The Floating Pylon Standoff]] | Aerostatic Levitation Siphoning | [[dr-rose-halloway\|Dr. Halloway]], [[bramble\|Bramble]] & [[pip\|Pip]] |
+| **2** | NPC | [[s8-encounters#2. The Acoustic Echo Ambush (NPC)\|2. The Acoustic Echo Ambush]] | Harmonic Resonance Amplification | [[nyx\|Nyx]] & Squad 09 (The Silence) |
+| **3** | NPC | [[s8-encounters#3. The Sonic Cavern Quiz Gate (NPC)\|3. The Sonic Cavern Quiz Gate]] | Vibrational Frequency Tuning | [[percival-vane-smythe-iii\|Percy]] & [[serra-vox\|Serra Vox]] |
+| **4** | Geo | [[s8-encounters#4. The Grav-Flip Shear (Geography)\|4. The Grav-Flip Shear]] | Gravitational Inversion Boundaries | Independent Scrappers & Float Crate |
+| **5** | Geo | [[s8-encounters#5. The Silent Void Pocket (Geography)\|5. The Silent Void Pocket]] | Sound-Dampening Null Fields | Audio Null-Field Puzzle |
+| **6** | Geo | [[s8-encounters#6. The Floating Boulder Collapse (Geography)\|6. The Floating Boulder Collapse]] | Gravitational Flux Instability | Unstable Buoyancy Crossing |
 
 ---
 
@@ -160,12 +160,12 @@ Click any encounter name to jump directly to its full DM stat block, Daggerheart
 
 | d6 | Type | Encounter Name (Wikilink to Stat Block & Node Lesson) | Node Magic Focus | Primary NPC / Squad Encounter |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | NPC | [[s9-encounters#7. The Steam-Vent Extortion (NPC)\|7. The Steam-Vent Extortion]] | Geothermal Steam Harnessing | [[lucky\|Lucky]], [[soot\|Soot]] & [[lance\|Lance]] |
-| **2** | NPC | [[s9-encounters#8. The Static Sand Polarization (NPC)\|8. The Static Sand Polarization]] | Triboelectric Static Harvesting | [[zephyr\|Zephyr]], [[ember\|Ember]] & [[iron-jaw-jax\|Jax]] |
-| **3** | NPC | [[s9-encounters#9. The Overclocked Boiler Breach (NPC)\|9. The Overclocked Boiler Breach]] | Thermal Overload Limits | [[cinder-4\|Cinder-4]] & [[maria-wall\|Maria Wall]] |
-| **4** | Geo | [[s9-encounters#10. The Fulmite Glass Discharge (Geography)\|10. The Fulmite Glass Discharge]] | Conductive Glass Fabrication | Static Lightning Arc Ridge |
-| **5** | Geo | [[s9-encounters#11. The Heat-Sink Melt-Down (Geography)\|11. The Heat-Sink Melt-Down]] | Radiative Heat Transfer | Super-Heated Iron Safe Cache |
-| **6** | Geo | [[s9-encounters#12. The Basalt Steam Eruption (Geography)\|12. The Basalt Steam Eruption]] | Pressure Relief Thresholds | High-Pressure Geyser Ledge |
+| **1** | NPC | [[s8-encounters#7. The Steam-Vent Extortion (NPC)\|7. The Steam-Vent Extortion]] | Geothermal Steam Harnessing | [[lucky\|Lucky]], [[soot\|Soot]] & [[lance\|Lance]] |
+| **2** | NPC | [[s8-encounters#8. The Static Sand Polarization (NPC)\|8. The Static Sand Polarization]] | Triboelectric Static Harvesting | [[zephyr\|Zephyr]], [[ember\|Ember]] & [[iron-jaw-jax\|Jax]] |
+| **3** | NPC | [[s8-encounters#9. The Overclocked Boiler Breach (NPC)\|9. The Overclocked Boiler Breach]] | Thermal Overload Limits | [[cinder-4\|Cinder-4]] & [[maria-wall\|Maria Wall]] |
+| **4** | Geo | [[s8-encounters#10. The Fulmite Glass Discharge (Geography)\|10. The Fulmite Glass Discharge]] | Conductive Glass Fabrication | Static Lightning Arc Ridge |
+| **5** | Geo | [[s8-encounters#11. The Heat-Sink Melt-Down (Geography)\|11. The Heat-Sink Melt-Down]] | Radiative Heat Transfer | Super-Heated Iron Safe Cache |
+| **6** | Geo | [[s8-encounters#12. The Basalt Steam Eruption (Geography)\|12. The Basalt Steam Eruption]] | Pressure Relief Thresholds | High-Pressure Geyser Ledge |
 
 ---
 
@@ -174,12 +174,12 @@ Click any encounter name to jump directly to its full DM stat block, Daggerheart
 
 | d6 | Type | Encounter Name (Wikilink to Stat Block & Node Lesson) | Node Magic Focus | Primary NPC / Squad Encounter |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | NPC | [[s9-encounters#13. The Bioluminescent Mud Sinkhole (NPC)\|13. The Bioluminescent Mud Sinkhole]] | Prism Water Mana Saturation | [[calculus-prime\|Calculus Prime]] & [[kael\|Kael]] |
-| **2** | NPC | [[s9-encounters#14. The Delta Rapid Breakwater (NPC)\|14. The Delta Rapid Breakwater]] | Hydraulic Flow Displacement | [[cinder-4\|Cinder-4]] & [[maria-wall\|Maria Wall]] |
-| **3** | NPC | [[s9-encounters#15. The Tidal Flash-Flood Surge (NPC)\|15. The Tidal Flash-Flood Surge]] | Tidal Pressure Pulse | [[captain-barnacle\|Captain Barnacle]] & [[brawn\|Brawn]] |
-| **4** | Geo | [[s9-encounters#16. The Spore-Cloud Navigation Fog (Geography)\|16. The Spore-Cloud Navigation Fog]] | Biological Spore Interference | Compass-Jamming Spore Cloud |
-| **5** | Geo | [[s9-encounters#17. The Hydro-Impeller Siphon (Geography)\|17. The Hydro-Impeller Siphon]] | Kinetic Hydro-Turbine Generation | Swirling Turbine Intake Vortex |
-| **6** | Geo | [[s9-encounters#18. The Bioluminescent Reed Entanglement (Geography)\|18. The Bioluminescent Reed Entanglement]] | Arcane Vegetation Root Structures | Grasp-Reed Snare Trap |
+| **1** | NPC | [[s8-encounters#13. The Bioluminescent Mud Sinkhole (NPC)\|13. The Bioluminescent Mud Sinkhole]] | Prism Water Mana Saturation | [[calculus-prime\|Calculus Prime]] & [[kael\|Kael]] |
+| **2** | NPC | [[s8-encounters#14. The Delta Rapid Breakwater (NPC)\|14. The Delta Rapid Breakwater]] | Hydraulic Flow Displacement | [[cinder-4\|Cinder-4]] & [[maria-wall\|Maria Wall]] |
+| **3** | NPC | [[s8-encounters#15. The Tidal Flash-Flood Surge (NPC)\|15. The Tidal Flash-Flood Surge]] | Tidal Pressure Pulse | [[captain-barnacle\|Captain Barnacle]] & [[brawn\|Brawn]] |
+| **4** | Geo | [[s8-encounters#16. The Spore-Cloud Navigation Fog (Geography)\|16. The Spore-Cloud Navigation Fog]] | Biological Spore Interference | Compass-Jamming Spore Cloud |
+| **5** | Geo | [[s8-encounters#17. The Hydro-Impeller Siphon (Geography)\|17. The Hydro-Impeller Siphon]] | Kinetic Hydro-Turbine Generation | Swirling Turbine Intake Vortex |
+| **6** | Geo | [[s8-encounters#18. The Bioluminescent Reed Entanglement (Geography)\|18. The Bioluminescent Reed Entanglement]] | Arcane Vegetation Root Structures | Grasp-Reed Snare Trap |
 
 ---
 
@@ -188,12 +188,12 @@ Click any encounter name to jump directly to its full DM stat block, Daggerheart
 
 | d6 | Type | Encounter Name (Wikilink to Stat Block & Node Lesson) | Node Magic Focus | Primary NPC / Squad Encounter |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | NPC | [[s9-encounters#19. The Wind-Shear Math Debate (NPC)\|19. The Wind-Shear Math Debate]] | Atmospheric Wind Vectors | [[valentine-sterling\|Val Sterling]] & [[finch-gable\|Finch Gable]] |
-| **2** | NPC | [[s9-encounters#20. The Stone Bridge Gatekeeper (NPC)\|20. The Stone Bridge Gatekeeper]] | Central Amplitude Focus | [[percival-vane-smythe-iii\|Percy Vane-Smythe]] & [[sarge\|Sarge]] |
-| **3** | NPC | [[s9-encounters#21. The Gantry Lift Power Interruption (NPC)\|21. The Gantry Lift Power Interruption]] | Resonance Coupling Lines | [[valentine-sterling\|Val Sterling]] & VIP Nobles |
-| **4** | Geo | [[s9-encounters#22. The Brass Wind-Tower Calibration (Geography)\|22. The Brass Wind-Tower Calibration]] | Rotational Anemometer Energy | Uncalibrated Wind-Tower Blades |
-| **5** | Geo | [[s9-encounters#23. The Grand Obelisk Rune Surge (Geography)\|23. The Grand Obelisk Rune Surge]] | The Core Harmonic Lattice | Central Obelisk Base Plate |
-| **6** | Geo | [[s9-encounters#24. The Crosswind Dust Vortex (Geography)\|24. The Crosswind Dust Vortex]] | Thermal-Wind Convection | Swirling Dust Cyclones |
+| **1** | NPC | [[s8-encounters#19. The Wind-Shear Math Debate (NPC)\|19. The Wind-Shear Math Debate]] | Atmospheric Wind Vectors | [[valentine-sterling\|Val Sterling]] & [[finch-gable\|Finch Gable]] |
+| **2** | NPC | [[s8-encounters#20. The Stone Bridge Gatekeeper (NPC)\|20. The Stone Bridge Gatekeeper]] | Central Amplitude Focus | [[percival-vane-smythe-iii\|Percy Vane-Smythe]] & [[sarge\|Sarge]] |
+| **3** | NPC | [[s8-encounters#21. The Gantry Lift Power Interruption (NPC)\|21. The Gantry Lift Power Interruption]] | Resonance Coupling Lines | [[valentine-sterling\|Val Sterling]] & VIP Nobles |
+| **4** | Geo | [[s8-encounters#22. The Brass Wind-Tower Calibration (Geography)\|22. The Brass Wind-Tower Calibration]] | Rotational Anemometer Energy | Uncalibrated Wind-Tower Blades |
+| **5** | Geo | [[s8-encounters#23. The Grand Obelisk Rune Surge (Geography)\|23. The Grand Obelisk Rune Surge]] | The Core Harmonic Lattice | Central Obelisk Base Plate |
+| **6** | Geo | [[s8-encounters#24. The Crosswind Dust Vortex (Geography)\|24. The Crosswind Dust Vortex]] | Thermal-Wind Convection | Swirling Dust Cyclones |
 
 ---
 
@@ -202,16 +202,16 @@ Click any encounter name to jump directly to its full DM stat block, Daggerheart
 
 | d10 | Type | Encounter Name (Wikilink to Stat Block & Node Lesson) | Node Magic Focus | Primary NPC / Squad Encounter |
 | :-: | :--- | :--- | :--- | :--- |
-| **1** | NPC | [[s9-encounters#25. The Scrapper Component Hustle (NPC)\|25. The Scrapper Component Hustle]] | Scrap Component Recycling | [[lucky\|Lucky]] & Independent Scrappers |
-| **2** | NPC | [[s9-encounters#26. The Lost Freshman Escort (NPC)\|26. The Lost Freshman Escort]] | Node Disorientation Symptoms | Terrified First-Year Cadet |
-| **3** | NPC | [[s9-encounters#27. The Indigo Guard Glider Drop (NPC)\|27. The Indigo Guard Glider Drop]] | Aerial Node Tethering | [[warden-rovaldi\|Warden Rovaldi]] & Glider Patrol |
-| **4** | NPC | [[s9-encounters#28. The Scavenger Insurance Pitch (NPC)\|28. The Scavenger Insurance Pitch]] | Emergency Beacon Relays | [[lucky\|Lucky]] & Scrapper Grunts |
-| **5** | NPC | [[s9-encounters#29. The Rival Flag Theft (NPC)\|29. The Rival Flag Theft]] | Optical Banner Transmissions | [[finch-gable\|Finch Gable]] & [[baron-bolt\|Baron Bolt]] |
-| **6** | NPC | [[s9-encounters#30. The Spore-Infused Pastry Offer (NPC)\|30. The Spore-Infused Pastry Offer]] | Biological Field Rations | [[pip\|Pip]] & [[dr-rose-halloway\|Dr. Halloway]] |
-| **7** | NPC | [[s9-encounters#31. The Scrapper Boulder Lift Bet (NPC)\|31. The Scrapper Boulder Lift Bet]] | Physical Load Capacities | [[iron-jaw-jax\|Iron-Jaw Jax]] & [[jorge\|Jorge]] |
-| **8** | NPC | [[s9-encounters#32. The Stealth Recon Interference (NPC)\|32. The Stealth Recon Interference]] | Shadow Camouflage Weaves | [[nyx\|Nyx]] & [[kaelen\|Kaelen]] |
-| **9** | Geo | [[s9-encounters#33. The Global Node Amplitude Pulse (Geography)\|33. The Global Node Amplitude Pulse]] | Arena Harmonic Synchronization | 9-Node Pulse Surge |
-| **10** | Geo | [[s9-encounters#34. The Sudden Weather Front Shift (Geography)\|34. The Sudden Weather Front Shift]] | Micro-Climate Regulation | Sudden Rain Squall |
+| **1** | NPC | [[s8-encounters#25. The Scrapper Component Hustle (NPC)\|25. The Scrapper Component Hustle]] | Scrap Component Recycling | [[lucky\|Lucky]] & Independent Scrappers |
+| **2** | NPC | [[s8-encounters#26. The Lost Freshman Escort (NPC)\|26. The Lost Freshman Escort]] | Node Disorientation Symptoms | Terrified First-Year Cadet |
+| **3** | NPC | [[s8-encounters#27. The Indigo Guard Glider Drop (NPC)\|27. The Indigo Guard Glider Drop]] | Aerial Node Tethering | [[warden-rovaldi\|Warden Rovaldi]] & Glider Patrol |
+| **4** | NPC | [[s8-encounters#28. The Scavenger Insurance Pitch (NPC)\|28. The Scavenger Insurance Pitch]] | Emergency Beacon Relays | [[lucky\|Lucky]] & Scrapper Grunts |
+| **5** | NPC | [[s8-encounters#29. The Rival Flag Theft (NPC)\|29. The Rival Flag Theft]] | Optical Banner Transmissions | [[finch-gable\|Finch Gable]] & [[baron-bolt\|Baron Bolt]] |
+| **6** | NPC | [[s8-encounters#30. The Spore-Infused Pastry Offer (NPC)\|30. The Spore-Infused Pastry Offer]] | Biological Field Rations | [[pip\|Pip]] & [[dr-rose-halloway\|Dr. Halloway]] |
+| **7** | NPC | [[s8-encounters#31. The Scrapper Boulder Lift Bet (NPC)\|31. The Scrapper Boulder Lift Bet]] | Physical Load Capacities | [[iron-jaw-jax\|Iron-Jaw Jax]] & [[jorge\|Jorge]] |
+| **8** | NPC | [[s8-encounters#32. The Stealth Recon Interference (NPC)\|32. The Stealth Recon Interference]] | Shadow Camouflage Weaves | [[nyx\|Nyx]] & [[kaelen\|Kaelen]] |
+| **9** | Geo | [[s8-encounters#33. The Global Node Amplitude Pulse (Geography)\|33. The Global Node Amplitude Pulse]] | Arena Harmonic Synchronization | 9-Node Pulse Surge |
+| **10** | Geo | [[s8-encounters#34. The Sudden Weather Front Shift (Geography)\|34. The Sudden Weather Front Shift]] | Micro-Climate Regulation | Sudden Rain Squall |
 
 ---
 ```
@@ -324,6 +324,9 @@ From **Squad 907's Drop Point in Zone 8 (Tidal Lands)**, players can chart 4 pri
 * **Active Node Effect (Grand Resonator Core):** **Central Amplitude Field.** All magic cast within 100 feet of the Obelisk gains +1 Power, but causes wild visual Scrivener glyphs to ignite in the air.
 * **Scavenger List Tag:** **The Grand Champion Tag** (Mounted at the base of the Grand Obelisk).
 * **Squad Activity:** **Val Sterling** is standing atop the Stone Bridge watching the lifts drop, while senior Captains watch from the Box Seats directly above!
+
+### Zone 0 - Under the Walker
+This is where dinner is set up for cadets. walker straddles the shore that splits the apex gates and is the control for Vumbua's aether barrier
 
 ---
 

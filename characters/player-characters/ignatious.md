@@ -2,6 +2,8 @@
 aliases:
   - "Lava Boy"
   - "ignatious Magmatoa"
+  - "Ignatius"
+  - "Ignatius Magmatoa"
 tags:
   - pc
   - ash-blood
@@ -24,6 +26,8 @@ tags:
 | **Housing** | [[Block 12]] (with [[Iggy]]) |
 
 ## Appearance
+
+![alt text](ignatious-portrait.png)
 
 An [[Ember]] Islander with **literal flames** for hair. Fire is a natural part of his being, forming a burning orange crown around his head of dark hair. He has warm, glowing yellow-orange eyes, wears a dark hooded traveler's cloak, and is soot-dusted from his travels. He is often seen carrying a piece of warm, glowing molten volcanic stone (lavsidian) in his hands.
 

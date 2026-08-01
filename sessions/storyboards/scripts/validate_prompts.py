@@ -151,10 +151,10 @@ def check_names_preserved_in_quotes(prompt_data: dict) -> list[str]:
 def check_abbreviated_tokens(prompt_data: dict) -> list[str]:
     """Check for abbreviated character references that should be full tokens."""
     issues = []
-    text = prompt_data["text"]
+    descriptor_text = get_descriptor_text(prompt_data["text"])
     
     for pattern in ABBREVIATED_TOKENS:
-        matches = re.findall(pattern, text, re.IGNORECASE)
+        matches = re.findall(pattern, descriptor_text, re.IGNORECASE)
         if matches:
             issues.append(
                 f"⚠️  ABBREVIATED TOKEN: '{matches[0]}' found. Use the full "

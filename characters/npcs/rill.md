@@ -22,6 +22,17 @@ tags:
 | **Archetype** | The Futurist |
 | **First Appearance** | [[session-01\|Session 1]] |
 
+## Physical Appearance & Image Tokens
+
+* **Species/Heritage:** Humanoid female of mixed Wadi (River Clan) & Mizizi ancestry.
+* **Skin Tone:** Smooth olivaceous pale-tan skin with subtle translucent river-vein markings along her neck.
+* **Hair & Eyes:** Slender build, short asymmetrical dark teal-grey hair swept to one side, sharp piercing amber-gold eyes.
+* **Attire & Features:** Utility-focused field tunic made of dark teal river-canvas over light brass-plated leather shoulder guards, dark high-collared utility vest with brass buckle straps, carrying a brass-bound flare gun holstered at her hip. High cheekbones and a calm, calculating expression.
+
+### Image Generation Tokens
+`Slender humanoid female, olivaceous pale-tan skin with subtle translucent river-vein markings, short asymmetrical dark teal-grey hair swept to one side, sharp piercing amber-gold eyes, dark teal river-canvas utility tunic, brass-plated leather shoulder guards, dark high-collared utility vest with brass buckles, brass-bound flare gun holstered at hip, detailed 2D graphic novel style, clean expressive manga-style linework, crisp black ink outlines, cel-shaded color flats, cinematic volumetric lighting`
+
+
 ## Overview
 Rill is a researcher at [[Vumbua Academy]] who is publicly known as a **[[Mizizi]]** traitor who left the Forest two years ago. **Secretly, she is a [[Wadi]] ([[Wadi|River Clan]])** member who has integrated so perfectly that she passes as Mizizi. She arrived at the Academy **2 months ago** after spending time in the "Silent Zones" between leaving the forest and joining Harmony. [[Serra Vox]] describes her as *"one of the greatest inventors in our age."*
 

@@ -186,9 +186,20 @@
 - The Loom sorts the surviving candidates into Explorer squads; the party is sorted into **Squad 907**.
 - Lifts lower the new first-years into the Apex Ring basin for their physical test.
 
+### Intake Week - Day 5 to Day 6 ([[s9-clean|Session 9]]: Five Sectors in the Sand)
+- **Pre-Exam Flashback:** [[Loami]] pours drinks for arena logistics officer [[Dee]] on the *Zephyr*, learning that 5 sectors of the Apex Ring tin were pre-seeded with scrap materials, predicting Squad 907 via harmonic intuition.
+- **Friday Afternoon:** 50,000 first-year cadets descend into the 3-mile Apex Ring basin for their 24-hour Proving Run.
+- **Rendezvous & Bribe:** [[Aggie]] scouts Sector 3 wetlands; Loami bribes stand security to secure a rapid descent path.
+- **Lift Rescue:** [[Britt]] saves a small cadet from being crushed by a descending steam lift.
+- **Sector 2 Scavenge:** [[Ignatious]] uses Hermes ankle-wings to fly [[Britt]] across gravity-scrambled zones, securing fuel bladders, coolant hoses, bamboo, and a sponge boom block.
+- **Sector 4 Scavenge:** [[Iggy]] enjoys a steam vent spa moment, then bites an 18ft [[Sector 4 Cyclops Troll|Cyclops Troll]] and uses *Mud Lash* to steal a raw energy crystal.
+- **Sector 5 Scavenge:** [[Loami]] overclocks down a 200ft vertical fall tunnel, retrieving canvas tarps, bungee cords, and grappling hooks.
+- **Dusk Alignment:** Squad 907 regroups in Sector 3 with all Phase 1 materials secured.
+
 ---
 
 ## Upcoming
 
-### Next Session (Session 9: The Basalt Run)
-- **Friday Afternoon:** The newly sorted squads begin their proving physical test on the Apex Arena floor.
+### Next Session (Session 10: The Proving Voyage Drafting)
+- **Saturday Morning:** Squad 907 must assemble their vessel/rig before the 8:00 AM deadline and present their build to Senior Captains to secure a voyage.
+

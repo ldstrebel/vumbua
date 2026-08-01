@@ -22,7 +22,11 @@ tags:
 ![[Pasted image 20260709171825.png]]
 ## Appearance
 
+![alt text](aggie-portrait.png)
+
 A turtle-mushroom hybrid of the [[Mizizi]] clan. She has light grey, textured turtle-like skin, expressive green eyes, and neat shoulder-length white hair adorned with a green leaf crown. She wears a simple white linen dress with vine embroidery. Her shell is a vibrant **red-and-white spotted mushroom** (Amanita cap) which she can retreat fully into. Moss, mycelia, and fungal growths are natural features.
+
+
 
 ## Personality
 

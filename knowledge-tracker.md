@@ -20,6 +20,9 @@ aliases:
 - ✅ The forest has noticeably resisted dying/pruning over the last two years, drawing a possible parallel to the "dead island" phenomenon ([[s4.5-clean|Session 4.5]])
 - ✅ **Britt's Poisoning**: Britt developed dry spots on her neck/shell that react green to water, indicating exposure to the green sludge in the northeast corner of the city ([[session-8|Session 8]])
 - ✅ **The Decade-Old Case**: Aggie connected Britt's symptoms to a rare, fatal condition that killed a newly integrated Mizizi turtleborn about a decade ago after their color was leeched away ([[session-8|Session 8]])
+- ✅ **Dagger Shark Predators**: Dagger Sharks in the Apex Ring basin track living energy/resonance signatures and can be lured away by kinetic decoy launches on land ([[session-10|Session 10]])
+- ✅ **Rill's Emergency Flare Protocol**: Rill provided Squad 907 with a brass flare gun, warning that the 08:00 AM challenge involves dropping the sector barriers and releasing live apex hazards into the arena ([[session-10|Session 10]])
+
 
 ### GM Secrets (Players Don't Know)
 - ❌ The forest is a **data archive/library**
@@ -242,4 +245,22 @@ aliases:
 ### GM Secrets (Players Don't Know)
 - ❌ The exact reason why the Ash-Blood integration failed to increase the amplitude (linked to the Trench-Kin and the Shattered Circuit metaphysics).
 - ❌ The detailed financial backing and contracts between the Castellans, the Vox family, and the Academy.
+
+---
+
+## Session 9: The Proving Run & Arena Scavenge
+
+### What Players Know
+- ✅ **Pre-Seeded Arena Sectors:** Arena Logistics Officer [[Dee]] tipped off [[Loami]] on the *Zephyr* that 5 sectors of the Apex Ring tin were ordered to be seeded with scrap materials for candidate squad testing ([[s9-clean|Session 9]])
+- ✅ **Harmonic Squad Connection:** Vumbua squad sorting is based on the natural harmonic connection/resonance built between candidates during their first week of classes ([[s9-clean|Session 9]])
+- ✅ **Arena Biomes & Timelines:** 50,000 candidates dropped across 9 biomes in 5 sectors; deadline is 8:00 AM tomorrow (medical extraction gliders available until 5:00 AM) ([[s9-clean|Session 9]])
+- ✅ **Squad 907 Phase 1 Materials Secured:**
+  - *Loami:* Canvas tarp, high-tension bungees, rusted grappling hooks (retrieved via 200ft fall tunnel dive in Sector 5)
+  - *Britt & Ignatious:* Fuel bladders, coolant hoses, tar buckets, hollow bamboo, sponge boom block (retrieved via Hermes wing flight in Sector 2)
+  - *Iggy:* Clay plugs, raw sulfur/energy crystal (stolen from an 18ft Cyclops Troll in Sector 4 via *Mud Lash*)
+  - *Aggie:* Sector 3 bio-flora scouting & plant node communications alignment ([[s9-clean|Session 9]])
+
+### GM Secrets (Players Don't Know)
+- ❌ The exact rig build specifications expected by Senior Captains during tomorrow morning's Proving Voyage drafting.
+
 

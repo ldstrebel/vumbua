@@ -25,6 +25,8 @@ tags:
 
 ## Appearance
 
+![alt text](iggy-portrait.png)
+
 A small clay-and-soil-kin short humanoid-moleish creature of packed dirt and clay. Green moss and small plant sprouts grow from the top of his head. He wears oversized round goggles half filled with water. His body is clothed in a dark, oversized heavy wool trench coat. Extremely light-sensitive — starts steaming in sunlight and is always applying a version of sunscreen. Pressure-sensitive — feels relief when weight is applied.
 
 ## Personality

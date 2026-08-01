@@ -8,11 +8,39 @@ aliases:
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 > **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
-> **Last Updated**: Session 8 (July 2026)
+> **Last Updated**: Session 10 (July 2026)
 
 ---
 
+## Last Session Delta (Session 10: Dagger Sharks)
+
+New entities, reveals, and changes introduced in the most recent session. Update this after each session.
+
+**New NPCs / Appearances**: [[Rill]] (Warned squad at 04:00 and gifted emergency flare gun), [[Sector 4 Cyclops Troll]] ("Sam" & "Sarah" pursued Iggy)  
+**Key reveals**:
+- **The Canopy Raft / Balloon Hybrid**: Squad 907 built a floating vessel (`raft.png`) out of six buoyancy barrels, a tar-sealed fuel bladder hot-air balloon, coolant-hose slingshots, and a sulfur-crystal burner.
+- **Dagger Sharks**: Bioluminescent, armored predators that track living energy/resonance in pack formations across the Apex Ring basin water.
+- **Iggy's Tree Phobia**: Acquired after taking a 20-foot petrified trunk thrown by Sam to the back.
+- **Rill's Warning**: Sector barriers dropped at 08:00 AM releasing live apex hazards into the arena; gifted squad a brass flare gun.
+
+## Last Session Delta (Session 09: Five Sectors in the Sand)
+
+
+New entities, reveals, and changes introduced in the most recent session. Update this after each session.
+
+**New NPCs introduced**: [[Dee]] (Arena Logistics Officer), [[Sector 4 Cyclops Troll]] (18ft Cyclops Troll in Sector 4)  
+**Key reveals**:
+- **Seeded Arena Sectors**: Arena Logistics Officer Dee tipped off Loami that 5 sectors of the Apex Ring tin were ordered to be seeded with scrap materials for squad testing.
+- **Harmonic Squad Connection**: Vumbua squad sorting is built on the natural harmonic resonance generated between candidates during their first week.
+- **Apex Ring 24-Hour Proving Run**: 50,000 candidates dropped across 9 biomes in 5 sectors; deadline is 8:00 AM tomorrow (evac gliders available for credits until 5:00 AM).
+- **Squad 907 Scavenge Haul**:
+  - *Loami:* Canvas tarp, high-tension bungees, rusted grappling hooks (from Sector 5 fall tunnel).
+  - *Britt & Ignatious:* Fuel bladders, coolant hoses, tar buckets, hollow bamboo, sponge boom block (from Sector 2).
+  - *Iggy:* Clay plugs, raw sulfur energy crystal (bitten cyclops troll in Sector 4).
+  - *Aggie:* Sector 3 bio-flora scouting & plant node communications alignment.
+
 ## Last Session Delta (Session 08: The Written Exam & Squad 907)
+
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 

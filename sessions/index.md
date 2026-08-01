@@ -269,6 +269,55 @@ The grueling intake week culminates in the Exploration 101 written exam at the A
 
 ---
 
+### [[Session 09|Session 9: Five Sectors in the Sand]]
+**Date:** 2026-07-23
+
+Following the written exam, the newly sorted Squad 907 plunges into the three-mile Apex Ring basin for their 24-hour Proving Run. Guided by a pre-exam tip-off from an arena logistics officer about pre-seeded scrap sectors, the squad divides to conquer the gravity-scrambled terrain. While Ignatious and Britt fly across volatile gravity sectors to secure mechanical supplies and Iggy outsmarts an 18-foot Cyclops Troll for high-grade energy crystals, Loami pulls off a daring 200-foot gravity dive to retrieve heavy tarps and grappling gear before regrouping in the Sector 3 wetlands.
+
+**Key Events:**
+- [[Loami]] recalls a pre-exam tip from arena logistics officer [[Dee]] revealing pre-seeded scrap sectors in the arena
+- [[Dean Isolde Vane]] addresses 50,000 first-year cadets at the [[Apex Ring]] stadium before the steam-lifts drop
+- [[Aggie]] scouts Sector 3 wetlands to establish plant-node communication for Squad 907
+- [[Loami]] bribes stand security to deliver a message, opening a clear path to the canyon floor
+- [[Britt]] rescues a small cadet from being crushed by a descending steam lift
+- [[Ignatious]] uses his Hermes ankle-wings to fly [[Britt]] across gravity-scrambled zones to gather fuel bladders, coolant hoses, and bamboo from Sector 2
+- [[Iggy]] enjoys a geothermal steam vent "spa" in Sector 4, then bites an 18-foot [[Sector 4 Cyclops Troll|Cyclops Troll]] and uses *Mud Lash* to steal a raw energy crystal
+- [[Loami]] overclocks down a 200-foot fall tunnel in Sector 5 to retrieve canvas tarps, bungee cords, and grappling hooks
+- Squad 907 successfully secures all Phase 1 scavenge materials and aligns for their Sector 3 rendezvous
+
+**Players Discovered:**
+- The Apex Ring contains 9 distinct biomes across 5 scavenger sectors seeded with industrial scrap for squad testing
+- Vumbua squad sorting is driven by the natural harmonic connections built between candidates during their first week
+- Directional gravity shifts randomly inside the canyon corridors, forcing candidates to scale walls or adjust flight paths
+- Emergency medical extraction gliders are available in the arena until 5:00 AM for academy credits
+
+---
+
+### [[Session 10|Session 10: Dagger Sharks]]
+**Date:** 2026-07-31
+
+As the 08:00 AM evacuation deadline closes over the Apex Ring, Squad 907 finishes constructing their makeshift Canopy Raft from scavenged barrels, tar-sealed fuel bladders, and high-tension slingshots. When the sector barriers drop and a fierce static storm releases a swarm of predatory Dagger Sharks into the flooded basin, Ignatious and Aggie ignite the sulfur burner to lift the balloon skyward. By launching petrified seed pods to distract the energy-sensing sharks, the squad navigates the floating vessel into the high petrified canopy, anchoring themselves safely for the bonus round.
+
+**Key Events:**
+- [[Iggy]] is chased through Sector 3 by the Cyclops Troll ("Sam") and his companion ("Sarah"), acquiring a permanent phobia of trees after taking a 20-foot trunk to the back.
+- [[Iggy]] escapes into the 1,700-foot deep basin water where the cyclops cannot follow.
+- [[Aggie]] speaks with the petrified forest trees to locate Iggy, using a rhythmic stone-clacking signal to guide him to shore.
+- Squad 907 constructs the **Canopy Raft** (`raft.png`) using six buoyancy barrels, a tar-sealed balloon canopy, coolant-hose slingshots, and a sulfur-crystal burner.
+- [[Rill]] appears at 04:00 AM to warn the squad about the severity of the 08:00 challenge and gifts them an emergency brass flare gun.
+- At 08:00 AM, static lightning shorts the Walker Core and releases a pod of bioluminescent **Dagger Sharks** into the basin.
+- [[Ignatious]] ignites the sulfur burner while taking a shark bite, allowing [[Aggie]]'s wild touch to inflate the hot-air balloon.
+- [[Britt]] and [[Aggie]] launch petrified seed pods to lure the Dagger Sharks away from the craft.
+- [[Loami]] launches a grappling hook into the high canopy, anchoring the balloon-raft safely inside the Sector 3 trees.
+
+**Players Discovered:**
+- Dagger Sharks track living energy signatures and can be decoyed using kinetic impacts on land.
+- Rill is actively monitoring candidate progress and possesses an emergency flare gun protocol.
+- Standing 100 yards off-shore at 08:00 AM allowed Squad 907 to launch straight into the forest canopy while avoiding ground stampedes.
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)
+
+

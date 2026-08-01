@@ -204,49 +204,66 @@ Use this to create dramatic pauses (e.g., "Scanning Biometrics...").
 ```
 
 ### 3. Dice Nodes (Random Routing)
-Use this for randomized outcomes where the player rolls dice and is auto-routed based on thresholds.
+Use this for randomized outcomes where the player rolls dice and is automatically routed based on thresholds or ranges.
+> [!IMPORTANT]
+> - Always specify `"nextId"` directly in each outcome object to guarantee routing.
+> - **Range Matching (Recommended):** Use explicit `min` and `max` parameters for precise Daggerheart v1.6 DC checks.
+> - **Threshold Fallback:** You can use `threshold` which resolves if the total is greater than or equal to the threshold.
+
 ```json
 {
   "id": "reaction_check",
-  "type": "dice",
-  "text": "REACTION CHECK",
-  "diceConfig": {
-    "count": 2,
-    "sides": 12,
-    "labels": ["HOPE", "FEAR"],
-    "colors": ["#33ccff", "#ff3333"]
-  },
-  "rollButtonText": "ROLL REACTION",
-  "outcomes": [
-    { "threshold": 20, "label": "Critical Success", "nextId": "high_path", "meta": 5 },
-    { "threshold": 10, "label": "Partial Success", "nextId": "mid_path", "meta": 3 },
-    { "threshold": 0, "label": "Failure", "nextId": "low_path", "meta": -2 }
-  ],
-  "blocks": [{ "type": "text", "content": "Narrative description..." }]
+  "type": "custom",
+  "position": { "x": 600, "y": 200 },
+  "data": {
+    "header": "REACTION CHECK",
+    "type": "dice",
+    "diceConfig": {
+      "count": 2,
+      "sides": 12,
+      "labels": ["HOPE", "FEAR"],
+      "colors": ["#33ccff", "#ff3333"]
+    },
+    "rollButtonText": "ROLL REACTION",
+    "blocks": [{ "type": "text", "content": "Narrative description..." }],
+    "outcomes": [
+      { "id": "crit_success", "min": 20, "label": "Critical Success", "nextId": "high_path", "scores": {} },
+      { "id": "part_success", "min": 10, "max": 19, "label": "Partial Success", "nextId": "mid_path", "scores": {} },
+      { "id": "failure", "max": 9, "label": "Failure", "nextId": "low_path", "scores": { "stress": 1 } }
+    ]
+  }
 }
 ```
 
 ### 4. Outcome-Router Nodes (Dice + Choice)
-Use this when the dice roll determines which SET of choices is available, but the player still picks.
+Use this when the dice roll determines which SET of choices is available, but the player still picks from them.
+> [!WARNING]
+> Because options inside `outcomePorts` are nested and not part of the standard `data.ports` array, the system's edge-linking pass will NOT automatically resolve their `nextId` values from the graph edges.
+> **You MUST explicitly define `"nextId"` inside every option in the `outcomePorts` lists.**
+
 ```json
 {
   "id": "door_selection",
-  "type": "outcome-router",
-  "text": "The void presents doors...",
-  "diceConfig": { "count": 2, "sides": 12, "labels": ["HOPE", "FEAR"] },
-  "rollButtonText": "ROLL INSTINCT",
-  "resultText": "Choose your path...",
-  "thresholds": { "high": 20, "mid": 10 },
-  "outcomePorts": {
-    "high": [
-      { "id": "door_glory", "text": "DOOR OF GLORY", "class": "Warrior", "nextId": "next_node" }
-    ],
-    "mid": [
-      { "id": "door_iron", "text": "DOOR OF IRON", "class": "Guardian", "nextId": "next_node" }
-    ],
-    "low": [
-      { "id": "door_teeth", "text": "DOOR OF TEETH", "class": "Druid", "nextId": "next_node" }
-    ]
+  "type": "custom",
+  "position": { "x": 600, "y": 200 },
+  "data": {
+    "header": "The void presents doors...",
+    "type": "outcome-router",
+    "diceConfig": { "count": 2, "sides": 12, "labels": ["HOPE", "FEAR"] },
+    "rollButtonText": "ROLL INSTINCT",
+    "resultText": "Choose your path...",
+    "thresholds": { "high": 20, "mid": 10 },
+    "outcomePorts": {
+      "high": [
+        { "id": "door_glory", "text": "DOOR OF GLORY", "nextId": "glory_node", "scores": {} }
+      ],
+      "mid": [
+        { "id": "door_iron", "text": "DOOR OF IRON", "nextId": "iron_node", "scores": {} }
+      ],
+      "low": [
+        { "id": "door_teeth", "text": "DOOR OF TEETH", "nextId": "teeth_node", "scores": {} }
+      ]
+    }
   }
 }
 ```

@@ -24,7 +24,10 @@ tags:
 ![[Pasted image 20260709171812.png]]
 ## Appearance
 
-A turtle-mushroom hybrid of the [[Mizizi]] clan. Her skin is a darker green color with earthy accents, and she has slight fungal accents on her shell. She has wild, long dreadlocks that resemble organic roots and thick hanging vines. She wears a simple, sleeveless dark grey tunic and is constantly seen carrying a massive, round leaf-woven backpack/pouch on her back that towers over her head. Her features are expressive and sharp.
+![alt text](britt-portrait.png)
+
+A turtle-mushroom hybrid female of the [[Mizizi]] clan (cousin to Aggie, with a slimmer, athletic frame). Her skin is a darker olivaceous green color with earthy accents, and she has prominent pointed ears. She has wild, long dreadlocks made of living green roots and thick hanging vines that cascade past her waist. She wears a simple, sleeveless dark grey tunic. Her back shell is a sturdy, lumpy grey-green turtle shell with fungal accents and leaf-strewn texture. Her features are expressive and sharp.
+
 
 ## Personality
 

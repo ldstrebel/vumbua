@@ -1,6 +1,8 @@
 ---
 aliases:
   - "Loami Sultano"
+  - "Lomi"
+  - "Lomi Sultano"
 tags:
   - pc
   - harmony-born
@@ -22,8 +24,10 @@ tags:
 | **Class**    | Daggerheart Character                                                                                                                     |
 | **Player**   | Luke F (Luke Foreman)                                                                                                                     |
 | **Housing**  | [[meta/foundry-export-vault/locations/block-99\|block-99]]-Piston (with [[Ratchet]], [[Soot]])<br>[[locations/block-99\|Block 99-Piston]] |
-![[Pasted image 20260709171753.png]]
+
 ## Appearance
+
+![alt text](loami-portrait.png)
 
 A rugged, bulky, muscular tan Caucasian male in his late 20s. Short brown hair, brown eyes (one showing a subtle green tint), short beard, with hints of dirt on his face at all times. Wears a brown woolen flat cap with a tiny red, white, and green ribbon, a working shirt with a heavy canvas working collar, and metallic shoulder pauldrons over his working shirt. His appearance is that of a seasoned, blue-collar union worker.
 

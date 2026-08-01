@@ -111,7 +111,8 @@ status: cleanup-complete
 - ✅ Use character names for IC dialogue, player names for OOC dialogue
 - ✅ Fix transcription errors at 99% confidence only; note every correction made
 - ✅ Correct to canonical spellings from lore-index (e.g., "Lasidian" → "lavsidian")
-- ❌ Never summarize, compress, or skip dialogue
+- ❌ **ZERO-TOLERANCE for Dialogue Truncation:** Never summarize, compress, paraphrase, or skip IC dialogue. Every line of character dialogue, banter, joke, and barter MUST be preserved verbatim from `sN-raw.md`.
+- ❌ **ZERO-TOLERANCE for GM Narration Omission:** Never drop or compress GM narrations, world-building setup, or NPC interactions.
 - ❌ Never add details not in the transcript
 - ❌ Never smooth PC dialect or NPC speech quirks (Iggy's dropped letters, Kante's broken English — these are intentional)
 - ❌ Never present OOC player thinking as IC character dialogue
@@ -127,12 +128,14 @@ status: cleanup-complete
 - Re-read 5 lines before/after any correction to make sure you haven't orphaned adjacent dialogue
 
 **Failure states (learned from past sessions):**
-1. **Smoothing PC dialect** — Iggy's `"'S nice to meet ya"`, `"'course"`, `"nime"` are character voice. Do not standardize.
-2. **Smoothing NPC voice** — Kante's `"What do you like, know?"` is deliberate. Do not "fix" it.
-3. **Swapping attribution** — `"Your home sounds like a very hard place to live"` was Kante, not Iggy. Context matters.
-4. **OOC as IC** — Holly brainstorming what Iggy would say ≠ Iggy saying it.
-5. **Deleting exchanges while fixing** — when editing one line, re-read surrounding 10 lines.
-6. **Asking about canonical names** — always check `characters/npcs/` before asking the user.
+1. **Dialogue & Narration Truncation (HARD FAIL):** Summarizing IC exchanges (e.g., writing "Loami gave him coins" instead of preserving Loami's exact quote `"I made this at the bar the other day... it's literally every tip I got"`) is strictly banned.
+2. **OOC Filter Misapplication:** Filtering OOC talk means removing meta discussion (e.g., disc golf, D&D rules, snacks). It NEVER means truncating or shortening IC dialogue or GM narrative beats.
+3. **Smoothing PC dialect** — Iggy's `"'S nice to meet ya"`, `"'course"`, `"nime"` are character voice. Do not standardize.
+4. **Smoothing NPC voice** — Kante's `"What do you like, know?"` is deliberate. Do not "fix" it.
+5. **Swapping attribution** — `"Your home sounds like a very hard place to live"` was Kante, not Iggy. Context matters.
+6. **OOC as IC** — Holly brainstorming what Iggy would say ≠ Iggy saying it.
+7. **Deleting exchanges while fixing** — when editing one line, re-read surrounding 10 lines.
+8. **Asking about canonical names** — always check `characters/npcs/` before asking the user.
 
 ---
 

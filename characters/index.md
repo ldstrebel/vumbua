@@ -29,6 +29,7 @@
 - **[[Silas Thorne|Professor Silas Thorne]]** - Professor of Reality Anchoring
 - **[[Warden Rovaldi]]** - Chief of the Guards (Captain Raldi)
 - **[[Remmy]]** - Academy Infirmary Lieutenant / Nurse
+- **[[Dee]]** - Arena Logistics Officer (Material Acquisition & Seeding)
 
 ### First-Year Squads (Loom Sorted)
 
