@@ -39,14 +39,12 @@
             "id": "e03484de83f24cb2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "sessions/planning/S9/s9-scavenger.md",
-                "mode": "source",
-                "source": false
+                "file": "meta/Daggerheart-Core/DH-SRD-May202025.pdf"
               },
-              "icon": "lucide-file",
-              "title": "s9-scavenger"
+              "icon": "lucide-file-text",
+              "title": "DH-SRD-May202025"
             }
           }
         ],
@@ -211,8 +209,10 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "7b8b0d5c2271cba7",
+  "active": "e03484de83f24cb2",
   "lastOpenFiles": [
+    "sessions/planning/s10/s10-beast-guide.md",
+    "sessions/planning/S9/s9-scavenger.md",
     "characters/npcs/professor-kante.md",
     "sessions/planning/S9/S9 plan.md",
     "sessions/planning/S9",
@@ -256,8 +256,6 @@
     "sessions/planning/archive/s7/mizizi-vip-day.json",
     "sessions/planning/archive/s7/airship.md",
     "sessions/planning/archive/s7/adventure-template (4).json",
-    "copilot/copilot-conversations/Character_Exam_Elimination_Predictions@20260715_194311.md",
-    "copilot/copilot-conversations/Captain_of_the_Ironside_Ship@20260707_152745.md",
     "_notebooklm-export",
     "Untitled.canvas"
   ]
