@@ -11,12 +11,14 @@
             "id": "e03484de83f24cb2",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "meta/Daggerheart-Core/DH-SRD-May202025.pdf"
+                "file": "sessions/planning/s12/s12 plan.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "DH-SRD-May202025"
+              "icon": "lucide-file",
+              "title": "s12 plan"
             }
           },
           {
@@ -33,8 +35,7 @@
               "title": "s11 Plan"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -50,7 +51,9 @@
           "type": "file-explorer",
           "state": {
             "sortOrder": "alphabetical",
-            "autoReveal": false
+            "autoReveal": false,
+            "showSearch": false,
+            "searchQuery": ""
           },
           "icon": "lucide-folder-closed",
           "title": "Files"
@@ -182,7 +185,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "handwritten-notes:Create empty handwritten note": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
       "canvas:Create new canvas": false,
@@ -195,12 +197,15 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "499e02d4ef684ef1",
+  "active": "e03484de83f24cb2",
   "lastOpenFiles": [
+    "sessions/planning/s11/s11 Plan.md",
+    "sessions/planning/s12/s12 plan.md",
+    "sessions/planning/s12/s12 plan",
+    "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
+    "sessions/planning/s12",
     "copilot/copilot-conversations/Help_me_analyze_the_s11_combat_encounter_and_tempest_macro@20260801_190425.md",
     "factions/clans/renali.md",
-    "meta/Daggerheart-Core/DH-SRD-May202025.pdf",
-    "sessions/planning/s11/s11 Plan.md",
     "factions/clans/fulgur-born.md",
     "world/pre-stitch-artifacts.md",
     "world/index.md",
@@ -236,13 +241,10 @@
     "sessions/storyboards/s3-storyboard.md",
     "sessions/storyboards/s2.5-storyboard.md",
     "sessions/storyboards/s2-storyboard.md",
-    "sessions/storyboards/s1-storyboard.md",
     "sessions/storyboards/evaluations",
     "sessions/storyboards/assets",
     "sessions/storyboards",
     "sessions/planning/archive/s8/GenEd_-_Exploration101_survey.json",
-    "sessions/planning/archive/s8",
-    "sessions/planning/archive/s7/s6-s7-adventure.json",
     "Untitled.canvas"
   ]
 }
