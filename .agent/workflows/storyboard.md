@@ -41,9 +41,9 @@ Write a scene list in this format and **stop here for user review**:
 ```markdown
 ## Scene Outline: Session N
 
-| # | Scene | Location | Key Characters | Proposed Pages |
-|---|---|---|---|---|
-| 1 | [Scene name] | [Location] | [Characters] | [e.g. 2] |
+| # | Scene | Location | Key Characters | Proposed Pages | Layout Structure & Justification |
+|---|---|---|---|---|---|
+| 1 | [Scene name] | [Location] | [Characters] | [e.g. 2] | [e.g. 2-Panel Asymmetrical Split — establishes environment top, tight dialogue bottom] |
 ...
 
 **Total proposed pages: [N]**
@@ -68,16 +68,28 @@ Scale page count to the session's actual content:
 
 Never compress multiple major scenes onto a single page unless they are directly continuous (e.g., a two-line exchange).
 
-### Panel format (per page)
+### Panel Format & Dynamic Layout Flexibility (Mandatory Anti-Grid & Justification Rule)
 
-Each page must include:
+Do **NOT** default to a static 3-panel grid for every page. For EVERY page, you MUST explicitly justify the panel count, geometry, and layout approach:
+
+- **1-Panel Splash / Overlay:** High-impact revelations, epic vistas, or grand battle scenes (with optional inset panels/narration overlays).
+- **2-Panel Asymmetrical Vertical Split:** Establishing wide shot (65% top) transitioning into emotional reaction close-up (35% bottom).
+- **2-Panel Dynamic High-Contrast Split:** Confrontations or presentation vs. explosive action transitions (50/50 split).
+- **2-Panel Asymmetrical Diagonal / Side Split:** Parallel actions (e.g. 60% left action / 40% full-height right transition).
+- **2-Panel Progression leading to Splash:** Top narrative return leading into a full-width bottom detailed splash (40/60 split).
+- **3-Panel Tiered Grid:** Selectively used for multi-step conversations or fast step-by-step action sequences.
+- **4-Panel Quad Grid:** Rapid multi-character reactions or fast combat exchanges.
+
+**Mandatory Page Header Format:**
+Every page in the storyboard markdown file MUST include:
 
 ```markdown
 ## Page N: [Scene Title]
 
-**Scene:** [Location description — match AGENTS.md location rules]
-**Color palette:** [Specific palette: warm amber, steel grey, etc.]
-**Lighting:** [Direction and quality of light]
+**Scene Location:** [Location description — match AGENTS.md location rules]
+**Color Palette:** [Specific palette: warm amber, steel grey, dark turquoise, etc.]
+**Layout Structure:** [Specify layout: e.g., 2-Panel Asymmetrical Diagonal Split (65/35), 1-Panel Splash, etc.]
+**Layout Justification:** [Explicitly justify WHY this panel count and geometry was chosen for this specific beat, and how it avoids formulaic grids]
 
 ### Panel 1
 **Shot:** [Wide / Medium / Close-up / Splash]
@@ -123,13 +135,11 @@ Each page = one `generate_image` call. Structure the prompt as:
 ```
 [Style token: Detailed 2D graphic novel style, clean expressive manga-style linework, crisp black ink outlines, cel-shaded color flats, cinematic volumetric lighting]
 
-[Page layout description: e.g. "A three-panel comic book page"]
+[Page layout description: e.g. "An asymmetrical two-panel comic book page with black gutters divided by a sharp diagonal black gutter slash, top panel taking up 65% vertical height and bottom panel taking up 35% vertical height"]
 
 Panel 1: [THICK description — shot type, character tokens, background, lighting, action, speech bubble text, sound effects]
 
 Panel 2: [THICK description]
-
-Panel 3: [THICK description]
 
 [Color palette note: e.g. "Warm amber gas-lamp interior lighting throughout, mahogany and brass textures"]
 
@@ -145,49 +155,3 @@ Panel 3: [THICK description]
 | Pages 4–6 | ⏸ Stop — show images, wait for confirmation |
 | Every 3 pages thereafter | ⏸ Stop — show images, wait for confirmation |
 | Final page | ⏸ Stop — ask user if any pages need regeneration |
-
----
-
-## Step 3 — Save Assets and Update Storyboard
-
-After all pages are approved by the user:
-
-1. Copy each approved image to `sessions/storyboards/assets/sN_pageNN.png`
-2. Update the storyboard document to reference the asset paths
-3. Run `python _export.py` to rebuild the NotebookLM export
-
----
-
-## The Vumbua Visual Style (Anti-Trope Rules)
-
-Apply these rules to every panel prompt.
-
-### Architecture
-"Oxford meets Steampunk, built into the Wild." Pristine white marble facades and sweeping arches are **carved directly into rugged natural cliff faces**. Sharp contrast between manicured academic stone and raw natural textures.
-
-### Technology
-Gaslamp fantasy. Steam, brass, umber crystals, gears. Do NOT use generic glowing magical auras or sci-fi thrusters.
-
-### Airships
-Treasure Planet-style solar galleons or heavy brass ironclads held aloft by massive silk-textured golden dirigible balloons with ornate golden solar sails. Do NOT generate generic blimps or sailboats.
-
-### The Apex Ring
-Half-mile-wide basalt canyon. Grandstands cut directly into the canyon walls. Ground is exactly half solid earth and half turquoise water. NEVER a floating stadium or a flat arena.
-
-### Spectator vehicles
-Ornate steam-pulled observation cars with vast glass windows and outward-facing bleacher seating. Tracks run elevated **behind** the grandstands, never between the crowd and the view.
-
-### Anti-tropes (ban from all prompts)
-`--no generic steampunk, clock faces, top hats, modern vehicles, bullet trains, jet engines, rockets, sci-fi thrusters, dirt arenas, generic fantasy castles, Japanese subtitles, watermarks`
-
----
-
-## Video Prompt Output (Optional — for external tools)
-
-If the user requests video prompts for Runway/Luma after the graphic novel is approved, generate these separately using the approved images as reference:
-
-### Image-to-Video Stitching Prompt
-Describe the physical camera path between panels using structural wipes and match-cuts. **"Double tap"** key design elements at every transition (e.g., "revealing the *colossal, blinding white marble* stadium" not just "revealing the stadium").
-
-### Direct Text-to-Video Prompt
-Write a continuous tracking shot description in Studio Ghibli/Makoto Shinkai anime style, describing all three phases of the scene in a single unbroken camera movement.

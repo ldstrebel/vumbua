@@ -1,8 +1,8 @@
 ---
 tags:
   - first-year
-  - squad-04
   - npc
+  - squad-04
 ---
 
 # Lance

@@ -7,7 +7,19 @@ Always follow these rules when writing comic book storyboards or generating page
 ## 1. Page Budget, Panel Layout & Presentation
 
 *   **Never truncate the page budget:** Scale pages to the number of major scenes in the clean transcript — typically 3–5 pages per major scene, 10–20 pages per full session. Do not compress.
-*   **Dynamic Panel Layouts & Overlay Panels:** Vary panel layouts dynamically across pages. Do not rely exclusively on standard grids. Mix single splash panels, vertical/horizontal splits, and **full-page splash backgrounds with stylized inset panels overlayed on top** for dramatic action or focus effects.
+*   **Mandatory Panel Count & Approach Justification Rule:** For EVERY page in a storyboard or implementation plan, the model MUST explicitly state and justify its choice of panel count, panel geometry, and visual layout approach in the page metadata header (`**Layout Justification:**`). You must explicitly explain:
+    1. **Why this panel count was chosen** (e.g. why 1 splash panel vs 2 panels vs 3 panels fits the emotional pacing of the beat).
+    2. **Why this panel geometry/cut was chosen** (e.g. why a diagonal slash split reflects a sudden rupture, why a 65/35 asymmetrical split creates focal hierarchy).
+    3. **How it avoids formulaic grid defaults** and contrasts with adjacent pages.
+*   **Mandatory Layout Variety & Flexibility (Anti-Grid Rule):** Storyboard writers MUST NOT default to a static 3-panel grid for every page. Avoid formulaic, repetitive panel structures across consecutive pages. Actively match the panel count and geometry to the emotional and narrative beats of each page:
+    *   **1-Panel Full-Page Splash / Overlay:** High-impact revelations, epic vistas, or grand battle scenes. Can include stylized inset panels or floating narration boxes overlayed on top.
+    *   **2-Panel Asymmetrical Vertical Split:** Great for wide establishing shots (65% top) transitioning into tight emotional close-ups or reactions (35% bottom).
+    *   **2-Panel Dynamic High-Contrast Split:** Excellent for dramatic confrontations or presentation vs. explosive action transitions (50/50 split).
+    *   **2-Panel Asymmetrical Diagonal / Side Split:** Ideal for parallel actions (e.g. 60% left scroll-burning / 40% full-height right tunnel/conduit transition).
+    *   **2-Panel Progression leading to Splash:** Top half narrative return leading into a full-width bottom detailed splash (40/60 split).
+    *   **3-Panel Tiered Grid:** Used selectively for multi-step conversations, fast step-by-step action sequences, or continuous spatial movement.
+    *   **4-Panel Quad Grid:** Used for fast-paced multi-character reactions or rapid combat exchanges.
+    *   **Rule:** No two consecutive pages should use the exact same layout structure unless explicitly justified (e.g., a two-page continuous splash spread). Every page header MUST explicitly specify its `**Layout Structure:**` and `**Layout Justification:**`.
 *   **Environmental Transitions:** Always include explicit gutter transition descriptions (`#### 🖤 Gutter Transition:`) between panels to guide spatial and temporal shifts.
 *   **Global Black Gutters:** All session storyboards must use a consistent black background and black gutter design (`Black gutters.`). Flashback sequences use dark gray (`#333`) gutter color. Specify this explicitly in every panel prompt.
 
@@ -61,7 +73,7 @@ Known character failure modes. Any page containing one of these is an automatic 
 |---|---|---|
 | **Loami** | Drawn as a turquoise octopus creature | Rugged broad-shouldered humanoid male, short brown hair, short beard, brown woolen flat cap with tiny Italian flag ribbon, heavy canvas working collar, smudged with dark engine grease and soot |
 | **Iggy** | Drawn as a turtle with a stone shell | Small clay-and-soil-kin humanoid-shaped creature of packed dirt and clay, packed dirt skin, green moss and small plant sprouts on head, oversized round copper goggles, dark oversized heavy wool trench coat. **NO SHELL.** |
-| **Ignatious** | Drawn with generic red spiky hair or school uniform | Young male with literal burning flames for hair forming an orange crown around dark hair, glowing yellow-orange eyes, dark hooded traveler's cloak |
+| **Ignatious** | Drawn with generic red spiky hair or school uniform | Young male with literal burning flames for hair forming an active crown around dark hair, glowing yellow-orange eyes, dark hooded traveler's cloak |
 | **"Octoumba"** | Misread as Loami's species | Octoumba is a geographical region/continent. Loami is humanoid. |
 
 ---
@@ -85,11 +97,12 @@ Every storyboard MUST include a **`## 🏛️ Location Reference Prompt Tokens`*
 
 Rules:
 
-*   **No improvised dialogue.** Every line in a speech bubble must be an exact quote from `sessions/transcripts/clean/sN-clean.md`. If a line is paraphrased or not present in the transcript, it is a hard fail.
+*   **Two-Editor Pipeline Rule:** All speech bubbles and narration boxes baked into panel art must come directly from the novelized story file (`sessions/transcripts/clean/sN-clean-story.md`), which has been verified through our Two-Editor Audit Pipeline (Editor 1 0-Bias Audio Audit $\rightarrow$ Editor 2 Story & Pacing Audit).
+*   **No improvised dialogue & No Table Meta-Talk:** Every line in a speech bubble must be an exact quote or novelized line from `sN-clean-story.md`. Strictly purge out-of-character dice chatter ("Support Tank!", "Armor slot!", "Ted Lasso biscuits") from image prompts and dialogue bubbles.
 *   **Names ARE allowed inside quoted text.** The "no name leaks" rule (Section 2) applies to visual descriptors only. Speech bubble text like `"Aggie, where were you?"` must retain the name `Aggie` exactly as spoken in the transcript. The image generator renders quoted text as printed characters — it does not use names inside quotes to influence visual rendering. However, the image generator may INVENT fantasy names (e.g. "Kip", "Iñigo", "Alistair") if character identities are left ambiguous in the visual descriptor portion of the prompt. Always attribute speech bubbles to a character by physical description, not by name.
 *   **No invented characters.** If a name appears in the generated image that does not appear in any character file or the clean transcript (e.g. "Alistair"), that page is an automatic hard fail. Rewrite the prompt from scratch.
 *   **No escalated drama.** Do not describe scene dynamics as "confrontation", "argument", or "angry" if the transcript tone is casual or amicable. The generator will amplify the described tone — a "dispute" becomes a brawl, a "chat" becomes a standoff.
-*   **Narration boxes must be present.** Every panel must include at least one narration box paraphrasing the GM's narration from the clean transcript. Dialogue alone is insufficient to carry story continuity across panels.
+*   **Dynamic Narration Placement (No Rigid Clutter):** Use narration boxes purposefully to set scenes, establish atmosphere, signal time jumps, deliver GM lore, or highlight internal revelations. Do NOT force narration boxes onto every single panel—omit them during fast action beats, rapid combat exchanges, and character banter where visual art and clean speech bubbles drive the pacing.
 
 ---
 
@@ -118,3 +131,17 @@ Every image prompt must be **fully self-contained.** The image generator has zer
    * Did they pilot a rig in Thursday's Reso Race? -> **Second-Year**
 3. **Mandatory Metadata Tagging:** Every NPC file in `characters/npcs/` must carry an explicit frontmatter category tag (`first-year`, `second-year`, `faculty`, or `notable-figure`).
 4. **Validation Script Gate:** Run `python d:\Code\vumbua\characters\scripts\validate_npcs.py` before finalizing any squad rosters or campaign planning documents to guarantee 100% clean metadata compliance.
+
+---
+
+## 10. Raw Transcript Ground-Truth & Audit Rules (No-Heuristics Rule)
+
+*   **Mandatory Line-by-Line Raw Reading (Zero Shortcuts):** When cleaning transcripts (`add-session`), novelizing story chapters (`sN-clean-story.md`), or building storyboards (`/storyboard`), the model MUST perform a direct, line-by-line reading of the raw session recording (`sessions/transcripts/raw/sN-raw.md`) using `view_file`. Relying on pre-generated summaries or memory is strictly prohibited.
+*   **Prohibition of Python Heuristics as Ground-Truth Audits:** Python scripts and regex matchers are helper tools for formatting and audio manifest verification ONLY. They CANNOT detect dropped narrative beats, misattributed speakers, or table-talk leaks into dialogue. Never use Python script results to claim narrative completeness. The model must perform a direct LLM scene-by-scene audit.
+*   **Mandatory 3-Tier Line Categorization (First-Pass Audit):** Every raw line must be explicitly categorized during the clean transcript pass (`sN-clean.md`):
+    1. **Tier A: In-World Spoken Dialogue (`**[[Speaker]] (PC/NPC):** "..."`)** — Pure in-universe spoken lines. (Disentangle shared microphones like Luke S & Kristina/Aggie, and separate NPC dialogue from GM descriptions).
+    2. **Tier B: Player Action & Intent Context (`*Player Action Intent:*`)** — Player descriptions of physical actions, emotional focus, or mechanical attempts (e.g. *"Britt is zoned and focused on following the turtle"* or *"Iggy places basalt rocks over bodies"*). **NEVER write these into character spoken quotes.** Editor 2 (Novelization) converts them into rich **Narrator Prose & Action**.
+    3. **Tier C: Pure Technical & Meta Table Talk (`*Table Note:*`)** — Wi-Fi drops, Roll20 backups, character sheet HTML files, gas bills, and dice mechanics.
+*   **Prohibition of Misrepresenting Internal Verification Scripts:** Scripts like `audit_manifest.py` only verify that extracted audio manifest blocks match the novelization file (`sN-clean-story.md`). They DO NOT verify parity against the raw audio transcript (`sN-raw.md`). The AI must NEVER claim a manifest script pass proves 100% dialogue parity with the raw recording.
+*   **Zero Truncation of Gameplay Beats:** Every player action, NPC interaction, comedic beat, lore reveal, and environmental transition present in `sN-raw.md` must be fully represented in `sN-clean.md` and novelized in `sN-clean-story.md`.
+

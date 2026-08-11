@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-05
+  - squad-06
 ---
 
 # Bramble
@@ -34,8 +34,13 @@ Bramble is a thoughtful, philosophical plant-person. Nobody is entirely sure wha
 - **Courtyard Studying:** Smooths a patch of grass in the courtyard for the group to sit and study.
 - **Cafeteria Care:** Helps collect textbooks for the group, feeds water to Pip whose hands are full, and witnesses Iggy's toast throw.
 
+### Session 11
+- **Plant Network Communication:** Bramble communicated through the trees using *Speak to Plants* (just like Aggie does).
+- **Clearing Misinformation:** Apologized to Aggie for misleading her earlier with false plant signals, explaining that he had been feeding false intel into the tree network to protect Squad 05 and didn't realize Squad 907 was nearby until he saw the vision of Iggy filter through the tree ranks.
+
 ### Session 2
 At the Block 99 bonfire, Bramble participated in the Speculators' Debate. While [[Percival Vane-Smythe III|Percy]] argued for missing clans and [[Iron-Jaw Jax|Jax]] dismissed the idea, Bramble offered the most provocative perspective:
+
 
 *"What if they are not the missing? What if we are the ones who forgot?"*
 

@@ -298,3 +298,174 @@ effects: [
     }
 ]
 ```
+
+---
+
+## 5. Full Database Schema & Creation Lifecycle
+
+To create or refresh an NPC adversary, follow this precise execution loop. This avoids validation errors and prevents document duplication.
+
+### 📋 Complete Adversary Actor Schema
+```javascript
+{
+    name: "Storm Raptor",
+    type: "adversary", // Validated against game.system.documentTypes.Actor
+    folder: "folderIdString",
+    img: "data:image/webp;base64,...", // Compressed 150x150 circular token
+    system: {
+        tier: "3", // Must be a string choice matching ["1", "2", "3", "4"]. Passing a number or non-matching string throws NaN validation errors.
+        type: "skulk", // "bruiser", "minion", "horde", "leader", "ranged", "social", "solo", "standard", "support"
+        traits: {
+            agility: { value: 3 },
+            instinct: { value: 2 },
+            strength: { value: 2 },
+            presence: { value: 1 },
+            finesse: { value: 3 },
+            knowledge: { value: 0 }
+        },
+        resources: {
+            hitPoints: { value: 0, max: 5 }, // value (current), max (maximum), isReversed (boolean)
+            stress: { value: 0, max: 3, isReversed: true }
+        },
+        evasion: 14,
+        difficulty: 14,
+        damageThresholds: {
+            major: 16, // NPC Adversaries only use major and severe damage thresholds (default 0), NOT minor/major.
+            severe: 30
+        },
+        biography: "HTML biography string...",
+        notes: "HTML tactics/motives notes...",
+        resistance: {
+            physical: { resistance: false, immunity: false, reduction: 0 }, // optional physical DR
+            magical: { resistance: false, immunity: false, reduction: 0 }  // optional magical DR
+        },
+        rules: {
+            conditionImmunities: { hidden: false, restrained: false, vulnerable: false }, // optional status immunities
+            damageReduction: { thresholdImmunities: false, reduceSeverity: false },
+            attack: { damage: null }
+        },
+        bonuses: {
+            roll: { attack: 0, action: 0, reaction: 0 }, // optional passive roll modifier bonuses
+            damage: { physical: 0, magical: 0 }        // optional passive damage bonuses
+        },
+        attack: {
+            // Native rollable attack structure (see Section 1)
+        }
+    },
+    prototypeToken: {
+        bar1: { attribute: "resources.hitPoints" },
+        bar2: { attribute: "resources.stress" },
+        displayBars: 40, // Always Show Owner
+        displayName: 20, // Hovered Owner
+        prependAdjective: true // Prepend random adjective when spawned on canvas (e.g. "Snarling Bobcat")
+    }
+}
+```
+
+### 🔨 Database Update Lifecycle
+When re-running a setup macro, avoid generating duplicate actors. Use this flow to delete stale embedded sub-items (attacks, actions, active effects) and recreate them fresh:
+
+```javascript
+let existing = game.actors.find(a => a.name === data.name);
+if (!existing) {
+    // Create new actor
+    existing = await Actor.create(data);
+} else {
+    // Update basic stats and properties
+    await existing.update({
+        img: data.img,
+        system: data.system,
+        "prototypeToken.bar1": { attribute: "resources.hitPoints" },
+        "prototypeToken.bar2": { attribute: "resources.stress" },
+        "prototypeToken.displayBars": 40,
+        "prototypeToken.displayName": 20
+    });
+    
+    // Purge old embedded features & active effects to prevent duplicates
+    const oldItemIds = existing.items.map(i => i.id);
+    if (oldItemIds.length > 0) {
+        await existing.deleteEmbeddedDocuments("Item", oldItemIds);
+    }
+    const oldEffectIds = existing.effects.map(e => e.id);
+    if (oldEffectIds.length > 0) {
+        await existing.deleteEmbeddedDocuments("ActiveEffect", oldEffectIds);
+    }
+}
+
+// Batch create new features/attacks
+const itemsToCreate = [];
+if (data.attack) {
+    itemsToCreate.push({
+        name: data.attack.name,
+        type: "attack",
+        img: data.attack.img,
+        system: data.attack
+    });
+}
+if (data.features) {
+    for (let f of data.features) {
+        itemsToCreate.push({
+            name: f.name,
+            type: "feature",
+            img: f.img,
+            system: { description: f.description, actions: f.actions || {} },
+            effects: f.effects || []
+        });
+    }
+}
+if (itemsToCreate.length > 0) {
+    await existing.createEmbeddedDocuments("Item", itemsToCreate);
+}
+```
+
+---
+
+## 6. Adversary Schema Dumper Command
+
+Use this console utility command to extract the complete, validated database schema of any NPC in your world. Paste this into the F12 console to dump the exact structure for copy-pasting back into macro templates:
+
+```javascript
+(async () => {
+    const actorName = "Storm Raptor"; // Change to target actor
+    const actor = game.actors.getName(actorName);
+    if (!actor) {
+        console.error(`Actor '${actorName}' not found in world.`);
+        return;
+    }
+
+    const payload = {
+        name: actor.name,
+        type: actor.type,
+        img: actor.img,
+        system: {
+            tier: actor.system.tier,
+            type: actor.system.type,
+            traits: actor.system.traits,
+            resources: actor.system.resources,
+            evasion: actor.system.evasion,
+            difficulty: actor.system.difficulty,
+            thresholds: actor.system.thresholds,
+            damageThresholds: actor.system.damageThresholds,
+            biography: actor.system.biography,
+            attack: actor.system.attack
+        },
+        features: actor.items.filter(i => i.type === "feature").map(i => ({
+            name: i.name,
+            img: i.img,
+            description: i.system.description,
+            actions: i.system.actions || {},
+            effects: i.effects.map(e => ({
+                name: e.name,
+                disabled: e.disabled,
+                changes: e.changes
+            }))
+        }))
+    };
+
+    console.group(`📋 Validated Schema Dump for '${actorName}'`);
+    console.log(JSON.stringify(payload, null, 2));
+    console.groupEnd();
+    ui.notifications.info(`Logged schema payload for '${actorName}' to F12 Console.`);
+})();
+```
+

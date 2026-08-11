@@ -1,9 +1,9 @@
 ---
 tags:
   - first-year
-  - squad-04
   - npc
   - rust-rank
+  - squad-04
 ---
 
 # Soot

@@ -98,6 +98,8 @@ Canonical list lives at: `characters/index.md`
 - “What can players know?” → `knowledge-tracker.md`
 - “Who is this NPC/term?” → `characters/index.md`, `glossary.md`
 - “What files exist / where should I edit?” → `.agent/workflows/lore-index.md`
+- "Generate or re-narrate a session audiobook" → `.agent/workflows/narrate-session.md`
+- "Add a new session from scratch" → `.agent/workflows/add-session.md` (Steps 4b–4d cover the full novel+narration pipeline)
 
 ---
 
@@ -105,3 +107,22 @@ Canonical list lives at: `characters/index.md`
 1. `.agent/workflows/lore-index.md`
 2. `sessions/index.md`
 3. `knowledge-tracker.md`
+
+---
+
+## Audiobook Pipeline
+
+Every session produces a **multi-voice ElevenLabs audiobook** from the canonical `sN-clean-story.md` file.
+
+**Key files:**
+- `sessions/scripts/generate_audiobook.py` — generation engine (ElevenLabs API)
+- `sessions/scripts/parse_audit.py` — pre-flight speaker attribution audit (zero credits)
+- `sessions/audio/sN/` — per-session output: master MP3, chapter tracks, sync JSON, WebVTT
+
+**Pipeline summary:**
+1. Write `sN-clean-story.md` with correct prose grammar (NAME + speech verb on every dialogue line)
+2. Run `python sessions/scripts/parse_audit.py` → must show **0 fallback warnings**
+3. Run `python sessions/scripts/generate_audiobook.py --generate` to synthesize
+4. Assets auto-generate: `sN_audiobook_full.mp3`, `sN_sync_timestamps.json`, `sN_subtitles.vtt`
+
+For full details, see `.agent/workflows/narrate-session.md`.

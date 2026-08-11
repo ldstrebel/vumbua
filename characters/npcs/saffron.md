@@ -1,9 +1,9 @@
 ---
 tags:
   - first-year
-  - squad-06
   - npc
   - student
+  - squad-06
 ---
 
 # Saffron

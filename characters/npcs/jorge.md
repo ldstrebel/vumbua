@@ -1,8 +1,8 @@
 ---
 tags:
   - first-year
-  - squad-02
   - npc
+  - squad-01
 ---
 
 # Jorge

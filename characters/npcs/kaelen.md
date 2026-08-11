@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-03
+  - squad-09
 ---
 
 # Kaelen

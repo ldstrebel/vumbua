@@ -263,4 +263,24 @@ aliases:
 ### GM Secrets (Players Don't Know)
 - ❌ The exact rig build specifications expected by Senior Captains during tomorrow morning's Proving Voyage drafting.
 
+---
+
+## Session 10: Dagger Sharks & Balloon Canopy
+
+### What Players Know
+- ✅ **Canopy Raft Build:** Squad 907 built a balloon-raft hybrid from six buoyancy barrels, a tar-sealed fuel bladder hot-air balloon, coolant-hose slingshots, and a sulfur-crystal burner ([[s10-clean|Session 10]]).
+- ✅ **Dagger Sharks:** Bioluminescent apex predators that track living energy/resonance in pack formations across the Apex Ring basin water ([[s10-clean|Session 10]]).
+- ✅ **Rill's Warning:** Sector barriers drop at 08:00 AM releasing live apex hazards; Rill gifted the squad a brass flare gun ([[s10-clean|Session 10]]).
+
+---
+
+## Session 11: Don't Touch My Biscuits
+
+### What Players Know
+- ✅ **Bramble's Network Communication:** Bramble communicated through the trees using *Speak to Plants*; he fed false signals into the plant network to protect Squad 05 until recognizing Squad 907's presence ([[s11-clean|Session 11]]).
+- ✅ **Mwaza-Kasa & The Taboo:** Mwaza-Kasa (the sacred Mizizi Spirit Tortoise) is physically present in the Mizizi forest; touching it acts as a safe, living anchor into the deep memory network ([[s11-clean|Session 11]]).
+- ✅ **Memory Erasure & Forbidden Groves:** Aggie and Britt's memories older than ~10 years have been suppressed, concealing childhood visits to forbidden sacred groves and forgotten clan members who died of shell/skin rot (like Britt's arm) ([[s11-clean|Session 11]]).
+- ✅ **Mwaza-Chui (Canopy Jaguars):** Crystalline static apex jaguars capable of static-charged embers that suppress spellcasting and active mind-links ([[s11-clean|Session 11]]).
+
+
 

@@ -1,10 +1,10 @@
 ---
 tags:
   - first-year
-  - squad-02
   - npc
   - ash-blood
   - student
+  - squad-01
 aliases:
   - Ember
 ---

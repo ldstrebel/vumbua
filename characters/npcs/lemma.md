@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-04
+  - squad-05
 ---
 
 # Lemma

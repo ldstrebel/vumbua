@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-06
+  - squad-07
 ---
 
 # Kindle

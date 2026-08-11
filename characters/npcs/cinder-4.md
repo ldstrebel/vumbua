@@ -4,8 +4,8 @@ aliases:
 tags:
   - first-year
   - npc
-  - squad-06
   - ash-blood
+  - squad-07
 ---
 
 # Cinder-4

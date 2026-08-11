@@ -34,7 +34,8 @@
 ### First-Year Squads (Loom Sorted)
 
 > [!NOTE]
-> **First-Years Only:** The Loom squads listed below consist strictly of **First-Year Student Cadets** competing in the intake gauntlet and Basalt Run. **Second-Year Cadets** (such as Alistair Rook and upperclassman Reso Race pilots) operate in separate upperclassman crews and are not sorted by the freshman Loom.
+> **Canonical Squad Registry:** For full Loom resonance justifications, proof of candidate status, and detailed team breakdowns, see [squads.md](file:///d:/Code/vumbua/characters/squads.md).
+> **First-Years Only:** The Loom squads listed below consist strictly of **First-Year Student Cadets** competing in the intake gauntlet and Basalt Run. **Second-Year Cadets** (such as Alistair Rook and upperclassman Reso Race pilot Pudge) operate in separate upperclassman crews and are not sorted by the freshman Loom.
 
 #### Squad 907 (The Party)
 - **[[Britt]]** - Gold Rank (Mizizi)
@@ -58,12 +59,12 @@
 #### Squad 03: The Scholars / The Sixfold
 - **[[Percival Vane-Smythe III]]** - Gold Candidate (Theorist / Sixfold Believer)
 - **[[Serra Vox|Seraphina "Serra" Vox]]** - Gold Candidate (Bard / Primal Song Historian)
+- **[[sam-cyclops|Sam the Cyclops]]** - Vanguard Heavy (Played in S9/S10 Basalt Run)
 - **[[Cassius Thorne]]** - Gold Candidate (Thermal Specialist / Textbook Perfectionist)
 - **[[Sarge]]** - Rust Candidate (Veteran Safety Inspector & Field Handler)
 
 #### Squad 04: The Ablative (Block 99 Scrappers)
 - **[[Lucky]]** - Hustler / Contraband Procurer
-- **[[Pudge]]** - The Heart / Hungry Farmboy
 - **[[Soot]]** - Block 99 Piston Worker (Loami's Roommate)
 - **[[Lance]]** - Harmony Candidate
 

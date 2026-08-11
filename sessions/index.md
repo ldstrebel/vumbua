@@ -316,8 +316,32 @@ As the 08:00 AM evacuation deadline closes over the Apex Ring, Squad 907 finishe
 
 ---
 
+### [[Session 11|Session 11: Don't Touch My Biscuits]]
+**Date:** 2026-08-07
+
+High above the petrified boughs of the Mizizi forest, Squad 907 docked their Canopy Raft alongside Squad 06's living tree fortress to weather a violent eyewall storm. After rescuing Pip from a hungry Storm Raptor and luring a pack of static-charged apex jaguars off the canopy edge, the squad encountered Mwaza-Kasa, the sacred Spirit Tortoise of the Mizizi clan. Choosing to save Pip over everything they had been taught, Aggie and Britt broke taboo by touching the living sacred tortoise. Plunged into a shared memory vision, they unlocked suppressed childhood memories of forbidden sacred groves and forgotten clan members, before following the ancient guardian down to the forest floor.
+
+**Key Events:**
+- Squad 907 reaches Level 5 and docks their Canopy Raft at the high petrified boughs.
+- [[Aggie]] connects with [[Bramble]] through the trees using Speak to Plants; Bramble apologizes for earlier misinformation after seeing the vision of [[Iggy]] filter through the tree ranks.
+- [[Iggy]] conjures a 50ft *Ethereal Wall* to intercept a Storm Raptor carrying [[Pip]] and her pouch of bacon biscuits.
+- [[Ignatious]] knocks out the second Storm Raptor with a warhammer strike.
+- [[Britt]], [[Aggie]], and [[Loami]] stack glowing bioluminescent mushrooms on the Canopy Raft and slash its bungees, sending a pack of static-charged [[Mwaza-Chui]] (apex jaguars) sliding into the abyss.
+- [[Pip]] feeds a biscuit to [[Mwaza-Kasa]] (the sacred Mizizi Spirit Tortoise) and pets it, causing both to collapse into a network-induced catatonic state.
+- [[Aggie]] and [[Britt]] touch Mwaza-Kasa's shell as a living anchor to plunge into the fungal network, rescuing Pip and unlocking suppressed childhood memories of a forbidden sacred grove and lost clan members.
+- [[Mwaza-Kasa]] recovers, stomps twice, and deliberately drops 50 feet into the forest floor crater, nodding for Squad 907 to follow it on foot.
+
+**Players Discovered:**
+- Touching Mwaza-Kasa acts as a safe, physical anchor to enter the deep Mizizi memory network.
+- Aggie and Britt's memories older than ~10 years have been suppressed/erased, concealing childhood visits to forbidden sacred groves.
+- Multiple clan members who left the forest, asked questions, or suffered shell/skin rot (like Britt's arm) were systematically forgotten by the clan.
+- Bramble communicated using *Speak to Plants* and fed false signals into the forest until recognizing Squad 907's presence.
+
+---
+
 ## Upcoming
 
 **Next Session:** TBD (Every 2 weeks)
+
 
 

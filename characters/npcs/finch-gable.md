@@ -3,10 +3,10 @@ aliases:
   - Finch
 tags:
   - first-year
-  - squad-01
   - npc
   - harmony-born
   - student
+  - squad-01
 canon: transcript
 reveal: player
 ---

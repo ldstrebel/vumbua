@@ -1,6 +1,7 @@
 ---
 tags:
   - first-year
+  - squad-07
 - npc
 - squad-02
 aliases:

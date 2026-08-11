@@ -1,9 +1,9 @@
 ---
 tags:
   - first-year
-  - squad-06
   - npc
   - student
+  - squad-06
 ---
 
 # Pip
@@ -37,7 +37,14 @@ Pip is a bubbly, hyperactive gnome student who quickly attached herself to [[Agg
 - **Airship Pressure:** Urged Aggie in the courtyard to speak with Valentine to get tickets for the Sterling airship.
 - **Food Bonding:** Bonded heavily with Iggy in the cafeteria, sharing and trading bites of bacon and biscuits. She had Bramble pour water into her mouth because her hands were full of food.
 
+### Session 11
+- **The Storm Raptor Snatched:** While running back with emergency breakfast pastries (bacon biscuits), Pip was snatched into open air by a giant Storm Raptor, screaming *"DON'T TOUCH MY BISCUITS!"*
+- **Mid-Air Rescue:** Iggy conjured a 50ft *Ethereal Wall* to intercept the bird, and Ignatious pinned the hawk, allowing Pip to drop safely into Squad 907's arms.
+- **Tree Igloo Bop:** Inside Aggie's grown Tree Igloo, Pip bopped an invading canopy jaguar on the nose with her bag of biscuits.
+- **The Sacred Tortoise:** Fed a biscuit to [[Mwaza-Kasa]] and petted it under the chin, triggering a joint catatonic network collapse before being rescued from the network by Aggie and Britt.
+
 ## Relationships
 - **[[Bramble]]:** Her unofficial transport and patient friend. She often rides on his shoulders to see over crowds.
 - **[[Kael]]:** Follows him because "he's the smartest of all of us."
 - **[[Saffron]]:** Met her before the entrance exams and invited her to join the group.
+

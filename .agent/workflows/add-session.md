@@ -85,57 +85,140 @@ Read the raw transcript and produce a Session Delta before writing anything else
 
 ---
 
-## Step 4 — Create the clean transcript
+## Step 4 — Create the clean transcript (Editor Pass 1: 0-Bias Audio & Disentanglement Audit)
 
-**Filename:** `sessions/transcripts/clean/sN-clean.md` — e.g., `s5-clean.md`
-(The build script requires this exact pattern. `session-05.md` will be silently ignored.)
+**Filename:** `sessions/transcripts/clean/sN-clean.md` — e.g., `s12-clean.md`  
+*(The build script requires this exact pattern. `session-12.md` will be silently ignored.)*
 
-**YAML front matter:**
+**Role:** Editor 1 (Zero-Bias Audio & Disentanglement Auditor).
+
+### Mandatory First-Pass Categorization Protocol
+Every line from `sN-raw.md` MUST be evaluated and categorized into one of three explicit tiers in `sN-clean.md`:
+
+1. **Tier A: In-World Spoken Dialogue (`**[[Speaker]] (PC/NPC):** "..."`)**
+   * Direct, in-universe spoken lines.
+   * **Disentanglement Rule:** If multiple people share a microphone/stream (e.g. Luke S & Kristina/Aggie), line-by-line audit must disentangle them and assign exact character attributions (`**[[Aggie]] (PC):**`).
+   * **NPC Disentanglement:** Disentangle NPC spoken dialogue from GM scene descriptions into explicit NPC dialogue blocks (`**[[NPC Name]] (NPC):**`).
+
+2. **Tier B: Player Action & Intent Context (`*Player Action Intent:*`)**
+   * Player descriptions of what their character is physically doing, feeling, or aiming to accomplish (e.g., *"I think Britt is zoned and focused on following the turtle"*, *"Iggy does a grounding ritual with basalt rocks over the bodies"*, *"Ignatious carries Loami on his back"*).
+   * **CRITICAL RULE (No Meta-in-Dialogue):** NEVER place player action descriptions inside character speech bubbles or spoken quotes. Tag them as `*Player Action Intent:*` so Editor 2 (Novelization) transforms them into rich **Narrator Prose & Character Movement**!
+
+3. **Tier C: Pure Technical & Meta Table Talk (`*Table Note:*`)**
+   * Technical glitches, Wi-Fi drops, Roll20 backups, character sheet HTML files, gas bills, and dice mechanics chatter.
+   * Tagged as `*Table Note:*` to preserve OOC context without leaking into narrative story files or audiobooks.
+
+---
+
+### First-Pass Audit Gate (Line-by-Line Inspection)
+Before advancing to Step 4b (Novelization), the LLM must perform a **direct line-by-line inspection of `sessions/transcripts/raw/sN-raw.md`** using `view_file` to verify:
+1. **100% Attribution Accuracy:** No shared-stream lines misattributed to the GM or wrong player.
+2. **Zero Meta-Talk Leaks:** No player action descriptions or dice talk written as character dialogue quotes.
+3. **100% Beat Completeness:** Zero dropped player actions, NPC interactions, comedic beats, or lore reveals.
+
+---
+
+## Step 4b — Create the novelized story file (Editor Pass 2: Novelization, Dialect & Prose Audit)
+
+**Filename:** `sessions/transcripts/clean/sN-clean-story.md` — e.g., `s11-clean-story.md`
+
+**Role:** Editor 2 (Single Master File — Novel + Audiobook Source).
+- Convert `sN-clean.md` into **Brandon Sanderson-style high-fantasy prose chapters** (`## CHAPTER 1: TITLE`, `## CHAPTER 2: TITLE`).
+- **Pristine Prose & Rhythmic Flow:** Eliminate repetitive sentences, awkward passive phrasing, and typos from day one. The prose must read out loud like a published fantasy novel.
+- **Character Dialect & Phonetics (baked into dialogue):** Write character voice directly into spoken lines — `eyeth`, `treeth`, `yeth`, `thorry` for Iggy's lisp; `nevah`, `bettah`, `somethin'`, `frickin'` for Loami's accent. These are permanent and serve both reading and TTS narration.
+- **No Bracketed TTS Tags:** Do NOT add `[screaming]`, `[panicked]`, `[gasped]` etc. ElevenLabs v2 reads them aloud. Rely on ALL CAPS, `!?`, `...`, and em-dashes for emotional delivery instead.
+- **Purge Table Meta-Talk:** Remove out-of-character dice chatter and convert game mechanics into fluid in-universe actions.
+- **Audit Against Clean Transcript:** Ensure NO iconic character quotes, GM lore, or key actions are lost.
+
+**YAML front matter (required for parser):**
 ```yaml
 ---
 title: "Session N: [Confirmed Title]"
-date: YYYY-MM-DD
+author: "Novel Adaptation in the Style of Brandon Sanderson"
 campaign: Vumbua
-status: cleanup-complete
+genre: Epic Fantasy / Sci-Fantasy
 ---
 ```
 
-**Structure — choose based on session content:**
-- If the session has discrete scenes with GM narration blocks → use `## Play-by-Play → ### Scene Name` format (like s3-clean.md)
-- If the session has clear narrative phases/chapters → use `## Part N: Name` format (like s4-clean.md)
-- Either way, start with the Session Delta block from Step 3
+**H1 Title (required — becomes Narrator opening title card):**
+```markdown
+# DON'T TOUCH MY BISCUITS
+```
+*Note: Must use `# ` (H1) format only. The parser reads this as the Narrator's opening line. Do NOT include "Session N:" prefix here — it's already in the YAML `title` field.*
 
-**Content rules:**
-- ✅ Preserve every story-relevant detail — this is organization, not summarization
-- ✅ Label speakers: `**[[Character Name]] (PC):**` or `**[[NPC Name]]:**`
-- ✅ Use character names for IC dialogue, player names for OOC dialogue
-- ✅ Fix transcription errors at 99% confidence only; note every correction made
-- ✅ Correct to canonical spellings from lore-index (e.g., "Lasidian" → "lavsidian")
-- ❌ **ZERO-TOLERANCE for Dialogue Truncation:** Never summarize, compress, paraphrase, or skip IC dialogue. Every line of character dialogue, banter, joke, and barter MUST be preserved verbatim from `sN-raw.md`.
-- ❌ **ZERO-TOLERANCE for GM Narration Omission:** Never drop or compress GM narrations, world-building setup, or NPC interactions.
-- ❌ Never add details not in the transcript
-- ❌ Never smooth PC dialect or NPC speech quirks (Iggy's dropped letters, Kante's broken English — these are intentional)
-- ❌ Never present OOC player thinking as IC character dialogue
+**Speaker attribution rules for TTS parsing (critical):**
+- Every dialogue line must have the **speaking character's name immediately adjacent to a speech verb** in the narration tag outside the quotes — e.g., `"Quote," Aggie gasped, staring at Britt.` ✅
+- The parser detects `Aggie gasped` (NAME + verb within 5 chars) and correctly assigns Aggie's voice even when another character's name appears later in the same sentence.
+- Lines with **no character name outside the quotes** (bare quotes like `"LAZIZI!"`) must be followed by a narration tag: `"LAZIZI!" Britt screamed.`
+- Pronouns (`he said`, `she asked`) are supported via context tracking — the parser tracks the last active male/female speaker.
 
-**GM voice handling:**
-- GM narration blocks → `*GM Narration:*` in italics, or format as `**GM (LUKE S):**`
-- GM interjections inside scene prose (e.g., `"the GM notes..."`) → remove or move to a `**GM Notes:**` line immediately after the relevant passage
-- Never leave bare `"the GM notes..."` fragments inside continuous narrative prose — the spoiler filter only strips heading-level sections, not inline text
+*`sN-clean-story.md` is the SINGLE canonical source for BOTH the ebook and multi-voice ElevenLabs audiobook synthesis.*
 
-**Speaker attribution pitfalls:**
-- The GM often speaks AS an NPC, then immediately switches to narration — don't attribute narration to the NPC
-- When uncertain, write `**[UNIDENTIFIED NPC]:** "[line]" [review needed]` — do not default-assign to a character
-- Re-read 5 lines before/after any correction to make sure you haven't orphaned adjacent dialogue
+---
 
-**Failure states (learned from past sessions):**
-1. **Dialogue & Narration Truncation (HARD FAIL):** Summarizing IC exchanges (e.g., writing "Loami gave him coins" instead of preserving Loami's exact quote `"I made this at the bar the other day... it's literally every tip I got"`) is strictly banned.
-2. **OOC Filter Misapplication:** Filtering OOC talk means removing meta discussion (e.g., disc golf, D&D rules, snacks). It NEVER means truncating or shortening IC dialogue or GM narrative beats.
-3. **Smoothing PC dialect** — Iggy's `"'S nice to meet ya"`, `"'course"`, `"nime"` are character voice. Do not standardize.
-4. **Smoothing NPC voice** — Kante's `"What do you like, know?"` is deliberate. Do not "fix" it.
-5. **Swapping attribution** — `"Your home sounds like a very hard place to live"` was Kante, not Iggy. Context matters.
-6. **OOC as IC** — Holly brainstorming what Iggy would say ≠ Iggy saying it.
-7. **Deleting exchanges while fixing** — when editing one line, re-read surrounding 10 lines.
-8. **Asking about canonical names** — always check `characters/npcs/` before asking the user.
+## Step 4c — Narration Pre-Flight Audit (MANDATORY — zero credits)
+
+Before spending any ElevenLabs credits, run the parser audit tool:
+
+```powershell
+python sessions/scripts/parse_audit.py
+```
+
+This generates `sessions/scripts/parse_audit_report.txt` with:
+- Every audio block's speaker attribution and detection method
+- A list of **FALLBACK WARNINGS** (lines where no name or pronoun was found)
+- **Zero warnings = safe to generate.** Any warning = fix the source line before generating.
+
+**Common warning causes and fixes:**
+
+| Symptom | Example | Fix |
+|---------|---------|-----|
+| Bare quote with no tag | `"LAZIZI!"` | Add `, Britt screamed.` after the quote |
+| Pronoun with no prior speaker | `"Well," he grunted.` at file start | Replace `he` with character name: `"Well," Ignatious grunted.` |
+| Stadium/ambient quote | `*"Hold on!"*` in italics | Remove inner quotes — use italics only: `*Hold on!*` |
+
+---
+
+## Step 4d — Generate the Multi-Voice Audiobook
+
+Once the audit reports **0 warnings**, generate:
+
+```powershell
+# Clean old files if regenerating
+Remove-Item 'sessions/audio/sN/*' -Force
+
+# Generate
+python sessions/scripts/generate_audiobook.py \
+  --input sessions/transcripts/clean/sN-clean-story.md \
+  --output-dir sessions/audio/sN \
+  --generate
+```
+
+**Output files produced automatically:**
+
+| File | Description |
+|------|-------------|
+| `sN_audiobook_full.mp3` | Complete master audiobook |
+| `CHAPTER_1__*.mp3` ... | Per-chapter MP3 tracks |
+| `sN_sync_timestamps.json` | Blinkist-style line sync JSON (ms-accurate) |
+| `sN_subtitles.vtt` | WebVTT subtitle track for web/mobile players |
+| `segment_NNN_Speaker.mp3` | Individual per-line segment files |
+
+**Credit budget reference:**
+- ~19,000–20,000 credits per full session (~9–10% of 200,000 budget)
+- Use `--parse-only` flag to estimate character count without spending credits
+
+**Voice cast (configured in script):**
+
+| Character | Voice ID | Type |
+|-----------|----------|------|
+| Narrator | `pNInz6obpgDQGcFmaJgB` | ElevenLabs premade (Adam) |
+| Loami | `IM5qdLwbG2AX3RiVX0Of` | Custom voice |
+| Pip | `386eQBpmCgw3emfoqL5n` | Custom voice |
+| Iggy | `hxEheaxKsMWuFhE8lXGW` | Custom voice |
+| Ignatious | `iP95p4xoKVk53GoZ742B` | ElevenLabs premade (Chris) |
+| Britt | `21m00Tcm4TlvDq8ikWAM` | ElevenLabs premade (Rachel) |
+| Aggie | `AZnzlk1XvdvUeBnXmlld` | ElevenLabs premade (Domi) |
 
 ---
 

@@ -1,9 +1,9 @@
 ---
 tags:
   - first-year
-  - squad-03
   - npc
   - rust-rank
+  - squad-03
 ---
 
 # Sarge

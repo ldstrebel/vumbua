@@ -8,11 +8,23 @@ aliases:
 
 > **Purpose**: Read this file FIRST before any session processing or lore work. It provides canonical spellings, character mappings, and a complete file map so you can work accurately without reading 10+ files.
 > **AI onboarding**: Start with **AI Entry Brief** (`.agent/workflows/ai-entry.md`) for story + current-state summary.
-> **Last Updated**: Session 10 (July 2026)
+> **Last Updated**: Session 11 (August 2026)
 
 ---
 
+## Last Session Delta (Session 11: Don't Touch My Biscuits)
+
+New entities, reveals, and changes introduced in the most recent session. Update this after each session.
+
+**New NPCs / Appearances**: [[Mwaza-Kasa]] (Sacred Spirit Tortoise, first in-person appearance), [[Pip]] (Snatched by Storm Raptor while clutching bacon biscuits), [[Bramble]] (Communicated via *Speak to Plants* through trees), [[Mwaza-Chui]] (Canopy apex jaguars)  
+**Key reveals**:
+- **Bramble's Tree Communication**: Bramble used *Speak to Plants* through the tree network to protect Squad 05, feeding false signals into the forest until he recognized Squad 907 from a vision of Iggy filtering through the tree ranks.
+- **Mwaza-Kasa & Living Anchor**: Touching the shell of Mwaza-Kasa acts as a safe, living anchor to enter the deep Mizizi fungal network without getting lost.
+- **Suppressed Memories & Forbidden Groves**: Aggie and Britt's memories older than ~10 years have been suppressed, concealing childhood visits to forbidden sacred groves and forgotten clan members who died of shell/skin rot.
+- **The Descent**: Mwaza-Kasa stomped twice, rolled 50 feet off the canopy branch into a forest floor crater, and nodded for Squad 907 to follow it on foot into the petrified forest.
+
 ## Last Session Delta (Session 10: Dagger Sharks)
+
 
 New entities, reveals, and changes introduced in the most recent session. Update this after each session.
 

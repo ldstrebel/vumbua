@@ -1,9 +1,9 @@
 ---
 tags:
   - first-year
-  - squad-05
   - npc
   - student
+  - squad-06
 ---
 
 # Kael

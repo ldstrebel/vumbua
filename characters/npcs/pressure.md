@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-07
+  - squad-08
 ---
 
 # Pressure

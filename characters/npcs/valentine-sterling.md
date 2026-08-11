@@ -5,10 +5,10 @@ aliases:
   - Valentine Sterling
 tags:
   - first-year
-  - squad-01
   - npc
   - student
   - sterling-family
+  - squad-01
 ---
 
 # Valentine "Val" Sterling

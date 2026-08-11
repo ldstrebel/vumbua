@@ -20,3 +20,10 @@ meta/docs/.obsidian/plugins/*/data.json
 .obsidian/appearance.json 
 .obsidian/community-plugins.json 
 .obsidian/core-plugins.json
+
+# Environment variables & API keys
+.env
+.env.*
+*.env
+sessions/audio/
+

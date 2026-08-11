@@ -2,7 +2,7 @@
 tags:
   - first-year
   - npc
-  - squad-02
+  - squad-08
 ---
 
 # Brawn
