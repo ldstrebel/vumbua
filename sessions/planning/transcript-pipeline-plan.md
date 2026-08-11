@@ -148,10 +148,14 @@ Collects **all** violations before reporting. Novelization may not begin without
 * **Per-scene format:**
 ```markdown
 <!-- RAW_RANGE: [972, 1078] | SCENE_ID: 4 -->
-Lomi flagged down Raphael, a firefighter technician working the triage line...
+Lomi flagged down Raphael, a firefighter technician working the triage line... <!-- L0975 -->
+
+"Just breathe. You made it," Raphael said, pressing a canteen into her hands. <!-- L1041 -->
 <!-- LEDGER: rendered=[975, 1041] skipped=[] -->
 ```
 * **Ledger footer contract:** every `dialogue_ledger` entry from the manifest must appear in `rendered` (as direct or indirect speech in the prose) or in `skipped` with a parenthesized reason. Reasons other than `(ooc)` or `(duplicate)` are audit flags.
+* **Inline spoken-turn markers (ordering contract):** every paragraph that renders a dialogue turn ends with `<!-- Lxxxx -->` pointing at its raw line. Motivation (s12 incident): a writer can scramble dialogue chronology in the prose while emitting a perfectly sorted ledger footer, and set-membership checks pass. The ledger proves *presence*; only inline markers prove *order*. Markers must appear as trailing clusters at paragraph ends, in strictly ascending order within each scene, and their set must equal the ledger's `rendered` list. The footer itself is validated first: `rendered` and `skipped` must be disjoint and their union must exactly equal the manifest ledger. `seed_markers.py` can fuzzy-seed markers into an existing draft (unmatched turns are listed for manual placement; it refuses to run on an already-annotated draft unless `--force`). It writes `sN-clean-story.annotated.md`; once annotation is complete and reviewed, **promote it over `sN-clean-story.md`** — the verifier only ever audits the canonical story file.
+* **Garble policy (transcription errors):** raw transcripts contain speech-to-text garbage ("go for stacks", "Professor Inc."). The writer must never novelize gibberish literally. At manifest time, obviously garbled turns get `"garbled": true` plus a `"normalized"` gist (best-guess intent), logged as an `ambiguous_audio` assumption (§8.1) with the raw text quoted. The writer renders the normalized intent; the dossier surfaces every garble repair for human review. A garbled line with no plausible reading is rendered as indirect/uncertain speech, never invented dialogue.
 * **OOC blocks** are emitted as a single marker line, keeping coverage intact:
 ```markdown
 <!-- RAW_RANGE: [1079, 1121] | SCENE_ID: 5 | OOC -->
@@ -166,9 +170,10 @@ Non-LLM mechanical gate. Checks, collecting all violations before reporting:
 2. **Coverage** — RAW_RANGE tags in the story tile `[1, total_raw_lines]`: zero gap, zero overlap.
 3. **Manifest agreement** — story ranges and SCENE_IDs exactly match manifest blocks (the story can't quietly re-segment).
 4. **Ledger reconciliation** — for each non-OOC block: `rendered ∪ skipped` in the footer == manifest `dialogue_ledger` line numbers. Any missing entry = FAIL. Any `skipped` with a non-whitelisted reason = FAIL.
-5. **Compression guardrail (WARN, not FAIL)** — flag any non-OOC block where prose word count < 35% of the block's raw dialogue word count. Tunable; catches "three sentences for 100 lines" without punishing legitimately terse scenes.
-6. **Header whitelist** — only `#`/`##` headers permitted.
-7. Prints a full violation report, then `✅ AUDIT PASSED` or `❌ AUDIT FAILED (n violations)`.
+5. **Dialogue ordering gate** — per non-OOC block: extract inline `<!-- Lxxxx -->` markers (ledger footer excluded); FAIL if the manifest expects rendered turns but no markers exist, if markers are not strictly ascending, or if the marker set ≠ the rendered set. This closes the s12 silent-scramble gap.
+6. **Compression guardrail (WARN, not FAIL)** — flag any non-OOC block where prose word count < 35% of the block's raw dialogue word count. Tunable; catches "three sentences for 100 lines" without punishing legitimately terse scenes.
+7. **Header whitelist** — only `#`/`##` headers permitted.
+8. Prints a full violation report, then `✅ AUDIT PASSED` or `❌ AUDIT FAILED (n violations)`.
 
 ---
 

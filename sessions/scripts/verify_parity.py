@@ -160,12 +160,20 @@ def verify_parity(session_id):
 
             # Reconcile dialogue ledger lines
             expected_ledger = [turn["line"] for turn in m_block.get("dialogue_ledger", [])]
-            story_ledger = rendered_lines + skipped_lines
 
-            # Check that story covers all manifest turns
+            # Footer partition contract: rendered and skipped must be disjoint,
+            # and their union must equal the manifest ledger exactly.
+            double_counted = set(rendered_lines) & set(skipped_lines)
+            if double_counted:
+                errors.append(f"LEDGER PARTITION VIOLATION in Scene {scene_id}: lines listed as both rendered and skipped: {sorted(double_counted)}")
+
+            story_ledger = set(rendered_lines) | set(skipped_lines)
             for expected_line in expected_ledger:
                 if expected_line not in story_ledger:
                     errors.append(f"DIALOGUE TURN DROP in Scene {scene_id}: Line L{expected_line:04d} from manifest is not accounted for in story ledger.")
+            phantom = story_ledger - set(expected_ledger)
+            if phantom:
+                errors.append(f"PHANTOM LEDGER ENTRIES in Scene {scene_id}: footer lists lines not in manifest dialogue ledger: {sorted(phantom)}")
 
             # Check for illegal skips or reason violations
             # Check skipped items in footer have valid parenthesized reasons in skipped text
@@ -177,6 +185,73 @@ def verify_parity(session_id):
             for num_str, reason in skipped_items:
                 if not reason or reason not in ["ooc", "duplicate"]:
                     errors.append(f"ILLEGAL SKIP REASON in Scene {scene_id}: Line L{int(num_str):04d} has unapproved skip reason: '{reason}'")
+
+            # 6a-2. Inline spoken-turn marker gate (dialogue ordering)
+            # Every dialogue paragraph must END with <!-- Lxxxx --> marker(s).
+            # Strip the ledger footer first so it can't be picked up.
+            content_no_ledger = re.sub(
+                r"<!--\s*LEDGER:.*?-->", "", s_block["content"], flags=re.DOTALL
+            )
+            marker_re = re.compile(r"<!--\s*L(\d+)\s*-->")
+
+            # Walk paragraphs in document order so ordering reflects the prose.
+            inline_markers = []
+            for para in content_no_ledger.split("\n\n"):
+                para = para.strip()
+                if not para:
+                    continue
+                para_markers = [int(x) for x in marker_re.findall(para)]
+                if not para_markers:
+                    continue
+                # Markers must form a trailing cluster at paragraph end —
+                # a marker buried mid-paragraph can't be position-audited.
+                tail = para
+                trailing = 0
+                while True:
+                    m = re.search(r"<!--\s*L\d+\s*-->\s*$", tail)
+                    if not m:
+                        break
+                    trailing += 1
+                    tail = tail[: m.start()].rstrip()
+                if trailing != len(para_markers):
+                    errors.append(f"MID-PARAGRAPH MARKER in Scene {scene_id}: markers must be a trailing cluster at paragraph end (found {len(para_markers)} markers, only {trailing} trailing): '{para[:60]}...'")
+                if len(para_markers) > 3:
+                    warnings.append(f"MARKER PILE-UP in Scene {scene_id}: one paragraph carries {len(para_markers)} turn markers — verify these turns are genuinely fused: '{para[:60]}...'")
+                inline_markers.extend(para_markers)
+
+            # The footer's rendered list is the authoritative expectation
+            # (it has already been reconciled against the manifest above).
+            expected_rendered = rendered_lines
+
+            if expected_rendered and not inline_markers:
+                errors.append(
+                    f"MISSING INLINE MARKERS in Scene {scene_id}: manifest expects "
+                    f"{len(expected_rendered)} rendered dialogue turns but the prose "
+                    f"contains no <!-- Lxxxx --> markers."
+                )
+            else:
+                # Strict ascending order = prose follows transcript chronology
+                for i in range(len(inline_markers) - 1):
+                    if inline_markers[i] >= inline_markers[i + 1]:
+                        errors.append(
+                            f"DIALOGUE ORDER VIOLATION in Scene {scene_id}: "
+                            f"L{inline_markers[i]:04d} appears in prose before "
+                            f"L{inline_markers[i + 1]:04d} (raw order is reversed or duplicated)."
+                        )
+
+                # Set equivalence with the manifest's rendered turns
+                missing = set(expected_rendered) - set(inline_markers)
+                extra = set(inline_markers) - set(expected_rendered)
+                if missing:
+                    errors.append(
+                        f"INLINE MARKER GAP in Scene {scene_id}: rendered turns missing "
+                        f"markers in prose: {sorted(missing)}"
+                    )
+                if extra:
+                    errors.append(
+                        f"INLINE MARKER EXCESS in Scene {scene_id}: prose markers not in "
+                        f"manifest rendered set: {sorted(extra)}"
+                    )
 
             # 6b. Compression ratio guardrail (prose word count vs raw dialogue word count)
             prose_words = len(s_block["content"].split())
