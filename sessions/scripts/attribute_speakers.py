@@ -78,11 +78,18 @@ def resolve_identity(config, mic, identity_label):
     """Map a decision's identity label onto a config-declared identity."""
     npc = NPC_IDENTITY.match(identity_label)
     if npc:
+        name = npc.group(1).strip()
         gm_slots = [i for i in mic.identities if i.is_gm]
         if not gm_slots:
             raise AttributionError(
                 f"mic {mic.mic_label!r} does not carry the GM, so it cannot voice "
                 f"NPC {npc.group(1)!r}."
+            )
+        if name in config.characters or name == sc.GM_IDENTITY or name == config.gm:
+            raise AttributionError(
+                f"{name!r} is a player character declared in the session config, so it "
+                f"cannot be attributed as an NPC. Use the identity {name!r} directly if "
+                f"mic {mic.mic_label!r} declares it."
             )
         return {
             "identity": npc.group(1).strip(),

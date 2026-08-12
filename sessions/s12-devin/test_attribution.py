@@ -81,7 +81,8 @@ class TestConfigGate(unittest.TestCase):
         self.assertIn("BLOCKED", result.stderr)
 
     def test_pipeline_refuses_a_config_without_a_gm(self):
-        data = json.load(open(CONFIG.path, encoding="utf-8"))
+        with open(CONFIG.path, encoding="utf-8") as handle:
+            data = json.load(handle)
         data.pop("gm")
         path = os.path.join(WORK_DIR, "no-gm-config.json")
         with open(path, "w", encoding="utf-8") as handle:
@@ -117,6 +118,27 @@ class TestConfigDrivenAttribution(unittest.TestCase):
 
     def test_no_violations_reported(self):
         self.assertEqual(ATTRIBUTION["violations"], [])
+
+    def test_a_declared_character_cannot_be_laundered_through_the_npc_path(self):
+        """`NPC:Aggie` must be rejected, not silently stripped of its person."""
+        decisions_path = os.path.join(SESSIONS_DIR, ATTRIBUTION["decisions_file"])
+        with open(decisions_path, encoding="utf-8") as handle:
+            decisions = json.load(handle)
+        mic_label = CONFIG.shared_mics[0].mic_label
+        lines = decisions["mics"][mic_label]["lines"]
+        character = next(iter(CONFIG.characters))
+        first = lines[next(iter(lines))]
+        first[0]["identity"] = f"NPC:{character}"
+        path = os.path.join(WORK_DIR, "npc-launder-decisions.json")
+        with open(path, "w", encoding="utf-8") as handle:
+            json.dump(decisions, handle)
+        result = run_stage(
+            "attribute_speakers.py",
+            [SESSION_ID, "--index-dir", WORK_DIR, "--out-dir", WORK_DIR, "--decisions", path],
+            expect_success=False,
+        )
+        self.assertNotEqual(result.returncode, 0, result.stdout)
+        self.assertIn("player character declared in the session config", result.stdout + result.stderr)
 
 
 def solo_stream_assertion(person, character):

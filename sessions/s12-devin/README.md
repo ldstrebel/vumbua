@@ -94,6 +94,8 @@ python sessions/scripts/attribute_speakers.py s12 \
 * Streams the config **does** list as shared are decomposed into the declared
   identities only. The per-line calls live in `s12-attribution-decisions.json`
   (`GM`, `Aggie`, or `NPC:<Name>` for a GM-voiced NPC); anything else is rejected.
+  `NPC:<Name>` may not name a declared player character — the NPC path can't be used
+  to launder a PC line out of its `person` attribution.
   Each segment's text must be a verbatim substring of its raw line.
 * Undecomposed shared-mic lines are emitted as
   `kind: "needs_decomposition"` with the config's candidate identities — visible
