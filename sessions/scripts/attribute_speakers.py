@@ -206,6 +206,7 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
                 "character": resolved["character"],
                 "voiced_by": resolved["voiced_by"],
                 "text": text,
+                "ooc": bool(decision.get("ooc", False)),
                 "source": "decision",
                 "note": decision.get("note", ""),
             })

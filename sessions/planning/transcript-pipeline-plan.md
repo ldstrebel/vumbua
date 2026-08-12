@@ -159,6 +159,23 @@ Turns streams into identities, driven entirely by the config:
   `raw_person: Luke S → character: Aggie` assertion is mandatory and
   config-derived; a config declaring no shared mics generates no such assertion.
   This removes the guess in both directions.
+* A decision may set `"ooc": true` to mark out-of-character table talk (Tier C) on a
+  shared mic, so meta chatter is classified rather than dropped.
+
+### Step 0c: `sessions/scripts/render_clean.py` (attribution-derived clean transcript)
+
+* Consumes `sN-attribution.json` + the indexed transcript, emits
+  `sN-clean-attributed.md`: one entry per attributed segment, anchored to `L####`,
+  labelled with the config-declared identity (and, for a shared mic, the person behind
+  the character — `Aggie (PC, Kristina on Luke S's mic)`).
+* Refuses to run while any line is `needs_decomposition`, so a rendered clean always
+  covers the whole session.
+* **Zero loss is mechanical, not asserted:** text inside a shared-mic line that no
+  decision claims is emitted as an *unsegmented remainder* credited to the mic's GM slot
+  (unattributed if the mic carries no GM), and the harness compares the rendered text
+  against the indexed text character-for-character.
+* This is the attribution ground truth for a curated clean transcript; it is not a
+  substitute for the scene/subscene structure of a hand-written `sN-clean.md`.
 
 ### Step 1: LLM Manifest Extraction → `sessions/transcripts/index/sN-manifest.json`
 
@@ -260,6 +277,7 @@ sessions/
 │   ├── session_config.py
 │   ├── prep_raw.py
 │   ├── attribute_speakers.py
+│   ├── render_clean.py
 │   ├── speaker_aliases.json
 │   ├── verify_manifest.py
 │   └── verify_parity.py
@@ -278,6 +296,7 @@ sessions/
    `sessions/sN-devin/sN-session-config.json`. Every later step is gated on it.
 1. `python sessions/scripts/prep_raw.py sN` → indexed file + hash.
 1b. `python sessions/scripts/attribute_speakers.py sN` → `sN-attribution.json`;
+1c. `python sessions/scripts/render_clean.py sN` → `sN-clean-attributed.md`;
    `python sessions/sN-devin/test_attribution.py` → config-derived assertions.
 2. LLM manifesting → `sN-manifest.json` (≤ 150 lines/block, ledger per block, OOC flagged).
 3. `python sessions/scripts/verify_manifest.py sN` → **must PASS before step 4.**

@@ -12,8 +12,10 @@ shared mics generates no such assertion, so the harness never guesses in either
 direction.
 """
 
+import collections
 import json
 import os
+import re
 import subprocess
 import sys
 import tempfile
@@ -139,6 +141,46 @@ class TestConfigDrivenAttribution(unittest.TestCase):
         )
         self.assertNotEqual(result.returncode, 0, result.stdout)
         self.assertIn("player character declared in the session config", result.stdout + result.stderr)
+
+
+class TestRenderedClean(unittest.TestCase):
+    """The rendered clean transcript must be complete and lossless."""
+
+    @classmethod
+    def setUpClass(cls):
+        cls.path = os.path.join(WORK_DIR, f"{SESSION_ID}-clean-attributed.md")
+        run_stage("render_clean.py", [
+            SESSION_ID, "--index-dir", WORK_DIR,
+            "--attribution", os.path.join(WORK_DIR, f"{SESSION_ID}-attribution.json"),
+            "--out", cls.path,
+        ])
+        with open(cls.path, encoding="utf-8") as handle:
+            cls.rendered = handle.read()
+
+    def test_every_shared_mic_line_is_decomposed(self):
+        self.assertEqual(ATTRIBUTION["unresolved_shared_mic_lines"], [])
+
+    def test_render_carries_every_character_of_the_indexed_transcript(self):
+        """Zero-loss: the rendered text is a permutation of the indexed text."""
+        squash = lambda text: collections.Counter(re.sub(r"[^a-z0-9]+", "", text.lower()))
+        indexed = os.path.join(WORK_DIR, f"{SESSION_ID}-raw-indexed.md")
+        bodies = []
+        for raw in open(indexed, encoding="utf-8"):
+            match = re.match(r"^L\d+: \*\*.+?:\*\* (.*)$", raw.rstrip("\n"))
+            if match:
+                bodies.append(match.group(1))
+        missing = squash("".join(bodies)) - squash(self.rendered)
+        self.assertEqual(dict(missing), {})
+
+    def test_shared_mic_speech_is_labelled_with_its_person(self):
+        mic = CONFIG.shared_mics[0]
+        for identity in mic.identities:
+            if identity.is_gm:
+                continue
+            self.assertIn(
+                f"[[{identity.identity}]] (PC, {identity.person} on {mic.mic_label}'s mic)",
+                self.rendered,
+            )
 
 
 def solo_stream_assertion(person, character):

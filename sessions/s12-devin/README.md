@@ -101,11 +101,27 @@ python sessions/scripts/attribute_speakers.py s12 \
   `kind: "needs_decomposition"` with the config's candidate identities — visible
   work, never a silent default to the mic's owner. `--strict` fails while any remain.
 
-Current decisions cover the Aggie beats at L0459, L0464, L0900, L0929, L0931, and
-L0936 (Aggie's Mizizi condolences to Val, the tortoise stomp test, the speaking
-stone). Extend the file as more of the stream is audited.
+All 692 `Luke S` lines have been audited and carry an explicit decision, so
+`--strict` passes. Out-of-character table talk is marked `"ooc": true` (Tier C)
+rather than dropped.
 
-## Step 3 — Run the harness
+## Step 3 — Render the clean transcript
+
+```bash
+python sessions/scripts/render_clean.py s12 \
+    --index-dir sessions/s12-devin/artifacts \
+    --attribution sessions/s12-devin/artifacts/s12-attribution.json \
+    --out sessions/s12-devin/artifacts/s12-clean-attributed.md
+```
+
+Every speaker label in the output is a config-declared identity or a GM-voiced NPC,
+anchored to its `L####` line. Text inside a shared-mic line that no decision claims is
+emitted as an *unsegmented remainder* credited to the mic's GM slot — never folded into
+a neighbouring speaker's quote. The renderer refuses to run while any line is still
+`needs_decomposition`. See `s12-clean-comparison.md` for how the result differs from the
+committed `sessions/transcripts/clean/s12-clean.md`.
+
+## Step 4 — Run the harness
 
 ```bash
 python sessions/s12-devin/test_attribution.py --list   # what the config generates
@@ -121,7 +137,9 @@ Its per-stream assertions are **generated from the config**:
   declares that shared mic. Declare no shared mics and this assertion is simply
   not generated;
 * no segment may carry an identity the config never declared, and NPC segments must
-  be voiced by the declared GM.
+  be voiced by the declared GM;
+* the rendered clean transcript is lossless — its text is compared against the indexed
+  transcript character-for-character, so a dropped word fails the harness.
 
 ---
 
@@ -132,6 +150,8 @@ Its per-stream assertions are **generated from the config**:
 | `s12-session-config.json` | User-provided facts: GM, players, shared mics, label spellings |
 | `s12-attribution-decisions.json` | Per-line decomposition of the declared shared mic |
 | `test_attribution.py` | Config-derived harness |
-| `artifacts/` | Generated (git-ignored): indexed transcript + `s12-attribution.json` |
+| `s12-clean-comparison.md` | Old committed clean vs. the attribution-derived clean |
+| `artifacts/` | Generated (git-ignored): indexed transcript, `s12-attribution.json`, `s12-clean-attributed.md` |
 | `sessions/scripts/session_config.py` | Loader + hard-gate validation |
 | `sessions/scripts/attribute_speakers.py` | Attribution stage |
+| `sessions/scripts/render_clean.py` | Clean-transcript renderer (attribution-driven) |

@@ -156,6 +156,10 @@ shared** (which player rides whose mic). They live in
   and `sessions/planning/transcript-pipeline-plan.md` §2.0 for the full spec.
 - `raw_speaker_labels` (and `sessions/scripts/speaker_aliases.json`) fix garbled
   label **spellings** only; they never say who the GM is or who plays whom.
+- `render_clean.py` turns a fully decomposed attribution into
+  `sN-clean-attributed.md`, where every speaker label is a declared identity (or a
+  GM-voiced NPC) anchored to its `L####` line, and the text is verified lossless
+  against the indexed transcript.
 
 ---
 
