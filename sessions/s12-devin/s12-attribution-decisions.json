@@ -1,0 +1,94 @@
+{
+  "session_id": "s12",
+  "_note": "Per-line decomposition of the streams that `s12-session-config.json` declares as shared. Allowed identities per line are exactly the ones the config declares for that mic, plus `NPC:<Name>` when the mic carries the GM. Segment text must be a verbatim substring of the raw indexed line. This file records semantic decisions made while reading the raw lines — it never declares WHICH mics are shared; that is the user-provided config's job.",
+  "mics": {
+    "Luke S": {
+      "lines": {
+        "459": [
+          {
+            "identity": "Aggie",
+            "segment": "I think Aggie would see bow out of the corner of her eye and like at least go say hi and like acknowledge that he made it out but like still like we got to go like kind of thing.",
+            "note": "Kristina declaring Aggie's intent through Luke's mic"
+          },
+          {
+            "identity": "GM",
+            "segment": "Val just looks up and his eyes are red."
+          }
+        ],
+        "464": [
+          {
+            "identity": "GM",
+            "segment": "trading. I think it was him."
+          },
+          {
+            "identity": "Aggie",
+            "segment": "I think Baggie remembers our conversation about death and how he was confused because we accept it, but he's like they're sad about it and they apologize.",
+            "note": "\"Baggie\" is a transcription garble of Aggie"
+          },
+          {
+            "identity": "Aggie",
+            "segment": "I'm sorry for your loss. I I think we're saying that right? Is that right? Um but it is not for nothing.",
+            "note": "Aggie's Mizizi condolences to Val (clean transcript Subscene 2D)"
+          }
+        ],
+        "900": [
+          {
+            "identity": "GM",
+            "segment": "It wasn't as peppy as usually."
+          },
+          {
+            "identity": "Aggie",
+            "segment": "I think Aggie's going to look at the tortoise And like, can they leave and rejoin us later?"
+          },
+          {
+            "identity": "GM",
+            "segment": "It stomps its foot."
+          }
+        ],
+        "929": [
+          {
+            "identity": "GM",
+            "segment": "Okay. Uh, hilarious. I love that, Iggy. Um, so back to to Aggie and Pip."
+          },
+          {
+            "identity": "Aggie",
+            "segment": "Uh if Pip and Bramble can meet us up later after they go get a snack."
+          }
+        ],
+        "931": [
+          {
+            "identity": "GM",
+            "segment": "One. It stops twice."
+          },
+          {
+            "identity": "Aggie",
+            "segment": "I'm sorry, Pip. I don't think the god Tortois is happy with that answer. And I have a feeling this is really really important for not just for our pe my people but for everyone I think."
+          },
+          {
+            "identity": "GM",
+            "segment": "And she just starts walking with her head up."
+          }
+        ],
+        "936": [
+          {
+            "identity": "Aggie",
+            "segment": "I think Aggie is going to take the speaking stone."
+          },
+          {
+            "identity": "Aggie",
+            "segment": "But just like Brit, pick up some snacks when you meet us."
+          },
+          {
+            "identity": "NPC:Professor Inc",
+            "segment": "Yes, we will of course come. I'm sorry. Of course. It will be fully provisioned this journey.",
+            "note": "GM-voiced NPC arriving over the speaking stone"
+          },
+          {
+            "identity": "GM",
+            "segment": "And it comes through from Professor Ing who currently is is holding this node."
+          }
+        ]
+      }
+    }
+  }
+}
