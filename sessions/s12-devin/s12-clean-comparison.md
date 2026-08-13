@@ -87,3 +87,34 @@ Recommended next step: keep `s12-clean.md`'s structure, but rebuild its dialogue
 config can justify, with the vision section kept and marked as out-of-audio canon. Regenerating
 the manifest/ledger afterwards means re-basing the s12 hash chain, which is a deliberate
 decision to make separately.
+
+## Follow-up: readability and table talk (after the comparison above)
+
+Two problems the flat render had, both now fixed in `render_clean.py`:
+
+**1. Characters were speaking during table talk.** Out-of-character was recorded per *mic*, and
+only Luke's mic had been audited line by line — so while the GM read as table talk, the players
+read as `[[Britt]]`, `[[Iggy]]`, `[[Ignatius]]` through the pre-session Wi-Fi and character-sheet
+chatter: 203 of 918 PC segments sat inside stretches the GM's own decisions already marked as
+table talk. Out-of-character is a fact about the *table*, so `s12-attribution-decisions.json` now
+declares it table-wide, in `ooc_ranges` (L0093–L0230 pre-session, L1646–L1708 while everyone reads
+the texted storyboard, L1731–L1821 wrap-up) plus 26 scattered `ooc_lines` (rules questions, "John
+is saying this not Ignatius", the GM's NPC-voice mix-up). Anything they cover is labelled with the
+**person**: `[[Sophie]] (out of character)`, not `[[Britt]]`. 339 segments are now out of character.
+Boundaries were read off the raw lines; the criterion is written into the file — real-world/table/
+meta content is out of character, while a player narrating their own character's action in the
+third person is still play and keeps the character label.
+
+**2. Dialogue was confetti.** Diarization splits a sentence every time somebody else makes a
+noise, and the render emitted one entry per line, e.g. `[[Iggy]] "that's"` / `[[GM]] "Super"` /
+`[[Iggy]] "annoying."`. The render now stitches each speaker's fragments back into sentence-level
+turns in place — a fragment continues that speaker's previous turn when the turn was left
+unterminated (or the fragment opens lower-case), the interruption was short, and the lines are
+close in the index — so the example above becomes one entry, `[[Holly]] (out of character)
+[L0107–L0112]: Wow, that's annoying.` 1,682 line-entries collapse to 1,244 turns. Nothing is
+reordered (a turn is emitted where its first fragment fell), nothing is reworded, and the harness
+still proves the render carries every word of the indexed transcript; `--no-stitch` returns the
+line-per-line view.
+
+The storyboard vision is also merged in now (see the kit README), so this clean is no longer
+missing the content that only existed in the old one.

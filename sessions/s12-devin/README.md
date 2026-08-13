@@ -102,8 +102,22 @@ python sessions/scripts/attribute_speakers.py s12 \
   work, never a silent default to the mic's owner. `--strict` fails while any remain.
 
 All 692 `Luke S` lines have been audited and carry an explicit decision, so
-`--strict` passes. Out-of-character table talk is marked `"ooc": true` (Tier C)
-rather than dropped.
+`--strict` passes. Out-of-character table talk is marked rather than dropped (Tier C).
+
+Being out of character is a fact about the **table**, not about one microphone — when the
+group is discussing Wi-Fi or character sheets, every stream is the person speaking, not
+their character. The decisions file therefore declares it table-wide:
+
+* `ooc_ranges` — continuous stretches (`L0093–L0230` pre-session, `L1646–L1708` while
+  everyone reads the texted storyboard, `L1731–L1821` wrap-up);
+* `ooc_lines` — scattered meta lines inside play (rules questions, "John is saying this
+  not Ignatius", the GM's NPC-voice mix-up).
+
+Both apply to every stream, and the renderer labels anything they cover with the person:
+`[[Sophie]] (out of character)`, never `[[Britt]]`. Boundaries are read off the raw lines;
+the criterion is recorded in the file — real-world/table/meta content is out of character,
+while a player narrating their own character's action in the third person is still play and
+keeps the character label.
 
 ## Step 3 — Render the clean transcript
 
@@ -118,8 +132,41 @@ Every speaker label in the output is a config-declared identity or a GM-voiced N
 anchored to its `L####` line. Text inside a shared-mic line that no decision claims is
 emitted as an *unsegmented remainder* credited to the mic's GM slot — never folded into
 a neighbouring speaker's quote. The renderer refuses to run while any line is still
-`needs_decomposition`. See `s12-clean-comparison.md` for how the result differs from the
-committed `sessions/transcripts/clean/s12-clean.md`.
+`needs_decomposition`.
+
+Diarization splits a sentence every time somebody else makes a noise, so the renderer
+stitches each speaker's fragments back into sentence-level turns: `[[Iggy]] "that's"` /
+`[[GM]] "Super"` / `[[Iggy]] "annoying."` becomes one entry anchored `[L0107–L0112]`. A
+fragment continues that speaker's previous turn only when the turn was left unterminated
+(or the fragment opens lower-case), the interruption was short, and the lines are close in
+the index; a turn is emitted where its first fragment fell, so nothing is reordered or
+reworded. `--no-stitch` gives the line-per-line view.
+
+See `s12-clean-comparison.md` for how the result differs from the committed
+`sessions/transcripts/clean/s12-clean.md`.
+
+### Step 3b — Splice in the out-of-audio vision
+
+The ancestral-vision sequence was handed to the table as storyboard pages and read
+silently (L1645–L1660), so it exists in no microphone. `--inserts` adds it from a declared
+spec instead of letting anyone re-narrate it by hand:
+
+```bash
+python sessions/scripts/render_clean.py s12 \
+    --index-dir sessions/s12-devin/artifacts \
+    --attribution sessions/s12-devin/artifacts/s12-attribution.json \
+    --inserts sessions/s12-devin/s12-vision-inserts.json \
+    --out sessions/s12-devin/artifacts/s12-clean-attributed.md
+```
+
+`s12-vision-inserts.json` declares the storyboard file, the anchor line, and a
+`speakers` map from each storyboard bubble label to an identity — exactly the same
+identity rules as attribution (`NPC:<Name>` for a GM-voiced NPC, never a declared PC).
+`extract_storyboard.py` pulls the panel descriptions, narration boxes, sound effects, and
+bubbles out mechanically; an unmapped bubble label is a hard error, so no storyboard voice
+is guessed or silently skipped. Inserted entries are anchored `[vision]`, tagged with
+their `storyboard pN.M`, and claim no microphone — page 1's PC bubbles are labelled
+`PC dialogue written by GM — not spoken on mic`.
 
 ## Step 4 — Run the harness
 
@@ -139,7 +186,13 @@ Its per-stream assertions are **generated from the config**:
 * no segment may carry an identity the config never declared, and NPC segments must
   be voiced by the declared GM;
 * the rendered clean transcript is lossless — its text is compared against the indexed
-  transcript character-for-character, so a dropped word fails the harness.
+  transcript character-for-character, so a dropped word fails the harness;
+* storyboard inserts never claim a mic, never disturb that parity, and are rejected when a
+  bubble label is unmapped, names an undeclared identity, or launders a declared PC through
+  `NPC:<Name>`;
+* declared out-of-character stretches reach **every** stream, no character is labelled
+  inside one, and turn stitching only ever joins fragments — it may not reorder the
+  transcript or change the words.
 
 ---
 
@@ -150,8 +203,11 @@ Its per-stream assertions are **generated from the config**:
 | `s12-session-config.json` | User-provided facts: GM, players, shared mics, label spellings |
 | `s12-attribution-decisions.json` | Per-line decomposition of the declared shared mic |
 | `test_attribution.py` | Config-derived harness |
+| `s12-vision-inserts.json` | Out-of-audio storyboard canon: anchor + storyboard voice map |
 | `s12-clean-comparison.md` | Old committed clean vs. the attribution-derived clean |
 | `artifacts/` | Generated (git-ignored): indexed transcript, `s12-attribution.json`, `s12-clean-attributed.md` |
 | `sessions/scripts/session_config.py` | Loader + hard-gate validation |
 | `sessions/scripts/attribute_speakers.py` | Attribution stage |
 | `sessions/scripts/render_clean.py` | Clean-transcript renderer (attribution-driven) |
+| `sessions/scripts/storyboard_inserts.py` | Resolves storyboard voices against the config |
+| `sessions/scripts/extract_storyboard.py` | Mechanical storyboard narration/dialogue extractor |

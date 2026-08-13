@@ -1,6 +1,52 @@
 {
   "session_id": "s12",
   "_note": "Per-line decomposition of the streams that `s12-session-config.json` declares as shared. Allowed identities per line are exactly the ones the config declares for that mic, plus `NPC:<Name>` when the mic carries the GM. Segment text must be a verbatim substring of the raw indexed line. This file records semantic decisions made while reading the raw lines — it never declares WHICH mics are shared; that is the user-provided config's job. Full-stream audit: every Luke S line carries an explicit decision; `ooc: true` marks out-of-character table talk (Tier C).",
+  "_ooc_note": "Out-of-character is a fact about the TABLE, not about one microphone: when the group is talking about Wi-Fi, character sheets or how good the session was, every stream is the person speaking, not their character. `ooc_ranges` and `ooc_lines` therefore apply to all streams, and the renderer labels anything they cover with the PERSON's name. Criterion used while reading the raw: real-world/table/meta content (tech, rules, campaign praise, scheduling, discussion of the GM's NPC voices) is out of character; a player narrating their own character's action in the third person is still play and keeps the character label. Boundaries were read off the raw lines, never inferred from a keyword.",
+  "ooc_ranges": [
+    {
+      "from": 93,
+      "to": 230,
+      "note": "Pre-session: greetings, broken Wi-Fi, hotspots, character-sheet delivery, audio feedback. In-fiction play starts at L0231 with the GM's recap of where the party left off."
+    },
+    {
+      "from": 1646,
+      "to": 1708,
+      "note": "The GM texts the ancestral-vision storyboard to the table (L1645) and everyone reads it silently: scrolling, files failing to load, cameras dying, reactions to the art. Play resumes at L1709."
+    },
+    {
+      "from": 1731,
+      "to": 1821,
+      "note": "Wrap-up after the GM ends the arc at L1731-L1733: meta recap, praise, scheduling, goodbyes."
+    }
+  ],
+  "ooc_lines": {
+    "299": "Rules meta: 'I didn't realize that was an option... wouldn't have done that a minute ago.'",
+    "300": "Rules meta, same beat.",
+    "336": "Meta about not having a character sheet.",
+    "345": "Meta about how the walking motion relates to flight mechanics.",
+    "347": "Continuation of L0345.",
+    "412": "Asking the GM whether a real NPC died.",
+    "414": "'Did you kill one of our NPCs that we liked?'",
+    "416": "Reaction to the GM's answer.",
+    "418": "Reaction to the GM's answer.",
+    "422": "Campaign meta: 'this campaign really taking a turn at the end'.",
+    "424": "Campaign meta, same beat.",
+    "481": "John says it explicitly: 'John is saying this not Ignatius.'",
+    "483": "Continuation of L0481.",
+    "805": "Praise for the GM's accent choice.",
+    "895": "Meta: the GM used the same voice for Pip as for Zephyr.",
+    "897": "Meta about the voice confusion.",
+    "899": "Meta about the voice confusion.",
+    "901": "Meta about the voice confusion.",
+    "902": "Player commentary about Iggy in the third person, aimed at the GM's NPC.",
+    "903": "Continuation of L0901.",
+    "905": "Asking the GM, out of character, what gender the creature is.",
+    "907": "Continuation of L0905.",
+    "909": "Clarifying which creature is meant.",
+    "911": "Clarifying which creature is meant.",
+    "913": "Continuation of the gender question.",
+    "914": "Closing the same exchange."
+  },
   "mics": {
     "Luke S": {
       "lines": {

@@ -13,6 +13,11 @@ Every routing decision here comes from the session config:
 If a session declares no shared mics, no decomposition is attempted at all — the
 pipeline neither guesses that a stream is shared nor guesses that it isn't.
 
+Out-of-character stretches are declared the same way, and table-wide: `ooc_ranges` and
+`ooc_lines` in the decisions file mark lines where the people at the table are talking as
+themselves, on every stream at once. A line the declarations do not cover is in character.
+Nothing here sniffs the text for tell-tale words.
+
 Usage:
     python attribute_speakers.py s12 \
         --index-dir sessions/s12-devin/artifacts \
@@ -50,14 +55,40 @@ def find_decisions_path(session_id, sessions_dir):
 def load_decisions(session_id, sessions_dir, decisions_path=None):
     path = decisions_path or find_decisions_path(session_id, sessions_dir)
     if not path:
-        return {}, None
+        return {}, {"ranges": [], "lines": {}}, None
     with open(path, "r", encoding="utf-8") as handle:
         data = json.load(handle)
     if data.get("session_id") != session_id:
         raise AttributionError(
             f"{path} declares session_id {data.get('session_id')!r}, expected {session_id!r}."
         )
-    return data.get("mics", {}), path
+    ranges = []
+    for slot, entry in enumerate(data.get("ooc_ranges", [])):
+        try:
+            start, end = int(entry["from"]), int(entry["to"])
+        except (KeyError, TypeError, ValueError):
+            raise AttributionError(
+                f"{path}: ooc_ranges[{slot}] needs integer `from` and `to` line numbers."
+            )
+        if start > end:
+            raise AttributionError(f"{path}: ooc_ranges[{slot}] runs backwards.")
+        ranges.append((start, end, entry.get("note", "")))
+    lines = {}
+    for key, note in data.get("ooc_lines", {}).items():
+        if not str(key).isdigit():
+            raise AttributionError(f"{path}: ooc_lines key {key!r} is not a line number.")
+        lines[int(key)] = note
+    return data.get("mics", {}), {"ranges": ranges, "lines": lines}, path
+
+
+def ooc_reason(line_no, declared):
+    """Why this line is out of character, or None when it is in character."""
+    if line_no in declared["lines"]:
+        return declared["lines"][line_no] or "declared out of character"
+    for start, end, note in declared["ranges"]:
+        if start <= line_no <= end:
+            return note or f"declared out of character (L{start:04d}-L{end:04d})"
+    return None
 
 
 def read_indexed(indexed_path):
@@ -128,7 +159,8 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
               file=sys.stderr)
         sys.exit(1)
 
-    decisions, used_decisions_path = load_decisions(session_id, base_dir, decisions_path)
+    decisions, ooc_declared, used_decisions_path = load_decisions(
+        session_id, base_dir, decisions_path)
     for mic_label in decisions:
         if not config.is_shared_mic(mic_label):
             raise AttributionError(
@@ -141,9 +173,11 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
     unresolved = []
     stream_counts = {}
 
+    ooc_count = 0
     for line_no, stream, body in read_indexed(indexed_path):
         stream_counts[stream] = stream_counts.get(stream, 0) + 1
         mic = config.shared_mic(stream)
+        table_ooc = ooc_reason(line_no, ooc_declared)
 
         if not mic:
             solo = config.solo_identity(stream)
@@ -161,8 +195,11 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
                 "identity": solo.identity,
                 "kind": solo.kind,
                 "character": solo.character,
+                "ooc": bool(table_ooc),
+                "note": table_ooc or "",
                 "source": "config",
             })
+            ooc_count += bool(table_ooc)
             continue
 
         line_decisions = decisions.get(stream, {}).get("lines", {}).get(str(line_no))
@@ -206,10 +243,11 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
                 "character": resolved["character"],
                 "voiced_by": resolved["voiced_by"],
                 "text": text,
-                "ooc": bool(decision.get("ooc", False)),
+                "ooc": bool(decision.get("ooc", False)) or bool(table_ooc),
                 "source": "decision",
-                "note": decision.get("note", ""),
+                "note": decision.get("note", "") or table_ooc or "",
             })
+            ooc_count += bool(decision.get("ooc", False)) or bool(table_ooc)
 
     identity_counts = {}
     for segment in segments:
@@ -227,6 +265,8 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
             for mic in config.shared_mics
         ],
         "stream_counts": stream_counts,
+        "ooc_ranges": [{"from": s, "to": e, "note": n} for s, e, n in ooc_declared["ranges"]],
+        "ooc_segments": ooc_count,
         "identity_counts": identity_counts,
         "unresolved_shared_mic_lines": unresolved,
         "violations": violations,
@@ -243,6 +283,9 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
     print(f"Attribution written: {out_path}")
     for key, count in sorted(identity_counts.items(), key=lambda item: -item[1]):
         print(f"  {count:>5}  {key}")
+    print(f"  {ooc_count} out-of-character segment(s) across "
+          f"{len(ooc_declared['ranges'])} declared range(s) and "
+          f"{len(ooc_declared['lines'])} declared line(s)")
     if unresolved:
         print(f"  {len(unresolved)} shared-mic line(s) still need decomposition "
               f"(first: L{unresolved[0]:04d})")
