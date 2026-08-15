@@ -1,8 +1,6 @@
 name: "Part 1: Excalidraw Transcribe"
 
 on:
-  schedule:
-    - cron: '0 6 * * *'  # 6 AM UTC daily
   push:
     branches:
       - main
