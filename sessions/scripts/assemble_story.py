@@ -95,8 +95,15 @@ def main():
             print(f"  - {e}")
         sys.exit(1)
 
+    full_raw_text = "\n".join(parts)
+    # Strip HTML comments like <!-- L0123 -->, <!-- RAW_RANGE... -->, and <!-- LEDGER... --> for final clean reader output
+    clean_story_text = re.sub(r"<!--\s*L\d+\s*-->", "", full_raw_text)
+    clean_story_text = re.sub(r"<!--\s*RAW_RANGE:.*?-->\n?", "", clean_story_text)
+    clean_story_text = re.sub(r"<!--\s*LEDGER:.*?-->\n?", "", clean_story_text)
+    clean_story_text = re.sub(r"\n{3,}", "\n\n", clean_story_text).strip() + "\n"
+
     with open(out_path, "w", encoding="utf-8") as f:
-        f.write("\n".join(parts))
+        f.write(clean_story_text)
 
     for i, a in enumerate(assumptions, 1):
         a["id"] = f"A-{i:03d}"

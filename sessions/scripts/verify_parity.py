@@ -80,9 +80,20 @@ def verify_parity(session_id):
     raw_lines = clean_lines(indexed_path)
     total_raw_lines = manifest.get("total_raw_lines")
 
-    # 4. Read story file
-    with open(story_path, "r", encoding="utf-8") as f:
-        story_content = f.read()
+    # 4. Read story content from intermediate block files in blocks_dir
+    blocks_dir = os.path.join(base_dir, "transcripts", "clean", "blocks")
+    parts = []
+    for b in manifest.get("scene_blocks", []):
+        scene_id = b["scene_id"]
+        start, end = b["line_range"]
+        if b.get("ooc", False):
+            parts.append(f"<!-- RAW_RANGE: [{start}, {end}] | SCENE_ID: {scene_id} | OOC -->\n")
+        else:
+            b_path = os.path.join(blocks_dir, f"{session_id}-scene-{scene_id:02d}.md")
+            if os.path.exists(b_path):
+                with open(b_path, "r", encoding="utf-8") as bf:
+                    parts.append(bf.read().strip() + "\n")
+    story_content = "\n".join(parts)
 
     # 5. Extract RAW_RANGE sections from story file
     # Pattern matches: <!-- RAW_RANGE: [start, end] | SCENE_ID: N -->

@@ -1,17 +1,35 @@
 <!-- RAW_RANGE: [1711, 1735] | SCENE_ID: 20 -->
 
-They came back to themselves in the clearing, eyes flickering open one after another, the map of the world still burning behind their lids. It was Pip who surfaced first — with a delighted little gasp she declared that *that* one had been way cooler than the last, and she was absolutely getting out of the stuff now, thanks. She rolled herself sideways, peeling her forehead free of the green fungus with a wet, undignified sound, and lay there breathing hard and grinning. <!-- L1711 -->
+As the vision faded, consciousness snapped back into their bodies like a bowstring released. The misty memory of ancient centuries dissolved, leaving them standing once more on the damp moss beneath the colossal petrified oak in the Center Grove.
 
-Iggy did not roll away. He sat up slow, staring at his own hands as though he had never owned them, and the words came out of him flat and stunned — his whole life, everything he had ever been told about where he came from, was a lie. Then, without another word, he crawled forward and pressed his palm flat against the region of the shell-map that marked his home, as if he could hold the truth of it down before it slipped away. <!-- L1713 -->
+Pip rolled out of the fungal ring, shaking her head as if shaking off water. "Whoa, that one was way cooler! I'm getting out of this stuff now!" <!-- L1711 -->
 
-Britt started — *huh?* — not sure whether he was breaking or waking. But across the clearing, Saffron simply nodded, calm as still water, and lifted one finger to the tortoise's shell. She began to draw. A circle, over the same patch of the map, and then again over the same lines, and again, tracing and retracing the shape as though the repetition were the only language left to her. <!-- L1715 -->
+Iggy stared down at the spirit tortoise's bark-like carapace in profound shock, pointing a shaking dirt-kin finger at the glowing mandala patterns tracing his underwater homeland. "My whole life is a lie!" Iggy choked out, his water goggles sloshing. <!-- L1713 -->
 
-Lomi got his feet under him and looked around at the rest of them, at Iggy's shaking hands and Saffron's endless circles and Pip catching her breath in the fungus. He said, dryly, that he'd only left Vumbua for the very first time this morning — so all things considered, this was a *lot* to take in. <!-- L1716 -->
+Beside him, Saffron nodded silently, her slender fingers tracing circular patterns over the glowing shell map as if tracing the sky-ziggurat of her people. <!-- L1715 -->
 
-Then several things happened at once. Professor Ink's head came up as she saw all their eyes switch back on together, and the thing cupped in her hand began to beep, insistent and rising. *You've done it*, she breathed, turning it over. *It's connected — it's connected. What happened?* <!-- L1717 -->
+Lomi leaned back against a mossy stone terrace, taking a slow, heavy breath. "Yeah, I just left Vumbua for the first time today, so this is a lot to take in." <!-- L1716 -->
 
-The speaking stone crackled a heartbeat later, and Professor Kante's voice came through it fast and electric. There was a spike, he said — a real spike in the resonance, they were over the threshold, they'd actually *done* it, somehow the people who touched the bark were remembering the history of the Mizizi and learning about Harmony, and it was running out through the whole network. As he spoke, small green shoots began to unfurl from the ground around them, thickest around Pip's heavily breathing form and springing up under Lomi's boots. Professor Ink laughed at the impossible sight of it and said their spark had been *knowledge* — that was all it took, storing what the clans had lost the same way Harmony Prime once had. <!-- L1719 -->
+Professor Ink held up her brass-bound resonant crystal device as it began to hum with a high, chiming pitch, flashing in brilliant pulses of teal and emerald light. "You've done it! It's connected! What happened?" <!-- L1717 -->
 
-Ignatius, watching the shoots climb, offered that maybe it was less about knowledge than about cooperation — and Ink allowed that it likely translated to the same thing in the end. Pip, delighted, scrambled up and went skipping around the clearing, palms brushing the earth, crowing that she was making the plants go bramble as fresh sprouts erupted under every footfall. And through it all Rill stood very still, understanding dawning over her face. If they could find the others now — if they knew where the clans were, and could connect them all — then they might yet stabilize the resonance decay and bring everyone home. She said it quietly, like a vow, like the first line of something enormous: she understood now. Momentum is life. <!-- L1729 -->
+Across the communication stone, Professor Kante's voice boomed over the speaker in breathless excitement. "Professor Ink, there is a spike in the resonance! We're over the threshold!" <!-- L1719 -->
 
-<!-- LEDGER: rendered=[1711, 1713, 1715, 1716, 1717, 1719, 1729] skipped=[] -->
+Rill gasped as fresh, vibrant green shoots suddenly broke through the petrified soil around their boots. "I think it just downloaded Harmony!"
+
+"Knowledge!" Professor Ink exclaimed, her raven hair catching the emerald light, her eyes wide with academic wonder. "Your spark is knowledge! That's all it took—storing information in here like we stored about the clans in Harmony Prime!"
+
+Ignatius crossed his arms, stepping up to the petrified trunk as embers flared at his cuffs, challenging her logic with earnest conviction. "I mean, I think it's less about knowledge and more about cooperation, right?" <!-- L1720 -->
+
+"Knowledge translates!" Professor Ink insisted, her hands gesturing excitedly. "They called them sparks, and the specific one for the Mizizi was storing information!" <!-- L1725 -->
+
+"Yeah, I guess so," Ignatius conceded with a thoughtful nod. <!-- L1726 -->
+
+"And now it downloaded that information by people going through the network!" Professor Ink beamed, writing furiously in her journal. <!-- L1727 -->
+
+Pip skipped around the ancient clearing as tiny yellow flowers and fresh ivy sprouts burst from the soil beneath her boots with every step. "Bramble! Bramble! I'm like you! I'm making the plants go, Bramble!" <!-- L1729 -->
+
+Rill stepped to the center of the mossy steps, looking across the sacred clearing at the five clan representatives—Ignatius of the Ash-Blood, Lomi of the Trench-Kin, Zephyr of the Fulgur, Saffron of the Renali, and Britt and Aggie of the Mizizi—gathered under the ancient petrified oak.
+
+"If we connect them all," Rill said softly, her blue hair blowing in the cool forest breeze, "then we'll stabilize the resonance decay and the clans can come out... Momentum is life." <!-- L1731 -->
+
+<!-- LEDGER: rendered=[1711, 1713, 1715, 1716, 1717, 1719, 1720, 1725, 1726, 1727, 1729, 1731] skipped=[] -->

@@ -22,9 +22,13 @@
     "scene_id": 5,
     "raw_lines": [459, 464, 484],
     "type": "speaker_attribution",
-    "assumption": "The mourning NPC 'Val' with red eyes over Kale, mourning Finch and the blonde 'potato arena' captain, is identified as Valerius Sterling (radio host cousin who watches academy events and knows the cadets). Line 464 condolences attributed in the manifest to 'Britt' are rendered as spoken by her PC Aggie, consistent with the scene beat 'Aggie offers condolences to Valerius Sterling.'",
-    "confidence": "medium",
-    "raw_text": "Val just looks up and his eyes are red / I'm sorry for your loss / what what is it for? I don't have that answer right now."
+    "assumption": "The line 'I don't have that answer right now' is spoken by Aggie in response to Val asking 'What is it for?'.",
+    "confidence": "high",
+    "raw_text": "Val just looks up and his eyes are red / I'm sorry for your loss / what what is it for? I don't have that answer right now.",
+    "review": {
+      "status": "verified",
+      "correction": "The line 'I don't have that answer right now' is spoken by Aggie (Kristina), not Val."
+    }
   },
   {
     "stage": "novelization",

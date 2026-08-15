@@ -31,8 +31,8 @@
     "scene_id": 9,
     "raw_lines": [875],
     "type": "ambiguous_audio",
-    "assumption": "GM references the caretaker girl as 'Will'; this is likely a garble but the reference is ambiguous, so rendered as an unnamed 'little girl who took care of you' per Ignatius's own phrasing rather than inventing a name.",
-    "confidence": "low",
+    "assumption": "GM reference 'Will' is a speech-to-text mishearing of NPC Rill (alias Real). The GM is asking Ignatius if he's referring to Rill.",
+    "confidence": "high",
     "raw_text": "You're referring to Will, right?"
   }
 ]

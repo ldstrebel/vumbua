@@ -1,61 +1,55 @@
 <!-- RAW_RANGE: [560, 708] | SCENE_ID: 7 -->
 
-## CHAPTER 4: NO ONE SAW A FLARE
+## CHAPTER 3: THE WADI SALVE AND THE ELECTRIC SPARK
 
-They were following the tortoise across the beach when a blur of blue hair swept over Britt's eyes and she was caught up in a fierce hug that smelled faintly of river water. It was Real. Her sister squeezed her tight, half-laughing, half-frantic, saying she'd been asking everywhere — no one had seen a flare, no one at all. Had Britt not used it? <!-- L0561 -->
+At the camp edge, Rill rushed out of the crowd, throwing her arms in a fierce embrace around Britt, smelling faintly of river water.
 
-Britt's stomach dropped. They'd had a flare, hadn't they — and clean forgotten it. "Oh," she breathed. "Shoot." <!-- L0563 -->
+"Britt! Oh, thank goodness!" Rill breathed, pulling back in frantic relief. "I've been asking everywhere—no one said they saw a flare! No one! Did you... did you not use it?!" <!-- L0561 -->
 
-Ignatius came up beside her, along with Lomi and Aggie jogging in to rejoin, and tried to explain. The idea had been to fire it if they were ever overwhelmed — but somehow they never had been. Once the swarm hit, it was all survival, and the flare had just slipped their minds. <!-- L0575 -->
+"Did we have a flare?" Britt asked, rubbing her neck. "Oh shoot... I really forgot." <!-- L0563 --> <!-- L0574 -->
 
-Real pulled back and stared at them, torn between exasperation and relief. They were idiots, she told them — idiots, and also brilliant, because they had survived when no one had any right to. The odds, she admitted, had not been great. <!-- L0578 -->
+"Well, the idea was that we would use it if we were ever overwhelmed," Ignatius explained, rubbing his neck. "And like, once we were well-whelmed... it was never overwhelmed! And we kind of just forgot about it. Then it was all about survival for a little bit." <!-- L0575 -->
 
-Britt jerked a thumb at Ignatius. Really, Real ought to know that Natty over here had crafted a perfect lasso out of thin air, and it had helped more than she could say. <!-- L0581 -->
+"You're an idiot!" Rill laughed, wiping a tear. "You're an idiot! I mean, y'all are brilliant because you survived—the odds were not great—but still idiots." <!-- L0578 -->
 
-Real confessed she'd never quite understood how those things were useful in hunting — but it sounded pretty cool.
+"Well, Rill, you have to know that Naddie over here crafted a perfect Lassi Zizi out of thin air and it really, really helped!" Britt smiled, crediting Aggie. <!-- L0581 -->
 
-"Yeah," Ignatius said, warming to it. "And I don't know who said you can't herd cats, because she definitely herded some cats." <!-- L0585 -->
+"And I don't know who said that you can't herd cats," Ignatius added, "cause she definitely herded some cats!" <!-- L0585 -->
 
-Britt's face changed. She caught her sister's arm. "Real — do you see the tortoise? In front of us? Can you see that too?" <!-- L0588 -->
+"I never really understood how those things were useful in hunting if I'm being completely honest," Rill said, laughing with the group.
 
-Britt only gestured at the tortoise. Real's brow furrowed — *whoa* — what was that? *What does it look like,* Britt wanted to say. Real turned back and pressed again: no, but really, where were they going? She was trying to figure out why they kept marching so perfectly straight.
+After a moment, Britt pointed to the Spirit Tortoise plodding through the crowd. "Rill, do you see the tortoise in front of us? Can you see that too?" <!-- L0588 -->
 
-"Isn't that your god turtle thing?" Ignatius asked, half to Britt, half to Real.
+"I... I guess I recognize that as something I was taught to avoid at all costs!" Rill gasped, stepping back in shock. "Why is that here?!" <!-- L0589 -->
 
-Real followed Britt's gaze and went still. Yeah, she said slowly, she knew that one — and she was glad they still had a sense of humor after everything. But then she blinked. *What?* And Britt remembered, then, that Real had only been with the clans for a year — though surely, she thought, she would have known about this. Real admitted she should. The *kasa* — she used the old clan word — yes, she recognized it. It was something she'd been taught to avoid at all costs. Why was it here? Should it even be here? <!-- L0589 -->
+"Yeah, exactly!" Britt agreed. "That's why we're following it!" <!-- L0615 -->
 
-"Yeah," Britt said. "Exactly. That's why we're following it." <!-- L0615 -->
+"Okay, even more important that I get you to Professor Ink now!" Rill urged, tugging on Britt's arm toward the tall spider-walker. "Please come! This is part of her theory!" <!-- L0616 -->
 
-That settled something in Real's face — and hardened it. Then it was even more important, she said, that she get them to Professor Ink now. She started tugging at Britt's arm, steering them along the beach — not quite the tortoise's line, but offset from it — toward the pier vehicles where a tall walker stood among the docked hospital ships, a quill sigil painted on its flank. They had to talk to Ink, she insisted. This was crazy. This was part of Ink's whole theory. <!-- L0616 -->
+Ignatius, trying to get the group moving, turned to Aggie. "Maybe we split up in Mizizi, and that way one can follow the god turtle." <!-- L0619 -->
 
-Ignatius raised a hand. "Maybe we split up," he offered. "The rest of us go our separate ways so at least one of us can keep following the god turtle." <!-- L0619 -->
+"Hey, that's also great news," Lomi noted, holding up his active flare. "If the god turtle does anything crazy, we have a flare." <!-- L0625 -->
 
-Lomi caught on. "Hey — that's also great news," he said. "If the god turtle does anything crazy, we still have a flare." <!-- L0625 -->
+"I'll go with the one following the god turtle," Ignatius volunteered, "and if something happens, I can just fly back." <!-- L0635 -->
 
-*It's a good point,* Ignatius allowed, and Britt muttered that that was exactly why they'd saved it. Real, meanwhile, admitted she didn't even remember Aggie's name, then caught herself — sorry, she was having a hard time with the loss, and this was all a lot.
+"Is Professor Kante up there?" Lomi asked, looking toward the walker's bridge. <!-- L0644 -->
 
-"I'll go with whoever's following the god turtle," Ignatius said. "If something happens, I can just fly back." <!-- L0635 -->
+"No, but we have stones," Rill explained. <!-- L0653 -->
 
-Real said that was fine — good, even — and started off toward the walker at a near sprint.
+"It's a hard sell to leave this turtle for Rill, but you're right," Britt agreed, nodding. "You remind me about my imminent rash and I can go to the professor." <!-- L0657 -->
 
-"Wait," Lomi called after her. "Is Professor Kante up there?" <!-- L0644 -->
+"All right, Britt, follow the god turtle..." Ignatius said.
 
-No, Real said over her shoulder — but they had the stones. <!-- L0653 -->
+"Wait, am I following the god turtle or is Aggie?" Britt asked. <!-- L0675 -->
 
-Ignatius was already sorting people, asking who wanted the turtle and who wanted the professor. Real turned to Britt: did she want to come to Professor Ink? Ink might know something about her shell thing.
+"Sorry, Aggie! Sorry!" Ignatius apologized sheepishly. "All Mizizi look the same to me!" <!-- L0677 -->
 
-Britt hesitated. "Yeah," she said. "It's a hard sell to leave this turtle, honestly. But you're right." She looked to Ignatius. "Remind me about my imminent rash, and I'll go to the professor." <!-- L0657 -->
+"Whoa!" Britt exclaimed. "Have you never seen a mushroom turtle?!" <!-- L0683 -->
 
-Real promised to keep her in the loop.
+Pip jumped up and smacked Ignatius right across the face. "That's so rude!" <!-- L0690 -->
 
-Ignatius kept trying to organize it and kept fumbling the names — was Britt on the god turtle, or Aggie? "Sorry, Aggie," he said finally. "Sorry. Humans don't look the same to me." <!-- L0677 -->
+"Honestly, you guys are the first ones I've met..." Ignatius rubbed his cheek. "I apologize, I do not deal with loss well at all!" <!-- L0696 -->
 
-Real gaped at him. "Have you never seen a mushroom turtle?" <!-- L0683 -->
+Rill led Britt, Lomi, Aggie, and Iggy up the boarding ladder into Professor Ink's spider walker.
 
-Pip took that as his cue and leapt up to smack Ignatius square in the face. *That's so rude,* Real murmured, while Lomi tried to smooth it over — Natty wasn't dealing with the loss well. <!-- L0690 -->
-
-He gestured vaguely at Britt and Aggie — clearly different colors, he insisted, he could see it — while Real looked from one to the other, then down at herself, unconvinced. *I don't see it,* she said. "Look, we're all going," Ignatius said, and then, quieter: "No. I do not deal with loss well at all. I apologize." <!-- L0696 -->
-
-And so it was settled: Ignatius, Iggy, and Aggie would stay with the tortoise, and Lomi and Britt would head for Professor Ink.
-
-<!-- LEDGER: rendered=[561, 563, 575, 578, 581, 585, 588, 589, 615, 616, 619, 625, 635, 644, 653, 657, 677, 683, 690, 696] skipped=[] -->
+<!-- LEDGER: rendered=[561, 563, 574, 575, 578, 581, 585, 588, 589, 615, 616, 619, 625, 635, 644, 653, 657, 675, 677, 683, 690, 696] skipped=[] -->

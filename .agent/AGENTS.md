@@ -145,3 +145,16 @@ Every image prompt must be **fully self-contained.** The image generator has zer
 *   **Prohibition of Misrepresenting Internal Verification Scripts:** Scripts like `audit_manifest.py` only verify that extracted audio manifest blocks match the novelization file (`sN-clean-story.md`). They DO NOT verify parity against the raw audio transcript (`sN-raw.md`). The AI must NEVER claim a manifest script pass proves 100% dialogue parity with the raw recording.
 *   **Zero Truncation of Gameplay Beats:** Every player action, NPC interaction, comedic beat, lore reveal, and environmental transition present in `sN-raw.md` must be fully represented in `sN-clean.md` and novelized in `sN-clean-story.md`.
 
+---
+
+## 11. Differential Gap Audit & Post-Mortem Protocol
+
+*   **Mandatory Skill Usage:** Whenever the user identifies a missing gap, dropped dialogue interjection, or turn-order error, the model MUST activate the `session-audit` skill (`.agents/skills/session-audit/SKILL.md`).
+*   **4-Pass Verification Suite Gate:** Before presenting any clean transcript or novelized story file for approval, run:
+    1. `python sessions/scripts/verify_manifest.py sN`
+    2. `python sessions/scripts/verify_parity.py sN`
+    3. `python sessions/scripts/audit_transcript_gaps.py sN`
+    4. `python sessions/scripts/audit_s12_raw_coverage.py`
+*   **Post-Mortem Logging:** Every identified failure mode (gist truncation, keyword coarseness, OOC leaks, phonetic STT errors) must be documented in the Post-Mortem Register in `session-audit/SKILL.md` to prevent regression across future sessions.
+
+

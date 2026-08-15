@@ -1,7 +1,7 @@
 {
   "session_id": "s12",
   "indexed_file": "sessions/transcripts/index/s12-raw-indexed.md",
-  "raw_file_hash": "d6c3cbdc521a035fe1bf011076ad723ba9a84b70121829764972d18fccda5df7",
+  "raw_file_hash": "884c99fa200b331f13f7692d7cbe3a53431e7d3ee9e7a50ff4a53bf00a608d61",
   "total_raw_lines": 1821,
   "scene_blocks": [
     {
@@ -388,6 +388,11 @@
           "gist": "Realizing they had a flare but forgot it."
         },
         {
+          "line": 574,
+          "speaker": "Britt",
+          "gist": "Britt admitting she really did forget."
+        },
+        {
           "line": 575,
           "speaker": "Ignatius",
           "gist": "Saying they were never overwhelmed, just survived."
@@ -456,6 +461,11 @@
           "line": 657,
           "speaker": "Britt",
           "gist": "Hesitating to leave turtle but agreeing to go."
+        },
+        {
+          "line": 675,
+          "speaker": "Britt",
+          "gist": "Britt asking if she or Aggie is following the turtle."
         },
         {
           "line": 677,
@@ -653,6 +663,16 @@
         },
         {
           "line": 963,
+          "speaker": "Lomi",
+          "gist": "Lomi presenting the choice."
+        },
+        {
+          "line": 964,
+          "speaker": "GM",
+          "gist": "Lucky grieving that Lomi is supposed to know."
+        },
+        {
+          "line": 965,
           "speaker": "Lomi",
           "gist": "Lomi calling this a grown-up decision."
         },
@@ -897,14 +917,39 @@
           "gist": "Professor Inc. noting turtle is off heading."
         },
         {
+          "line": 1343,
+          "speaker": "Lomi",
+          "gist": "Lomi calling out 2 degree heading change."
+        },
+        {
+          "line": 1348,
+          "speaker": "GM",
+          "gist": "Professor Inc. locking onto tortoise heading."
+        },
+        {
           "line": 1366,
           "speaker": "Lomi",
           "gist": "Lomi proposing course correction."
         },
         {
+          "line": 1371,
+          "speaker": "GM",
+          "gist": "Professor Inc. testing 40-second amnesiac note."
+        },
+        {
           "line": 1377,
           "speaker": "GM",
           "gist": "Professor Inc. adjusting heading two degrees."
+        },
+        {
+          "line": 1378,
+          "speaker": "GM",
+          "gist": "Professor Inc. noting so much we don't know."
+        },
+        {
+          "line": 1385,
+          "speaker": "GM",
+          "gist": "Professor Inc. asking about other clans."
         },
         {
           "line": 1387,
@@ -915,6 +960,31 @@
           "line": 1392,
           "speaker": "GM",
           "gist": "Professor Inc. forgetting the course change."
+        },
+        {
+          "line": 1290,
+          "speaker": "Lomi",
+          "gist": "Lomi asking how hard the walker is to drive."
+        },
+        {
+          "line": 1310,
+          "speaker": "Lomi",
+          "gist": "Lomi asking pilot if he sees what the turtle is doing."
+        },
+        {
+          "line": 1313,
+          "speaker": "GM",
+          "gist": "Goblin pilot saying he just follows the arrow."
+        },
+        {
+          "line": 1316,
+          "speaker": "Lomi",
+          "gist": "Lomi saying that's pretty weird."
+        },
+        {
+          "line": 1321,
+          "speaker": "GM",
+          "gist": "Professor Inc. says it's not the map, it's the turtle."
         },
         {
           "line": 1395,
@@ -951,7 +1021,17 @@
         {
           "line": 1413,
           "speaker": "GM",
-          "gist": "Professor Inc. asking if medicine is done."
+          "gist": "Professor Inc. entering lab, asking what's happening."
+        },
+        {
+          "line": 1414,
+          "speaker": "Britt",
+          "gist": "Britt starting to say delayed."
+        },
+        {
+          "line": 1417,
+          "speaker": "Britt",
+          "gist": "Britt completing: delayed."
         },
         {
           "line": 1418,
@@ -961,25 +1041,50 @@
         {
           "line": 1420,
           "speaker": "Ignatius",
-          "gist": "Asking if they are the only ones seeing it."
+          "gist": "Ignatius asking if they're the only ones seeing the turtle."
+        },
+        {
+          "line": 1422,
+          "speaker": "Ignatius",
+          "gist": "Ignatius dropping expletive asking about turtle."
+        },
+        {
+          "line": 1424,
+          "speaker": "Ignatius",
+          "gist": "Ignatius completing question about turtle."
         },
         {
           "line": 1425,
           "speaker": "GM",
-          "gist": "Professor Inc. confirming the forgetful phenomenon."
+          "gist": "Professor Inc. — everyone can see it, problem is remembering."
         },
         {
           "line": 1428,
           "speaker": "Ignatius",
-          "gist": "Asking if they remember the turtle."
+          "gist": "Ignatius asking everyone to raise hand if they remember turtle."
+        },
+        {
+          "line": 1429,
+          "speaker": "GM",
+          "gist": "Rill's partial memory of talking about turtles."
         },
         {
           "line": 1443,
           "speaker": "GM",
-          "gist": "Professor Inc. showing notes to trust turtle."
+          "gist": "Professor Inc. shows note, explains amnesiac field, asks theories."
         },
         {
           "line": 1444,
+          "speaker": "Britt",
+          "gist": "Britt explaining Mizizi cultural history with the tortoises."
+        },
+        {
+          "line": 1447,
+          "speaker": "Britt",
+          "gist": "Britt saying this one approached them so they must follow."
+        },
+        {
+          "line": 1449,
           "speaker": "Britt",
           "gist": "Britt saying they must follow at all costs."
         },
@@ -989,29 +1094,144 @@
           "gist": "Professor Inc. asking for interaction rules."
         },
         {
+          "line": 1452,
+          "speaker": "GM",
+          "gist": "Professor Inc. asking if there is a rule to follow."
+        },
+        {
           "line": 1455,
           "speaker": "Britt",
-          "gist": "Britt stating rule is to leave them be."
+          "gist": "Britt starting to explain the social norm."
+        },
+        {
+          "line": 1457,
+          "speaker": "Britt",
+          "gist": "Britt saying it's a social norm."
+        },
+        {
+          "line": 1461,
+          "speaker": "Britt",
+          "gist": "Britt pointing out that it looked at them first."
+        },
+        {
+          "line": 1463,
+          "speaker": "Britt",
+          "gist": "Britt saying 'us'."
         },
         {
           "line": 1466,
           "speaker": "GM",
-          "gist": "Professor Inc. noting turtle collected them."
+          "gist": "Professor Inc. noting turtle looked at specific people."
+        },
+        {
+          "line": 1469,
+          "speaker": "Britt",
+          "gist": "Britt saying turtle stopped when Pip and Bramble weren't with them."
+        },
+        {
+          "line": 1472,
+          "speaker": "Lomi",
+          "gist": "Lomi asking if it was Pip or Bramble."
+        },
+        {
+          "line": 1473,
+          "speaker": "Britt",
+          "gist": "Britt saying they had both stopped."
+        },
+        {
+          "line": 1475,
+          "speaker": "Britt",
+          "gist": "Britt clarifying they started to go a different direction."
+        },
+        {
+          "line": 1482,
+          "speaker": "Lomi",
+          "gist": "Lomi saying Lucky is pointing at himself."
+        },
+        {
+          "line": 1484,
+          "speaker": "Lomi",
+          "gist": "Lomi completing Lucky self-nomination."
         },
         {
           "line": 1489,
           "speaker": "GM",
-          "gist": "Professor Inc. stating social norms were broken."
+          "gist": "Professor Inc. noting social norms were broken and things changed."
+        },
+        {
+          "line": 1491,
+          "speaker": "GM",
+          "gist": "Professor Inc. asking if breaking norms resulted in change."
+        },
+        {
+          "line": 1492,
+          "speaker": "Britt",
+          "gist": "Britt confirming yes."
+        },
+        {
+          "line": 1494,
+          "speaker": "Britt",
+          "gist": "Britt saying their friend was stuck in there."
+        },
+        {
+          "line": 1506,
+          "speaker": "Lomi",
+          "gist": "Lomi adding that turtle jumped off a super high branch."
+        },
+        {
+          "line": 1512,
+          "speaker": "GM",
+          "gist": "Professor Inc. admitting she hasn't seen the turtle at all."
+        },
+        {
+          "line": 1514,
+          "speaker": "GM",
+          "gist": "Professor Inc. saying that was unprofessional."
+        },
+        {
+          "line": 1516,
+          "speaker": "GM",
+          "gist": "Professor Inc. summarizing what she's been told."
+        },
+        {
+          "line": 1517,
+          "speaker": "Lomi",
+          "gist": "Lomi restating the branch jump."
+        },
+        {
+          "line": 1519,
+          "speaker": "Lomi",
+          "gist": "Lomi completing branch statement."
         },
         {
           "line": 1520,
           "speaker": "GM",
-          "gist": "Professor Inc. asking if they remember Exchange."
+          "gist": "Professor Inc. wandering out, asking about the other clans."
+        },
+        {
+          "line": 1522,
+          "speaker": "GM",
+          "gist": "Professor Inc. saying we have you, Zephyr, Ignatius."
+        },
+        {
+          "line": 1523,
+          "speaker": "Lomi",
+          "gist": "Lomi beginning to answer."
+        },
+        {
+          "line": 1525,
+          "speaker": "Lomi",
+          "gist": "Lomi mentioning Natty is with them."
         },
         {
           "line": 1528,
           "speaker": "GM",
-          "gist": "Lomi remembering Trench-Kin female and Renali male."
+          "gist": "Lomi recovering memory of Trench-Kin female and Renali male from Exchange."
+        },
+        {
+          "line": 1530,
+          "speaker": "GM",
+          "gist": "Professor Inc. points at Iggy and Rill brings Saffron down."
         }
       ],
       "key_narrative_beats": [
@@ -1098,6 +1318,46 @@
           "line": 1583,
           "speaker": "GM",
           "gist": "Tortoise touching the tree and collapsing."
+        },
+        {
+          "line": 1584,
+          "speaker": "Ignatius",
+          "gist": "Ignatius saying nothing should touch that."
+        },
+        {
+          "line": 1585,
+          "speaker": "Iggy",
+          "gist": "Iggy blinking oh."
+        },
+        {
+          "line": 1586,
+          "speaker": "Ignatius",
+          "gist": "Ignatius cautioning about fungal ring."
+        },
+        {
+          "line": 1587,
+          "speaker": "GM",
+          "gist": "Professor Ink noting passes right through."
+        },
+        {
+          "line": 1588,
+          "speaker": "Ignatius",
+          "gist": "Ignatius realizing passes through not passed out."
+        },
+        {
+          "line": 1590,
+          "speaker": "Ignatius",
+          "gist": "Ignatius expressing relief."
+        },
+        {
+          "line": 1593,
+          "speaker": "Ignatius",
+          "gist": "Ignatius saying oh no."
+        },
+        {
+          "line": 1596,
+          "speaker": "GM",
+          "gist": "Professor Ink explaining antidote salve radius."
         },
         {
           "line": 1598,
@@ -1234,12 +1494,32 @@
           "gist": "Professor Kante reporting resonance spike over stone."
         },
         {
+          "line": 1720,
+          "speaker": "Ignatius",
+          "gist": "Ignatius challenging that it is about cooperation."
+        },
+        {
+          "line": 1725,
+          "speaker": "GM",
+          "gist": "Professor Ink clarifying storing information spark."
+        },
+        {
+          "line": 1726,
+          "speaker": "Ignatius",
+          "gist": "Ignatius conceding I guess so."
+        },
+        {
+          "line": 1727,
+          "speaker": "GM",
+          "gist": "Professor Ink stating information downloaded."
+        },
+        {
           "line": 1729,
           "speaker": "GM",
           "gist": "Pip skipping and making plants go bramble."
         },
         {
-          "line": 1729,
+          "line": 1731,
           "speaker": "GM",
           "gist": "Rill stating momentum is life climax speech."
         }

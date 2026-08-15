@@ -13,8 +13,8 @@
     "scene_id": 13,
     "raw_lines": [1158, 1160],
     "type": "ambiguous_audio",
-    "assumption": "Ignatius's garbled 'Thanks to Brian Naggi brand trees' repaired to a reference to the branching trees/roots network that kept his people alive in the forest; treated as a non-ledger table-talk beat and folded into narration.",
-    "confidence": "low",
+    "assumption": "Speech-to-text mishearing of 'Brent and Aggie' ('Brian Naggi' -> 'Brent and Aggie'). Ignatius (played by Brent) is thanking the team effort of himself and Aggie for how they survived in the forest.",
+    "confidence": "high",
     "raw_text": "Thanks to Brian Naggi brand trees so we didn't die in the forest. Was actually very helpful."
   },
   {

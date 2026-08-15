@@ -50,6 +50,15 @@ def main() -> None:
     dossier_path = ROOT / "review" / f"{session}-dossier.md"
     dossier_path.parent.mkdir(exist_ok=True)
 
+    old_reviews = {}
+    if assumptions_path.exists():
+        try:
+            for old_a in json.loads(assumptions_path.read_text()):
+                if "id" in old_a and "review" in old_a:
+                    old_reviews[old_a["id"]] = old_a["review"]
+        except Exception:
+            pass
+
     assumptions = json.loads(assumptions_path.read_text())
     para_of = paragraph_map(story_path.read_text())
 
@@ -64,12 +73,16 @@ def main() -> None:
             if paras
             else "(not rendered as dialogue — omitted, fused into narration, or covered by a ledger skip)"
         )
-        entry.setdefault("review", {"status": "pending", "correction": ""})
+        eid = entry.get("id")
+        if eid and eid in old_reviews and old_reviews[eid].get("status") != "pending":
+            entry["review"] = old_reviews[eid]
+        else:
+            entry.setdefault("review", {"status": "pending", "correction": ""})
 
     assumptions_path.write_text(json.dumps(assumptions, indent=2) + "\n")
 
     wanted = {"low", "medium"} if not all_conf else {"low", "medium", "high"}
-    items = [a for a in assumptions if a.get("confidence") in wanted]
+    items = [a for a in assumptions if a.get("confidence") in wanted and a.get("review", {}).get("status", "pending") == "pending"]
     order = {"low": 0, "medium": 1, "high": 2}
     items.sort(key=lambda a: (order.get(a.get("confidence"), 9), a.get("scene_id", 0)))
 

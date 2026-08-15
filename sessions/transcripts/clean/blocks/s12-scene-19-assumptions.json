@@ -21,9 +21,9 @@
     "stage": "novelization",
     "scene_id": 19,
     "raw_lines": [1651, 1652, 1655],
-    "type": "invented_connective",
-    "assumption": "The specific sensory imagery of the four clan-origin locales (terraced sky-ziggurats, ash-choked volcanic halls, a drowned sea-floor people, the living pre-petrified Mizizi forest) was elaborated from the manifest key_narrative_beats; the raw lines only contain OOC excitement ('This is awesome', 'dope as f***') rather than described vision content.",
-    "confidence": "low",
+    "type": "paraphrase",
+    "assumption": "Ignatius reacting to his personal journey through the four acts of the vision ('This is awesome', 'dope as f***', 'Harmony is going in reverse'). Rendered as Ignatius experiencing the ancestral vision unwinding backwards.",
+    "confidence": "high",
     "raw_text": "This is awesome. / Oh, this is dope as f***."
   }
 ]

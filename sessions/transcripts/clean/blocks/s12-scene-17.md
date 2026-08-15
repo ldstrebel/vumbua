@@ -1,15 +1,23 @@
 <!-- RAW_RANGE: [1578, 1600] | SCENE_ID: 17 -->
 
-## CHAPTER 13: THE OLD GROWTH
+## CHAPTER 6: THE WANTILA FUNGUS BARRIER
 
-They took their long rests. They ate. And after a while, the turtle began to slow.
+The spider walker came to a halt at the perimeter of a deep, twilight-shadowed clearing in the heart of the Mizizi forest. Before them stood the oldest petrified tree in Vumbua—a colossal oak whose dark bark-like trunk rose hundreds of feet into the canopy, its roots wrapped around ancient mossy stone steps. Carved deep into the center of the trunk was a worn, Native American-inspired geometric petroglyph mandala. <!-- L1579 -->
 
-By now they had a system. Anyone could track Mwaza-Kasa so long as they never looked away, and once you were watching you could speak of it freely — most of it written down anyway, charts and graphs papering the cockpit walls: *this is how you track it, this is what you do.* The trees closed in as the walker pressed deeper, the growth older and older, until the trunks stood so tight together that the Scarab could go no farther and the party had to disembark. For Aggie and Britt, this was ground the elders had explicitly forbidden — the one place the old growth had never been cut, a clearing the young generation was never quite told how to find. Its location had been an open secret, obscured on purpose, and it had haunted their dreams: this was where the network would take you if you had no anchor, where it would dump you out. They coordinated a scouting party and worked their way through the woods until they came upon the largest tree any of them had ever seen — a redwood-scaled giant standing alone in a clearing of its own, ringed by that green fungus that was supposed to grow nowhere else. <!-- L1579 -->
+Surrounding the base of the sacred tree was a thirty-foot-wide circular ring of dense, glowing neon-green Wantila fungus, pulsating with toxic Aetheric spores. "They're cultivating it!" Rill gasped, stepping back. <!-- L1581 -->
 
-Real gasped in horror at the sight of it. *They're cultivating it,* she breathed. *How?* — the question falling out of her under her breath as she stared. And just outside the ring of green, the tortoise sat waiting, looking back at the party as they cleared the last of the brush. It regarded them one at a time, meeting the eyes of nearly everyone who had ridden the craft. <!-- L1581 -->
+The spirit tortoise walked straight into the fungal radius, touching the petrified oak trunk. <!-- L1583 -->
 
-Then it walked to the tree, laid a stump against the bark — paw, foot, whatever the word for it was — and collapsed. Ignatius flinched hard: he did not think anything should touch that. Iggy started forward through the fungus, and Ignatius watched, stunned, certain he'd just seen the tortoise touch the tree and die on the spot. Not immediately, the reality corrected itself — Iggy walked through the thirty-foot radius of fungus and came out fine, powering through as if it were nothing. <!-- L1583 -->
+Ignatius held up his hand, shielding his face from the eerie green glow. "I don't think that anything should touch that," Ignatius cautioned, eyeing the thick fungal ring. <!-- L1584 -->
 
-But it was dense here. As they watched, the tortoise's spark-shell began to gray, subtle but faster than anything they'd had to endure before. Britt held up a hand: *let's not do what that guy did.* One second. She had enough antidote for maybe eight of them to drink — though she was blunt that it would not stop the decay, only slow it; if they walked into that ring they would still need to find her home to be cured. Aggie, she decided, would go instead to one of the other trees, skirting the fungus, to ask if they had anything to say. But the trees here were quiet — almost stone the longer you looked, and the longer you looked, the less alive they seemed. <!-- L1598 -->
+Iggy stepped up to the edge of the fungal radius, peering through his water-filled copper goggles. "Oh," Iggy blinked. <!-- L1585 --> <!-- L1586 -->
 
-<!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[] -->
+"He passes right through the fungus stuff," Professor Ink pointed out, watching the spirit tortoise wade through the glowing green spores without hesitation. <!-- L1587 -->
+
+"Oh, passes through!" Ignatius realized, stepping back. "I thought you said he passed out! I thought we just watched the tortoise touch it and just die, and I was like, 'Oh, oh no!'" <!-- L1588 --> <!-- L1590 --> <!-- L1593 -->
+
+Professor Ink chuckled softly. "No, not immediately," she reassured him. "You can walk through this thirty-foot radius around the tree if you drink the antidote salve." <!-- L1596 -->
+
+"I have enough salve for eight people," Rill informed the squad. <!-- L1598 -->
+
+<!-- LEDGER: rendered=[1579, 1581, 1583, 1584, 1585, 1586, 1587, 1588, 1590, 1593, 1596, 1598] skipped=[] -->
