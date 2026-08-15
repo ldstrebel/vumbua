@@ -98,9 +98,10 @@ read as `[[Britt]]`, `[[Iggy]]`, `[[Ignatius]]` through the pre-session Wi-Fi an
 chatter: 203 of 918 PC segments sat inside stretches the GM's own decisions already marked as
 table talk. Out-of-character is a fact about the *table*, so `s12-attribution-decisions.json` now
 declares it table-wide, in `ooc_ranges` (L0093–L0230 pre-session, L1646–L1708 while everyone reads
-the texted storyboard, L1731–L1821 wrap-up) plus 26 scattered `ooc_lines` (rules questions, "John
-is saying this not Ignatius", the GM's NPC-voice mix-up). Anything they cover is labelled with the
-**person**: `[[Sophie]] (out of character)`, not `[[Britt]]`. 339 segments are now out of character.
+the texted storyboard, L1731–L1821 wrap-up) plus 34 scattered `ooc_lines` (rules questions, "John
+is saying this not Ignatius", the character-sheet/Roll20 delivery asides threaded through play, the
+GM's NPC-voice mix-up). Anything they cover is labelled with the **person**:
+`[[Sophie]] (out of character)`, not `[[Britt]]`. 347 segments are now out of character.
 Boundaries were read off the raw lines; the criterion is written into the file — real-world/table/
 meta content is out of character, while a player narrating their own character's action in the
 third person is still play and keeps the character label.
