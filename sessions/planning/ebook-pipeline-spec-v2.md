@@ -24,9 +24,14 @@ STAGE 0  Session Config & Mic Gate          [deterministic + human]
 STAGE 1  Line Indexing & Attribution        [deterministic + human gate on low-confidence]
 STAGE 2  Scene Manifest & Dialogue Ledger   [LLM proposes, Python verifies]
 STAGE 3  Micro-Chunk Novelization           [LLM, one block at a time]
-         └─ emits: scene.md + state.json + audio.json + assumptions.json
+         └─ emits: scene.md + state.json + assumptions.json
 STAGE 4  3-Layer Editorial Suite            [Python lint → Showrunner → Cold Reader]
 STAGE 5  Assembly & Parity Gate             [deterministic, hard-fail]
+         └─ also extracts audio.json deterministically (Python, 0 tokens)
+
+─── Primary milestone: validated sN-clean-story.md + per-scene audio.json ───
+
+Downstream pipelines (on-demand, decoupled — see §3.7):
 STAGE 6  Chapter Mapping                    [deterministic + bounded LLM assist]
 STAGE 7  EPUB Packaging                     [deterministic]
 STAGE 8  Audio Preflight & TTS Batch        [deterministic math → API]
@@ -84,14 +89,13 @@ STAGE 8  Audio Preflight & TTS Batch        [deterministic math → API]
    rendered: [240, 243, ...]
    skipped_ooc: [255]
    assumption_refs: [A-003, A-007]
-   audio_segments: 14          <- count check against audio.json
 -->
 ```
 
 ### 2.5 Context Bridge — `clean/blocks/sN-scene-XX-state.json`
 As specified in v1 (~200 tokens): `location_and_environment`, `characters_present[]`, `key_items_or_props[]`, `immediate_preceding_action`, `emotional_tone_or_tension`. **Emitted by the novelization step, consumed by the next block.**
 
-### 2.6 Audio Manifest — `clean/blocks/sN-scene-XX-audio.json`  *(NEW — first-class artifact)*
+### 2.6 Audio Manifest — `clean/blocks/sN-scene-XX-audio.json`  *(NEW — first-class artifact, extracted by Python)*
 ```json
 {
   "scene_id": 3,
@@ -102,7 +106,9 @@ As specified in v1 (~200 tokens): `location_and_environment`, `characters_presen
   "char_counts": { "Narrator": 412, "Ignatius": 33 }
 }
 ```
-- Generated **during** novelization, while speaker identity is certain.
+- **Extracted deterministically by Python during Stage 5 assembly — never emitted by the LLM.** The novelization LLM writes only creative artifacts (`scene.md` + `state.json` + `assumptions.json`); it is never asked to do JSON bookkeeping or character arithmetic mid-prose (cognitive-overload failure mode: rushed prose or malformed JSON).
+- Extraction algorithm: each rendered turn carries a `<!-- Lxxxx -->` anchor; the manifest `dialogue_ledger` maps every line → speaker. Python parses each scene block, matches quoted dialogue to its nearest anchor, attributes via `anchor → ledger → speaker`, assigns unquoted narration to `Narrator`, and counts characters arithmetically.
+- **Orphan handling:** any quoted segment that cannot be attributed to an anchored ledger line is *not* guessed — it is flagged into the parity report for human ruling (prose quotes aren't always verbatim transcript: Tier-B narration, merged lines).
 - `audio.json` segment count must equal `rendered` ledger count (parity cross-check).
 - `char_counts` is precomputed per speaker — the "backup math" that isolates broken text and gives exact TTS cost without tokens.
 - A scene-local phonetics map (`"Mwaza-Kasa": "mm-WAH-zah KAH-sah"`) may be attached for TTS tuning.
@@ -146,32 +152,39 @@ Persisted across sessions; updated at each session's end by the Showrunner pass:
 
 ### Stage 3 — Micro-Chunk Novelization
 - Input: one scene block + previous `state.json` + campaign ledger + canon config.
-- Output: all four artifacts (`.md`, `state.json`, `audio.json`, `assumptions.json`), written atomically.
+- Output: three creative artifacts (`.md`, `state.json`, `assumptions.json`), written atomically. `audio.json` is **not** emitted here — it is derived deterministically at Stage 5.
 - Prose rules enforced (from the Ebook Standard): quoted dialogue only, dedicated paragraph per speaker change, no embedded italic dialogue, full comedic arcs (Setup→Escalation→Punchline→Reaction), Tier-B player narration → narrator prose, game-state questions → sensory observation.
 
 ### Stage 5 — Assembly & Parity Gate *(hardened)*
 For every non-OOC block, verify **all** of:
 1. `RAW_RANGE` header matches manifest exactly.
-2. Every `dialogue_ledger` line appears in the block's `rendered`/`skipped_ooc`/`assumption_refs` lists — **rendered lines must have a matching `<!-- Lxxxx -->` anchor AND a corresponding `audio.json` segment.**
-3. `audio.json` segment count == rendered count; every segment's `source_lines` ⊆ rendered.
-4. Layer-1 lint passes (leaks, embedded italics, phonetic drift, tense).
-5. Block content hash recorded; a re-cut manifest auto-invalidates stale blocks.
+2. Every `dialogue_ledger` line appears in the block's `rendered`/`skipped_ooc`/`assumption_refs` lists — **rendered lines must have a matching `<!-- Lxxxx -->` anchor in the prose.**
+3. `audio.json` extraction succeeds: every quoted dialogue segment attributes to an anchored ledger line; **orphan quotes are flagged to the parity report, never guessed.**
+4. `audio.json` segment count == rendered count; every segment's `source_lines` ⊆ rendered.
+5. Layer-1 lint passes (leaks, embedded italics, phonetic drift, tense).
+6. Block content hash recorded; a re-cut manifest auto-invalidates stale blocks.
 - **Any failure aborts assembly.** Missing/invalid blocks never reach the story file.
 
-### Stage 6 — Chapter Mapping *(NEW)*
-- Sanderson pacing target: **4,000–6,500 words/chapter**, break on tension beats, POV shifts, or scene-ending hooks.
-- Deterministic pass: group contiguous scene blocks into chapters under the word budget; prefer scene boundaries marked `cliffhanger|resolution` in the manifest.
-- Bounded LLM assist: only when two candidate breaks are within tolerance, the Showrunner picks the stronger hook. Never splits a scene mid-block.
+### Stage 6 — Chapter Mapping *(NEW — downstream, on-demand)*
+- **Narrative beats govern; word count is a soft guideline, not a quota.** Chapter cuts follow emotional resolution, POV shifts, and scene-ending hooks. A punchy 2,500-word ambush chapter is correct output; it is never merged just to hit a floor.
+- Guideline band (~4,000–6,500 words) is used only to flag outliers for the Showrunner to re-examine — e.g., a bloated chapter that should be split, or a stub that might read better joined to a neighbor. Flagging ≠ forcing.
+- Deterministic pass: group contiguous scene blocks at natural boundaries; prefer scene boundaries marked `cliffhanger|resolution` in the manifest. Never splits a scene mid-block.
+- Bounded LLM assist: only when two candidate breaks are comparable does the Showrunner pick the stronger hook.
 - Output: `sN-chapters.json` → `[{chapter: 1, title, scenes: [3,4], word_count}]`.
 
-### Stage 7 — EPUB Packaging *(NEW)*
+### Stage 7 — EPUB Packaging *(NEW — downstream, on-demand)*
 - `sN-chapters.json` + scene blocks → valid EPUB 3: `mimetype`, `container.xml`, OPF manifest/spine, NCX/nav TOC, per-chapter XHTML, front matter (title page, campaign blurb, dramatis personae from canon config).
 - Deterministic; a canonical-name sweep runs as a final lint inside the packager.
 
-### Stage 8 — Audio Preflight & TTS *(NEW)*
+### Stage 8 — Audio Preflight & TTS *(NEW — downstream, on-demand)*
 1. **Preflight (0 credits):** aggregate `char_counts` across all scenes → `chars × per-char rate` for the selected model → exact credit quote + per-voice breakdown, printed for approval before any API call.
 2. **MVP:** single narrator voice for all segments (cheapest tier). `audio.json` already segments per speaker, so multi-voice is a later casting change, not a re-parse.
 3. **Batch:** per-scene TTS calls with checkpointed outputs (`sN-scene-XX-seg-YY.mp3`), retry cap 3, quarantine on persistent failure, concat per chapter.
+
+### 3.7 Downstream Decoupling
+Stages 0–5 are the primary milestone: they produce a **complete, validated story** (`sN-clean-story.md` + per-scene `audio.json` + merged assumptions). Stages 6–8 are **on-demand consumers** of those artifacts, never part of the linear run:
+- EPUB packaging is free and can be run anytime after Stage 5.
+- TTS spends real credits and may happen weeks later — it must never gate or slow text production.
 
 ---
 
@@ -181,8 +194,8 @@ For every non-OOC block, verify **all** of:
 |---|---|---|
 | G1 — Attribution | Low-confidence speaker attributions, shared-mic decompositions | ~20 min |
 | G2 — Assumptions | `medium`/`low` confidence ledger entries: approve / edit / reject | ~25 min |
-| G3 — Parity report | List of unrendered ledger lines (read the list, not the prose) | ~10 min |
-| — | Full prose read | **out of scope** — Layers 2–3 handle it |
+| G3 — Parity report | List of unrendered ledger lines + unattributable orphan quotes (read the list, not the prose) | ~10 min |
+| G4 — Exception spot-check | **Targeted prose read of the 2–3 most-flagged scenes** (stylistic warnings, assumption density, tension anomalies). Layers 1–3 act as an *exception highlighter* pointing at where human voice/tone judgment matters — inside jokes, voice drift, melodrama. Full-book read is never required. | ~10 min |
 
 Review outputs feed back into the ledger (`"human_ruling": "approved|edited:<text>|rejected"`). This data model is designed so a future review UI (distant roadmap) is a thin frontend over the assumptions JSON — no schema change needed.
 
@@ -200,7 +213,7 @@ Review outputs feed back into the ledger (`"human_ruling": "approved|edited:<tex
 
 ## 6. Known Issues From Commit Audit (fix in Step 1)
 
-- [ ] **Encoding corruption:** `?"` mojibake (corrupted em-dashes) in 16 scene files + `s12-clean-story.md` (~79 hits). Find the write/read path using wrong codec, fix at source, then deterministic repair pass over affected files.
+- [x] ~~**Encoding corruption**~~ — **FALSE POSITIVE (verified at byte level):** zero U+FFFD characters exist; the `?"` hits were valid question-mark dialogue (`"What happened?"`) plus terminal display-mangling of em-dashes. No fix needed — and any automated "repair" would have corrupted real prose. One genuine style slip remains: `"Hey-what..."` uses a hyphen where an em-dash belongs; handle via normal prose lint, not encoding repair.
 - [ ] **`__pycache__`/`.pyc` committed** — add Python `.gitignore` rules, remove tracked bytecode.
 - [ ] **`verify_parity.py` not wired** into assembly or scheduler.
 - [ ] **`batch_scheduler` doesn't schedule** — no loop/retry; currently a status reporter.
@@ -217,7 +230,7 @@ Review outputs feed back into the ledger (`"human_ruling": "approved|edited:<tex
 | Step | Deliverable | Depends on |
 |---|---|---|
 | 1 | Schemas + `campaign-config.json` + hygiene/encoding fixes | — |
-| 2 | Parity gate wired into assembly; atomic writes; block hashing | 1 |
+| 2 | Parity gate wired into assembly; deterministic `audio.json` extraction; atomic writes; block hashing | 1 |
 | 3 | `state.json` + `campaign-state.json` emission/consumption | 2 |
 | 4 | Chapter mapper → `sN-chapters.json` | 2 |
 | 5 | EPUB packager | 4 |
