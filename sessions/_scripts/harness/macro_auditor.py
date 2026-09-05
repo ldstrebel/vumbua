@@ -1,7 +1,7 @@
 """Macro Narrative & Reader Auditor.
 
 Cross-references individual scene blocks against the Campaign Narrative Bible
-(campaign/planning/campaign-narrative-bible.md) to audit character empathy anchors,
+(campaign/prep/campaign-narrative-bible.md) to audit character empathy anchors,
 cold-reader grounding, and sensory signatures.
 """
 

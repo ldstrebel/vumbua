@@ -36,7 +36,7 @@ The user supplies, with the roster:
 2. **whether any mics are shared** — and which player rides whose mic.
 
 Record them in `sessions/sN-devin/sN-session-config.json` (schema and examples:
-`sessions/s12-devin/README.md`, `campaign/planning/transcript-pipeline-plan.md` §2.0):
+`sessions/s12-devin/README.md`, `campaign/prep/transcript-pipeline-plan.md` §2.0):
 
 ```json
 {
@@ -70,7 +70,7 @@ Read these before touching anything:
 
 1. **`.agent/workflows/lore-index.md`** — canonical spellings, recent session delta
    - Note: this file may be stale. Cross-check its "Last Updated" against the clean transcripts in `sessions/data/clean/`. If stale, treat it as a reference only — verify against actual NPC files.
-2. **`campaign/planning/sN-plan.md`** (or `campaign/planning/old/`) — the intended session plan. Read this BEFORE the raw transcript so you know canonical NPC names and planned events.
+2. **`campaign/prep/sN-plan.md`** (or `campaign/prep/old/`) — the intended session plan. Read this BEFORE the raw transcript so you know canonical NPC names and planned events.
 3. **`characters/index.md`** — existing characters, to distinguish new NPCs from known ones
 
 ---
@@ -165,7 +165,7 @@ Before advancing to Step 4b (Novelization), the LLM must perform a **direct line
 
 ### Mandatory Pre-Writing Narrative Flow Gate
 Before drafting any chapters:
-1. **Load the Master Storyboard**: Consult [`campaign/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/planning/book-1-narrative-structure.md) and [`campaign/planning/campaign-narrative-bible.md`](file:///d:/Code/vumbua/campaign/planning/campaign-narrative-bible.md) to check macro 5-Act placement, active plot lines (A through E), and character reflection triggers.
+1. **Load the Master Storyboard**: Consult [`campaign/prep/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/prep/book-1-narrative-structure.md) and [`campaign/prep/campaign-narrative-bible.md`](file:///d:/Code/vumbua/campaign/prep/campaign-narrative-bible.md) to check macro 5-Act placement, active plot lines (A through E), and character reflection triggers.
 2. **Execute the Pre-Story Weaving Audit**: Follow [`.agents/skills/session-audit/SKILL.md`](file:///d:/Code/vumbua/.agents/skills/session-audit/SKILL.md) to verify long-horizon trajectory alignment (Session 12 destination) and avoid front-loaded worldbuilding dumps.
 3. **Monotonic Chapter Progression (Never Reset to Chapter 1)**: Determine the global continuous chapter numbers (`## CHAPTER N: TITLE`), picking up monotonically from the previous session rather than resetting per session.
 
@@ -373,7 +373,7 @@ Tell the user: *"Ready — `vumbua-codex.json` is built. Paste it into the Found
 
 ## Step 10 — Verify the next session plan
 
-Check whether `campaign/planning/sN+1-plan.md` exists.
+Check whether `campaign/prep/sN+1-plan.md` exists.
 - If it exists → do not touch it (don't overwrite prep the GM has already done)
 - If it doesn't exist → create a stub noting what the party was doing at session end and any obvious hooks
 
@@ -406,7 +406,7 @@ Do NOT begin storyboard generation inside this workflow. The `/storyboard` workf
 | Raw transcript | `sessions/data/raw/sN-raw.md` |
 | Clean transcript | `sessions/data/clean/sN-clean.md` |
 | Session index (player-facing) | `sessions/index.md` |
-| Session plan | `campaign/planning/sN-plan.md` |
+| Session plan | `campaign/prep/sN-plan.md` |
 | NPC profiles | `characters/npcs/[name].md` |
 | Portraits | `meta/foundry-exports/portraits/[name]_portrait.png` |
 | Foundry codex output | `meta/foundry-exports/vumbua-codex.json` |

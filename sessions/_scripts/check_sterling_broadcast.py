@@ -2,7 +2,7 @@ import os
 import re
 
 def check_sterling_alignment():
-    with open("campaign/planning/s12-finale/s12-intro-sterling.md", "r", encoding="utf-8") as f:
+    with open("campaign/prep/s12-finale/s12-intro-sterling.md", "r", encoding="utf-8") as f:
         master_script = f.read()
 
     with open("sessions/data/clean/s12-clean-story.md", "r", encoding="utf-8") as f:

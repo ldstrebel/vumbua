@@ -47,7 +47,7 @@ vumbua/
 | `sessions/data/clean/sN-clean-story.md` | `novel/sessions/sN-story.md` (copy at assembly) |
 | `sessions/config/sN-*` | `sessions/sN/config.json` |
 | `sessions/config/campaign-config.*` | `campaign/config.json` |
-| `campaign/planning/` | `campaign/planning/` |
+| `campaign/prep/` | `campaign/prep/` |
 | `_ops/review/`, `sessions/ANTIGRAVITY-HANDOFF.md` | `_ops/` |
 | `sessions/_compare/` | `sessions/_compare/` |
 | `sessions/_scripts/` | `sessions/_scripts/` |

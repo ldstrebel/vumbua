@@ -86,7 +86,7 @@ python sessions/_scripts/verify_parity.py sN    # must print [PASS]
 - **Canon vs OOC**: post-s0, OOC = non-canon table/social talk. Creation
   talk and lore are canon (prologue bucket for the author agent).
 - **Sessions ≠ chapters**: monotonic chapter numbering; the book-1
-  storyboard is `campaign/planning/book-1-narrative-structure.md`.
+  storyboard is `campaign/prep/book-1-narrative-structure.md`.
 - **The 5 failure modes**: POV contamination, speculative overreach,
   clan-lore-as-truth, double-event redundancy, silent speaker absorption —
   all cataloged in `_ops/review/s1-pipeline-process-notes.md`.

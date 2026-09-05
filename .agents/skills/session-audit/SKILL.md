@@ -160,7 +160,7 @@ Every generated scene block (`clean/blocks/sN-scene-XX.md`) and compiled story c
 
 This audit guarantees that the narrative reads like a masterwork Sanderson novel rather than a series of disjointed session transcripts.
 
-* **Master Storyboard Reference**: The author agent must load and cross-reference [`campaign/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/planning/book-1-narrative-structure.md) for Volume 1's 5-Act structure, chapter-by-chapter beat sheets, character reflection triggers, and global plot lines before writing.
+* **Master Storyboard Reference**: The author agent must load and cross-reference [`campaign/prep/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/prep/book-1-narrative-structure.md) for Volume 1's 5-Act structure, chapter-by-chapter beat sheets, character reflection triggers, and global plot lines before writing.
 
 ### 1. The Long-Horizon Trajectory Audit (Destination Awareness)
 * **Rule:** An author agent cannot write the opening of a saga without deeply understanding its climax.

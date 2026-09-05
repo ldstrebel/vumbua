@@ -4,6 +4,24 @@ Source-quality flags for every session's raw input. The parity ledger only
 guarantees fidelity *to the indexed file* — it cannot detect that a source is
 itself an AI-generated summary rather than a real diarized transcript.
 
+## Canon vs. Planned — the master distinction
+
+Everything in this repo falls into one of two trust tiers. This is the
+single most important classification in the vault:
+
+| Tier | Location | Trust |
+|---|---|---|
+| **Canonical** | `sessions/` pipeline outputs (diarized transcripts and everything derived from them), `campaign/` character/location/world records of things that *happened*, `novel/` | What actually occurred at the table. Ground truth. |
+| **Planned** | `campaign/prep/` — session plans, DM prep notes, the narrative bible, storyboards, anything written *before* play | Intent, not fact. Always distrusted as canon; useful only as color when auditing transcripts. If prep and the session disagree, **the session wins.** |
+
+`copilot/` conversations and AI-generated summaries sit below both —
+reference material only, never canon.
+
+Rule for every downstream stage: **planned material may inform, but may
+never supply a canonical fact.** If a beat only exists in prep, it must be
+flagged `planned_only: true` and cannot appear in reader-facing prose as
+though it happened.
+
 ## Source Quality Classes
 
 | Class | Meaning |
@@ -13,6 +31,7 @@ itself an AI-generated summary rather than a real diarized transcript.
 | `undiarized` | Real full transcript from ONE undiarized audio source — all turns collapsed into a single "Me:" stream. Indexed by `index_secondary.py` at sentence granularity; `[TURN?]` marks heuristic turn-boundary guesses (question→answer, vocatives) — a scaffold for attribution, not speaker claims. |
 | `survey` | Async choose-your-own-adventure doc; the clean file IS the primary source (no audio ever existed). Indexed by `index_secondary.py`. Verbatim by construction. |
 | `missing` | No source of any kind. |
+| `prep` | Planned material under `campaign/prep/` — session plans, DM notes, narrative bible, storyboards. Never canon; see "Canon vs. Planned" above. |
 
 ## Master Index (all 15 sessions)
 

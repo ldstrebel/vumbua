@@ -9,4 +9,4 @@ description: Lessons from the s12 silent-ordering failure in the transcript nove
 
 **How to apply:** Any new mechanical gate over LLM output must validate *position in the artifact*, not just self-reported inventories. Also validate the self-report itself (rendered/skipped disjoint, union == manifest) before trusting it.
 
-Related: garbled speech-to-text lines must be flagged/normalized at manifest time (`garbled: true` + assumption log), or the writer novelizes gibberish literally. Plan source of truth: `campaign/planning/transcript-pipeline-plan.md`.
+Related: garbled speech-to-text lines must be flagged/normalized at manifest time (`garbled: true` + assumption log), or the writer novelizes gibberish literally. Plan source of truth: `campaign/prep/transcript-pipeline-plan.md`.

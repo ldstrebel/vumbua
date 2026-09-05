@@ -153,7 +153,7 @@ Extract deep character backstories from the prologue and weave them directly int
 
 ## 6. Master Storyboard & Book Architecture
 
-Consult [`campaign/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/planning/book-1-narrative-structure.md) for the complete Volume 1 architecture (*The Basalt Run*, Sessions 0–12):
+Consult [`campaign/prep/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/prep/book-1-narrative-structure.md) for the complete Volume 1 architecture (*The Basalt Run*, Sessions 0–12):
 
 * **Act I: The Call of the Spires (Sessions 0–2.5):** Intake gauntlet, character origins, bonfire debate, power core infiltration.
 * **Act II: Friction & Contraband (Sessions 3–6):** Classes, study guide hustles, Apex Ring scouting, Hangar 12 infiltration, The Minimum crisis.
