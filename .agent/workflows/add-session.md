@@ -19,7 +19,7 @@ The AI must stop and wait for user confirmation at three points:
 
 ## Prerequisites
 
-- Raw transcript at `sessions/transcripts/raw/sN-raw.md` (Granola, Otter, manual notes — any format)
+- Raw transcript at `sessions/data/raw/sN-raw.md` (Granola, Otter, manual notes — any format)
 - Know the session number
 - `sN-session-config.json` exists and declares the GM (see Step 0)
 - DO NOT start until the raw transcript file exists
@@ -36,7 +36,7 @@ The user supplies, with the roster:
 2. **whether any mics are shared** — and which player rides whose mic.
 
 Record them in `sessions/sN-devin/sN-session-config.json` (schema and examples:
-`sessions/s12-devin/README.md`, `sessions/planning/transcript-pipeline-plan.md` §2.0):
+`sessions/s12-devin/README.md`, `campaign/planning/transcript-pipeline-plan.md` §2.0):
 
 ```json
 {
@@ -69,15 +69,15 @@ Record them in `sessions/sN-devin/sN-session-config.json` (schema and examples:
 Read these before touching anything:
 
 1. **`.agent/workflows/lore-index.md`** — canonical spellings, recent session delta
-   - Note: this file may be stale. Cross-check its "Last Updated" against the clean transcripts in `sessions/transcripts/clean/`. If stale, treat it as a reference only — verify against actual NPC files.
-2. **`sessions/planning/sN-plan.md`** (or `sessions/planning/old/`) — the intended session plan. Read this BEFORE the raw transcript so you know canonical NPC names and planned events.
+   - Note: this file may be stale. Cross-check its "Last Updated" against the clean transcripts in `sessions/data/clean/`. If stale, treat it as a reference only — verify against actual NPC files.
+2. **`campaign/planning/sN-plan.md`** (or `campaign/planning/old/`) — the intended session plan. Read this BEFORE the raw transcript so you know canonical NPC names and planned events.
 3. **`characters/index.md`** — existing characters, to distinguish new NPCs from known ones
 
 ---
 
 ## Step 2 — Session number and file check
 
-- List files in `sessions/transcripts/clean/` to confirm the highest session number
+- List files in `sessions/data/clean/` to confirm the highest session number
 - Check for multiple raw files (e.g., `sN-raw.md`, `sN-granola.md`, `sN-alt.md`) — if multiple exist, read all and cross-reference
 - Confirm the session number with the user if anything is ambiguous
 
@@ -126,7 +126,7 @@ Read the raw transcript and produce a Session Delta before writing anything else
 
 ## Step 4 — Create the clean transcript (Editor Pass 1: 0-Bias Audio & Disentanglement Audit)
 
-**Filename:** `sessions/transcripts/clean/sN-clean.md` — e.g., `s12-clean.md`  
+**Filename:** `sessions/data/clean/sN-clean.md` — e.g., `s12-clean.md`  
 *(The build script requires this exact pattern. `session-12.md` will be silently ignored.)*
 
 **Role:** Editor 1 (Zero-Bias Audio & Disentanglement Auditor).
@@ -136,7 +136,7 @@ Every line from `sN-raw.md` MUST be evaluated and categorized into one of three 
 
 1. **Tier A: In-World Spoken Dialogue (`**[[Speaker]] (PC/NPC):** "..."`)**
    * Direct, in-universe spoken lines.
-   * **Disentanglement Rule (config-driven):** Disentangle a stream **only** for the mics listed in `shared_mics` in `sN-session-config.json`, and only into the identities that mic declares. For Session 12 the config declares that `Luke S` carries GM narration, GM-voiced NPCs, and Kristina's Aggie, so a line-by-line audit MUST assign the exact character attributions (`**[[Aggie]] (PC):**`). If the config declares no shared mics, do not disentangle — and never widen attribution by inference. Record each per-line call in `sN-attribution-decisions.json` and validate with `python sessions/scripts/attribute_speakers.py sN`.
+   * **Disentanglement Rule (config-driven):** Disentangle a stream **only** for the mics listed in `shared_mics` in `sN-session-config.json`, and only into the identities that mic declares. For Session 12 the config declares that `Luke S` carries GM narration, GM-voiced NPCs, and Kristina's Aggie, so a line-by-line audit MUST assign the exact character attributions (`**[[Aggie]] (PC):**`). If the config declares no shared mics, do not disentangle — and never widen attribution by inference. Record each per-line call in `sN-attribution-decisions.json` and validate with `python sessions/_scripts/attribute_speakers.py sN`.
    * **NPC Disentanglement:** Disentangle NPC spoken dialogue from GM scene descriptions into explicit NPC dialogue blocks (`**[[NPC Name]] (NPC):**`).
 
 2. **Tier B: Player Action & Intent Context (`*Player Action Intent:*`)**
@@ -150,7 +150,7 @@ Every line from `sN-raw.md` MUST be evaluated and categorized into one of three 
 ---
 
 ### First-Pass Audit Gate (Line-by-Line Inspection)
-Before advancing to Step 4b (Novelization), the LLM must perform a **direct line-by-line inspection of `sessions/transcripts/raw/sN-raw.md`** using `view_file` to verify:
+Before advancing to Step 4b (Novelization), the LLM must perform a **direct line-by-line inspection of `sessions/data/raw/sN-raw.md`** using `view_file` to verify:
 1. **100% Attribution Accuracy:** No shared-stream lines misattributed to the GM or wrong player.
 2. **Zero Meta-Talk Leaks:** No player action descriptions or dice talk written as character dialogue quotes.
 3. **100% Beat Completeness:** Zero dropped player actions, NPC interactions, comedic beats, or lore reveals.
@@ -159,13 +159,13 @@ Before advancing to Step 4b (Novelization), the LLM must perform a **direct line
 
 ## Step 4b — Create the novelized story file (Editor Pass 2: Novelization, Dialect & Prose Audit)
 
-**Filename:** `sessions/transcripts/clean/sN-clean-story.md` — e.g., `s11-clean-story.md`
+**Filename:** `sessions/data/clean/sN-clean-story.md` — e.g., `s11-clean-story.md`
 
 **Role:** Editor 2 (Single Master File — Novel + Audiobook Source).
 
 ### Mandatory Pre-Writing Narrative Flow Gate
 Before drafting any chapters:
-1. **Load the Master Storyboard**: Consult [`sessions/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/sessions/planning/book-1-narrative-structure.md) and [`sessions/planning/campaign-narrative-bible.md`](file:///d:/Code/vumbua/sessions/planning/campaign-narrative-bible.md) to check macro 5-Act placement, active plot lines (A through E), and character reflection triggers.
+1. **Load the Master Storyboard**: Consult [`campaign/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/planning/book-1-narrative-structure.md) and [`campaign/planning/campaign-narrative-bible.md`](file:///d:/Code/vumbua/campaign/planning/campaign-narrative-bible.md) to check macro 5-Act placement, active plot lines (A through E), and character reflection triggers.
 2. **Execute the Pre-Story Weaving Audit**: Follow [`.agents/skills/session-audit/SKILL.md`](file:///d:/Code/vumbua/.agents/skills/session-audit/SKILL.md) to verify long-horizon trajectory alignment (Session 12 destination) and avoid front-loaded worldbuilding dumps.
 3. **Monotonic Chapter Progression (Never Reset to Chapter 1)**: Determine the global continuous chapter numbers (`## CHAPTER N: TITLE`), picking up monotonically from the previous session rather than resetting per session.
 
@@ -209,10 +209,10 @@ genre: Epic Fantasy / Sci-Fantasy
 Before spending any ElevenLabs credits, run the parser audit tool:
 
 ```powershell
-python sessions/scripts/parse_audit.py
+python sessions/_scripts/parse_audit.py
 ```
 
-This generates `sessions/scripts/parse_audit_report.txt` with:
+This generates `sessions/_scripts/parse_audit_report.txt` with:
 - Every audio block's speaker attribution and detection method
 - A list of **FALLBACK WARNINGS** (lines where no name or pronoun was found)
 - **Zero warnings = safe to generate.** Any warning = fix the source line before generating.
@@ -236,8 +236,8 @@ Once the audit reports **0 warnings**, generate:
 Remove-Item 'sessions/audio/sN/*' -Force
 
 # Generate
-python sessions/scripts/generate_audiobook.py \
-  --input sessions/transcripts/clean/sN-clean-story.md \
+python sessions/_scripts/generate_audiobook.py \
+  --input sessions/data/clean/sN-clean-story.md \
   --output-dir sessions/audio/sN \
   --generate
 ```
@@ -373,7 +373,7 @@ Tell the user: *"Ready — `vumbua-codex.json` is built. Paste it into the Found
 
 ## Step 10 — Verify the next session plan
 
-Check whether `sessions/planning/sN+1-plan.md` exists.
+Check whether `campaign/planning/sN+1-plan.md` exists.
 - If it exists → do not touch it (don't overwrite prep the GM has already done)
 - If it doesn't exist → create a stub noting what the party was doing at session end and any obvious hooks
 
@@ -384,7 +384,7 @@ Check whether `sessions/planning/sN+1-plan.md` exists.
 If a graphic novel storyboard is planned for this session, hand off to the `/storyboard` workflow now.
 
 Tell the user:
-> "The clean transcript is ready at `sessions/transcripts/clean/sN-clean.md`. Run `/storyboard` when you're ready to generate the comic pages — it will use this file as its ground-truth source."
+> "The clean transcript is ready at `sessions/data/clean/sN-clean.md`. Run `/storyboard` when you're ready to generate the comic pages — it will use this file as its ground-truth source."
 
 Do NOT begin storyboard generation inside this workflow. The `/storyboard` workflow has its own mandatory verification steps and human approval gates that must run separately.
 
@@ -403,10 +403,10 @@ Do NOT begin storyboard generation inside this workflow. The `/storyboard` workf
 
 | File | Path |
 |---|---|
-| Raw transcript | `sessions/transcripts/raw/sN-raw.md` |
-| Clean transcript | `sessions/transcripts/clean/sN-clean.md` |
+| Raw transcript | `sessions/data/raw/sN-raw.md` |
+| Clean transcript | `sessions/data/clean/sN-clean.md` |
 | Session index (player-facing) | `sessions/index.md` |
-| Session plan | `sessions/planning/sN-plan.md` |
+| Session plan | `campaign/planning/sN-plan.md` |
 | NPC profiles | `characters/npcs/[name].md` |
 | Portraits | `meta/foundry-exports/portraits/[name]_portrait.png` |
 | Foundry codex output | `meta/foundry-exports/vumbua-codex.json` |

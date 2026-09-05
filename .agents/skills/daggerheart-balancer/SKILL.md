@@ -76,7 +76,7 @@ Apply the following flavoring parameters to align the mechanical SRD templates w
 
 * **Setting Aesthetic Integration**: Sensory details and visual descriptions must reflect the campaign's unique tech-fantasy, ancient ruins, airships, and Witherwild overgrowth motif (e.g. *glowing copper runework, metal-feathered raptors, moss-veined constructs, and airship rigging*).
 * **Geographical Consistency**: Align establishing shots and action beats with the exact local geography of the encounter (e.g. *high-altitude storm winds for the Tempest Clearing, thick toxic sludge for the Sunken Bogs, steep terraced basalt canyons for the Apex Arena*).
-* **Session & Transcript Alignment**: Dialogues, quotes, and tactical beats must directly support the narrative flow and events in the corresponding clean transcript (`sessions/transcripts/clean/sN-clean.md`), using ground-truth names and motifs.
+* **Session & Transcript Alignment**: Dialogues, quotes, and tactical beats must directly support the narrative flow and events in the corresponding clean transcript (`sessions/data/clean/sN-clean.md`), using ground-truth names and motifs.
 * **Attack Reskinning**: Replace default attacks (like "Sword" or "Claws") with setting-rich options:
   * *Storm Raptor* -> *Wind-Cutter Talons* (deals physical damage + pushes target back).
   * *Ember Warg* -> *Cinder Bite* (deals magical damage + spends Stress to ignite).

@@ -22,8 +22,8 @@ If you’re doing any content work, also read: **[[Lore Index]]** (`.agent/workf
 - **legacy**: older pre-migration docs; may be superseded by transcripts
 
 **Canonical source of truth lives in the repo root**, especially:
-- `sessions/transcripts/raw/` (raw transcript input)
-- `sessions/transcripts/clean/` (cleaned transcript output)
+- `sessions/data/raw/` (raw transcript input)
+- `sessions/data/clean/` (cleaned transcript output)
 - `knowledge-tracker.md` (what players know)
 - `timeline.md`
 
@@ -58,10 +58,10 @@ Arc: **The Intake** (first days at Vumbua)
 Read these first:
 - Session index: `sessions/index.md`
 - Cleaned transcripts:
-  - Session 0: `sessions/transcripts/clean/session-00.md`
-  - Session 1: `sessions/transcripts/clean/session-01.md`
-  - Session 2: `sessions/transcripts/clean/session-02.md`
-  - Session 2.5: `sessions/transcripts/clean/session-02.5.md`
+  - Session 0: `sessions/data/clean/session-00.md`
+  - Session 1: `sessions/data/clean/session-01.md`
+  - Session 2: `sessions/data/clean/session-02.md`
+  - Session 2.5: `sessions/data/clean/session-02.5.md`
 
 Recent key beats:
 - The party forms during trials + early campus life.
@@ -115,14 +115,14 @@ Canonical list lives at: `characters/index.md`
 Every session produces a **multi-voice ElevenLabs audiobook** from the canonical `sN-clean-story.md` file.
 
 **Key files:**
-- `sessions/scripts/generate_audiobook.py` — generation engine (ElevenLabs API)
-- `sessions/scripts/parse_audit.py` — pre-flight speaker attribution audit (zero credits)
+- `sessions/_scripts/generate_audiobook.py` — generation engine (ElevenLabs API)
+- `sessions/_scripts/parse_audit.py` — pre-flight speaker attribution audit (zero credits)
 - `sessions/audio/sN/` — per-session output: master MP3, chapter tracks, sync JSON, WebVTT
 
 **Pipeline summary:**
 1. Write `sN-clean-story.md` with correct prose grammar (NAME + speech verb on every dialogue line)
-2. Run `python sessions/scripts/parse_audit.py` → must show **0 fallback warnings**
-3. Run `python sessions/scripts/generate_audiobook.py --generate` to synthesize
+2. Run `python sessions/_scripts/parse_audit.py` → must show **0 fallback warnings**
+3. Run `python sessions/_scripts/generate_audiobook.py --generate` to synthesize
 4. Assets auto-generate: `sN_audiobook_full.mp3`, `sN_sync_timestamps.json`, `sN_subtitles.vtt`
 
 For full details, see `.agent/workflows/narrate-session.md`.

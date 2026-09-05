@@ -9,7 +9,7 @@ Run it after every session or whenever new NPCs / locations are added.
 
 ```
 sessions/index.md          ← curated session titles + prose summaries (primary)
-sessions/transcripts/clean/sN-clean.md  ← raw scene prose (secondary / Part content)
+sessions/data/clean/sN-clean.md  ← raw scene prose (secondary / Part content)
 characters/npcs/*.md       ← NPC pages (only if First Appearance tag present)
 characters/player-characters/*.md
 locations/*.md
@@ -51,7 +51,7 @@ Use delta mode for live-session reveals — much faster, smaller JSON.
 ## Steps
 
 ### 1. Session content is ready
-- Clean transcript exists at `sessions/transcripts/clean/sN-clean.md`
+- Clean transcript exists at `sessions/data/clean/sN-clean.md`
 - A curated entry exists in `sessions/index.md` under `### [[Session 0N|Session N: Title]]`
   - If missing, add a 2–4 sentence prose summary under that heading (no bullet points)
 
@@ -131,7 +131,7 @@ Any hit that isn't a false positive should be fixed in the source file, not in t
 
 | Thing | Convention |
 |---|---|
-| Session transcript | `sessions/transcripts/clean/sN-clean.md` (e.g. `s5-clean.md`) |
+| Session transcript | `sessions/data/clean/sN-clean.md` (e.g. `s5-clean.md`) |
 | Session index entry | `### [[Session 0N\|Session N: Title]]` in `sessions/index.md` |
 | NPC file | `characters/npcs/[kebab-name].md` |
 | Portrait source | `meta/foundry-exports/portraits/[snake_name]_portrait.png` |

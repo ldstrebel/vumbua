@@ -10,7 +10,7 @@ Runs forensic telemetry on novelized story files (sN-clean-story.md) to detect:
 
 Usage:
     python critique_prose.py s1
-    python critique_prose.py s7.5 --out sessions/transcripts/index/s7.5-critique.md
+    python critique_prose.py s7.5 --out sessions/data/index/s7.5-critique.md
 """
 
 import argparse

@@ -33,7 +33,7 @@ python .agents/skills/novel-critic/scripts/critique_prose.py sN
 
 To output a persistent critique artifact:
 ```powershell
-python .agents/skills/novel-critic/scripts/critique_prose.py sN --out sessions/transcripts/index/sN-critique.md
+python .agents/skills/novel-critic/scripts/critique_prose.py sN --out sessions/data/index/sN-critique.md
 ```
 
 ### Metrics Evaluated:

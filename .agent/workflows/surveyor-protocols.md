@@ -70,7 +70,7 @@ You must design the survey nodes to leverage these native mechanics:
 The application supports two formats: **Modern React Flow Schema** (used for visual mapping, stored as array of nodes + edges) and **Legacy Dictionary Schema** (stored as nested objects).
 
 ### 1. Modern React Flow Schema (Recommended)
-This format matches what is used in [britt_adventure.json](file:///d:/Code/vumbua/sessions/planning/s6/britt_adventure.json).
+This format matches what is used in [britt_adventure.json](file:///d:/Code/vumbua/campaign/planning/s6/britt_adventure.json).
 
 ```json
 {

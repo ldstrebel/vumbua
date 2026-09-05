@@ -41,7 +41,7 @@ Always follow these rules when writing comic book storyboards or generating page
 
 **Before writing any panel prompt, generating implementation plans, or calling `generate_image`, the following steps are REQUIRED:**
 
-1.  **Read the clean transcript.** Call `view_file` on `sessions/transcripts/clean/sN-clean.md` for the session being storyboarded. Do not rely on memory or session summaries.
+1.  **Read the clean transcript.** Call `view_file` on `sessions/data/clean/sN-clean.md` for the session being storyboarded. Do not rely on memory or session summaries.
 2.  **Read every character profile and location file** for entities in the scene. Call `view_file` on each relevant file.
 3.  **Extract character and location tokens verbatim.** Copy the physical description lines directly into both the `implementation_plan.md` and the storyboard file.
 4.  **Include Tokens in `implementation_plan.md` & STOP for Approval:** When planning a storyboard task, include the full proposed `## 👤 Character Reference Prompt Tokens` and `## 🏛️ Location Reference Prompt Tokens` sections in `implementation_plan.md`. **Stop execution and wait for explicit user approval of the tokens before proceeding to prompt writing or image generation.** Do not auto-approve or bypass this gate.
@@ -97,7 +97,7 @@ Every storyboard MUST include a **`## 🏛️ Location Reference Prompt Tokens`*
 
 Rules:
 
-*   **Two-Editor Pipeline Rule:** All speech bubbles and narration boxes baked into panel art must come directly from the novelized story file (`sessions/transcripts/clean/sN-clean-story.md`), which has been verified through our Two-Editor Audit Pipeline (Editor 1 0-Bias Audio Audit $\rightarrow$ Editor 2 Story & Pacing Audit).
+*   **Two-Editor Pipeline Rule:** All speech bubbles and narration boxes baked into panel art must come directly from the novelized story file (`sessions/data/clean/sN-clean-story.md`), which has been verified through our Two-Editor Audit Pipeline (Editor 1 0-Bias Audio Audit $\rightarrow$ Editor 2 Story & Pacing Audit).
 *   **No improvised dialogue & No Table Meta-Talk:** Every line in a speech bubble must be an exact quote or novelized line from `sN-clean-story.md`. Strictly purge out-of-character dice chatter ("Support Tank!", "Armor slot!", "Ted Lasso biscuits") from image prompts and dialogue bubbles.
 *   **Names ARE allowed inside quoted text.** The "no name leaks" rule (Section 2) applies to visual descriptors only. Speech bubble text like `"Aggie, where were you?"` must retain the name `Aggie` exactly as spoken in the transcript. The image generator renders quoted text as printed characters — it does not use names inside quotes to influence visual rendering. However, the image generator may INVENT fantasy names (e.g. "Kip", "Iñigo", "Alistair") if character identities are left ambiguous in the visual descriptor portion of the prompt. Always attribute speech bubbles to a character by physical description, not by name.
 *   **No invented characters.** If a name appears in the generated image that does not appear in any character file or the clean transcript (e.g. "Alistair"), that page is an automatic hard fail. Rewrite the prompt from scratch.
@@ -126,7 +126,7 @@ Every image prompt must be **fully self-contained.** The image generator has zer
 1. **Grade-Level Separation (Zero Tolerance):**
    * **First-Year Cadets:** Compete in the freshman Loom sorting and Friday's Basalt Run.
    * **Second-Year Cadets:** Compete in upperclassman events (such as the Thursday Resonance Race) and operate in separate upperclassman crews. **NEVER mix Second-Year Cadets (e.g. Alistair Rook, Pudge, Dancer & Fabian, Vivi Frequency, Captain Gudge) into First-Year Loom squads.**
-2. **Action-Based Grade Verification:** Before assigning any NPC to a squad or grade bracket, verify their narrative actions across played transcripts (`sessions/transcripts/clean/`):
+2. **Action-Based Grade Verification:** Before assigning any NPC to a squad or grade bracket, verify their narrative actions across played transcripts (`sessions/data/clean/`):
    * Did they take Friday's entrance exam? -> **First-Year**
    * Did they pilot a rig in Thursday's Reso Race? -> **Second-Year**
 3. **Mandatory Metadata Tagging:** Every NPC file in `characters/npcs/` must carry an explicit frontmatter category tag (`first-year`, `second-year`, `faculty`, or `notable-figure`).
@@ -136,7 +136,7 @@ Every image prompt must be **fully self-contained.** The image generator has zer
 
 ## 10. Raw Transcript Ground-Truth & Audit Rules (No-Heuristics Rule)
 
-*   **Mandatory Line-by-Line Raw Reading (Zero Shortcuts):** When cleaning transcripts (`add-session`), novelizing story chapters (`sN-clean-story.md`), or building storyboards (`/storyboard`), the model MUST perform a direct, line-by-line reading of the raw session recording (`sessions/transcripts/raw/sN-raw.md`) using `view_file`. Relying on pre-generated summaries or memory is strictly prohibited.
+*   **Mandatory Line-by-Line Raw Reading (Zero Shortcuts):** When cleaning transcripts (`add-session`), novelizing story chapters (`sN-clean-story.md`), or building storyboards (`/storyboard`), the model MUST perform a direct, line-by-line reading of the raw session recording (`sessions/data/raw/sN-raw.md`) using `view_file`. Relying on pre-generated summaries or memory is strictly prohibited.
 *   **Prohibition of Python Heuristics as Ground-Truth Audits:** Python scripts and regex matchers are helper tools for formatting and audio manifest verification ONLY. They CANNOT detect dropped narrative beats, misattributed speakers, or table-talk leaks into dialogue. Never use Python script results to claim narrative completeness. The model must perform a direct LLM scene-by-scene audit.
 *   **Mandatory 3-Tier Line Categorization (First-Pass Audit):** Every raw line must be explicitly categorized during the clean transcript pass (`sN-clean.md`):
     1. **Tier A: In-World Spoken Dialogue (`**[[Speaker]] (PC/NPC):** "..."`)** — Pure in-universe spoken lines. (Disentangle a shared microphone ONLY when `sessions/sN-devin/sN-session-config.json` declares it in `shared_mics`, and only into the identities it declares — for Session 12 the mic labeled `Luke S` carries GM narration, GM-voiced NPCs, and Kristina's Aggie. Separate NPC dialogue from GM descriptions.)
@@ -151,10 +151,10 @@ Every image prompt must be **fully self-contained.** The image generator has zer
 
 *   **Mandatory Skill Usage:** Whenever the user identifies a missing gap, dropped dialogue interjection, or turn-order error, the model MUST activate the `session-audit` skill (`.agents/skills/session-audit/SKILL.md`).
 *   **4-Pass Verification Suite Gate:** Before presenting any clean transcript or novelized story file for approval, run:
-    1. `python sessions/scripts/verify_manifest.py sN`
-    2. `python sessions/scripts/verify_parity.py sN`
-    3. `python sessions/scripts/audit_transcript_gaps.py sN`
-    4. `python sessions/scripts/audit_s12_raw_coverage.py`
+    1. `python sessions/_scripts/verify_manifest.py sN`
+    2. `python sessions/_scripts/verify_parity.py sN`
+    3. `python sessions/_scripts/audit_transcript_gaps.py sN`
+    4. `python sessions/_scripts/audit_s12_raw_coverage.py`
 *   **Post-Mortem Logging:** Every identified failure mode (gist truncation, keyword coarseness, OOC leaks, phonetic STT errors) must be documented in the Post-Mortem Register in `session-audit/SKILL.md` to prevent regression across future sessions.
 
 

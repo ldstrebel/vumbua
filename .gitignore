@@ -33,3 +33,17 @@ __pycache__/
 *$py.class
 .pytest_cache/
 
+
+# generated audio/video artifacts (too large for git)
+campaign/audio/**/*.mp3
+campaign/audio/**/*.mp4
+campaign/planning/**/*.mp4
+*.srt
+
+# all large media/compiled artifacts
+*.aaf
+*.wav
+*.ogg
+*.m4a
+*.zip
+*.json.gz

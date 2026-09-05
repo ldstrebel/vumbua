@@ -75,7 +75,7 @@ characters/                       # ★ ALL CHARACTER PROFILES
 
 sessions/                         # Session transcripts + planning
 ├── index.md                      # Session recap index
-├── transcripts/
+├── data/
 │   ├── raw/                      # Raw transcript input (sN-raw.md)
 │   └── clean/                    # Cleaned session output (session-NN.md)
 ├── planning/                     # GM session prep
@@ -154,8 +154,8 @@ shared** (which player rides whose mic). They live in
   were shared; omitting the key is an error.
 - Shared streams are decomposed only for mics declared here, and only into the
   identities declared — see `sessions/s12-devin/README.md` for the worked example
-  and `sessions/planning/transcript-pipeline-plan.md` §2.0 for the full spec.
-- `raw_speaker_labels` (and `sessions/scripts/speaker_aliases.json`) fix garbled
+  and `campaign/planning/transcript-pipeline-plan.md` §2.0 for the full spec.
+- `raw_speaker_labels` (and `sessions/_scripts/speaker_aliases.json`) fix garbled
   label **spellings** only; they never say who the GM is or who plays whom.
 - `render_clean.py` turns a fully decomposed attribution into
   `sN-clean-attributed.md`, where every speaker label is a declared identity (or a

@@ -15,7 +15,7 @@ Use this workflow when generating comic book pages for a Vumbua session.
 This step is not optional. Do not write a single panel description until it is complete.
 
 ### 0a. Read the clean transcript
-Call `view_file` on `sessions/transcripts/clean/sN-clean.md` for the session being storyboarded.
+Call `view_file` on `sessions/data/clean/sN-clean.md` for the session being storyboarded.
 - Identify every major scene (a scene = a distinct location or narrative beat)
 - Note the exact dialogue lines that need to appear as speech bubbles
 - Note the order of events — do not rely on memory of the session

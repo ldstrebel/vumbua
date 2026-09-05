@@ -398,14 +398,14 @@ These are the **correct** spellings. Transcription errors are common — always 
 
 | Session     | Raw Transcript                         | Cleaned Transcript                           | Status     |
 | ----------- | -------------------------------------- | -------------------------------------------- | ---------- |
-| Session 0   | `sessions/transcripts/raw/s0-raw.md`   | `sessions/transcripts/clean/s0-clean.md`     | ✅ Complete |
-| Session 1   | `sessions/transcripts/raw/s1-raw.md`   | `sessions/transcripts/clean/s1-clean.md`     | ✅ Complete |
-| Session 2   | `sessions/transcripts/raw/s2-raw.md`   | `sessions/transcripts/clean/s2-clean.md`     | ✅ Complete |
-| Session 2.5 | `sessions/transcripts/raw/s2.5-raw.md` | `sessions/transcripts/clean/s2.5-clean.md`   | ✅ Complete |
-| Session 3   | `sessions/transcripts/raw/s3-raw.md`   | `sessions/transcripts/clean/s3-clean.md`     | ✅ Complete |
-| Session 4   | `sessions/transcripts/raw/s4-raw.md`   | `sessions/transcripts/clean/s4-clean.md`     | ✅ Complete |
-| Session 5   | `sessions/transcripts/raw/s5-raw.md`   | `sessions/transcripts/clean/s5-clean.md`     | ✅ Complete |
-| Session 6   | `sessions/transcripts/raw/s6-raw.md`   | `sessions/transcripts/clean/s6-clean.md`     | ✅ Complete |
+| Session 0   | `sessions/data/raw/s0-raw.md`   | `sessions/data/clean/s0-clean.md`     | ✅ Complete |
+| Session 1   | `sessions/data/raw/s1-raw.md`   | `sessions/data/clean/s1-clean.md`     | ✅ Complete |
+| Session 2   | `sessions/data/raw/s2-raw.md`   | `sessions/data/clean/s2-clean.md`     | ✅ Complete |
+| Session 2.5 | `sessions/data/raw/s2.5-raw.md` | `sessions/data/clean/s2.5-clean.md`   | ✅ Complete |
+| Session 3   | `sessions/data/raw/s3-raw.md`   | `sessions/data/clean/s3-clean.md`     | ✅ Complete |
+| Session 4   | `sessions/data/raw/s4-raw.md`   | `sessions/data/clean/s4-clean.md`     | ✅ Complete |
+| Session 5   | `sessions/data/raw/s5-raw.md`   | `sessions/data/clean/s5-clean.md`     | ✅ Complete |
+| Session 6   | `sessions/data/raw/s6-raw.md`   | `sessions/data/clean/s6-clean.md`     | ✅ Complete |
 
 
 ---

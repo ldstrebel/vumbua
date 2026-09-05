@@ -43,7 +43,7 @@ Two flows cover 90% of ongoing work. Everything else is referenced below.
 
 ### What you prepare
 
-- Raw transcript dropped at `sessions/transcripts/raw/sN-raw.md`
+- Raw transcript dropped at `sessions/data/raw/sN-raw.md`
   (Granola export, Otter, manual notes — any format works)
 - Know the session number
 - Know **who ran the session** and **whether anyone shared a mic**
@@ -55,7 +55,7 @@ them out from the transcript, and the pipeline refuses to start without them:
 
 ```
 /add-session
-Process Session N. Raw transcript is at sessions/transcripts/raw/sN-raw.md.
+Process Session N. Raw transcript is at sessions/data/raw/sN-raw.md.
 GM: Luke (as GM)
 Players: Sophie (Britt), Kristina (Aggie), John (Ignatious), Luke F (Loami), Holly (Iggy)
 Shared mics: Kristina/Aggie shares Luke's GM mic (labeled "Luke S")
@@ -71,7 +71,7 @@ splitting a shared mic into the right characters.
 
 ### What the AI will do
 
-1. **Clean the transcript** → saves to `sessions/transcripts/clean/sN-clean.md`
+1. **Clean the transcript** → saves to `sessions/data/clean/sN-clean.md`
    - Organizes into scenes, attributes dialogue, flags uncertain speakers
    - Zero detail loss — nothing is summarized or cut
 
@@ -193,9 +193,9 @@ The pipeline automatically strips:
 
 | What | Where |
 |------|-------|
-| Raw transcripts | `sessions/transcripts/raw/sN-raw.md` |
+| Raw transcripts | `sessions/data/raw/sN-raw.md` |
 | Session config (GM + shared mics) | `sessions/sN-devin/sN-session-config.json` |
-| Cleaned transcripts | `sessions/transcripts/clean/sN-clean.md` |
+| Cleaned transcripts | `sessions/data/clean/sN-clean.md` |
 | Curated session summaries | `sessions/index.md` |
 | NPC profiles | `characters/npcs/` |
 | PC profiles | `characters/player-characters/` |

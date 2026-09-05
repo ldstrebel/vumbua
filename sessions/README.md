@@ -56,7 +56,7 @@
 The core foundation of this framework guarantees **zero hallucination, zero narrative drift, and 100% auditable provenance** between spoken table audio and published fiction.
 
 ```
-  Layer 1: Raw Indexed Audio (transcripts/index/sN-raw-indexed.md)
+  Layer 1: Raw Indexed Audio (data/index/sN-raw-indexed.md)
            SHA-256 locked, 1-indexed lines (L0001..Lxxxx), verbatim text.
                            │
                            ▼
@@ -101,8 +101,8 @@ Session Zero is fundamentally different from active gameplay sessions. Applying 
 
 When collaborating with independent AI agents (e.g. Antigravity vs. Devin), never rely on subjective text comparison. Use automated differential benchmarking.
 
-### The Tool: `sessions/scripts/diff_runs.py sN`
-Generates an automated markdown comparison report (`sessions/compare/sN-diff-report.md`) covering:
+### The Tool: `sessions/_scripts/diff_runs.py sN`
+Generates an automated markdown comparison report (`sessions/_compare/sN-diff-report.md`) covering:
 
 1. **Executive Metrics Matrix:** Word counts, scene counts, rendered turns, skipped turns, and logged assumptions.
 2. **Substantive Attribution Disagreements:** Isolates genuine identity disagreements (e.g. `GM` vs. `Kristina` on a shared mic) while ignoring cosmetic string aliases (`Person` vs. `PC`).
@@ -153,7 +153,7 @@ Extract deep character backstories from the prologue and weave them directly int
 
 ## 6. Master Storyboard & Book Architecture
 
-Consult [`sessions/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/sessions/planning/book-1-narrative-structure.md) for the complete Volume 1 architecture (*The Basalt Run*, Sessions 0–12):
+Consult [`campaign/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/campaign/planning/book-1-narrative-structure.md) for the complete Volume 1 architecture (*The Basalt Run*, Sessions 0–12):
 
 * **Act I: The Call of the Spires (Sessions 0–2.5):** Intake gauntlet, character origins, bonfire debate, power core infiltration.
 * **Act II: Friction & Contraband (Sessions 3–6):** Classes, study guide hustles, Apex Ring scouting, Hangar 12 infiltration, The Minimum crisis.
@@ -178,7 +178,7 @@ To reuse this framework for a brand new campaign or novel project:
    ```text
    sessions/
    ├── config/              <-- sN-session-config.json
-   ├── transcripts/
+   ├── data/
    │   ├── raw/             <-- sN-raw.md (unmodified recording audio)
    │   ├── index/           <-- sN-raw-indexed.md, sN-attribution.json, sN-manifest.json
    │   └── clean/           <-- sN-clean.md, sN-clean-story.md
@@ -188,7 +188,7 @@ To reuse this framework for a brand new campaign or novel project:
    └── scripts/             <-- Python verification & compilation suite
    ```
 2. **Copy Verification Tooling:**
-   - Copy `prep_raw.py`, `session_config.py`, `attribute_speakers.py`, `assemble_story.py`, `verify_parity.py`, and `diff_runs.py` into `sessions/scripts/`.
+   - Copy `prep_raw.py`, `session_config.py`, `attribute_speakers.py`, `assemble_story.py`, `verify_parity.py`, and `diff_runs.py` into `sessions/_scripts/`.
 3. **Declare Session Config First:**
    - Declare GM, players, and shared mics in `config/sN-session-config.json` before writing any prose.
 4. **Run the Pre-Story Flow Audit:**

@@ -16,9 +16,9 @@ Every Vumbua session produces:
 - A **Blinkist-style sync JSON** (`sN_sync_timestamps.json`) for real-time text highlighting
 - A **WebVTT subtitle track** (`sN_subtitles.vtt`) for web/mobile players
 
-**Single source of truth:** `sessions/transcripts/clean/sN-clean-story.md`  
-**Script:** `sessions/scripts/generate_audiobook.py`  
-**Audit tool:** `sessions/scripts/parse_audit.py`
+**Single source of truth:** `sessions/data/clean/sN-clean-story.md`  
+**Script:** `sessions/_scripts/generate_audiobook.py`  
+**Audit tool:** `sessions/_scripts/parse_audit.py`
 
 ---
 
@@ -40,7 +40,7 @@ Every Vumbua session produces:
 
 ```powershell
 # Verify the story file exists and review its structure
-Get-Item sessions/transcripts/clean/sN-clean-story.md
+Get-Item sessions/data/clean/sN-clean-story.md
 ```
 
 Check that it has:
@@ -54,9 +54,9 @@ Check that it has:
 ## Step 2 — Generate Audio Manifest JSON (MANDATORY — Zero Credits)
 
 ```powershell
-python sessions/scripts/generate_audio_manifest.py `
-  --story sessions/transcripts/clean/sN-clean-story.md `
-  --transcript sessions/transcripts/clean/sN-clean.md `
+python sessions/_scripts/generate_audio_manifest.py `
+  --story sessions/data/clean/sN-clean-story.md `
+  --transcript sessions/data/clean/sN-clean.md `
   --output sessions/audio/sN/sN_audio_manifest.json
 ```
 
@@ -67,9 +67,9 @@ Generates `sN_audio_manifest.json` by processing `sN-clean-story.md` and cross-r
 ## Step 3 — Run 100% Parity & Speaker Audit (MANDATORY — Zero Credits)
 
 ```powershell
-python sessions/scripts/audit_manifest.py `
+python sessions/_scripts/audit_manifest.py `
   --manifest sessions/audio/sN/sN_audio_manifest.json `
-  --story sessions/transcripts/clean/sN-clean-story.md `
+  --story sessions/data/clean/sN-clean-story.md `
   --report sessions/audio/sN/manifest_audit_report.md
 ```
 
@@ -93,7 +93,7 @@ Remove-Item 'sessions/audio/sN/segment_*.mp3' -Recurse -Force
 ## Step 5 — Generate Audio via ElevenLabs
 
 ```powershell
-python sessions/scripts/generate_audiobook.py `
+python sessions/_scripts/generate_audiobook.py `
   --manifest sessions/audio/sN/sN_audio_manifest.json `
   --output-dir sessions/audio/sN `
   --generate
