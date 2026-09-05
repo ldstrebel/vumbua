@@ -77,7 +77,10 @@ sessions/                         # Session transcripts + planning
 ├── transcripts/
 │   ├── raw/                      # Raw transcript input (sN-raw.md)
 │   └── clean/                    # Cleaned session output (session-NN.md)
-└── planning/                     # GM session prep
+├── planning/                     # GM session prep
+├── scripts/                      # Transcript pipeline (prep_raw, attribution, verifiers)
+└── sN-devin/                     # Per-session config + attribution kit
+    └── sN-session-config.json    # ★ REQUIRED: GM + shared mics (see below)
 
 factions/                         # Clans + Harmony houses
 world/                            # World mechanics
@@ -116,6 +119,47 @@ meta/                             # ★ APP MANAGEMENT & TOOLING
 | **NotebookLM exports** (`meta/docs/notebooklm/`) | Consolidated copies for NotebookLM ingestion | Manually re-exported after major updates |
 | **Legacy docs** (`meta/legacy/`) | Original pre-migration source material | Not actively maintained |
 | **AI reference** (`.agent/workflows/lore-index.md`) | Quick reference for AI session processing | After each session |
+
+---
+
+## Session config: GM + shared mics (required input)
+
+Before a transcript is analyzed, the GM records two facts the pipeline is **never**
+allowed to infer from the recording: **who the GM is**, and **whether any mics are
+shared** (which player rides whose mic). They live in
+`sessions/sN-devin/sN-session-config.json`:
+
+```json
+{
+  "session_id": "sN",
+  "gm": "Luke S",
+  "players": { "Sophie": "Britt", "Kristina": "Aggie", "John": "Ignatius", "Luke F": "Lomi", "Holly": "Iggy" },
+  "shared_mics": [
+    {
+      "mic_label": "Luke S",
+      "note": "Kristina speaks Aggie's lines through Luke's GM mic",
+      "carries": [
+        { "person": "Luke S", "identity": "GM", "kind": "gm" },
+        { "person": "Kristina", "identity": "Aggie", "kind": "player_character" }
+      ]
+    }
+  ],
+  "raw_speaker_labels": { "John Hagey": "John", "Luke Strebel": "Luke S" }
+}
+```
+
+- `prep_raw.py` and `attribute_speakers.py` **refuse to run** (exit 2) when the file
+  is missing or `gm` is absent. `shared_mics: []` explicitly declares that no mics
+  were shared; omitting the key is an error.
+- Shared streams are decomposed only for mics declared here, and only into the
+  identities declared — see `sessions/s12-devin/README.md` for the worked example
+  and `sessions/planning/transcript-pipeline-plan.md` §2.0 for the full spec.
+- `raw_speaker_labels` (and `sessions/scripts/speaker_aliases.json`) fix garbled
+  label **spellings** only; they never say who the GM is or who plays whom.
+- `render_clean.py` turns a fully decomposed attribution into
+  `sN-clean-attributed.md`, where every speaker label is a declared identity (or a
+  GM-voiced NPC) anchored to its `L####` line, and the text is verified lossless
+  against the indexed transcript.
 
 ---
 

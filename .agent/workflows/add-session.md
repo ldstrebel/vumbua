@@ -21,7 +21,46 @@ The AI must stop and wait for user confirmation at three points:
 
 - Raw transcript at `sessions/transcripts/raw/sN-raw.md` (Granola, Otter, manual notes — any format)
 - Know the session number
+- `sN-session-config.json` exists and declares the GM (see Step 0)
 - DO NOT start until the raw transcript file exists
+
+---
+
+## Step 0 — Session config: GM + shared mics (HARD PREREQUISITE)
+
+**Before any analysis, obtain and record the GM and shared-mic config from the user.**
+These are user-provided facts. The pipeline NEVER infers them from the transcript.
+
+The user supplies, with the roster:
+1. **who the GM is**, and
+2. **whether any mics are shared** — and which player rides whose mic.
+
+Record them in `sessions/sN-devin/sN-session-config.json` (schema and examples:
+`sessions/s12-devin/README.md`, `sessions/planning/transcript-pipeline-plan.md` §2.0):
+
+```json
+{
+  "session_id": "sN",
+  "gm": "Luke S",
+  "players": { "Sophie": "Britt", "Kristina": "Aggie", "John": "Ignatius", "Luke F": "Lomi", "Holly": "Iggy" },
+  "shared_mics": [
+    {
+      "mic_label": "Luke S",
+      "note": "Kristina speaks Aggie's lines through Luke's GM mic",
+      "carries": [
+        { "person": "Luke S", "identity": "GM", "kind": "gm" },
+        { "person": "Kristina", "identity": "Aggie", "kind": "player_character" }
+      ]
+    }
+  ],
+  "raw_speaker_labels": { "John Hagey": "John", "Luke Strebel": "Luke S" }
+}
+```
+
+- `shared_mics: []` is a real declaration — *no mics are shared*. Omitting the key is an error.
+- If the user hasn't given you the GM or the mic sharing, **stop and ask.** Do not proceed to Step 3.
+- `prep_raw.py` and `attribute_speakers.py` exit with status 2 when the config is missing or `gm` is absent, so a session cannot be processed around this gate.
+- `raw_speaker_labels` fixes garbled **person** labels only. Diarization is per-mic, not per-person.
 
 ---
 
@@ -97,7 +136,7 @@ Every line from `sN-raw.md` MUST be evaluated and categorized into one of three 
 
 1. **Tier A: In-World Spoken Dialogue (`**[[Speaker]] (PC/NPC):** "..."`)**
    * Direct, in-universe spoken lines.
-   * **Disentanglement Rule:** If multiple people share a microphone/stream (e.g. Luke S & Kristina/Aggie), line-by-line audit must disentangle them and assign exact character attributions (`**[[Aggie]] (PC):**`).
+   * **Disentanglement Rule (config-driven):** Disentangle a stream **only** for the mics listed in `shared_mics` in `sN-session-config.json`, and only into the identities that mic declares. For Session 12 the config declares that `Luke S` carries GM narration, GM-voiced NPCs, and Kristina's Aggie, so a line-by-line audit MUST assign the exact character attributions (`**[[Aggie]] (PC):**`). If the config declares no shared mics, do not disentangle — and never widen attribution by inference. Record each per-line call in `sN-attribution-decisions.json` and validate with `python sessions/scripts/attribute_speakers.py sN`.
    * **NPC Disentanglement:** Disentangle NPC spoken dialogue from GM scene descriptions into explicit NPC dialogue blocks (`**[[NPC Name]] (NPC):**`).
 
 2. **Tier B: Player Action & Intent Context (`*Player Action Intent:*`)**

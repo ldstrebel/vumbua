@@ -20,12 +20,17 @@ During recent transcript novelizations, critical narrative beats, dialogue turns
 ## 2. Pipeline Architecture (5 Steps)
 
 ```
+[STEP -1: USER-PROVIDED SESSION CONFIG (sN-session-config.json)] ← HARD GATE
+  • gm + players + shared_mics, provided by the user before any analysis
+  • prep_raw.py / attribute_speakers.py refuse to run without it (exit 2)
+       │
+       ▼
 [sN-raw.md] (Raw Audio Output)
        │
        ▼
 [STEP 0: Python Normalization + Speaker Aliasing (prep_raw.py)]
   • Normalizes line endings, strips trailing whitespace & blank lines
-  • Applies canonical speaker-alias map (Ignatious→Ignatius, Loami→Lomi, …)
+  • Normalizes speaker labels to canonical PERSON labels (Luke Strebel→Luke S, …)
   • Prefixes immutable L0001: line numbers
   • Writes sessions/transcripts/index/sN-raw-indexed.md
   • Computes SHA-256 of the INDEXED file (the single canonical artifact)
@@ -67,27 +72,110 @@ During recent transcript novelizations, critical narrative beats, dialogue turns
 
 ## 3. Step Specifications
 
+### §2.0 — Session config (Step -1): `sessions/sN-devin/sN-session-config.json`
+
+The GM identity and mic sharing are **user-provided facts, not pipeline inferences.**
+The user supplies both before any analysis begins; the pipeline records them
+verbatim and gates on them. Nothing downstream is permitted to derive "who is the
+GM" or "whose lines are on this mic" from transcript content.
+
+```json
+{
+  "session_id": "sN",
+  "gm": "<person label of the GM>",
+  "players": { "<person label>": "<character>" },
+  "shared_mics": [
+    {
+      "mic_label": "<stream label diarization emits>",
+      "note": "why this mic carries more than one identity",
+      "carries": [
+        { "person": "<owner>", "identity": "GM",          "kind": "gm" },
+        { "person": "<rider>", "identity": "<character>", "kind": "player_character" }
+      ]
+    }
+  ],
+  "raw_speaker_labels": { "<garbled label>": "<canonical person label>" }
+}
+```
+
+* **Discovery order** (`sessions/scripts/session_config.py`): `sN-devin/`, then
+  `config/`, then `transcripts/index/`.
+* **Hard gate.** Missing file, wrong `session_id`, missing/empty `gm`, missing
+  `players`, or a missing `shared_mics` key → exit status 2 with a message telling
+  the operator to get the facts from the user. `shared_mics: []` is the explicit
+  way to declare *no mics are shared* — omission is an error, because silence is
+  not a declaration.
+* **Validated cross-references.** A `gm` slot must name the declared `gm`; a
+  `player_character` slot's `identity` must equal `players[person]`; every
+  `raw_speaker_labels` value must be a declared person label.
+* **`raw_speaker_labels` is spelling normalization only** (`John Hagey` → `John`).
+  Diarization is per-mic, not per-person: a raw label names a microphone stream,
+  which may carry several identities — but only the ones `shared_mics` declares.
+* **Separation of concerns.** `sessions/scripts/speaker_aliases.json` keeps global
+  *spelling* maps only (`person_labels`, `character_labels`). It no longer encodes
+  `"Luke S": "GM"` or person→character routing, neither of which generalizes across
+  sessions — those live in the per-session config.
+
 ### Step 0: `sessions/scripts/prep_raw.py`
 
 * **Input:** `sessions/transcripts/raw/sN-raw.md`
 * **Output:** `sessions/transcripts/index/sN-raw-indexed.md` + printed SHA-256
 * **Actions:**
   1. Normalize `\r\n` → `\n`, strip trailing whitespace, drop blank lines.
-  2. Apply the **canonical speaker-alias map** (maintained in `sessions/scripts/speaker_aliases.json`) to speaker labels only — never to dialogue content. Raw audio transcription misspells names constantly; aliasing here keeps `speakers_present` clean downstream.
+  2. Apply **spelling normalization** to speaker labels only — never to dialogue content. Sources: `sessions/scripts/speaker_aliases.json` (global) and the session config's `raw_speaker_labels` (per-session, wins on conflict). Labels normalize to canonical **person** labels; they are NOT collapsed into characters or into `GM`, because a diarized label is a mic, and mapping mic→identity is the attribution stage's job (§3.0b). Prints a per-stream summary marking which streams the config declares as shared.
   3. Prefix every line with `L0001: `, `L0002: `, ….
   4. Compute and print SHA-256 **of the indexed file**. This is the one canonical artifact all later steps verify against — never hash the pre-normalization raw file (re-running prep must be detectable).
 
-**Speaker alias map (initial):**
+**Speaker alias map (spelling only — two sections):**
 ```json
 {
-  "Ignatious": "Ignatius", "Lava Boy": "Ignatius",
-  "Loami": "Lomi", "Lowmi": "Lomi",
-  "Iggie": "Iggy", "The Mole": "Iggy",
-  "Aggy": "Aggie",
-  "Brit": "Britt"
+  "person_labels":    { "John Hagey": "John", "Luke Foreman": "Luke F", "Christina": "Kristina" },
+  "character_labels": { "Ignatious": "Ignatius", "Loami": "Lomi", "Aggy": "Aggie", "Brit": "Britt" }
 }
 ```
-Extend as new mishearings appear.
+Extend as new mishearings appear. Never add GM identity or person→character routing here.
+
+### Step 0b: `sessions/scripts/attribute_speakers.py` (attribution stage, §3.0b)
+
+Turns streams into identities, driven entirely by the config:
+
+* A stream **not** listed in `shared_mics` carries exactly one identity — `gm` or
+  `players[person]`. No decomposition is attempted.
+* A stream **listed** in `shared_mics` is decomposed into its declared identities
+  **only**. The per-line calls are semantic work recorded in
+  `sN-attribution-decisions.json`; allowed identity values per line are the mic's
+  declared identities plus `NPC:<Name>` (a GM-voiced NPC, permitted only for a mic
+  that carries the GM). Each segment's text must be a verbatim substring of its raw
+  line, and any other identity is a hard violation.
+* Shared-mic lines with no decision are emitted as `kind: "needs_decomposition"`
+  with the config's candidate identities — never silently defaulted to the mic's
+  owner. `--strict` fails while any remain.
+* Output: `sN-attribution.json` (segments + per-stream/per-identity counts +
+  violations).
+* **Harness (`sessions/sN-devin/test_attribution.py`)** generates its assertions
+  from the config: each declared solo mic must resolve to its declared character,
+  and each declared shared mic must yield ≥ 1 segment per carried identity. For s12
+  the config declares that `Luke S` carries Kristina's Aggie, so the
+  `raw_person: Luke S → character: Aggie` assertion is mandatory and
+  config-derived; a config declaring no shared mics generates no such assertion.
+  This removes the guess in both directions.
+* A decision may set `"ooc": true` to mark out-of-character table talk (Tier C) on a
+  shared mic, so meta chatter is classified rather than dropped.
+
+### Step 0c: `sessions/scripts/render_clean.py` (attribution-derived clean transcript)
+
+* Consumes `sN-attribution.json` + the indexed transcript, emits
+  `sN-clean-attributed.md`: one entry per attributed segment, anchored to `L####`,
+  labelled with the config-declared identity (and, for a shared mic, the person behind
+  the character — `Aggie (PC, Kristina on Luke S's mic)`).
+* Refuses to run while any line is `needs_decomposition`, so a rendered clean always
+  covers the whole session.
+* **Zero loss is mechanical, not asserted:** text inside a shared-mic line that no
+  decision claims is emitted as an *unsegmented remainder* credited to the mic's GM slot
+  (unattributed if the mic carries no GM), and the harness compares the rendered text
+  against the indexed text character-for-character.
+* This is the attribution ground truth for a curated clean transcript; it is not a
+  substitute for the scene/subscene structure of a hand-written `sN-clean.md`.
 
 ### Step 1: LLM Manifest Extraction → `sessions/transcripts/index/sN-manifest.json`
 
@@ -181,8 +269,15 @@ Non-LLM mechanical gate. Checks, collecting all violations before reporting:
 
 ```
 sessions/
+├── sN-devin/
+│   ├── sN-session-config.json           (user-provided GM + shared mics — hard gate)
+│   ├── sN-attribution-decisions.json    (per-line decomposition of declared shared mics)
+│   └── test_attribution.py              (config-derived harness)
 ├── scripts/
+│   ├── session_config.py
 │   ├── prep_raw.py
+│   ├── attribute_speakers.py
+│   ├── render_clean.py
 │   ├── speaker_aliases.json
 │   ├── verify_manifest.py
 │   └── verify_parity.py
@@ -197,7 +292,12 @@ sessions/
 
 ## 5. Workflow Integration (`.agent/workflows/add-session.md`)
 
+0. **Get the GM and shared-mic config from the user** and record
+   `sessions/sN-devin/sN-session-config.json`. Every later step is gated on it.
 1. `python sessions/scripts/prep_raw.py sN` → indexed file + hash.
+1b. `python sessions/scripts/attribute_speakers.py sN` → `sN-attribution.json`;
+1c. `python sessions/scripts/render_clean.py sN` → `sN-clean-attributed.md`;
+   `python sessions/sN-devin/test_attribution.py` → config-derived assertions.
 2. LLM manifesting → `sN-manifest.json` (≤ 150 lines/block, ledger per block, OOC flagged).
 3. `python sessions/scripts/verify_manifest.py sN` → **must PASS before step 4.**
 4. Micro-chunk novelization, one block per pass → `sN-clean-story.md`.
@@ -436,3 +536,4 @@ characters/
 | 6 | `### Subscene` blacklist of one | Header whitelist (`#`, `##` only) |
 | 7 | Speaker-name drift (Ignatious/Loami) pollutes manifests | Canonical alias map applied at Step 0 |
 | 8 | Everything dumped in `raw/` | `index/` directory for derived artifacts |
+| 9 | GM identity and mic sharing lived in workflow prose and a global hardcoded `"Luke S": "GM"` alias | Per-session `sN-session-config.json` as a hard gate (§2.0); alias map demoted to spelling only |

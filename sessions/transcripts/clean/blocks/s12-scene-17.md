@@ -1,23 +1,27 @@
 <!-- RAW_RANGE: [1578, 1600] | SCENE_ID: 17 -->
 
-## CHAPTER 6: THE WANTILA FUNGUS BARRIER
+## CHAPTER 14: THE OLD GROWTH
 
-The spider walker came to a halt at the perimeter of a deep, twilight-shadowed clearing in the heart of the Mizizi forest. Before them stood the oldest petrified tree in Vumbua—a colossal oak whose dark bark-like trunk rose hundreds of feet into the canopy, its roots wrapped around ancient mossy stone steps. Carved deep into the center of the trunk was a worn, Native American-inspired geometric petroglyph mandala. <!-- L1579 -->
+For two days, the walker *Elijah* galloped southward across the plains, maintaining a strict watch rotation at the bridge helm so that no cadet ever broke visual contact with Mwaza-Kasa's wake in the grass.
 
-Surrounding the base of the sacred tree was a thirty-foot-wide circular ring of dense, glowing neon-green Wantila fungus, pulsating with toxic Aetheric spores. "They're cultivating it!" Rill gasped, stepping back. <!-- L1581 -->
+On the third morning, the savanna gave way to towering ancient timbers. The petrified canopy thickened into an impenetrable labyrinth of colossal moss-draped trunks, forcing *Elijah* to grind to a halt at the edge of the forbidden old growth. The expedition disembarked onto the damp loam, continuing on foot into territory that Mizizi elders had explicitly forbidden their youth from ever entering. <!-- L1579 -->
 
-The spirit tortoise walked straight into the fungal radius, touching the petrified oak trunk. <!-- L1583 -->
+At the center of a wide, mist-shrouded clearing stood the largest living organism any of them had ever witnessed—a colossal, ancient primordial tree whose petrified roots coiled across the clearing like sleeping dragons.
 
-Ignatius held up his hand, shielding his face from the eerie green glow. "I don't think that anything should touch that," Ignatius cautioned, eyeing the thick fungal ring. <!-- L1584 -->
+Encircling the base of the massive trunk was a thirty-foot ring of dense, glowing neon-green fungus—the exact lethal organism Rill had identified from the canyon caves.
 
-Iggy stepped up to the edge of the fungal radius, peering through his water-filled copper goggles. "Oh," Iggy blinked. <!-- L1585 --> <!-- L1586 -->
+Rill gasped in pure horror, stumbling back. "They're cultivating it..." Rill breathed in terrified disbelief. "How is that even possible?!" <!-- L1581 -->
 
-"He passes right through the fungus stuff," Professor Ink pointed out, watching the spirit tortoise wade through the glowing green spores without hesitation. <!-- L1587 -->
+Mwaza-Kasa crawled steadily to the edge of the clearing, turned back to meet the gaze of each member of the party, and then waddled straight into the ring of lethal fungus. Reaching the ancient bark, the giant Spirit Tortoise pressed its front limb against the wood—and collapsed motionless to the earth. <!-- L1581 --> <!-- L1583 -->
 
-"Oh, passes through!" Ignatius realized, stepping back. "I thought you said he passed out! I thought we just watched the tortoise touch it and just die, and I was like, 'Oh, oh no!'" <!-- L1588 --> <!-- L1590 --> <!-- L1593 -->
+Ignatius cried out in alarm, jumping forward. "Don't touch that! Did the turtle just die?!" <!-- L1583 -->
 
-Professor Ink chuckled softly. "No, not immediately," she reassured him. "You can walk through this thirty-foot radius around the tree if you drink the antidote salve." <!-- L1596 -->
+Iggy didn't hesitate. Pulling his heavy trench coat tight around his dirt-kin frame, Iggy marched straight through the thirty-foot perimeter of glowing fungal spores. The toxic dust swirled harmlessly against his clay skin as he reached the fallen tortoise, kneeling beside its shell. <!-- L1583 -->
 
-"I have enough salve for eight people," Rill informed the squad. <!-- L1598 -->
+Beneath Iggy's hands, the glowing teal veins across Mwaza-Kasa's carapace were rapidly fading into dull, ashen grey.
 
-<!-- LEDGER: rendered=[1579, 1581, 1583, 1584, 1585, 1586, 1587, 1588, 1590, 1593, 1596, 1598] skipped=[] -->
+Britt unslung her satchel, stepping up to the perimeter. "I have eight vials of stabilizing antidote," Britt announced firmly. "It won't cure us permanently, but it gives us time. If we are going to touch that tree and uncover what happened here... we take the draught together." <!-- L1598 -->
+
+Aggie walked to an adjacent sentinel tree on the edge of the clearing, placing her palms against its bark to commune with the roots. But the wood remained cold, silent, and petrified—as if the ancient spirit of the forest were holding its breath, waiting for the six clans to step forward. <!-- L1598 -->
+
+<!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[] -->

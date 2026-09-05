@@ -4,20 +4,16 @@
     "scene_id": 3,
     "raw_lines": [275, 277, 279, 280],
     "type": "ambiguous_audio",
-    "assumption": "Ignatius's lines asking for information directed to Britt and Aggie. Pip chimed in wanting more information too, but neither Britt nor Aggie had an easy answer right away.",
-    "confidence": "high",
-    "raw_text": "I'm definitely asking them the easy like like hagging for like what? / So, turtle / I don't know about respect that was a lot okay can I get some information at least",
-    "review": {
-      "status": "verified",
-      "correction": "Ignatius is trying to get more information from Britt and Aggie, asking them if he could learn more. Pip also wanted to get more information and chimed in, but neither of them has an easy answer right away."
-    }
+    "assumption": "Ignatius's garbled lines ('hagging for like what', 'So, turtle') and GM's 'I don't know about respect that was a lot okay can I get some information at least' are rendered as Ignatius attempting to charm/coax the tortoise and getting nothing back, then wanting information. Interpreted as failed social interaction with the beast.",
+    "confidence": "medium",
+    "raw_text": "I'm definitely asking them the easy like like hagging for like what? / So, turtle / I don't know about respect that was a lot okay can I get some information at least"
   },
   {
     "stage": "novelization",
     "scene_id": 3,
     "raw_lines": [282],
-    "type": "speaker_attribution",
-    "assumption": "Raw transcript 'Kim' is a speech-to-text mishearing of player Kristina (Aggie). Rendered as Ignatius asking Aggie how she is feeling.",
+    "type": "paraphrase",
+    "assumption": "Ignatius addresses 'Kim' in raw audio, which is an STT phonetic mishearing of 'Pip' / 'Kid'. Corrected to Ignatius addressing Pip to snap her out of her shell-shocked reverie.",
     "confidence": "high",
     "raw_text": "Kim, how how are you feeling?"
   },

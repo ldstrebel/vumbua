@@ -21,6 +21,8 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("session_id")
     ap.add_argument("--title", default=None, help="Top-level # title for the story")
+    ap.add_argument("--no-lint", action="store_true", help="Skip editorial harness linter pass")
+    ap.add_argument("--no-parity", action="store_true", help="Skip transcript parity verification pass")
     args = ap.parse_args()
     sid = args.session_id
 
@@ -95,23 +97,50 @@ def main():
             print(f"  - {e}")
         sys.exit(1)
 
-    full_raw_text = "\n".join(parts)
-    # Strip HTML comments like <!-- L0123 -->, <!-- RAW_RANGE... -->, and <!-- LEDGER... --> for final clean reader output
-    clean_story_text = re.sub(r"<!--\s*L\d+\s*-->", "", full_raw_text)
-    clean_story_text = re.sub(r"<!--\s*RAW_RANGE:.*?-->\n?", "", clean_story_text)
-    clean_story_text = re.sub(r"<!--\s*LEDGER:.*?-->\n?", "", clean_story_text)
-    clean_story_text = re.sub(r"\n{3,}", "\n\n", clean_story_text).strip() + "\n"
-
-    with open(out_path, "w", encoding="utf-8") as f:
-        f.write(clean_story_text)
+    tmp_out = out_path + ".tmp"
+    with open(tmp_out, "w", encoding="utf-8") as f:
+        f.write("\n".join(parts))
+    os.replace(tmp_out, out_path)
 
     for i, a in enumerate(assumptions, 1):
         a["id"] = f"A-{i:03d}"
-    with open(assumptions_out, "w", encoding="utf-8") as f:
+    tmp_assumptions = assumptions_out + ".tmp"
+    with open(tmp_assumptions, "w", encoding="utf-8") as f:
         json.dump(assumptions, f, indent=2)
+    os.replace(tmp_assumptions, assumptions_out)
 
-    print(f"[OK] Wrote {out_path} ({len(manifest['scene_blocks'])} scenes)")
-    print(f"[OK] Wrote {assumptions_out} ({len(assumptions)} assumptions)")
+    print(f"[OK] Wrote {out_path} ({len(manifest['scene_blocks'])} scenes) [atomic]")
+    print(f"[OK] Wrote {assumptions_out} ({len(assumptions)} assumptions) [atomic]")
+
+    # 1. Parity Audit Gate
+    if not args.no_parity:
+        try:
+            from verify_parity import verify_parity
+            passed, p_errs, p_warns = verify_parity(sid)
+            if not passed:
+                print(f"[FAIL] Parity check failed with {len(p_errs)} errors.")
+        except ImportError:
+            try:
+                from sessions.scripts.verify_parity import verify_parity
+                passed, p_errs, p_warns = verify_parity(sid)
+                if not passed:
+                    print(f"[FAIL] Parity check failed with {len(p_errs)} errors.")
+            except Exception as e:
+                print(f"[WARN] Could not run parity verification: {e}")
+
+    # 2. Editorial Linter Gate
+    if not args.no_lint:
+        try:
+            from harness.cli import run_full_lint, print_report_card
+            report = run_full_lint(out_path)
+            print_report_card(report, verbose=False)
+        except ImportError:
+            try:
+                from sessions.scripts.harness.cli import run_full_lint, print_report_card
+                report = run_full_lint(out_path)
+                print_report_card(report, verbose=False)
+            except Exception as e:
+                print(f"[WARN] Could not run editorial linter: {e}")
 
 
 if __name__ == "__main__":

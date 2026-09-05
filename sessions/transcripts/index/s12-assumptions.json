@@ -9,13 +9,9 @@
       280
     ],
     "type": "ambiguous_audio",
-    "assumption": "Ignatius's lines asking for information directed to Britt and Aggie. Pip chimed in wanting more information too, but neither Britt nor Aggie had an easy answer right away.",
-    "confidence": "high",
+    "assumption": "Ignatius's garbled lines ('hagging for like what', 'So, turtle') and GM's 'I don't know about respect that was a lot okay can I get some information at least' are rendered as Ignatius attempting to charm/coax the tortoise and getting nothing back, then wanting information. Interpreted as failed social interaction with the beast.",
+    "confidence": "medium",
     "raw_text": "I'm definitely asking them the easy like like hagging for like what? / So, turtle / I don't know about respect that was a lot okay can I get some information at least",
-    "review": {
-      "status": "verified",
-      "correction": "Ignatius is trying to get more information from Britt and Aggie, asking them if he could learn more. Pip also wanted to get more information and chimed in, but neither of them has an easy answer right away."
-    },
     "id": "A-001"
   },
   {
@@ -24,8 +20,8 @@
     "raw_lines": [
       282
     ],
-    "type": "speaker_attribution",
-    "assumption": "Raw transcript 'Kim' is a speech-to-text mishearing of player Kristina (Aggie). Rendered as Ignatius asking Aggie how she is feeling.",
+    "type": "paraphrase",
+    "assumption": "Ignatius addresses 'Kim' in raw audio, which is an STT phonetic mishearing of 'Pip' / 'Kid'. Corrected to Ignatius addressing Pip to snap her out of her shell-shocked reverie.",
     "confidence": "high",
     "raw_text": "Kim, how how are you feeling?",
     "id": "A-002"
@@ -153,13 +149,9 @@
       484
     ],
     "type": "speaker_attribution",
-    "assumption": "The line 'I don't have that answer right now' is spoken by Aggie in response to Val asking 'What is it for?'.",
-    "confidence": "high",
+    "assumption": "The mourning NPC 'Val' with red eyes over Kale, mourning Finch and the blonde 'potato arena' captain, is identified as Valerius Sterling (radio host cousin who watches academy events and knows the cadets). Line 464 condolences attributed in the manifest to 'Britt' are rendered as spoken by her PC Aggie, consistent with the scene beat 'Aggie offers condolences to Valerius Sterling.'",
+    "confidence": "medium",
     "raw_text": "Val just looks up and his eyes are red / I'm sorry for your loss / what what is it for? I don't have that answer right now.",
-    "review": {
-      "status": "verified",
-      "correction": "The line 'I don't have that answer right now' is spoken by Aggie (Kristina), not Val."
-    },
     "id": "A-012"
   },
   {
@@ -494,7 +486,7 @@
       875
     ],
     "type": "ambiguous_audio",
-    "assumption": "GM reference 'Will' is a speech-to-text mishearing of NPC Rill (alias Real). The GM is asking Ignatius if he's referring to Rill.",
+    "assumption": "GM reference 'Will' is an STT phonetic garble for Rill (who was Zephyr's former squadmate, note-taker, and caretaker). Corrected to Rill.",
     "confidence": "high",
     "raw_text": "You're referring to Will, right?",
     "id": "A-037"
@@ -706,8 +698,8 @@
       1160
     ],
     "type": "ambiguous_audio",
-    "assumption": "Speech-to-text mishearing of 'Brent and Aggie' ('Brian Naggi' -> 'Brent and Aggie'). Ignatius (played by Brent) is thanking the team effort of himself and Aggie for how they survived in the forest.",
-    "confidence": "high",
+    "assumption": "Ignatius's garbled 'Thanks to Brian Naggi brand trees' repaired to a reference to the branching trees/roots network that kept his people alive in the forest; treated as a non-ledger table-talk beat and folded into narration.",
+    "confidence": "low",
     "raw_text": "Thanks to Brian Naggi brand trees so we didn't die in the forest. Was actually very helpful.",
     "id": "A-053"
   },
@@ -1116,7 +1108,7 @@
       1655
     ],
     "type": "paraphrase",
-    "assumption": "Ignatius reacting to his personal journey through the four acts of the vision ('This is awesome', 'dope as f***', 'Harmony is going in reverse'). Rendered as Ignatius experiencing the ancestral vision unwinding backwards.",
+    "assumption": "The full 8-act ancestral vision narrative (The First Union, City in the Deep, Mountain of Neon Light, Sky-Ziggurats, Stagnation & Decay, Regression of War, Spark-Soul Truth & The Exchange, and The Memory Purge & Wantila Defense) was fully novelized from the canonical graphic novel storyboard (sessions/storyboards/clans-origin-storyboard.md), framed through the secondhand outsider memory of the Spirit Tortoise.",
     "confidence": "high",
     "raw_text": "This is awesome. / Oh, this is dope as f***.",
     "id": "A-083"

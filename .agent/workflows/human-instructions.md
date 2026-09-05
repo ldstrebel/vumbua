@@ -46,15 +46,28 @@ Two flows cover 90% of ongoing work. Everything else is referenced below.
 - Raw transcript dropped at `sessions/transcripts/raw/sN-raw.md`
   (Granola export, Otter, manual notes — any format works)
 - Know the session number
+- Know **who ran the session** and **whether anyone shared a mic**
 
 ### What you tell the AI
+
+The GM line and the shared-mic line are **required** — the AI is not allowed to work
+them out from the transcript, and the pipeline refuses to start without them:
 
 ```
 /add-session
 Process Session N. Raw transcript is at sessions/transcripts/raw/sN-raw.md.
-Players: Sophie (Britt), Kristina (Aggie), John (ignatious), Luke (Loami), Holly (Iggy).
+GM: Luke (as GM)
+Players: Sophie (Britt), Kristina (Aggie), John (Ignatious), Luke F (Loami), Holly (Iggy)
+Shared mics: Kristina/Aggie shares Luke's GM mic (labeled "Luke S")
 Date: [session date]
 ```
+
+If nobody shared a mic, say so explicitly — `Shared mics: none`. "None" and "you
+didn't mention it" are different answers, and only the first one lets the AI proceed.
+
+The AI records this verbatim as `sessions/sN-devin/sN-session-config.json` before
+reading a single transcript line. That file is what drives GM/NPC separation and
+splitting a shared mic into the right characters.
 
 ### What the AI will do
 
@@ -181,6 +194,7 @@ The pipeline automatically strips:
 | What | Where |
 |------|-------|
 | Raw transcripts | `sessions/transcripts/raw/sN-raw.md` |
+| Session config (GM + shared mics) | `sessions/sN-devin/sN-session-config.json` |
 | Cleaned transcripts | `sessions/transcripts/clean/sN-clean.md` |
 | Curated session summaries | `sessions/index.md` |
 | NPC profiles | `characters/npcs/` |
@@ -207,7 +221,7 @@ The pipeline automatically strips:
 
 ### Transcript quality
 - More context is better — include table talk; the AI filters IC vs OOC
-- Identify who the GM is in the transcript so the AI can separate narration from player speech
+- Always state who the GM is and who shared a mic (see Flow 2) — this is what lets the AI separate narration from player speech instead of guessing
 - Any format works (Granola export, raw text, bullet notes)
 
 ### Iterating on session summaries

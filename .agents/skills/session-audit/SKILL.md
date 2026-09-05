@@ -1,42 +1,40 @@
 ---
 name: session-audit
-description: Comprehensive workflow and post-mortem protocol for auditing session transcripts, novelization prose, and storyboards against raw audio recordings.
+description: Auditing, fixing, and maintaining parity across raw transcripts, clean attributed transcripts, novelized story blocks, and storyboards.
 ---
 
-# Session Transcript Audit & Post-Mortem Protocol
+# Session Audit & Novelization Skill (Ebook Standard)
 
-Use this skill when processing session recordings, cleaning transcripts, novelizing campaign chapters, generating storyboards, or performing post-mortems when gaps or discrepancies are identified.
+Use this skill when auditing session transcripts, cleaning dialogue, novelizing session chapters, or running post-mortems on prose quality and transcript fidelity.
 
 ---
 
-## 🏗️ The 5-Stage Data Transformation Pipeline
-
-Every TTRPG session in Vumbua follows a strict, non-destructive 5-stage transformation pipeline:
+## 🏛️ Ground-Truth Hierarchy
 
 ```
   ┌─────────────────────────────────────────────────────────┐
-  │ 1. Raw Audio Recording (sessions/transcripts/raw/sN-raw.md) │
-  │    Line-by-line Whisper STT capture of table audio.    │
+  │ 1. Raw Indexed Transcript (transcripts/index/sN-raw-indexed.md)│
+  │    Immutable L#### line indices with raw audio.         │
   └────────────────────────────┬────────────────────────────┘
                                │
                                ▼
   ┌─────────────────────────────────────────────────────────┐
-  │ 2. Indexed Raw Transcript (index/sN-raw-indexed.md)     │
-  │    Indexed with line markers (L0001...) and line ranges. │
+  │ 2. Session Config (sessions/sN-devin/sN-session-config.json)│
+  │    Declared GM, players, and shared mic mappings.       │
   └────────────────────────────┬────────────────────────────┘
                                │
                                ▼
   ┌─────────────────────────────────────────────────────────┐
-  │ 3. Clean Transcript (clean/sN-clean.md)                 │
-  │    Categorized into Tier A (In-World), Tier B (Action),│
-  │    and Tier C (Meta/Table Talk).                        │
+  │ 3. Attributed Clean Transcript (clean/sN-clean-attributed.md)│
+  │    100% audited speaker attributions, table talk OOC    │
+  │    declarations, turn stitching, and storyboard splices.│
   └────────────────────────────┬────────────────────────────┘
                                │
                                ▼
   ┌─────────────────────────────────────────────────────────┐
   │ 4. Novelized Story Blocks (clean/blocks/sN-scene-XX.md)  │
-  │    Sanderson-style prose with Direct Dialogue Locking   │
-  │    and verbatim character line markers (<!-- Lxxxx -->).│
+  │    Sanderson-caliber prose, full scene staging,         │
+  │    proper quoted dialogue, and line markers (<!-- Lxxxx -->).│
   └────────────────────────────┬────────────────────────────┘
                                │
                                ▼
@@ -49,96 +47,107 @@ Every TTRPG session in Vumbua follows a strict, non-destructive 5-stage transfor
 
 ---
 
-## 🚫 Historical Failure Modes & Post-Mortem Register
-
-This section documents verified failure modes encountered during campaign processing so the engine never regresses:
+## 🚫 Comprehensive Failure Modes & Post-Mortem Register
 
 ### 1. Gist-Level Manifest Truncation
-* **Symptom:** High-value character dialogue, comedic beats, or world-tech explanations present in `sN-raw.md` vanish from the novelization.
-* **Root Cause:** Initial indexing scripts (`build_manifest.py`) compressed 50–100 lines of raw transcript into brief summary bullets in `dialogue_ledger`. If a line was omitted from the manifest ledger, downstream prose generators never saw it.
-* **Prevention:** Always run `python sessions/scripts/audit_transcript_gaps.py sN` to scan `sN-raw-indexed.md` against `sN-clean-story.md` for skipped player/NPC dialogue turns.
+* **Symptom:** High-value character dialogue, comedic beats, or world-tech explanations present in raw audio vanish from the novelization.
+* **Root Cause:** Compressing raw transcript turns into summary bullets. Downstream prose generators never see the skipped turns.
+* **Prevention:** Every spoken turn must be tracked in the manifest ledger and accounted for in prose.
 
 ### 2. Heuristic Keyword Coarseness
 * **Symptom:** Audit tools report `[PASS]` even though critical spoken exchanges are completely missing.
-* **Root Cause:** Audit scripts checked *binary presence* of broad keywords (e.g. checking if "Sterling Broadcast" appeared anywhere in the text), ignoring whether the actual spoken dialogue between characters was included.
-* **Prevention:** Never rely on simple keyword regex to claim coverage. Combine `audit_sN_raw_coverage.py` with line-by-line differential dialogue audits.
+* **Root Cause:** Checking binary keyword presence rather than verbatim line-by-line dialogue representation.
+* **Prevention:** Never rely on regex matchers alone. Conduct granular scene-by-scene dialogue audits.
 
 ### 3. Fused Interjections & Turn Order Compression
-* **Symptom:** Character A starts speaking, Character B interjects, and Character A finishes—but the novelization fusses Character A's lines into one continuous block, dropping Character B's interjection.
-* **Root Cause:** Skipping interjections in `dialogue_ledger` as "table chatter" causes LLM prose generators to fuse non-contiguous speech turns.
-* **Prevention:** Every character interjection (e.g. Lucky interrupting Lomi, Britt admitting she forgot the flare) must preserve its exact line order and marker tag (`<!-- Lxxxx -->`).
+* **Symptom:** Rapid speaker alternation gets collapsed into a single speaker's continuous monologue, dropping interjections.
+* **Root Cause:** Skipping interjections as "table chatter".
+* **Prevention:** Read multi-speaker clusters holistically. Every interjection must have its own prose beat.
 
 ### 4. OOC Table Talk vs. In-World Character Banter Misclassification
-* **Symptom:** Real in-world character dialogue is accidentally stripped as "table talk", OR actual out-of-character GM meta-comments (e.g. reminding a player they are upstairs on the bridge) are erroneously novelized into in-universe canon.
-* **Root Cause:** Relying on automated regex without human context verification.
-* **Prevention:** 
-  * In-world spoken dialogue $\rightarrow$ Novelize with verbatim quotes.
-  * OOC table chatter (location reminders, rule checks, dice math) $\rightarrow$ Purge from story prose.
+* **Symptom:** Real in-world banter stripped as table talk, or OOC meta questions novelized into in-universe canon.
+* **Prevention:** Config-gated attribution with explicit `ooc_ranges` and `ooc_lines` declaring table talk with real names.
 
 ### 5. STT Phonetic Mishearings & Entity Name Drift
-* **Symptom:** Character names or locations are mangled (e.g. `Rill` misheard as `Real`, `Professor Ink` misheard as `Professor Inc.`, `Lassi Zizi` misheard as `Lazizi`, `Brent & Aggie` misheard as `Brian Nagy`).
-* **Root Cause:** Speech-to-text models phonetically guessing names not present in their dictionary.
+* **Symptom:** Names mangled (`Rill` $\rightarrow$ `Real`, `Professor Ink` $\rightarrow$ `Professor Inc.`, `Aggie` $\rightarrow$ `Nagy`, `Bramble` $\rightarrow$ `Vanball`, `Pip` $\rightarrow$ `Kim`).
 * **Prevention:** Cross-reference every entity against `characters/` and `lore/` dossiers before writing scene blocks.
 
----
-
-## 🛠️ Differential Verification Audit Suite
-
-Before declaring any session clean or presenting story blocks for approval, run the full 4-pass verification suite:
-
-```bash
-# 1. Tile line ranges and validate manifest JSON structure
-python sessions/scripts/verify_manifest.py sN
-
-# 2. Verify 100% transcript coverage and line marker ascending order
-python sessions/scripts/verify_parity.py sN
-
-# 3. Detect any omitted player/NPC dialogue turns between rendered bounds
-python sessions/scripts/audit_transcript_gaps.py sN
-
-# 4. Audit canon plot anchors against raw, clean, and story files
-python sessions/scripts/audit_s12_raw_coverage.py
-```
-
----
-
-## 📋 Mandatory Post-Mortem Checklist
-
-Whenever the user identifies a missing gap, ordering error, or prose inconsistency:
-
-1. **Acknowledge & Isolate:** Identify the exact raw line numbers (`Lxxxx`) in `sN-raw-indexed.md`.
-2. **Determine Category:** Is it an omitted turn, a turn-order interjection, an STT entity mishearing, or an OOC table-talk leak?
-3. **Update Block Files:** Edit `sessions/transcripts/clean/blocks/sN-scene-XX.md` with verbatim dialogue and correct line markers (`<!-- Lxxxx -->`).
-4. **Update Manifest Ledger:** Ensure `sN-manifest.json` reflects the added line numbers in `dialogue_ledger`.
-5. **Re-Assemble & Verify:**
-   ```bash
-   python sessions/scripts/assemble_story.py sN --title "..."
-   python sessions/scripts/build_dossier.py sN
-   python sessions/scripts/verify_parity.py sN
-   python sessions/scripts/audit_transcript_gaps.py sN
-   ```
-6. **Log Learnings:** If a new failure mode or pattern was discovered, add a new entry to the **Historical Failure Modes & Post-Mortem Register** in this skill file!
-
----
-
-## 📋 Systemic Checks for Every Scene Block
-
-Apply these before finalizing any scene (in addition to the 4-pass suite):
-
-| Check | Rule |
-|---|---|
-| **Turn cluster fusion** | When two speakers alternate rapidly across 5+ lines, read the full cluster holistically before writing any paragraph. The emotional payoff of a turn often completes 5–10 lines after the last interruption. |
-| **STT nickname drift** | Pre-load character nicknames from `characters/` before writing each scene. Any proper noun not in a character file must be flagged. |
-| **Clipped STT lines** | Any line ending without punctuation or syntactically incomplete → flag `[CLIPPED]`, resolve using adjacent context before writing prose. |
-| **Tier B in quotes** | Any line where a player speaks about their character in third person → Tier B, convert to narrator prose — never quoted dialogue. |
-| **Missing interjections** | Any gap of 3+ unanswered lines between a question and the next rendered response → manual gap review required. |
-
 ### 6. Clipped STT Lines Rendered as Stylistic Ellipsis
-* **Symptom:** A line ending mid-sentence in the raw (e.g. *"you're much heavier than"*) is rendered with a trailing-off ellipsis rather than flagged as a clipped recording.
-* **Root Cause:** STT clips audio at segment boundaries; the model treats syntactic incompleteness as intentional style rather than a data gap.
-* **Prevention:** Flag all syntactically incomplete raw lines with `[CLIPPED]`. Resolve by checking surrounding context and character relationships. Example fix: *"you're much heavier than"* → cross-reference who is present → *"you're much heavier than... Britt"*.
+* **Symptom:** Incomplete STT lines rendered as intentional trailing-off rather than resolving the full sentence.
+* **Prevention:** Flag all syntactically incomplete lines with `[CLIPPED]` and reconstruct intent from surrounding context.
 
 ### 7. Tier B Player Narration Rendered as Tier A In-World Dialogue
-* **Symptom:** A player describing their character's state in third person (*"Britt is just zoned"*, *"I think Britt is like..."*) gets novelized as a spoken character line in quotes.
-* **Root Cause:** The 3-Tier classification pass was skipped before novelization. All spoken audio was treated as Tier A dialogue without checking whether the speaker was narrating their character's state rather than performing in-world speech.
-* **Prevention:** Before writing any quoted dialogue line, verify: is the speaker talking *as* their character (Tier A), or talking *about* their character (Tier B)? Third-person self-reference (*"Britt is..."*, *"she just..."*) always signals Tier B → convert to narrator prose action description.
+* **Symptom:** Player talking about their character in third person (*"Britt is just zoned"*) gets quoted as in-world speech.
+* **Prevention:** Convert Tier B third-person player intent into vivid narrator prose and character action.
+
+### 8. The "Dialogue-Dense Scene" Compression Trap
+* **Symptom:** Scenes with 3+ simultaneous speakers compressed to a single-voice monologue.
+* **Prevention:** In multi-speaker scenes (e.g. lab debates, bridge banter), write every speaker interjection as a separate paragraph with its own action beat.
+
+### 9. Vision POV Inversion (First-Person vs. Second-Hand Outsider)
+* **Symptom:** Ancestral visions written as immersive first-person possession rather than secondhand memories viewed through ancient eyes.
+* **Prevention:** Frame visions through the Spirit Tortoise's memory: characters are witnesses watching secondhand history, not possessors.
+
+### 10. Embedded / Italicized Summary Dialogue Anti-Pattern
+* **Symptom:** Spoken dialogue is stripped of quotation marks and buried into running narrative sentences with em-dashes and italics (e.g., `*No, dude, they like me way more than you,* Pip said...`).
+* **Root Cause:** Attempting to summarize conversational pacing rather than dramatizing the scene.
+* **Prevention:** **STRICT BAN ON EMBEDDED ITALIC DIALOGUE.** All spoken character lines MUST be formatted as standard quoted dialogue (`"..."`) with proper paragraph breaks, dialogue tags, and physical beats.
+
+### 11. Truncated Comedic Timing & Lost Character Dynamics
+* **Symptom:** Comedic setups, escalations, punchlines, and physical slapstick (e.g., Pip realizing she volunteered, demanding the vial, slamming her forehead into the tree) are flattened into a single passive sentence.
+* **Root Cause:** Treating comedic exchanges as "minor filler" rather than essential characterization.
+* **Prevention:** Comedic beats must receive full scene staging: **Setup $\rightarrow$ Escalation $\rightarrow$ Punchline $\rightarrow$ Reaction**.
+
+### 12. Player Game-State Clarification Rendered as In-World Character Dialogue
+* **Symptom:** A player asking the GM an environmental or game-state question (*"Is the turtle still walking ahead of us?"*, *"Is the door open?"*, *"Can I see the bridge?"*) is rendered literally as spoken in-universe character dialogue.
+* **Root Cause:** Treating all speech on a player's microphone as in-character speech without recognizing game-state clarification queries.
+* **Prevention:** Translate player environment/state questions into sensory prose observations and character focus, not spoken dialogue by a character looking right at the object.
+
+### 13. Anachronistic Naming & Harmony Name Collisions in Ancestral Visions
+* **Symptom:** Using proper character names in narrative descriptions during secondhand memory sequences when the watching characters have never met or heard these ancient figures, or using names that overlap with modern Harmony characters (e.g. `Vox`).
+* **Root Cause:** Treating storyboard shorthand as in-universe omniscient labels.
+* **Prevention:** Use pure physical/clan descriptors for all ancient figures in narrative prose (*the root-kin elder*, *the smoldering ember chieftain*, *the sky-weaver*, *the Empress of the Golden Age*). Only use spoken names if they are declared in-universe, and ensure they are uniquely clan-driven with zero modern Harmony collisions.
+
+### 14. Dialogue Paraphrase & Summary Compression (The "Told, Not Shown" Trap)
+* **Symptom:** Key verbal exchanges (e.g. Lomi bantering with the goblin driver, Aggie comforting Val, Ignatius flirting with Zephyr) are summarized into a narrator sentence rather than written out as active dialogue.
+* **Root Cause:** Prioritizing word economy over character voice and emotional immersion.
+* **Prevention:** If characters speak in the raw audio, write out the verbatim dialogue lines with emotional cadence and micro-actions.
+
+### 15. Broken Sequential Cause-and-Effect Bridges
+* **Symptom:** An action or line happens without the prerequisite trigger (e.g., Pip yelling about not dying before Aggie explains that they have to come with the turtle).
+* **Root Cause:** Dropping connective lines between speakers during scene drafting.
+* **Prevention:** Trace every conversation as an unbroken causal chain: **Trigger $\rightarrow$ Reaction $\rightarrow$ Resolution**.
+
+### 16. Dropped World-Media & Atmospheric Broadcasts
+* **Symptom:** Radio broadcasts, speaker horns, public speeches, and ambient environmental lore (e.g., Valerius Sterling's radio dispatches, naval cannon salutes, background clinic triage announcements) are omitted.
+* **Prevention:** Always scan raw audio and session planning materials for in-universe media broadcasts and integrate them into the physical scene environment.
+
+### 17. Omission of Post-Session Thematic Reflections
+* **Symptom:** Profound out-of-character GM/player discussions regarding core campaign themes (e.g. Sparks vs. Nodes, Exponential Connection, Stagnation as Death, Unending Horizons of Exploration) are discarded as mere "table talk."
+* **Prevention:** Channel deep OOC thematic insights into rich, philosophical narrative prose and character epiphanies during chapter resolutions.
+
+---
+
+## ✍️ The Ebook Standard: Mandatory Novelization Checklist
+
+Every generated scene block (`clean/blocks/sN-scene-XX.md`) and compiled story chapter must satisfy this 6-point standard before being marked complete:
+
+1. **Full Dialogue Dramatization**:
+   - All spoken lines formatted with double quotes (`"..."`).
+   - Every speaker change gets a dedicated paragraph.
+   - Zero embedded italic dialogue summaries.
+
+2. **Sensory & Physical Anchoring**:
+   - Include distinct physical mannerisms: Iggy's water goggles sloshing, Lomi adjusting his woolen flat cap, Ignatius's cuffs flaring embers, Britt's intense botanical gaze, Ink furiously scribbling in her logbook.
+
+3. **Complete Comedic & Emotional Arcs**:
+   - Multi-speaker banter preserved with full setup, timing, escalation, and reactions intact.
+
+4. **Deep World-Building & Mechanical Magic**:
+   - Fully describe world-tech and elemental physics (Embodied Energy, acoustic resonance, living keratin maps, copper conductors, pneumatic walkers).
+
+5. **Logical Causal Continuity**:
+   - Every character action and reaction must have an explicit in-world trigger.
+
+6. **Line Traceability & Ledger Parity**:
+   - Every scene must contain line anchors (`<!-- Lxxxx -->`) mapping back to `sN-raw-indexed.md` and a clean ledger comment at the bottom.

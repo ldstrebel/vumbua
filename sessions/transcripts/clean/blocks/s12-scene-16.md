@@ -1,21 +1,37 @@
 <!-- RAW_RANGE: [1531, 1577] | SCENE_ID: 16 -->
 
-Professor Ink turned on her heel, her gaze landing on Saffron. "Where are you from?" she asked. <!-- L1532 -->
+## CHAPTER 13: THE SIXTH CLAN
 
-Saffron shook her head, remaining completely silent.
+Rill returned from the upper decks leading Saffron by the hand. The pale Renali scholar's eyes were wide with apprehension, clutching her sketching pad against her chest as if the bustling laboratory were full of hungry predators.
 
-"Do you have a notebook?" Professor Ink suggested, offering a pen. "Can you draw it?" <!-- L1539 -->
+Professor Ink stepped forward, softening her posture. "Saffron... can you tell us where your people originate?" <!-- L1532 -->
 
-Turning back to Saffron, Professor Ink pressed gently. "If you're not from Harmony, I have to know. Are you from Harmony?" Saffron shook her head *no*.
+Ignatius nudged Iggy with an elbow. "Hey, Iggy—this is your specialty. Help her out." <!-- L1532 -->
 
-Saffron took the notebook and drew a floating sky island hovering above the land, pointing her finger at the floating ziggurat. <!-- L1560 -->
+Iggy took a deliberate step backward, pulling his collar up. "No. My specialty is the exact opposite of this." <!-- L1532 -->
 
-Seeing Saffron share her homeland, Iggy grabbed the pen and drawn paper, adding an arrow pointing down beneath the water to the ocean floor. <!-- L1562 -->
+Professor Ink knelt slightly before Saffron, speaking with gentle urgency. "It is vital to our expedition that we understand your origin. Are you from the central plains of Harmony?" <!-- L1539 -->
 
-Professor Ink stared at the drawings, her voice hushed with awe. "The turtle has collected at least five clans here! That can't be a coincidence—Zephyr, Iggy, Ignatius, the Mizizi, and Saffron." <!-- L1567 -->
+Saffron shook her head slowly, keeping her lips pressed tight. 
 
-She looked to Rill at her side, placing a hand on her shoulder. "And you, of course, a sixth." <!-- L1573 -->
+"She doesn't speak," Britt offered quietly from the examination table. "She draws." <!-- L1539 -->
 
-Time passed quickly on the journey as the Scarab walker navigated the narrow clearings between massive old-growth trees, bringing the squad to the edge of the Mizizi forest.
+"Do you have your sketchbook?" Ink asked gently. "Could you draw your home for us?" <!-- L1539 -->
+
+Saffron hesitated, looking around at the circle of cadets. Seeing Iggy and Britt nod encouragingly, she pulled a piece of charcoal from her pocket and set her pad on the counter. With swift, elegant strokes, Saffron sketched a breathtaking landmass: an enormous, jagged mountain island floating entirely suspended in mid-air above the sea, completely disconnected from the earth below. <!-- L1560 -->
+
+The room went completely silent as everyone stared at the impossible floating island.
+
+Watching Saffron's sketch unlocked something deep within Iggy. Reaching onto the workbench, the little dirt-kin creature grabbed a quill, pulled a scrap of parchment toward him, and without a single word, drew a heavy arrow plunging straight down through dark water to the absolute bedrock floor of the deep ocean. <!-- L1562 -->
+
+Professor Ink studied both sketches, counting the clans on her fingers with rising awe. 
+
+"The Spirit Tortoise has deliberately assembled six distinct clan lineages aboard this vessel," Professor Ink declared softly. "Zephyr representing the Storm-Callers; Ignatius from the Ash-Blood flame; Iggy from the Deep Earthkin; Britt and Aggie from the Mizizi roots; Saffron from the Sky-Islands; and Rill representing the ancient Wadi water." <!-- L1567 --> <!-- L1573 -->
+
+She looked up at the cadets, her determination absolute. "I do not yet know what awaits us in the deep forest, but this creature is operating under an ancient, deliberate design. And that is more than enough reason to follow it." <!-- L1567 -->
+
+Britt stood up from the stool, rolling her shoulders. "I'll take the first watch on the bridge to keep our eyes locked on its path." <!-- L1573 -->
+
+"Let's move," Professor Ink commanded.
 
 <!-- LEDGER: rendered=[1532, 1539, 1560, 1562, 1567, 1573] skipped=[] -->

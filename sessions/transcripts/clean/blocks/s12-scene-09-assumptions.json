@@ -31,7 +31,7 @@
     "scene_id": 9,
     "raw_lines": [875],
     "type": "ambiguous_audio",
-    "assumption": "GM reference 'Will' is a speech-to-text mishearing of NPC Rill (alias Real). The GM is asking Ignatius if he's referring to Rill.",
+    "assumption": "GM reference 'Will' is an STT phonetic garble for Rill (who was Zephyr's former squadmate, note-taker, and caretaker). Corrected to Rill.",
     "confidence": "high",
     "raw_text": "You're referring to Will, right?"
   }

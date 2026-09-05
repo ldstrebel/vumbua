@@ -1,81 +1,79 @@
 <!-- RAW_RANGE: [890, 1008] | SCENE_ID: 10 -->
 
-## CHAPTER 4: THE RECRUITING AND THE NAVAL FUNERAL
+## CHAPTER 7: NO SUCH THING AS LUCK
 
-As they walked, Zephyr stretched her arms. "So, did you kill many beasts last night?"
+The squad fell back into stride along the edge of the basin, marching steadily behind Mwaza-Kasa.
 
-"We fought a lot, threw some off trees, and I killed a storm raptor with my hammer," Ignatius boasted.
+Bramble caught up to Aggie, his leafy branches rustling gently as he advocated for the weary cadets trailing behind them. "I think... we will take a break here now," Bramble rumbled softly. "Saffron, Pip, and I... we need food." <!-- L0890 -->
 
-Zephyr pulled out a heavy bone necklace. "Daddy's weak," she sneered, holding up three teeth of a dagger shark, two claws of a bobcat, and a raptor feather. "I'm very proud of this one. I had a very successful night! One raptor was enough to kill all the idiots they stuck me with. Well, I never really got on with them anyway."
+The instant Bramble suggested breaking off, the Spirit Tortoise stopped dead in the sand. Its heavy limbs locked in place, and it turned its ancient neck around, fixing a stubborn, unblinking golden-teal stare directly upon them.
 
-Ignatius asked about Rill, but Zephyr dismissed her. "Oh, she's all about the learning and writing things down. They kept trying to recruit me about connection, but I just followed the storm!"
+Aggie winced, looking back at Bramble and Pip with an apologetic grimace. "Uh... I think you guys have to come with us," Aggie murmured hesitantly. "I'm sorry." <!-- L0890 -->
 
-Ignatius grinned. "Were you the one striking the obelisks? Because that was a shit ton of lightning!"
+Pip threw her hands into the air, her voice exploding in an exhausted, exasperated wail. "Yeah, no, see—here's the thing!" Pip shouted, stomping her boot in the sand. "I already wanted to leave at five in the morning! It wasn't worth it to me! There were snacks outside—I could have just hung out at the buffet tables the entire time! Aggie, I love you, you're one of my absolute favorites, but I am dealing with existentially *not dying* right now, so no!" <!-- L0890 -->
 
-"Who's to say?" Zephyr smirked. "Could have been me, could have been anybody!"
+Ignatius, walking a few paces ahead, turned around and mistook Pip's shrill complaint for Zephyr's voice. "The thing is, Zephyr—hear me out," Ignatius called back enthusiastically. "There could be way more adventures if we keep following the turtle!" <!-- L0891 -->
 
-Beside them, Iggy's dirt skin flushed dark with anger. Iggy listened to Zephyr brag about her kills, immediately plotting to steal her trophy necklace and chuck it deep into the forest. Iggy glared at the tortoise, furious at Mwaza-Kasa for making them stop for her.
+Iggy stared at Ignatius through foggy copper goggles with deadpan disbelief. "That's Pip and Bramble," Iggy muttered. "Not Zephyr." <!-- L0892 --> <!-- L0894 -->
 
-Behind them, Pip began pouting loudly. "I already wanted to leave at 5 a.m.! It wasn't worth it! There were snacks outside!"
+Ignatius blinked, blushing furiously as embers flared at his cuffs. "Oh... sorry. My mistake." <!-- L0897 -->
 
-Bramble caught up to Aggie. "I think we will take a break here now," Bramble proposed. "Saffron, Pip, maybe some food." <!-- L0890 -->
+Aggie looked down at the motionless tortoise, reading its stubborn posture. "Can they leave to get a snack and rejoin us later?" Aggie asked gently. "One stomp for yes, two for no." <!-- L0900 --> <!-- L0929 -->
 
-The tortoise immediately stopped dead in its tracks. Aggie looked at Mwaza-Kasa.
+Mwaza-Kasa lifted its massive front foot and brought it down against the hard-packed sand.
 
-"Can Pip and Bramble leave and rejoin us later? Stomp once for yes, twice for no."
+*STOMP. STOMP.*
 
-Mwaza-Kasa raised its front leg and stomped twice into the mud—a firm *no*. <!-- L0931 -->
+Two deliberate, heavy thuds rattled the ground.
 
-Aggie picked up the speaking stone, calling ahead to the walker. "Pick up some snacks when you meet us." <!-- L0936 -->
+"Two stomps," Aggie said with a sympathetic sigh. "I'm sorry, Pip. The god-tortoise says no. And I have a feeling this journey is really important—not just for my people, but for everyone." <!-- L0931 -->
 
-Professor Ink's crisp voice crackled over the crystal stone. "Of course. It will be fully provisioned, this journey. I have caramelized bacon."
+Pip slumped against Bramble with a dramatic groan. "Fine... we love you too, giant turtle." <!-- L0931 -->
 
-Pip's eyes went wide. "Caramelized bacon! Brambies, come on! I got to make sure there's a lot!"
+Reluctantly, Pip, Bramble, and Saffron stepped back into the marching order behind the shell.
 
-Down near the docks, Lomi found Lucky sitting slumped by a tent, staring down at his boots.
+The very second their boots fell back into line, the Spirit Tortoise immediately pivoted forward and resumed its steady march across the basin. It was like a vigilant shepherd—it would not move an inch if its flock tried to wander off.
 
-"Hey, Lucky," Lomi called out softly. "What's going on? What happened?" <!-- L0941 -->
+Aggie unclipped the speaking stone from her belt, tapping the crystal. "Britt... please tell me the walker has provisions. We need more than normal rations. Pip is starving." <!-- L0936 --> <!-- L0938 -->
 
-Lucky's head stayed down. "I don't know, Lomi," he muttered. "I'm not feeling so lucky right now, man." <!-- L0952 -->
+A sharp crackle resonated through the stone as Professor Ink's poised voice answered from *Elijah*'s deck. *"Of course. The walker is fully provisioned for an extended expedition into the forest. We even have caramelized bacon in the galley."* <!-- L0936 --> <!-- L0938 -->
 
-"I know this was quite a night," Lomi said, sitting beside him on the damp ground. "I'm sure you lost a lot of friends along the way. It looks like a good bit of your party here. What do you have beyond this? What's your plan?" <!-- L0959 -->
+Pip's head snapped up. Her eyes dilated with manic joy. "Caramelized bacon?!" Pip gasped. "Let's go! Here we go!" <!-- L0938 -->
 
-"I don't... I mean, the old ones just feel stupid, you know? Like a kid's plan," Lucky choked out, his shoulders shaking. "I was going to raid the world... He wasn't going to leave me again, man. I wasn't supposed to get left again, man. And now I guess I do what he'd do." <!-- L0962 -->
+The tiny pixie took off power-walking at top speed toward the forest perimeter, waving her arms back at the plant-kin. "Brambies! Brambies, come on! Hurry up! I have to make sure there's plenty!" <!-- L0940 -->
 
-"All right, here's the deal," Lomi told him earnestly. "We have a crew. I don't really know what's going on, to be honest. I don't know the details. I don't know how dangerous it is. I don't know what we're going to discover, but I do know one thing: I want you on board if you're able."
+Watching Pip sprint ahead, Lomi slowed his pace and stepped toward Ignatius. "Hey, while the turtle's headed for the tree line, I need to double back to the medical tents for a few minutes. I saw Lucky earlier, and I have to check on him." <!-- L0941 -->
 
-Lucky looked up, tears welling in his eyes. "How? How am I supposed to leave him?"
+"Go," Ignatius nodded. "We'll meet you at the walker."
 
-"I can't answer that for you," Lomi replied gently. "I just wanted to present this because..." <!-- L0963 -->
+Lomi jogged back through the crowded rows of canvas tents. He found Lucky exactly where he had seen him before—kneeling in the dirt beside a massive shape draped in heavy grey canvas, his head bowed and his broad shoulders shaking in silent, agonizing grief. <!-- L0948 --> <!-- L0950 -->
 
-"You're supposed to know, Lomi!" Lucky grieved. <!-- L0964 -->
+Lomi approached quietly, crouching beside his friend. "Hey, Lucky. What's going on, man? What happened?" <!-- L0949 --> <!-- L0951 -->
 
-"I know I'm old and wise compared to you," Lomi answered, "but you got to make your own decision. This is a grown-up moment, and I know it's tough to be ready for that, but this is a decision you have to make." <!-- L0965 -->
+Lucky didn't look up. His voice came out choked, muffled against his fists. "I don't know, Lomi. I'm... I'm not feeling so lucky right now, man." <!-- L0952 -->
 
-"It just feels so unlucky, man!" Lucky grieved. "It was just a freak accident. We were on the way out! What do you do with that? You build your whole life around this idea that you're untouchable, and you don't realize it's always the people around you getting touched! What if I bring that to y'all? I'm just a curse, man!" <!-- L0966 -->
+Lomi placed a steady hand on Lucky's trembling shoulder. "I know this was a brutal night. You lost a lot of good people. What's your plan now, Lucky? Where do you go from here?" <!-- L0953 --> <!-- L0955 -->
 
-"There's no such thing as luck," Lomi told him firmly. "I hate to tell you, but sometimes that's a great thing—there's no invisible force trying to balance anything out. There's just a magical turtle that we have to follow." <!-- L0967 -->
+"I don't have a plan," Lucky choked out, wiping his eyes with a soot-covered sleeve. "All the old dreams feel so stupid now. Like a kid's game. I was going to raid the world with Sarge... he wasn't supposed to leave me again. I wasn't supposed to get left behind." <!-- L0956 --> <!-- L0958 -->
 
-Lucky blinked, staring at him. "What? Dude, good speech up until the last bit, and then you lost me entirely!"
+Lomi looked at the shrouded body of Sarge, then met Lucky's hollow eyes. "Here's the deal. We've got a crew. I don't really know what's going on, to be completely honest. I don't know how dangerous it's going to get, and I don't know what we're going to uncover in the forest. But I know one thing: I want you on board with us if you're able." <!-- L0957 --> <!-- L0959 -->
 
-"Listen, listen," Lomi pressed, grinning faintly. "I told you I don't know much about what's going on. I just want you on board."
+"How?" Lucky whispered, his voice cracking. "How am I supposed to leave him behind?" <!-- L0960 --> <!-- L0962 -->
 
-Lucky turned around, clutching a token tight in his fist, revealing a nasty cut along his jawline and bloodshot, red eyes. "I mean, it's got to mean something, right? But what you said sounded like a fever dream, dude! I was thinking, you know, get rich and all the ladies would love me with my cool scar—not follow amphibians!"
+"I can't answer that for you, buddy," Lomi said softly. "I know I'm older and wiser, but this is a grown-up moment. You have to make this choice for yourself." <!-- L0963 --> <!-- L0965 -->
 
-"Hey, we're searching for the reason," Lomi urged him. "That got me on board, and that might be enough to get you on board. There's got to be a reason, and there's got to be a source, and we're looking to find that. Again, I found out about this opportunity like four minutes ago!" <!-- L0975 -->
+Lucky stared down at his clenched fists, a fresh tear cutting through the soot on his cheek. "It was just a freak accident, man. On the way out. You build your whole life around this idea that you're untouchable... and then you realize it's always the people around you getting hit. What if I bring that to your crew? What if I'm just a curse?" <!-- L0968 --> <!-- L0970 -->
 
-Lucky quieted, staring down at his clutched fist. "All right... A younger me would have said that's turning luck into opportunity, man. But let me ask you one thing: What would Sarge do with his body, man? We never talked about that... Sorry, that wasn't fair of me to ask."
+Lomi gave a gentle, reassuring shake of his head. "There's no such thing as luck, Lucky. I hate to break it to you, but sometimes that's the best news in the world. There's no invisible force trying to balance the scales against you." <!-- L0971 --> <!-- L0973 -->
 
-"He was a simple man," Lomi noted softly.
+Lomi paused, offering a wry half-smile. "There's just a magical turtle that we have to follow." <!-- L0974 -->
 
-"I'm going to shoot him off the cannon of the big gun!" Lucky blurted out. <!-- L0986 -->
+Lucky blinked, looking up at Lomi with a bewildered frown. "What? Dude... that was a great speech up until the last part, and then you completely lost me." <!-- L0975 --> <!-- L0977 -->
 
-"Hey, that was better than what I was going to come up with," Lomi agreed warmly. "Sarge would love that." <!-- L0991 -->
+"I told you, I don't know all the details," Lomi laughed softly, offering his hand to pull Lucky up from the dirt. "I just know I want you with us." <!-- L0976 --> <!-- L0978 -->
 
-"Where do I find you?" Lucky asked. <!-- L0996 -->
+Lucky wiped his face, looking down at Sarge's shrouded cot with a deep, shuddering breath. "I'm going to see him off right," Lucky said, his jaw tightening with resolve. "The Goliath captain from the Ironclad is giving him a full naval salute at noon. I'm going to see my buddy into the water... and then I'm coming with you." <!-- L0979 --> <!-- L0992 -->
 
-"We're getting on this big spider-looking thing at the pier," Lomi instructed.
+"We'll be at the walker," Lomi smiled, giving Lucky's shoulder a firm squeeze before turning to jog toward the rendezvous. <!-- L0995 -->
 
-"All right," Lucky said, standing up with renewed purpose. "I'll meet you there. I got to take care of Sarge first." <!-- L1001 -->
-
-<!-- LEDGER: rendered=[890, 931, 936, 941, 952, 959, 962, 963, 964, 965, 966, 967, 975, 986, 991, 996, 1001] skipped=[] -->
+<!-- LEDGER: rendered=[890, 891, 892, 894, 897, 900, 929, 931, 936, 938, 940, 941, 948, 949, 950, 951, 952, 953, 955, 956, 957, 958, 959, 960, 962, 963, 965, 968, 970, 971, 973, 974, 975, 976, 977, 978, 979, 992, 995] skipped=[] -->
