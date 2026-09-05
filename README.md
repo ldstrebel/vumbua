@@ -28,6 +28,7 @@ For **humans** wanting to use AI workflows: `.agent/workflows/human-instructions
 | Story + current state (AI) | `.agent/workflows/ai-entry.md` |
 | Canonical spellings + file map (AI) | `.agent/workflows/lore-index.md` |
 | How to use AI workflows (humans) | `.agent/workflows/human-instructions.md` |
+| Novelization Playbook & Framework | `sessions/README.md` |
 | Session recaps | `sessions/index.md` |
 | Campaign hub | `index.md` |
 | Terms & definitions | `glossary.md` |

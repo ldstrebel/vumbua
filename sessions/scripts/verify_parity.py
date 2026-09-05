@@ -47,11 +47,12 @@ def calculate_dialogue_words(lines, start_line, end_line):
             word_count += len(dialogue_text.split())
     return word_count
 
-def verify_parity(session_id):
+def verify_parity(session_id, manifest_path=None, story_path=None,
+                  blocks_dir=None, indexed_path=None):
     base_dir = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    manifest_path = os.path.join(base_dir, "transcripts", "index", f"{session_id}-manifest.json")
-    indexed_path = os.path.join(base_dir, "transcripts", "index", f"{session_id}-raw-indexed.md")
-    story_path = os.path.join(base_dir, "transcripts", "clean", f"{session_id}-clean-story.md")
+    manifest_path = manifest_path or os.path.join(base_dir, "transcripts", "index", f"{session_id}-manifest.json")
+    indexed_path = indexed_path or os.path.join(base_dir, "transcripts", "index", f"{session_id}-raw-indexed.md")
+    story_path = story_path or os.path.join(base_dir, "transcripts", "clean", f"{session_id}-clean-story.md")
 
     errors = []
     warnings = []
@@ -81,7 +82,7 @@ def verify_parity(session_id):
     total_raw_lines = manifest.get("total_raw_lines")
 
     # 4. Read story content from intermediate block files in blocks_dir
-    blocks_dir = os.path.join(base_dir, "transcripts", "clean", "blocks")
+    blocks_dir = blocks_dir or os.path.join(base_dir, "transcripts", "clean", "blocks")
     parts = []
     for b in manifest.get("scene_blocks", []):
         scene_id = b["scene_id"]
@@ -185,6 +186,19 @@ def verify_parity(session_id):
             phantom = story_ledger - set(expected_ledger)
             if phantom:
                 errors.append(f"PHANTOM LEDGER ENTRIES in Scene {scene_id}: footer lists lines not in manifest dialogue ledger: {sorted(phantom)}")
+
+            # 6a-1. Coverage completeness: every raw line in the block range must
+            # be inside a rendered beat's `covers` span or explicitly skipped.
+            covered = set(skipped_lines)
+            for turn in m_block.get("dialogue_ledger", []):
+                span = turn.get("covers")
+                if span:
+                    covered.update(range(span[0], span[1] + 1))
+                else:
+                    covered.add(turn["line"])
+            uncovered = [n for n in range(m_start, m_end + 1) if n not in covered]
+            if uncovered:
+                errors.append(f"UNACCOUNTED RAW LINES in Scene {scene_id}: lines not inside any rendered beat span or skipped list: {uncovered}")
 
             # Check for illegal skips or reason violations
             # Check skipped items in footer have valid parenthesized reasons in skipped text

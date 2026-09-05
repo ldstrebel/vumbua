@@ -151,3 +151,40 @@ Every generated scene block (`clean/blocks/sN-scene-XX.md`) and compiled story c
 
 6. **Line Traceability & Ledger Parity**:
    - Every scene must contain line anchors (`<!-- Lxxxx -->`) mapping back to `sN-raw-indexed.md` and a clean ledger comment at the bottom.
+
+---
+
+## 🧭 Pre-Story Narrative Weaving & Flow Audit Protocol (The Author Agent Gate)
+
+**MANDATORY GATE:** Before an author agent ever moves into clean story writing, scene drafting, or book assembly, it MUST execute and document a **Pre-Story Narrative Weaving & Flow Audit**.
+
+This audit guarantees that the narrative reads like a masterwork Sanderson novel rather than a series of disjointed session transcripts.
+
+* **Master Storyboard Reference**: The author agent must load and cross-reference [`sessions/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/sessions/planning/book-1-narrative-structure.md) for Volume 1's 5-Act structure, chapter-by-chapter beat sheets, character reflection triggers, and global plot lines before writing.
+
+### 1. The Long-Horizon Trajectory Audit (Destination Awareness)
+* **Rule:** An author agent cannot write the opening of a saga without deeply understanding its climax.
+* **Audit Step:** Review the destination of the current campaign arc (e.g. Session 12's climax: the Six Sparks/Nodes, the lie of clan isolation, Mwaza-Kasa's living shell, Lomi's starship vision, and Iggy's ocean trench roots).
+* **Application:** Verify that early-session worldbuilding and dialogue plant subtle, unforced foreshadowing seeds for these ultimate revelations without committing to speculative false canon or spoiling the mystery.
+
+### 2. The Anti-Frontloading Pacing Rule (The Prologue Pacing Gate)
+* **Rule:** Never bury the reader under a massive, static worldbuilding prologue (e.g. 6,000+ words of clan histories) before introducing characters taking active agency in the present.
+* **The Two-Tier Architecture:**
+  1. **The Streamlined Prologue (~1,000–1,500 words):** Restricted strictly to the essential high-concept setup the reader needs before Chapter 1 begins (the stagnant world, 80 years of static maps, the mystery of the stalled rot, the arrival of the Paper Man, and the call to the Academy).
+  2. **Character Origin Beats as Woven Reflections:** The deep clan worldbuilding, creation dialogue, and personal histories are extracted from the prologue and woven directly into the main story chapters as **character reflection beats and flashbacks**.
+
+### 3. The 4-Part Narrative Weaving Matrix
+Before drafting or structuring chapters, the author agent must explicitly map each character through the **Narrative Weaving Matrix**:
+* **A. Present Action Trigger:** What active, physical event is the character experiencing right now in the present timeline? (e.g. Britt smashing the typewriter desk; Iggy tearing down the gantry; Ignatius on fire in the harbor; Lomi inspecting the cranes).
+* **B. Sensory / Emotional Cue:** What specific sensory trigger or emotional pause sparks the flashback? (e.g. escaping the proctor into the crowd; looking up at open sky for the first time; watching a noble scrub soot from his palm).
+* **C. Origin Beat Revealed:** What essential piece of clan lore, relationship dynamic, or character philosophy from Session 0 is dramatized? (e.g. the Mizizi's sacred decay belief; the subterranean pressure and fear of the void; the Ash-Blood's pride in primal "hot rocks"; the boilermaker's explorer knots).
+* **D. Long-Term Climax Seed:** What subtle clue or philosophical contrast is planted for the campaign climax? (e.g. Iggy asking if boats go underwater; Lomi diagnosing the mechanical heart; Ignatius valuing cooperation over cold intellect).
+
+### 4. Monotonic Novel Chapter Progression (Continuous Chapter Counting)
+* **Rule:** Sessions are tabletop scheduling boundaries; Chapters are novel milestones. **Never reset chapter numbers to "Chapter 1" at the start of a new session.**
+* **Structure:** Count chapters monotonically upward across the entire novel/volume (`CHAPTER 1` through `CHAPTER N`). 
+* **Convention:**
+  - `PROLOGUE: [Title]` (Streamlined world setup)
+  - `CHAPTER 1` begins with the first active narrative beat of Session 1.
+  - Alternating present-day chapters and reflection chapters count upward continuously across all subsequent sessions (e.g., Session 11 and 12 carry forward their continuous numbers rather than resetting).
+

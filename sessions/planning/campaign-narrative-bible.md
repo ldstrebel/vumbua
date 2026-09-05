@@ -1,6 +1,8 @@
 # Vumbua Master Campaign Narrative Bible & Macro Arc Tracker
 
 > **The Single Source of Truth for Novelization**: This living document bridges individual micro-chunk scene novelizations with the grand multi-session narrative arc. Every scene drafted must be cross-referenced against these rules, character empathy anchors, and ongoing plot threads to guarantee zero plot holes and flawless reader immersion.
+>
+> 📖 **Book 1 Narrative Storyboard**: Consult [`sessions/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/sessions/planning/book-1-narrative-structure.md) for the macro 5-Act arc, chapter-by-chapter beat sheets, character reflection triggers, and continuous chapter indices for Volume 1 (*The Basalt Run*).
 
 ---
 

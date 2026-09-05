@@ -162,12 +162,21 @@ Before advancing to Step 4b (Novelization), the LLM must perform a **direct line
 **Filename:** `sessions/transcripts/clean/sN-clean-story.md` — e.g., `s11-clean-story.md`
 
 **Role:** Editor 2 (Single Master File — Novel + Audiobook Source).
-- Convert `sN-clean.md` into **Brandon Sanderson-style high-fantasy prose chapters** (`## CHAPTER 1: TITLE`, `## CHAPTER 2: TITLE`).
+
+### Mandatory Pre-Writing Narrative Flow Gate
+Before drafting any chapters:
+1. **Load the Master Storyboard**: Consult [`sessions/planning/book-1-narrative-structure.md`](file:///d:/Code/vumbua/sessions/planning/book-1-narrative-structure.md) and [`sessions/planning/campaign-narrative-bible.md`](file:///d:/Code/vumbua/sessions/planning/campaign-narrative-bible.md) to check macro 5-Act placement, active plot lines (A through E), and character reflection triggers.
+2. **Execute the Pre-Story Weaving Audit**: Follow [`.agents/skills/session-audit/SKILL.md`](file:///d:/Code/vumbua/.agents/skills/session-audit/SKILL.md) to verify long-horizon trajectory alignment (Session 12 destination) and avoid front-loaded worldbuilding dumps.
+3. **Monotonic Chapter Progression (Never Reset to Chapter 1)**: Determine the global continuous chapter numbers (`## CHAPTER N: TITLE`), picking up monotonically from the previous session rather than resetting per session.
+
+### Novelization Standards
+- Convert `sN-clean.md` into **Brandon Sanderson-style high-fantasy prose chapters** using global chapter numbering.
 - **Pristine Prose & Rhythmic Flow:** Eliminate repetitive sentences, awkward passive phrasing, and typos from day one. The prose must read out loud like a published fantasy novel.
 - **Character Dialect & Phonetics (baked into dialogue):** Write character voice directly into spoken lines — `eyeth`, `treeth`, `yeth`, `thorry` for Iggy's lisp; `nevah`, `bettah`, `somethin'`, `frickin'` for Loami's accent. These are permanent and serve both reading and TTS narration.
 - **No Bracketed TTS Tags:** Do NOT add `[screaming]`, `[panicked]`, `[gasped]` etc. ElevenLabs v2 reads them aloud. Rely on ALL CAPS, `!?`, `...`, and em-dashes for emotional delivery instead.
 - **Purge Table Meta-Talk:** Remove out-of-character dice chatter and convert game mechanics into fluid in-universe actions.
 - **Audit Against Clean Transcript:** Ensure NO iconic character quotes, GM lore, or key actions are lost.
+
 
 **YAML front matter (required for parser):**
 ```yaml

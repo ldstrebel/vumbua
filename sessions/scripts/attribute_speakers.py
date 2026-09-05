@@ -33,7 +33,7 @@ import sys
 import session_config as sc
 
 INDEXED_LINE = re.compile(r"^L(\d+): (.*)$")
-SPEAKER_LINE = re.compile(r"^\*\*([^*]+):\*\*\s*(.*)$")
+SPEAKER_LINE = re.compile(r"^(?:\*\*([^*]+):\*\*|\[?(undiarized|ai-summary|survey)\]?(?:\s+\[TURN\?\])?)\s*(.*)$")
 NPC_IDENTITY = re.compile(r"^NPC:(.+)$")
 
 DECISIONS_SEARCH_DIRS = ("{session_id}-devin", "config", os.path.join("transcripts", "index"))
@@ -102,7 +102,9 @@ def read_indexed(indexed_path):
             speaker = SPEAKER_LINE.match(match.group(2))
             if not speaker:
                 continue
-            yield line_no, speaker.group(1).strip(), speaker.group(2)
+            stream = (speaker.group(1) or (f"[{speaker.group(2)}]" if speaker.group(2) else "")).strip()
+            body = speaker.group(3)
+            yield line_no, stream, body
 
 
 def resolve_identity(config, mic, identity_label):
@@ -176,6 +178,7 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
     ooc_count = 0
     for line_no, stream, body in read_indexed(indexed_path):
         stream_counts[stream] = stream_counts.get(stream, 0) + 1
+        stream = config.canonical_person(stream)
         mic = config.shared_mic(stream)
         table_ooc = ooc_reason(line_no, ooc_declared)
 

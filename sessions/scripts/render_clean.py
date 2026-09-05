@@ -34,7 +34,7 @@ sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import session_config as sc
 import storyboard_inserts
 
-LINE_RE = re.compile(r"^L(\d+): \*\*(.+?):\*\* (.*)$")
+LINE_RE = re.compile(r"^L(\d+):\s+(?:\*\*(.+?):\*\*|\[(?:undiarized|ai-summary|survey)\](?:\s+\[TURN\?\])?)\s*(.*)$")
 TERMINAL_RE = re.compile(r"[.!?…][\"')\]]*$")
 MAX_INTERRUPTING_LINES = 4
 MAX_LINE_GAP = 8

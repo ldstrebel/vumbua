@@ -23,14 +23,18 @@ def main():
     ap.add_argument("--title", default=None, help="Top-level # title for the story")
     ap.add_argument("--no-lint", action="store_true", help="Skip editorial harness linter pass")
     ap.add_argument("--no-parity", action="store_true", help="Skip transcript parity verification pass")
+    ap.add_argument("--manifest", default=None, help="Override manifest path (pipeline isolation)")
+    ap.add_argument("--blocks-dir", default=None, help="Override blocks directory (pipeline isolation)")
+    ap.add_argument("--out", default=None, help="Override story output path")
+    ap.add_argument("--assumptions-out", default=None, help="Override assumptions output path")
     args = ap.parse_args()
     sid = args.session_id
 
     base = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-    manifest_path = os.path.join(base, "transcripts", "index", f"{sid}-manifest.json")
-    blocks_dir = os.path.join(base, "transcripts", "clean", "blocks")
-    out_path = os.path.join(base, "transcripts", "clean", f"{sid}-clean-story.md")
-    assumptions_out = os.path.join(base, "transcripts", "index", f"{sid}-assumptions.json")
+    manifest_path = args.manifest or os.path.join(base, "transcripts", "index", f"{sid}-manifest.json")
+    blocks_dir = args.blocks_dir or os.path.join(base, "transcripts", "clean", "blocks")
+    out_path = args.out or os.path.join(base, "transcripts", "clean", f"{sid}-clean-story.md")
+    assumptions_out = args.assumptions_out or os.path.join(base, "transcripts", "index", f"{sid}-assumptions.json")
 
     with open(manifest_path, encoding="utf-8") as f:
         manifest = json.load(f)
@@ -116,13 +120,17 @@ def main():
     if not args.no_parity:
         try:
             from verify_parity import verify_parity
-            passed, p_errs, p_warns = verify_parity(sid)
+            passed, p_errs, p_warns = verify_parity(
+                sid, manifest_path=manifest_path, story_path=out_path,
+                blocks_dir=blocks_dir)
             if not passed:
                 print(f"[FAIL] Parity check failed with {len(p_errs)} errors.")
         except ImportError:
             try:
                 from sessions.scripts.verify_parity import verify_parity
-                passed, p_errs, p_warns = verify_parity(sid)
+                passed, p_errs, p_warns = verify_parity(
+                    sid, manifest_path=manifest_path, story_path=out_path,
+                    blocks_dir=blocks_dir)
                 if not passed:
                     print(f"[FAIL] Parity check failed with {len(p_errs)} errors.")
             except Exception as e:
