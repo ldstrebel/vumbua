@@ -1,8 +1,13 @@
-# DON'T TOUCH MY BISCUITS
-
+---
+title: "Session 11: Don't Touch My Biscuits"
+author: "Novel Adaptation in the Style of Brandon Sanderson"
+campaign: Vumbua
+genre: Epic Fantasy / Sci-Fantasy
 ---
 
-## CHAPTER 1: THE NIGHT OF EMBERS
+# DON'T TOUCH MY BISCUITS
+
+## CHAPTER 95: THE NIGHT OF EMBERS
 
 Rain fell through the colossal leaves in heavy, rhythmic sheets, filling the petrified canopy with a sound like distant drumming. Fifty feet below, the forest floor was lost in twilight shadow.
 
@@ -76,7 +81,7 @@ The explosion of fire shattered the nerve of several Meowders. Screeching in ter
 
 ---
 
-## CHAPTER 2: THE CAZITO MANEUVER
+## CHAPTER 96: THE CAZITO MANEUVER
 
 Rain drummed against the giant leaves in a steady rhythm.
 
@@ -120,7 +125,7 @@ Ignatious blinked, wiping soot from his brow. "I don't know what any of these wo
 
 ---
 
-## CHAPTER 3: THE STORM RAPTOR
+## CHAPTER 97: THE STORM RAPTOR
 
 As the Meowders vanished into the understory, a shrill screech echoed from above.
 
@@ -160,7 +165,7 @@ The impact forced the hawk's talons open, dropping Pip into open air. But as she
 
 ---
 
-## CHAPTER 4: THE TREE IGLOO
+## CHAPTER 98: THE TREE IGLOO
 
 Loami sprinted toward the drop zone. "Hey! You want a piece of this?! Come and get a little piece of this!"
 
@@ -196,7 +201,7 @@ In the bay below, a giant iron steamship—the *Deep-Hull*—rose through the wa
 
 ---
 
-## CHAPTER 5: THE RAFT DROP
+## CHAPTER 99: THE RAFT DROP
 
 Outside the Igloo, as the storm wall passed, Ignatious looked at his boots, then up into the sky, before slapping his own forehead in sudden realization.
 
@@ -242,7 +247,7 @@ Ignatious dodged a talon strike and streaked across the bough. As the Raptor div
 
 ---
 
-## CHAPTER 6: THE SACRED TORTOISE
+## CHAPTER 100: THE SACRED TORTOISE
 
 The wind died down to a light, cool sprinkle. Sitting across the bough was Pip, gnawing on her jerky.
 
@@ -276,7 +281,7 @@ Ignatious blinked. "Hey, Loami! What's with the weird glowin' turtle?! Everyone 
 
 ---
 
-## CHAPTER 7: WHAT WAS FORGOTTEN
+## CHAPTER 101: WHAT WAS FORGOTTEN
 
 Touching Mwaza-Kasa plunged Aggie and Britt into the deep network. They found Pip easily, lost in a vast, silent forest.
 
