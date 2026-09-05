@@ -10,39 +10,12 @@ from pathlib import Path
 from typing import Dict, Any, List
 
 
-# Character sensory anchors and empathy tokens from the Narrative Bible
-CHARACTER_ANCHORS = {
-    "britt": {
-        "name": "Britt",
-        "keywords": ["root", "dreadlock", "plant", "green", "focus", "sister", "aggie", "protect", "tunic"],
-        "empathy_core": "Protective sisterly anxiety & botanical instincts"
-    },
-    "aggie": {
-        "name": "Aggie",
-        "keywords": ["gentle", "quiet", "sketch", "eyes", "soft", "britt", "draw"],
-        "empathy_core": "Quiet emotional perception & vulnerability"
-    },
-    "lomi": {
-        "name": "Lomi",
-        "keywords": ["cap", "grease", "collar", "mechanic", "rig", "tool", "brass", "working", "benefit", "wrench"],
-        "empathy_core": "Working-class pride & loyalty hiding imposter syndrome"
-    },
-    "ignatius": {
-        "name": "Ignatius",
-        "keywords": ["flame", "fire", "ember", "hair", "crown", "ash-blood", "warm", "hearth", "cloak"],
-        "empathy_core": "Charismatic hearth-warmth balancing heavy family expectations"
-    },
-    "iggy": {
-        "name": "Iggy",
-        "keywords": ["goggles", "coat", "dirt", "clay", "moss", "sprout", "trench", "water", "stone"],
-        "empathy_core": "Childlike wonder & elemental connection to ancient earth"
-    }
-}
+from .config import get_character_anchors
 
 
 class MacroAuditor:
     def __init__(self):
-        self.char_anchors = CHARACTER_ANCHORS
+        self.char_anchors = get_character_anchors()
 
     def audit_scene(self, text: str, scene_title: str = "Scene") -> Dict[str, Any]:
         """Audits character anchors, empathy markers, and cold-reader grounding."""

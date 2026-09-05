@@ -27,3 +27,9 @@ meta/docs/.obsidian/plugins/*/data.json
 *.env
 sessions/audio/
 
+# Python cache & bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+

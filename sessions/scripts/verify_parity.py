@@ -58,14 +58,14 @@ def verify_parity(session_id):
 
     # 1. Load manifest and check file existence
     if not os.path.exists(manifest_path):
-        print(f"Error: Manifest not found at {manifest_path}")
-        sys.exit(1)
+        errors.append(f"Manifest not found at {manifest_path}")
+        return False, errors, warnings
     if not os.path.exists(indexed_path):
-        print(f"Error: Indexed file not found at {indexed_path}")
-        sys.exit(1)
+        errors.append(f"Indexed file not found at {indexed_path}")
+        return False, errors, warnings
     if not os.path.exists(story_path):
-        print(f"Error: Story file not found at {story_path}")
-        sys.exit(1)
+        errors.append(f"Story file not found at {story_path}")
+        return False, errors, warnings
 
     with open(manifest_path, "r", encoding="utf-8") as f:
         manifest = json.load(f)
@@ -277,17 +277,19 @@ def verify_parity(session_id):
             print("Warnings:")
             for warn in warnings:
                 print(f"  - {warn}")
-        sys.exit(1)
+        return False, errors, warnings
     else:
         print("[PASS] PARITY AUDIT PASSED: 100% transcript coverage and dialogue ledger fidelity confirmed.")
         if warnings:
             print("Warnings during pass:")
             for warn in warnings:
                 print(f"  - {warn}")
-        sys.exit(0)
+        return True, errors, warnings
+
 
 if __name__ == "__main__":
     if len(sys.argv) < 2:
         print("Usage: python verify_parity.py <session_id> (e.g. s12)")
         sys.exit(1)
-    verify_parity(sys.argv[1])
+    passed, _, _ = verify_parity(sys.argv[1])
+    sys.exit(0 if passed else 1)
