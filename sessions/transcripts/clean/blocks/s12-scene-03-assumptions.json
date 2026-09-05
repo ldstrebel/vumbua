@@ -13,8 +13,8 @@
     "scene_id": 3,
     "raw_lines": [282],
     "type": "paraphrase",
-    "assumption": "Ignatius addresses 'Kim' when asking how she is feeling; kept the name as spoken since it appears to be an in-fiction address to Pip/the girl he is checking on. Rendered as Ignatius gentling toward the shell-shocked Pip.",
-    "confidence": "low",
+    "assumption": "Ignatius addresses 'Kim' in raw audio, which is an STT phonetic mishearing of 'Pip' / 'Kid'. Corrected to Ignatius addressing Pip to snap her out of her shell-shocked reverie.",
+    "confidence": "high",
     "raw_text": "Kim, how how are you feeling?"
   },
   {

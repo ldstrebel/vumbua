@@ -2,42 +2,54 @@
 
 ## CHAPTER 3: WHAT THE SHIELDS DROPPED
 
-Lomi kept one eye on the squad's retreating backs and moved through the triage line like a man reading a ledger, hunting a familiar face among the wounded. He found the firefighter crew he'd talked to before the drop still working the tents, and it was easy enough to trace down Raphael among them. When the man turned, the relief in his eyes was almost painful to see. He gripped Lomi by the shoulder and said he was glad Lomi had made it through — it had been rough out there, and he didn't know what had happened. <!-- L0499 -->
+Lomi kept one eye on Squad 907's steady march, tracking the lumbering shell of the Spirit Tortoise as it glided between the triage rows. Weaving through the crowded medical aisles like a mechanic reading a damaged engine ledger, he searched the exhausted crowd for familiar faces from his harbor prep shifts. 
 
-"Yeah," Lomi said, letting his gaze drift over the crowded cots. "Seems like it. Look at this place."
+Near a water distribution rig, he spotted the firefighter crew he had coordinated with before the drop. At the center of the squad stood Raphael, his broad face smeared with soot and his canvas coat torn at the shoulder. 
 
-Raphael scrubbed a hand down his soot-streaked face. His sentences came out clipped, like a man too tired to string them together — all he knew was they'd been trying to let a little beast in, a controlled thing, and instead the whole lot had come pouring through.
+When Raphael turned and saw Lomi approaching, a look of overwhelming relief washed over the firefighter's tired features. He stepped forward and gripped Lomi's shoulder in a bone-jarring grasp.
 
-"Yeah, I figured that wasn't intentional," Lomi said. "When we got swarmed, I figured it wasn't on purpose. But — man. I didn't think it'd go this bad." <!-- L0512 -->
+"Lomi! Good to see you, man," Raphael exhaled, his voice hoarse from smoke. "I'm glad you made it through. It was brutal out there. I don't know what the hell happened." <!-- L0499 -->
 
-Raphael let out a hollow laugh and told him it was bad, all right, and that he'd have to find someone a lot smarter than a firefighter to figure out what was really going on here. <!-- L0513 -->
+"Yeah, seems like it," Lomi said quietly, his eyes sweeping across the rows of wounded cadets. "I mean... look at this place." <!-- L0500 --> <!-- L0502 -->
 
-"Yeah, likewise," Lomi said. "That's why I'm searching out for answers. Maybe somebody closer to the source." <!-- L0514 -->
+Raphael scrubbed a heavy hand down his soot-streaked face. His sentences came out in clipped, ragged bursts. "Listen... all I know is that the proctors were just trying to let a few minor aether beasts through the barrier. A controlled simulation. But the grid collapsed—and they let in the whole lot." <!-- L0507 --> <!-- L0511 -->
 
-Raphael's jaw tightened. He'd seen things out there worse than anyone had reason to expect — sure, there were always a few aether beasts drifting around, but this hadn't been that. This had been an invasion. <!-- L0519 -->
+"Yeah, I figured it wasn't intentional," Lomi nodded. "When we got swarmed in the trees, I knew something had broken. But man... I didn't think it was going to go this bad." <!-- L0512 -->
 
-"Yeah." Lomi nodded slowly. "There've always been the stories, that they hang around outside the resi ring. But that — that was a lot." <!-- L0521 -->
+"It's bad, Lomi," Raphael said darkly, shaking his head. "You're going to have to find someone a lot smarter than me to figure out what went wrong with the core." <!-- L0513 --> <!-- L0515 -->
 
-Raphael spread his hands. He didn't know what was going on, he admitted, but he guessed that was exactly why they had Lomi here — Lomi was the one who was going to go figure it out for them. <!-- L0522 -->
+"Likewise," Lomi replied. "That's why I'm searching for answers right now. Maybe someone closer to the faculty source." <!-- L0514 --> <!-- L0518 -->
 
-"I'll do my best," Lomi said. "I'll let you know." <!-- L0525 -->
+Raphael glanced toward the dark canopy of the petrified forest, his jaw tightening with lingering dread. "It was even worse than we could have anticipated. Sure, there are always a few rogue aether beasts prowling outside the resonance perimeter, but this? This wasn't stray wildlife. This was an invasion." <!-- L0519 -->
 
-Raphael told him that if he needed help, they were here for him — but right now he had a job, taking care of the guys who'd stayed alive. <!-- L0526 -->
+"Yeah," Lomi agreed solemnly. "There have always been rumors about beasts gathering outside the barrier, but that swarm... that was insane." <!-- L0521 --> <!-- L0523 -->
 
-"Yeah," Lomi said, and glanced again at the sea of cots. "Looks like we're going to have to commit to helping too, best we can." <!-- L0529 -->
+"I don't know what's coming next," Raphael said, clasping Lomi's arm, "but I guess that's why we have you out here. You're going to go figure it out for us." <!-- L0522 --> <!-- L0524 -->
 
-But Raphael shook his head. No — Lomi was to let the crew handle the fix. This mess was their problem. Lomi was to figure out the big one. <!-- L0532 -->
+"I'll do my best," Lomi promised. "I'll let you know what we find." <!-- L0525 -->
 
-Raphael clapped Lomi on the back, frustration plain in his face that he couldn't offer more, and told him they were counting on him. Then he took off back into the triage, and there was nothing else to say. <!-- L0534 -->
+"Listen, buddy," Raphael added firmly. "If you need anything, my crew is here for you. But right now, let us handle the triage. This mess here is our problem. You go solve the big one." <!-- L0526 --> <!-- L0532 -->
 
-Nearby, on one of the cots, Kale lay coughing. He didn't have much for Lomi, he rasped between breaths — but did Lomi still have those stones? <!-- L0544 -->
+"Understood," Lomi said. <!-- L0527 --> <!-- L0533 -->
 
-Lomi told him he had at least one, and pressed it into the man's hand. Kale worked a small crystal against it, tapping it a few times until something clicked and settled. It was working now, he said. He'd given crystals to some of the faculty; they were trying to use them to stay in touch. He'd thought Lomi already had one — so at least he could get him that. His head sagged and he lay back, and then he added that Professor Conte was supposed to have one too. If they found another faculty member, they might be able to reach him. He might know more. <!-- L0548 -->
+Raphael gave him a solid slap on the back. "We're counting on you, buddy." <!-- L0534 -->
 
-"Yeah," Lomi said quietly. "That's who I was hoping to talk to. Iggy says he's a genius. I'll get back to the group, and hopefully we can all get in touch." <!-- L0552 -->
+Nearby, on one of the wooden cots, Kale coughed weakly. The eccentric student artisan leaned up on one elbow, his face deathly pale, and reached toward his belt. 
 
-Kale held up his own crystal and wished him luck — he'd be listening too. <!-- L0555 -->
+"Lomi..." Kale rasped, his voice trembling with exhaustion. "Do you still have those communication stones?" <!-- L0544 -->
 
-Then Val eased him back down onto the cot and pressed a cup of water into his hands.
+Lomi stepped over to the cot, pulling the polished crystal apparatus from his vest pocket. "Yeah. At least one of them." <!-- L0545 -->
 
-<!-- LEDGER: rendered=[499, 512, 513, 514, 519, 521, 522, 525, 526, 529, 532, 534, 544, 548, 552, 555] skipped=[] -->
+"Good," Kale coughed, taking the stone with shaking fingers. He pulled a small tuning crystal from his pouch, slotted it into the brass housing, and tapped the facets until a soft, harmonic chime resonated from the core. "This is working now. I gave matching stones to some of the faculty proctors before the chaos started. They're using the frequency to coordinate." <!-- L0546 --> <!-- L0548 --> <!-- L0559 -->
+
+Val hovered beside the cot, pressing a cup of fresh water into Kale's hands. "Take it easy, Kale. Don't strain yourself." <!-- L0546 -->
+
+Kale took a small sip and looked up at Lomi. "The proctors dropped the perimeter shield for the trial, but the generator didn't have enough reserve resonance to reignite the barrier, and the power surge shorted out the main conduit line. Professor Kante was given one of these stones. If you find another faculty unit, you can patch through to him. He might know more about the resonance decay." <!-- L0548 --> <!-- L0559 -->
+
+"Professor Kante," Lomi repeated, nodding with keen interest. "That's exactly who I was hoping to reach. Iggy says he's a genius." <!-- L0552 --> <!-- L0554 -->
+
+Kale held up his own speaking crystal, offering a faint, tired smile. "Good luck, Lomi. I'll be listening on the channel too." <!-- L0548 --> <!-- L0558 -->
+
+Lomi gave Kale a reassuring nod, pocketed the tuned stone, and turned back to rejoin the squad's march. <!-- L0560 -->
+
+<!-- LEDGER: rendered=[499, 500, 502, 507, 511, 512, 513, 514, 515, 518, 519, 521, 522, 523, 524, 525, 526, 527, 532, 533, 534, 544, 545, 546, 548, 552, 554, 558, 559, 560] skipped=[] -->

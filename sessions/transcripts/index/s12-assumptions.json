@@ -11,13 +11,8 @@
     "type": "ambiguous_audio",
     "assumption": "Ignatius's garbled lines ('hagging for like what', 'So, turtle') and GM's 'I don't know about respect that was a lot okay can I get some information at least' are rendered as Ignatius attempting to charm/coax the tortoise and getting nothing back, then wanting information. Interpreted as failed social interaction with the beast.",
     "confidence": "medium",
-    "raw_text": "I'm deafinitely asking them the easy like like hagging for like what? / So, turtle / I don't know about respect that was a lot okay can I get some information at least",
-    "id": "A-001",
-    "rendered_as": "He tried, with a grin and a lazy wave, to coax something out of the beast\u2014a little charm, a little cadet swagger\u2014and got nothing back but the slow metronome of its steps. That was a lot, he decided, to spend on a turtle. Could he at least get some information out of it? Britt, meanwhile, had gone somewhere else entirely; she was zoned in, unblinking, the whole of her focus poured onto the shell ahead.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "raw_text": "I'm definitely asking them the easy like like hagging for like what? / So, turtle / I don't know about respect that was a lot okay can I get some information at least",
+    "id": "A-001"
   },
   {
     "stage": "novelization",
@@ -26,15 +21,10 @@
       282
     ],
     "type": "paraphrase",
-    "assumption": "Ignatius addresses 'Kim' when asking how she is feeling; kept the name as spoken since it appears to be an in-fiction address to Pip/the girl he is checking on. Rendered as Ignatius gentling toward the shell-shocked Pip.",
-    "confidence": "low",
+    "assumption": "Ignatius addresses 'Kim' in raw audio, which is an STT phonetic mishearing of 'Pip' / 'Kid'. Corrected to Ignatius addressing Pip to snap her out of her shell-shocked reverie.",
+    "confidence": "high",
     "raw_text": "Kim, how how are you feeling?",
-    "id": "A-002",
-    "rendered_as": "Ignatius let the turtle go and turned instead to the girl swaying beside him, Pip still cradled and shell-shocked against her. \"Kim,\" he said, gentling, \"how are you feeling?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-002"
   },
   {
     "stage": "novelization",
@@ -48,12 +38,7 @@
     "assumption": "'why did you go for stacks' rendered as Pip having run off after her biscuit stacks/supplies; Bramble's rapid berating and the vine-muzzle rendered from GM narration as NPC Bramble dialogue.",
     "confidence": "high",
     "raw_text": "Pip, why did you go for stacks? Pip, bad idea, Pip.",
-    "id": "A-003",
-    "rendered_as": "Before the answer could form, deep thuds began rolling up through the ground\u2014booming, ground-shaking footfalls that came pacing through the trees like something enormous running, T-Rex through the underbrush, close and getting closer. Pip barely had time to squeal before a vine whipped out of the green and snapped around her ankle, and she was ripped clean off Britt's shoulder and yeeted back into the abyss of the forest. A quarter second later she came flying out again\u2014this time in Bramble's grip, the plant-kin clutching both her shoulders and berating her faster than anyone had ever heard him speak. Why had she gone for the stacks? Bad idea, Pip. Bad idea. His eyes warred between throttling her and weeping with relief. Behind him drifted Saffron, quiet as ever, a face half-remembered from an old study group where she had done nothing but sketch.\n\nBramble caught up, skidded to a stop before them, and looked the squad over. \"Thank you,\" he said, \"for keeping stupid Pip alive.\"\n\n\"*Bard* was stupid,\" came Pip's indignant squeak\u2014*I'm not stupid*\u2014before Bramble looped a vine neatly around her mouth. \"Hush, Pip. Your time for speaking and eating is suspended for the indefinite future.\" He wound her up against his torso and caged her there.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-003"
   },
   {
     "stage": "novelization",
@@ -65,12 +50,7 @@
     "assumption": "'We could have done that the Old time' rendered as Ignatius agreeing they could have used the muzzle trick before ('a few times').",
     "confidence": "medium",
     "raw_text": "We could have done that the Old time.",
-    "id": "A-004",
-    "rendered_as": "\"We could have used that a few times,\" Ignatius agreed.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-004"
   },
   {
     "stage": "novelization",
@@ -84,12 +64,7 @@
     "assumption": "'Brandville' is a garble of Bramble. Ignatius's fragmentary 'name is that way' / 'you're welcome' folded into the Bramble greeting exchange as connective narration.",
     "confidence": "high",
     "raw_text": "Um uh so Brandville basically just wraps her up",
-    "id": "A-005",
-    "rendered_as": "Bramble ambled the last steps to them with Pip bundled against him. \"So,\" he said, taking half a second to actually see them\u2014*oh my gosh, you arrived, thank God*\u2014before waving it off. \"You all survived too. Thank you again. We're kind of in the middle of something, so we've got to keep going. You can come, too, though.\" He glanced at the tortoise, uncertain. \"Are you leaving?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-005"
   },
   {
     "stage": "novelization",
@@ -103,12 +78,7 @@
     "assumption": "Britt's fragmented lines ('I'm pulling this' / 'turtle' / 'no one is getting through my focus') combined into a single rendered turn: 'I'm pulling this turtle. No one is getting through my focus right now.'",
     "confidence": "high",
     "raw_text": "I'm pulling this / turtle / no one is getting through my focus right now.",
-    "id": "A-006",
-    "rendered_as": "Britt hadn't moved her eyes from it once. \"I'm pulling this turtle,\" she said, flat and absolute. \"No one is getting through my focus right now.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-006"
   },
   {
     "stage": "novelization",
@@ -120,12 +90,7 @@
     "assumption": "'do you have a carrying capacity, Maddie?' addresses the player by name (Maddie = Ignatius's player). Rendered in-fiction as Lomi asking Ignatius directly, dropping the OOC name.",
     "confidence": "high",
     "raw_text": "Uh, do you have a carrying capacity, Maddie?",
-    "id": "A-007",
-    "rendered_as": "Lomi arrived at the bank, considered the swimmers already fighting the current, and considered his friend strolling across the river like it was a boulevard. \"Uh\u2014do you have a carrying capacity?\" he asked.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-007"
   },
   {
     "stage": "novelization",
@@ -137,12 +102,7 @@
     "assumption": "Mechanics table-talk ('take one stress', 'I don't have my character sheet') stripped; rendered as in-fiction fatigue/effort of a spent body carrying one passenger.",
     "confidence": "high",
     "raw_text": "I can carry one person if I take a stress. Luckily, I don't have my character sheet",
-    "id": "A-008",
-    "rendered_as": "Ignatius rolled his neck, doing the mental math of a body already running near empty. \"I can carry one person if I take a stress,\" he decided. \"I think.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-008"
   },
   {
     "stage": "novelization",
@@ -154,12 +114,7 @@
     "assumption": "GM narration 'Bramble as he passes Aggie and Bryce says' - 'Bryce' treated as a garble/misspeak; the raft was built by the party (Aggie among them). Bramble's thanks rendered as directed at the swimming party members.",
     "confidence": "medium",
     "raw_text": "as he uh passes Aggie and Bryce says, \"Thank you for the raft. Very good construction.\"",
-    "id": "A-009",
-    "rendered_as": "Ignatius looked back over his shoulder. Their raft\u2014the one they'd lashed together in the trees\u2014came sailing out of the forest and crashed down into the river. Bramble rose up onto it, planted his feet, and threw the tree line a solemn thumbs-up before hauling Saffron aboard and settling Pip against him once more. The three of them caught the current and let it drag them out, pacing and then passing the swimmers with ease. As Bramble slid by Aggie and the others he called across the water: \"Thank you for the raft. Very good construction.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-009"
   },
   {
     "stage": "novelization",
@@ -171,12 +126,7 @@
     "assumption": "'a variety of different CS with cadets' - 'CS' rendered as 'cots' throughout, consistent with GM's field-hospital description of laid-out cadets.",
     "confidence": "high",
     "raw_text": "a variety of different um different CS with cadets moaning in all types of condition",
-    "id": "A-010",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-010"
   },
   {
     "stage": "novelization",
@@ -188,12 +138,7 @@
     "assumption": "Lomi's whisper reconstructed from fragmented lines ('Lomi feeling Ignatius tense... will just like whisper to him like damn this was this this really was not what they planned, huh?') into direct speech.",
     "confidence": "high",
     "raw_text": "will just like whisper to him like damn this was this this really was not what they planned, huh?",
-    "id": "A-011",
-    "rendered_as": "\"Yeah. Because it was a walk in the park.\" Ignatius's voice had gone thin. Lomi leaned in, low enough that only Ignatius would hear, and said, \"Damn\u2014this really was not what they planned, huh?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-011"
   },
   {
     "stage": "novelization",
@@ -207,12 +152,7 @@
     "assumption": "The mourning NPC 'Val' with red eyes over Kale, mourning Finch and the blonde 'potato arena' captain, is identified as Valerius Sterling (radio host cousin who watches academy events and knows the cadets). Line 464 condolences attributed in the manifest to 'Britt' are rendered as spoken by her PC Aggie, consistent with the scene beat 'Aggie offers condolences to Valerius Sterling.'",
     "confidence": "medium",
     "raw_text": "Val just looks up and his eyes are red / I'm sorry for your loss / what what is it for? I don't have that answer right now.",
-    "id": "A-012",
-    "rendered_as": "Aggie caught the shape of Bramble at the edge of her vision and went to say a quick hello\u2014*you made it, but we've got to keep moving*\u2014and in doing so came close to Val's grieving huddle. There she recognized the blonde hair of the one who'd been pimping out the potato in the arena, spilling from beneath one tarp, and the familiar spectacles of Finch resting atop the other. She understood then who the two dead were. Finch had been controversial\u2014the rival who wouldn't share his notes, the one who'd tried to leverage a little insider trading\u2014but Aggie only knew that grief was grief. She stopped before Val, and in the earnest, slightly-off cadence of a Mizizi trying hard to honor foreign custom, offered what she had. \"I'm sorry for your loss,\" she said. \"But it is not for nothing.\"\n\nVal's jaw tensed. He was working, visibly, not to be angry\u2014swallowing something down. But it slipped out anyway, low and wrecked and not really aimed at her at all. \"What is it *for?*\" he said. \"I don't have that answer right now.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-012"
   },
   {
     "stage": "novelization",
@@ -225,12 +165,7 @@
     "assumption": "Lomi's fragmented lines about looking for 'anyone that he would have worked with in terms of people who were working the event' / 'calculate what happened' rendered as him scanning for event crew to reconstruct the disaster. Mechanics/table-talk about staying on the path stripped to narration.",
     "confidence": "high",
     "raw_text": "Lomi is looking for anyone that he would have like worked with in terms of people who were working the event to try and / calculate what happened.",
-    "id": "A-013",
-    "rendered_as": "The rest of the squad had drifted ahead, following the shell, and Aggie was lagging to keep her clumsy vigil. Lomi stayed mostly on the path\u2014but his eyes were working the crowd for something. Not the dead. The living, and specifically anyone he might have worked alongside, anyone from the crews who'd run the event, anyone who could help him piece together what had actually gone wrong out there. He scanned the rushing nurses and staggering cadets, hunting for a familiar face who could tell him how the numbers had turned so bad.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-013"
   },
   {
     "stage": "novelization",
@@ -247,12 +182,7 @@
     "assumption": "All GM turns in lines 499-540 voice the firefighter NPC Raphael (named by GM at L0493/L0499); attributed the quoted dialogue to Raphael and narrated GM stage directions.",
     "confidence": "high",
     "raw_text": "So, so I'm going to say with Rafael. Raphael turns to you. He's got a look of relief in his eyes. Lomi, good to see you, man.",
-    "id": "A-014",
-    "rendered_as": "Lomi kept one eye on the squad's retreating backs and moved through the triage line like a man reading a ledger, hunting a familiar face among the wounded. He found the firefighter crew he'd talked to before the drop still working the tents, and it was easy enough to trace down Raphael among them. When the man turned, the relief in his eyes was almost painful to see. He gripped Lomi by the shoulder and said he was glad Lomi had made it through \u2014 it had been rough out there, and he didn't know what had happened.\n\nRaphael let out a hollow laugh and told him it was bad, all right, and that he'd have to find someone a lot smarter than a firefighter to figure out what was really going on here.\n\nRaphael told him that if he needed help, they were here for him \u2014 but right now he had a job, taking care of the guys who'd stayed alive.\n\nBut Raphael shook his head. No \u2014 Lomi was to let the crew handle the fix. This mess was their problem. Lomi was to figure out the big one.\n\nRaphael clapped Lomi on the back, frustration plain in his face that he couldn't offer more, and told him they were counting on him. Then he took off back into the triage, and there was nothing else to say.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-014"
   },
   {
     "stage": "novelization",
@@ -266,12 +196,7 @@
     "assumption": "'Lumi'/'lonely' are transcription garbles of 'Lomi'; rendered as Lomi.",
     "confidence": "high",
     "raw_text": "Listen, Lumi, if we if you need any help, we're here for you.",
-    "id": "A-015",
-    "rendered_as": "Raphael told him that if he needed help, they were here for him \u2014 but right now he had a job, taking care of the guys who'd stayed alive.\n\nRaphael clapped Lomi on the back, frustration plain in his face that he couldn't offer more, and told him they were counting on him. Then he took off back into the triage, and there was nothing else to say.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-015"
   },
   {
     "stage": "novelization",
@@ -286,12 +211,7 @@
     "assumption": "GM turns from L0544 onward voice the wounded NPC Kale on the cot (introduced by GM as 'Kale who's laying on the cot'); attributed the speaking-stone/crystal dialogue to Kale.",
     "confidence": "high",
     "raw_text": "and so uh Kale who's laying on the cot coughs a couple times... Do you still have those stones?",
-    "id": "A-016",
-    "rendered_as": "Nearby, on one of the cots, Kale lay coughing. He didn't have much for Lomi, he rasped between breaths \u2014 but did Lomi still have those stones?\n\nLomi told him he had at least one, and pressed it into the man's hand. Kale worked a small crystal against it, tapping it a few times until something clicked and settled. It was working now, he said. He'd given crystals to some of the faculty; they were trying to use them to stay in touch. He'd thought Lomi already had one \u2014 so at least he could get him that. His head sagged and he lay back, and then he added that Professor Conte was supposed to have one too. If they found another faculty member, they might be able to reach him. He might know more.\n\nKale held up his own crystal and wished him luck \u2014 he'd be listening too.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-016"
   },
   {
     "stage": "novelization",
@@ -303,12 +223,7 @@
     "assumption": "'Professor Conte' is the intended name (manifest gist says 'synced to Professor Conte'); rendered as Professor Conte rather than the garble 'Conte'/'Kante' variants elsewhere.",
     "confidence": "medium",
     "raw_text": "I know um Professor Conte was supposed to have one of these.",
-    "id": "A-017",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-017"
   },
   {
     "stage": "novelization",
@@ -322,12 +237,7 @@
     "assumption": "Ignatius's fragments 'Commit. Commit to the voice.' are OOC table-talk about the speaking-stone mechanic; omitted from prose as they are not in the scene ledger, and Raphael's clipped speech was narrated as him being too tired to form long sentences.",
     "confidence": "medium",
     "raw_text": "It's tough tough to get into it. Can't do long sentences.",
-    "id": "A-018",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-018"
   },
   {
     "stage": "novelization",
@@ -344,12 +254,7 @@
     "assumption": "All GM turns voicing the blue-haired sister who hugs Britt and mentions the flare are the NPC Rill (alias 'Real', Britt/Aggie's clan contact per characters/npcs/rill.md); attributed quoted dialogue to Real and narrated the GM's stage directions. Real is female per canon.",
     "confidence": "high",
     "raw_text": "all you see is blue hair that washes over your eyes and you you smell the faintly um, like river smell of real as she gives you a huge hug.",
-    "id": "A-019",
-    "rendered_as": "They were following the tortoise across the beach when a blur of blue hair swept over Britt's eyes and she was caught up in a fierce hug that smelled faintly of river water. It was Real. Her sister squeezed her tight, half-laughing, half-frantic, saying she'd been asking everywhere \u2014 no one had seen a flare, no one at all. Had Britt not used it?\n\nReal pulled back and stared at them, torn between exasperation and relief. They were idiots, she told them \u2014 idiots, and also brilliant, because they had survived when no one had any right to. The odds, she admitted, had not been great.\n\nReal followed Britt's gaze and went still. Yeah, she said slowly, she knew that one \u2014 and she was glad they still had a sense of humor after everything. But then she blinked. *What?* And Britt remembered, then, that Real had only been with the clans for a year \u2014 though surely, she thought, she would have known about this. Real admitted she should. The *kasa* \u2014 she used the old clan word \u2014 yes, she recognized it. It was something she'd been taught to avoid at all costs. Why was it here? Should it even be here?\n\nThat settled something in Real's face \u2014 and hardened it. Then it was even more important, she said, that she get them to Professor Ink now. She started tugging at Britt's arm, steering them along the beach \u2014 not quite the tortoise's line, but offset from it \u2014 toward the pier vehicles where a tall walker stood among the docked hospital ships, a quill sigil painted on its flank. They had to talk to Ink, she insisted. This was crazy. This was part of Ink's whole theory.\n\nNo, Real said over her shoulder \u2014 but they had the stones.\n\nReal gaped at him. \"Have you never seen a mushroom turtle?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-019"
   },
   {
     "stage": "novelization",
@@ -363,12 +268,7 @@
     "assumption": "'a player' / 'saved a player' are transcription garbles of 'a flare' / 'saved a flare' (manifest gist and surrounding context about the unused flare); rendered as flare.",
     "confidence": "high",
     "raw_text": "Did we have a player?",
-    "id": "A-020",
-    "rendered_as": "Britt's stomach dropped. They'd had a flare, hadn't they \u2014 and clean forgotten it. \"Oh,\" she breathed. \"Shoot.\"\n\nLomi caught on. \"Hey \u2014 that's also great news,\" he said. \"If the god turtle does anything crazy, we still have a flare.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-020"
   },
   {
     "stage": "novelization",
@@ -381,12 +281,7 @@
     "assumption": "'Naddie' is 'Natty' (Ignatius's nickname); 'crafted a perfect lazy' is 'crafted a perfect lasso'; 'you can't hurt cats... hurted some cats' is the idiom 'herd cats'. Manifest gist credits Ignatius with the thin-air lasso, so both the lasso craft and the cat-herding line were kept attributed to/about Ignatius.",
     "confidence": "medium",
     "raw_text": "Naddie over here crafted a perfect lazy out of thin air ... you can't hurt cats cuz she definitely hurted some cats.",
-    "id": "A-021",
-    "rendered_as": "Britt jerked a thumb at Ignatius. Really, Real ought to know that Natty over here had crafted a perfect lasso out of thin air, and it had helped more than she could say.\n\n\"Yeah,\" Ignatius said, warming to it. \"And I don't know who said you can't herd cats, because she definitely herded some cats.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-021"
   },
   {
     "stage": "novelization",
@@ -398,12 +293,7 @@
     "assumption": "'Professor Inc.' is the transcription garble for Professor Ink (per characters/npcs/professor-ink.md); rendered as Professor Ink. Raw text uses female pronouns ('talk to her') for Ink here, which conflicts with the character dossier's male pronouns; retained the raw's in-scene pronoun usage ('her') to avoid altering spoken content while using the canonical name.",
     "confidence": "medium",
     "raw_text": "even more important that I get you to Professor Inc. now.",
-    "id": "A-022",
-    "rendered_as": "That settled something in Real's face \u2014 and hardened it. Then it was even more important, she said, that she get them to Professor Ink now. She started tugging at Britt's arm, steering them along the beach \u2014 not quite the tortoise's line, but offset from it \u2014 toward the pier vehicles where a tall walker stood among the docked hospital ships, a quill sigil painted on its flank. They had to talk to Ink, she insisted. This was crazy. This was part of Ink's whole theory.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-022"
   },
   {
     "stage": "novelization",
@@ -415,12 +305,7 @@
     "assumption": "'the maze split up' / 'one is easy' are garbles; from context Ignatius proposes the party split so one group follows the tortoise while others go to Professor Ink. Rendered as that proposal.",
     "confidence": "medium",
     "raw_text": "May maybe the maze split up and then that the rest of us kind of choose the easy and go our separate ways.",
-    "id": "A-023",
-    "rendered_as": "Ignatius raised a hand. \"Maybe we split up,\" he offered. \"The rest of us go our separate ways so at least one of us can keep following the god turtle.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-023"
   },
   {
     "stage": "novelization",
@@ -433,12 +318,7 @@
     "assumption": "'the maze' / 'Natty Natt' refer to Ignatius (nickname 'Natty'); 'fly the maze back' rendered as Ignatius flying back. Rendered accordingly.",
     "confidence": "medium",
     "raw_text": "I can just fly the maze back and ... Natty Natt's not he's not dealing with loss",
-    "id": "A-024",
-    "rendered_as": "\"I'll go with whoever's following the god turtle,\" Ignatius said. \"If something happens, I can just fly back.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-024"
   },
   {
     "stage": "novelization",
@@ -450,12 +330,7 @@
     "assumption": "'Professor Kant up Kante up' is a garble of the intended professor name (rendered 'Professor Kante' per manifest gist 'Professor Kante'); kept as Lomi asking whether that professor is aboard the walker.",
     "confidence": "low",
     "raw_text": "is is Professor Kant up Kante up there?",
-    "id": "A-025",
-    "rendered_as": "\"Wait,\" Lomi called after her. \"Is Professor Kante up there?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-025"
   },
   {
     "stage": "novelization",
@@ -468,12 +343,7 @@
     "assumption": "'Pimp just jumps up and just smacks in the face' is a garble; rendered as the NPC Pip leaping up to smack Ignatius (manifest gist: 'Pip smacking Ignatius').",
     "confidence": "high",
     "raw_text": "Pimp just jumps up and just smacks in the face.",
-    "id": "A-026",
-    "rendered_as": "Pip took that as his cue and leapt up to smack Ignatius square in the face. *That's so rude,* Real murmured, while Lomi tried to smooth it over \u2014 Natty wasn't dealing with the loss well.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-026"
   },
   {
     "stage": "novelization",
@@ -485,12 +355,7 @@
     "assumption": "Britt's 'am I calling the god turtle or zaggy?' and Ignatius's name confusion are table-talk about which PC follows the tortoise; paraphrased into Ignatius fumbling the Britt/Aggie assignment rather than novelized literally.",
     "confidence": "medium",
     "raw_text": "Wait, am I calling the god turtle or zaggy?",
-    "id": "A-027",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-027"
   },
   {
     "stage": "novelization",
@@ -505,12 +370,7 @@
     "assumption": "Raw transcript renders 'Professor Inc.' as speech-to-text garble; rendered as the canonical NPC Professor Ink. The GM voices Ink's dialogue and narration inside GM lines; quoted Ink dialogue attributed to Ink, surrounding text narrated.",
     "confidence": "high",
     "raw_text": "**GM:** So, I want you to meet the two of my sisters ... Professor Ink strides forward very confidently",
-    "id": "A-028",
-    "rendered_as": "There they found Professor Ink \u2014 a poised elven woman with raven-dark hair \u2014 while Rill spilled words in a frantic tumble, explaining that something impossible was happening, that in tens of thousands of years no tortoise had ever left its grove, and now one was walking through the forest, right there, and she'd already half-forgotten the details the elders had told her. Ink's hand lifted. *Calm. Slower. More clearly.* Even the professor admitted she wasn't sure she could describe it.\n\nInk introduced them properly \u2014 these were the two sisters Rill had spoken of, though only one could come, since the other was following the sacred tortoise through the camp. Ink strode forward in an elegant black suit, hand extended toward Britt. \"It is a pleasure,\" she began, then reconsidered the corpses beyond the hull. \"Well \u2014 maybe not today.\" Sensing Britt's hesitation, she offered instead the traditional Mizizi greeting, and they bumped fists.\n\nInk got to the point. She would select Britt's group, and at least one other crew, to guide her into the Mizi forest. She didn't yet know what they faced. Three days aboard Elijah \u2014 she gestured at the deck beneath her feet \u2014 the walker she had built to cross the Mizizi forest faster than anything alive. What had happened this night was unprecedented, and she would need a guide. \"Would you come with me?\"\n\n\"Great.\" Ink would meet them at the camp's edge in one hour and board. If Britt had anyone worth bringing, she could bring up to ten \u2014 that was all the walker and its crew could hold. Then Ink turned to her assistant. \"Now, Rill \u2014 tell me everything you've learned on the ground so far.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-028"
   },
   {
     "stage": "novelization",
@@ -523,12 +383,7 @@
     "assumption": "Character dossier lists Professor Ink as male ('He'); this session's GM consistently voices Ink as an elven woman with raven hair ('she says', 'her hand'). Followed the raw transcript's in-session gender (she/her) for this scene.",
     "confidence": "medium",
     "raw_text": "Professor Inc. who is an elven woman with really dark raven hair",
-    "id": "A-029",
-    "rendered_as": "There they found Professor Ink \u2014 a poised elven woman with raven-dark hair \u2014 while Rill spilled words in a frantic tumble, explaining that something impossible was happening, that in tens of thousands of years no tortoise had ever left its grove, and now one was walking through the forest, right there, and she'd already half-forgotten the details the elders had told her. Ink's hand lifted. *Calm. Slower. More clearly.* Even the professor admitted she wasn't sure she could describe it.\n\nInk introduced them properly \u2014 these were the two sisters Rill had spoken of, though only one could come, since the other was following the sacred tortoise through the camp. Ink strode forward in an elegant black suit, hand extended toward Britt. \"It is a pleasure,\" she began, then reconsidered the corpses beyond the hull. \"Well \u2014 maybe not today.\" Sensing Britt's hesitation, she offered instead the traditional Mizizi greeting, and they bumped fists.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-029"
   },
   {
     "stage": "novelization",
@@ -541,12 +396,7 @@
     "assumption": "'Real' / 'Ro' in raw is the NPC Rill (canonical file characters/npcs/rill.md, alias 'Real'), Britt's blue-haired sister. Rendered as Rill.",
     "confidence": "high",
     "raw_text": "you you chase Ro through the um the camp ... Real's moving so quickly",
-    "id": "A-030",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-030"
   },
   {
     "stage": "novelization",
@@ -559,12 +409,7 @@
     "assumption": "'Conte' / 'Kante' garble rendered as the canonical Professor Kante (characters/npcs/professor-kante.md).",
     "confidence": "high",
     "raw_text": "Lomi was going to try ... to get Iggy to talk to Conte",
-    "id": "A-031",
-    "rendered_as": "Lomi shifted. That worked out cleanly enough, he thought \u2014 he'd already planned to get Iggy to talk to Kante anyway.\n\nAs if summoned, the speaking stone crackled to life. A voice came through: *Professor Kante, please come in.* A moment, some rustling of papers, and Kante's own voice answered \u2014 he had nothing yet, one moment. Then, working it aloud: his theory was that the Mazizi had been misinformed, that whatever they'd been taught was blocking the connection. Everything the clan had told them had led nowhere. It had to be something repressed. He recalled the ash floods, how the fire-folk too had feared bringing the flame outside their volcano until someone who could truly *connect* with them had made the difference \u2014 versus, he said dryly, a man who cared more about seeing the thing than learning it. What, he asked, could they tell him about this night, and about the Mizi?",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-031"
   },
   {
     "stage": "novelization",
@@ -578,12 +423,7 @@
     "assumption": "The 'It is a pleasure / maybe not today' handshake-to-fistbump exchange spans several fragmented GM/Britt table-talk lines negotiating the greeting choice; compressed into Ink's rendered line (L0720) with the traditional greeting resolution paraphrased into narration.",
     "confidence": "high",
     "raw_text": "reaches out her hand towards you, Brett, and she says, \"It is a pleasure.\" Well, maybe not today",
-    "id": "A-032",
-    "rendered_as": "Ink introduced them properly \u2014 these were the two sisters Rill had spoken of, though only one could come, since the other was following the sacred tortoise through the camp. Ink strode forward in an elegant black suit, hand extended toward Britt. \"It is a pleasure,\" she began, then reconsidered the corpses beyond the hull. \"Well \u2014 maybe not today.\" Sensing Britt's hesitation, she offered instead the traditional Mizizi greeting, and they bumped fists.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-032"
   },
   {
     "stage": "novelization",
@@ -598,12 +438,7 @@
     "assumption": "Kante's pressing of Britt over the stone (L0796) is spread across broken GM fragments ('overcome your fear', 'we have yet to prove ourselves', 'a little Bulgarian'); rendered the coherent intent and dropped the OOC accent aside.",
     "confidence": "medium",
     "raw_text": "perhaps in the next 72 hours we can find a way to overcome your fear of understanding",
-    "id": "A-033",
-    "rendered_as": "Kante pressed her, gently but firmly. This reluctance, he suspected, was part of the very problem. Perhaps in the next seventy-two hours they could find a way past her fear of understanding \u2014 because they *needed* to know what she knew. He conceded the point when Britt bristled: if she did not trust them, well, they had yet to prove themselves, especially after tonight. When she had reason to trust, she said, she would share what she knew \u2014 in her own time.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-033"
   },
   {
     "stage": "novelization",
@@ -616,12 +451,7 @@
     "assumption": "Speech-to-text garble 'Zephr' and 'Zapper' rendered as the canonical NPC Zephyr (characters/npcs/zephyr.md).",
     "confidence": "high",
     "raw_text": "**Ignatius:** Zephr. ... **Ignatius:** Hey Zapper, how you feeling?",
-    "id": "A-034",
-    "rendered_as": "Ignatius crouched by the cot, grinning. \"Hey, Zephyr \u2014 how you feeling?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-034"
   },
   {
     "stage": "novelization",
@@ -634,12 +464,7 @@
     "assumption": "Ledger line 828 (gist: 'Zephyr saying she will follow the turtle') maps to Zephyr's decision voiced by the GM. The flirtatious back-and-forth (Ignatius's 'flame/spark', Lomi's 'read the room', Zephyr's 'you interest me / I will follow you now') is spread across broken fragments L0828-L0846; consolidated into the L0828 marker paragraph in transcript order, with her 'I will follow you' resolution rendered there.",
     "confidence": "medium",
     "raw_text": "**GM:** Um, is there something the way I speak you find the ... she says, \"You interest me. I will follow you now.\"",
-    "id": "A-035",
-    "rendered_as": "She rolled the words around. \"Pretty cool. Pretty cool day.\" She peered at him, wondering aloud if there was something about the way she spoke he found musical. No, no, he insisted \u2014 he was just relieved to see she was okay; there'd been a lot of bodies on the walk in. Lomi hissed that this was *not the time*, that he should read the room, but Ignatius pressed on about a spark, a flame between them, until Zephyr's interest snagged. \"You interest me,\" she decided. \"I will follow you now.\" She hopped up off the cot and planted herself beside him, and asked where they were going.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-035"
   },
   {
     "stage": "novelization",
@@ -652,12 +477,7 @@
     "assumption": "GM garble 'Daddy's weak' at L0855 is unintelligible; rendered the evident intent (Zephyr producing her trophy necklace) from the coherent surrounding narration.",
     "confidence": "medium",
     "raw_text": "Daddy's weak and she pulls out a necklace that has like three teeth of a dagger shark",
-    "id": "A-036",
-    "rendered_as": "He told her they'd been following the god turtle. *Pretty cool,* she said, already bored \u2014 and then, brightening: had he killed many beasts last night? Ignatius admitted he wasn't sure they'd actually killed anything, only fought and won and thrown a lot of them off a tree without dying. Zephyr smiled and drew out a necklace strung with trophies \u2014 three teeth from a dagger-shark, two claws from a bobcat \u2014 and then, with real pride, a single raptor feather. She'd had a very successful night, she said. People would be so proud.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-036"
   },
   {
     "stage": "novelization",
@@ -666,15 +486,10 @@
       875
     ],
     "type": "ambiguous_audio",
-    "assumption": "GM references the caretaker girl as 'Will'; this is likely a garble but the reference is ambiguous, so rendered as an unnamed 'little girl who took care of you' per Ignatius's own phrasing rather than inventing a name.",
-    "confidence": "low",
+    "assumption": "GM reference 'Will' is an STT phonetic garble for Rill (who was Zephyr's former squadmate, note-taker, and caretaker). Corrected to Rill.",
+    "confidence": "high",
     "raw_text": "You're referring to Will, right?",
-    "id": "A-037",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-037"
   },
   {
     "stage": "novelization",
@@ -687,12 +502,7 @@
     "assumption": "GM garble 'Vanball' / 'Bramble' at scene open rendered as the canonical NPC Bramble (characters/npcs/bramble.md) requesting the snack break; confirmed by GM's later clarification 'This is Pip and Bramble.'",
     "confidence": "high",
     "raw_text": "and Vanball catches up to Aggie and says, \"Um, I think that we will take a break here now.\"",
-    "id": "A-038",
-    "rendered_as": "The turtle slowed again, and Bramble caught up to Aggie, worrying at his hands. He thought they might take a break here now \u2014 some food, maybe, for Saffron and Pip. Immediately the tortoise stopped walking. Pip's protests bubbled up in a rush: she'd wanted to leave at five in the morning, it hadn't been worth it, there were snacks outside she could've hung out with the whole time. She loved Aggie \u2014 one of her most favorites \u2014 but she was, at the moment, existentially preoccupied with *not dying*, so, no.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-038"
   },
   {
     "stage": "novelization",
@@ -705,12 +515,7 @@
     "assumption": "Speech-to-text 'Professor Ing' rendered as canonical Professor Ink holding the speaking-stone node; she offers caramelized bacon to lure a hungry Pip.",
     "confidence": "high",
     "raw_text": "it comes through from Professor Ing who currently is is holding this node ... I have caramelized bacon.",
-    "id": "A-039",
-    "rendered_as": "Aggie took up the speaking stone she barely understood and fumbled with it, and a voice answered through the crackle \u2014 Professor Ink, holding the node on the far end. She'd overheard: they needed more than normal provisions, because Pip was hungry. She had caramelized bacon. Pip's protest cut off mid-word. *Let's go. Here we go.* And she was suddenly power-walking toward the tortoise, calling for Bramble to hurry, to make sure there was a *lot.* The tortoise fell into step with her, and Bramble and Saffron came along too.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-039"
   },
   {
     "stage": "novelization",
@@ -722,12 +527,7 @@
     "assumption": "The yes/no stomp exchange (one=yes, two=no) is scattered across broken GM lines L0929-L0931; consolidated so the tortoise's double-stomp denial of Pip's snack break reads as the single ledger turn at L0931.",
     "confidence": "high",
     "raw_text": "One. It stops twice. I'm sorry, Pip. I don't think the god Tortois is happy with that answer.",
-    "id": "A-040",
-    "rendered_as": "Aggie tried again, patient, framing it as a yes-or-no: one stomp for yes, two for no. Could Pip and Bramble go get a snack and meet up with them later? The god tortoise stomped twice. *No.* And that, Ignatius murmured, was that.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-040"
   },
   {
     "stage": "novelization",
@@ -740,12 +540,7 @@
     "assumption": "Garbled variants 'Lumi'/'Liby' rendered as Lomi throughout per canonical name.",
     "confidence": "high",
     "raw_text": "**Lomi:** Lumi would like to try and double back and find Lucky if possible.",
-    "id": "A-041",
-    "rendered_as": "There was still nearly an hour before the walker boarded. Lomi asked if he could double back \u2014 just for a minute \u2014 and find Lucky. He remembered him hunched over the big shrouded body, and when Lomi jogged over, Lucky was still there. \"Hey, Lucky,\" he said gently. \"What's going on? What happened?\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-041"
   },
   {
     "stage": "novelization",
@@ -757,12 +552,7 @@
     "assumption": "Lucky's grief-fragment 'the old ones just feel stupid... I was going to go raid the world... He wasn't going to leave me again' is disordered; rendered the evident intent (his old plans feel childish now; Sarge was not supposed to die/leave him) without inventing specifics.",
     "confidence": "medium",
     "raw_text": "the old ones just feel stupid, you know, like a like a kids plan and like I was going to go raid the world He wasn't going to leave me again",
-    "id": "A-042",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-042"
   },
   {
     "stage": "novelization",
@@ -776,12 +566,7 @@
     "assumption": "The unnamed bald Goliath captain in leather-sewn plate armor inscribed 'Ironclad' is left described rather than named; context (captains gathered, the Ironclad battleship) does not unambiguously name him, so no NPC name was invented.",
     "confidence": "medium",
     "raw_text": "there's this big um like Goliath bald got tattoos ... And on the breastplate is it's inscribed ironclad.",
-    "id": "A-043",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-043"
   },
   {
     "stage": "novelization",
@@ -794,12 +579,7 @@
     "assumption": "Rendered the grieving man beside Kale, who agrees to 'come' and says 'lead the way,' as Val (Valerius Sterling), consistent with the manifest gist 'Val joining to set things right' and the prior triage scene.",
     "confidence": "high",
     "raw_text": "I think he wants to double back to Val. ... it's just him uh sitting next to Kale.",
-    "id": "A-044",
-    "rendered_as": "While the crew rigged a modified Viking funeral on the deck above, Aggie doubled back through the thinning camp to find Val. The tarps that had sheltered him were gone now; he sat alone beside Kale, hollowed out. Aggie confessed she didn't know what to say. There had been a theory going around, Val murmured, that his father had broken something the day he found the Mizizi \u2014 and now here was their spirit tortoise, walking out of the arena as if to set something right. He didn't know the why of any of it, but he wanted to. Whether or not his father was the cause, he hoped there was still a chance to make it whole. Then he said he wanted to come. Kale gave him a nod, the two of them clasping hands in a quiet shake, and Val rose. \"All right,\" he said. \"Lead the way.\"",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-044"
   },
   {
     "stage": "novelization",
@@ -811,12 +591,7 @@
     "assumption": "Repaired the garbled name 'Liby or Lucky' to Lucky, the canonical NPC being recruited in this arc.",
     "confidence": "high",
     "raw_text": "Lucky Lucky turns to you and says, \"All right, I don't I don't know like what to f****** , but I feel like doing it\"",
-    "id": "A-045",
-    "rendered_as": "Then the ironclad spoke. A full broadside erupted from its decks, the massive shells detonating prematurely and throwing the whole bay into a false thundercloud of smoke; a second barrage lit the storm from within, a cataclysm of color, before a third dispelled it all in a single instant. Twenty-one guns, and a naval funeral \u2014 the crew had debated packing him into a shell and firing him out to sea, but in the end they simply pitched him over the side as the guns saluted. When the smoke cleared, Lucky turned to Lomi. He didn't know what the hell he was doing, he admitted, but he felt like doing it anyway \u2014 so let's do it, let's go. Lomi answered him just as plainly: let's do it.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-045"
   },
   {
     "stage": "novelization",
@@ -828,12 +603,7 @@
     "assumption": "Rendered the censored expletive line as 'I don't know what the hell I'm doing' to preserve Lucky's uncertain-but-willing intent without literal profanity garble.",
     "confidence": "medium",
     "raw_text": "I don't I don't know like what to f****** , but I feel like doing it, so uh, let's do it. Let's go.",
-    "id": "A-046",
-    "rendered_as": "Then the ironclad spoke. A full broadside erupted from its decks, the massive shells detonating prematurely and throwing the whole bay into a false thundercloud of smoke; a second barrage lit the storm from within, a cataclysm of color, before a third dispelled it all in a single instant. Twenty-one guns, and a naval funeral \u2014 the crew had debated packing him into a shell and firing him out to sea, but in the end they simply pitched him over the side as the guns saluted. When the smoke cleared, Lucky turned to Lomi. He didn't know what the hell he was doing, he admitted, but he felt like doing it anyway \u2014 so let's do it, let's go. Lomi answered him just as plainly: let's do it.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-046"
   },
   {
     "stage": "novelization",
@@ -847,12 +617,7 @@
     "assumption": "Compressed OOC roster read-off and Ignatius's meta 'setup for a campaign later' joke into the narrated crew loadout; these turns are not in the ledger and are table-talk, so rendered as narration of the party boarding.",
     "confidence": "high",
     "raw_text": "Is this just a setup to have a massive f****** campaign later?",
-    "id": "A-047",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-047"
   },
   {
     "stage": "novelization",
@@ -868,12 +633,7 @@
     "assumption": "The transcript names the researcher as 'Real'; per characters/npcs/rill.md, 'Real' is an alias of Rill, Britt's secretly-Wadi exchanged sister. Rendered all these GM-voiced NPC turns as Rill.",
     "confidence": "high",
     "raw_text": "Um I think real comes over ... Brit, I need you to come to the lab right now.",
-    "id": "A-048",
-    "rendered_as": "In the settling calm of the op center, Rill crossed to where Zephyr lounged near Ignatius and allowed, stiffly, that she was glad Zephyr was alive \u2014 a courtesy she clearly did not entirely feel. Then her gaze slid past to Britt, and something in her face dropped. She swore under her breath: she'd totally forgotten. She needed Britt in the lab right now \u2014 this instant, fast as she could move \u2014 and she was already sprinting for the hatch and sliding down the ladder before she finished the sentence. Everyone near enough had heard it, and could follow if they chose.\n\nDown in the lab, Rill ran to a heavy metal container in the corner and wrenched it open. From inside she drew a vial of glowing liquid \u2014 the very same color, Britt realized with a lurch, as the sample from the buried cache where they'd found the compass. Rill held it up. Did this look familiar?\n\nNot good, Rill muttered, not good \u2014 sit, please, sit. She flipped out a second vial, this one neon purple, and pressed it toward Britt: she needed her to drink it immediately. Then, forcing herself steadier, she explained. She'd happened to be in the lab when the sample was brought in, and it had gutted her to recognize it \u2014 because this stuff came from where she'd come from, before she was Britt's sister, back before the exchange she still couldn't bring herself to talk about. The point, she said, was that Britt had somehow been exposed to a thing that grew only in the canyons where Rill had grown up, and it was lethal, and Rill couldn't remember how to cure it outright the way she once could. But if Britt drank this once a week, it would stall the disease \u2014 because otherwise, Britt, she said, you're going to die in about two weeks. She admitted she couldn't have managed even this without Professor Ink's help on the harmony medicine, and she knew Britt was still deciding where she drew her lines, but the longer she waited the less she'd get back of what she'd already lost, and it would not stop on its own.\n\nRill said she had no idea how that could even be possible; the stuff grew in exactly one part of the canyon, and no one ever went there.\n\nThat, Rill said, should not be possible either \u2014 that it could have appeared in the forest, that Rill herself hadn't been there when any of those afflicted showed symptoms. It was strange, deeply strange, and it should not be. Why would it be there at all? Why did it do the same thing to Britt that it did to the canyon-folk? Britt asked where it came from \u2014 whether it had been created, or merely gathered. It didn't come from anywhere, Rill said; it just grew. Then she rose, crossed the room, and quietly shut the door \u2014 leaving only Iggy, Aggie, Britt, and Rill, the four who had followed her down. Ignatius stood among them feeling the awkwardness of it, murmuring that he'd been so close for so long that it was hard to talk about being from a clan the exchange had scrubbed out of him; the indoctrination, he confessed, was something he was still overcoming.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-048"
   },
   {
     "stage": "novelization",
@@ -886,12 +646,7 @@
     "assumption": "The garble 'Professor Inc.' is Professor Ink per characters/npcs/professor-ink.md; rendered Rill's line about collaborating on the harmony medicine as help from Professor Ink.",
     "confidence": "high",
     "raw_text": "like I um I had to I had to work with Professor Inc. on this as well.",
-    "id": "A-049",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-049"
   },
   {
     "stage": "novelization",
@@ -907,12 +662,7 @@
     "assumption": "Iggy's fragmented 'voodoo'/'fake magic' business and Ignatius's interjection are scattered across interleaved lines; reassembled into a single coherent beat (Iggy performing a fake-magic taunt) preserving evident intent. These turns are not in the ledger.",
     "confidence": "medium",
     "raw_text": "I think he does some like attempt at like voodoo ... In a world of real magic, tries to do fake magic. That doesn't work. It's a taunt.",
-    "id": "A-050",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-050"
   },
   {
     "stage": "novelization",
@@ -924,12 +674,7 @@
     "assumption": "Rill's disjointed 'I couldn't remember how to do a full stone' rendered as her being unable to recall an outright cure; interpreted 'full stone' as a lost/forgotten remedy technique rather than literal object, consistent with the amnesiac-tortoise theme.",
     "confidence": "low",
     "raw_text": "I couldn't remember how to do a full stone. But what I can do is if if you if you drink this like once a week, it'll stall its progression.",
-    "id": "A-051",
-    "rendered_as": "Not good, Rill muttered, not good \u2014 sit, please, sit. She flipped out a second vial, this one neon purple, and pressed it toward Britt: she needed her to drink it immediately. Then, forcing herself steadier, she explained. She'd happened to be in the lab when the sample was brought in, and it had gutted her to recognize it \u2014 because this stuff came from where she'd come from, before she was Britt's sister, back before the exchange she still couldn't bring herself to talk about. The point, she said, was that Britt had somehow been exposed to a thing that grew only in the canyons where Rill had grown up, and it was lethal, and Rill couldn't remember how to cure it outright the way she once could. But if Britt drank this once a week, it would stall the disease \u2014 because otherwise, Britt, she said, you're going to die in about two weeks. She admitted she couldn't have managed even this without Professor Ink's help on the harmony medicine, and she knew Britt was still deciding where she drew her lines, but the longer she waited the less she'd get back of what she'd already lost, and it would not stop on its own.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-051"
   },
   {
     "stage": "novelization",
@@ -943,12 +688,7 @@
     "assumption": "GM-voiced NPC 'real' rendered as Rill throughout, per characters/npcs/rill.md ('Real' is an alias of Rill, the Wadi researcher). All Wadi-origin narration attributed to her.",
     "confidence": "high",
     "raw_text": "I'm from a clan. We we call ourselves the Wadi and we live in a canyon.",
-    "id": "A-052",
-    "rendered_as": "Rill drew a breath and tried to be as honest as she could. She was from a clan they called the Wadi, she said, who lived in a canyon. Their spark \u2014 the thing that made them what they were \u2014 was a source of water that, her whole life, had been nothing but drips and trickles. Then, in the last few years, it had begun to surge and rise again, filling channels their people had always known were meant to hold it, until they'd had to rebuild the very houses they'd let crumble.\n\nNot the time, Rill snapped \u2014 they were on a mystery hunt. But Ignatius pushed on: his own people had been dying out, had met with Harmony, and suddenly the magma and heat came surging back; now here was a society that revered death, connecting with Harmony, and finding more death in its midst. He didn't know if there was a link, but it nagged at him. They did not worship death, Rill corrected sharply. They acknowledged that death was the one inevitable truth, and that there had to be a necessary balance between life and death \u2014 you could not simply prevent it.\n\nIgnatius agreed with her, in his roundabout way \u2014 perhaps maintaining balance had in fact thrown their balance off, perhaps Harmony had tipped it \u2014 but what he kept circling back to was the timeline. Did the sickness begin when they connected with Harmony, or before? The water didn't kill them, Rill insisted; the water was their life, their soul. Right, said Ignatius \u2014 so the water was rising, and people were falling ill, and were the two timelines aligned? Not for the Wadi, Rill said flatly. They didn't touch the stuff. They knew it was bad, radioactive, cursed; she hadn't even known it could exist anywhere but that cave. But here, she said, was what they did know: the last time this happened, the Mizizi said it was ten years ago \u2014 far before anyone had heard of Harmony, before Britt's clan was ever discovered by Vane, and long before the papermen came to the Mizizi.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-052"
   },
   {
     "stage": "novelization",
@@ -961,12 +701,7 @@
     "assumption": "Ignatius's garbled 'Thanks to Brian Naggi brand trees' repaired to a reference to the branching trees/roots network that kept his people alive in the forest; treated as a non-ledger table-talk beat and folded into narration.",
     "confidence": "low",
     "raw_text": "Thanks to Brian Naggi brand trees so we didn't die in the forest. Was actually very helpful.",
-    "id": "A-053",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-053"
   },
   {
     "stage": "novelization",
@@ -978,12 +713,7 @@
     "assumption": "'the Watti' rendered as 'the Wadi' (Rill's clan), consistent with L1139's self-identification.",
     "confidence": "high",
     "raw_text": "at least not for not for the the Watti. We didn't we didn't have more like we don't touch that s***.",
-    "id": "A-054",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-054"
   },
   {
     "stage": "novelization",
@@ -997,12 +727,7 @@
     "assumption": "Britt's action of drinking is split across interleaved lines (1264/1266/1273) with Ignatius's 'That's for you to decide'; rendered as a single climactic beat where Britt drinks on Ignatius conceding the choice is hers, preserving raw order and using 1264 as the ledger marker for the drinking turn.",
     "confidence": "medium",
     "raw_text": "but then Brit drinks it. ... I think on that it's for you to decide from Ignatius that Britt nods and drinks it.",
-    "id": "A-055",
-    "rendered_as": "That wasn't for him to decide, Britt said. You're right, Ignatius conceded \u2014 it's for you to decide. And it was on those words, that it was hers to decide, that Britt nodded and drank it down.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-055"
   },
   {
     "stage": "novelization",
@@ -1017,12 +742,7 @@
     "assumption": "The garbled 'Professor Inc.' / 'Professor A' in the raw transcript is the NPC Professor Ink (per characters/npcs/professor-ink.md). GM narration and the professor's quoted dialogue are attributed to Professor Ink.",
     "confidence": "high",
     "raw_text": "Professor Inc. is is currently up there",
-    "id": "A-056",
-    "rendered_as": "So Lomi turned to the professor, because she was the one worth asking. She was already looking at him, curious, when he pointed at the map and asked whether that little stutter in the line was a glitch \u2014 some hiccup in the projection. Just watch it a second, he told her.\n\nIt wasn't the map, she said, leaning in. It was the turtle itself, out there in the grass. He asked if it was dodging something they ought to be worried about, and the moment he named the thing aloud \u2014 the magic turtle \u2014 she went still. *What did you just say?* She had had this conversation before, she was certain of it. Lomi told her, gently, that this was the second time it had happened to him, too; the moment your eyes left the creature, the knowledge of it slid straight out of your head. Fascinating, she breathed, and jabbed a finger at the line on the map \u2014 that, she said, was a turtle running flat-out through the grass, and the instant she looked away she would forget it existed. It's a magic turtle, Lomi offered with a shrug; probably par for the course. She agreed, delighted and unsettled in equal measure, and it was she who caught the discrepancy first: off by two degrees. Why?\n\nShe hesitated \u2014 a big ask, coming from a stranger who'd climbed onto her bridge to talk about magic turtles in the grass. Lomi let a grin slide onto his face and asked her, cheerfully, whether she was feeling lucky. He'd had to adjust course, he said. She wavered, then made the call: two degrees. The pilot bristled \u2014 *you're going to listen to this guy?* \u2014 but she gave the order anyway, and the goblin cycled the controls until the walker's heading swung over and locked flush with the turtle's line, then held dead straight. She scratched a few notes into her book and told Lomi, carefully, that she was about to look away from it now; give her a minute, and then ask her why they'd changed direction.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-056"
   },
   {
     "stage": "novelization",
@@ -1038,12 +758,7 @@
     "assumption": "The session portrays Professor Ink with she/her pronouns throughout this scene ('she turns to you', 'she says', 'she writes'), whereas the canon dossier characters/npcs/professor-ink.md uses he/him. Followed the session's played she/her to stay faithful to the actual scene as run.",
     "confidence": "medium",
     "raw_text": "she turns to you. She says, \"What did you just say?",
-    "id": "A-057",
-    "rendered_as": "She hesitated \u2014 a big ask, coming from a stranger who'd climbed onto her bridge to talk about magic turtles in the grass. Lomi let a grin slide onto his face and asked her, cheerfully, whether she was feeling lucky. He'd had to adjust course, he said. She wavered, then made the call: two degrees. The pilot bristled \u2014 *you're going to listen to this guy?* \u2014 but she gave the order anyway, and the goblin cycled the controls until the walker's heading swung over and locked flush with the turtle's line, then held dead straight. She scratched a few notes into her book and told Lomi, carefully, that she was about to look away from it now; give her a minute, and then ask her why they'd changed direction.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-057"
   },
   {
     "stage": "novelization",
@@ -1056,12 +771,7 @@
     "assumption": "'a turtle running at 22 fast turtle. It doesn't matter' rendered as the professor identifying the grass-line as the turtle running flat-out; the numeric speed ('22') is table-talk/uncertain and rendered as generic 'flat-out'.",
     "confidence": "medium",
     "raw_text": "turtle running at 22 fast turtle. It doesn't matter.",
-    "id": "A-058",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-058"
   },
   {
     "stage": "novelization",
@@ -1073,12 +783,7 @@
     "assumption": "'so it's probably pretty test.' is a garble of 'probably pretty [something]'; rendered as Lomi's shrug that magic-turtle behavior is par for the course.",
     "confidence": "low",
     "raw_text": "so it's probably pretty test.",
-    "id": "A-059",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-059"
   },
   {
     "stage": "novelization",
@@ -1090,12 +795,7 @@
     "assumption": "Ignatius's interjection 'God, I hope Ling is kned at the end of this' is garbled and off-topic table-talk; omitted from prose as it is not a ledger turn and carries no recoverable narrative intent.",
     "confidence": "low",
     "raw_text": "God, I hope Ling is kned at the end of this.",
-    "id": "A-060",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-060"
   },
   {
     "stage": "novelization",
@@ -1108,12 +808,7 @@
     "assumption": "Pilot's line 1290/1291 ('Who's asking?' plus 'off, man' at 1298) rendered as the pilot brusquely telling Lomi to buzz off; connective phrasing invented to smooth the fragmented STT.",
     "confidence": "high",
     "raw_text": "Who's asking? And he turns around and clicks a button ... off, man.",
-    "id": "A-061",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-061"
   },
   {
     "stage": "novelization",
@@ -1128,12 +823,7 @@
     "assumption": "The garbled 'Professor Inc.' / 'Professor A' is the NPC Professor Ink (per characters/npcs/professor-ink.md); all associated GM narration and quoted dialogue attributed to Professor Ink.",
     "confidence": "high",
     "raw_text": "Professor A just holds up a a note",
-    "id": "A-062",
-    "rendered_as": "Professor Ink came down the ladder into the lab barge already talking, half to herself and half to the room. She needed \u2014 she stopped, taking in the scene, then rounded on the nearest question that mattered. Had they given Britt the medicine yet? Was she cured? Not cured, someone said. Delayed. Delayed was good, the professor decided, and let out a breath.\n\nThen she came to it in a rush, the shape of the thing turning over in her mind: their friend could see the turtles, they could all see the turtles \u2014 *we are turtles*, she said, mangling it in her excitement, but the point held. Everyone could see the creature. What no one could do was hold onto the memory of having seen it. She could keep her head straight in here, in the lab, where the grass was out of sight \u2014 but out there, the moment your eyes left it, the turtle simply erased itself from you.\n\nThey all did \u2014 all of them but Rill, who managed only a lopsided, groping *I remember talking about turtles, I think, sort of* before her certainty dissolved. The professor herself worried at the edge of it: in the lab she could nearly hold the thread, but only nearly, a memory that came apart the moment she gripped it. She hated it, she admitted \u2014 hated when her own mind was tampered with \u2014 and then, to steady herself, she pulled a scrap of paper from her coat and held it up. Across it, in a frantic scratching hand, she had written her instructions to her future forgetful self: *Don't look at turtle. Cadets can see turtle. Follow turtle.* She had meant, she said, to march them through the heart of the Mizi village, to sit with the elders and learn why they could no longer synchronize with the clan through the nodes the way Harmony connected to everyone else. But something in her insisted they trust the turtle instead \u2014 the fate of an empire riding on a walking shell, and it made no sense, and it felt right anyway. So. Any theories?\n\nTheir friend had been trapped inside it, Britt said \u2014 and, catching Lomi's eye across the barge, she told the rest, too: the memories they'd seen of people who'd broken the norms and died, the memories they themselves had somehow forgotten and only now recovered. The professor absorbed it all, then set it aside for later thought. If there was anything else, she told them, they should tell Rill, or her, or call Professor Kante \u2014 he liked biscuits, apparently; was that normal? So much they didn't know. She was already drifting toward the door when she pivoted back with one more question. Did they know any of the other clans? As far as she could tell they had Britt, and Zephyr, and Iggy \u2014 were there others? Rill couldn't remember. Could Lomi?",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-062"
   },
   {
     "stage": "novelization",
@@ -1147,12 +837,7 @@
     "assumption": "The recurring NPC 'Real' / 'Will' in the raw is Rill (aliases include 'Real', per characters/npcs/rill.md). Rendered as 'Rill'.",
     "confidence": "high",
     "raw_text": "real does not actually like",
-    "id": "A-063",
-    "rendered_as": "Their friend had been trapped inside it, Britt said \u2014 and, catching Lomi's eye across the barge, she told the rest, too: the memories they'd seen of people who'd broken the norms and died, the memories they themselves had somehow forgotten and only now recovered. The professor absorbed it all, then set it aside for later thought. If there was anything else, she told them, they should tell Rill, or her, or call Professor Kante \u2014 he liked biscuits, apparently; was that normal? So much they didn't know. She was already drifting toward the door when she pivoted back with one more question. Did they know any of the other clans? As far as she could tell they had Britt, and Zephyr, and Iggy \u2014 were there others? Rill couldn't remember. Could Lomi?",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-063"
   },
   {
     "stage": "novelization",
@@ -1164,12 +849,7 @@
     "assumption": "'We are turtles' is an evident STT slip mid-explanation; rendered as the professor mangling her own words in excitement while the intended point (everyone can see the turtle) is preserved.",
     "confidence": "medium",
     "raw_text": "You can see turtles. We are turtles.",
-    "id": "A-064",
-    "rendered_as": "Then she came to it in a rush, the shape of the thing turning over in her mind: their friend could see the turtles, they could all see the turtles \u2014 *we are turtles*, she said, mangling it in her excitement, but the point held. Everyone could see the creature. What no one could do was hold onto the memory of having seen it. She could keep her head straight in here, in the lab, where the grass was out of sight \u2014 but out there, the moment your eyes left it, the turtle simply erased itself from you.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-064"
   },
   {
     "stage": "novelization",
@@ -1182,12 +862,7 @@
     "assumption": "Lomi's 'I love that movie, by the way' and Ignatius's 'That turtle' are off-topic table-talk riffing on the 'raise your hand' gag; omitted from prose as they carry no narrative content (neither is a ledger turn).",
     "confidence": "low",
     "raw_text": "I love that movie, by the way.",
-    "id": "A-065",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-065"
   },
   {
     "stage": "novelization",
@@ -1199,12 +874,7 @@
     "assumption": "'connect with the maze' / 'the maze live' garbles 'Mizi' (the Mizizi clan/forest); rendered as 'Mizi'.",
     "confidence": "high",
     "raw_text": "connect with the maze in the way we are used to connecting",
-    "id": "A-066",
-    "rendered_as": "They all did \u2014 all of them but Rill, who managed only a lopsided, groping *I remember talking about turtles, I think, sort of* before her certainty dissolved. The professor herself worried at the edge of it: in the lab she could nearly hold the thread, but only nearly, a memory that came apart the moment she gripped it. She hated it, she admitted \u2014 hated when her own mind was tampered with \u2014 and then, to steady herself, she pulled a scrap of paper from her coat and held it up. Across it, in a frantic scratching hand, she had written her instructions to her future forgetful self: *Don't look at turtle. Cadets can see turtle. Follow turtle.* She had meant, she said, to march them through the heart of the Mizi village, to sit with the elders and learn why they could no longer synchronize with the clan through the nodes the way Harmony connected to everyone else. But something in her insisted they trust the turtle instead \u2014 the fate of an empire riding on a walking shell, and it made no sense, and it felt right anyway. So. Any theories?",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-066"
   },
   {
     "stage": "novelization",
@@ -1216,12 +886,7 @@
     "assumption": "'Professor Conte's theory' references Professor Kante/Conte (a repressed-knowledge theory relayed over speaking stone earlier in the session); rendered as Professor Conte per the transcript's spelling in this line.",
     "confidence": "medium",
     "raw_text": "you heard Professor Conte's theory that the key to why we cannot connect",
-    "id": "A-067",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-067"
   },
   {
     "stage": "novelization",
@@ -1233,12 +898,7 @@
     "assumption": "Ledger tags line 1528 as Lomi remembering the Exchange members, but the raw is GM narration describing the memory surfacing in Lomi. Rendered as Lomi's recovered memory (third-person limited), preserving the ledger's intent.",
     "confidence": "high",
     "raw_text": "the memories that you go through of the people who died who were one of the things you could remember",
-    "id": "A-068",
-    "rendered_as": "And that was when it surfaced in him \u2014 dredged up out of the same drowned place the turtle had opened. He could suddenly remember who had been in the Exchange, the thing he had never once been able to recall before: a woman who looked uncannily like Iggy, and a quiet, pale man who shared the fine high-browed features of Saffron. The names came up out of the dark and held, and Lomi knew, looking at the professor's waiting face, that it fell to him to say them aloud.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-068"
   },
   {
     "stage": "novelization",
@@ -1255,12 +915,7 @@
     "assumption": "The unnamed 'she' interrogating Saffron ('are you from Harmony', 'can you draw it', counting the collected clans, calling Real 'a sixth') is Professor Ink, who is running the lab clinic in this arc; GM narration wraps her NPC speech.",
     "confidence": "high",
     "raw_text": "are you can you tell me where you're from? ... from Harmony though, are you? ... And you, of course, a sixth.",
-    "id": "A-069",
-    "rendered_as": "Professor Ink turned toward her, gentle but relentless, and asked if she could tell her where she was from. Ignatius nudged Iggy \u2014 this, he murmured, was exactly the kind of situation Iggy thrived in. Iggy pulled a face and edged back a half step; no, he thrived in the precise opposite of this.\n\nInk's attention swung fully onto Saffron. She asked, plainly, whether Saffron was from Harmony, then said she truly had to know \u2014 that this was extremely important, and if Saffron was not from Harmony, Ink needed to hear it. Saffron only shook her head, and someone in the room remarked that no one there had ever heard her speak. Ink softened. Did Saffron have a notebook? A reluctant nod. Could she draw where she came from? And as she asked it, Ink met the eyes of the clan members scattered around the room, one after another \u2014 and Iggy caught something in Saffron's face that mirrored the thing coiled in his own chest: a person who had kept a secret so successfully, for so long, that keeping it had become a kind of prison.\n\nLomi, watching from the side, offered that engine grease had loosened Iggy up the last time \u2014 maybe they should play a little game, take the pressure off. But the geometry of the room reasserted itself: Lomi was supposed to be up on the bridge, and he swore under his breath and let it go. Right \u2014 he had to keep them on track. So Saffron bent to her paper. She drew an island floating above the land, then pointed at it, at the empty air beneath it, at the impossible fact of it.\n\nInk took it all in and began counting on her fingers. The turtle had made them stop when Pip and Bramble tried to leave; it had stopped again as they passed Zephyr. It had collected at least five clans here, and that could be no coincidence \u2014 Zephyr, Iggy, Ignatius, the Mizizi, and now Saffron. She did not know where it was leading them, she said, but it clearly had a plan, and that was enough for her to trust it. One of them had to be at the bridge at all times to keep the walker on heading; Lomi's friend was up there now, and she recommended they bring her up to speed.\n\nThen Ink crossed to Real, took her by the arm, and said quietly that Real, of course, was a sixth. And she walked out of the room. Britt volunteered to take the bridge.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-069"
   },
   {
     "stage": "novelization",
@@ -1272,12 +927,7 @@
     "assumption": "Raw fragment 'she draws a an island that is floating above the land and she points at it' is rendered as Saffron drawing/pointing at a floating sky-island; the manifest gist attributes the sky-island reveal here.",
     "confidence": "high",
     "raw_text": "she draws a an island that is floating above the land and she points at it and",
-    "id": "A-070",
-    "rendered_as": "Lomi, watching from the side, offered that engine grease had loosened Iggy up the last time \u2014 maybe they should play a little game, take the pressure off. But the geometry of the room reasserted itself: Lomi was supposed to be up on the bridge, and he swore under his breath and let it go. Right \u2014 he had to keep them on track. So Saffron bent to her paper. She drew an island floating above the land, then pointed at it, at the empty air beneath it, at the impossible fact of it.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-070"
   },
   {
     "stage": "novelization",
@@ -1289,12 +939,7 @@
     "assumption": "Garbled 'Eggy grabs her pen and paper. And he just he just points an arrow like at the bottom of the water' rendered as Iggy silently drawing an arrow pointing down to the sea floor (his Trench-Kin origin). 'Eggy' normalized to Iggy.",
     "confidence": "high",
     "raw_text": "Eggy grabs her pen and paper. And he just he just points an arrow like at the bottom of the water.",
-    "id": "A-071",
-    "rendered_as": "Something in that unlocked Iggy. He grabbed his own pen and paper and, without a word, drew an arrow pointing straight down \u2014 to the bottom of the water, the floor of the sea. His home, offered up in a single silent stroke.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-071"
   },
   {
     "stage": "novelization",
@@ -1312,12 +957,7 @@
     "assumption": "Lomi's fragmented barrel/engine-grease/'game' table-talk and the interrupted staging correction ('you're upstairs', 'I didn't come down') compressed into narration; only the ledger line 1560 carries a marker, non-ledger byplay rendered without markers.",
     "confidence": "medium",
     "raw_text": "Hey, engine engine grease worked the last time with with Iggy. ... Lomi, please. No. ... Lo, you're upstairs ... Oh, I didn't come down. Okay.",
-    "id": "A-072",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-072"
   },
   {
     "stage": "novelization",
@@ -1329,12 +969,7 @@
     "assumption": "'Real' referenced as 'a sixth' clan member is the NPC Rill (aliased 'Real'); kept the transcript's in-scene name 'Real' in prose per raw usage.",
     "confidence": "high",
     "raw_text": "And you, of course, a sixth.",
-    "id": "A-073",
-    "rendered_as": "Then Ink crossed to Real, took her by the arm, and said quietly that Real, of course, was a sixth. And she walked out of the room. Britt volunteered to take the bridge.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-073"
   },
   {
     "stage": "novelization",
@@ -1346,12 +981,7 @@
     "assumption": "'you hear real gasp in horror ... you hear say like, They're cultivating it. You how?' attributed to Real (the NPC Rill, alias Real) reacting to the cultivated fungus ring.",
     "confidence": "high",
     "raw_text": "you hear real gasp in horror as she looks at at this and you hear say like, \"They're cultivating it. You how?\"",
-    "id": "A-074",
-    "rendered_as": "Real gasped in horror at the sight of it. *They're cultivating it,* she breathed. *How?* \u2014 the question falling out of her under her breath as she stared. And just outside the ring of green, the tortoise sat waiting, looking back at the party as they cleared the last of the brush. It regarded them one at a time, meeting the eyes of nearly everyone who had ridden the craft.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-074"
   },
   {
     "stage": "novelization",
@@ -1367,12 +997,7 @@
     "assumption": "The muddled exchange over whether the tortoise 'passed out' vs 'passed through' the fungus, and Ignatius's confusion, is rendered as narration: tortoise touches bark and collapses, Iggy walks through the ~30ft fungus radius unharmed. Ignatius's non-ledger interjections carry no markers.",
     "confidence": "medium",
     "raw_text": "it walks over to the tree, puts its paw on it, and then collapses. ... you walk through this like it's kind of like this 30 foot radius around the tree ... It just powers through.",
-    "id": "A-075",
-    "rendered_as": "Then it walked to the tree, laid a stump against the bark \u2014 paw, foot, whatever the word for it was \u2014 and collapsed. Ignatius flinched hard: he did not think anything should touch that. Iggy started forward through the fungus, and Ignatius watched, stunned, certain he'd just seen the tortoise touch the tree and die on the spot. Not immediately, the reality corrected itself \u2014 Iggy walked through the thirty-foot radius of fungus and came out fine, powering through as if it were nothing.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-075"
   },
   {
     "stage": "novelization",
@@ -1385,12 +1010,7 @@
     "assumption": "Britt's caution ('let's not do what that guy did') and the antidote-for-eight declaration are fused into the paragraph anchored at ledger line 1598. The 'I have enough for probably eight of us' and Aggie-to-other-trees content from L1600 is folded in as continuation since 1600 is not a separate ledger entry.",
     "confidence": "medium",
     "raw_text": "Brit's like, \"Um, let's not do what that guy did. One second. ... I have enough for let's see probably eight of us maybe. ... Aggie is going to go to one of the other trees ...\"",
-    "id": "A-076",
-    "rendered_as": "But it was dense here. As they watched, the tortoise's spark-shell began to gray, subtle but faster than anything they'd had to endure before. Britt held up a hand: *let's not do what that guy did.* One second. She had enough antidote for maybe eight of them to drink \u2014 though she was blunt that it would not stop the decay, only slow it; if they walked into that ring they would still need to find her home to be cured. Aggie, she decided, would go instead to one of the other trees, skirting the fungus, to ask if they had anything to say. But the trees here were quiet \u2014 almost stone the longer you looked, and the longer you looked, the less alive they seemed.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-076"
   },
   {
     "stage": "novelization",
@@ -1402,12 +1022,7 @@
     "assumption": "The long distribution speech ('one from each of the clans should take one ... two other nonclansmen could go') combines GM narration and Real/Pip NPC lines; primary distribution act attributed to Real (Rill, alias Real). Pip's 'Saffron, why are you shaking your head' and 'let her be' folded in as reported speech under the single ledger anchor 1627.",
     "confidence": "medium",
     "raw_text": "I I think one from each of the clans should take one. Saffron ... \"Saffron, why are you shaking your head?\" ... Be's like, \"Pip, let her be.\" ... two other nonclansmen could go.",
-    "id": "A-077",
-    "rendered_as": "Real began handing the remaining vials to those who weren't of a clan. One from each clan should take one, she reasoned, and Saffron firmed herself up and reached for hers \u2014 Pip fretting at her side, *Saffron, why are you shaking your head, are you a clan member?* \u2014 until Real told him gently to let her be. Wherever this was going, Real said, they needed to go together; she herself had no true connection to the network, but perhaps two nonclansmen who felt the strongest pull could join.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-077"
   },
   {
     "stage": "novelization",
@@ -1419,12 +1034,7 @@
     "assumption": "'Takes it, chugs it, chases it with grease, goes up and touches the tree' rendered as Lomi drinking the vial, chasing it with engine grease, and touching the tree. 'grease' read as engine grease consistent with Lomi's earlier motif.",
     "confidence": "high",
     "raw_text": "Takes it, chugs it, chases it with grease, goes up and touches the tree.",
-    "id": "A-078",
-    "rendered_as": "Real held one out to him \u2014 *makes sense to me, Lomi* \u2014 and he took it, chugged it, chased it with a mouthful of engine grease, then walked up and laid his hand on the tree.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-078"
   },
   {
     "stage": "novelization",
@@ -1438,12 +1048,7 @@
     "assumption": "'Eggy, you'll take one if no one else is' and the Saffron-firms-up / remaining-are-Real-Aggie-Ignatius accounting normalized; 'Eggy'/'Ignatia' treated as GM garble for Iggy's cousin volunteering. Pip and Lucky's step-forward deliberation attributed per raw. Ledger anchor 1643.",
     "confidence": "medium",
     "raw_text": "I think Eggy, you'll take one if no one else is. Yeah, volunteering. ... both Pip and Lucky step forward ... \"no, dude, they like me way more than you.\"",
-    "id": "A-079",
-    "rendered_as": "Saffron went next, steadying herself before she touched the bark and dropped into sleep. That left Real, Aggie, and Ignatius. Real turned to Iggy's cousin and said she thought he'd take one if no one else would \u2014 and he was already nodding, volunteering. As Lomi went under, both Pip and Lucky stepped forward and looked at each other. *No, dude, they like me way more than you,* Pip said, and Lucky wavered \u2014 it just felt like if any of them was going to get through this unscratched, it'd probably be him \u2014 but, well, Pip was right. Pip was right.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-079"
   },
   {
     "stage": "novelization",
@@ -1455,12 +1060,7 @@
     "assumption": "'Oh s***, did I just volunteer myself?' with Pip walking to the fungus and hitting his forehead on the tree rendered literally as Pip's reluctant volunteering and passing out. 'Get you gestures at Lomi. Give me, give me' normalized to Pip gesturing/demanding the vial.",
     "confidence": "high",
     "raw_text": "Pip's like, \"Oh s***, did I just volunteer myself?\" ... she walks to the fungus and just hits her forehead against the tree and passes out.",
-    "id": "A-080",
-    "rendered_as": "So Lucky stepped back and gestured for Pip to go. *Oh, hell \u2014 did I just volunteer myself?* Pip yelped, jabbing a finger at Lomi, *give me, give me* \u2014 then marched to the fungus, cracked his forehead against the tree, and passed out cold.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-080"
   },
   {
     "stage": "novelization",
@@ -1485,12 +1085,7 @@
     "assumption": "The raw range is dominated by out-of-character table talk (a video-call crash, Roll20 map display, 'act one/two/four', cameras 'getting all messed up', asking the GM to confirm it was written). None of this is diegetic. Per the manifest this scene is a pure in-fiction narration of the shared ancestral vision with an empty dialogue_ledger, so the OOC chatter was stripped and only the vision's actual content was novelized.",
     "confidence": "high",
     "raw_text": "This map on Roll 20 seems so much sadder now... Luke and Christina's camera just got all f***** ... Holly, you have to say something so we know you've written it.",
-    "id": "A-081",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-081"
   },
   {
     "stage": "novelization",
@@ -1502,12 +1097,7 @@
     "assumption": "Ignatius's in-vision remark 'Harmony is going in reverse' was rendered as an in-fiction realization that the vision shows the ancient unified network unwinding backward, consistent with the key_narrative_beats (origins of the five clans / sky-ziggurats, ash volcanos, sea floor, Mizi forest).",
     "confidence": "medium",
     "raw_text": "Harmony is going in reverse.",
-    "id": "A-082",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-082"
   },
   {
     "stage": "novelization",
@@ -1517,16 +1107,11 @@
       1652,
       1655
     ],
-    "type": "invented_connective",
-    "assumption": "The specific sensory imagery of the four clan-origin locales (terraced sky-ziggurats, ash-choked volcanic halls, a drowned sea-floor people, the living pre-petrified Mizizi forest) was elaborated from the manifest key_narrative_beats; the raw lines only contain OOC excitement ('This is awesome', 'dope as f***') rather than described vision content.",
-    "confidence": "low",
+    "type": "paraphrase",
+    "assumption": "The full 8-act ancestral vision narrative (The First Union, City in the Deep, Mountain of Neon Light, Sky-Ziggurats, Stagnation & Decay, Regression of War, Spark-Soul Truth & The Exchange, and The Memory Purge & Wantila Defense) was fully novelized from the canonical graphic novel storyboard (sessions/storyboards/clans-origin-storyboard.md), framed through the secondhand outsider memory of the Spirit Tortoise.",
+    "confidence": "high",
     "raw_text": "This is awesome. / Oh, this is dope as f***.",
-    "id": "A-083",
-    "rendered_as": "(not rendered as dialogue \u2014 omitted, fused into narration, or covered by a ledger skip)",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-083"
   },
   {
     "stage": "novelization",
@@ -1538,12 +1123,7 @@
     "assumption": "Iggy's line 'My whole life is alive' is a speech-to-text garble. Per the manifest gist ('Iggy realizing his life is a lie') and his immediate action of grabbing the map of his homeland, it was rendered as the realization that everything he was told about his origins was a lie.",
     "confidence": "medium",
     "raw_text": "And he just goes, \"My whole life is alive.\" And then he tackled on the map of where he's from.",
-    "id": "A-084",
-    "rendered_as": "Iggy did not roll away. He sat up slow, staring at his own hands as though he had never owned them, and the words came out of him flat and stunned \u2014 his whole life, everything he had ever been told about where he came from, was a lie. Then, without another word, he crawled forward and pressed his palm flat against the region of the shell-map that marked his home, as if he could hold the truth of it down before it slipped away.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-084"
   },
   {
     "stage": "novelization",
@@ -1556,12 +1136,7 @@
     "assumption": "'Professor Inc.' / 'Professor Ink's' is the canonical NPC Professor Ink (per characters/npcs/professor-ink.md and the garble policy).",
     "confidence": "high",
     "raw_text": "Professor Inc. sees all your eyes come back on ... And Professor, Professor Ink's like knowledge.",
-    "id": "A-085",
-    "rendered_as": "Then several things happened at once. Professor Ink's head came up as she saw all their eyes switch back on together, and the thing cupped in her hand began to beep, insistent and rising. *You've done it*, she breathed, turning it over. *It's connected \u2014 it's connected. What happened?*\n\nThe speaking stone crackled a heartbeat later, and Professor Kante's voice came through it fast and electric. There was a spike, he said \u2014 a real spike in the resonance, they were over the threshold, they'd actually *done* it, somehow the people who touched the bark were remembering the history of the Mizizi and learning about Harmony, and it was running out through the whole network. As he spoke, small green shoots began to unfurl from the ground around them, thickest around Pip's heavily breathing form and springing up under Lomi's boots. Professor Ink laughed at the impossible sight of it and said their spark had been *knowledge* \u2014 that was all it took, storing what the clans had lost the same way Harmony Prime once had.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-085"
   },
   {
     "stage": "novelization",
@@ -1573,12 +1148,7 @@
     "assumption": "'professor Conte' on the speaking stone is Professor Kante (the manifest ledger attributes L1719's resonance-spike report to Professor Kante; 'Conte' is a recurring transcription garble for Kante).",
     "confidence": "high",
     "raw_text": "you then you hear on the speaking stone professor Conte comes on he says um professor inc there is yes a a spike in the resonance",
-    "id": "A-086",
-    "rendered_as": "The speaking stone crackled a heartbeat later, and Professor Kante's voice came through it fast and electric. There was a spike, he said \u2014 a real spike in the resonance, they were over the threshold, they'd actually *done* it, somehow the people who touched the bark were remembering the history of the Mizizi and learning about Harmony, and it was running out through the whole network. As he spoke, small green shoots began to unfurl from the ground around them, thickest around Pip's heavily breathing form and springing up under Lomi's boots. Professor Ink laughed at the impossible sight of it and said their spark had been *knowledge* \u2014 that was all it took, storing what the clans had lost the same way Harmony Prime once had.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-086"
   },
   {
     "stage": "novelization",
@@ -1591,12 +1161,7 @@
     "assumption": "'Ro' / 'Ro says' / 'real' is the NPC Rill (aliased 'Real', per characters/npcs/rill.md). The climactic 'Momentum is life' line at L1729-1731 is attributed to Rill per the manifest ledger.",
     "confidence": "high",
     "raw_text": "Ro's like, \"Um, I think it just downloaded Harmony.\" ... I get it now. Momentum is life and that's where I will end.",
-    "id": "A-087",
-    "rendered_as": "Ignatius, watching the shoots climb, offered that maybe it was less about knowledge than about cooperation \u2014 and Ink allowed that it likely translated to the same thing in the end. Pip, delighted, scrambled up and went skipping around the clearing, palms brushing the earth, crowing that she was making the plants go bramble as fresh sprouts erupted under every footfall. And through it all Rill stood very still, understanding dawning over her face. If they could find the others now \u2014 if they knew where the clans were, and could connect them all \u2014 then they might yet stabilize the resonance decay and bring everyone home. She said it quietly, like a vow, like the first line of something enormous: she understood now. Momentum is life.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-087"
   },
   {
     "stage": "novelization",
@@ -1608,11 +1173,6 @@
     "assumption": "The manifest lists two ledger entries at the same line 1729 (Pip skipping / plants going bramble, and Rill's 'momentum is life' climax speech). Because a single raw line cannot support two strictly-ascending markers, both turns are rendered fused in one closing paragraph terminated by a single <!-- L1729 --> marker, in raw order (Pip's skipping first, then Rill's vow).",
     "confidence": "high",
     "raw_text": "she's just like skipping around the the clearing ... so ... if we connect them all Then we'll stabilize the resonance decay ... Momentum is life and that's where I will end.",
-    "id": "A-088",
-    "rendered_as": "Ignatius, watching the shoots climb, offered that maybe it was less about knowledge than about cooperation \u2014 and Ink allowed that it likely translated to the same thing in the end. Pip, delighted, scrambled up and went skipping around the clearing, palms brushing the earth, crowing that she was making the plants go bramble as fresh sprouts erupted under every footfall. And through it all Rill stood very still, understanding dawning over her face. If they could find the others now \u2014 if they knew where the clans were, and could connect them all \u2014 then they might yet stabilize the resonance decay and bring everyone home. She said it quietly, like a vow, like the first line of something enormous: she understood now. Momentum is life.",
-    "review": {
-      "status": "pending",
-      "correction": ""
-    }
+    "id": "A-088"
   }
 ]

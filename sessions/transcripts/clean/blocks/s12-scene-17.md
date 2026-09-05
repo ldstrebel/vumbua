@@ -1,15 +1,27 @@
 <!-- RAW_RANGE: [1578, 1600] | SCENE_ID: 17 -->
 
-## CHAPTER 13: THE OLD GROWTH
+## CHAPTER 14: THE OLD GROWTH
 
-They took their long rests. They ate. And after a while, the turtle began to slow.
+For two days, the walker *Elijah* galloped southward across the plains, maintaining a strict watch rotation at the bridge helm so that no cadet ever broke visual contact with Mwaza-Kasa's wake in the grass.
 
-By now they had a system. Anyone could track Mwaza-Kasa so long as they never looked away, and once you were watching you could speak of it freely — most of it written down anyway, charts and graphs papering the cockpit walls: *this is how you track it, this is what you do.* The trees closed in as the walker pressed deeper, the growth older and older, until the trunks stood so tight together that the Scarab could go no farther and the party had to disembark. For Aggie and Britt, this was ground the elders had explicitly forbidden — the one place the old growth had never been cut, a clearing the young generation was never quite told how to find. Its location had been an open secret, obscured on purpose, and it had haunted their dreams: this was where the network would take you if you had no anchor, where it would dump you out. They coordinated a scouting party and worked their way through the woods until they came upon the largest tree any of them had ever seen — a redwood-scaled giant standing alone in a clearing of its own, ringed by that green fungus that was supposed to grow nowhere else. <!-- L1579 -->
+On the third morning, the savanna gave way to towering ancient timbers. The petrified canopy thickened into an impenetrable labyrinth of colossal moss-draped trunks, forcing *Elijah* to grind to a halt at the edge of the forbidden old growth. The expedition disembarked onto the damp loam, continuing on foot into territory that Mizizi elders had explicitly forbidden their youth from ever entering. <!-- L1579 -->
 
-Real gasped in horror at the sight of it. *They're cultivating it,* she breathed. *How?* — the question falling out of her under her breath as she stared. And just outside the ring of green, the tortoise sat waiting, looking back at the party as they cleared the last of the brush. It regarded them one at a time, meeting the eyes of nearly everyone who had ridden the craft. <!-- L1581 -->
+At the center of a wide, mist-shrouded clearing stood the largest living organism any of them had ever witnessed—a colossal, ancient primordial tree whose petrified roots coiled across the clearing like sleeping dragons.
 
-Then it walked to the tree, laid a stump against the bark — paw, foot, whatever the word for it was — and collapsed. Ignatius flinched hard: he did not think anything should touch that. Iggy started forward through the fungus, and Ignatius watched, stunned, certain he'd just seen the tortoise touch the tree and die on the spot. Not immediately, the reality corrected itself — Iggy walked through the thirty-foot radius of fungus and came out fine, powering through as if it were nothing. <!-- L1583 -->
+Encircling the base of the massive trunk was a thirty-foot ring of dense, glowing neon-green fungus—the exact lethal organism Rill had identified from the canyon caves.
 
-But it was dense here. As they watched, the tortoise's spark-shell began to gray, subtle but faster than anything they'd had to endure before. Britt held up a hand: *let's not do what that guy did.* One second. She had enough antidote for maybe eight of them to drink — though she was blunt that it would not stop the decay, only slow it; if they walked into that ring they would still need to find her home to be cured. Aggie, she decided, would go instead to one of the other trees, skirting the fungus, to ask if they had anything to say. But the trees here were quiet — almost stone the longer you looked, and the longer you looked, the less alive they seemed. <!-- L1598 -->
+Rill gasped in pure horror, stumbling back. "They're cultivating it..." Rill breathed in terrified disbelief. "How is that even possible?!" <!-- L1581 -->
+
+Mwaza-Kasa crawled steadily to the edge of the clearing, turned back to meet the gaze of each member of the party, and then waddled straight into the ring of lethal fungus. Reaching the ancient bark, the giant Spirit Tortoise pressed its front limb against the wood—and collapsed motionless to the earth. <!-- L1581 --> <!-- L1583 -->
+
+Ignatius cried out in alarm, jumping forward. "Don't touch that! Did the turtle just die?!" <!-- L1583 -->
+
+Iggy didn't hesitate. Pulling his heavy trench coat tight around his dirt-kin frame, Iggy marched straight through the thirty-foot perimeter of glowing fungal spores. The toxic dust swirled harmlessly against his clay skin as he reached the fallen tortoise, kneeling beside its shell. <!-- L1583 -->
+
+Beneath Iggy's hands, the glowing teal veins across Mwaza-Kasa's carapace were rapidly fading into dull, ashen grey.
+
+Britt unslung her satchel, stepping up to the perimeter. "I have eight vials of stabilizing antidote," Britt announced firmly. "It won't cure us permanently, but it gives us time. If we are going to touch that tree and uncover what happened here... we take the draught together." <!-- L1598 -->
+
+Aggie walked to an adjacent sentinel tree on the edge of the clearing, placing her palms against its bark to commune with the roots. But the wood remained cold, silent, and petrified—as if the ancient spirit of the forest were holding its breath, waiting for the six clans to step forward. <!-- L1598 -->
 
 <!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[] -->

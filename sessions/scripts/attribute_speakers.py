@@ -254,11 +254,19 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
         key = f"{segment['stream']} -> {segment['identity'] or '(pending)'}"
         identity_counts[key] = identity_counts.get(key, 0) + 1
 
+    def _safe_relpath(p):
+        if not p:
+            return None
+        try:
+            return os.path.relpath(p, base_dir)
+        except ValueError:
+            return os.path.abspath(p)
+
     report = {
         "session_id": session_id,
-        "session_config": os.path.relpath(config.path, base_dir),
-        "decisions_file": os.path.relpath(used_decisions_path, base_dir) if used_decisions_path else None,
-        "indexed_file": os.path.relpath(indexed_path, base_dir),
+        "session_config": _safe_relpath(config.path),
+        "decisions_file": _safe_relpath(used_decisions_path),
+        "indexed_file": _safe_relpath(indexed_path),
         "gm": config.gm,
         "shared_mics": [
             {"mic_label": mic.mic_label, "carries": mic.identity_labels(), "note": mic.note}
@@ -290,14 +298,14 @@ def attribute(session_id, index_dir=None, out_dir=None, config_path=None,
         print(f"  {len(unresolved)} shared-mic line(s) still need decomposition "
               f"(first: L{unresolved[0]:04d})")
     if violations:
-        print(f"❌ {len(violations)} violation(s):", file=sys.stderr)
+        print(f"[ERROR] {len(violations)} violation(s):", file=sys.stderr)
         for violation in violations:
             print(f"    - {violation}", file=sys.stderr)
         sys.exit(1)
     if strict and unresolved:
-        print("❌ --strict: every shared-mic line must be decomposed.", file=sys.stderr)
+        print("[ERROR] --strict: every shared-mic line must be decomposed.", file=sys.stderr)
         sys.exit(1)
-    print("✅ attribution consistent with the session config")
+    print("[OK] attribution consistent with the session config")
     return report
 
 
@@ -316,7 +324,7 @@ def main(argv=None):
                   config_path=args.config_path, decisions_path=args.decisions_path,
                   strict=args.strict)
     except AttributionError as exc:
-        print(f"❌ {exc}", file=sys.stderr)
+        print(f"[ERROR] {exc}", file=sys.stderr)
         sys.exit(1)
 
 

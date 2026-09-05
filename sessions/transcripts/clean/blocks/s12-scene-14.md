@@ -2,28 +2,96 @@
 
 ## CHAPTER 11: THE HEARTBEAT IN THE GRASS
 
-The bridge of the walker sat high in a shell of bamboo and brass, and from that perch the world had been reduced to a single unbroken sweep of grassland. Lomi hauled himself up the last of the ladder and stood a moment, letting his eyes adjust. Far off, thinned by distance, the dark line of the forest smudged the horizon — eighty miles, maybe, and only the first third of where they were bound. The rest lay beyond it, deeper, where the trees closed like teeth. The pilot was a small goblinish creature wedged into a cradle of a seat, hands loose on the controls, and Professor Ink stood behind him with the calm of someone who had spent her life watching things she did not yet understand.
+High atop the walker *Elijah*, the open-air observation bridge was constructed from polished bamboo struts, brass instrumentation, and reinforced panoramic glass. From this elevated perch, the world unfolded into an endless, emerald expanse of rolling savanna plains.
 
-Lomi watched the plain instead. Something moved through it — a thin arrow of disturbance cutting the grass, wind that wasn't wind, and every so often the wet gleam of bark surfacing and vanishing again. The turtle. He filed it away and ambled toward the pilot with the easy slouch of a man making conversation. How hard, he asked, was a thing like this to drive? The goblin didn't so much as turn his head; he reached over, thumbed a button that locked the walker onto a dead-straight course, and told Lomi to buzz off. <!-- L1290 -->
+Far to the south, smudged against the pale morning horizon, the dark, colossal wall of the ancient Mizizi forest stretched for eighty miles—only the outer perimeter of their true destination.
 
-Fine. Lomi leaned against the dash instead and introduced himself — Lomi, part of a crew scooped up to help on the journey, first time out of Vumbua, just wanting to take in the view. It really was beautiful up here. While he talked, his eyes drifted to the projected map glowing over the console: the heading laid out clean, the terrain flat and featureless, no valleys, no peaks to dodge. And there, threaded through it, that same jagged wandering line — the tortoise, running a degree or two off the walker's true course, snapping back onto it and drifting away again like the twitch of a pulse. He nudged the pilot, low. Did he see that? Did he see what the turtle was doing? <!-- L1310 -->
+Wedged into a mechanical pilot's cradle at the forward helm sat a small, sharp-featured goblin driver, his clawed hands flicking brass toggle switches with bored, practiced efficiency. Standing behind him with hands clasped behind her back was Professor Ink, her sharp gaze fixed calmly on the distant savanna.
 
-The pilot couldn't even see over the dash, and he wasn't inclined to try. He just followed the arrow, he said flatly, and left it at that. <!-- L1313 -->
+Lomi looked out over the open plains. Ahead in the tall grass, a narrow, razor-sharp wake parted the green blades like a miniature bow wave—an arrow of disturbance knifing straight across the savanna. Every few seconds, the dark, glistening ridge of a massive shell surfaced before submerging beneath the grass.
 
-So Lomi turned to the professor, because she was the one worth asking. She was already looking at him, curious, when he pointed at the map and asked whether that little stutter in the line was a glitch — some hiccup in the projection. Just watch it a second, he told her. <!-- L1316 -->
+While he watched, Lomi studied the glowing acoustic holographic map projecting above the dashboard. The primary heading was plotted in crisp gold light across flat terrain. But threaded along the route was a subtle, pulsing teal line that darted slightly off-axis—the Spirit Tortoise, running a degree or two off the walker's path, twitching and snapping back like a jagged heartbeat on a cardiogram. <!-- L1283 --> <!-- L1300 -->
 
-It wasn't the map, she said, leaning in. It was the turtle itself, out there in the grass. He asked if it was dodging something they ought to be worried about, and the moment he named the thing aloud — the magic turtle — she went still. *What did you just say?* She had had this conversation before, she was certain of it. Lomi told her, gently, that this was the second time it had happened to him, too; the moment your eyes left the creature, the knowledge of it slid straight out of your head. Fascinating, she breathed, and jabbed a finger at the line on the map — that, she said, was a turtle running flat-out through the grass, and the instant she looked away she would forget it existed. It's a magic turtle, Lomi offered with a shrug; probably par for the course. She agreed, delighted and unsettled in equal measure, and it was she who caught the discrepancy first: off by two degrees. Why? <!-- L1321 -->
+Lomi leaned over the console, tapping the display and nudging the goblin pilot. "Hey... do you see that? Do you see what the turtle is doing on that acoustic track?" <!-- L1310 -->
 
-That was the question, Lomi said. Keep looking at it, he coached her — keep your eyes on the turtle — and watch, it's about to snap back. It did. She startled at the correction, demanding whether he'd told it to do that, and he swore he hadn't; he only wanted to be sure they weren't meant to be tracking it exactly, that they weren't about to blow a tire chasing every twitch. The professor's face changed. That heading, she said, ran toward the center of the forest — not to the clans, not to where the Mizi lived. Lomi straightened. Then they needed to adjust the heading. <!-- L1366 -->
+The goblin squinted over the high brass dashboard, grimacing. "I can't see over the damn dash, and I don't care to try," the goblin grunted. "I just follow the gold arrow, dude. That's my job." <!-- L1313 -->
 
-She hesitated — a big ask, coming from a stranger who'd climbed onto her bridge to talk about magic turtles in the grass. Lomi let a grin slide onto his face and asked her, cheerfully, whether she was feeling lucky. He'd had to adjust course, he said. She wavered, then made the call: two degrees. The pilot bristled — *you're going to listen to this guy?* — but she gave the order anyway, and the goblin cycled the controls until the walker's heading swung over and locked flush with the turtle's line, then held dead straight. She scratched a few notes into her book and told Lomi, carefully, that she was about to look away from it now; give her a minute, and then ask her why they'd changed direction. <!-- L1377 -->
+"Yeah, I hear you," Lomi chuckled. He turned to Professor Ink, who was watching him with keen, analytical curiosity. "Professor... did you see that? Is that a glitch in the map or something? Just watch it for a second. Is it dodging something we need to be watching out for, or what's going on?" <!-- L1316 --> <!-- L1318 -->
 
-Should he be upset about it, Lomi asked, playing along — pretend she'd done something wrong? No, she said. Just tell her to look at her notes. Then she turned her face to the wall and stared at nothing for thirty seconds, forty, until she blinked and glanced around with a small apologetic frown. *Sorry — Lomi, you were up here asking where we're headed.* He didn't miss a beat. Doc, he said, we're off path. What are you doing? <!-- L1387 -->
+Professor Ink leaned over the navigation console, her dark eyes narrowing as she studied the horizon. "That is not a projection glitch. That is the turtle in the grass." <!-- L1319 -->
 
-She looked stricken, then indignant. She hadn't done anything — *he* had told her to change direction, two degrees, and so had he, doc, and she — she couldn't say why, only that she'd written it down and trusted it. The gap in her own memory yawned open in front of her, and Lomi watched her fight not to fall into it. <!-- L1392 -->
+"Did the magic turtle—" Lomi began. <!-- L1320 -->
 
-Check your notes, he told her. Make sure you didn't mess something up. <!-- L1395 -->
+Professor Ink went utterly rigid. She whipped around, staring at Lomi with wide, analytical eyes. "Wait. What did you just say?" <!-- L1321 -->
 
-She read her own frantic handwriting back, mouth tightening, and then — without lifting her eyes toward the windows, without daring to look at the grass — she asked the real question. Lomi, could anyone else on this craft see the turtle? Yes, he said. At least seven of them, by his count. Good, she said, and made her decision: a shift, always one of them up here on the bridge, eyes on the creature so the heading never drifted again. She'd arrange it herself. And with that she was already moving for the ladder, descending toward the open door of the lab barge below. <!-- L1397 -->
+"I was talking about the magic turtle," Lomi replied calmly. <!-- L1321 -->
 
-<!-- LEDGER: rendered=[1290, 1310, 1313, 1316, 1321, 1366, 1377, 1387, 1392, 1395, 1397] skipped=[] -->
+"I have heard about this twice now..." Ink murmured, her voice tightening with sudden realization as the pieces aligned in her mind. "Rill was frantically rambling about a sacred turtle down in the laboratory earlier, but every time I tried to record the observation, the memory slipped away like water through fingers. We have had people talking about this before!" <!-- L1321 -->
+
+"Yes," Lomi nodded with a wry smile. "This is the second time I've had to explain this phenomenon today, too." <!-- L1321 -->
+
+"Interesting..." Ink murmured, her eyes darting back to the plains. She gestured excitedly toward the parting grass. "Tell me what you are seeing! This line here in the grass... it's a turtle running at... it is an absurdly fast turtle! But how did you—I think if I look away from it, I will forget about it!" <!-- L1321 --> <!-- L1325 -->
+
+"I mean, it's a magic turtle," Lomi chuckled, leaning against the brass rail. "So it's probably pretty stubborn. Keep looking at it, Professor. Keep your eyes locked on the wake in the grass." <!-- L1325 --> <!-- L1328 -->
+
+"It is off by two degrees," Ink noted sharply, her analytical mind seizing on the discrepancy. "Why?" <!-- L1328 -->
+
+"That's the question," Lomi smiled. "And it's about to snap back. Just wait." <!-- L1328 -->
+
+Ahead in the grass, the green wake twitched and snapped abruptly back to the south-southwest vector.
+
+Ink gasped softly. "What was that? Why did it do that? Did you tell it to do that?" <!-- L1366 -->
+
+"No, I didn't," Lomi answered, shaking his head. "I just wanted to make sure we weren't supposed to be following it exactly so we don't blow out our suspension or get a flat tire. But look at where that heading points—that doesn't lead to the standard Mizizi trade villages. That line points straight into the uncharted heart of the old growth." <!-- L1366 -->
+
+"That is to a different part of the forest," Ink murmured in rising wonder. "That is to the center. That is not where the clans live." <!-- L1366 -->
+
+"I think we need to adjust our heading," Lomi said firmly. <!-- L1366 -->
+
+"A big ask from a harbor mechanic," Ink challenged, raising an eyebrow. <!-- L1377 -->
+
+Lomi flashed a confident grin. "Hey... let me ask you something, Professor. Are you feeling lucky?" <!-- L1377 -->
+
+Professor Ink turned to the helm. "Adjust heading. Two degrees south-southwest." <!-- L1377 -->
+
+The goblin pilot turned around in his chair, glaring in complete disbelief. "Are you seriously going to listen to this guy?!" the goblin shouted. "He just walked up here and started talking about a magic turtle running through the grass!" <!-- L1377 -->
+
+"Set two degrees," Professor Ink commanded crisply. "Lock the heading." <!-- L1377 -->
+
+"All right, all right, all right!" the goblin grumbled, throwing his hands up. He cycled the steering levers on the right console, swinging *Elijah*'s galloping stride two degrees to port until the walker's path aligned dead straight with the tortoise's wake. <!-- L1377 -->
+
+Professor Ink pulled a small leather logbook from her vest, furiously scribbling notes. "Lomi... I am about to look away from the savanna. Give me forty seconds, and then ask me why we altered course." <!-- L1377 -->
+
+"Should I act upset?" Lomi asked with a chuckle. "Like you made a mistake?" <!-- L1387 -->
+
+"No," Ink said seriously. "Just tell me to look at my notes." <!-- L1387 -->
+
+Professor Ink turned her back to the panoramic windows, staring fixedly at the blank mahogany bulkhead. Thirty seconds ticked by in dead silence. Forty seconds. 
+
+Ink blinked, shook her head slightly, and turned back to Lomi with a polite, puzzled smile. "I'm sorry, Lomi... you came up here asking about where we're headed?" <!-- L1387 -->
+
+Lomi didn't miss a beat. "Yeah, Doc," Lomi groaned dramatically. "We're off path! What are you doing?" <!-- L1387 --> <!-- L1392 -->
+
+The goblin driver immediately swung around, barking defensively: "Hey, no, man! You just told me to change directions! I don't know why, but you told me to go two degrees, and so did the doc!" <!-- L1392 -->
+
+Professor Ink blinked in genuine confusion, looking between the console and the pilot. "What do you mean?" <!-- L1392 -->
+
+"Check your notes, Professor," Lomi told her gently. "Make sure you didn't mess something up." <!-- L1395 -->
+
+Ink opened her notebook, her eyes widening as she read her own frantic handwriting across the page: *Don't look away from the grass. The cadets can see the turtle. Follow the turtle.* <!-- L1395 -->
+
+A long, shuddering breath escaped her lips. She snapped the book shut, keeping her gaze strictly averted from the windows. "Lomi... can anyone else aboard this craft see this turtle?" <!-- L1397 -->
+
+"Yes," Lomi answered. "There's at least seven of us on the crew who can see it." <!-- L1397 -->
+
+"Establish a watch rotation immediately," Professor Ink ordered with sharp scientific urgency. "One of you must be stationed on this bridge at all times, keeping your eyes locked on the wake so our heading never drifts." She moved toward the iron ladder hatch. "I will inform the others below." <!-- L1397 -->
+
+"Noted," Lomi smiled, leaning back against the brass rail. "We had too many people for the bunks anyway, so one of us was going to have to pull night watch." <!-- L1397 -->
+
+Professor Ink climbed down the ladder rungs and pushed open the lower laboratory door, looking around at the gathered squad. "What is happening here? Did you give Britt the medicine yet? Is she cured?" <!-- L1397 -->
+
+"Not cured," Britt answered from the examination stool, setting down the empty purple vial with a faint grimace. "Delayed." <!-- L1397 -->
+
+"That's good," Professor Ink nodded, adjusting her spectacles. "Your friends can see turtles. You can see turtles. But the rest of the world forgets them." <!-- L1397 -->
+
+<!-- LEDGER: rendered=[1283, 1300, 1310, 1313, 1316, 1318, 1319, 1320, 1321, 1325, 1328, 1366, 1377, 1387, 1392, 1395, 1397] skipped=[] -->

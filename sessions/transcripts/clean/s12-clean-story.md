@@ -15,345 +15,635 @@ genre: Epic Fantasy / Sci-Fantasy
 
 ## CHAPTER 1: THE LONG WALK OUT
 
-The storm had spent itself somewhere back among the shattered trees, and what remained of the morning was a bruised, exhausted quiet. Squad 907 walked it out through the arena's canyon, boots dragging over splintered branch and churned mud, the aftertaste of ozone still coating the back of every throat. Somewhere overhead a battered intercom looped its promise on the wind—power restored, come to the exit, if you are hearing this and still breathing, you have succeeded—then, fainter, the instruction to make fires, to send up smoke, to signal if help was needed. The message reached them in fragments and folded over on itself, patient as a tide.
+The storm had finally broken against the petrified canopy, leaving the morning shrouded in a bruised, exhausted quiet. Squad 907 trudged out through the arena's winding canyon, their boots dragging through churned mud and splintered basalt needles, the sharp tang of ozone still clinging to the back of every throat. Overhead, mounted high upon the iron observation towers, a stadium intercom speaker crackled through the mist, broadcasting a looping automated recording across the ruined trees:
 
-Ignatius listened to it wash past and let a grin crack the grime on his face. "You hear that, guys?" he said, half turning to the others. "We passed." <!-- L0240 -->
+*"Power has been restored. Please come to the exit of the arena. You have succeeded! If you are hearing this and still breathing, you have definitely succeeded! For the rest, please... we will find you. Make fires or smoke signals if you need help."* <!-- L0231 --> <!-- L0242 -->
 
-Lomi kept his flat cap tilted against the sky and gave a short, dry laugh. "I guess they weren't kidding that it was dangerous," he said. Then, quieter, as though the admission surprised him coming out of his own mouth—"Holy—I was not expecting that." <!-- L0243 --> <!-- L0245 -->
+Ignatius wiped a smear of soot from his jaw, a slow grin cutting through the grime on his face. "You hear that, guys?" he called back over his shoulder. "We passed." <!-- L0240 -->
 
-"Yeah. They really unleashed a little bit of stuff on us back there." Ignatius rolled a shoulder, feeling the ache of the night in it. "Definitely. They definitely trusted us in our abilities." <!-- L0246 -->
+Lomi tilted his woolen flat cap back against the pale sky and let out a short, ragged laugh. "Yeah. I guess they weren't kidding that it was dangerous." He shook his head, the reality catching in his throat. "Holy shit. I was not expecting that." <!-- L0241 --> <!-- L0243 --> <!-- L0245 -->
 
-Lomi conceded the point with a tip of his head, then let his gaze wander to the ruined tree line, where the felines and the storm raptors had come screaming out of the dark hours before. He knew it hadn't been personal—the arena had simply had monsters at the ready and pointed them downhill—but knowing that didn't make the memory lighter. "Hopefully," Ignatius went on, warming to the thought, "hopefully I passed that written exam, too. We'll find out about that later, I'm sure." <!-- L0252 -->
+"Yeah. They really unleashed a little bit of stuff on us back there," Ignatius agreed, rolling his sore shoulder. "Definitely. They definitely trusted us in our abilities." <!-- L0246 --> <!-- L0248 -->
 
-Lomi snorted. "You don't need a written test if you impress the right people. That's all I'm saying." <!-- L0261 -->
+"I know it wasn't intentional on the proctors' part," Lomi said, glancing back at the shredded tree line where the corrupted felines and storm raptors had ambushed them in the dark, "but clearly they had monsters at the ready to point downhill. This was no joke." <!-- L0247 --> <!-- L0249 -->
 
-"We did almost die." Ignatius said it slowly, turning the fact over like a stone he wasn't sure he'd registered correctly. "I'm not sure I'm reading that right yet, but—we did it. And that's good." <!-- L0262 -->
+"Hey, we passed," Ignatius said, warming to the thought. "Hopefully I passed that written exam, too. We'll find out about that later, I'm sure." <!-- L0250 --> <!-- L0252 --> <!-- L0257 -->
 
-They walked a few paces in the strange comfort of having lived, and then Ignatius jerked his chin toward the shape moving steadily ahead of them all. "Hey—what was with that weird turtle, dude?" <!-- L0268 -->
+Lomi snorted with dry amusement. "You don't need a written test if you impress the right people. That's all I'm saying. Hopefully all the impressive shit we pulled out in the open is enough to outweigh anything that happened in the trees." <!-- L0251 --> <!-- L0261 --> <!-- L0265 --> <!-- L0267 -->
 
-Britt didn't answer him so much as answer the question that had already caught in her own chest. "Yeah," she murmured, eyes fixed forward. "Is the turtle still walking ahead of us?" <!-- L0269 -->
+Ignatius paused, his grin fading slightly as he turned the night over in his mind. "We did almost die. I'm not sure I'm registering that correctly yet, but... we did it. And that's good." <!-- L0262 --> <!-- L0264 -->
 
-It was. The great tortoise plodded on without a backward glance, taking the straightest line the terrain allowed—a line that would carry it, indifferent to their comfort, right down into the fast, deep river ahead. It was not, Ignatius could tell, thinking at all about how any of them would get across. It simply had a direction and belonged to it.
+They walked in silence for several paces, the strange relief of survival settling into their bones. Then Ignatius jerked his chin toward the massive, dark shape moving steadily through the underbrush ahead of them. 
 
-He tried, with a grin and a lazy wave, to coax something out of the beast—a little charm, a little cadet swagger—and got nothing back but the slow metronome of its steps. That was a lot, he decided, to spend on a turtle. Could he at least get some information out of it? Britt, meanwhile, had gone somewhere else entirely; she was zoned in, unblinking, the whole of her focus poured onto the shell ahead. <!-- L0275 --> <!-- L0278 -->
+"Hey—what was with that weird turtle, dude?" <!-- L0266 --> <!-- L0270 -->
 
-Ignatius let the turtle go and turned instead to the girl swaying beside him, Pip still cradled and shell-shocked against her. "Kim," he said, gentling, "how are you feeling?" <!-- L0282 -->
+Britt didn't answer. Her sharp green eyes remained locked forward, her gaze utterly fixed on the lumbering mass of the spirit tortoise ahead, entirely ignoring Ignatius's subtle dig. Her long dreadlocks of living root shifted against her grey tunic as she marched in silent, unblinking concentration, completely zoned in on the rhythmic plodding of its shell. No one was getting through her focus right now. <!-- L0269 --> <!-- L0278 --> <!-- L0312 --> <!-- L0314 -->
 
-Before the answer could form, deep thuds began rolling up through the ground—booming, ground-shaking footfalls that came pacing through the trees like something enormous running, T-Rex through the underbrush, close and getting closer. Pip barely had time to squeal before a vine whipped out of the green and snapped around her ankle, and she was ripped clean off Britt's shoulder and yeeted back into the abyss of the forest. A quarter second later she came flying out again—this time in Bramble's grip, the plant-kin clutching both her shoulders and berating her faster than anyone had ever heard him speak. Why had she gone for the stacks? Bad idea, Pip. Bad idea. His eyes warred between throttling her and weeping with relief. Behind him drifted Saffron, quiet as ever, a face half-remembered from an old study group where she had done nothing but sketch. <!-- L0294 -->
+Ahead of them, Mwaza-Kasa moved with slow, unyielding momentum. The ancient spirit tortoise didn't pause, didn't glance back, and took the absolute straightest line the terrain allowed—cutting directly through dense brush toward the roaring river ahead, wholly indifferent to their stamina or how they planned to follow. It simply possessed a direction and belonged to it. <!-- L0271 --> <!-- L0281 -->
 
-Bramble caught up, skidded to a stop before them, and looked the squad over. "Thank you," he said, "for keeping stupid Pip alive." <!-- L0296 -->
+Ignatius glanced at Britt, waiting for an answer, but got nothing back except the steady rhythm of her strides. Shrugging, he turned instead to the dazed pixie tucked securely beneath Britt's arm. 
 
-"You're welcome," said Ignatius.
+"Pip," Ignatius asked, leaning in, "are you okay?" <!-- L0282 -->
 
-"*Bard* was stupid," came Pip's indignant squeak—*I'm not stupid*—before Bramble looped a vine neatly around her mouth. "Hush, Pip. Your time for speaking and eating is suspended for the indefinite future." He wound her up against his torso and caged her there. <!-- L0298 -->
+The question snapped Pip right out of her shell-shocked reverie. Her oversized eyes went wide, and she squirmed in Britt's grip, exploding with frantic questions. "Yeah, what is with that?!" Pip shouted, gesturing wildly back toward the trees. "I got thrown into some sort of weird dream or something! Like a whole mental forest—" <!-- L0231 --> <!-- L0283 -->
 
-Lomi watched the maneuver with open envy. "I didn't realize that was an option," he said. "Wow. Wouldn't have done that a minute ago." <!-- L0299 -->
+Before the little pixie could finish, deep, rhythmic thuds vibrated up through the wet earth.
 
-"We could have used that a few times," Ignatius agreed. <!-- L0300 -->
+*THOOM. THOOM. THOOM.*
 
-Bramble ambled the last steps to them with Pip bundled against him. "So," he said, taking half a second to actually see them—*oh my gosh, you arrived, thank God*—before waving it off. "You all survived too. Thank you again. We're kind of in the middle of something, so we've got to keep going. You can come, too, though." He glanced at the tortoise, uncertain. "Are you leaving?" <!-- L0301 -->
+Heavy, booming footfalls came crashing through the petrified brush like a prehistoric beast on the hunt. Pip barely had time to let out a startled squeak before a thick emerald vine shot out from the foliage, snapped tight around her ankle, and violently yanked her clean off Britt's shoulder, yeeting her backward into the green shadows. <!-- L0283 --> <!-- L0285 --> <!-- L0294 -->
 
-"Follow the turtle, dude," Ignatius said, nodding after the retreating shell. <!-- L0311 -->
+A quarter-second later, Bramble burst out of the trees, holding Pip securely by both shoulders. The towering plant-kin's wooden face warred visibly between wanting to throttle the tiny pixie and weeping with overwhelming relief, and he began berating her faster than anyone had ever heard him speak.
 
-Britt hadn't moved her eyes from it once. "I'm pulling this turtle," she said, flat and absolute. "No one is getting through my focus right now." <!-- L0312 -->
+"Pip! Why did you go for the stacks?!" Bramble scolded, his voice vibrating with frantic urgency. "Pip, bad idea! Very bad idea, Pip!" <!-- L0294 -->
 
-Bramble seemed to accept this as a variable that had fallen into step, and so they walked—out of the forest at last, into open air, where the tortoise reached the water's edge and simply dropped in, disappearing beneath the current and beginning to swim.
+Behind them drifted Saffron, quiet and composed, the pale Renali scholar they recognized from old Academy study circles where she had spent hours silently sketching in the corner. <!-- L0294 -->
 
-<!-- LEDGER: rendered=[240, 243, 245, 246, 252, 261, 262, 268, 269, 275, 278, 282, 294, 296, 298, 299, 300, 301, 311, 312] skipped=[] -->
+Bramble skidded to a halt before Squad 907, clutching Pip against his wooden chest. He looked the squad over with solemn gratitude. "Thank you," Bramble said earnestly, "for keeping stupid Pip alive." <!-- L0296 -->
+
+"I'm not stupid!" Pip protested, flailing her tiny arms indignantly. "Bard was stupid!" <!-- L0296 --> <!-- L0298 -->
+
+"Hush, Pip," Bramble commanded, smoothly extending a leafy vine to wrap neatly around her mouth. "Your time for speaking and eating is suspended for the indefinite future." He wound her tightly against his torso, caging her safely within his woven branches. <!-- L0298 --> <!-- L0301 -->
+
+"You're welcome," Ignatius said with a broad grin. <!-- L0297 -->
+
+Lomi watched the vine maneuver with open admiration. "I didn't realize that was an option," he muttered. "Wow. We could have used that an hour ago." <!-- L0299 -->
+
+"We could have used that the whole time," Ignatius agreed. <!-- L0300 -->
+
+Bramble looked at them, his leafy brow furrowing with mild surprise. "So... you all survived too. Thank you again." He glanced ahead toward the riverbank, noticing the Spirit Tortoise sliding toward the current. "We're kind of in the middle of something, so we have to keep going. You can come too, though. Are you leaving?" <!-- L0301 --> <!-- L0307 --> <!-- L0310 -->
+
+"Follow the turtle, dude," Ignatius laughed, pointing toward the lumbering shell ahead. <!-- L0311 -->
+
+Together, they broke through the final thicket of petrified oaks and emerged onto the muddy banks of the surging canyon river. Without slowing for a single breath, the colossal tortoise waddled straight off the ledge and dropped into the churning water with a heavy splash, disappearing beneath the foam before resurfacing to swim powerfully downstream. <!-- L0319 -->
+
+<!-- LEDGER: rendered=[231, 240, 241, 242, 243, 245, 246, 247, 248, 249, 250, 251, 252, 257, 261, 262, 264, 265, 266, 267, 269, 270, 271, 272, 278, 281, 282, 283, 285, 294, 296, 297, 298, 299, 300, 301, 307, 310, 311, 312, 314, 316, 318, 319] skipped=[] -->
 
 <!-- RAW_RANGE: [321, 388] | SCENE_ID: 4 -->
 
-The river ran wide and fast and cold, and the tortoise was already knifing through it, unbothered. Ignatius eyed the current, then simply kept walking. He didn't slow at the bank, didn't gather himself for a leap—he just carried the same easy stride out over the water, the hearthfire in him buoying his boots a hand's breadth above the surface. "I'm not even flying at this point," he said, almost to himself, watching his own feet track along nothing. "I'm just walking above the water." <!-- L0324 -->
+The river ran wide, deep, and bitterly cold, swollen with runoff from the night's unnatural tempest. The ancient Spirit Tortoise was already knifing effortlessly through the center current, its broad shell parting the dark water without hesitation. <!-- L0321 -->
 
-Lomi arrived at the bank, considered the swimmers already fighting the current, and considered his friend strolling across the river like it was a boulevard. "Uh—do you have a carrying capacity?" he asked. <!-- L0335 -->
+Iggy reached the bank first. Without breaking stride, the little dirt-kin creature tucked his wool trench coat tight around his chest and dropped straight into the churning current with a muted splash, paddling stubbornly alongside the tortoise's wake. <!-- L0321 --> <!-- L0322 --> <!-- L0323 -->
 
-Ignatius rolled his neck, doing the mental math of a body already running near empty. "I can carry one person if I take a stress," he decided. "I think." <!-- L0336 -->
+Ignatius arrived at the muddy embankment and didn't even slow down. Gathering the inner heat of his hearth-fire, he stepped straight off the ledge and continued walking out over open air, his boots gliding effortlessly a hand's breadth above the roaring surface.
 
-"All right, let's go, buddy." And Lomi hopped, planting himself squarely across Ignatius's back with the confidence of a man who has never once doubted he'd be caught. <!-- L0337 -->
+"I'm not even flying at this point," Ignatius said with a proud grin, watching the foaming rapids rush harmlessly beneath the soles of his boots. "I'm just walking above the water." <!-- L0324 --> <!-- L0329 --> <!-- L0331 --> <!-- L0333 -->
 
-The fire-touched grunted under the sudden weight, boots dipping toward the water before steadying. "Oh, god," he wheezed. "You're much heavier than—" <!-- L0338 -->
+Lomi jogged to the bank, looked down at the freezing rapids, looked over at Iggy and Aggie swimming, and then eyed Ignatius casually strolling across the river as if it were a paved avenue in Harmony.
 
-"I'm small but dense," Lomi said serenely, settling in. "That's what people tell me." <!-- L0342 -->
+"Uh... do you have a carrying capacity, buddy?" Lomi called out. <!-- L0335 -->
 
-"You're *not* small." Ignatius readjusted his grip and pressed on regardless, walking that impossible walk across the river with sweat beading at his temple. The stride, he insisted to no one in particular, had nothing to do with how he actually flew—it was just the shape the effort wanted to take. Beneath him the water hissed past, and the exit of the arena waited on the far shore. <!-- L0343 -->
+Ignatius glanced back, rolling his neck and doing the quick mental math of a frame running on fumes after a night of relentless combat. "I can carry one person if I take a stress," Ignatius decided. "I think." <!-- L0336 -->
 
-He felt the crossing in his bones by the middle of it, the burn of carrying a friend on a spent frame, sweat running freely now as he kept pace with the tortoise. Aggie was somewhere off to the side, swimming, keeping her own line. And then, behind them all, a great splash cracked the quiet.
+"All right, let's go, buddy!" Lomi shouted.
 
-Ignatius looked back over his shoulder. Their raft—the one they'd lashed together in the trees—came sailing out of the forest and crashed down into the river. Bramble rose up onto it, planted his feet, and threw the tree line a solemn thumbs-up before hauling Saffron aboard and settling Pip against him once more. The three of them caught the current and let it drag them out, pacing and then passing the swimmers with ease. As Bramble slid by Aggie and the others he called across the water: "Thank you for the raft. Very good construction." <!-- L0374 -->
+Without waiting for further deliberation, Lomi leaped off the embankment and planted himself squarely across Ignatius's shoulders, locking his arms around his friend's neck with the utter confidence of a mechanic trusting a well-built rig. <!-- L0337 -->
 
-Then the river had them all, carrying squad and survivors alike toward the arena's mouth and whatever waited beyond it.
+The fire-kin grunted loudly as the sudden weight slammed into him, his boots dipping inches toward the icy foam before his hearth-spark flared, steadying them both in mid-air.
 
-<!-- LEDGER: rendered=[324, 335, 336, 337, 338, 342, 343, 374] skipped=[] -->
+"Oh god!" Ignatius wheezed, straining to maintain altitude. "You're much heavier than you look! You are *not* small!" <!-- L0338 --> <!-- L0343 -->
+
+"I'm small but dense," Lomi said serenely, adjusting his flat cap and settling in comfortably. "That's what people tell me." <!-- L0339 --> <!-- L0342 -->
+
+"Dense is definitely the word," Ignatius groaned, sweat beading across his forehead as he resumed his walking motion through the air, carrying Lomi across the wide expanse of river. <!-- L0345 --> <!-- L0347 -->
+
+Beside them in the water, Aggie swam with smooth, practiced strokes, her white hair trailing in the foam as she kept pace with the tortoise. <!-- L0372 -->
+
+They reached the midpoint of the crossing when a deafening crash echoed from the upstream banks.
+
+*KAA-SPLASH!*
+
+Ignatius and Lomi twisted around to look back over their shoulders.
+
+Their makeshift wooden raft—the one they had lashed together from petrified branches during their tree ordeal hours earlier—came sailing out of the forest canopy and slammed violently into the river. Standing tall upon the deck was Bramble. The plant-kin planted his massive feet against the logs, gave the tree line a triumphant thumbs-up, and scooped Saffron and Pip aboard before catching the central current.
+
+The current seized the raft and hurtled it downstream with astonishing speed, effortlessly pacing and then overtaking the swimmers. As Bramble shot past Aggie and Britt, he cupped a hand to his mouth and shouted cheerfully across the water:
+
+"Thank you for the raft! Very good construction!" <!-- L0374 -->
+
+The raft spun smoothly around the river bend, carrying them all toward the wide basin docks where the arena gates opened to the morning sun.
+
+<!-- LEDGER: rendered=[321, 322, 323, 324, 329, 331, 333, 335, 336, 337, 338, 339, 342, 343, 345, 347, 372, 374] skipped=[] -->
 
 <!-- RAW_RANGE: [389, 492] | SCENE_ID: 5 -->
 
 ## CHAPTER 2: BASIN DOCKS
 
-The exit of the arena opened onto something the storm had not prepared them for. It was a field hospital—small tents scattered across the trampled ground, cadets laid out on cots in every condition of ruin, moaning or silent, some with cloths thrown over their faces and no breath left to move them. Doctors rushed the aisles. Under a slightly finer tent a knot of captains gathered around a commotion, and the murmur that reached the squad as they passed was that at least one or two of those captains had died pulling cadets out of the worst of it.
+The exit of the Apex Arena opened onto a sprawling expanse of mud, stone docks, and white canvas tents that looked less like a staging ground and more like an emergency field hospital.
 
-Ignatius felt the whole scene land on him at once, heavy as a struck bell. He'd been walking out of that canyon buoyant—*we survived, this is all kind of funny*—and then his eyes found a body that would not rise again, and the joke went out of him like heat from a doused coal. "Oh," he said, and the word cracked. It was the first time any of them had truly understood that some people hadn't made it. <!-- L0392 -->
+Rows upon rows of wooden cots stretched across the trampled basin. Cadets lay in every condition of physical ruin—some shivering uncontrollably under woolen blankets, others groaning as proctors bound splints around shattered limbs, and far too many lying motionless beneath plain grey canvas tarps, the breath gone from their chests. Academy doctors and volunteer attendants sprinted between the rows with medical kits and glowing resonance crystals. Near a larger command pavilion, a somber knot of captains spoke in hushed, urgent tones; the grim murmur drifting through the camp was that at least one or two veteran captains had died plunging into the corrupted sectors to drag surviving cadets out of the slaughter. <!-- L0389 --> <!-- L0393 --> <!-- L0404 --> <!-- L0429 -->
 
-"Because we managed it so easily," Lomi murmured, walking close at his shoulder, reading the tension coiling through his friend after their easy flight over all of this.
+Ignatius stepped off the riverbank and came to an abrupt, staggering halt.
 
-"Yeah. Because it was a walk in the park." Ignatius's voice had gone thin. Lomi leaned in, low enough that only Ignatius would hear, and said, "Damn—this really was not what they planned, huh?" <!-- L0408 -->
+The easy humor that had carried him out of the canyon—the swagger of a cadet thinking *we survived, this was all kind of a wild adventure*—evaporated the instant his eyes found the silent rows of covered bodies. The color drained completely from his soot-smudged face.
 
-"No, dude." Ignatius stared down the rows of cots. "This is—I mean, this is *real.* Even in combat, it always felt like a test. It never felt real before." He swallowed. "This is the first time it's felt real to me." His gaze snagged on the covered shapes, dreading and needing to know at once—was there anything, any detail, that marked one of them as someone they'd known? <!-- L0409 -->
+"Oh..." Ignatius whispered, his voice cracking on the syllable. "Oh, fuck." <!-- L0392 --> <!-- L0394 --> <!-- L0398 -->
 
-There was. As they wound deeper into the camp they came on two people Ignatius recognized before he wanted to: Val, and Kale—the one who'd handed them the speaking stones he was still testing. Kale lay extremely pale. Over him hunched Val, eyes rubbed red and raw, whispering something no one else was meant to hear. Behind them both, two more cots waited under tarps.
+Lomi stepped up beside him, reading the rigid tension locking Ignatius's jaw. "Because we managed it so easily," Lomi said quietly. <!-- L0400 --> <!-- L0402 -->
 
-And it was Lomi who noticed the other thing—the strange thing. As his eyes pulled away from the covered faces of his classmates, he watched the tortoise plot its patient, direct line straight through the middle of the camp. People turned to look at it. *What is this beast doing here?* they'd start to say—and then turn to ask a neighbor, and by the time the question reached their lips it had simply evaporated from their minds. The tortoise, for its part, seemed to know precisely where to place each foot so that it touched no one, gliding through crutches and staggering wounded without so much as brushing a sleeve, never once breaking from its coastward line toward the Mizizi forest. Lomi took it in, silent and thoughtful.
+"Yeah. Because for us, it was a walk in the park," Ignatius said, his voice hollow and thin. <!-- L0401 --> <!-- L0405 -->
 
-Iggy had gone quiet in a different way. He had seen death before, more of it than any of them, and it had left him a ritual for it. Solemn now, he moved from cot to cot among the dead, and at each one he set a small basalt stone—one at the head, one over the heart, one at the feet—grounding them back to the earth, to the roots that ran beneath everything. He worked his slow way down the rows, and Pip trailed after him without a word from Bramble's grip finally loosed; every time Iggy laid his stones, she broke off a piece of golden biscuit from a sack near as big as she was and pressed it into whatever survivor still had hands to take it.
+Lomi leaned in close, his tone grim. "Damn... this really was not what they planned, huh?" <!-- L0406 --> <!-- L0408 -->
 
-Aggie caught the shape of Bramble at the edge of her vision and went to say a quick hello—*you made it, but we've got to keep moving*—and in doing so came close to Val's grieving huddle. There she recognized the blonde hair of the one who'd been pimping out the potato in the arena, spilling from beneath one tarp, and the familiar spectacles of Finch resting atop the other. She understood then who the two dead were. Finch had been controversial—the rival who wouldn't share his notes, the one who'd tried to leverage a little insider trading—but Aggie only knew that grief was grief. She stopped before Val, and in the earnest, slightly-off cadence of a Mizizi trying hard to honor foreign custom, offered what she had. "I'm sorry for your loss," she said. "But it is not for nothing." <!-- L0464 -->
+"No, dude," Ignatius muttered, staring out over the sea of wounded. "This is... I mean, this is *real.* Even in combat, it always felt like a test before. It never felt real. This is the first time it's felt real to me." His gaze darted anxiously toward the tarps, dreading what he might recognize. "Are any of them... do you see anyone we knew?" <!-- L0409 -->
 
-Ignatius watched her try and winced. The ideology of the Mizizi, he suspected, was not going to sit well with anyone in this camp right now. Growing pains of becoming one with harmony, he offered dryly under his breath—culture shock, Britt corrected, *leave her alone, she's trying.* And she was trying.
+As the squad picked their way through the crowded aisles, Mwaza-Kasa glided forward with impossible, silent grace. The Spirit Tortoise moved in a perfectly straight line through the chaos, never touching a single person, gliding smoothly past staggered cadets on crutches and rushing attendants without a whisper of friction. <!-- L0404 --> <!-- L0426 -->
 
-Val's jaw tensed. He was working, visibly, not to be angry—swallowing something down. But it slipped out anyway, low and wrecked and not really aimed at her at all. "What is it *for?*" he said. "I don't have that answer right now." <!-- L0484 -->
+Nearby, a couple of injured cadets stared in bewilderment as the ancient beast drifted past. "What is this beast doing here?" one bystander muttered, turning to ask a nurse—only to blink and frown, the memory of the question vanishing from his mind the moment he looked away from the shell. <!-- L0427 -->
 
-The rest of the squad had drifted ahead, following the shell, and Aggie was lagging to keep her clumsy vigil. Lomi stayed mostly on the path—but his eyes were working the crowd for something. Not the dead. The living, and specifically anyone he might have worked alongside, anyone from the crews who'd run the event, anyone who could help him piece together what had actually gone wrong out there. He scanned the rushing nurses and staggering cadets, hunting for a familiar face who could tell him how the numbers had turned so bad. <!-- L0487 -->
+Lomi raised an eyebrow, watching the strange effect ripple through the crowd. "Interesting." <!-- L0430 -->
 
-His search landed on a crew he knew—the firefighters he'd spoken with before the drop, now bent to the grim arithmetic of triage. Raphael's crew. Easy enough to trace down, if he wanted answers.
+Beside them, Iggy had stopped walking.
 
-<!-- LEDGER: rendered=[392, 408, 409, 464, 484, 487] skipped=[] -->
+The little dirt-kin creature had grown completely silent. His oversized copper goggles fogged slightly at the rims as he looked down the long line of motionless cots. He reached into the pockets of his heavy trench coat, pulling out several smooth, dark basalt stones. Moving solemnly from cot to cot, Iggy gently placed a basalt pebble upon the head, the heart, and the feet of each fallen cadet—a quiet Earthkin funeral rite to ground their departed spirits back to the ancient bedrock of the world. <!-- L0431 --> <!-- L0435 --> <!-- L0443 --> <!-- L0450 --> <!-- L0452 -->
+
+Pip followed immediately in Iggy's footsteps. Carrying her massive sack of provisions slung over her tiny shoulder, every time Iggy placed a grounding stone upon a cot, Pip reached in, snapped off a warm, fresh biscuit, and gently pressed it into the hands of the shivering survivors lying beside them. <!-- L0453 -->
+
+"Thank you, biscuit," Lomi murmured, watching the strange pair work their way down the aisle. <!-- L0454 --> <!-- L0456 -->
+
+Ahead, near the medical supply tent, Aggie caught sight of a familiar figure and paused.
+
+Kale, the eccentric student artisan who had crafted their experimental speaking stones, was sitting slumped on an upturned crate, his skin ghastly pale and his hands shaking. Hovering protectively over him was Val, whose eyes were bloodshot and raw with grief. Behind Val stood two cots draped in heavy tarps. Peeking out from beneath the edge of one canvas sheet were the bent wire spectacles of Finch—Lomi's fierce Academy rival who had refused to share notes and hoarded market intel. Beneath the other tarp lay the bright blonde hair of the cadet from the potato arena. <!-- L0441 --> <!-- L0459 --> <!-- L0461 --> <!-- L0462 --> <!-- L0469 -->
+
+Aggie stepped toward Val, her white hair and red-spotted mushroom shell catching the pale morning light. Remembering their previous conversations about mortality—how the Mizizi understood death as a natural return to soil and fungal renewal, while outsiders met it with grief and apology—she approached with earnest sympathy, attempting to bridge the divide. <!-- L0464 -->
+
+Ignatius winced, leaning toward Britt. "I feel like the ideology of the Mizizi is not going to go over very well right now," he whispered under his breath. "Aggie is about to learn some hard lessons about social cues." <!-- L0465 --> <!-- L0467 -->
+
+"They're just *different* social cues!" Britt hissed back defensively, crossing her arms. "It's culture shock, Ignatius. Leave her alone." <!-- L0468 --> <!-- L0470 --> <!-- L0475 --> <!-- L0477 --> <!-- L0479 -->
+
+"It's called the growing pains of becoming one with Harmony," Ignatius muttered back with a dry shrug. <!-- L0472 --> <!-- L0474 -->
+
+Aggie stopped before the cot, looking softly at Val's bloodshot eyes. "I am sorry for your loss," she offered carefully, her voice hesitant as she tested the unfamiliar Harmony phrasing. "I... I think we are saying that right? But it is not for nothing." <!-- L0464 -->
+
+Val looked up, his jaw clenching hard as he fought against the raw wave of grief in his chest. He looked down at the canvas tarps covering his fallen classmates, his voice tight and trembling. "What... what is it for, then?" <!-- L0484 -->
+
+"I don't..." Aggie murmured softly, lowering her gaze with quiet honesty. "I don't have that answer right now." <!-- L0484 -->
+
+Aggie bowed her head in solemn respect, recognizing the raw boundary of his pain as she turned to rejoin the squad. <!-- L0484 -->
+
+Nearby, Lomi scanned the crowd for familiar faces from his harbor mechanic and firefighter crews, relieved to spot a few of his fellow riggers working the water pumps. Squad 907 regrouped and fell back into stride, following the steady, unyielding path of the Spirit Tortoise as it guided them toward the basin perimeter. <!-- L0485 --> <!-- L0490 --> <!-- L0491 -->
+
+<!-- LEDGER: rendered=[389, 392, 393, 394, 398, 400, 401, 402, 404, 405, 406, 408, 409, 426, 427, 429, 430, 431, 435, 441, 443, 450, 452, 453, 454, 456, 459, 461, 462, 464, 465, 467, 468, 470, 472, 474, 475, 477, 479, 484, 485, 490, 491] skipped=[] -->
 
 <!-- RAW_RANGE: [493, 559] | SCENE_ID: 6 -->
 
 ## CHAPTER 3: WHAT THE SHIELDS DROPPED
 
-Lomi kept one eye on the squad's retreating backs and moved through the triage line like a man reading a ledger, hunting a familiar face among the wounded. He found the firefighter crew he'd talked to before the drop still working the tents, and it was easy enough to trace down Raphael among them. When the man turned, the relief in his eyes was almost painful to see. He gripped Lomi by the shoulder and said he was glad Lomi had made it through — it had been rough out there, and he didn't know what had happened. <!-- L0499 -->
+Lomi kept one eye on Squad 907's steady march, tracking the lumbering shell of the Spirit Tortoise as it glided between the triage rows. Weaving through the crowded medical aisles like a mechanic reading a damaged engine ledger, he searched the exhausted crowd for familiar faces from his harbor prep shifts. 
 
-"Yeah," Lomi said, letting his gaze drift over the crowded cots. "Seems like it. Look at this place."
+Near a water distribution rig, he spotted the firefighter crew he had coordinated with before the drop. At the center of the squad stood Raphael, his broad face smeared with soot and his canvas coat torn at the shoulder. 
 
-Raphael scrubbed a hand down his soot-streaked face. His sentences came out clipped, like a man too tired to string them together — all he knew was they'd been trying to let a little beast in, a controlled thing, and instead the whole lot had come pouring through.
+When Raphael turned and saw Lomi approaching, a look of overwhelming relief washed over the firefighter's tired features. He stepped forward and gripped Lomi's shoulder in a bone-jarring grasp.
 
-"Yeah, I figured that wasn't intentional," Lomi said. "When we got swarmed, I figured it wasn't on purpose. But — man. I didn't think it'd go this bad." <!-- L0512 -->
+"Lomi! Good to see you, man," Raphael exhaled, his voice hoarse from smoke. "I'm glad you made it through. It was brutal out there. I don't know what the hell happened." <!-- L0499 -->
 
-Raphael let out a hollow laugh and told him it was bad, all right, and that he'd have to find someone a lot smarter than a firefighter to figure out what was really going on here. <!-- L0513 -->
+"Yeah, seems like it," Lomi said quietly, his eyes sweeping across the rows of wounded cadets. "I mean... look at this place." <!-- L0500 --> <!-- L0502 -->
 
-"Yeah, likewise," Lomi said. "That's why I'm searching out for answers. Maybe somebody closer to the source." <!-- L0514 -->
+Raphael scrubbed a heavy hand down his soot-streaked face. His sentences came out in clipped, ragged bursts. "Listen... all I know is that the proctors were just trying to let a few minor aether beasts through the barrier. A controlled simulation. But the grid collapsed—and they let in the whole lot." <!-- L0507 --> <!-- L0511 -->
 
-Raphael's jaw tightened. He'd seen things out there worse than anyone had reason to expect — sure, there were always a few aether beasts drifting around, but this hadn't been that. This had been an invasion. <!-- L0519 -->
+"Yeah, I figured it wasn't intentional," Lomi nodded. "When we got swarmed in the trees, I knew something had broken. But man... I didn't think it was going to go this bad." <!-- L0512 -->
 
-"Yeah." Lomi nodded slowly. "There've always been the stories, that they hang around outside the resi ring. But that — that was a lot." <!-- L0521 -->
+"It's bad, Lomi," Raphael said darkly, shaking his head. "You're going to have to find someone a lot smarter than me to figure out what went wrong with the core." <!-- L0513 --> <!-- L0515 -->
 
-Raphael spread his hands. He didn't know what was going on, he admitted, but he guessed that was exactly why they had Lomi here — Lomi was the one who was going to go figure it out for them. <!-- L0522 -->
+"Likewise," Lomi replied. "That's why I'm searching for answers right now. Maybe someone closer to the faculty source." <!-- L0514 --> <!-- L0518 -->
 
-"I'll do my best," Lomi said. "I'll let you know." <!-- L0525 -->
+Raphael glanced toward the dark canopy of the petrified forest, his jaw tightening with lingering dread. "It was even worse than we could have anticipated. Sure, there are always a few rogue aether beasts prowling outside the resonance perimeter, but this? This wasn't stray wildlife. This was an invasion." <!-- L0519 -->
 
-Raphael told him that if he needed help, they were here for him — but right now he had a job, taking care of the guys who'd stayed alive. <!-- L0526 -->
+"Yeah," Lomi agreed solemnly. "There have always been rumors about beasts gathering outside the barrier, but that swarm... that was insane." <!-- L0521 --> <!-- L0523 -->
 
-"Yeah," Lomi said, and glanced again at the sea of cots. "Looks like we're going to have to commit to helping too, best we can." <!-- L0529 -->
+"I don't know what's coming next," Raphael said, clasping Lomi's arm, "but I guess that's why we have you out here. You're going to go figure it out for us." <!-- L0522 --> <!-- L0524 -->
 
-But Raphael shook his head. No — Lomi was to let the crew handle the fix. This mess was their problem. Lomi was to figure out the big one. <!-- L0532 -->
+"I'll do my best," Lomi promised. "I'll let you know what we find." <!-- L0525 -->
 
-Raphael clapped Lomi on the back, frustration plain in his face that he couldn't offer more, and told him they were counting on him. Then he took off back into the triage, and there was nothing else to say. <!-- L0534 -->
+"Listen, buddy," Raphael added firmly. "If you need anything, my crew is here for you. But right now, let us handle the triage. This mess here is our problem. You go solve the big one." <!-- L0526 --> <!-- L0532 -->
 
-Nearby, on one of the cots, Kale lay coughing. He didn't have much for Lomi, he rasped between breaths — but did Lomi still have those stones? <!-- L0544 -->
+"Understood," Lomi said. <!-- L0527 --> <!-- L0533 -->
 
-Lomi told him he had at least one, and pressed it into the man's hand. Kale worked a small crystal against it, tapping it a few times until something clicked and settled. It was working now, he said. He'd given crystals to some of the faculty; they were trying to use them to stay in touch. He'd thought Lomi already had one — so at least he could get him that. His head sagged and he lay back, and then he added that Professor Conte was supposed to have one too. If they found another faculty member, they might be able to reach him. He might know more. <!-- L0548 -->
+Raphael gave him a solid slap on the back. "We're counting on you, buddy." <!-- L0534 -->
 
-"Yeah," Lomi said quietly. "That's who I was hoping to talk to. Iggy says he's a genius. I'll get back to the group, and hopefully we can all get in touch." <!-- L0552 -->
+Nearby, on one of the wooden cots, Kale coughed weakly. The eccentric student artisan leaned up on one elbow, his face deathly pale, and reached toward his belt. 
 
-Kale held up his own crystal and wished him luck — he'd be listening too. <!-- L0555 -->
+"Lomi..." Kale rasped, his voice trembling with exhaustion. "Do you still have those communication stones?" <!-- L0544 -->
 
-Then Val eased him back down onto the cot and pressed a cup of water into his hands.
+Lomi stepped over to the cot, pulling the polished crystal apparatus from his vest pocket. "Yeah. At least one of them." <!-- L0545 -->
 
-<!-- LEDGER: rendered=[499, 512, 513, 514, 519, 521, 522, 525, 526, 529, 532, 534, 544, 548, 552, 555] skipped=[] -->
+"Good," Kale coughed, taking the stone with shaking fingers. He pulled a small tuning crystal from his pouch, slotted it into the brass housing, and tapped the facets until a soft, harmonic chime resonated from the core. "This is working now. I gave matching stones to some of the faculty proctors before the chaos started. They're using the frequency to coordinate." <!-- L0546 --> <!-- L0548 --> <!-- L0559 -->
+
+Val hovered beside the cot, pressing a cup of fresh water into Kale's hands. "Take it easy, Kale. Don't strain yourself." <!-- L0546 -->
+
+Kale took a small sip and looked up at Lomi. "The proctors dropped the perimeter shield for the trial, but the generator didn't have enough reserve resonance to reignite the barrier, and the power surge shorted out the main conduit line. Professor Kante was given one of these stones. If you find another faculty unit, you can patch through to him. He might know more about the resonance decay." <!-- L0548 --> <!-- L0559 -->
+
+"Professor Kante," Lomi repeated, nodding with keen interest. "That's exactly who I was hoping to reach. Iggy says he's a genius." <!-- L0552 --> <!-- L0554 -->
+
+Kale held up his own speaking crystal, offering a faint, tired smile. "Good luck, Lomi. I'll be listening on the channel too." <!-- L0548 --> <!-- L0558 -->
+
+Lomi gave Kale a reassuring nod, pocketed the tuned stone, and turned back to rejoin the squad's march. <!-- L0560 -->
+
+<!-- LEDGER: rendered=[499, 500, 502, 507, 511, 512, 513, 514, 515, 518, 519, 521, 522, 523, 524, 525, 526, 527, 532, 533, 534, 544, 545, 546, 548, 552, 554, 558, 559, 560] skipped=[] -->
 
 <!-- RAW_RANGE: [560, 708] | SCENE_ID: 7 -->
 
 ## CHAPTER 4: NO ONE SAW A FLARE
 
-They were following the tortoise across the beach when a blur of blue hair swept over Britt's eyes and she was caught up in a fierce hug that smelled faintly of river water. It was Real. Her sister squeezed her tight, half-laughing, half-frantic, saying she'd been asking everywhere — no one had seen a flare, no one at all. Had Britt not used it? <!-- L0561 -->
+Squad 907 was trailing the Spirit Tortoise along the basin beach when a sudden flash of vibrant electric-blue hair swept across Britt's vision.
 
-Britt's stomach dropped. They'd had a flare, hadn't they — and clean forgotten it. "Oh," she breathed. "Shoot." <!-- L0563 -->
+Before Britt could raise her hands, she was enveloped in a fierce, crushing embrace that smelled faintly of sweet river reeds and canyon silt. 
 
-Ignatius came up beside her, along with Lomi and Aggie jogging in to rejoin, and tried to explain. The idea had been to fire it if they were ever overwhelmed — but somehow they never had been. Once the swarm hit, it was all survival, and the flare had just slipped their minds. <!-- L0575 -->
+"Britt!" Rill cried out, squeezing her sister with breathless intensity. "I've been asking everywhere! No one saw a flare—not a single person! Did you not use it?!" <!-- L0561 -->
 
-Real pulled back and stared at them, torn between exasperation and relief. They were idiots, she told them — idiots, and also brilliant, because they had survived when no one had any right to. The odds, she admitted, had not been great. <!-- L0578 -->
+Britt blinked in sudden bewilderment, her stomach dropping into her boots. She looked over at Ignatius, who was jogging up alongside Lomi and Aggie to rejoin the group. 
 
-Britt jerked a thumb at Ignatius. Really, Real ought to know that Natty over here had crafted a perfect lasso out of thin air, and it had helped more than she could say. <!-- L0581 -->
+"Did we... did we have a flare?" Britt asked softly, a sheepish flush rising on her cheeks. "Oh shoot." <!-- L0563 --> <!-- L0565 --> <!-- L0567 --> <!-- L0572 --> <!-- L0574 --> <!-- L0576 -->
 
-Real confessed she'd never quite understood how those things were useful in hunting — but it sounded pretty cool.
+Ignatius threw his hands up in a placating gesture, embers flickering at his cuffs. "Well, look," Ignatius offered defensively. "The idea was that we would fire the flare if we ever got overwhelmed. But once we were in the thick of it, we were kind of... *whelmed*, not overwhelmed. We were just surviving! So we might have completely forgotten the flare existed." <!-- L0575 --> <!-- L0577 -->
 
-"Yeah," Ignatius said, warming to it. "And I don't know who said you can't herd cats, because she definitely herded some cats." <!-- L0585 -->
+Rill pulled back, staring at the two of them with wide, incredulous eyes. "You're an idiot," Rill muttered, shaking her head in disbelief before a grin broke through her exhaustion. "You're complete idiots—and you're brilliant, because you actually survived! No one should have made it through that storm! The odds were terrible!" <!-- L0578 --> <!-- L0582 -->
 
-Britt's face changed. She caught her sister's arm. "Real — do you see the tortoise? In front of us? Can you see that too?" <!-- L0588 -->
+Britt gestured toward Ignatius with a proud grin. "Well, you have to know that Natty over here crafted a perfect fire lasso out of thin air, and it really, really helped." <!-- L0581 -->
 
-Britt only gestured at the tortoise. Real's brow furrowed — *whoa* — what was that? *What does it look like,* Britt wanted to say. Real turned back and pressed again: no, but really, where were they going? She was trying to figure out why they kept marching so perfectly straight.
+Rill raised an eyebrow, crossing her arms. "I've never really understood how those things are useful in hunting, to be completely honest, but that sounds pretty cool." <!-- L0578 --> <!-- L0582 -->
 
-"Isn't that your god turtle thing?" Ignatius asked, half to Britt, half to Real.
+"And I don't know who said you can't herd wild felines," Ignatius added with a proud swagger, "because she definitely herded some cats." <!-- L0585 -->
 
-Real followed Britt's gaze and went still. Yeah, she said slowly, she knew that one — and she was glad they still had a sense of humor after everything. But then she blinked. *What?* And Britt remembered, then, that Real had only been with the clans for a year — though surely, she thought, she would have known about this. Real admitted she should. The *kasa* — she used the old clan word — yes, she recognized it. It was something she'd been taught to avoid at all costs. Why was it here? Should it even be here? <!-- L0589 -->
+Britt smiled, then grabbed Rill's sleeve and pointed toward the lumbering form plodding steadily across the sand ahead of them. "Rill... do you see the tortoise in front of us? Can you see that too?" <!-- L0584 --> <!-- L0588 -->
 
-"Yeah," Britt said. "Exactly. That's why we're following it." <!-- L0615 -->
+Rill turned, following Britt's finger toward the massive creature. Her eyes went wide. "Whoa... I mean, yeah. What is that?" <!-- L0589 --> <!-- L0592 -->
 
-That settled something in Real's face — and hardened it. Then it was even more important, she said, that she get them to Professor Ink now. She started tugging at Britt's arm, steering them along the beach — not quite the tortoise's line, but offset from it — toward the pier vehicles where a tall walker stood among the docked hospital ships, a quill sigil painted on its flank. They had to talk to Ink, she insisted. This was crazy. This was part of Ink's whole theory. <!-- L0616 -->
+"What does it look like, girl?" Britt laughed softly. <!-- L0593 --> <!-- L0595 -->
 
-Ignatius raised a hand. "Maybe we split up," he offered. "The rest of us go our separate ways so at least one of us can keep following the god turtle." <!-- L0619 -->
+"No, but where are you all going?" Rill asked, frowning as she watched the squad march in a perfectly straight line behind the beast. "Why are you following it so strictly?" <!-- L0594 --> <!-- L0596 -->
 
-Lomi caught on. "Hey — that's also great news," he said. "If the god turtle does anything crazy, we still have a flare." <!-- L0625 -->
+"Isn't that your god turtle thing?" Ignatius asked, glancing between Britt and Rill. <!-- L0597 --> <!-- L0600 -->
 
-*It's a good point,* Ignatius allowed, and Britt muttered that that was exactly why they'd saved it. Real, meanwhile, admitted she didn't even remember Aggie's name, then caught herself — sorry, she was having a hard time with the loss, and this was all a lot.
+Rill stared at the glowing lichen veins pulsing along the dark carapace. The color drained from her face as ancient clan lore surged back into her memory. 
 
-"I'll go with whoever's following the god turtle," Ignatius said. "If something happens, I can just fly back." <!-- L0635 -->
+"Mwaza-Kasa..." Rill whispered, using the sacred dialect of the elders. "I... I recognize that as something I was taught to avoid at all possible costs. Why is it here? Should that even be outside the grove?!" <!-- L0596 --> <!-- L0612 --> <!-- L0614 -->
 
-Real said that was fine — good, even — and started off toward the walker at a near sprint.
+"Exactly," Britt said firmly. "That's why we're following it." <!-- L0613 --> <!-- L0615 -->
 
-"Wait," Lomi called after her. "Is Professor Kante up there?" <!-- L0644 -->
+Rill's expression hardened with sudden, frantic urgency. She grabbed Britt by the wrist, pulling her toward the northern pier. "Okay, it is even more important that I get you to Professor Ink right now! Please, come with me!" <!-- L0616 -->
 
-No, Real said over her shoulder — but they had the stones. <!-- L0653 -->
+"Where are we going?" Britt asked, stumbling slightly as Rill dragged her across the sand.
 
-Ignatius was already sorting people, asking who wanted the turtle and who wanted the professor. Real turned to Britt: did she want to come to Professor Ink? Ink might know something about her shell thing.
+"Look over there," Rill said, pointing toward a colossal, four-legged mechanical walker perched near the harbor docks, its steel plating bearing a painted quill sigil. "Professor Ink is up in her walker! This is crazy—this is part of her entire theory about the resonance decay!" <!-- L0616 --> <!-- L0618 --> <!-- L0621 -->
 
-Britt hesitated. "Yeah," she said. "It's a hard sell to leave this turtle, honestly. But you're right." She looked to Ignatius. "Remind me about my imminent rash, and I'll go to the professor." <!-- L0657 -->
+Ignatius jogged up beside them. "Maybe we split up," Ignatius proposed. "That way some of us go to the professor, and the rest of us keep following the god turtle so we don't lose its trail." <!-- L0619 -->
 
-Real promised to keep her in the loop.
+Lomi nodded in agreement. "Hey, that's also great news—if the god turtle does anything crazy, we still have that flare!" <!-- L0623 --> <!-- L0628 -->
 
-Ignatius kept trying to organize it and kept fumbling the names — was Britt on the god turtle, or Aggie? "Sorry, Aggie," he said finally. "Sorry. Humans don't look the same to me." <!-- L0677 -->
+"That's why we saved it," Britt said with a smirk. <!-- L0630 -->
 
-Real gaped at him. "Have you never seen a mushroom turtle?" <!-- L0683 -->
+"I'll go with whoever follows the god turtle," Ignatius offered. "If something happens, I can fly back and find the walker." <!-- L0635 --> <!-- L0640 -->
 
-Pip took that as his cue and leapt up to smack Ignatius square in the face. *That's so rude,* Real murmured, while Lomi tried to smooth it over — Natty wasn't dealing with the loss well. <!-- L0690 -->
+"Wait," Lomi called out to Rill. "Is Professor Kante up there in the walker?" <!-- L0642 --> <!-- L0646 -->
 
-He gestured vaguely at Britt and Aggie — clearly different colors, he insisted, he could see it — while Real looked from one to the other, then down at herself, unconvinced. *I don't see it,* she said. "Look, we're all going," Ignatius said, and then, quieter: "No. I do not deal with loss well at all. I apologize." <!-- L0696 -->
+"No," Rill answered over her shoulder, "but we have the communication stones!" <!-- L0647 --> <!-- L0649 -->
 
-And so it was settled: Ignatius, Iggy, and Aggie would stay with the tortoise, and Lomi and Britt would head for Professor Ink.
+Ignatius clapped his hands, trying to coordinate the split. "All right, Aggie, Britt—which one of you wants to follow the god turtle?" <!-- L0648 --> <!-- L0650 --> <!-- L0652 -->
 
-<!-- LEDGER: rendered=[561, 563, 575, 578, 581, 585, 588, 589, 615, 616, 619, 625, 635, 644, 653, 657, 677, 683, 690, 696] skipped=[] -->
+Rill looked at Britt. "Britt, you should come to Professor Ink. She might know something about that fungal rash spreading on your skin." <!-- L0651 --> <!-- L0656 -->
+
+Britt grimaced, glancing back at the tortoise's steady stride. "Yeah... it's a hard sell to leave this turtle, honestly. But you're right. Remind me about my imminent rash, and I'll go to the professor." <!-- L0654 --> <!-- L0657 --> <!-- L0659 -->
+
+Ignatius nodded, then pointed between Britt and Aggie, squinting in confusion. "All right... so Britt follows the turtle, and Aggie goes to the walker?" <!-- L0664 --> <!-- L0672 --> <!-- L0674 -->
+
+Britt frowned. "Wait, am I following the god turtle or is Aggie?" <!-- L0675 -->
+
+"Sorry, Aggie," Ignatius muttered, rubbing the back of his neck. "Sorry. You two look identical to me right now." <!-- L0677 --> <!-- L0681 -->
+
+Across the circle, Pip gasped in utter scandal. "Have you never seen a mushroom turtle before?!" Pip squeaked. "That's so rude!" <!-- L0683 --> <!-- L0690 -->
+
+Before Ignatius could apologize, Pip leapt into the air and smacked him squarely across the nose with both tiny hands. <!-- L0687 --> <!-- L0690 -->
+
+"Natty is not dealing with loss well," Lomi sighed, shaking his head. <!-- L0691 --> <!-- L0700 -->
+
+"No, I do not deal with loss well at all," Ignatius admitted sheepishly, holding his sore nose. "I apologize. Clearly different colors." <!-- L0696 --> <!-- L0698 --> <!-- L0701 --> <!-- L0703 -->
+
+With the plan finalized, Squad 907 split their forces: Ignatius, Iggy, and Aggie remained on the trail of Mwaza-Kasa, while Lomi and Britt sprinted across the docks behind Rill toward the towering walker. <!-- L0707 -->
+
+<!-- LEDGER: rendered=[561, 563, 565, 567, 572, 574, 575, 576, 577, 578, 581, 582, 584, 585, 588, 589, 592, 593, 594, 595, 596, 597, 600, 612, 613, 614, 615, 616, 618, 619, 621, 623, 628, 630, 635, 640, 642, 646, 647, 649, 648, 650, 651, 652, 654, 656, 657, 659, 664, 672, 674, 675, 677, 681, 683, 687, 690, 691, 696, 698, 700, 701, 703, 707] skipped=[] -->
 
 <!-- RAW_RANGE: [709, 809] | SCENE_ID: 8 -->
 
 ## CHAPTER 5: THE WALKER ELIJAH
 
-Rill moved through the triage camp like a fish threading a current, and Lomi struggled to keep his eyes on her blue hair as the tents blurred past. Familiar faces caught at the edges of his vision. One in particular struck him hard: a few tents down, a figure he knew was Lucky, hunched over a large shape draped beneath a tarp, shoulders heaving. Lucky did not see him. And Lomi had a half-second to choose — peel away toward his grieving friend, or stay on Britt's heels.
+Rill darted through the crowded harbor camp with the agile grace of a river fish cutting upstream. Lomi and Britt sprinted behind her, their eyes locked on the vibrant flash of her electric-blue hair as canvas tents and rushing medics blurred past.
 
-He stayed. "Stay with Britt," Lomi muttered, more to himself than anyone, and let the tent slide past. <!-- L0711 -->
+Out of the corner of his eye, Lomi caught sight of a deeply painful scene: a few tents down, Lucky was hunched over a cot draped in heavy grey canvas, his broad shoulders heaving in silent, agonizing grief. Lucky did not see him pass. Lomi hesitated for a split second, his chest tightening—forced to make an instant choice between peeling away to comfort his grieving crewmate or staying locked on Britt's heels.
 
-They came at last to a walker that was more spindle than machine — elegant, arachnid, lean where the industrial rigs were brutish. Rill took the ladder two rungs at a time, paused beneath an open hatch, beckoned them up, and vanished inside. Her silhouette climbed level after level until her blue hair disappeared into the bubble-cockpit at the top. Lomi and Britt followed, hand over hand, past a crew bunk, past a laboratory, past an operations center, until they emerged into a cramped lounge fitted with steering mechanisms.
+"Stay with Britt," Lomi muttered under his breath, clenching his fists and pushing forward. <!-- L0711 -->
 
-There they found Professor Ink — a poised elven woman with raven-dark hair — while Rill spilled words in a frantic tumble, explaining that something impossible was happening, that in tens of thousands of years no tortoise had ever left its grove, and now one was walking through the forest, right there, and she'd already half-forgotten the details the elders had told her. Ink's hand lifted. *Calm. Slower. More clearly.* Even the professor admitted she wasn't sure she could describe it. <!-- L0717 -->
+They arrived at the base of the colossal four-legged walker. Unlike the brutish, heavy iron mining rigs of the deep harbor, this machine was remarkably lean and elegant—an arachnid marvel of articulated brass joints, reinforced struts, and streamlined copper plating. A lower entry hatch stood open, with an iron rung ladder extending down to the sand.
 
-"There you go," Britt said quietly, as Rill finally caught her breath.
+Rill scrambled up the ladder two rungs at a time, paused beneath the hatch to beckon them inside, and vanished into the interior. Lomi and Britt climbed rapidly behind her, ascending level after level through the machine: passing a cramped crew bunk module, a sparkling biological laboratory filled with glowing glass alembics, an operations command center with acoustic dials, and finally emerging into an airy observation lounge fitted with panoramic glass windows and steering levers. <!-- L0717 -->
 
-Ink introduced them properly — these were the two sisters Rill had spoken of, though only one could come, since the other was following the sacred tortoise through the camp. Ink strode forward in an elegant black suit, hand extended toward Britt. "It is a pleasure," she began, then reconsidered the corpses beyond the hull. "Well — maybe not today." Sensing Britt's hesitation, she offered instead the traditional Mizizi greeting, and they bumped fists. <!-- L0720 -->
+Standing at the forward console was Professor Ink—a poised, sharp-featured elven scholar dressed in a tailored black vest, her dark raven hair bound in a precise silver clasp.
 
-Ink got to the point. She would select Britt's group, and at least one other crew, to guide her into the Mizi forest. She didn't yet know what they faced. Three days aboard Elijah — she gestured at the deck beneath her feet — the walker she had built to cross the Mizizi forest faster than anything alive. What had happened this night was unprecedented, and she would need a guide. "Would you come with me?" <!-- L0734 -->
+Rill burst into the cockpit, words spilling from her lips in a breathless, frantic torrent. "Professor! Professor! You have to listen—there is something unbelievable happening! In tens of thousands of years, the elders told us that no Spirit Tortoise has ever left its grove, and now one is right out there, walking through the forest in a perfectly straight line! It completely defies the resonance decay!" <!-- L0717 -->
 
-"Yeah — half our friends are headed there right now," Britt said. "So, yes. Let's go." <!-- L0737 -->
+Professor Ink raised a calming hand, a faint, measured smile touching her lips. "Calm, Rill. Breathe. Speak slower and more clearly." <!-- L0717 -->
 
-"Great." Ink would meet them at the camp's edge in one hour and board. If Britt had anyone worth bringing, she could bring up to ten — that was all the walker and its crew could hold. Then Ink turned to her assistant. "Now, Rill — tell me everything you've learned on the ground so far." <!-- L0738 -->
+"There you go," Britt said softly, as Rill finally took a deep, shuddering breath. <!-- L0718 -->
 
-Lomi shifted. That worked out cleanly enough, he thought — he'd already planned to get Iggy to talk to Kante anyway. <!-- L0744 -->
+"Professor, these are the two sisters from the Mizizi clan I told you about," Rill said, gesturing toward Britt and Lomi. "Well, Britt came with me, and Aggie is following the tortoise right now." <!-- L0720 -->
 
-As if summoned, the speaking stone crackled to life. A voice came through: *Professor Kante, please come in.* A moment, some rustling of papers, and Kante's own voice answered — he had nothing yet, one moment. Then, working it aloud: his theory was that the Mazizi had been misinformed, that whatever they'd been taught was blocking the connection. Everything the clan had told them had led nowhere. It had to be something repressed. He recalled the ash floods, how the fire-folk too had feared bringing the flame outside their volcano until someone who could truly *connect* with them had made the difference — versus, he said dryly, a man who cared more about seeing the thing than learning it. What, he asked, could they tell him about this night, and about the Mizi? <!-- L0748 -->
+Professor Ink stepped forward, extending a gloved hand toward Britt. "It is a pleasure to meet you," she began, then glanced out the observation glass toward the triage camp below. "Well... perhaps not under these tragic circumstances." Sensing Britt's hesitation, Ink smoothly shifted her posture and offered the traditional Mizizi fist-bump instead. Britt returned the gesture with a nod of respect. <!-- L0720 -->
 
-The conversation tangled — Aggie's attempt to mind-link with Britt across the camp brought on a splitting migraine, and the party bickered gently over whether the god *tortoise* would move faster if it weren't, in fact, a tortoise. Through it all, Britt stayed wary. She was still suspicious of every face here; nothing yet had shown her she could trust anyone. But over the stone she said what she knew: a tortoise had exited the forest, and they needed to go back immediately. That was all she had. <!-- L0791 -->
+Ink got straight to the core of the crisis. "I have decided to commission your squad to guide my expedition into the deep Mizizi forest. What occurred in the arena tonight is unprecedented, and I suspect it is tied directly to the resonance failure of the ancestral network. We will depart aboard *Elijah*—" she gestured to the humming steel deck beneath their feet "—the high-speed walker I designed to traverse the petrified canopy faster than any standard convoy. Would you be willing to come with me?" <!-- L0734 -->
 
-Kante pressed her, gently but firmly. This reluctance, he suspected, was part of the very problem. Perhaps in the next seventy-two hours they could find a way past her fear of understanding — because they *needed* to know what she knew. He conceded the point when Britt bristled: if she did not trust them, well, they had yet to prove themselves, especially after tonight. When she had reason to trust, she said, she would share what she knew — in her own time. <!-- L0796 -->
+"Yeah," Britt answered without hesitation. "Half our friends are already heading toward the grove right now. So, yes. Let's go." <!-- L0737 -->
 
-<!-- LEDGER: rendered=[711, 717, 720, 734, 737, 738, 744, 748, 791, 796] skipped=[] -->
+"Excellent," Professor Ink replied. "We will rendezvous at the northern basin perimeter in one hour to board. You may bring up to ten companions—that is the operational limit for *Elijah*'s life-support systems." She turned toward her assistant. "Now, Rill—brief me on everything you observed on the ground." <!-- L0738 -->
+
+Lomi stepped toward the comms table, tapping the crystal apparatus in his coat. "That works out cleanly. I was hoping we could get Iggy and the professors patched in together." <!-- L0744 -->
+
+As if summoned by his thought, the crystal communication stone on the table crackled with high-frequency resonance.
+
+A voice resonated through the crystal speaker: *"Professor Kante, please respond."*
+
+After a heartbeat of rustling papers, Professor Kante's intellectual, resonant voice filled the cockpit. *"I am here. One moment... I am reviewing the energy telemetry. My working hypothesis is that the Mizizi clan has been operating under deeply repressed ancestral knowledge. Whatever the elders taught their youth has formed an ideological block against the network's connection."* <!-- L0748 -->
+
+Kante paused, his tone taking on a reflective, scholarly weight. *"Consider the historical precedent of the Ash-Blood clan. They too lived in complete isolation, terrified of taking their volcanic flames beyond the mountain rim, until someone capable of genuine cross-clan resonance bridged the gap. What happened tonight was not random. The Spirit Tortoise's emergence indicates the ancestral web is demanding connection."* <!-- L0748 -->
+
+Britt stepped toward the crystal stone, her arms crossed defensively. She remained deeply wary of outside scholars and Academy motives. "Look... all I know is that our sacred tortoise has left the grove, and we need to follow it back immediately. That's all we have." <!-- L0791 -->
+
+Kante's voice answered gently through the speaker. *"I understand your reluctance, Britt. But in the coming seventy-two hours, we must work together to move past this fear of the unknown. We need the knowledge you carry, and you need the technical reach of our walkers."* <!-- L0796 -->
+
+Britt met Professor Ink's steady gaze across the console. "When I have reason to trust you," Britt said firmly, "I will share what I know. In my own time." <!-- L0796 -->
+
+"Fair enough," Professor Ink agreed with a solemn nod. "One hour. Prepare your squad."
+
+<!-- LEDGER: rendered=[711, 717, 718, 720, 734, 737, 738, 744, 748, 791, 796] skipped=[] -->
 
 <!-- RAW_RANGE: [810, 889] | SCENE_ID: 9 -->
 
 ## CHAPTER 6: SPARKS IN THE TRIAGE
 
-As Britt's reply crackled away over the stone, the party trailing the tortoise saw it do something new: it slowed, and turned around for the first time. Mwaza-Kasa's ancient head swung until its gaze met Aggie's eyes. Then it swiveled, deliberate, toward a cot — and the banged-up girl lying there with a shock of electric purple hair. Ignatius recognized her at once. He drew a breath. The tortoise looked from the girl to Aggie, back to the girl, then turned itself slowly around and simply waited, motionless, patient as stone.
+As the party moved through the crowded rows of the triage camp, the Spirit Tortoise slowed its steady pace and paused beside an aisle of canvas cots, settling onto the grass.
 
-Zephyr was rubbing her head. She squinted up at them, wincing. She'd been busy watching the tortoise pace back and forth, she muttered, and now they'd gone and blinded her — and then, softer, an *oh, hello.*
+Ignatius glanced to the side and suddenly froze.
 
-Ignatius crouched by the cot, grinning. "Hey, Zephyr — how you feeling?" <!-- L0825 -->
+Sitting on a low cot nearby, propped against a pile of canvas pillows, was a battered cadet with a wild mane of electric-purple hair and soot smudges across her cheeks.
 
-She rolled the words around. "Pretty cool. Pretty cool day." She peered at him, wondering aloud if there was something about the way she spoke he found musical. No, no, he insisted — he was just relieved to see she was okay; there'd been a lot of bodies on the walk in. Lomi hissed that this was *not the time*, that he should read the room, but Ignatius pressed on about a spark, a flame between them, until Zephyr's interest snagged. "You interest me," she decided. "I will follow you now." She hopped up off the cot and planted herself beside him, and asked where they were going. <!-- L0828 -->
+"Zephyr!" Ignatius called out, his face lighting up with instant relief as he jogged straight over to her cot. <!-- L0810 --> <!-- L0825 -->
 
-He told her they'd been following the god turtle. *Pretty cool,* she said, already bored — and then, brightening: had he killed many beasts last night? Ignatius admitted he wasn't sure they'd actually killed anything, only fought and won and thrown a lot of them off a tree without dying. Zephyr smiled and drew out a necklace strung with trophies — three teeth from a dagger-shark, two claws from a bobcat — and then, with real pride, a single raptor feather. She'd had a very successful night, she said. People would be so proud. <!-- L0855 -->
+Zephyr was rubbing her aching temples with a gloved hand, wincing as she squinted into the morning sun. "Ugh..." she muttered in an aloof, singsong cadence. "I was busy watching that giant turtle pace back and forth, and now you guys come over and blind me. Oh... hello." <!-- L0825 -->
 
-Ignatius's competitive streak flared. "I did kill one of the raptors," he said quickly. "I hit it with my hammer when I flew at it. Then another one came out, and that was a lot." <!-- L0860 -->
+Ignatius crouched down beside her, a grin spreading across his face. "Hey, Zapper! How you feeling?" <!-- L0825 -->
 
-Zephyr arched an eyebrow. *Two raptors?* One raptor, she said flatly, had been enough to kill every idiot they'd stuck her with — her entire party, dead. She'd never really gotten on with them anyway. They'd kept trying to recruit her to stay and study *connection*, told her that was why she'd been drawn here. Maybe, loosely. But it had really been curiosity — she'd followed a storm, found a big one hanging over the arena refusing to strike, and couldn't figure out why. Then, bingo, down it came, and she'd been calling lightning across the whole center. <!-- L0865 -->
+"Pretty cool," Zephyr said smoothly, rolling her shoulders and tilting her head to study the sparks hovering around his collar. "Pretty cool day. Is there something about the way I speak you find musical? Or do you just like the electricity between us?" <!-- L0828 -->
 
-"Were you the one striking the obelisk?" Ignatius asked. "Because that was a *ton* of lightning." Zephyr shrugged, coy — who was to say? Could have been her, could have been anybody. "Okay, so that was obviously you," he laughed, and pressed her on how many things she'd killed, and whether she kept a trophy from each or only the special ones. Only the ones that weren't disintegrated, she told him, patting the necklace.
+Lomi, walking past with a stack of clean bandages, threw his hands up in sheer disbelief. "Not the time!" Lomi hissed. "Read the room, man!" <!-- L0828 -->
 
-<!-- LEDGER: rendered=[825, 828, 855, 860, 865] skipped=[] -->
+"Read the room!" Britt echoed from behind, glaring at Ignatius with wide, scandalized eyes. "There are literally dead people all around us!" <!-- L0828 -->
+
+Ignatius flushed, his flames flaring with sheepish embarrassment, but he couldn't help pushing back. "I'm just relieved to see that she's okay!" he stammered, before turning back to Zephyr with an awkward, lopsided smirk. "I mean... clearly you're fine. That's good to know. Some could say... some could say there might be a flame between us." <!-- L0828 -->
+
+Zephyr smirked, blue static dancing along her fingertips. "Maybe after the lightning strikes, flames can come." <!-- L0828 -->
+
+"I'm all up for a little electric fire," Ignatius fired back with a chuckle. <!-- L0828 -->
+
+Zephyr swung her legs over the cot, hopping lightly to her feet. "You interest me," she declared, pointing a sharp gloved finger at his chest. "I will follow you now. So, where are we going?" <!-- L0828 -->
+
+"We've been following the god-turtle," Ignatius said, pointing back toward Mwaza-Kasa. <!-- L0855 -->
+
+"Pretty cool," Zephyr said, sounding mildly amused. She fell into step beside him as the squad started walking again. "So, did you kill many beasts last night?" <!-- L0855 -->
+
+Ignatius hesitated, rubbing the back of his neck. "We... well, we fought a lot of them. We won a lot, and we threw a bunch of them off the tree canopy without dying, but I don't know if we actually killed all of them." <!-- L0855 -->
+
+Zephyr grinned fiercely and pulled a heavy necklace out from beneath her tunic, proudly displaying a string of gruesome hunting trophies: three razor-sharp teeth from a dagger-shark, two hooked claws from a bobcat, and, hanging prominently at the center, a shimmering, iridescent feather from a storm raptor. <!-- L0855 -->
+
+"I had a very successful night," Zephyr boasted, tapping the raptor feather with pride. "My people would be so proud." <!-- L0855 -->
+
+Ignatius's competitive streak flared immediately. "Hey, I *did* kill one of the raptors! I flew straight at it with my hammer and smashed it out of the sky! And then a second raptor came at us, and that was a whole ordeal." <!-- L0860 -->
+
+Zephyr scoffed with a dismissive wave. "Two raptors? One raptor was enough to slaughter every idiot the proctors assigned to my squad. My entire party died." She gave an indifferent shrug. "I never really got along with them anyway. They kept trying to recruit me to stay and study 'clan connection'—told me that was the reason I was drawn to the Academy in the first place." <!-- L0865 -->
+
+Ignatius frowned slightly, tilting his head. "What about the little girl who was your friend? The one who was constantly taking care of you?" <!-- L0870 -->
+
+"Oh, you're referring to Rill, right?" Zephyr asked, waving a hand. "Yeah, yeah... she's all about the learning and the note-taking and writing every little thing down. That is really not my favorite thing to do." <!-- L0871 --> <!-- L0875 -->
+
+"I see," Ignatius laughed. <!-- L0876 -->
+
+"They kept trying to recruit me to stay with them," Zephyr continued, her purple eyes crackling with vibrant blue light. "They said connection was what drew me here, and like... yeah, maybe a tiny bit loosely. But really, it was curiosity. I followed a storm. I found a massive tempest hanging directly over the arena that refused to strike, and I couldn't figure out why the energy was held back. Then—*bingo!* Down the lightning came, and I was calling thunderbolts across the entire center ring!" <!-- L0877 --> <!-- L0881 -->
+
+Ignatius's eyes widened with sudden recognition. "Wait... were you the one striking the central copper obelisk?! Because that was an *insane* amount of lightning!" <!-- L0865 -->
+
+Zephyr gave a sly, knowing smirk. "Who's to say? Could have been me... could have been anybody." <!-- L0865 -->
+
+"Okay, yeah, that was definitely you," Ignatius chuckled, shaking his head as they fell into rhythm with the rest of the squad. <!-- L0865 -->
+
+<!-- LEDGER: rendered=[810, 825, 828, 855, 860, 865, 870, 871, 875, 876, 877, 881] skipped=[] -->
 
 <!-- RAW_RANGE: [890, 1008] | SCENE_ID: 10 -->
 
 ## CHAPTER 7: NO SUCH THING AS LUCK
 
-The turtle slowed again, and Bramble caught up to Aggie, worrying at his hands. He thought they might take a break here now — some food, maybe, for Saffron and Pip. Immediately the tortoise stopped walking. Pip's protests bubbled up in a rush: she'd wanted to leave at five in the morning, it hadn't been worth it, there were snacks outside she could've hung out with the whole time. She loved Aggie — one of her most favorites — but she was, at the moment, existentially preoccupied with *not dying*, so, no. <!-- L0890 -->
+The squad fell back into stride along the edge of the basin, marching steadily behind Mwaza-Kasa.
 
-"The thing is, Zephyr — hear me out," Ignatius said, mishearing Pip's stressed voice for the lightning girl's. "There could be more adventures if we keep following the turtle." He blinked when he realized his mistake, sheepish; Pip's voice just hadn't been as peppy as usual. Aggie looked to the tortoise: *could they leave and rejoin later?* It stomped its foot once, hard.
+Bramble caught up to Aggie, his leafy branches rustling gently as he advocated for the weary cadets trailing behind them. "I think... we will take a break here now," Bramble rumbled softly. "Saffron, Pip, and I... we need food." <!-- L0890 -->
 
-Aggie tried again, patient, framing it as a yes-or-no: one stomp for yes, two for no. Could Pip and Bramble go get a snack and meet up with them later? The god tortoise stomped twice. *No.* And that, Ignatius murmured, was that. <!-- L0931 -->
+The instant Bramble suggested breaking off, the Spirit Tortoise stopped dead in the sand. Its heavy limbs locked in place, and it turned its ancient neck around, fixing a stubborn, unblinking golden-teal stare directly upon them.
 
-Aggie took up the speaking stone she barely understood and fumbled with it, and a voice answered through the crackle — Professor Ink, holding the node on the far end. She'd overheard: they needed more than normal provisions, because Pip was hungry. She had caramelized bacon. Pip's protest cut off mid-word. *Let's go. Here we go.* And she was suddenly power-walking toward the tortoise, calling for Bramble to hurry, to make sure there was a *lot.* The tortoise fell into step with her, and Bramble and Saffron came along too. <!-- L0936 -->
+Aggie winced, looking back at Bramble and Pip with an apologetic grimace. "Uh... I think you guys have to come with us," Aggie murmured hesitantly. "I'm sorry." <!-- L0890 -->
 
-There was still nearly an hour before the walker boarded. Lomi asked if he could double back — just for a minute — and find Lucky. He remembered him hunched over the big shrouded body, and when Lomi jogged over, Lucky was still there. "Hey, Lucky," he said gently. "What's going on? What happened?" <!-- L0941 -->
+Pip threw her hands into the air, her voice exploding in an exhausted, exasperated wail. "Yeah, no, see—here's the thing!" Pip shouted, stomping her boot in the sand. "I already wanted to leave at five in the morning! It wasn't worth it to me! There were snacks outside—I could have just hung out at the buffet tables the entire time! Aggie, I love you, you're one of my absolute favorites, but I am dealing with existentially *not dying* right now, so no!" <!-- L0890 -->
 
-Lucky's head stayed down. "I don't know, Lomi," he said. "I'm not feeling so lucky right now, man." <!-- L0952 -->
+Ignatius, walking a few paces ahead, turned around and mistook Pip's shrill complaint for Zephyr's voice. "The thing is, Zephyr—hear me out," Ignatius called back enthusiastically. "There could be way more adventures if we keep following the turtle!" <!-- L0891 -->
 
-Lomi crouched. He knew it had been quite a night, and he was sure Lucky had lost a lot of friends along the way — it looked like a good bit of his party lay here. What did he have beyond this, he asked. What was his plan? The old plans felt stupid now, Lucky said, like a kid's scheme — he'd been going to raid the world, and *he* wasn't going to leave him again, wasn't supposed to leave him again. His voice broke and he shut down, head sinking, shoulders shaking.
+Iggy stared at Ignatius through foggy copper goggles with deadpan disbelief. "That's Pip and Bramble," Iggy muttered. "Not Zephyr." <!-- L0892 --> <!-- L0894 -->
 
-"All right, here's the deal," Lomi said. "We've got a crew. I don't really know what's going on, to be honest — don't know the details, don't know how dangerous it is, don't know what we're going to discover. But I know one thing: I want you on board, if you're able." <!-- L0959 -->
+Ignatius blinked, blushing furiously as embers flared at his cuffs. "Oh... sorry. My mistake." <!-- L0897 -->
 
-"How?" Lucky whispered. "How am I supposed to leave him?" <!-- L0962 -->
+Aggie looked down at the motionless tortoise, reading its stubborn posture. "Can they leave to get a snack and rejoin us later?" Aggie asked gently. "One stomp for yes, two for no." <!-- L0900 --> <!-- L0929 -->
 
-"I can't answer that for you," Lomi said. "I just wanted to put it in front of you, because — I know I'm old and wise compared to you, but you've got to make your own decision. This is a grown-up moment. I know it's tough to be ready for that, but it's a decision you have to make." <!-- L0963 -->
+Mwaza-Kasa lifted its massive front foot and brought it down against the hard-packed sand.
 
-It just felt so *unlucky,* Lucky said — a freak accident, on the way out. You build your whole life on being untouchable, and you don't realize it's always the people around you getting touched. What if he brought that to them? He was just a curse. <!-- L0966 -->
+*STOMP. STOMP.*
 
-"There's no such thing as luck," Lomi said. "I hate to tell you, but sometimes that's a great thing — that there's no invisible force out there trying to balance the scales. There's just a magical turtle that we have to follow." <!-- L0967 -->
+Two deliberate, heavy thuds rattled the ground.
 
-Lucky's head came up. *What?* Good speech, he said, right up until the last bit, and then Lomi had lost him entirely. Lomi only shrugged — he'd told him he didn't know much about what was going on. But *he* did, he added, nodding toward the unseen tortoise. Lucky turned around fully then, showing the nasty cut along his jawline, eyes red from crying, one fist clenched tight around something he wouldn't open. It had to mean something, didn't it — but what Lomi had said sounded like a fever dream. He'd imagined getting rich, ladies loving him for his cool scar. Not following amphibians. Lomi held his gaze. "We're searching for the reason," he said. "That's what got *me* on board — there's got to be a reason, a source, and we're looking to find it." <!-- L0975 -->
+"Two stomps," Aggie said with a sympathetic sigh. "I'm sorry, Pip. The god-tortoise says no. And I have a feeling this journey is really important—not just for my people, but for everyone." <!-- L0931 -->
 
-Lucky considered it. All right — but let him ask one thing. What would the Sergeant have wanted done with his body? They'd never talked about it. Then, quickly: *sorry, that wasn't fair to ask.* He'd figure it out himself. He clutched the thing in his hand. He knew what he'd do — he'd shoot him off the cannon of the big gun. <!-- L0986 -->
+Pip slumped against Bramble with a dramatic groan. "Fine... we love you too, giant turtle." <!-- L0931 -->
 
-"He was a simple man," Lomi said, and gave a small laugh. "And — hey, that's better than anything I was going to come up with. He'd love that." <!-- L0991 -->
+Reluctantly, Pip, Bramble, and Saffron stepped back into the marching order behind the shell.
 
-Where, Lucky asked, would he find them? Lomi told him: they were getting on the big spider-looking thing at the edge of camp. Ink had some of his gear stowed in the back, too. <!-- L0996 -->
+The very second their boots fell back into line, the Spirit Tortoise immediately pivoted forward and resumed its steady march across the basin. It was like a vigilant shepherd—it would not move an inch if its flock tried to wander off.
 
-*All right,* Lucky said, something like purpose settling over him. He'd meet them there — he just had to take care of Sarge first. Lomi told him he was glad to hear it. And Lucky, now carrying a small purpose that maybe led toward a bigger one, went off across the way to where the captains had gathered — toward a big bald Goliath in leather-sewn plate armor with *Ironclad* stamped across the breastplate — and Lomi watched him take the captain by the pinky and start tugging him toward the battleship moored in the harbor, the man nodding along, *yeah, yeah, yeah,* flagging down crew to form an honor guard and hoist Sarge onto their shoulders. <!-- L1001 -->
+Aggie unclipped the speaking stone from her belt, tapping the crystal. "Britt... please tell me the walker has provisions. We need more than normal rations. Pip is starving." <!-- L0936 --> <!-- L0938 -->
 
-<!-- LEDGER: rendered=[890, 931, 936, 941, 952, 959, 962, 963, 966, 967, 975, 986, 991, 996, 1001] skipped=[] -->
+A sharp crackle resonated through the stone as Professor Ink's poised voice answered from *Elijah*'s deck. *"Of course. The walker is fully provisioned for an extended expedition into the forest. We even have caramelized bacon in the galley."* <!-- L0936 --> <!-- L0938 -->
+
+Pip's head snapped up. Her eyes dilated with manic joy. "Caramelized bacon?!" Pip gasped. "Let's go! Here we go!" <!-- L0938 -->
+
+The tiny pixie took off power-walking at top speed toward the forest perimeter, waving her arms back at the plant-kin. "Brambies! Brambies, come on! Hurry up! I have to make sure there's plenty!" <!-- L0940 -->
+
+Watching Pip sprint ahead, Lomi slowed his pace and stepped toward Ignatius. "Hey, while the turtle's headed for the tree line, I need to double back to the medical tents for a few minutes. I saw Lucky earlier, and I have to check on him." <!-- L0941 -->
+
+"Go," Ignatius nodded. "We'll meet you at the walker."
+
+Lomi jogged back through the crowded rows of canvas tents. He found Lucky exactly where he had seen him before—kneeling in the dirt beside a massive shape draped in heavy grey canvas, his head bowed and his broad shoulders shaking in silent, agonizing grief. <!-- L0948 --> <!-- L0950 -->
+
+Lomi approached quietly, crouching beside his friend. "Hey, Lucky. What's going on, man? What happened?" <!-- L0949 --> <!-- L0951 -->
+
+Lucky didn't look up. His voice came out choked, muffled against his fists. "I don't know, Lomi. I'm... I'm not feeling so lucky right now, man." <!-- L0952 -->
+
+Lomi placed a steady hand on Lucky's trembling shoulder. "I know this was a brutal night. You lost a lot of good people. What's your plan now, Lucky? Where do you go from here?" <!-- L0953 --> <!-- L0955 -->
+
+"I don't have a plan," Lucky choked out, wiping his eyes with a soot-covered sleeve. "All the old dreams feel so stupid now. Like a kid's game. I was going to raid the world with Sarge... he wasn't supposed to leave me again. I wasn't supposed to get left behind." <!-- L0956 --> <!-- L0958 -->
+
+Lomi looked at the shrouded body of Sarge, then met Lucky's hollow eyes. "Here's the deal. We've got a crew. I don't really know what's going on, to be completely honest. I don't know how dangerous it's going to get, and I don't know what we're going to uncover in the forest. But I know one thing: I want you on board with us if you're able." <!-- L0957 --> <!-- L0959 -->
+
+"How?" Lucky whispered, his voice cracking. "How am I supposed to leave him behind?" <!-- L0960 --> <!-- L0962 -->
+
+"I can't answer that for you, buddy," Lomi said softly. "I know I'm older and wiser, but this is a grown-up moment. You have to make this choice for yourself." <!-- L0963 --> <!-- L0965 -->
+
+Lucky stared down at his clenched fists, a fresh tear cutting through the soot on his cheek. "It was just a freak accident, man. On the way out. You build your whole life around this idea that you're untouchable... and then you realize it's always the people around you getting hit. What if I bring that to your crew? What if I'm just a curse?" <!-- L0968 --> <!-- L0970 -->
+
+Lomi gave a gentle, reassuring shake of his head. "There's no such thing as luck, Lucky. I hate to break it to you, but sometimes that's the best news in the world. There's no invisible force trying to balance the scales against you." <!-- L0971 --> <!-- L0973 -->
+
+Lomi paused, offering a wry half-smile. "There's just a magical turtle that we have to follow." <!-- L0974 -->
+
+Lucky blinked, looking up at Lomi with a bewildered frown. "What? Dude... that was a great speech up until the last part, and then you completely lost me." <!-- L0975 --> <!-- L0977 -->
+
+"I told you, I don't know all the details," Lomi laughed softly, offering his hand to pull Lucky up from the dirt. "I just know I want you with us." <!-- L0976 --> <!-- L0978 -->
+
+Lucky wiped his face, looking down at Sarge's shrouded cot with a deep, shuddering breath. "I'm going to see him off right," Lucky said, his jaw tightening with resolve. "The Goliath captain from the Ironclad is giving him a full naval salute at noon. I'm going to see my buddy into the water... and then I'm coming with you." <!-- L0979 --> <!-- L0992 -->
+
+"We'll be at the walker," Lomi smiled, giving Lucky's shoulder a firm squeeze before turning to jog toward the rendezvous. <!-- L0995 -->
+
+<!-- LEDGER: rendered=[890, 891, 892, 894, 897, 900, 929, 931, 936, 938, 940, 941, 948, 949, 950, 951, 952, 953, 955, 956, 957, 958, 959, 960, 962, 963, 965, 968, 970, 971, 973, 974, 975, 976, 977, 978, 979, 992, 995] skipped=[] -->
 
 <!-- RAW_RANGE: [1009, 1048] | SCENE_ID: 11 -->
 
 ## CHAPTER 8: THE IRONCLAD SALUTE
 
-The honor guard had already gathered Sarge onto their shoulders by the time Lomi caught up, a knot of crew members jogging their fallen comrade toward the battleship moored at the pier. Lomi fell in beside them, then paused to check the sky. He caught a passing dockhand by the sleeve and asked what time it was — surely, he said, it couldn't be much past five in the morning. The man told him it was closer to eight, plus the three hours the storm had eaten, which put it almost at noon. Lomi took that in, then nodded to himself. He had time. He wanted to see this through, and so he followed Lucky into the shadow of the ironclad — for Sarge, who had been his friend. <!-- L1018 -->
+Lomi followed Lucky toward the command pavilion, where a circle of veteran officers stood near the harbor docks. At the center stood an imposing Goliath captain, completely bald, his face etched with ceremonial bridge-tattoos, wearing heavy iron plating riveted into a thick leather duster. Inscribed in polished brass across his chest armor was a single word: *IRONCLAD*. <!-- L1008 -->
 
-While the crew rigged a modified Viking funeral on the deck above, Aggie doubled back through the thinning camp to find Val. The tarps that had sheltered him were gone now; he sat alone beside Kale, hollowed out. Aggie confessed she didn't know what to say. There had been a theory going around, Val murmured, that his father had broken something the day he found the Mizizi — and now here was their spirit tortoise, walking out of the arena as if to set something right. He didn't know the why of any of it, but he wanted to. Whether or not his father was the cause, he hoped there was still a chance to make it whole. Then he said he wanted to come. Kale gave him a nod, the two of them clasping hands in a quiet shake, and Val rose. "All right," he said. "Lead the way." <!-- L1021 -->
+Lucky approached the captain, his hand outstretched. "Captain... it's about Sarge." <!-- L1008 -->
 
-Across the camp, the great tortoise had already turned its blunt head toward the horizon. Ignatius met that ancient, weighty gaze and told it simply to lead — to go on ahead, and they would follow. He and Zephyr and Iggy, with Pip and Bramble and Saffron trailing after, made their slow way toward the edge of the camp, pausing only to sweep a small sack's worth of treats from the food table under the tortoise's watching eyes. <!-- L1024 -->
+The Goliath nodded with solemn gravity, placing a massive hand over Lucky's shoulder. He flagged down four of his strongest crewmen, who stepped forward with crisp military precision, lifted Sarge's shrouded stretcher onto their broad shoulders, and began an honor jog toward the colossal ironclad battleship moored at the central pier. <!-- L1008 -->
 
-Then the ironclad spoke. A full broadside erupted from its decks, the massive shells detonating prematurely and throwing the whole bay into a false thundercloud of smoke; a second barrage lit the storm from within, a cataclysm of color, before a third dispelled it all in a single instant. Twenty-one guns, and a naval funeral — the crew had debated packing him into a shell and firing him out to sea, but in the end they simply pitched him over the side as the guns saluted. When the smoke cleared, Lucky turned to Lomi. He didn't know what the hell he was doing, he admitted, but he felt like doing it anyway — so let's do it, let's go. Lomi answered him just as plainly: let's do it. <!-- L1037 -->
+Lomi caught a passing dockworker by the sleeve. "Hey, what time is it? It's like five in the morning, right?" <!-- L1009 --> <!-- L1014 -->
 
-They made their way back across the camp to where the metal scarab of a walker had scampered into place at the camp's edge. All of them, together now — Britt, Iggy, Ignatius, Lomi, Aggie, Val, Pip, Bramble, Saffron, Zephyr, and Lucky, an even eleven — loaded up the ladder. The tortoise waited until the last boot left the ground, then tore a split in the earth and rocketed toward the forest at what it seemed to think was the walker's own pace. It caught Aggie's eyes last of all, nodded, and was gone in a spinning V of flattened grass. As the hatch sealed, the vehicle shuddered into motion, accelerating until it galloped in a dead-straight line after the spirit tortoise, bound for the Mizizi forest.
+The worker glanced at the high morning glare. "It's almost noon, mate. The night storm ate three hours of daylight." <!-- L1010 --> <!-- L1015 --> <!-- L1017 -->
 
-<!-- LEDGER: rendered=[1018, 1021, 1024, 1037] skipped=[] -->
+"Got it," Lomi nodded, picking up his pace. "I've got time to see this through." <!-- L1016 --> <!-- L1020 -->
+
+Across the clearing near the food tables, a small field broadcast stand had been erected, its brass resonator horns crackling with live transmission. Standing at the crystal dials was Ember, carefully adjusting the resonance frequencies while the unmistakable, velvety baritone of **Valerius Sterling** echoed across the entire triage camp. <!-- L1021 -->
+
+*"Citizens of Harmony, faculty of Vumbua, and brave surviving cadets,"* Valerius's voice resonated through the speakers, dripping with polished, dramatic gravity. *"What was intended as the ultimate trial of navigation and skill became a harrowing crucible of raw survival. The unprecedented tempest that shattered the arena's protective barrier took from us seasoned captains and promising first-year cadets alike. Yet even in the teeth of catastrophe, the spirit of the Academy did not break. From the canopy wreckage to the flooded river basins, our cadets stood their ground, triaged their wounded, and proved the enduring resilience of our future."* <!-- L1021 -->
+
+A few paces from the broadcast stand, Serra Vox stood alone at the perimeter of the crowd, listening in silence. Her expression was unreadable, but as the broadcast concluded, she offered a slow, deliberate nod to herself and slipped quietly into the captains' strategy pavilion. <!-- L1021 -->
+
+Across the thinning triage rows, Aggie doubled back to find Val sitting beside Kale's cot. The heavy canvas tarps had been cleared away, leaving Val sitting alone in the grass beside his recovering friend, his head bowed. <!-- L1021 --> <!-- L1023 -->
+
+Aggie knelt down before him, her voice gentle and earnest. "Look... I'm sorry," Aggie said softly, meeting his tired, bloodshot eyes. "I don't know the right thing to say in a moment like this. And I don't know the *why* of what happened here. But I think we're going to find out why. We have a connection with our Spirit Tortoise, and it's leading us somewhere." <!-- L1021 --> <!-- L1023 -->
+
+Val looked up, his jaw tightening as he weighed her words. "You know... there's been this theory spreading through the camp that my father messed all of this up when he first discovered your clan," Val murmured, his fists resting on his knees. "Are you saying there's a chance to set that right?" <!-- L1021 --> <!-- L1023 -->
+
+"I hope so," Aggie said gently. "Whether or not that was really the cause, I hope there is a chance to set it right." <!-- L1023 -->
+
+Val turned to look down at Kale. The pale artisan looked back at him and gave a slow, firm nod, extending a hand for a solid grip. Val exhaled, the tension loosening from his shoulders as he made his choice. He stood up from the grass, extending a hand to clasp Aggie's. <!-- L1023 -->
+
+"Yeah," Val nodded, his resolve hardening. "Then I want to come. Lead the way." <!-- L1023 -->
+
+"Lead the way, turtle," Ignatius called out from across the camp, watching the giant shell glide toward the forest edge. <!-- L1024 --> <!-- L1026 -->
+
+Before they reached the boundary, a deafening thunderclap ripped across the entire basin.
+
+*BOOM! BOOM! BOOM!*
+
+A full naval broadside erupted from the massive turrets of the Ironclad battleship. The colossal artillery shells detonated in mid-air over the turquoise water, unleashing a dense, rolling thundercloud of black gunpowder smoke across the bay. A second synchronized barrage fired immediately after, igniting the smoke cloud from within with brilliant resonance pyrotechnics that painted the morning sky in vibrant streaks of crimson, gold, and turquoise. A third salvo cracked like lightning, instantly dispelling the storm cloud in a breathtaking twenty-one-gun salute as Sarge's body was committed to the deep canyon waters. <!-- L1035 --> <!-- L1037 -->
+
+Lucky stepped away from the battleship's gangway and jogged up beside Lomi on the beach, his jaw set with fierce resolve.
+
+"All right," Lucky said, rolling his shoulders. "I don't know what we're walking into, but I'm ready. Let's do this. Let's go." <!-- L1037 -->
+
+"Let's do it," Lomi smiled. <!-- L1038 -->
+
+They sprinted across the sand to where *Elijah*, Professor Ink's four-legged spider-walker, stood idling at the forest perimeter. 
+
+The entire expedition gathered at the base ladder: Britt, Iggy, Ignatius, Lomi, Aggie, Val, Pip, Bramble, Saffron, Zephyr, and Lucky—eleven companions in total. One by one, they scrambled up the iron rungs into the hull. <!-- L1040 --> <!-- L1041 -->
+
+As the lower entry hatch sealed shut with a pressurized hiss, the massive Spirit Tortoise looked up, met Aggie's eyes through the observation glass with a solemn nod, and surged forward—spinning a trail of flattened brush behind it as *Elijah*'s mechanical legs kicked into a galloping sprint, racing straight into the ancient Mizizi forest. <!-- L1040 -->
+
+<!-- LEDGER: rendered=[1008, 1009, 1010, 1014, 1015, 1016, 1017, 1020, 1021, 1023, 1024, 1026, 1035, 1037, 1038, 1040, 1041] skipped=[] -->
 
 <!-- RAW_RANGE: [1049, 1137] | SCENE_ID: 12 -->
 
 ## CHAPTER 9: THE LAB BELOW
 
-In the settling calm of the op center, Rill crossed to where Zephyr lounged near Ignatius and allowed, stiffly, that she was glad Zephyr was alive — a courtesy she clearly did not entirely feel. Then her gaze slid past to Britt, and something in her face dropped. She swore under her breath: she'd totally forgotten. She needed Britt in the lab right now — this instant, fast as she could move — and she was already sprinting for the hatch and sliding down the ladder before she finished the sentence. Everyone near enough had heard it, and could follow if they chose. <!-- L1050 -->
+Inside the humming hull of the four-legged walker *Elijah*, the machine settled into a rhythmic, lurching gallop across the savanna grasslands.
 
-Britt went after her without hesitation. Aggie followed close behind. Iggy hovered, torn — he never liked letting Zephyr out of his sight — but he saw her cross her legs and lean back for a nap, comfortable that she wasn't going anywhere, and if the whole party was headed down, then so was he. He rolled up a sleeve and made a little theatrical pass of the hand, a bit of fake voodoo in a world of real magic, a taunt more than anything, before dropping the pretense and climbing down. Ignatius trailed after them into the lab, out of place and knowing it. Lomi, meanwhile, asked whether there was a bridge on this thing; told there was a quarter-deck up top with a clear view, he peeled off to go get one.
+The main operations compartment opened into a spacious central lounge arranged around a long tactical table. Projecting from the center was an acoustic holographic display showing the vast terrain stretching between Vumbua and the distant Mizizi forest, with a plotted route cutting across the flat plains.
 
-Down in the lab, Rill ran to a heavy metal container in the corner and wrenched it open. From inside she drew a vial of glowing liquid — the very same color, Britt realized with a lurch, as the sample from the buried cache where they'd found the compass. Rill held it up. Did this look familiar? <!-- L1092 -->
+While the squad traded quick pleasantries and claimed bunks, Lomi ambled toward the iron spiral staircase leading up to the open-air observation bridge, eager to take in his very first sight of the world beyond the city walls.
 
-Britt stared at it. Yes, she said. That looked identical to whatever had caused the rash. <!-- L1093 -->
+Up in the pilot's cradle at the forward helm sat a small, sharp-featured goblin driver, his clawed hands flicking brass toggle switches with bored, practiced efficiency. Standing beside the navigation console was Professor Ink, her sharp eyes studying the distant horizon.
 
-Not good, Rill muttered, not good — sit, please, sit. She flipped out a second vial, this one neon purple, and pressed it toward Britt: she needed her to drink it immediately. Then, forcing herself steadier, she explained. She'd happened to be in the lab when the sample was brought in, and it had gutted her to recognize it — because this stuff came from where she'd come from, before she was Britt's sister, back before the exchange she still couldn't bring herself to talk about. The point, she said, was that Britt had somehow been exposed to a thing that grew only in the canyons where Rill had grown up, and it was lethal, and Rill couldn't remember how to cure it outright the way she once could. But if Britt drank this once a week, it would stall the disease — because otherwise, Britt, she said, you're going to die in about two weeks. She admitted she couldn't have managed even this without Professor Ink's help on the harmony medicine, and she knew Britt was still deciding where she drew her lines, but the longer she waited the less she'd get back of what she'd already lost, and it would not stop on its own. <!-- L1096 -->
+Lomi leaned over the brass railing with an easy mechanic's slouch. "Hey... so how hard is a beauty like this to drive?" <!-- L1050 -->
 
-Britt turned it over in her mind — that this was the exact dilemma they wrestled with as Mizizi. Something was dying. Did you stop it, or let it live out its dying, or let it die? The vision from before pressed close: the others she'd seen wasting from this same disease, all of them people who had asked questions, who had left the forest, though she could recall little else about their faces beyond that they had been a great deal like her — curious ones who, unlike them, had stayed. Before she drank, she asked Rill whether this material had ever come into contact with the Mizizi before. <!-- L1111 -->
+The goblin driver didn't even look over his shoulder. Reaching out with a clawed thumb, he slammed a red lever on the console that locked the mechanical steering on a dead-straight heading. "Hard enough that I don't... I mean, who's asking?" the goblin grunted flatly. <!-- L1050 -->
 
-Rill said she had no idea how that could even be possible; the stuff grew in exactly one part of the canyon, and no one ever went there. <!-- L1112 -->
+"Doesn't seem very hard," Lomi grinned. "Anyway, name's Lomi. Harbor mechanic. We're a crew scooped up to help out. First time out of Vumbua, so I just thought I'd come up and take in the surroundings. It's beautiful out here." <!-- L1050 -->
 
-Britt pressed. She thought she carried memories of people struggling with this very thing — not the substance itself, she clarified, but the condition. <!-- L1115 -->
+The goblin rolled his eyes, turning back to his dials. "Buzz off, man." <!-- L1050 -->
 
-That, Rill said, should not be possible either — that it could have appeared in the forest, that Rill herself hadn't been there when any of those afflicted showed symptoms. It was strange, deeply strange, and it should not be. Why would it be there at all? Why did it do the same thing to Britt that it did to the canyon-folk? Britt asked where it came from — whether it had been created, or merely gathered. It didn't come from anywhere, Rill said; it just grew. Then she rose, crossed the room, and quietly shut the door — leaving only Iggy, Aggie, Britt, and Rill, the four who had followed her down. Ignatius stood among them feeling the awkwardness of it, murmuring that he'd been so close for so long that it was hard to talk about being from a clan the exchange had scrubbed out of him; the indoctrination, he confessed, was something he was still overcoming. <!-- L1116 -->
+Lomi laughed softly, leaning against the rail to watch the green savanna unspool beneath *Elijah*'s galloping stride.
+
+Down in the operations lounge below, Rill stepped over to where Zephyr was lounging across a cushioned bench near Ignatius, offering a stiff, reserved nod. "I'm glad you're alive," Rill muttered politely. <!-- L1050 -->
+
+Then Rill's gaze shifted to Britt, and the color instantly drained from her face. She gasped, slapping both hands against her cheeks. 
+
+"Oh gods... I completely forgot!" Rill exclaimed in sudden panic. She lunged forward, grabbing Britt's forearm with urgent force. "Britt, I need you down in the lower laboratory right now! This very second—fast as you can move!" <!-- L1050 -->
+
+Without waiting for a response, Rill sprinted across the deck, threw back the heavy floor hatch, and slid down the ladder rungs like water down a conduit pipe. <!-- L1050 -->
+
+"What's going on?" Britt asked, scrambling to follow.
+
+Zephyr stretched out on the cushioned bench, crossing her boots and pulling her collar up. "No chance," Zephyr scoffed, shutting her eyes. "Labs are the absolute worst place to go. You go down there and it's seventeen days before you ever see daylight again." <!-- L1050 -->
+
+Iggy hovered by the open hatch, his oversized copper goggles fixed in a narrow, suspicious squint upon Zephyr. Seeing that she was genuinely drifting off to sleep, Iggy rolled up his sleeve and made a dramatic, theatrical warding gesture with his soil-stained fingers—a cheeky half-hex to keep her pinned to the bench—before dropping through the hatch after the squad. Ignatius hurried down last, feeling distinctly out of place among the research equipment. <!-- L1050 -->
+
+Down in the lower laboratory, Rill rushed to a heavy, reinforced containment safe mounted in the corner. She spun the combination dials, threw back the steel latch, and retrieved a small glass vial filled with a luminous, swirling neon liquid.
+
+The glowing fluid inside was the exact iridescent hue as the mysterious substance Britt had discovered in the buried cache where they had recovered the compass.
+
+Rill turned around, holding the vial up to the light. "Britt... does this liquid look familiar to you?" <!-- L1092 -->
+
+Britt stared at the shimmering contents, her pulse spiking. "Yeah," Britt said grimly. "That looks identical to the substance that caused the fungal rash spreading on my shoulder." <!-- L1093 -->
+
+"Not good," Rill muttered, her voice trembling as she gestured frantically toward an examination stool. "Not good at all! Sit down, please—sit down right now!" <!-- L1096 -->
+
+Rill reached into her medical kit and pulled out a second glass vial, this one filled with a dense, shimmering neon-purple tonic. She shoved it into Britt's hands.
+
+"Drink this immediately," Rill commanded urgently. <!-- L1096 -->
+
+"What is this?" Britt asked, looking down at the purple draught.
+
+Rill took a deep, shaky breath, leaning against the lab counter. "I was in Professor Ink's laboratory when the field sample was brought in from the ruins. It completely gutted me to recognize it... because this substance comes from the canyon territory where I was raised. Back before the clan exchange that I still can't talk about." <!-- L1096 -->
+
+Rill pointed at the glowing vial, her eyes wide with terror. "You were exposed to a lethal biological agent that grows in only one isolated canyon gorge. It has no known permanent cure. But if you drink this stabilizing tonic once every seven days, it halts the cellular degradation. Because if you don't drink this, Britt... you are going to die in about two weeks." <!-- L1096 -->
+
+Britt stared down at the vial, the weight of the diagnosis pressing heavily into her chest. The memory of the ancient vision echoed in her mind—she had seen others suffering from this same wasting illness in the memories of the old world, people who had asked dangerous questions and left the forest canopy.
+
+"Has this substance ever come into contact with the Mizizi clan before?" Britt asked carefully. <!-- L1111 -->
+
+"That should be impossible," Rill answered, shaking her head vigorously. "It grows in only one forbidden canyon sector, and no one ever goes there!" <!-- L1112 -->
+
+"I think I carry memories of our people struggling with this exact condition," Britt pressed, her green eyes boring into Rill's. "Not necessarily the liquid itself, but the illness it causes." <!-- L1115 -->
+
+Rill stared at her, baffled. "That makes no sense at all. It shouldn't be inside the Mizizi forest. Why would it be here? Why would it do the exact same thing to you that it does to the canyon folk?!" <!-- L1116 -->
+
+"Where does it come from?" Britt asked. "Was it manufactured, or does it grow naturally?"
+
+"It isn't manufactured," Rill whispered. "It just grows."
+
+Rill stepped over to the laboratory door, slid the heavy iron deadbolt shut, and turned to face the room. Only the four of them remained inside: Rill, Britt, Aggie, and Iggy, with Ignatius standing quietly near the ladder rungs. 
+
+Ignatius shifted uncomfortably, his cuffs flickering with low embers. "I know how hard it is to talk about clans that the exchange scrubbed out of our heads," Ignatius murmured softly. "The indoctrination is something I'm still trying to overcome every single day." <!-- L1116 -->
 
 <!-- LEDGER: rendered=[1050, 1092, 1093, 1096, 1111, 1112, 1115, 1116] skipped=[] -->
 
@@ -361,127 +651,275 @@ That, Rill said, should not be possible either — that it could have appeared i
 
 ## CHAPTER 10: WADI WATER
 
-Rill drew a breath and tried to be as honest as she could. She was from a clan they called the Wadi, she said, who lived in a canyon. Their spark — the thing that made them what they were — was a source of water that, her whole life, had been nothing but drips and trickles. Then, in the last few years, it had begun to surge and rise again, filling channels their people had always known were meant to hold it, until they'd had to rebuild the very houses they'd let crumble. <!-- L1138 -->
+In the quiet of the locked laboratory, Rill leaned back against the steel door, wrapping her arms tightly around herself.
 
-Ignatius leaned in, struck by it. That was like the fire, he said — the fire and heat of ash-blood, the thing that made his own people what they were. Rill nodded; it was nearly the same, almost exact. Only hers had run so dry her clan had believed they were dying out, watching their whole civilization slide toward going under. She'd left before she learned whether any of her family survived, because she'd had to go for the exchange. But there had been a cave, one of the only places that stayed moist through the worst of the seasons, and that was where this poison grew — and as far as she knew, unless that particular water touched it, it grew nowhere else on the whole of the earth. So for Britt to have seen the symptoms in the forest, the only thing Rill could imagine was that something in the Mizizi's own lore, from the before-times, might explain it.
+"I've been keeping this inside for so long," Rill confessed softly, looking between Britt, Aggie, and Iggy. "It's just so hard to talk about where I came from... the clan exchange scrubbed so much out of us, and I'm still trying to overcome that indoctrination every day. But I want to be honest with you." <!-- L1138 -->
 
-The old turtles, Ignatius offered. Maybe, Rill allowed. She knew a little about the turtles, though the clan hadn't trusted her with much — you didn't hand your deepest secrets to a stranger you'd only just taken in. She had done the network once, though, and it had terrified her. When Ignatius said that was how his own people had survived — the branching trees, the roots, that was what had kept them alive in the forest — Rill said that sounded exactly like the sort of thing the Mizizi were always going on about, talking to trees. It wasn't quite that, she explained: there was the fungal network, which spoke to the trees and the plants but had no soul, and there was the mycelium network, which let them travel. They sounded the same and they were not, and the two of them agreed to sit down and untangle it properly some other time.
+She took a deep breath, her electric-blue hair falling across her brow. "I'm originally from a clan that called themselves the Wadi. We lived in the deep western canyon. Our ancestral spark—the thing that made our people special—was a sacred source of water. But for my entire childhood, the spring was dead. Just a few dry drips and trickles. We thought our entire civilization was dying out." <!-- L1138 -->
 
-Because the point, Rill said, coming back to it — the point, Britt — was that she was as certain as she could possibly be that this was the same substance. There were tests; she flipped through charts and tables and pulled out fistfuls of herbs, and she pointed to a row of small mice that had decayed with rapid, identical symptoms. She didn't love the animal testing, she admitted, but she'd been terrified when she heard it was Britt. Death was death, she supposed — she was still learning that part too — but she needed Britt to trust her.
+Ignatius stepped closer, his eyes wide with recognition. "That's just like the Ash-Blood clan," Ignatius whispered. "Our magma springs went cold... we thought our whole people were going to go under." <!-- L1140 --> <!-- L1153 -->
 
-So this wasn't natural, Britt said slowly. This had been introduced somewhere other than Rill's canyon. It should be impossible for it to live anywhere else, Rill said — maybe the forest would teach them something, maybe the elders knew, maybe Agatha knew. But the truly frightening part was that Britt hadn't fallen ill in the forest at all. She'd gotten sick after they reached Harmony, down a hill by a drainpipe, and when Rill saw the ten-year-old compass from the buried cache on the cliff she called it weird, impossible, and asked who else had ever carried this disease. A few of their clan, Britt said, adventurers, many years ago. How many? Rill pressed. About ten. That was the thing that turned Rill cold: they had died of a poison that grew in one spot and one spot only, and they had been exactly the kind of people who would leave the forest and ask questions.
+"Yes," Rill nodded, her voice thick with emotion. "It was the exact same thing. When I was chosen for the exchange, I left not even knowing if my family would survive. But in our canyon, there was a deep, hidden cave—one of the only places that stayed damp through the worst droughts. And that cave was where this glowing fungus grew. Unless that specific canyon water touched it, it grew nowhere else in the known world. So for you to say that you've seen people suffering from these symptoms in the Mizizi forest... the only explanation is that something connected our lands in the ancient before-times." <!-- L1147 --> <!-- L1150 -->
 
-Ignatius, unable to hold it any longer, leaned over. Wasn't dying supposed to be a good thing in Britt's community? <!-- L1218 -->
+"The old turtles," Ignatius suggested. "The ancient network." <!-- L1153 -->
 
-Not the time, Rill snapped — they were on a mystery hunt. But Ignatius pushed on: his own people had been dying out, had met with Harmony, and suddenly the magma and heat came surging back; now here was a society that revered death, connecting with Harmony, and finding more death in its midst. He didn't know if there was a link, but it nagged at him. They did not worship death, Rill corrected sharply. They acknowledged that death was the one inevitable truth, and that there had to be a necessary balance between life and death — you could not simply prevent it. <!-- L1225 -->
+"Maybe," Rill murmured. "I was never trusted with the deepest clan secrets because I was new. But I traveled through the mycelium network once... and it was terrifying." <!-- L1154 -->
 
-Ignatius agreed with her, in his roundabout way — perhaps maintaining balance had in fact thrown their balance off, perhaps Harmony had tipped it — but what he kept circling back to was the timeline. Did the sickness begin when they connected with Harmony, or before? The water didn't kill them, Rill insisted; the water was their life, their soul. Right, said Ignatius — so the water was rising, and people were falling ill, and were the two timelines aligned? Not for the Wadi, Rill said flatly. They didn't touch the stuff. They knew it was bad, radioactive, cursed; she hadn't even known it could exist anywhere but that cave. But here, she said, was what they did know: the last time this happened, the Mizizi said it was ten years ago — far before anyone had heard of Harmony, before Britt's clan was ever discovered by Vane, and long before the papermen came to the Mizizi. <!-- L1243 -->
+"That's how we survived the arena storm!" Ignatius said proudly. "Thanks to Britt and Aggie speaking to the roots, we didn't die in the forest." <!-- L1158 --> <!-- L1160 -->
 
-So there was another variable, Ignatius concluded, an unknown one, in play. Something like that, Rill said. She didn't have all the answers. But she knew Britt would die if she didn't drink this.
+Rill smiled faintly, then shook her head. "Talking to trees is different. There's the fungal network, which speaks to the living flora, and then there's the deep mycelium network, which carries the soul and allows physical travel across the earth. They sound identical, but they operate on completely different resonance." <!-- L1173 --> <!-- L1176 -->
 
-Ignatius turned to her. Hey, Britt. Hear him out. Drink that. <!-- L1250 -->
+Rill turned back to the lab counter, flipping through stacks of parchment charts and botanical sketches. She pointed to a glass terrarium holding three small field mice, each showing the same distinct grey fungal decay along their spines.
 
-Britt was torn — this cut straight to everything they'd just been wrestling with, the ethics of intervening in the natural cycle. Her questioning, she said, was really an attempt to understand: this was an interruption to the natural path. This wasn't supposed to be. No, Ignatius answered, catching the thread — this was not an interruption. This was him trying to tell her that the water was natural, that the medicine was part of the natural path, so that she might live on and help save her people. She was a valued member of this party, he said, and they needed her for whatever came next; nobody here wanted to watch her die, and he genuinely did not believe it was her time yet. <!-- L1261 -->
+"I don't love animal testing," Rill admitted quietly, "but when I realized what was happening to you, Britt, I panicked. I worked with Professor Ink using Harmony compounds to synthesize this stabilizer. This isn't natural to the forest. Someone brought it here." <!-- L1180 --> <!-- L1200 -->
 
-That wasn't for him to decide, Britt said. You're right, Ignatius conceded — it's for you to decide. And it was on those words, that it was hers to decide, that Britt nodded and drank it down. <!-- L1264 -->
+Britt crossed her arms, her jaw tightening. "This substance wasn't found in the deep woods. I was infected right after we arrived in Harmony, down in a drainage ditch near the cliffside where we found an old cache containing a ten-year-old compass." <!-- L1205 -->
 
-It wasn't instant. The neon purple went down without much taste at all — Rill said it was pretty much like Gatorade, and Britt, swallowing, agreed: Gatorade. Across the little lab, Rill sagged against the door frame in pure relief, whispering thanks to God, then to the water, before she straightened. Okay, she said. Now — new problems.
+Rill went rigid. "A ten-year-old cache?! Has anyone else in your clan ever died from this condition?" <!-- L1210 -->
 
-<!-- LEDGER: rendered=[1138, 1218, 1225, 1243, 1250, 1261, 1264] skipped=[] -->
+"Yes," Britt answered. "In our ancestral records... about ten people. Adventurers who left the forest to explore the outer world." <!-- L1212 -->
+
+A chill settled over the room. "Ten people," Rill whispered. "All curious wanderers who left the forest... dying of a poison that exists in only one isolated canyon gorge." <!-- L1215 -->
+
+Ignatius looked between them, scratching his head. "Wait... isn't dying supposed to be considered a natural, good thing in your clan philosophy?" <!-- L1218 -->
+
+"Ignatius, read the room!" Rill hissed. "We are on an active investigation!" <!-- L1220 -->
+
+"No, think about it!" Ignatius insisted, stepping forward. "My people were dying out, then we connected with Harmony, and suddenly our magma erupted with life! Your clan revered death and balance, and now that you've connected with Harmony, you're finding more death and disease! Doesn't the timeline seem suspicious?" <!-- L1222 --> <!-- L1225 -->
+
+"We do not worship death," Rill corrected fiercely. "We acknowledge that death is an inevitable truth of the world, and that balance between growth and decay must be respected. But the last time this illness appeared among the Mizizi was ten years ago—long before Captain Vane ever discovered your valley, and long before the Harmony cartographers arrived!" <!-- L1225 --> <!-- L1243 -->
+
+"Which means there is a third, unknown variable at play," Ignatius concluded. <!-- L1245 -->
+
+"Exactly," Rill said. She picked up the neon-purple vial, pressing it gently into Britt's hands. "I don't have all the answers yet, Britt. But I know for a fact that if you don't drink this, you won't survive the fortnight." <!-- L1248 -->
+
+Britt hesitated, staring down at the swirling tonic. "Intervening like this... it feels like interrupting the natural path. Is this supposed to happen?" <!-- L1250 -->
+
+Ignatius placed a warm, steady hand on Britt's shoulder, his voice dropping to a sincere, earnest cadence. 
+
+"Britt, hear me out," Ignatius said gently. "This isn't an interruption of nature. This medicine was made from natural waters, synthesized so that you can stay alive and save your people. You are a core part of this squad. We need you for whatever is coming next. Nobody in this room wants to watch you die—and I genuinely do not believe it is your time to go." <!-- L1250 --> <!-- L1261 -->
+
+Britt looked up, meeting Ignatius's warm, fiery eyes, then glanced at Aggie and Iggy's supportive faces. "That's not for you to decide," Britt murmured softly.
+
+"You're right," Ignatius smiled warmly. "It's for you to decide." <!-- L1264 -->
+
+Britt nodded. Without another word, she popped the cork, tipped the glass vial back, and drank the shimmering purple tonic in a single long gulp. <!-- L1264 -->
+
+Rill held her breath, leaning forward. "How does it taste?"
+
+Britt smacked her lips, blinking in surprise. "It... honestly tastes like Gatorade." <!-- L1268 -->
+
+"Gatorade!" Rill laughed with overwhelming relief, slumping against the counter. "Thank the gods. Thank the water." She wiped a bead of sweat from her forehead and smiled. "Okay. Now... onto the next problem." <!-- L1270 -->
+
+<!-- LEDGER: rendered=[1138, 1140, 1147, 1150, 1153, 1154, 1158, 1160, 1173, 1176, 1180, 1200, 1205, 1210, 1212, 1215, 1218, 1220, 1222, 1225, 1243, 1245, 1248, 1250, 1261, 1264, 1268, 1270] skipped=[] -->
 
 <!-- RAW_RANGE: [1283, 1412] | SCENE_ID: 14 -->
 
 ## CHAPTER 11: THE HEARTBEAT IN THE GRASS
 
-The bridge of the walker sat high in a shell of bamboo and brass, and from that perch the world had been reduced to a single unbroken sweep of grassland. Lomi hauled himself up the last of the ladder and stood a moment, letting his eyes adjust. Far off, thinned by distance, the dark line of the forest smudged the horizon — eighty miles, maybe, and only the first third of where they were bound. The rest lay beyond it, deeper, where the trees closed like teeth. The pilot was a small goblinish creature wedged into a cradle of a seat, hands loose on the controls, and Professor Ink stood behind him with the calm of someone who had spent her life watching things she did not yet understand.
+High atop the walker *Elijah*, the open-air observation bridge was constructed from polished bamboo struts, brass instrumentation, and reinforced panoramic glass. From this elevated perch, the world unfolded into an endless, emerald expanse of rolling savanna plains.
 
-Lomi watched the plain instead. Something moved through it — a thin arrow of disturbance cutting the grass, wind that wasn't wind, and every so often the wet gleam of bark surfacing and vanishing again. The turtle. He filed it away and ambled toward the pilot with the easy slouch of a man making conversation. How hard, he asked, was a thing like this to drive? The goblin didn't so much as turn his head; he reached over, thumbed a button that locked the walker onto a dead-straight course, and told Lomi to buzz off. <!-- L1290 -->
+Far to the south, smudged against the pale morning horizon, the dark, colossal wall of the ancient Mizizi forest stretched for eighty miles—only the outer perimeter of their true destination.
 
-Fine. Lomi leaned against the dash instead and introduced himself — Lomi, part of a crew scooped up to help on the journey, first time out of Vumbua, just wanting to take in the view. It really was beautiful up here. While he talked, his eyes drifted to the projected map glowing over the console: the heading laid out clean, the terrain flat and featureless, no valleys, no peaks to dodge. And there, threaded through it, that same jagged wandering line — the tortoise, running a degree or two off the walker's true course, snapping back onto it and drifting away again like the twitch of a pulse. He nudged the pilot, low. Did he see that? Did he see what the turtle was doing? <!-- L1310 -->
+Wedged into a mechanical pilot's cradle at the forward helm sat a small, sharp-featured goblin driver, his clawed hands flicking brass toggle switches with bored, practiced efficiency. Standing behind him with hands clasped behind her back was Professor Ink, her sharp gaze fixed calmly on the distant savanna.
 
-The pilot couldn't even see over the dash, and he wasn't inclined to try. He just followed the arrow, he said flatly, and left it at that. <!-- L1313 -->
+Lomi looked out over the open plains. Ahead in the tall grass, a narrow, razor-sharp wake parted the green blades like a miniature bow wave—an arrow of disturbance knifing straight across the savanna. Every few seconds, the dark, glistening ridge of a massive shell surfaced before submerging beneath the grass.
 
-So Lomi turned to the professor, because she was the one worth asking. She was already looking at him, curious, when he pointed at the map and asked whether that little stutter in the line was a glitch — some hiccup in the projection. Just watch it a second, he told her. <!-- L1316 -->
+While he watched, Lomi studied the glowing acoustic holographic map projecting above the dashboard. The primary heading was plotted in crisp gold light across flat terrain. But threaded along the route was a subtle, pulsing teal line that darted slightly off-axis—the Spirit Tortoise, running a degree or two off the walker's path, twitching and snapping back like a jagged heartbeat on a cardiogram. <!-- L1283 --> <!-- L1300 -->
 
-It wasn't the map, she said, leaning in. It was the turtle itself, out there in the grass. He asked if it was dodging something they ought to be worried about, and the moment he named the thing aloud — the magic turtle — she went still. *What did you just say?* She had had this conversation before, she was certain of it. Lomi told her, gently, that this was the second time it had happened to him, too; the moment your eyes left the creature, the knowledge of it slid straight out of your head. Fascinating, she breathed, and jabbed a finger at the line on the map — that, she said, was a turtle running flat-out through the grass, and the instant she looked away she would forget it existed. It's a magic turtle, Lomi offered with a shrug; probably par for the course. She agreed, delighted and unsettled in equal measure, and it was she who caught the discrepancy first: off by two degrees. Why? <!-- L1321 -->
+Lomi leaned over the console, tapping the display and nudging the goblin pilot. "Hey... do you see that? Do you see what the turtle is doing on that acoustic track?" <!-- L1310 -->
 
-That was the question, Lomi said. Keep looking at it, he coached her — keep your eyes on the turtle — and watch, it's about to snap back. It did. She startled at the correction, demanding whether he'd told it to do that, and he swore he hadn't; he only wanted to be sure they weren't meant to be tracking it exactly, that they weren't about to blow a tire chasing every twitch. The professor's face changed. That heading, she said, ran toward the center of the forest — not to the clans, not to where the Mizi lived. Lomi straightened. Then they needed to adjust the heading. <!-- L1366 -->
+The goblin squinted over the high brass dashboard, grimacing. "I can't see over the damn dash, and I don't care to try," the goblin grunted. "I just follow the gold arrow, dude. That's my job." <!-- L1313 -->
 
-She hesitated — a big ask, coming from a stranger who'd climbed onto her bridge to talk about magic turtles in the grass. Lomi let a grin slide onto his face and asked her, cheerfully, whether she was feeling lucky. He'd had to adjust course, he said. She wavered, then made the call: two degrees. The pilot bristled — *you're going to listen to this guy?* — but she gave the order anyway, and the goblin cycled the controls until the walker's heading swung over and locked flush with the turtle's line, then held dead straight. She scratched a few notes into her book and told Lomi, carefully, that she was about to look away from it now; give her a minute, and then ask her why they'd changed direction. <!-- L1377 -->
+"Yeah, I hear you," Lomi chuckled. He turned to Professor Ink, who was watching him with keen, analytical curiosity. "Professor... did you see that? Is that a glitch in the map or something? Just watch it for a second. Is it dodging something we need to be watching out for, or what's going on?" <!-- L1316 --> <!-- L1318 -->
 
-Should he be upset about it, Lomi asked, playing along — pretend she'd done something wrong? No, she said. Just tell her to look at her notes. Then she turned her face to the wall and stared at nothing for thirty seconds, forty, until she blinked and glanced around with a small apologetic frown. *Sorry — Lomi, you were up here asking where we're headed.* He didn't miss a beat. Doc, he said, we're off path. What are you doing? <!-- L1387 -->
+Professor Ink leaned over the navigation console, her dark eyes narrowing as she studied the horizon. "That is not a projection glitch. That is the turtle in the grass." <!-- L1319 -->
 
-She looked stricken, then indignant. She hadn't done anything — *he* had told her to change direction, two degrees, and so had he, doc, and she — she couldn't say why, only that she'd written it down and trusted it. The gap in her own memory yawned open in front of her, and Lomi watched her fight not to fall into it. <!-- L1392 -->
+"Did the magic turtle—" Lomi began. <!-- L1320 -->
 
-Check your notes, he told her. Make sure you didn't mess something up. <!-- L1395 -->
+Professor Ink went utterly rigid. She whipped around, staring at Lomi with wide, analytical eyes. "Wait. What did you just say?" <!-- L1321 -->
 
-She read her own frantic handwriting back, mouth tightening, and then — without lifting her eyes toward the windows, without daring to look at the grass — she asked the real question. Lomi, could anyone else on this craft see the turtle? Yes, he said. At least seven of them, by his count. Good, she said, and made her decision: a shift, always one of them up here on the bridge, eyes on the creature so the heading never drifted again. She'd arrange it herself. And with that she was already moving for the ladder, descending toward the open door of the lab barge below. <!-- L1397 -->
+"I was talking about the magic turtle," Lomi replied calmly. <!-- L1321 -->
 
-<!-- LEDGER: rendered=[1290, 1310, 1313, 1316, 1321, 1366, 1377, 1387, 1392, 1395, 1397] skipped=[] -->
+"I have heard about this twice now..." Ink murmured, her voice tightening with sudden realization as the pieces aligned in her mind. "Rill was frantically rambling about a sacred turtle down in the laboratory earlier, but every time I tried to record the observation, the memory slipped away like water through fingers. We have had people talking about this before!" <!-- L1321 -->
+
+"Yes," Lomi nodded with a wry smile. "This is the second time I've had to explain this phenomenon today, too." <!-- L1321 -->
+
+"Interesting..." Ink murmured, her eyes darting back to the plains. She gestured excitedly toward the parting grass. "Tell me what you are seeing! This line here in the grass... it's a turtle running at... it is an absurdly fast turtle! But how did you—I think if I look away from it, I will forget about it!" <!-- L1321 --> <!-- L1325 -->
+
+"I mean, it's a magic turtle," Lomi chuckled, leaning against the brass rail. "So it's probably pretty stubborn. Keep looking at it, Professor. Keep your eyes locked on the wake in the grass." <!-- L1325 --> <!-- L1328 -->
+
+"It is off by two degrees," Ink noted sharply, her analytical mind seizing on the discrepancy. "Why?" <!-- L1328 -->
+
+"That's the question," Lomi smiled. "And it's about to snap back. Just wait." <!-- L1328 -->
+
+Ahead in the grass, the green wake twitched and snapped abruptly back to the south-southwest vector.
+
+Ink gasped softly. "What was that? Why did it do that? Did you tell it to do that?" <!-- L1366 -->
+
+"No, I didn't," Lomi answered, shaking his head. "I just wanted to make sure we weren't supposed to be following it exactly so we don't blow out our suspension or get a flat tire. But look at where that heading points—that doesn't lead to the standard Mizizi trade villages. That line points straight into the uncharted heart of the old growth." <!-- L1366 -->
+
+"That is to a different part of the forest," Ink murmured in rising wonder. "That is to the center. That is not where the clans live." <!-- L1366 -->
+
+"I think we need to adjust our heading," Lomi said firmly. <!-- L1366 -->
+
+"A big ask from a harbor mechanic," Ink challenged, raising an eyebrow. <!-- L1377 -->
+
+Lomi flashed a confident grin. "Hey... let me ask you something, Professor. Are you feeling lucky?" <!-- L1377 -->
+
+Professor Ink turned to the helm. "Adjust heading. Two degrees south-southwest." <!-- L1377 -->
+
+The goblin pilot turned around in his chair, glaring in complete disbelief. "Are you seriously going to listen to this guy?!" the goblin shouted. "He just walked up here and started talking about a magic turtle running through the grass!" <!-- L1377 -->
+
+"Set two degrees," Professor Ink commanded crisply. "Lock the heading." <!-- L1377 -->
+
+"All right, all right, all right!" the goblin grumbled, throwing his hands up. He cycled the steering levers on the right console, swinging *Elijah*'s galloping stride two degrees to port until the walker's path aligned dead straight with the tortoise's wake. <!-- L1377 -->
+
+Professor Ink pulled a small leather logbook from her vest, furiously scribbling notes. "Lomi... I am about to look away from the savanna. Give me forty seconds, and then ask me why we altered course." <!-- L1377 -->
+
+"Should I act upset?" Lomi asked with a chuckle. "Like you made a mistake?" <!-- L1387 -->
+
+"No," Ink said seriously. "Just tell me to look at my notes." <!-- L1387 -->
+
+Professor Ink turned her back to the panoramic windows, staring fixedly at the blank mahogany bulkhead. Thirty seconds ticked by in dead silence. Forty seconds. 
+
+Ink blinked, shook her head slightly, and turned back to Lomi with a polite, puzzled smile. "I'm sorry, Lomi... you came up here asking about where we're headed?" <!-- L1387 -->
+
+Lomi didn't miss a beat. "Yeah, Doc," Lomi groaned dramatically. "We're off path! What are you doing?" <!-- L1387 --> <!-- L1392 -->
+
+The goblin driver immediately swung around, barking defensively: "Hey, no, man! You just told me to change directions! I don't know why, but you told me to go two degrees, and so did the doc!" <!-- L1392 -->
+
+Professor Ink blinked in genuine confusion, looking between the console and the pilot. "What do you mean?" <!-- L1392 -->
+
+"Check your notes, Professor," Lomi told her gently. "Make sure you didn't mess something up." <!-- L1395 -->
+
+Ink opened her notebook, her eyes widening as she read her own frantic handwriting across the page: *Don't look away from the grass. The cadets can see the turtle. Follow the turtle.* <!-- L1395 -->
+
+A long, shuddering breath escaped her lips. She snapped the book shut, keeping her gaze strictly averted from the windows. "Lomi... can anyone else aboard this craft see this turtle?" <!-- L1397 -->
+
+"Yes," Lomi answered. "There's at least seven of us on the crew who can see it." <!-- L1397 -->
+
+"Establish a watch rotation immediately," Professor Ink ordered with sharp scientific urgency. "One of you must be stationed on this bridge at all times, keeping your eyes locked on the wake so our heading never drifts." She moved toward the iron ladder hatch. "I will inform the others below." <!-- L1397 -->
+
+"Noted," Lomi smiled, leaning back against the brass rail. "We had too many people for the bunks anyway, so one of us was going to have to pull night watch." <!-- L1397 -->
+
+Professor Ink climbed down the ladder rungs and pushed open the lower laboratory door, looking around at the gathered squad. "What is happening here? Did you give Britt the medicine yet? Is she cured?" <!-- L1397 -->
+
+"Not cured," Britt answered from the examination stool, setting down the empty purple vial with a faint grimace. "Delayed." <!-- L1397 -->
+
+"That's good," Professor Ink nodded, adjusting her spectacles. "Your friends can see turtles. You can see turtles. But the rest of the world forgets them." <!-- L1397 -->
+
+<!-- LEDGER: rendered=[1283, 1300, 1310, 1313, 1316, 1318, 1319, 1320, 1321, 1325, 1328, 1366, 1377, 1387, 1392, 1395, 1397] skipped=[] -->
 
 <!-- RAW_RANGE: [1413, 1530] | SCENE_ID: 15 -->
 
-Professor Ink came down the ladder into the lab barge already talking, half to herself and half to the room. She needed — she stopped, taking in the scene, then rounded on the nearest question that mattered. Had they given Britt the medicine yet? Was she cured? Not cured, someone said. Delayed. Delayed was good, the professor decided, and let out a breath. <!-- L1413 -->
+## CHAPTER 12: THE FORGETFULNESS & THE CLANS
 
-Then she came to it in a rush, the shape of the thing turning over in her mind: their friend could see the turtles, they could all see the turtles — *we are turtles*, she said, mangling it in her excitement, but the point held. Everyone could see the creature. What no one could do was hold onto the memory of having seen it. She could keep her head straight in here, in the lab, where the grass was out of sight — but out there, the moment your eyes left it, the turtle simply erased itself from you. <!-- L1418 -->
+Professor Ink dropped down the ladder into the lower laboratory barge, her mind racing faster than her feet could move.
 
-Ignatius planted himself in the middle of it. Hold on, he said. Hold on. Were they honestly the only ones who could see the damned turtle? <!-- L1420 -->
+"Did Britt receive the stabilizer?" Ink asked immediately, scanning the room. "Is she cured?" <!-- L1413 -->
 
-Not the only ones, the professor corrected. For some reason everyone could see it — that wasn't the trick. The trick was that seeing it made you forget you had. Britt murmured the same thing under her breath, arriving at it in the same instant: it makes them forget. <!-- L1425 -->
+"Not cured," Rill answered from the counter. "The progression has been delayed." <!-- L1413 -->
 
-Ignatius, undeterred, swept a look around the barge. Raise your hand, he announced, if you remember the turtle. <!-- L1428 -->
+"Delayed is good," Professor Ink breathed, steadying herself. She turned to the squad, her eyes shining with manic scientific excitement. "We have established an unprecedented cognitive phenomenon. Every person in this room can see the Spirit Tortoise—what no one outside our party can do is retain the memory of having seen it! Out in the savanna, the moment your gaze leaves the creature, the entity completely erases its existence from your mind!" <!-- L1418 -->
 
-They all did — all of them but Rill, who managed only a lopsided, groping *I remember talking about turtles, I think, sort of* before her certainty dissolved. The professor herself worried at the edge of it: in the lab she could nearly hold the thread, but only nearly, a memory that came apart the moment she gripped it. She hated it, she admitted — hated when her own mind was tampered with — and then, to steady herself, she pulled a scrap of paper from her coat and held it up. Across it, in a frantic scratching hand, she had written her instructions to her future forgetful self: *Don't look at turtle. Cadets can see turtle. Follow turtle.* She had meant, she said, to march them through the heart of the Mizi village, to sit with the elders and learn why they could no longer synchronize with the clan through the nodes the way Harmony connected to everyone else. But something in her insisted they trust the turtle instead — the fate of an empire riding on a walking shell, and it made no sense, and it felt right anyway. So. Any theories? <!-- L1443 -->
+Ignatius stepped into the center of the lab, holding up both hands. "Hold on, hold on. Are you saying we're the only ones in the entire empire who can actually remember the damn turtle?!" <!-- L1420 -->
 
-Britt stepped in and gave her the history — the way the Mizi lived alongside the turtles, the long custom of leaving them be, the careful distance kept for generations. And yet this one had approached *them*, had chosen them. That reversal was the whole point, she said: it felt like a creature they were meant to follow at all costs. <!-- L1444 -->
+"Not the only ones who can see it," Ink clarified. "Anyone can see it when looking directly at it. The trick is that breaking visual contact erases the memory from the observer's mind." <!-- L1425 -->
 
-The professor pressed, gentle but relentless. Could Britt tell her more precisely how one was *supposed* to interact with the turtles — was there a rule, a law? <!-- L1450 -->
+"It makes people forget," Britt whispered, her eyes wide as the ancient lore pieces aligned. <!-- L1425 -->
 
-Not a law, Britt said. It wasn't like that. It was a social norm. And when the professor asked her to name it, she did: leave them be. Don't look at them, don't touch them, don't do anything at all. And you looked, the professor observed. Anything else? You touched it, too. <!-- L1455 -->
+Ignatius looked around the room. "Raise your hand if you remember the turtle right now." <!-- L1428 -->
 
-Well, Britt said — it had looked at *them* first. The professor conceded the point, then caught herself with a wry, unsettled laugh: it hadn't looked at *her* yet, she said, and she suspected she was already inventing memories of the creature she didn't actually have. But it had looked at them, hadn't it — and at a few others in the party. It had *wanted* certain people to come along. Which ones, she asked. Point them out. Britt pointed: Pip, and Bramble — the turtle had stopped in its tracks when the two of them started to peel away from the group. Lomi echoed the names. Was it Pip, or Bramble, or both? Both had stopped, Britt said, both had turned to go a different way. The professor nodded — it had been unclear which of the two it was signaling, but it had unmistakably looked at Zephyr as well. Lomi noted, dryly, that it seemed to be pointing at *himself* too. It was everybody, really, Britt said. It was her. <!-- L1466 -->
+Every hand in the room went up—except Rill's, who wavered awkwardly. "I remember talking about turtles... sort of," Rill muttered, her brow furrowing in frustration. "Like a dream slipping away." <!-- L1443 -->
 
-The professor didn't know what to make of any of it. But she circled back to the thing Professor Conte had proposed over the speaking stone — that the reason Harmony couldn't connect to the Mizi was something the Mizi had, for some buried reason, been *told not to do*. To an outsider like her, she said, it looked simple: they had broken their own social norm, and breaking it had changed the way things were supposed to unfold. Was that true? Britt said yes. And was there anything else, the professor asked, that had happened when they touched it? <!-- L1489 -->
+Professor Ink held up her leather notepad. "I had originally planned to navigate *Elijah* straight to the central Mizizi trade canopy to consult your clan elders regarding the node synchronization failure. But every instinct demands we follow this tortoise instead. Britt... what does your clan lore say about these entities?" <!-- L1443 -->
 
-Their friend had been trapped inside it, Britt said — and, catching Lomi's eye across the barge, she told the rest, too: the memories they'd seen of people who'd broken the norms and died, the memories they themselves had somehow forgotten and only now recovered. The professor absorbed it all, then set it aside for later thought. If there was anything else, she told them, they should tell Rill, or her, or call Professor Kante — he liked biscuits, apparently; was that normal? So much they didn't know. She was already drifting toward the door when she pivoted back with one more question. Did they know any of the other clans? As far as she could tell they had Britt, and Zephyr, and Iggy — were there others? Rill couldn't remember. Could Lomi? <!-- L1520 -->
+"Our people live alongside the tortoises," Britt explained softly. "The tradition has always been to maintain careful distance and never interfere with their path. But this creature approached us. It sought us out." <!-- L1444 -->
 
-And that was when it surfaced in him — dredged up out of the same drowned place the turtle had opened. He could suddenly remember who had been in the Exchange, the thing he had never once been able to recall before: a woman who looked uncannily like Iggy, and a quiet, pale man who shared the fine high-browed features of Saffron. The names came up out of the dark and held, and Lomi knew, looking at the professor's waiting face, that it fell to him to say them aloud. <!-- L1528 -->
+"Is there a formal law governing interaction?" Ink pressed. <!-- L1450 -->
+
+"Not a written law," Britt said. "A social norm passed down through generations: leave them be. Do not look at them, do not touch them, and never follow them." <!-- L1455 -->
+
+"And you looked at it," Professor Ink observed sharply. "You touched it. And what happened?" <!-- L1455 -->
+
+"Pip was pulled inside its memory space," Britt revealed, glancing at Lomi. "And when we touched it, we witnessed ancient memories of our people—wanderers who asked questions and died from the exact same illness spreading on my skin." <!-- L1466 --> <!-- L1489 -->
+
+Professor Ink listened with rapt attention, nodding solemnly. "This aligns with Professor Kante's working thesis. Harmony's inability to synchronize with the Mizizi is rooted in a cultural taboo that your ancestors were explicitly forbidden to break. By breaking that social norm, you initiated a dormant resonance cycle." <!-- L1489 -->
+
+She paced across the laboratory deck, looking at each of the cadets in turn. "And this entity deliberately selected individuals from our camp. It stopped for Pip and Bramble. It stopped for Zephyr. It collected representatives from five distinct clans." <!-- L1466 --> <!-- L1520 -->
+
+Ink turned toward Lomi. "Do you recognize which clans are represented here?" <!-- L1520 -->
+
+Lomi closed his eyes. In the quiet darkness behind his eyelids, the memory unlocked by the tortoise surfaced with crystal clarity—faces from the Great Clan Exchange that he had never been able to recall before.
+
+"I remember them now," Lomi said, opening his eyes and looking straight at Saffron and Iggy. "There was an Earthkin woman who looked just like Iggy... and a pale, quiet scholar who carried the exact high-browed features of Saffron." <!-- L1528 -->
 
 <!-- LEDGER: rendered=[1413, 1418, 1420, 1425, 1428, 1443, 1444, 1450, 1455, 1466, 1489, 1520, 1528] skipped=[] -->
 
 <!-- RAW_RANGE: [1531, 1577] | SCENE_ID: 16 -->
 
-## CHAPTER 12: THE SIXTH CLAN
+## CHAPTER 13: THE SIXTH CLAN
 
-Real came back down the stairs of the walker with Saffron in tow, and Saffron's eyes were huge, sweeping the lab in something close to panic. She had the look of a creature that had spent its whole life keeping still so nothing would notice it. Now everything was noticing.
+Rill returned from the upper decks leading Saffron by the hand. The pale Renali scholar's eyes were wide with apprehension, clutching her sketching pad against her chest as if the bustling laboratory were full of hungry predators.
 
-Professor Ink turned toward her, gentle but relentless, and asked if she could tell her where she was from. Ignatius nudged Iggy — this, he murmured, was exactly the kind of situation Iggy thrived in. Iggy pulled a face and edged back a half step; no, he thrived in the precise opposite of this. <!-- L1532 -->
+Professor Ink stepped forward, softening her posture. "Saffron... can you tell us where your people originate?" <!-- L1532 -->
 
-Ink's attention swung fully onto Saffron. She asked, plainly, whether Saffron was from Harmony, then said she truly had to know — that this was extremely important, and if Saffron was not from Harmony, Ink needed to hear it. Saffron only shook her head, and someone in the room remarked that no one there had ever heard her speak. Ink softened. Did Saffron have a notebook? A reluctant nod. Could she draw where she came from? And as she asked it, Ink met the eyes of the clan members scattered around the room, one after another — and Iggy caught something in Saffron's face that mirrored the thing coiled in his own chest: a person who had kept a secret so successfully, for so long, that keeping it had become a kind of prison. <!-- L1539 -->
+Ignatius nudged Iggy with an elbow. "Hey, Iggy—this is your specialty. Help her out." <!-- L1532 -->
 
-Lomi, watching from the side, offered that engine grease had loosened Iggy up the last time — maybe they should play a little game, take the pressure off. But the geometry of the room reasserted itself: Lomi was supposed to be up on the bridge, and he swore under his breath and let it go. Right — he had to keep them on track. So Saffron bent to her paper. She drew an island floating above the land, then pointed at it, at the empty air beneath it, at the impossible fact of it. <!-- L1560 -->
+Iggy took a deliberate step backward, pulling his collar up. "No. My specialty is the exact opposite of this." <!-- L1532 -->
 
-Something in that unlocked Iggy. He grabbed his own pen and paper and, without a word, drew an arrow pointing straight down — to the bottom of the water, the floor of the sea. His home, offered up in a single silent stroke. <!-- L1562 -->
+Professor Ink knelt slightly before Saffron, speaking with gentle urgency. "It is vital to our expedition that we understand your origin. Are you from the central plains of Harmony?" <!-- L1539 -->
 
-Ink took it all in and began counting on her fingers. The turtle had made them stop when Pip and Bramble tried to leave; it had stopped again as they passed Zephyr. It had collected at least five clans here, and that could be no coincidence — Zephyr, Iggy, Ignatius, the Mizizi, and now Saffron. She did not know where it was leading them, she said, but it clearly had a plan, and that was enough for her to trust it. One of them had to be at the bridge at all times to keep the walker on heading; Lomi's friend was up there now, and she recommended they bring her up to speed. <!-- L1567 -->
+Saffron shook her head slowly, keeping her lips pressed tight. 
 
-Then Ink crossed to Real, took her by the arm, and said quietly that Real, of course, was a sixth. And she walked out of the room. Britt volunteered to take the bridge. <!-- L1573 -->
+"She doesn't speak," Britt offered quietly from the examination table. "She draws." <!-- L1539 -->
+
+"Do you have your sketchbook?" Ink asked gently. "Could you draw your home for us?" <!-- L1539 -->
+
+Saffron hesitated, looking around at the circle of cadets. Seeing Iggy and Britt nod encouragingly, she pulled a piece of charcoal from her pocket and set her pad on the counter. With swift, elegant strokes, Saffron sketched a breathtaking landmass: an enormous, jagged mountain island floating entirely suspended in mid-air above the sea, completely disconnected from the earth below. <!-- L1560 -->
+
+The room went completely silent as everyone stared at the impossible floating island.
+
+Watching Saffron's sketch unlocked something deep within Iggy. Reaching onto the workbench, the little dirt-kin creature grabbed a quill, pulled a scrap of parchment toward him, and without a single word, drew a heavy arrow plunging straight down through dark water to the absolute bedrock floor of the deep ocean. <!-- L1562 -->
+
+Professor Ink studied both sketches, counting the clans on her fingers with rising awe. 
+
+"The Spirit Tortoise has deliberately assembled six distinct clan lineages aboard this vessel," Professor Ink declared softly. "Zephyr representing the Storm-Callers; Ignatius from the Ash-Blood flame; Iggy from the Deep Earthkin; Britt and Aggie from the Mizizi roots; Saffron from the Sky-Islands; and Rill representing the ancient Wadi water." <!-- L1567 --> <!-- L1573 -->
+
+She looked up at the cadets, her determination absolute. "I do not yet know what awaits us in the deep forest, but this creature is operating under an ancient, deliberate design. And that is more than enough reason to follow it." <!-- L1567 -->
+
+Britt stood up from the stool, rolling her shoulders. "I'll take the first watch on the bridge to keep our eyes locked on its path." <!-- L1573 -->
+
+"Let's move," Professor Ink commanded.
 
 <!-- LEDGER: rendered=[1532, 1539, 1560, 1562, 1567, 1573] skipped=[] -->
 
 <!-- RAW_RANGE: [1578, 1600] | SCENE_ID: 17 -->
 
-## CHAPTER 13: THE OLD GROWTH
+## CHAPTER 14: THE OLD GROWTH
 
-They took their long rests. They ate. And after a while, the turtle began to slow.
+For two days, the walker *Elijah* galloped southward across the plains, maintaining a strict watch rotation at the bridge helm so that no cadet ever broke visual contact with Mwaza-Kasa's wake in the grass.
 
-By now they had a system. Anyone could track Mwaza-Kasa so long as they never looked away, and once you were watching you could speak of it freely — most of it written down anyway, charts and graphs papering the cockpit walls: *this is how you track it, this is what you do.* The trees closed in as the walker pressed deeper, the growth older and older, until the trunks stood so tight together that the Scarab could go no farther and the party had to disembark. For Aggie and Britt, this was ground the elders had explicitly forbidden — the one place the old growth had never been cut, a clearing the young generation was never quite told how to find. Its location had been an open secret, obscured on purpose, and it had haunted their dreams: this was where the network would take you if you had no anchor, where it would dump you out. They coordinated a scouting party and worked their way through the woods until they came upon the largest tree any of them had ever seen — a redwood-scaled giant standing alone in a clearing of its own, ringed by that green fungus that was supposed to grow nowhere else. <!-- L1579 -->
+On the third morning, the savanna gave way to towering ancient timbers. The petrified canopy thickened into an impenetrable labyrinth of colossal moss-draped trunks, forcing *Elijah* to grind to a halt at the edge of the forbidden old growth. The expedition disembarked onto the damp loam, continuing on foot into territory that Mizizi elders had explicitly forbidden their youth from ever entering. <!-- L1579 -->
 
-Real gasped in horror at the sight of it. *They're cultivating it,* she breathed. *How?* — the question falling out of her under her breath as she stared. And just outside the ring of green, the tortoise sat waiting, looking back at the party as they cleared the last of the brush. It regarded them one at a time, meeting the eyes of nearly everyone who had ridden the craft. <!-- L1581 -->
+At the center of a wide, mist-shrouded clearing stood the largest living organism any of them had ever witnessed—a colossal, ancient primordial tree whose petrified roots coiled across the clearing like sleeping dragons.
 
-Then it walked to the tree, laid a stump against the bark — paw, foot, whatever the word for it was — and collapsed. Ignatius flinched hard: he did not think anything should touch that. Iggy started forward through the fungus, and Ignatius watched, stunned, certain he'd just seen the tortoise touch the tree and die on the spot. Not immediately, the reality corrected itself — Iggy walked through the thirty-foot radius of fungus and came out fine, powering through as if it were nothing. <!-- L1583 -->
+Encircling the base of the massive trunk was a thirty-foot ring of dense, glowing neon-green fungus—the exact lethal organism Rill had identified from the canyon caves.
 
-But it was dense here. As they watched, the tortoise's spark-shell began to gray, subtle but faster than anything they'd had to endure before. Britt held up a hand: *let's not do what that guy did.* One second. She had enough antidote for maybe eight of them to drink — though she was blunt that it would not stop the decay, only slow it; if they walked into that ring they would still need to find her home to be cured. Aggie, she decided, would go instead to one of the other trees, skirting the fungus, to ask if they had anything to say. But the trees here were quiet — almost stone the longer you looked, and the longer you looked, the less alive they seemed. <!-- L1598 -->
+Rill gasped in pure horror, stumbling back. "They're cultivating it..." Rill breathed in terrified disbelief. "How is that even possible?!" <!-- L1581 -->
+
+Mwaza-Kasa crawled steadily to the edge of the clearing, turned back to meet the gaze of each member of the party, and then waddled straight into the ring of lethal fungus. Reaching the ancient bark, the giant Spirit Tortoise pressed its front limb against the wood—and collapsed motionless to the earth. <!-- L1581 --> <!-- L1583 -->
+
+Ignatius cried out in alarm, jumping forward. "Don't touch that! Did the turtle just die?!" <!-- L1583 -->
+
+Iggy didn't hesitate. Pulling his heavy trench coat tight around his dirt-kin frame, Iggy marched straight through the thirty-foot perimeter of glowing fungal spores. The toxic dust swirled harmlessly against his clay skin as he reached the fallen tortoise, kneeling beside its shell. <!-- L1583 -->
+
+Beneath Iggy's hands, the glowing teal veins across Mwaza-Kasa's carapace were rapidly fading into dull, ashen grey.
+
+Britt unslung her satchel, stepping up to the perimeter. "I have eight vials of stabilizing antidote," Britt announced firmly. "It won't cure us permanently, but it gives us time. If we are going to touch that tree and uncover what happened here... we take the draught together." <!-- L1598 -->
+
+Aggie walked to an adjacent sentinel tree on the edge of the clearing, placing her palms against its bark to commune with the roots. But the wood remained cold, silent, and petrified—as if the ancient spirit of the forest were holding its breath, waiting for the six clans to step forward. <!-- L1598 -->
 
 <!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[] -->
 
@@ -489,54 +927,294 @@ But it was dense here. As they watched, the tortoise's spark-shell began to gray
 
 ## CHAPTER 14: EIGHT VIALS
 
-Iggy did not wait to be talked into it. He chugged a vial and rolled — went right in, straight through the ring of fungus to the tree. He took the vial from Real, hit the bark, and the tree swallowed him into its scale. It was enormous, redwood-vast, room enough for a whole crowd to lay hands on it at once; Iggy found a nook in the bark and fell asleep against it. <!-- L1601 -->
+Rill knelt beside the heavy pack, carefully retrieving a cluster of eight small glass vials filled with dark, shimmering liquid. "I have enough for eight of us," she said, looking up across the clearing at the towering redwood-scale trunk of the ancient oak. "Again, this won't cure it. If we walk into this, we'll eventually have to find my homeland in the canyon to cure us. But it will buy time." <!-- L1600 -->
 
-Ignatius looked around. *Where's Iggy?* Even as he asked, Zephyr took a vial and charged through the fungus to slap her palm against the trunk — and Ignatius groaned, because Iggy was going to be furious that Zephyr had followed him in. Britt watched them go under and made up her mind. She would do it too, she said; she already carried the sickness in her, so she might as well. <!-- L1608 -->
+Aggie walked past the perimeter, pausing beside one of the outer trees without stepping into the circle of violet spores. She pressed her fingertips against the rough wood, listening for any hum of life, but the outer timber remained quiet and cold as stone. <!-- L1600 -->
 
-Real began handing the remaining vials to those who weren't of a clan. One from each clan should take one, she reasoned, and Saffron firmed herself up and reached for hers — Pip fretting at her side, *Saffron, why are you shaking your head, are you a clan member?* — until Real told him gently to let her be. Wherever this was going, Real said, they needed to go together; she herself had no true connection to the network, but perhaps two nonclansmen who felt the strongest pull could join. <!-- L1627 -->
+Iggy didn't wait to be invited. 
 
-Lomi stepped up. He'd take it, he said, if she was willing. <!-- L1628 -->
+The little clay creature snatched a vial from Rill's open palm, uncorked it with his teeth, and chugged the entire dose in one violent swallow. Without a second thought, he rolled straight forward—scrambling right through the glowing ring of fungal spores and charging directly at the colossal tree. The ancient oak rose like a redwood titan before him, vast enough to shelter an entire army beneath its roots. Finding a deep, moss-lined furrow in the petrified bark, Iggy wedged his clay form into the crevice, closed his water-filled goggles, and slumped instantly into a deep, motionless slumber against the living wood. <!-- L1601 --> <!-- L1604 --> <!-- L1606 -->
 
-Real held one out to him — *makes sense to me, Lomi* — and he took it, chugged it, chased it with a mouthful of engine grease, then walked up and laid his hand on the tree. <!-- L1632 -->
+Ignatius blinked, looking around the clearing in confusion. "Where'd Iggy go? Wait—did he just fall asleep immediately?" <!-- L1607 --> <!-- L1612 -->
 
-Saffron went next, steadying herself before she touched the bark and dropped into sleep. That left Real, Aggie, and Ignatius. Real turned to Iggy's cousin and said she thought he'd take one if no one else would — and he was already nodding, volunteering. As Lomi went under, both Pip and Lucky stepped forward and looked at each other. *No, dude, they like me way more than you,* Pip said, and Lucky wavered — it just felt like if any of them was going to get through this unscratched, it'd probably be him — but, well, Pip was right. Pip was right. <!-- L1643 -->
+Before anyone could answer, Zephyr snatched a vial of her own, vaulted over the roots, and charged headlong through the fungal mist to slap her palm flat against the petrified trunk, dropping into the moss beside Iggy a heartbeat later. <!-- L1609 --> <!-- L1611 -->
 
-So Lucky stepped back and gestured for Pip to go. *Oh, hell — did I just volunteer myself?* Pip yelped, jabbing a finger at Lomi, *give me, give me* — then marched to the fungus, cracked his forehead against the tree, and passed out cold. <!-- L1645 -->
+Ignatius threw his hands in the air, embers flaring wildly at his cuffs. "Fuck, I better go," he groaned. "Iggy is going to be so pissed that Zephyr followed him in there!" <!-- L1618 --> <!-- L1620 --> <!-- L1623 -->
 
-<!-- LEDGER: rendered=[1601, 1608, 1627, 1628, 1632, 1643, 1645] skipped=[] -->
+Britt stepped forward, rolling her shoulders and staring down at the vials in Rill's hands. Her dreadlocks of living root shifted with quiet resolve. "I'm going too," she said firmly. "I already carry the infection anyway, so I might as well." <!-- L1608 --> <!-- L1613 --> <!-- L1621 -->
+
+Across the clearing, Pip hopped around Saffron, peering up at the quiet Renali scholar. "Saffron, why are you shaking your head?" Pip demanded, bouncing on her heels. "Are you a clan member? Saffron? Saffron!" <!-- L1627 -->
+
+"Pip, let her be," Bramble rumbled softly, extending a vine to gently tug the excitable pixie back. <!-- L1627 -->
+
+Professor Ink adjusted her brass spectacles, stepping forward to study the glowing veins pulsing beneath the bark. "I believe one representative from each of the clans should take a vial," the professor observed. "And perhaps two others—those who feel the deepest resonance with the network—should join them." <!-- L1627 -->
+
+Rill nodded in quiet agreement. "Wherever this leads, we need to go together. It shouldn't be me—I don't possess a connection to the Mizizi network. But two non-clansmen who are willing to take the risk could step forward." <!-- L1627 -->
+
+Lomi pushed his flat cap back, stepping out from the shadow of the stone terrace. "I'll take it," he said simply, "if you're willing." <!-- L1628 -->
+
+"Makes sense to me, Lomi," Rill replied, extending a vial toward him. <!-- L1629 -->
+
+Lomi took the glass cylinder, popped the stopper, and downed the bitter draught in a single gulp. He grimaced, fished a greasy rag from his pocket to wipe his mouth, and chased the taste with a familiar swipe of soot and engine grease before walking calmly to the tree and placing his bare hand against the bark. His knees folded beneath him as the ancient resonance pulled him under. <!-- L1630 --> <!-- L1632 -->
+
+Saffron took a slow, steadying breath. Firming her posture, the silent scholar accepted her vial, drank, and stepped up to lay her slender fingers against the living wood, collapsing gently into the ferns. <!-- L1637 -->
+
+That left only a single open place.
+
+Lucky and Pip stepped forward at the exact same instant, stopping inches apart and glaring at each other.
+
+Lucky crossed his arms, his confident smile wavering slightly as he eyed the ominous, pulsing spores. "Look... it just kind of feels like if one of us is going to get through this without a scratch, it's probably going to be me." <!-- L1643 -->
+
+Pip planted her tiny boots into the moss and jabbed a fierce finger at her own chest. "No, dude! They like me way more than you!" <!-- L1643 -->
+
+Lucky hesitated, looking between the colossal petrified tree and the stubborn pixie. He gave a small, defeated shrug and took a step back, sweeping an arm toward the oak. "You know what? You're right. Be my guest." <!-- L1643 -->
+
+Pip puffed her chest in triumph—and then froze.
+
+Her giant eyes went wide with sudden, horrified realization. "Oh shit..." she squeaked, her voice climbing an octave. "Did I just volunteer myself?!" <!-- L1645 -->
+
+She whipped around toward Rill, waving both hands in desperate agitation. "Give me! Give me!" <!-- L1645 -->
+
+Snatching the final vial, Pip downed the liquid, sprinted full speed through the glowing spore cloud, and slammed her forehead with a resounding *thwack* straight into the petrified trunk—knocking herself out cold as she tumbled into a heap on the moss. <!-- L1645 -->
+
+<!-- LEDGER: rendered=[1600, 1601, 1604, 1606, 1607, 1608, 1609, 1611, 1612, 1613, 1618, 1620, 1621, 1623, 1627, 1628, 1629, 1630, 1632, 1637, 1643, 1645] skipped=[] -->
 
 <!-- RAW_RANGE: [1651, 1710] | SCENE_ID: 19 -->
 
 ## CHAPTER 15: THE ANCESTRAL VISION
 
-The bark took them all at once.
+As their palms pressed flat against the petrified wood, the clearing at Center Grove dissolved.
 
-There was no ground beneath Ignatius, no cockpit, no clearing — only the pull of something older than any of them, dragging his awareness through a seam in the world. It was, he thought dimly, the most incredible thing he had ever felt, and then even that thought dissolved. Beside him, or wherever *beside* meant now, he sensed the others fall in with him: Lomi's presence sharp and wary, Britt's steady, Iggy's small bright flicker. They did not each dream a separate dream. They snapped, together, from one perspective into the next, the gaps between visions like doorways slammed open one after another.
+The air did not merely blur—it fractured. Space unfolded like ancient parchment, and the world of mud, canvas tents, and iron machinery was torn away in a blinding rush of luminous teal Aether.
 
-They stood first among the sky-ziggurats — terraced stone islands hung impossibly above the land, wind singing through channels cut by hands long dust. Then the floor gave way and they were somewhere with heat in the marrow of it: ash-choked volcanic slopes where fire-born people had raised their halls in the throat of the mountains, embers drifting like a second sky. The doorway snapped again and the pressure crushed down cold and blue — the sea floor, a drowned civilization moving through water as easily as air, lights pulsing along their skin. And then home, or a version of it, the Mizizi forest when the trees still breathed: green and towering and *alive*, roots threaded together in a single vast net of memory.
+It was not a dream, nor was it a simple illusion cast upon the mind. It felt like stepping into the memory of a stranger—seeing through eyes that had turned to dust a thousand years before, feeling the secondhand warmth of fires long extinguished, hearing the voices of a forgotten age. The vision belonged to Mwaza-Kasa, stored within the quiet, immortal shell of the Spirit Tortoise. It did not invite them in as participants. It allowed them to witness as the tortoise had always witnessed—patient, ancient, observant, and utterly without judgement.
 
-Five clans. Five origins, laid one against the other, older than the Academy, older than the war that had scattered them. Ignatius felt the shape of it before he could name it — that all of this had once been *one thing*, and that what he was watching was that oneness coming apart. Harmony, he understood suddenly, was running in reverse. The network was not building. It was unwinding, spooling backward toward whatever it had been at the start.
+Because they watched as outside observers peering into secondhand memory, no names hovered over the figures. They saw only the living reality of people, places, and sparks as they unfolded across time.
 
-The map they had all seen sketched on parchment and glowing on the tortoise's shell seemed a small, sad thing now, a scar left by something that had once been this. They scrolled deeper, snapping perspective to perspective, drinking down history that no living clansman had carried in generations — until, one by one, the visions began to thin, and the seam in the world drew them back toward the light of the clearing.
+All eleven travelers experienced the revelation simultaneously: an unbroken, breathtaking epic of how their world was forged, how it rotted from within, and the desperate sacrifice that sealed them in the dark.
+
+---
+
+### ACT I: THE FIRST UNION
+
+*Three hundred years ago.*
+
+The world was vast, wild, and fragmented into silence. On a jet-black volcanic sand beach under a heavy blanket of tropical sea mist, two primitive peoples lived in absolute isolation, separated by hostile terrain.
+
+On the left, shivering beneath the broad, dripping leaves of a dense, cold rainforest, huddled the early root-dwellers—turtle-fungus humanoids with dark clay skin and pointed ears, clutching woven ivy shawls around their lumpy shells, living in damp misery without the warmth of fire. On the right, silhouetted against roaring lava vents and glowing magma crags, huddled the smoldering warriors of the volcanic peaks—their dark obsidian skin dusted with soot, literal crowns of orange flame burning from their scalps, possessing raw elemental heat but devoid of architecture, shivering when the cold ocean wind blew across the bare volcanic rock.
+
+Between them lay the neutral ground of wet black sand, where the turquoise tide crashed indifferently.
+
+From the forest edge stepped a tall, regal turtle-kin elder, leaning on a staff of petrified ironbark. From the volcanic crags stepped a towering warrior chieftain in beaten bronze scale armor, embers smoldering in his yellow-orange eyes.
+
+They possessed no shared language. Neither knew a single word the other spoke.
+
+Standing on the wet black sand, knowing no words, each leader chose to draw the living spark of their people into the earth.
+
+The smoldering warrior knelt, holding a glowing shard of volcanic glass, and seared a smooth, stepped sun-spire fire arc into the jet-black sand. The root-kin elder stepped forward, raised his petrified staff, and struck it straight through the center of the arc, carving a deep, vertical root-ladder spine.
+
+*A connection was born. The first union between clans.*
+
+The meeting unleashed an explosive era of cultural and physical creation. The ancient world did not build cold, mechanical engines or combust fossil fuels; their technology was an organic, elemental sci-fantasy marvel powered by **Embodied Energy**—basing the physics of their society directly upon their living elemental sparks.
+
+Root woodcraft and volcanic thermal engineering combined. Smiths and wood-weavers worked side by side, fitting glowing bronze heat conduits through living ironbark timber frames, creating the world's first comfortable, climate-controlled homes. Above every doorway, the combined two-stroke petroglyph mandala was deeply chiseled into the lintel. Inside the warm, glowing rooms, the amber light of core-fire lamps cast shadow puppets across polished timber walls, where families of both clans sat together, laughing in the initial joy of mutual discovery.
+
+---
+
+### ACT II: THE SYNERGISTIC MESH OF SPARKS
+
+The web expanded, and with every clan that joined the Mandala, the elemental sparks did not merely coexist—they interlocked, multiplying one another's capabilities and enabling each civilization to achieve what had once been physically impossible.
+
+In the dark ocean caverns where waves crashed against towering basalt cliffs, the subterranean clay-kin huddled on cold ledges. Short, rounded humanoids of packed brown clay and smooth stone, wearing dark green seaweed robes pinned with polished silver pauldrons, they were master masons who longed to build cities in the ocean depths, but could never survive the freezing cold or the crushing pressure of the abyss.
+
+The alliance provided the key. **The sky-dwellers' mastery over atmospheric air currents and barometric pressure** allowed the clay-kin to regulate the pressure inside deep-sea habitats, creating breathable, climate-controlled stone domes beneath the waves. Combined with **flexible root-wood scaffolding** and **volcanic thermal bronze conduits**, the clay-kin constructed colossal, luminous cities inside subterranean ocean caves. Bioluminescent teal root-lamps lit stone walkways, while heated water channels flowed past carved basalt colonnades.
+
+Across the mainland, the fierce, static-haired **tempest-riders** rode mounted atop colossal biological dragonflies above the clouds, building towering basalt step-pyramids. Yet their mountain-top fortresses were constantly overheated by the raw, unyielding lightning energy they channeled. **The canyon-dwellers' control of cooling waters** provided vast hydraulic cooling channels that cooled the mountain stone, allowing the tempest-riders to turn their mountain cities into breathtaking citadels where storm-copper conductors channeled descending lightning into dynamic, neon-like light shows across the cliffs.
+
+And at the center of the entire empire stood the **root-kin archivists**. The living petrified oak forests served as the grand archive of the world. Archivist scholars meticulously encoded and preserved the complex resonance formulas in the living tree bark, teaching every clan how to weave their elemental sparks together into harmonious, living circuits.
+
+In the sandstone canyons, the **canyon-dwellers** built terraced cliffside gardens fed by **volcanic thermal warmth**, **subterranean mineral soil**, and **root-kin botanical design**. High above in the heavens, the **sky-dwellers** transformed their frozen floating sky-isles into glorious terraced step-ziggurats and crystal spires suspended on heavy copper cables, their giant biological dragonflies pulling elegant wooden sky-chariots between landing pads.
+
+Atop the central sky-altar, a graceful sky-scholar in flowing purple silk placed a glowing turquoise crystal sphere into the completed mandala plate.
+
+"The circle is woven!" she cried as golden light flared across the ziggurat.
+
+"One Mandala!" the elders answered in unison. "One Empire!"
+
+---
+
+### ACT III: THE GOLDEN APEX & THE COMFORTABLE ROT
+
+For a golden age, there was unmatched, effortless prosperity.
+
+The Grand Forum of the Sun-Spire stood as the pinnacle of achievement: colossal white marble plazas framed by living petrified oak towers that reached toward the clouds. Iridescent biological dragonflies glided through azure skies in graceful arcs. The central petroglyph mandala on the imperial spire glowed with unbroken, radiant teal light.
+
+From the forum balcony, the Empress of the Golden Age addressed the multitudes:
+
+"People of the Five Domains! As long as our connection endures, this golden age will never end!"
+
+*And that was the lie that doomed them.*
+
+Generations passed in effortless luxury. Surrounded by boundless abundance, society stopped challenging itself. Because survival required zero effort, genuine curiosity and discovery ground to a complete halt.
+
+Citizens reclined lazily on silk couches in the grand plazas, eating fruit and ignoring hairline fractures in the conduits. Clan boundaries blurred into a comfortable, homogenized mediocrity. At council tables, leaders waved away new ventures with a complacent shrug: *"So much effort to do new things... why bother? We already have everything we could ever need right here."*
+
+In the high Imperial Observatory, a colossal copper-and-stone floor mosaic world map of Vumbua spanned the chamber. A central astrolabe cast shifting seasonal shadows across the floor—spring blossom giving way to summer sun, autumn leaves falling across the stone, winter frost coating the arched windows. Generations walked indifferently over the map, never once looking out toward the uncharted horizons.
+
+An aging architect in brass spectacles looked down at the dust gathering on the map's outer edges.
+
+"My Empress..." the architect murmured, shaking his head. "The surveyors turned back at the borders. Not because they feared the Dark Undone... but because they saw exploration as pointless effort. They simply said we have enough right here."
+
+The Empress looked at her fading silk robes, her voice hollow with grief. "We lied to ourselves. Resting on our successes was our decay."
+
+---
+
+### ACT IV: THE BREAKDOWN & THE REGRESSION OF WAR
+
+Because the people refused to grow or strive, the living elemental sparks began to suffocate.
+
+The physical infrastructure of the empire began to fracture. In the deep sea habitats, the atmospheric pressure seals maintained by sky-air currents failed, and crushing ocean water violently shattered the clay-kin glass domes. In the skies, giant biological dragonflies—overloaded with luxury cargo and heavy passenger cabins—strained and flipped in mid-air, plunging into the cloud sea. Atop the basalt step-pyramids, unmaintained cooling channels ran dry, and lightning conductors exploded under storm strikes, showering the streets in fire and masonry.
+
+*The time of abundance was over.*
+
+Panic, famine, and accusation spread like wildfire. A toxic belief took root across the five domains: *War is the answer. War will force an evolution. War will reignite the dying sparks!*
+
+So the clans went to war.
+
+All five domains clashed across their once-glorious cities in a catastrophic grand melee. But the tragedy deepened with every battle: the most advanced weapons were **compound multi-spark constructs**—magma cannons that required volcanic fire channeled through canyon cooling conduits; lightning ballistas that required tempest voltage focused through barometric air barrels; hydraulic pressure rams that required subterranean masonry powered by root tension.
+
+As cross-clan harmony shattered and the individual sparks lost power, every compound weapon failed completely. Magma cannons sputtered into cold slag. Lightning-arc ballistas cracked and shorted out. Hydraulic rams seized.
+
+The war tragically regressed into crude, primitive medieval butchery. Soldiers who had once commanded living elemental physics were forced to slaughter one another with crude iron swords, wooden spears, and heavy siege catapults.
+
+Yet no matter how much blood was spilled, the sparks did not return. The sparks had continued to decay, suffocating and growing dimmer with every passing generation that clung to past glories. Without them, absolute extinction loomed.
+
+---
+
+### ACT V: THE SPARK-SOUL TRUTH & THE GOLDILOCKS CONDUIT
+
+While the surface world tore itself apart, the cross-clan council of scholars met in a secret subterranean stone vault beneath the ancient roots.
+
+The scholars gathered in the dim candlelight were dying, their physical frames bearing the horrifying marks of their failing sparks. Across the stone table, a volcanic ember scholar strained with all his might just to coax a faint, pathetic spark from his hair. Beside him, a root-kin archivist clutched his temples in agonizing pain, suffering catatonic seizures whenever he attempted to recall memories from five years past. A canyon scholar stared in hollow despair at a cracked, bone-dry clay water vessel, while a sky-dweller struggled simply to stir a breath of air in the stifling chamber.
+
+A root-kin spore-scholar unrolled a glowing parchment scroll depicting living roots intertwined with human heart-sparks, his voice trembling with terrible certainty.
+
+"Each civilization's elemental spark is not a tool," the scholar revealed. "It is an integral part of our soul. As the decay intensified, it began consuming the sparks. When the spark truly dies... it will take our souls with it. We will not survive."
+
+Silence fell over the vault.
+
+The spore-scholar lifted a small dual-chambered glass conduit filled with a tiny, trickling stream of glowing teal sand.
+
+"The war purged our ability to sustain a large population," the scholar explained softly. "We must find a way to live off the very little we have left, without upsetting the delicate balance. If we create a massive open connection, the decayed network will collapse. But if we establish **The Exchange**—a tiny, controlled conduit that trades just enough change between our peoples—it will move just enough resonance to keep our soul-sparks alive in isolation, until a new generation learns how to truly grow."
+
+---
+
+### ACT VI: THE WANTILA ROOT & THE MEMORY PURGE
+
+The decision was sealed in sorrow.
+
+At the perimeter of the ancient forest, a multi-clan coalition gathered to fell the great petrified timber canopy. Subterranean masons swung heavy iron axes, volcanic warriors scorched trunks with forge torches, canyon dwellers pulled two-man crosscut saws, and sky dwellers hauled heavy ropes. Colossal petrified trunks crashed into the dust, leaving a desolate wasteland of stumps.
+
+An ember-kin scholar placed a comforting hand on the shoulder of a weeping root-kin archivist.
+
+"You know these memories and this bark must die," the ember scholar said gently. "If they remain, your children will remember what was lost. They will seek it out before they are ready—and collapse the fragile circuit, bringing doom upon us all."
+
+"We must at least keep the oldest grove," the root archivist wept, "or our spark will die anyway."
+
+To ensure no curious wanderer ever stumbled upon the remaining anchor, a canyon scholar planted a glowing, toxic-green root around the base of the central petrified oak in Center Grove: the **Wantila root**.
+
+"We who dwell in the canyons will plant this Wantila root," the canyon scholar whispered somberly. "It will splatter invisibly upon any who draw near, poisoning them slowly and painlessly. I will teach your elders how to tend it... but I will never teach you how to cure it."
+
+"We will teach our youth to treat this grove as a taboo of death," the root archivist answered, lowering his head. "If they will not listen, it is better that one curious wanderer die than our entire people perish. May the future forgive us."
+
+Deep beneath the surface, in the subterranean root conduits, root-kin archivists pressed glowing cyan mycelium strands against their temples. A massive wave of dark, memory-purging psychic energy pulsed through the root network, systematically wiping every memory of the grand empire, the golden age, and the other clans from the minds of the populace.
+
+In the vision's final, breathtaking instant, five hands—turtle-kin, ember-kin, clay-kin, tempest-kin, and sky-kin—placed their clan rings onto the central stone pact tablet.
+
+The central spire flame died. The subterranean vault shattered in a deafening acoustic rupture, tearing space into a swirling vortex of high-frequency teal energy.
+
+And as the swirling vortex of light pulled back through the river of time, the vision coalesced around the towering, ancient form of Mwaza-Kasa itself. The Spirit Tortoise stood at the center of the shattered era, turning its massive head to meet the gazes of the eleven travelers directly. Its glowing golden-teal eyes held the profound truth of the ages: through all the centuries of amnesia, stagnation, and isolation, the tortoise had carried the living map and memory of the world within its shell—guarding the truth until a generation arrived that was ready to learn, connect, and grow again.
+
+---
 
 <!-- LEDGER: rendered=[] skipped=[] -->
 
 <!-- RAW_RANGE: [1711, 1735] | SCENE_ID: 20 -->
 
-They came back to themselves in the clearing, eyes flickering open one after another, the map of the world still burning behind their lids. It was Pip who surfaced first — with a delighted little gasp she declared that *that* one had been way cooler than the last, and she was absolutely getting out of the stuff now, thanks. She rolled herself sideways, peeling her forehead free of the green fungus with a wet, undignified sound, and lay there breathing hard and grinning. <!-- L1711 -->
+## CHAPTER 16: MOMENTUM IS LIFE
 
-Iggy did not roll away. He sat up slow, staring at his own hands as though he had never owned them, and the words came out of him flat and stunned — his whole life, everything he had ever been told about where he came from, was a lie. Then, without another word, he crawled forward and pressed his palm flat against the region of the shell-map that marked his home, as if he could hold the truth of it down before it slipped away. <!-- L1713 -->
+Consciousness snapped back into their bodies like a bowstring released. 
 
-Britt started — *huh?* — not sure whether he was breaking or waking. But across the clearing, Saffron simply nodded, calm as still water, and lifted one finger to the tortoise's shell. She began to draw. A circle, over the same patch of the map, and then again over the same lines, and again, tracing and retracing the shape as though the repetition were the only language left to her. <!-- L1715 -->
+The damp forest floor. The twilight shadows of Center Grove. The ancient petrified oak, silent and colossal against the darkening sky.
 
-Lomi got his feet under him and looked around at the rest of them, at Iggy's shaking hands and Saffron's endless circles and Pip catching her breath in the fungus. He said, dryly, that he'd only left Vumbua for the very first time this morning — so all things considered, this was a *lot* to take in. <!-- L1716 -->
+Pip rolled out of the thirty-foot ring of glowing fungus, tumbling across the moss and shaking her head vigorously like a wet dog. "Whoa! That one was way cooler!" Pip shouted, wiping damp spores from her forehead with an undignified grin. "I am definitely getting out of this toxic stuff now, though!" <!-- L1711 -->
 
-Then several things happened at once. Professor Ink's head came up as she saw all their eyes switch back on together, and the thing cupped in her hand began to beep, insistent and rising. *You've done it*, she breathed, turning it over. *It's connected — it's connected. What happened?* <!-- L1717 -->
+Scrambling to her feet on the safe turf, Pip turned around and stopped dead in her tracks.
 
-The speaking stone crackled a heartbeat later, and Professor Kante's voice came through it fast and electric. There was a spike, he said — a real spike in the resonance, they were over the threshold, they'd actually *done* it, somehow the people who touched the bark were remembering the history of the Mizizi and learning about Harmony, and it was running out through the whole network. As he spoke, small green shoots began to unfurl from the ground around them, thickest around Pip's heavily breathing form and springing up under Lomi's boots. Professor Ink laughed at the impossible sight of it and said their spark had been *knowledge* — that was all it took, storing what the clans had lost the same way Harmony Prime once had. <!-- L1719 -->
+In the center of the clearing, Mwaza-Kasa was rising.
 
-Ignatius, watching the shoots climb, offered that maybe it was less about knowledge than about cooperation — and Ink allowed that it likely translated to the same thing in the end. Pip, delighted, scrambled up and went skipping around the clearing, palms brushing the earth, crowing that she was making the plants go bramble as fresh sprouts erupted under every footfall. And through it all Rill stood very still, understanding dawning over her face. If they could find the others now — if they knew where the clans were, and could connect them all — then they might yet stabilize the resonance decay and bring everyone home. She said it quietly, like a vow, like the first line of something enormous: she understood now. Momentum is life. <!-- L1729 -->
+The colossal Spirit Tortoise pushed itself up from the damp soil, straightening its massive, pillar-like legs. As the ancient beast lifted its head into the twilight air, the surface of its immense carapace ignited with soft, radiant energy.
 
-<!-- LEDGER: rendered=[1711, 1713, 1715, 1716, 1717, 1719, 1729] skipped=[] -->
+Across the dark keratin scutes, ancient growth ridges and glowing veins of bioluminescent teal lichen formed a living, organic topographic map of ancient Vumbua. Embedded directly into the natural shell plates, small pinpricks of runic light pulsed with elemental resonance, marking the forgotten strongholds of the lost world: the suspended sky-ziggurats of the Renali high above the cloud layer; the jagged mountain step-pyramids of the Fulgur; the terraced sandstone canyons of the Wadi; the fiery volcanic crags of the Ash-Blood; and, stretching across the deep oceanic basin, several distinct, glowing coordinates that marked the submerged cavern cities of the Trench-Kin.
+
+Iggy stood frozen at the base of the petrified tree, his trembling hands hovering in the air as if they belonged to a stranger. Water sloshed heavily against the curved glass of his oversized goggles as he stared at the glowing oceanic runes on the shell.
+
+"My whole life is a lie..." Iggy whispered, his voice cracking with profound, shattering realization. <!-- L1713 -->
+
+For centuries, the deepest, most inviolable law of the Earthkin had been silence, secrecy, and absolute isolation beneath the sea—taught that the surface world was a graveyard that had abandoned them to drown in the deep.
+
+Iggy dropped to his knees in the damp moss beside the tortoise. His jaw hardened. In an open, deliberate act of rebellion against centuries of clan tradition, Iggy raised a shaking, clay-stained finger and jabbed it firmly onto the glowing ocean coordinates on the living shell.
+
+He looked up, meeting the eyes of the entire squad.
+
+"Right here," Iggy declared fiercely, his voice ringing across the quiet grove. "This is where my people are. In the deep ocean trenches. If we need to connect the sparks, that's where you'll find the Trench-Kin." <!-- L1713 -->
+
+Beside him, Saffron knelt on the moss. Her slender, pale fingers traced slow, deliberate circles over the glowing cluster of runes marking her sky-ziggurat, committing the forgotten coordinates to muscle memory. <!-- L1715 -->
+
+Iggy looked across the circle of cadets, his gaze resolute. "Isolation is never the answer."
+
+Lomi leaned back against the mossy stone terrace, pushing his flat cap back and exhaling a long, ragged breath. He looked across the clearing at the stunned squad. "Yeah. I just left Vumbua for the first time today, so this is a lot to take in." <!-- L1716 -->
+
+Professor Ink stepped back from the tree, the brass-bound resonant crystal device in her hand suddenly erupting into a high, chiming hum as teal and emerald light pulsed across its dials. "You've done it!" she gasped, her eyes wide behind her spectacles. "It's connected! What happened?" <!-- L1717 -->
+
+The communication stone in Lomi's pocket crackled to life, and Professor Kante's voice crackled through the crystal speaker in breathless excitement. "Professor Ink—there is a massive spike in the resonance! We're over the threshold!" <!-- L1719 -->
+
+Beneath their boots, the forest floor shuddered.
+
+Vibrant green shoots burst through the petrified soil—not uniformly, but surging outward in living waves from where the network had been touched most newly. Tiny petrified trees and golden moss erupted in thick clusters around Pip's still-breathing form, while fresh ivy sprouted directly between Lomi's heavy boots.
+
+Rill stared at the racing growth in awe. "I think it just downloaded Harmony." <!-- L1719 -->
+
+"Knowledge!" Professor Ink exclaimed, scribbling frantically into her field journal with one hand while clutching the singing device with the other. "Your spark is knowledge! That's all it took—storing information here in the living network, exactly like we stored records of the clans in Harmony Prime! That's literally Harmony's information growing right now! Very fast!" <!-- L1719 -->
+
+Ignatius crossed his arms, embers flickering at his cuffs as he stepped toward the trunk. "I mean, I think it's less about knowledge and more about cooperation, right?" <!-- L1722 -->
+
+"Knowledge translates!" Professor Ink insisted, gesturing with her quill. "They called them sparks, and the specific spark of the Mizizi was storing memory!" <!-- L1725 --> <!-- L1727 -->
+
+"Yeah," Ignatius conceded with a thoughtful nod. "Yeah, I guess so." <!-- L1726 -->
+
+"And now it downloaded that information through people walking the network!" Professor Ink beamed. "For what I believe is the first time from anyone outside the Mizizi in centuries!" <!-- L1729 -->
+
+Pip scrambled to her feet and went skipping through the clearing, tiny yellow flowers and wild ivy shoots blooming under her heels with every step she took. She skidded to a halt and looked down at her boots, then beamed at the towering plant-kin. "Bramble! Bramble! I'm like you! I'm making the plants go, Bramble!" <!-- L1729 -->
+
+Lomi watched the green shoots unspool across the clearing, the sheer weight of what they had discovered settling into his chest. 
+
+In the ancient tongue they were called **Sparks**; in the modern terminology of the Academy they were classified as **Nodes**. But the underlying cosmic truth was identical: each civilization had adapted to the harshest, most extreme frontiers of the world—the crushing ocean depths, the volcanic island calderas, the lightning-swept mountain peaks, the sandstone canyon aqueducts, the floating sky-ziggurats, and the living root-forests. 
+
+In isolation, each spark was finite, vulnerable to stagnation, and destined to suffocate under its own comfort. But when woven into a unified circuit, the energy was not merely additive—it was **exponential**, multiplying the vitality of the world beyond the reach of decay.
+
+Lomi adjusted his flat cap, studying the glowing runic coordinates shining across Mwaza-Kasa's shell. "Harmony kept expecting massive power surges with every node they logged," Lomi murmured, his mechanical intuition piercing the heart of the mystery. "But until all six clans are found and reconnected, the circuit is choked. We've only been drawing a fractional trickle through the dust. That's why the arena spires failed. That's why the storm tore through the shields."
+
+"And when they *are* connected?" Ignatius asked, embers glowing warmly in his eyes as he looked toward the dark canopy above. "What happens when every clan on the map is found?"
+
+"Then we keep going," Lomi said simply, a broad, easy smile spreading across his soot-smudged face. "We build faster rigs. We chart uncharted oceans. And if there is no land left on this continent, we build vessels that can sail through the stars to find other worlds."
+
+"Exploration isn't a trade or an academy degree," Aggie whispered, resting her palm gently against the rough, warm keratin of the tortoise's front leg. "It's the only thing keeping the heart of this world beating."
+
+Rill stepped to the center of the mossy stone stairs, looking across the sacred clearing at the assembled eleven companions.
+
+"If we connect them all," Rill said softly, her blue hair stirring in the rising evening wind, "then we stabilize the resonance decay. The sickness halts. The barriers fall. And the clans can finally come home." She paused, meeting their eyes one by one in the twilight glow. "Momentum is life." <!-- L1729 --> <!-- L1731 -->
+
+<!-- LEDGER: rendered=[1711, 1713, 1715, 1716, 1717, 1719, 1722, 1725, 1726, 1727, 1729, 1731] skipped=[] -->
 
 <!-- RAW_RANGE: [1736, 1821] | SCENE_ID: 21 | OOC -->

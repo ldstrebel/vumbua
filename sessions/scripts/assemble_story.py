@@ -21,6 +21,7 @@ def main():
     ap = argparse.ArgumentParser()
     ap.add_argument("session_id")
     ap.add_argument("--title", default=None, help="Top-level # title for the story")
+    ap.add_argument("--no-lint", action="store_true", help="Skip editorial harness linter pass")
     args = ap.parse_args()
     sid = args.session_id
 
@@ -105,6 +106,19 @@ def main():
 
     print(f"[OK] Wrote {out_path} ({len(manifest['scene_blocks'])} scenes)")
     print(f"[OK] Wrote {assumptions_out} ({len(assumptions)} assumptions)")
+
+    if not args.no_lint:
+        try:
+            from harness.cli import run_full_lint, print_report_card
+            report = run_full_lint(out_path)
+            print_report_card(report, verbose=False)
+        except ImportError:
+            try:
+                from sessions.scripts.harness.cli import run_full_lint, print_report_card
+                report = run_full_lint(out_path)
+                print_report_card(report, verbose=False)
+            except Exception as e:
+                print(f"[WARN] Could not run editorial linter: {e}")
 
 
 if __name__ == "__main__":

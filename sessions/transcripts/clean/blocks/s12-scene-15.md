@@ -1,29 +1,45 @@
 <!-- RAW_RANGE: [1413, 1530] | SCENE_ID: 15 -->
 
-Professor Ink came down the ladder into the lab barge already talking, half to herself and half to the room. She needed — she stopped, taking in the scene, then rounded on the nearest question that mattered. Had they given Britt the medicine yet? Was she cured? Not cured, someone said. Delayed. Delayed was good, the professor decided, and let out a breath. <!-- L1413 -->
+## CHAPTER 12: THE FORGETFULNESS & THE CLANS
 
-Then she came to it in a rush, the shape of the thing turning over in her mind: their friend could see the turtles, they could all see the turtles — *we are turtles*, she said, mangling it in her excitement, but the point held. Everyone could see the creature. What no one could do was hold onto the memory of having seen it. She could keep her head straight in here, in the lab, where the grass was out of sight — but out there, the moment your eyes left it, the turtle simply erased itself from you. <!-- L1418 -->
+Professor Ink dropped down the ladder into the lower laboratory barge, her mind racing faster than her feet could move.
 
-Ignatius planted himself in the middle of it. Hold on, he said. Hold on. Were they honestly the only ones who could see the damned turtle? <!-- L1420 -->
+"Did Britt receive the stabilizer?" Ink asked immediately, scanning the room. "Is she cured?" <!-- L1413 -->
 
-Not the only ones, the professor corrected. For some reason everyone could see it — that wasn't the trick. The trick was that seeing it made you forget you had. Britt murmured the same thing under her breath, arriving at it in the same instant: it makes them forget. <!-- L1425 -->
+"Not cured," Rill answered from the counter. "The progression has been delayed." <!-- L1413 -->
 
-Ignatius, undeterred, swept a look around the barge. Raise your hand, he announced, if you remember the turtle. <!-- L1428 -->
+"Delayed is good," Professor Ink breathed, steadying herself. She turned to the squad, her eyes shining with manic scientific excitement. "We have established an unprecedented cognitive phenomenon. Every person in this room can see the Spirit Tortoise—what no one outside our party can do is retain the memory of having seen it! Out in the savanna, the moment your gaze leaves the creature, the entity completely erases its existence from your mind!" <!-- L1418 -->
 
-They all did — all of them but Rill, who managed only a lopsided, groping *I remember talking about turtles, I think, sort of* before her certainty dissolved. The professor herself worried at the edge of it: in the lab she could nearly hold the thread, but only nearly, a memory that came apart the moment she gripped it. She hated it, she admitted — hated when her own mind was tampered with — and then, to steady herself, she pulled a scrap of paper from her coat and held it up. Across it, in a frantic scratching hand, she had written her instructions to her future forgetful self: *Don't look at turtle. Cadets can see turtle. Follow turtle.* She had meant, she said, to march them through the heart of the Mizi village, to sit with the elders and learn why they could no longer synchronize with the clan through the nodes the way Harmony connected to everyone else. But something in her insisted they trust the turtle instead — the fate of an empire riding on a walking shell, and it made no sense, and it felt right anyway. So. Any theories? <!-- L1443 -->
+Ignatius stepped into the center of the lab, holding up both hands. "Hold on, hold on. Are you saying we're the only ones in the entire empire who can actually remember the damn turtle?!" <!-- L1420 -->
 
-Britt stepped in and gave her the history — the way the Mizi lived alongside the turtles, the long custom of leaving them be, the careful distance kept for generations. And yet this one had approached *them*, had chosen them. That reversal was the whole point, she said: it felt like a creature they were meant to follow at all costs. <!-- L1444 -->
+"Not the only ones who can see it," Ink clarified. "Anyone can see it when looking directly at it. The trick is that breaking visual contact erases the memory from the observer's mind." <!-- L1425 -->
 
-The professor pressed, gentle but relentless. Could Britt tell her more precisely how one was *supposed* to interact with the turtles — was there a rule, a law? <!-- L1450 -->
+"It makes people forget," Britt whispered, her eyes wide as the ancient lore pieces aligned. <!-- L1425 -->
 
-Not a law, Britt said. It wasn't like that. It was a social norm. And when the professor asked her to name it, she did: leave them be. Don't look at them, don't touch them, don't do anything at all. And you looked, the professor observed. Anything else? You touched it, too. <!-- L1455 -->
+Ignatius looked around the room. "Raise your hand if you remember the turtle right now." <!-- L1428 -->
 
-Well, Britt said — it had looked at *them* first. The professor conceded the point, then caught herself with a wry, unsettled laugh: it hadn't looked at *her* yet, she said, and she suspected she was already inventing memories of the creature she didn't actually have. But it had looked at them, hadn't it — and at a few others in the party. It had *wanted* certain people to come along. Which ones, she asked. Point them out. Britt pointed: Pip, and Bramble — the turtle had stopped in its tracks when the two of them started to peel away from the group. Lomi echoed the names. Was it Pip, or Bramble, or both? Both had stopped, Britt said, both had turned to go a different way. The professor nodded — it had been unclear which of the two it was signaling, but it had unmistakably looked at Zephyr as well. Lomi noted, dryly, that it seemed to be pointing at *himself* too. It was everybody, really, Britt said. It was her. <!-- L1466 -->
+Every hand in the room went up—except Rill's, who wavered awkwardly. "I remember talking about turtles... sort of," Rill muttered, her brow furrowing in frustration. "Like a dream slipping away." <!-- L1443 -->
 
-The professor didn't know what to make of any of it. But she circled back to the thing Professor Conte had proposed over the speaking stone — that the reason Harmony couldn't connect to the Mizi was something the Mizi had, for some buried reason, been *told not to do*. To an outsider like her, she said, it looked simple: they had broken their own social norm, and breaking it had changed the way things were supposed to unfold. Was that true? Britt said yes. And was there anything else, the professor asked, that had happened when they touched it? <!-- L1489 -->
+Professor Ink held up her leather notepad. "I had originally planned to navigate *Elijah* straight to the central Mizizi trade canopy to consult your clan elders regarding the node synchronization failure. But every instinct demands we follow this tortoise instead. Britt... what does your clan lore say about these entities?" <!-- L1443 -->
 
-Their friend had been trapped inside it, Britt said — and, catching Lomi's eye across the barge, she told the rest, too: the memories they'd seen of people who'd broken the norms and died, the memories they themselves had somehow forgotten and only now recovered. The professor absorbed it all, then set it aside for later thought. If there was anything else, she told them, they should tell Rill, or her, or call Professor Kante — he liked biscuits, apparently; was that normal? So much they didn't know. She was already drifting toward the door when she pivoted back with one more question. Did they know any of the other clans? As far as she could tell they had Britt, and Zephyr, and Iggy — were there others? Rill couldn't remember. Could Lomi? <!-- L1520 -->
+"Our people live alongside the tortoises," Britt explained softly. "The tradition has always been to maintain careful distance and never interfere with their path. But this creature approached us. It sought us out." <!-- L1444 -->
 
-And that was when it surfaced in him — dredged up out of the same drowned place the turtle had opened. He could suddenly remember who had been in the Exchange, the thing he had never once been able to recall before: a woman who looked uncannily like Iggy, and a quiet, pale man who shared the fine high-browed features of Saffron. The names came up out of the dark and held, and Lomi knew, looking at the professor's waiting face, that it fell to him to say them aloud. <!-- L1528 -->
+"Is there a formal law governing interaction?" Ink pressed. <!-- L1450 -->
+
+"Not a written law," Britt said. "A social norm passed down through generations: leave them be. Do not look at them, do not touch them, and never follow them." <!-- L1455 -->
+
+"And you looked at it," Professor Ink observed sharply. "You touched it. And what happened?" <!-- L1455 -->
+
+"Pip was pulled inside its memory space," Britt revealed, glancing at Lomi. "And when we touched it, we witnessed ancient memories of our people—wanderers who asked questions and died from the exact same illness spreading on my skin." <!-- L1466 --> <!-- L1489 -->
+
+Professor Ink listened with rapt attention, nodding solemnly. "This aligns with Professor Kante's working thesis. Harmony's inability to synchronize with the Mizizi is rooted in a cultural taboo that your ancestors were explicitly forbidden to break. By breaking that social norm, you initiated a dormant resonance cycle." <!-- L1489 -->
+
+She paced across the laboratory deck, looking at each of the cadets in turn. "And this entity deliberately selected individuals from our camp. It stopped for Pip and Bramble. It stopped for Zephyr. It collected representatives from five distinct clans." <!-- L1466 --> <!-- L1520 -->
+
+Ink turned toward Lomi. "Do you recognize which clans are represented here?" <!-- L1520 -->
+
+Lomi closed his eyes. In the quiet darkness behind his eyelids, the memory unlocked by the tortoise surfaced with crystal clarity—faces from the Great Clan Exchange that he had never been able to recall before.
+
+"I remember them now," Lomi said, opening his eyes and looking straight at Saffron and Iggy. "There was an Earthkin woman who looked just like Iggy... and a pale, quiet scholar who carried the exact high-browed features of Saffron." <!-- L1528 -->
 
 <!-- LEDGER: rendered=[1413, 1418, 1420, 1425, 1428, 1443, 1444, 1450, 1455, 1466, 1489, 1520, 1528] skipped=[] -->

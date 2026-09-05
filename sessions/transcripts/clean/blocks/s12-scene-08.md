@@ -2,30 +2,50 @@
 
 ## CHAPTER 5: THE WALKER ELIJAH
 
-Rill moved through the triage camp like a fish threading a current, and Lomi struggled to keep his eyes on her blue hair as the tents blurred past. Familiar faces caught at the edges of his vision. One in particular struck him hard: a few tents down, a figure he knew was Lucky, hunched over a large shape draped beneath a tarp, shoulders heaving. Lucky did not see him. And Lomi had a half-second to choose — peel away toward his grieving friend, or stay on Britt's heels.
+Rill darted through the crowded harbor camp with the agile grace of a river fish cutting upstream. Lomi and Britt sprinted behind her, their eyes locked on the vibrant flash of her electric-blue hair as canvas tents and rushing medics blurred past.
 
-He stayed. "Stay with Britt," Lomi muttered, more to himself than anyone, and let the tent slide past. <!-- L0711 -->
+Out of the corner of his eye, Lomi caught sight of a deeply painful scene: a few tents down, Lucky was hunched over a cot draped in heavy grey canvas, his broad shoulders heaving in silent, agonizing grief. Lucky did not see him pass. Lomi hesitated for a split second, his chest tightening—forced to make an instant choice between peeling away to comfort his grieving crewmate or staying locked on Britt's heels.
 
-They came at last to a walker that was more spindle than machine — elegant, arachnid, lean where the industrial rigs were brutish. Rill took the ladder two rungs at a time, paused beneath an open hatch, beckoned them up, and vanished inside. Her silhouette climbed level after level until her blue hair disappeared into the bubble-cockpit at the top. Lomi and Britt followed, hand over hand, past a crew bunk, past a laboratory, past an operations center, until they emerged into a cramped lounge fitted with steering mechanisms.
+"Stay with Britt," Lomi muttered under his breath, clenching his fists and pushing forward. <!-- L0711 -->
 
-There they found Professor Ink — a poised elven woman with raven-dark hair — while Rill spilled words in a frantic tumble, explaining that something impossible was happening, that in tens of thousands of years no tortoise had ever left its grove, and now one was walking through the forest, right there, and she'd already half-forgotten the details the elders had told her. Ink's hand lifted. *Calm. Slower. More clearly.* Even the professor admitted she wasn't sure she could describe it. <!-- L0717 -->
+They arrived at the base of the colossal four-legged walker. Unlike the brutish, heavy iron mining rigs of the deep harbor, this machine was remarkably lean and elegant—an arachnid marvel of articulated brass joints, reinforced struts, and streamlined copper plating. A lower entry hatch stood open, with an iron rung ladder extending down to the sand.
 
-"There you go," Britt said quietly, as Rill finally caught her breath.
+Rill scrambled up the ladder two rungs at a time, paused beneath the hatch to beckon them inside, and vanished into the interior. Lomi and Britt climbed rapidly behind her, ascending level after level through the machine: passing a cramped crew bunk module, a sparkling biological laboratory filled with glowing glass alembics, an operations command center with acoustic dials, and finally emerging into an airy observation lounge fitted with panoramic glass windows and steering levers. <!-- L0717 -->
 
-Ink introduced them properly — these were the two sisters Rill had spoken of, though only one could come, since the other was following the sacred tortoise through the camp. Ink strode forward in an elegant black suit, hand extended toward Britt. "It is a pleasure," she began, then reconsidered the corpses beyond the hull. "Well — maybe not today." Sensing Britt's hesitation, she offered instead the traditional Mizizi greeting, and they bumped fists. <!-- L0720 -->
+Standing at the forward console was Professor Ink—a poised, sharp-featured elven scholar dressed in a tailored black vest, her dark raven hair bound in a precise silver clasp.
 
-Ink got to the point. She would select Britt's group, and at least one other crew, to guide her into the Mizi forest. She didn't yet know what they faced. Three days aboard Elijah — she gestured at the deck beneath her feet — the walker she had built to cross the Mizizi forest faster than anything alive. What had happened this night was unprecedented, and she would need a guide. "Would you come with me?" <!-- L0734 -->
+Rill burst into the cockpit, words spilling from her lips in a breathless, frantic torrent. "Professor! Professor! You have to listen—there is something unbelievable happening! In tens of thousands of years, the elders told us that no Spirit Tortoise has ever left its grove, and now one is right out there, walking through the forest in a perfectly straight line! It completely defies the resonance decay!" <!-- L0717 -->
 
-"Yeah — half our friends are headed there right now," Britt said. "So, yes. Let's go." <!-- L0737 -->
+Professor Ink raised a calming hand, a faint, measured smile touching her lips. "Calm, Rill. Breathe. Speak slower and more clearly." <!-- L0717 -->
 
-"Great." Ink would meet them at the camp's edge in one hour and board. If Britt had anyone worth bringing, she could bring up to ten — that was all the walker and its crew could hold. Then Ink turned to her assistant. "Now, Rill — tell me everything you've learned on the ground so far." <!-- L0738 -->
+"There you go," Britt said softly, as Rill finally took a deep, shuddering breath. <!-- L0718 -->
 
-Lomi shifted. That worked out cleanly enough, he thought — he'd already planned to get Iggy to talk to Kante anyway. <!-- L0744 -->
+"Professor, these are the two sisters from the Mizizi clan I told you about," Rill said, gesturing toward Britt and Lomi. "Well, Britt came with me, and Aggie is following the tortoise right now." <!-- L0720 -->
 
-As if summoned, the speaking stone crackled to life. A voice came through: *Professor Kante, please come in.* A moment, some rustling of papers, and Kante's own voice answered — he had nothing yet, one moment. Then, working it aloud: his theory was that the Mazizi had been misinformed, that whatever they'd been taught was blocking the connection. Everything the clan had told them had led nowhere. It had to be something repressed. He recalled the ash floods, how the fire-folk too had feared bringing the flame outside their volcano until someone who could truly *connect* with them had made the difference — versus, he said dryly, a man who cared more about seeing the thing than learning it. What, he asked, could they tell him about this night, and about the Mizi? <!-- L0748 -->
+Professor Ink stepped forward, extending a gloved hand toward Britt. "It is a pleasure to meet you," she began, then glanced out the observation glass toward the triage camp below. "Well... perhaps not under these tragic circumstances." Sensing Britt's hesitation, Ink smoothly shifted her posture and offered the traditional Mizizi fist-bump instead. Britt returned the gesture with a nod of respect. <!-- L0720 -->
 
-The conversation tangled — Aggie's attempt to mind-link with Britt across the camp brought on a splitting migraine, and the party bickered gently over whether the god *tortoise* would move faster if it weren't, in fact, a tortoise. Through it all, Britt stayed wary. She was still suspicious of every face here; nothing yet had shown her she could trust anyone. But over the stone she said what she knew: a tortoise had exited the forest, and they needed to go back immediately. That was all she had. <!-- L0791 -->
+Ink got straight to the core of the crisis. "I have decided to commission your squad to guide my expedition into the deep Mizizi forest. What occurred in the arena tonight is unprecedented, and I suspect it is tied directly to the resonance failure of the ancestral network. We will depart aboard *Elijah*—" she gestured to the humming steel deck beneath their feet "—the high-speed walker I designed to traverse the petrified canopy faster than any standard convoy. Would you be willing to come with me?" <!-- L0734 -->
 
-Kante pressed her, gently but firmly. This reluctance, he suspected, was part of the very problem. Perhaps in the next seventy-two hours they could find a way past her fear of understanding — because they *needed* to know what she knew. He conceded the point when Britt bristled: if she did not trust them, well, they had yet to prove themselves, especially after tonight. When she had reason to trust, she said, she would share what she knew — in her own time. <!-- L0796 -->
+"Yeah," Britt answered without hesitation. "Half our friends are already heading toward the grove right now. So, yes. Let's go." <!-- L0737 -->
 
-<!-- LEDGER: rendered=[711, 717, 720, 734, 737, 738, 744, 748, 791, 796] skipped=[] -->
+"Excellent," Professor Ink replied. "We will rendezvous at the northern basin perimeter in one hour to board. You may bring up to ten companions—that is the operational limit for *Elijah*'s life-support systems." She turned toward her assistant. "Now, Rill—brief me on everything you observed on the ground." <!-- L0738 -->
+
+Lomi stepped toward the comms table, tapping the crystal apparatus in his coat. "That works out cleanly. I was hoping we could get Iggy and the professors patched in together." <!-- L0744 -->
+
+As if summoned by his thought, the crystal communication stone on the table crackled with high-frequency resonance.
+
+A voice resonated through the crystal speaker: *"Professor Kante, please respond."*
+
+After a heartbeat of rustling papers, Professor Kante's intellectual, resonant voice filled the cockpit. *"I am here. One moment... I am reviewing the energy telemetry. My working hypothesis is that the Mizizi clan has been operating under deeply repressed ancestral knowledge. Whatever the elders taught their youth has formed an ideological block against the network's connection."* <!-- L0748 -->
+
+Kante paused, his tone taking on a reflective, scholarly weight. *"Consider the historical precedent of the Ash-Blood clan. They too lived in complete isolation, terrified of taking their volcanic flames beyond the mountain rim, until someone capable of genuine cross-clan resonance bridged the gap. What happened tonight was not random. The Spirit Tortoise's emergence indicates the ancestral web is demanding connection."* <!-- L0748 -->
+
+Britt stepped toward the crystal stone, her arms crossed defensively. She remained deeply wary of outside scholars and Academy motives. "Look... all I know is that our sacred tortoise has left the grove, and we need to follow it back immediately. That's all we have." <!-- L0791 -->
+
+Kante's voice answered gently through the speaker. *"I understand your reluctance, Britt. But in the coming seventy-two hours, we must work together to move past this fear of the unknown. We need the knowledge you carry, and you need the technical reach of our walkers."* <!-- L0796 -->
+
+Britt met Professor Ink's steady gaze across the console. "When I have reason to trust you," Britt said firmly, "I will share what I know. In my own time." <!-- L0796 -->
+
+"Fair enough," Professor Ink agreed with a solemn nod. "One hour. Prepare your squad."
+
+<!-- LEDGER: rendered=[711, 717, 718, 720, 734, 737, 738, 744, 748, 791, 796] skipped=[] -->

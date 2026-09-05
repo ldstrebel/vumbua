@@ -2,30 +2,64 @@
 
 ## CHAPTER 10: WADI WATER
 
-Rill drew a breath and tried to be as honest as she could. She was from a clan they called the Wadi, she said, who lived in a canyon. Their spark — the thing that made them what they were — was a source of water that, her whole life, had been nothing but drips and trickles. Then, in the last few years, it had begun to surge and rise again, filling channels their people had always known were meant to hold it, until they'd had to rebuild the very houses they'd let crumble. <!-- L1138 -->
+In the quiet of the locked laboratory, Rill leaned back against the steel door, wrapping her arms tightly around herself.
 
-Ignatius leaned in, struck by it. That was like the fire, he said — the fire and heat of ash-blood, the thing that made his own people what they were. Rill nodded; it was nearly the same, almost exact. Only hers had run so dry her clan had believed they were dying out, watching their whole civilization slide toward going under. She'd left before she learned whether any of her family survived, because she'd had to go for the exchange. But there had been a cave, one of the only places that stayed moist through the worst of the seasons, and that was where this poison grew — and as far as she knew, unless that particular water touched it, it grew nowhere else on the whole of the earth. So for Britt to have seen the symptoms in the forest, the only thing Rill could imagine was that something in the Mizizi's own lore, from the before-times, might explain it.
+"I've been keeping this inside for so long," Rill confessed softly, looking between Britt, Aggie, and Iggy. "It's just so hard to talk about where I came from... the clan exchange scrubbed so much out of us, and I'm still trying to overcome that indoctrination every day. But I want to be honest with you." <!-- L1138 -->
 
-The old turtles, Ignatius offered. Maybe, Rill allowed. She knew a little about the turtles, though the clan hadn't trusted her with much — you didn't hand your deepest secrets to a stranger you'd only just taken in. She had done the network once, though, and it had terrified her. When Ignatius said that was how his own people had survived — the branching trees, the roots, that was what had kept them alive in the forest — Rill said that sounded exactly like the sort of thing the Mizizi were always going on about, talking to trees. It wasn't quite that, she explained: there was the fungal network, which spoke to the trees and the plants but had no soul, and there was the mycelium network, which let them travel. They sounded the same and they were not, and the two of them agreed to sit down and untangle it properly some other time.
+She took a deep breath, her electric-blue hair falling across her brow. "I'm originally from a clan that called themselves the Wadi. We lived in the deep western canyon. Our ancestral spark—the thing that made our people special—was a sacred source of water. But for my entire childhood, the spring was dead. Just a few dry drips and trickles. We thought our entire civilization was dying out." <!-- L1138 -->
 
-Because the point, Rill said, coming back to it — the point, Britt — was that she was as certain as she could possibly be that this was the same substance. There were tests; she flipped through charts and tables and pulled out fistfuls of herbs, and she pointed to a row of small mice that had decayed with rapid, identical symptoms. She didn't love the animal testing, she admitted, but she'd been terrified when she heard it was Britt. Death was death, she supposed — she was still learning that part too — but she needed Britt to trust her.
+Ignatius stepped closer, his eyes wide with recognition. "That's just like the Ash-Blood clan," Ignatius whispered. "Our magma springs went cold... we thought our whole people were going to go under." <!-- L1140 --> <!-- L1153 -->
 
-So this wasn't natural, Britt said slowly. This had been introduced somewhere other than Rill's canyon. It should be impossible for it to live anywhere else, Rill said — maybe the forest would teach them something, maybe the elders knew, maybe Agatha knew. But the truly frightening part was that Britt hadn't fallen ill in the forest at all. She'd gotten sick after they reached Harmony, down a hill by a drainpipe, and when Rill saw the ten-year-old compass from the buried cache on the cliff she called it weird, impossible, and asked who else had ever carried this disease. A few of their clan, Britt said, adventurers, many years ago. How many? Rill pressed. About ten. That was the thing that turned Rill cold: they had died of a poison that grew in one spot and one spot only, and they had been exactly the kind of people who would leave the forest and ask questions.
+"Yes," Rill nodded, her voice thick with emotion. "It was the exact same thing. When I was chosen for the exchange, I left not even knowing if my family would survive. But in our canyon, there was a deep, hidden cave—one of the only places that stayed damp through the worst droughts. And that cave was where this glowing fungus grew. Unless that specific canyon water touched it, it grew nowhere else in the known world. So for you to say that you've seen people suffering from these symptoms in the Mizizi forest... the only explanation is that something connected our lands in the ancient before-times." <!-- L1147 --> <!-- L1150 -->
 
-Ignatius, unable to hold it any longer, leaned over. Wasn't dying supposed to be a good thing in Britt's community? <!-- L1218 -->
+"The old turtles," Ignatius suggested. "The ancient network." <!-- L1153 -->
 
-Not the time, Rill snapped — they were on a mystery hunt. But Ignatius pushed on: his own people had been dying out, had met with Harmony, and suddenly the magma and heat came surging back; now here was a society that revered death, connecting with Harmony, and finding more death in its midst. He didn't know if there was a link, but it nagged at him. They did not worship death, Rill corrected sharply. They acknowledged that death was the one inevitable truth, and that there had to be a necessary balance between life and death — you could not simply prevent it. <!-- L1225 -->
+"Maybe," Rill murmured. "I was never trusted with the deepest clan secrets because I was new. But I traveled through the mycelium network once... and it was terrifying." <!-- L1154 -->
 
-Ignatius agreed with her, in his roundabout way — perhaps maintaining balance had in fact thrown their balance off, perhaps Harmony had tipped it — but what he kept circling back to was the timeline. Did the sickness begin when they connected with Harmony, or before? The water didn't kill them, Rill insisted; the water was their life, their soul. Right, said Ignatius — so the water was rising, and people were falling ill, and were the two timelines aligned? Not for the Wadi, Rill said flatly. They didn't touch the stuff. They knew it was bad, radioactive, cursed; she hadn't even known it could exist anywhere but that cave. But here, she said, was what they did know: the last time this happened, the Mizizi said it was ten years ago — far before anyone had heard of Harmony, before Britt's clan was ever discovered by Vane, and long before the papermen came to the Mizizi. <!-- L1243 -->
+"That's how we survived the arena storm!" Ignatius said proudly. "Thanks to Britt and Aggie speaking to the roots, we didn't die in the forest." <!-- L1158 --> <!-- L1160 -->
 
-So there was another variable, Ignatius concluded, an unknown one, in play. Something like that, Rill said. She didn't have all the answers. But she knew Britt would die if she didn't drink this.
+Rill smiled faintly, then shook her head. "Talking to trees is different. There's the fungal network, which speaks to the living flora, and then there's the deep mycelium network, which carries the soul and allows physical travel across the earth. They sound identical, but they operate on completely different resonance." <!-- L1173 --> <!-- L1176 -->
 
-Ignatius turned to her. Hey, Britt. Hear him out. Drink that. <!-- L1250 -->
+Rill turned back to the lab counter, flipping through stacks of parchment charts and botanical sketches. She pointed to a glass terrarium holding three small field mice, each showing the same distinct grey fungal decay along their spines.
 
-Britt was torn — this cut straight to everything they'd just been wrestling with, the ethics of intervening in the natural cycle. Her questioning, she said, was really an attempt to understand: this was an interruption to the natural path. This wasn't supposed to be. No, Ignatius answered, catching the thread — this was not an interruption. This was him trying to tell her that the water was natural, that the medicine was part of the natural path, so that she might live on and help save her people. She was a valued member of this party, he said, and they needed her for whatever came next; nobody here wanted to watch her die, and he genuinely did not believe it was her time yet. <!-- L1261 -->
+"I don't love animal testing," Rill admitted quietly, "but when I realized what was happening to you, Britt, I panicked. I worked with Professor Ink using Harmony compounds to synthesize this stabilizer. This isn't natural to the forest. Someone brought it here." <!-- L1180 --> <!-- L1200 -->
 
-That wasn't for him to decide, Britt said. You're right, Ignatius conceded — it's for you to decide. And it was on those words, that it was hers to decide, that Britt nodded and drank it down. <!-- L1264 -->
+Britt crossed her arms, her jaw tightening. "This substance wasn't found in the deep woods. I was infected right after we arrived in Harmony, down in a drainage ditch near the cliffside where we found an old cache containing a ten-year-old compass." <!-- L1205 -->
 
-It wasn't instant. The neon purple went down without much taste at all — Rill said it was pretty much like Gatorade, and Britt, swallowing, agreed: Gatorade. Across the little lab, Rill sagged against the door frame in pure relief, whispering thanks to God, then to the water, before she straightened. Okay, she said. Now — new problems.
+Rill went rigid. "A ten-year-old cache?! Has anyone else in your clan ever died from this condition?" <!-- L1210 -->
 
-<!-- LEDGER: rendered=[1138, 1218, 1225, 1243, 1250, 1261, 1264] skipped=[] -->
+"Yes," Britt answered. "In our ancestral records... about ten people. Adventurers who left the forest to explore the outer world." <!-- L1212 -->
+
+A chill settled over the room. "Ten people," Rill whispered. "All curious wanderers who left the forest... dying of a poison that exists in only one isolated canyon gorge." <!-- L1215 -->
+
+Ignatius looked between them, scratching his head. "Wait... isn't dying supposed to be considered a natural, good thing in your clan philosophy?" <!-- L1218 -->
+
+"Ignatius, read the room!" Rill hissed. "We are on an active investigation!" <!-- L1220 -->
+
+"No, think about it!" Ignatius insisted, stepping forward. "My people were dying out, then we connected with Harmony, and suddenly our magma erupted with life! Your clan revered death and balance, and now that you've connected with Harmony, you're finding more death and disease! Doesn't the timeline seem suspicious?" <!-- L1222 --> <!-- L1225 -->
+
+"We do not worship death," Rill corrected fiercely. "We acknowledge that death is an inevitable truth of the world, and that balance between growth and decay must be respected. But the last time this illness appeared among the Mizizi was ten years ago—long before Captain Vane ever discovered your valley, and long before the Harmony cartographers arrived!" <!-- L1225 --> <!-- L1243 -->
+
+"Which means there is a third, unknown variable at play," Ignatius concluded. <!-- L1245 -->
+
+"Exactly," Rill said. She picked up the neon-purple vial, pressing it gently into Britt's hands. "I don't have all the answers yet, Britt. But I know for a fact that if you don't drink this, you won't survive the fortnight." <!-- L1248 -->
+
+Britt hesitated, staring down at the swirling tonic. "Intervening like this... it feels like interrupting the natural path. Is this supposed to happen?" <!-- L1250 -->
+
+Ignatius placed a warm, steady hand on Britt's shoulder, his voice dropping to a sincere, earnest cadence. 
+
+"Britt, hear me out," Ignatius said gently. "This isn't an interruption of nature. This medicine was made from natural waters, synthesized so that you can stay alive and save your people. You are a core part of this squad. We need you for whatever is coming next. Nobody in this room wants to watch you die—and I genuinely do not believe it is your time to go." <!-- L1250 --> <!-- L1261 -->
+
+Britt looked up, meeting Ignatius's warm, fiery eyes, then glanced at Aggie and Iggy's supportive faces. "That's not for you to decide," Britt murmured softly.
+
+"You're right," Ignatius smiled warmly. "It's for you to decide." <!-- L1264 -->
+
+Britt nodded. Without another word, she popped the cork, tipped the glass vial back, and drank the shimmering purple tonic in a single long gulp. <!-- L1264 -->
+
+Rill held her breath, leaning forward. "How does it taste?"
+
+Britt smacked her lips, blinking in surprise. "It... honestly tastes like Gatorade." <!-- L1268 -->
+
+"Gatorade!" Rill laughed with overwhelming relief, slumping against the counter. "Thank the gods. Thank the water." She wiped a bead of sweat from her forehead and smiled. "Okay. Now... onto the next problem." <!-- L1270 -->
+
+<!-- LEDGER: rendered=[1138, 1140, 1147, 1150, 1153, 1154, 1158, 1160, 1173, 1176, 1180, 1200, 1205, 1210, 1212, 1215, 1218, 1220, 1222, 1225, 1243, 1245, 1248, 1250, 1261, 1264, 1268, 1270] skipped=[] -->

@@ -182,18 +182,28 @@ def render(session_id, sessions_dir=None, index_dir=None, attribution_path=None,
 
     out_path = out_path or os.path.join(base_dir, "transcripts", "clean",
                                         f"{session_id}-clean-attributed.md")
+
+    def _safe_relpath(p):
+        if not p:
+            return None
+        try:
+            return os.path.relpath(p, base_dir)
+        except ValueError:
+            return os.path.abspath(p)
+
     with open(out_path, "w", encoding="utf-8") as handle:
-        handle.write(f"# {session_id.upper()} Clean Transcript (attribution-derived)\n\n")
+        handle.write(f"# Session {session_id.upper()} — Clean Transcript (Attributed)\n\n")
+        handle.write(f"**Session config:** `{_safe_relpath(config.path)}`  \n")
         handle.write(f"**GM:** {config.gm}  \n")
         for mic in config.shared_mics:
-            handle.write(f"**Shared mic `{mic.mic_label}`:** carries "
+            handle.write(f"**Shared mic `{mic.mic_label}` carries:** "
                          f"{', '.join(mic.identity_labels())}  \n")
         handle.write(f"**Source attribution:** `{attribution['indexed_file']}` via "
                      f"`{attribution['decisions_file']}`  \n")
         if inserts_spec:
             handle.write(f"**Storyboard inserts:** `{inserts_spec['storyboard']}` spliced "
                          f"after L{inserts_anchor:04d} via "
-                         f"`{os.path.relpath(inserts_path, base_dir)}`  \n")
+                         f"`{_safe_relpath(inserts_path)}`  \n")
             handle.write(f"**Insert provenance:** {inserts_spec['delivery']}  \n")
         handle.write(f"**Turn stitching:** {'on' if stitch_turns else 'off'} — fragments a "
                      f"speaker was interrupted mid-sentence are rejoined, and the anchor "
@@ -211,7 +221,7 @@ def render(session_id, sessions_dir=None, index_dir=None, attribution_path=None,
                 anchor = f"L{start:04d}–L{end:04d}"
             handle.write(f"**{speaker}** [{anchor}]: {' '.join(texts).strip()}\n\n")
 
-    print(f"Clean transcript written: {os.path.relpath(out_path, base_dir)}")
+    print(f"Clean transcript written: {_safe_relpath(out_path)}")
     print(f"  entries: {len(merged)}")
     for speaker, count in sorted(counts.items(), key=lambda kv: -kv[1]):
         print(f"  {count:5d}  {speaker}")

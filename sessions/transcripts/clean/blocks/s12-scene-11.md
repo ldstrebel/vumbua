@@ -2,14 +2,54 @@
 
 ## CHAPTER 8: THE IRONCLAD SALUTE
 
-The honor guard had already gathered Sarge onto their shoulders by the time Lomi caught up, a knot of crew members jogging their fallen comrade toward the battleship moored at the pier. Lomi fell in beside them, then paused to check the sky. He caught a passing dockhand by the sleeve and asked what time it was — surely, he said, it couldn't be much past five in the morning. The man told him it was closer to eight, plus the three hours the storm had eaten, which put it almost at noon. Lomi took that in, then nodded to himself. He had time. He wanted to see this through, and so he followed Lucky into the shadow of the ironclad — for Sarge, who had been his friend. <!-- L1018 -->
+Lomi followed Lucky toward the command pavilion, where a circle of veteran officers stood near the harbor docks. At the center stood an imposing Goliath captain, completely bald, his face etched with ceremonial bridge-tattoos, wearing heavy iron plating riveted into a thick leather duster. Inscribed in polished brass across his chest armor was a single word: *IRONCLAD*. <!-- L1008 -->
 
-While the crew rigged a modified Viking funeral on the deck above, Aggie doubled back through the thinning camp to find Val. The tarps that had sheltered him were gone now; he sat alone beside Kale, hollowed out. Aggie confessed she didn't know what to say. There had been a theory going around, Val murmured, that his father had broken something the day he found the Mizizi — and now here was their spirit tortoise, walking out of the arena as if to set something right. He didn't know the why of any of it, but he wanted to. Whether or not his father was the cause, he hoped there was still a chance to make it whole. Then he said he wanted to come. Kale gave him a nod, the two of them clasping hands in a quiet shake, and Val rose. "All right," he said. "Lead the way." <!-- L1021 -->
+Lucky approached the captain, his hand outstretched. "Captain... it's about Sarge." <!-- L1008 -->
 
-Across the camp, the great tortoise had already turned its blunt head toward the horizon. Ignatius met that ancient, weighty gaze and told it simply to lead — to go on ahead, and they would follow. He and Zephyr and Iggy, with Pip and Bramble and Saffron trailing after, made their slow way toward the edge of the camp, pausing only to sweep a small sack's worth of treats from the food table under the tortoise's watching eyes. <!-- L1024 -->
+The Goliath nodded with solemn gravity, placing a massive hand over Lucky's shoulder. He flagged down four of his strongest crewmen, who stepped forward with crisp military precision, lifted Sarge's shrouded stretcher onto their broad shoulders, and began an honor jog toward the colossal ironclad battleship moored at the central pier. <!-- L1008 -->
 
-Then the ironclad spoke. A full broadside erupted from its decks, the massive shells detonating prematurely and throwing the whole bay into a false thundercloud of smoke; a second barrage lit the storm from within, a cataclysm of color, before a third dispelled it all in a single instant. Twenty-one guns, and a naval funeral — the crew had debated packing him into a shell and firing him out to sea, but in the end they simply pitched him over the side as the guns saluted. When the smoke cleared, Lucky turned to Lomi. He didn't know what the hell he was doing, he admitted, but he felt like doing it anyway — so let's do it, let's go. Lomi answered him just as plainly: let's do it. <!-- L1037 -->
+Lomi caught a passing dockworker by the sleeve. "Hey, what time is it? It's like five in the morning, right?" <!-- L1009 --> <!-- L1014 -->
 
-They made their way back across the camp to where the metal scarab of a walker had scampered into place at the camp's edge. All of them, together now — Britt, Iggy, Ignatius, Lomi, Aggie, Val, Pip, Bramble, Saffron, Zephyr, and Lucky, an even eleven — loaded up the ladder. The tortoise waited until the last boot left the ground, then tore a split in the earth and rocketed toward the forest at what it seemed to think was the walker's own pace. It caught Aggie's eyes last of all, nodded, and was gone in a spinning V of flattened grass. As the hatch sealed, the vehicle shuddered into motion, accelerating until it galloped in a dead-straight line after the spirit tortoise, bound for the Mizizi forest.
+The worker glanced at the high morning glare. "It's almost noon, mate. The night storm ate three hours of daylight." <!-- L1010 --> <!-- L1015 --> <!-- L1017 -->
 
-<!-- LEDGER: rendered=[1018, 1021, 1024, 1037] skipped=[] -->
+"Got it," Lomi nodded, picking up his pace. "I've got time to see this through." <!-- L1016 --> <!-- L1020 -->
+
+Across the clearing near the food tables, a small field broadcast stand had been erected, its brass resonator horns crackling with live transmission. Standing at the crystal dials was Ember, carefully adjusting the resonance frequencies while the unmistakable, velvety baritone of **Valerius Sterling** echoed across the entire triage camp. <!-- L1021 -->
+
+*"Citizens of Harmony, faculty of Vumbua, and brave surviving cadets,"* Valerius's voice resonated through the speakers, dripping with polished, dramatic gravity. *"What was intended as the ultimate trial of navigation and skill became a harrowing crucible of raw survival. The unprecedented tempest that shattered the arena's protective barrier took from us seasoned captains and promising first-year cadets alike. Yet even in the teeth of catastrophe, the spirit of the Academy did not break. From the canopy wreckage to the flooded river basins, our cadets stood their ground, triaged their wounded, and proved the enduring resilience of our future."* <!-- L1021 -->
+
+A few paces from the broadcast stand, Serra Vox stood alone at the perimeter of the crowd, listening in silence. Her expression was unreadable, but as the broadcast concluded, she offered a slow, deliberate nod to herself and slipped quietly into the captains' strategy pavilion. <!-- L1021 -->
+
+Across the thinning triage rows, Aggie doubled back to find Val sitting beside Kale's cot. The heavy canvas tarps had been cleared away, leaving Val sitting alone in the grass beside his recovering friend, his head bowed. <!-- L1021 --> <!-- L1023 -->
+
+Aggie knelt down before him, her voice gentle and earnest. "Look... I'm sorry," Aggie said softly, meeting his tired, bloodshot eyes. "I don't know the right thing to say in a moment like this. And I don't know the *why* of what happened here. But I think we're going to find out why. We have a connection with our Spirit Tortoise, and it's leading us somewhere." <!-- L1021 --> <!-- L1023 -->
+
+Val looked up, his jaw tightening as he weighed her words. "You know... there's been this theory spreading through the camp that my father messed all of this up when he first discovered your clan," Val murmured, his fists resting on his knees. "Are you saying there's a chance to set that right?" <!-- L1021 --> <!-- L1023 -->
+
+"I hope so," Aggie said gently. "Whether or not that was really the cause, I hope there is a chance to set it right." <!-- L1023 -->
+
+Val turned to look down at Kale. The pale artisan looked back at him and gave a slow, firm nod, extending a hand for a solid grip. Val exhaled, the tension loosening from his shoulders as he made his choice. He stood up from the grass, extending a hand to clasp Aggie's. <!-- L1023 -->
+
+"Yeah," Val nodded, his resolve hardening. "Then I want to come. Lead the way." <!-- L1023 -->
+
+"Lead the way, turtle," Ignatius called out from across the camp, watching the giant shell glide toward the forest edge. <!-- L1024 --> <!-- L1026 -->
+
+Before they reached the boundary, a deafening thunderclap ripped across the entire basin.
+
+*BOOM! BOOM! BOOM!*
+
+A full naval broadside erupted from the massive turrets of the Ironclad battleship. The colossal artillery shells detonated in mid-air over the turquoise water, unleashing a dense, rolling thundercloud of black gunpowder smoke across the bay. A second synchronized barrage fired immediately after, igniting the smoke cloud from within with brilliant resonance pyrotechnics that painted the morning sky in vibrant streaks of crimson, gold, and turquoise. A third salvo cracked like lightning, instantly dispelling the storm cloud in a breathtaking twenty-one-gun salute as Sarge's body was committed to the deep canyon waters. <!-- L1035 --> <!-- L1037 -->
+
+Lucky stepped away from the battleship's gangway and jogged up beside Lomi on the beach, his jaw set with fierce resolve.
+
+"All right," Lucky said, rolling his shoulders. "I don't know what we're walking into, but I'm ready. Let's do this. Let's go." <!-- L1037 -->
+
+"Let's do it," Lomi smiled. <!-- L1038 -->
+
+They sprinted across the sand to where *Elijah*, Professor Ink's four-legged spider-walker, stood idling at the forest perimeter. 
+
+The entire expedition gathered at the base ladder: Britt, Iggy, Ignatius, Lomi, Aggie, Val, Pip, Bramble, Saffron, Zephyr, and Lucky—eleven companions in total. One by one, they scrambled up the iron rungs into the hull. <!-- L1040 --> <!-- L1041 -->
+
+As the lower entry hatch sealed shut with a pressurized hiss, the massive Spirit Tortoise looked up, met Aggie's eyes through the observation glass with a solemn nod, and surged forward—spinning a trail of flattened brush behind it as *Elijah*'s mechanical legs kicked into a galloping sprint, racing straight into the ancient Mizizi forest. <!-- L1040 -->
+
+<!-- LEDGER: rendered=[1008, 1009, 1010, 1014, 1015, 1016, 1017, 1020, 1021, 1023, 1024, 1026, 1035, 1037, 1038, 1040, 1041] skipped=[] -->

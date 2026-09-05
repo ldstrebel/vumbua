@@ -2,48 +2,66 @@
 
 ## CHAPTER 1: THE LONG WALK OUT
 
-The storm had spent itself somewhere back among the shattered trees, and what remained of the morning was a bruised, exhausted quiet. Squad 907 walked it out through the arena's canyon, boots dragging over splintered branch and churned mud, the aftertaste of ozone still coating the back of every throat. Somewhere overhead a battered intercom looped its promise on the wind—power restored, come to the exit, if you are hearing this and still breathing, you have succeeded—then, fainter, the instruction to make fires, to send up smoke, to signal if help was needed. The message reached them in fragments and folded over on itself, patient as a tide.
+The storm had finally broken against the petrified canopy, leaving the morning shrouded in a bruised, exhausted quiet. Squad 907 trudged out through the arena's winding canyon, their boots dragging through churned mud and splintered basalt needles, the sharp tang of ozone still clinging to the back of every throat. Overhead, mounted high upon the iron observation towers, a stadium intercom speaker crackled through the mist, broadcasting a looping automated recording across the ruined trees:
 
-Ignatius listened to it wash past and let a grin crack the grime on his face. "You hear that, guys?" he said, half turning to the others. "We passed." <!-- L0240 -->
+*"Power has been restored. Please come to the exit of the arena. You have succeeded! If you are hearing this and still breathing, you have definitely succeeded! For the rest, please... we will find you. Make fires or smoke signals if you need help."* <!-- L0231 --> <!-- L0242 -->
 
-Lomi kept his flat cap tilted against the sky and gave a short, dry laugh. "I guess they weren't kidding that it was dangerous," he said. Then, quieter, as though the admission surprised him coming out of his own mouth—"Holy—I was not expecting that." <!-- L0243 --> <!-- L0245 -->
+Ignatius wiped a smear of soot from his jaw, a slow grin cutting through the grime on his face. "You hear that, guys?" he called back over his shoulder. "We passed." <!-- L0240 -->
 
-"Yeah. They really unleashed a little bit of stuff on us back there." Ignatius rolled a shoulder, feeling the ache of the night in it. "Definitely. They definitely trusted us in our abilities." <!-- L0246 -->
+Lomi tilted his woolen flat cap back against the pale sky and let out a short, ragged laugh. "Yeah. I guess they weren't kidding that it was dangerous." He shook his head, the reality catching in his throat. "Holy shit. I was not expecting that." <!-- L0241 --> <!-- L0243 --> <!-- L0245 -->
 
-Lomi conceded the point with a tip of his head, then let his gaze wander to the ruined tree line, where the felines and the storm raptors had come screaming out of the dark hours before. He knew it hadn't been personal—the arena had simply had monsters at the ready and pointed them downhill—but knowing that didn't make the memory lighter. "Hopefully," Ignatius went on, warming to the thought, "hopefully I passed that written exam, too. We'll find out about that later, I'm sure." <!-- L0252 -->
+"Yeah. They really unleashed a little bit of stuff on us back there," Ignatius agreed, rolling his sore shoulder. "Definitely. They definitely trusted us in our abilities." <!-- L0246 --> <!-- L0248 -->
 
-Lomi snorted. "You don't need a written test if you impress the right people. That's all I'm saying." <!-- L0261 -->
+"I know it wasn't intentional on the proctors' part," Lomi said, glancing back at the shredded tree line where the corrupted felines and storm raptors had ambushed them in the dark, "but clearly they had monsters at the ready to point downhill. This was no joke." <!-- L0247 --> <!-- L0249 -->
 
-"We did almost die." Ignatius said it slowly, turning the fact over like a stone he wasn't sure he'd registered correctly. "I'm not sure I'm reading that right yet, but—we did it. And that's good." <!-- L0262 -->
+"Hey, we passed," Ignatius said, warming to the thought. "Hopefully I passed that written exam, too. We'll find out about that later, I'm sure." <!-- L0250 --> <!-- L0252 --> <!-- L0257 -->
 
-They walked a few paces in the strange comfort of having lived, and then Ignatius jerked his chin toward the shape moving steadily ahead of them all. "Hey—what was with that weird turtle, dude?" <!-- L0268 -->
+Lomi snorted with dry amusement. "You don't need a written test if you impress the right people. That's all I'm saying. Hopefully all the impressive shit we pulled out in the open is enough to outweigh anything that happened in the trees." <!-- L0251 --> <!-- L0261 --> <!-- L0265 --> <!-- L0267 -->
 
-Britt didn't answer him so much as answer the question that had already caught in her own chest. "Yeah," she murmured, eyes fixed forward. "Is the turtle still walking ahead of us?" <!-- L0269 -->
+Ignatius paused, his grin fading slightly as he turned the night over in his mind. "We did almost die. I'm not sure I'm registering that correctly yet, but... we did it. And that's good." <!-- L0262 --> <!-- L0264 -->
 
-It was. The great tortoise plodded on without a backward glance, taking the straightest line the terrain allowed—a line that would carry it, indifferent to their comfort, right down into the fast, deep river ahead. It was not, Ignatius could tell, thinking at all about how any of them would get across. It simply had a direction and belonged to it.
+They walked in silence for several paces, the strange relief of survival settling into their bones. Then Ignatius jerked his chin toward the massive, dark shape moving steadily through the underbrush ahead of them. 
 
-He tried, with a grin and a lazy wave, to coax something out of the beast—a little charm, a little cadet swagger—and got nothing back but the slow metronome of its steps. That was a lot, he decided, to spend on a turtle. Could he at least get some information out of it? Britt, meanwhile, had gone somewhere else entirely; she was zoned in, unblinking, the whole of her focus poured onto the shell ahead. <!-- L0275 --> <!-- L0278 -->
+"Hey—what was with that weird turtle, dude?" <!-- L0266 --> <!-- L0270 -->
 
-Ignatius let the turtle go and turned instead to the girl swaying beside him, Pip still cradled and shell-shocked against her. "Kim," he said, gentling, "how are you feeling?" <!-- L0282 -->
+Britt didn't answer. Her sharp green eyes remained locked forward, her gaze utterly fixed on the lumbering mass of the spirit tortoise ahead, entirely ignoring Ignatius's subtle dig. Her long dreadlocks of living root shifted against her grey tunic as she marched in silent, unblinking concentration, completely zoned in on the rhythmic plodding of its shell. No one was getting through her focus right now. <!-- L0269 --> <!-- L0278 --> <!-- L0312 --> <!-- L0314 -->
 
-Before the answer could form, deep thuds began rolling up through the ground—booming, ground-shaking footfalls that came pacing through the trees like something enormous running, T-Rex through the underbrush, close and getting closer. Pip barely had time to squeal before a vine whipped out of the green and snapped around her ankle, and she was ripped clean off Britt's shoulder and yeeted back into the abyss of the forest. A quarter second later she came flying out again—this time in Bramble's grip, the plant-kin clutching both her shoulders and berating her faster than anyone had ever heard him speak. Why had she gone for the stacks? Bad idea, Pip. Bad idea. His eyes warred between throttling her and weeping with relief. Behind him drifted Saffron, quiet as ever, a face half-remembered from an old study group where she had done nothing but sketch. <!-- L0294 -->
+Ahead of them, Mwaza-Kasa moved with slow, unyielding momentum. The ancient spirit tortoise didn't pause, didn't glance back, and took the absolute straightest line the terrain allowed—cutting directly through dense brush toward the roaring river ahead, wholly indifferent to their stamina or how they planned to follow. It simply possessed a direction and belonged to it. <!-- L0271 --> <!-- L0281 -->
 
-Bramble caught up, skidded to a stop before them, and looked the squad over. "Thank you," he said, "for keeping stupid Pip alive." <!-- L0296 -->
+Ignatius glanced at Britt, waiting for an answer, but got nothing back except the steady rhythm of her strides. Shrugging, he turned instead to the dazed pixie tucked securely beneath Britt's arm. 
 
-"You're welcome," said Ignatius.
+"Pip," Ignatius asked, leaning in, "are you okay?" <!-- L0282 -->
 
-"*Bard* was stupid," came Pip's indignant squeak—*I'm not stupid*—before Bramble looped a vine neatly around her mouth. "Hush, Pip. Your time for speaking and eating is suspended for the indefinite future." He wound her up against his torso and caged her there. <!-- L0298 -->
+The question snapped Pip right out of her shell-shocked reverie. Her oversized eyes went wide, and she squirmed in Britt's grip, exploding with frantic questions. "Yeah, what is with that?!" Pip shouted, gesturing wildly back toward the trees. "I got thrown into some sort of weird dream or something! Like a whole mental forest—" <!-- L0231 --> <!-- L0283 -->
 
-Lomi watched the maneuver with open envy. "I didn't realize that was an option," he said. "Wow. Wouldn't have done that a minute ago." <!-- L0299 -->
+Before the little pixie could finish, deep, rhythmic thuds vibrated up through the wet earth.
 
-"We could have used that a few times," Ignatius agreed. <!-- L0300 -->
+*THOOM. THOOM. THOOM.*
 
-Bramble ambled the last steps to them with Pip bundled against him. "So," he said, taking half a second to actually see them—*oh my gosh, you arrived, thank God*—before waving it off. "You all survived too. Thank you again. We're kind of in the middle of something, so we've got to keep going. You can come, too, though." He glanced at the tortoise, uncertain. "Are you leaving?" <!-- L0301 -->
+Heavy, booming footfalls came crashing through the petrified brush like a prehistoric beast on the hunt. Pip barely had time to let out a startled squeak before a thick emerald vine shot out from the foliage, snapped tight around her ankle, and violently yanked her clean off Britt's shoulder, yeeting her backward into the green shadows. <!-- L0283 --> <!-- L0285 --> <!-- L0294 -->
 
-"Follow the turtle, dude," Ignatius said, nodding after the retreating shell. <!-- L0311 -->
+A quarter-second later, Bramble burst out of the trees, holding Pip securely by both shoulders. The towering plant-kin's wooden face warred visibly between wanting to throttle the tiny pixie and weeping with overwhelming relief, and he began berating her faster than anyone had ever heard him speak.
 
-Britt hadn't moved her eyes from it once. "I'm pulling this turtle," she said, flat and absolute. "No one is getting through my focus right now." <!-- L0312 -->
+"Pip! Why did you go for the stacks?!" Bramble scolded, his voice vibrating with frantic urgency. "Pip, bad idea! Very bad idea, Pip!" <!-- L0294 -->
 
-Bramble seemed to accept this as a variable that had fallen into step, and so they walked—out of the forest at last, into open air, where the tortoise reached the water's edge and simply dropped in, disappearing beneath the current and beginning to swim.
+Behind them drifted Saffron, quiet and composed, the pale Renali scholar they recognized from old Academy study circles where she had spent hours silently sketching in the corner. <!-- L0294 -->
 
-<!-- LEDGER: rendered=[240, 243, 245, 246, 252, 261, 262, 268, 269, 275, 278, 282, 294, 296, 298, 299, 300, 301, 311, 312] skipped=[] -->
+Bramble skidded to a halt before Squad 907, clutching Pip against his wooden chest. He looked the squad over with solemn gratitude. "Thank you," Bramble said earnestly, "for keeping stupid Pip alive." <!-- L0296 -->
+
+"I'm not stupid!" Pip protested, flailing her tiny arms indignantly. "Bard was stupid!" <!-- L0296 --> <!-- L0298 -->
+
+"Hush, Pip," Bramble commanded, smoothly extending a leafy vine to wrap neatly around her mouth. "Your time for speaking and eating is suspended for the indefinite future." He wound her tightly against his torso, caging her safely within his woven branches. <!-- L0298 --> <!-- L0301 -->
+
+"You're welcome," Ignatius said with a broad grin. <!-- L0297 -->
+
+Lomi watched the vine maneuver with open admiration. "I didn't realize that was an option," he muttered. "Wow. We could have used that an hour ago." <!-- L0299 -->
+
+"We could have used that the whole time," Ignatius agreed. <!-- L0300 -->
+
+Bramble looked at them, his leafy brow furrowing with mild surprise. "So... you all survived too. Thank you again." He glanced ahead toward the riverbank, noticing the Spirit Tortoise sliding toward the current. "We're kind of in the middle of something, so we have to keep going. You can come too, though. Are you leaving?" <!-- L0301 --> <!-- L0307 --> <!-- L0310 -->
+
+"Follow the turtle, dude," Ignatius laughed, pointing toward the lumbering shell ahead. <!-- L0311 -->
+
+Together, they broke through the final thicket of petrified oaks and emerged onto the muddy banks of the surging canyon river. Without slowing for a single breath, the colossal tortoise waddled straight off the ledge and dropped into the churning water with a heavy splash, disappearing beneath the foam before resurfacing to swim powerfully downstream. <!-- L0319 -->
+
+<!-- LEDGER: rendered=[231, 240, 241, 242, 243, 245, 246, 247, 248, 249, 250, 251, 252, 257, 261, 262, 264, 265, 266, 267, 269, 270, 271, 272, 278, 281, 282, 283, 285, 294, 296, 297, 298, 299, 300, 301, 307, 310, 311, 312, 314, 316, 318, 319] skipped=[] -->

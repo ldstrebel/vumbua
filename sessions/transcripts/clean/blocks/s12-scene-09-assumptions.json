@@ -31,8 +31,8 @@
     "scene_id": 9,
     "raw_lines": [875],
     "type": "ambiguous_audio",
-    "assumption": "GM references the caretaker girl as 'Will'; this is likely a garble but the reference is ambiguous, so rendered as an unnamed 'little girl who took care of you' per Ignatius's own phrasing rather than inventing a name.",
-    "confidence": "low",
+    "assumption": "GM reference 'Will' is an STT phonetic garble for Rill (who was Zephyr's former squadmate, note-taker, and caretaker). Corrected to Rill.",
+    "confidence": "high",
     "raw_text": "You're referring to Will, right?"
   }
 ]
