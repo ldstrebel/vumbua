@@ -13,7 +13,7 @@ genre: Epic Fantasy / Sci-Fantasy
 
 In the deep canopy of the southern coast, the world was never meant to last forever. <!-- L0004 -->
 
-The Mizizi lived within the hollows of petrified megaflora — ancient, stone-thick boles rising like fossilized giants from the damp loam, their tangled roots arching over subterranean dwellings that felt like hobbit-holes carved into living amber. The clan were creatures of bark, shell, and mycelium, their skin earthy and textured, carrying the quiet gravity of creatures born from damp earth. <!-- L0032 --> <!-- L0040 -->
+The Mizizi lived within the hollows of petrified megaflora — ancient, stone-thick boles rising like fossilized giants from the damp loam, their tangled roots arching over subterranean dwellings that felt like hobbit-holes carved into living amber. The clan were creatures of bark, shell, and mycelium, their skin earthy and textured, carrying the quiet gravity of beings born from damp soil. <!-- L0032 --> <!-- L0040 -->
 
 For centuries, their elders had taught a harrowing belief: *when things stop dying, we start dying.*
 
@@ -23,19 +23,19 @@ And lately, the rot had stalled. <!-- L0050 -->
 
 The ancient forest had begun failing to do what it had done for centuries. Along the coastal sands, strangers appeared upon the shore — new people walking where no outsiders had ever set foot. The Mizizi were not a folk of war; they had no weapons to raise and no instinct for combat. Paralyzed by the sudden intrusion, the elders hesitated in indecision, caught between fighting a hopeless clash or seeking some middle ground. <!-- L0052 --> <!-- L0056 -->
 
-Two cycles ago, the first outsider walked directly into the root-hall: a humanoid in a sterile, spotless uniform, devoid of rot, moss, or holes, carrying strange clanking devices. The elders called him the Paper Man. He brought an offer born of incomprehensible foreign desires: the strangers wanted to carry away baskets of soil, mineral cores, chips of petrified bark, and severed taproots. In return, they gave the clan heavy iron axes and saws. <!-- L0058 -->
+Two cycles ago, the first outsider walked directly into the root-hall: a humanoid in a sterile, spotless uniform, devoid of rot, moss, or holes, carrying strange clanking devices. The elders called him the Paper Man. It was Valentine Sterling Sr., an exploranaut who viewed the living forest not as a home, but as an inventory ledger. He brought an offer born of incomprehensible foreign desires: the strangers wanted to carry away baskets of soil, mineral cores, chips of petrified bark, and severed taproots. In return, they gave the clan heavy steel axes and saws. <!-- L0058 -->
 
-Desperate to restart the sacred rot before their people perished, the elders accepted the metal. The clan became a frantic fire brigade turned upon its own home, taking the foreign iron into the woods and hacking into their own sacred trees, desperately attempting to force the stalled wood into decay. It was an uneasy, agonizing bargain. The clan was already dwindling — legends spoke of hundreds of thousands of ancestors roaming the ancient canopies, reduced now through generations of isolation and ritual marital exchanges to mere thousands. <!-- L0062 --> <!-- L0073 -->
+Desperate to restart the sacred rot before their people perished, the elders accepted the metal. The clan became a frantic fire brigade turned upon its own home, taking the foreign steel into the woods and hacking into their own sacred trees, desperately attempting to force the stalled wood into decay. It was an agonizing, tragic bargain. The clan was already dwindling — legends spoke of hundreds of thousands of ancestors roaming the ancient canopies, reduced now through generations of isolation and ritual marital exchanges to mere thousands. <!-- L0062 --> <!-- L0073 -->
 
 Now the Paper Man had returned, carrying open registration writs for an academy founded on the northern coast.
 
-Two cousins sat together beneath the curve of a shelf-mushroom arch, watching the elders distribute the iron tools.
+Two cousins sat together beneath the curve of a shelf-mushroom arch, watching the elders distribute the steel tools.
 
 Britt was built broad and sturdy, her shell layered like plates of dried, dusty shelf-fungus, her feet planted solidly against the mossy floor. She had always been the outspoken one — fiery, skeptical, and fiercely protective of her kin. Beside her sat Aggie, smaller and more delicate, her rounded shell gleaming with the vibrant red-and-white patterns of an amanita cap, her eyes quiet, observant, and constantly tracing the movements of the foreign merchants in the clearing. <!-- L0078 --> <!-- L0084 -->
 
-They had grown up in the same year at the clan's turtle-camp, bound by blood and forced proximity rather than easy camaraderie. Britt had always found Aggie too reserved, while Aggie found Britt's temper exhausting. But as they watched the strange iron axes bite into the sacred roots, an unspoken current passed between them.
+They had grown up in the same year at the clan's turtle-camp, bound by blood and forced proximity rather than easy camaraderie. Britt had always found Aggie too reserved, while Aggie found Britt's temper exhausting. But as they watched the strange steel axes bite into the sacred roots, an unspoken current passed between them.
 
-"They're taking the soul out of this place," Britt muttered, her jaw tight. "They take our dirt, they give us iron, and they tell us it's trade." <!-- L0090 -->
+"They're taking the soul out of this place," Britt muttered, her jaw tight. "They take our dirt, they give us steel, and they tell us it's trade." <!-- L0090 -->
 
 Aggie didn't answer immediately. Her slender hands traced the fungal ridge of her shell, her dark eyes watching the white sheets of paper held by the envoy. "The rot didn't stop on its own, Britt," she whispered quietly. "Something changed. And if the answers aren't in the forest, they're out there with him." <!-- L0093 -->
 
@@ -49,13 +49,13 @@ Neither of them spoke their true resolve: they were leaving the safety of the bo
 
 ## THE WORLD BENEATH THE ROOTS
 
-Miles beneath the surface loam, far below the reach of sun and wind, existed a kingdom that had never heard the name of Harmony. <!-- L0115 -->
+Miles beneath the surface loam, far below the reach of sun and wind, existed a sunken stone metropolis that had never heard the name of Harmony. <!-- L0115 -->
 
-The Trench-Kin were beings of compressed shale, packed dirt, and damp clay. Their kingdom was an endless labyrinth of tunnels and cavernous chambers carved through the subterranean dark, a world whose pressure was heavy and comforting like a stone blanket. They had no cities of glass or towers of brass; they measured their lives by the shifting weight of tectonic seams and the quiet seepage of underground aquifers. For as long as their oldest diggers could recall, they had lived entirely self-contained, untouched by the politics and ambitions of the surface world. <!-- L0128 --> <!-- L0130 -->
+The Trench-Kin were beings of compressed shale, packed dirt, and damp clay. Their kingdom was an ancient submerged labyrinth of carved basalt masonry and cavernous chambers resting under colossal water columns, a subterranean world where hydrostatic pressure was heavy and comforting like an iron blanket. They had no towers of glass or gilded airships; they measured their lives by the shifting weight of tectonic seams and the quiet seepage of abyssal aquifers. For as long as their oldest diggers could recall, they had lived entirely self-contained, untouched by the surface world. <!-- L0128 --> <!-- L0130 -->
 
-To a soil-kin, the surface was not a frontier; it was a hostile void. Without the pressing weight of earth above them, they felt untethered, dangerously light, and exposed to the terrible emptiness of the sky. <!-- L0134 -->
+To a soil-kin, the surface was not a frontier; it was a hostile, desiccating void. Without the pressing weight of earth and water above them, they felt dangerously light, brittle, and exposed to the terrible emptiness of the sky. <!-- L0134 -->
 
-Iggy had never belonged to the quiet contentment of the deep warrens. He was small even for a dirt-kin, his limbs packed dense with clay and gravel, constantly crumbling at the edges and shedding dust with every step. Where the elder diggers were content to follow the ancient seams, Iggy was driven by an insatiable, muttering curiosity that the burrow-masters called madness. He took apart excavation pumps to study their gears; he collected strange glowing mosses from subterranean vents; he filled crude parchment notebooks with chaotic, uncaptioned diagrams that resembled lightning strikes in a coal mine. <!-- L0149 -->
+Iggy had never belonged to the quiet contentment of the deep ruins. He was small even for a dirt-kin, his humanoid frame packed dense with clay and gravel, constantly crumbling at the edges and shedding fine silt with every step. Where the elder diggers were content to follow ancient seams, Iggy was driven by an insatiable, muttering curiosity that the burrow-masters called madness. He took apart excavation pumps to study their gears; he collected strange glowing mosses from subterranean vents; he filled crude parchment notebooks with chaotic, uncaptioned diagrams that resembled lightning strikes in a coal mine. <!-- L0149 -->
 
 Most dangerously of all, he was obsessed with the ceiling.
 
@@ -65,21 +65,21 @@ For generations, the exchange was treated with solemn dread. Nobody volunteered 
 
 Except Iggy.
 
-Then came the tremors — an unsettling disturbance from above that rattled the cavern ceilings, an unprecedented incident that sent ripples of panic through the quiet warrens. The elders ordered the tunnels drawn tight, retreating deeper into the granite bed to ignore the surface world.
+Then came the tremors — a violent, terrifying disturbance from above that rattled the sunken masonry. Titanic propellers churned the water overhead, and colossal iron anchor chains plunged into the silt like falling spears. The elders ordered the tunnels drawn tight, retreating deeper into the granite bed to ignore the commotion.
 
 Iggy did the unthinkable.
 
-Driven by an insatiable hunger to understand what lay beyond the stone, he slipped away. While the warrens slept, he followed the rushing cold of the subterranean channels upward toward the fissure. He was not chosen by the elders; he had received no blessing from the dig-masters. It was an unsanctioned, rogue departure into an alien world. <!-- L0177 -->
+Driven by an insatiable hunger to understand what lay beyond the stone, he slipped away. While the warrens slept, he followed the rushing cold of the subterranean thermal channels upward toward the fissure. He was not chosen by the elders; he had received no blessing from the dig-masters. It was an unsanctioned, rogue departure into an alien world. <!-- L0177 -->
 
-He followed the black water until the ceiling gave way, and the terrifying, weightless air of the surface world touched his clay skin for the very first time.
+He followed the black water until the stone gave way, and the terrifying, weightless air of the surface world touched his clay skin for the very first time.
 
 <!-- LEDGER: rendered=[115, 128, 130, 134, 149, 151, 169, 171, 173, 177] skipped=[100(ooc), 101(ooc), 102(ooc), 103(ooc), 104(ooc), 105(ooc), 106(ooc), 107(ooc), 108(ooc), 109(ooc), 110(ooc), 111(ooc), 112(ooc), 113(ooc), 114(ooc), 116(ooc), 117(ooc), 118(ooc), 119(ooc), 120(ooc), 121(ooc), 122(ooc), 123(ooc), 125(ooc), 126(ooc), 127(ooc), 129(ooc), 131(ooc), 132(ooc), 133(ooc), 135(ooc), 136(ooc), 137(ooc), 139(ooc), 140(ooc), 141(ooc), 142(ooc), 143(ooc), 144(ooc), 145(ooc), 146(ooc), 147(ooc), 148(ooc), 150(ooc), 152(ooc), 153(ooc), 154(ooc), 155(ooc), 157(ooc), 158(ooc), 159(ooc), 160(ooc), 161(ooc), 162(ooc), 163(ooc), 164(ooc), 165(ooc), 166(ooc), 167(ooc), 168(ooc), 172(ooc), 174(ooc), 175(ooc), 176(ooc), 178(ooc), 179(ooc), 180(ooc), 181(ooc), 182(ooc), 183(ooc)] -->
 
 <!-- RAW_RANGE: [184, 248] | SCENE_ID: 3 -->
 
-## THE FALSE FLAME
+## THE REKINDLED HEARTH
 
-Across the open water to the east, rising like a jagged black crown against the sea mist, lay the Ember Isles. <!-- L0200 -->
+Across the open water to the east, rising like a jagged black crown against the sea mist, lay the Ash-Blood Isles. <!-- L0200 -->
 
 The Ash-Bloods were a people forged in the heart of basalt and magma. Their ancestral home was carved into the inner tiers of a colossal volcanic caldera, where terraced basalt streets clung to the cliffs above an active core. Ancient legends claimed their forefathers had been half-obsidian giants who walked through molten rock without blistering, their veins burning with primal fire. <!-- L0202 --> <!-- L0204 -->
 
@@ -87,17 +87,25 @@ Yet for as long as Ignatius could remember, the great caldera had been dying.
 
 The clan elders recited the sorrowful history around every forge: centuries ago, when the ancient clans severed ties and retreated behind their borders, the primal flames of the island began to cool. The fiery lakes hardened into black glass; the geysers subsided into sluggish mud. By Ignatius's youth, the core had dwindled to dying embers. It took an entire wagonload of heated boulders just to boil a vat of brine, and the clan lived in constant terror that their ancestral hearth would freeze over completely. <!-- L0208 --> <!-- L0210 -->
 
-Then came the arrival of Harmony. <!-- L0212 -->
+Then came the arrival of Captain Elara Thorne. <!-- L0212 -->
 
-When the massive steamships anchored offshore, their ambassadors offered integration, signing treaties, trading ironwork, and eagerly inviting young Ash-Bloods north to the newly founded Academy. The clan elders wept with joy, declaring the foreigners saviors as foreign light filled the caldera. Heat surged through the terraced streets, and what had once required a boulder to warm now needed only a pebble.
+Unlike the clinical merchants who visited the southern jungles, Elara entered the freezing caldera not as a conqueror, but as an explorer seeking genuine connection. She pitched her camp among the basalt ledgers and shared food with Matriarch Lady Ignis. To prove the power of Harmony's science, Elara set down a portable cooking grill powered not by galvanic fuel, but by a delicate bronze **resonator** — a frequency tuner that channeled harmonic vibrations to sear meat in the freezing cold.
 
-Ignatius, standing on the rim of the crater with soot staining his hands, felt only disgust.
+In return, Lady Ignis chiseled a slab of dormant, cold lavsidian stone from the caldera wall and sent it across the ocean to Harmony Prime, instructing imperial chefs to prepare a feast over its surface.
 
-"It's a lie," he muttered, glaring down at the glowing white crystal arrays mounted around the forge. "It's a false flame. They're feeding our mountain foreign sugar, and the elders think it's dawn." <!-- L0221 --> <!-- L0223 -->
+The moment the connection across the ocean was completed, the ancient resonance sparked.
 
-The foreign technology was seductive: small, glowing glass vials humming with cold, condensed galvanic fuel. A single vial could heat a kettle, propel an engine, or drive an iron walker's pistons far more cleanly than raw basalt boulders. But to Ignatius, Harmony's batteries were a manufactured trap — controlled and metered by the Great Families of the capital, wealthy lineages whose secret monopolies kept the airships aloft and the titanic walkers upright. By accepting the batteries, the Ash-Bloods had tied their survival to a foreign leash. <!-- L0227 --> <!-- L0231 --> <!-- L0235 --> <!-- L0242 -->
+Deep within the caldera, the black glass fractured with an explosive, canyon-splitting crack. A torrent of molten crimson magma detonated from the vents, roaring back to life with volcanic fury and sending Elara scrambling up the cliffs in breathless, ecstatic laughter. The hearth was rekindled.
 
-The mountain did not need Harmony's batteries; it needed its true soul back. The ancient primal fire was out there somewhere in the uncharted wild, waiting to be found.
+Following the miracle, Lady Ignis journeyed to Harmony Prime to take her sovereign seat under the Inverse Power Doctrine. Her very first legislative act was signing the Expansion Bill that officially authorized the relocation of Vumbua Academy across the sea.
+
+Yet standing on the rim of the crater with soot staining his hands, young Ignatius felt only deep skepticism.
+
+"It's foreign trickery," he muttered, glaring down at the glowing bronze resonators mounted around the revived forges. "They're feeding our mountain foreign frequencies, and the elders think it's our dawn." <!-- L0221 --> <!-- L0223 -->
+
+The foreign technology was undeniably impressive: small, polished resonator rings humming with precise acoustic harmonics. A single resonator could tune heat, propel an engine, or stabilize an iron walker's joints far more cleanly than raw basalt boulders. But to Ignatius, Harmony's resonators were a gilded leash — controlled and calibrated by the Great Families of the capital, whose monopolies dictated who could tune the frequencies. By tying their caldera to foreign resonance, the Ash-Bloods had ceded their independence. <!-- L0227 --> <!-- L0231 --> <!-- L0235 --> <!-- L0242 -->
+
+The mountain did not need Harmony's resonators; it needed its true primal soul. The original wild fire was out there somewhere in the uncharted world, waiting to be rekindled from within.
 
 And Ignatius intended to find it.
 
@@ -105,29 +113,29 @@ And Ignatius intended to find it.
 
 <!-- RAW_RANGE: [249, 335] | SCENE_ID: 4 -->
 
-## THE BONES OF THE EMPIRE
+## THE GOSPEL OF STEAM
 
 In the steaming mechanical bowels of the Academy citadel, nobody cared about ancient prophecies or sacred moss. They cared about steam pressure. <!-- L0260 -->
 
-Lomi was an Earthkin-human mix whose lineage was written in grease, coal dust, and calluses. For generations uncounted, his family had stoked the boilers, turned the wrenches, and bled on the cast-iron manifolds that kept Harmony moving forward. His bloodline was union strong, boilermaker born and bred. The high-born families in their gilded brass castles could preen all they wanted, but Lomi knew the ground truth: civilization did not run on blue blood. It ran on pressure valves, fireboxes, and working men who weren't afraid to get their knuckles smashed in the dark. Without the boilermakers, the glorious empire would grind to a dead halt in ten minutes. <!-- L0269 --> <!-- L0271 --> <!-- L0274 -->
+Loami was a broad-shouldered humanoid whose lineage was written in grease, coal dust, and calluses. For generations uncounted, his family had stoked the boilers, turned the wrenches, and bled on the cast-iron manifolds that kept Harmony moving forward. His bloodline was union strong, boilermaker born and bred. The high-born families in their gilded brass towers could preen all they wanted, but Loami knew the ground truth: civilization did not run on blue blood. It ran on pressure valves, fireboxes, and working men who weren't afraid to get their knuckles smashed in the dark. Without the boilermakers, the glorious empire would grind to a dead halt in ten minutes. <!-- L0269 --> <!-- L0271 --> <!-- L0274 -->
 
 And Harmony was an empire built to move. <!-- L0276 --> <!-- L0278 -->
 
-For thousands of years, the entire civilization had operated on a singular, restless impulse: the hunger for the horizon. It was a culture structured around discovery, devouring distance and charting new frontiers. The Academy itself was not an aristocratic finishing school, but a grueling trade institution designed for one specific purpose: to forge frontier explorers. You really only got one chance in life to take the entrance trial, so candidates came when they felt best prepared. Lomi was older than the green recruits arriving on the passenger ships — an apprentice nearing the end of his formal training, his shoulders thickened by ten thousand hours of heavy ironwork, perhaps even older than some of the instructors teaching the theoretical classes. <!-- L0282 --> <!-- L0284 --> <!-- L0292 --> <!-- L0299 -->
+For thousands of years, the entire civilization had operated on a singular, restless impulse: the hunger for the horizon. It was a culture structured around discovery, devouring distance and charting new frontiers. The Academy itself was not an aristocratic finishing school, but a grueling trade institution designed for one specific purpose: to forge frontier explorers. You really only got one chance in life to take the entrance trial, so candidates came when they felt best prepared. Loami was older than the green recruits arriving on the passenger ships — an apprentice nearing the end of his formal training, his shoulders thickened by ten thousand hours of heavy ironwork, perhaps even older than some of the instructors teaching the theoretical classes. <!-- L0282 --> <!-- L0284 --> <!-- L0292 --> <!-- L0299 -->
 
 To be an Explorer in Harmony was to be a god among men. An Explorer had their lodging guaranteed for life, their beer bought in every tavern from coast to coast, their names carved into the stone colonnades of the capital. But you only got one shot. <!-- L0302 -->
 
-Yet for eighty years, the world had gone quiet. <!-- L0306 -->
+Yet for eighty years, the frontier had gone quiet. <!-- L0306 -->
 
-No new continents had breached the horizon. No new sentient peoples had been recorded. The grand maps hung in the navigation halls grew yellowed and static. Stranger still, the geography itself seemed to be contracting; over centuries, islands once recorded as distant outposts were slowly, inexorably drifting closer to the continental shelf, like an inverse Pangaea tightening its grip. As the frontier stalled, the thrill of adventure decayed into paranoia. Hostile ether and nether beasts began probing the maritime perimeters, forcing the empire to divert its best officers into defensive fleets rather than expeditionary squads. <!-- L0308 --> <!-- L0312 -->
+No new continents had breached the horizon. On the old continent, the Resonance Races — Harmony’s premier national sport — had grown stale and unpopular on flat, open-ocean straightaways, losing viewership as public enthusiasm waned. The grand maps hung in the navigation halls grew yellowed and static. Stranger still, the geography itself seemed to be contracting; over centuries, islands once recorded as distant outposts were slowly, inexorably drifting closer to the continental shelf, like an inverse Pangaea tightening its grip. As the frontier stalled, hostile aether and nether beasts began probing the maritime perimeters, forcing the empire to divert its best officers into defensive fleets rather than expeditionary squads. <!-- L0308 --> <!-- L0312 -->
 
-Then, within the span of three short cycles, everything changed.
+Then, within the span of two short cycles, everything changed.
 
-Scouts breached the southern mists and found the Ash-Bloods; shortly after, they stumbled upon the petrified jungles of the Mizizi. Two living, breathing clans, completely untouched by the imperial fold. The discovery detonated across Harmony like a powder keg. Celebrations rocked the streets; the long slumber was over.
+Scouts breached the southern mists and discovered the Ash-Bloods; shortly after, they stumbled upon the petrified jungles of the Mizizi. Two living, breathing clans, completely untouched by the imperial fold. The discovery detonated across Harmony like a powder keg. Wild public excitement erupted for a daring new raceway to be carved directly into the vertical basalt cliffs of the southern continent: **The Apex Arena**.
 
-To harness the momentum, the Academy severed its moorings and physically moved itself south, dropping anchor in the deep turquoise basin to train explorers directly on the frontier. Lomi had crossed with it as part of the vanguard maintenance crew, bolting down the scaffolding and setting the very cranes that were now raising the auditorium spires. <!-- L0314 -->
+To harness the momentum, the Academy severed its moorings and physically moved itself south, embarking on a colossal naval migration. The massive Deep-Hull steamship and towering Sky-Spires steamed across the ocean, escorted by ironclads firing heavy cannons into the fog to drive off prowling aether beasts. Loami had crossed with the vanguard fleet as a lead maintenance specialist, bolting down scaffolding and aligning the colossal cranes that were now raising the auditorium spires over the turquoise basin. <!-- L0314 -->
 
-Lomi wiped his brow with a greasy rag, looking up through the boiler grating at the cranes cutting across the northern sky. The world was alive again. Exploration was back on the table.
+Loami wiped his brow with a greasy rag, looking up through the boiler grating at the cranes cutting across the southern sky. The world was alive again. Exploration was back on the table.
 
 And if Harmony was heading back into the unknown, they were damn well going to need someone who knew how to keep the engines running. <!-- L0317 --> <!-- L0319 -->
 
@@ -143,7 +151,7 @@ For miles, Britt and Aggie followed the mycelium highway — a dense, spongy car
 
 Britt marched with heavy, determined strides. Her jaw was set, her fists clenched inside the rough weave of her traveler's tunic. She had not volunteered out of starry-eyed wanderlust or curiosity for foreign titles. To Britt, the journey to the coast was a necessity. The elders had grown complacent, accepting foreign tools while their forest withered. If the truth behind the stalled rot lay beyond the canopy, she would walk straight through the gates of the foreign citadel to find it. <!-- L0354 --> <!-- L0358 -->
 
-Beside her, Aggie walked in quiet vigilance. Her movements were cautious, her head slightly tucked into the curve of her vibrant, red-and-white spotted shell. Aggie did not share Britt's fiery temper, but her doubts ran just as deep. She had watched the sterile Paper Man trade his iron tools, noting how eagerly he packed away the baskets of ancient loam. She could not shake the quiet suspicion that the arrival of the outsiders and the stalling of the sacred decay were somehow bound together — and that staying behind would never save their home. <!-- L0383 -->
+Beside her, Aggie walked in quiet vigilance. Her movements were cautious, her head slightly tucked into the curve of her vibrant, red-and-white spotted shell. Aggie did not share Britt's fiery temper, but her doubts ran just as deep. She had watched the sterile Paper Man trade his steel tools, noting how eagerly he packed away the baskets of ancient loam. She could not shake the quiet suspicion that the arrival of the outsiders and the stalling of the sacred decay were somehow bound together — and that staying behind would never save their home. <!-- L0383 -->
 
 As they reached the final threshold of ancient timber, Britt slowed, turning to face her cousin.
 
@@ -161,7 +169,7 @@ Yet even in the blinding light, their distinct heritage stood proud. Aggie's pol
 
 Far to the east, across the shimmering expanse of the coastal sound, a column of dark smoke rose straight into the clouds — the eternal, smoldering signature of the Ash-Bloods' volcanic home. And directly to the north, perched upon the headland barely a quarter-day's trek down the rutted haul-road, loomed the colossal stone perimeter of the Academy citadel. <!-- L0447 -->
 
-Between the forest and the citadel sprawled a chaotic industrial scar: logging camps spread across the coastal flats, steam-powered winches shrieking as foreign crews struggled to fell the petrified trunks. Despite the axes and saws, the wood resisted; every stump capped by imperial engineers seemed to sprout fresh fungal whorls within days, a desperate, defiant struggle between nature and iron. <!-- L0449 -->
+Between the forest and the citadel sprawled a chaotic industrial scar: logging camps spread across the coastal flats, steam-powered winches shrieking as foreign crews struggled to fell the petrified trunks. Despite the steel axes and saws, the wood resisted; every stump capped by imperial engineers seemed to sprout fresh fungal whorls within days, a desperate, defiant struggle between nature and iron. <!-- L0449 -->
 
 Britt took a deep, shuddering breath, tasting the grit of the road. She squeezed Aggie's hand once, released it, and took the first step forward.
 
@@ -181,7 +189,7 @@ Iggy hauled himself out of the brine, coughing and spitting dark harbor silt. Hi
 
 "Too hot, too dry, bad ceiling, no ceiling," he muttered furiously, his voice a gravelly squeak.
 
-Panicking, he whipped out a brass syringe from his leather kit and injected a squirt of oily mineral fluid directly into the side-valves of his oversized copper goggles, pressurizing his bulbous, bug-like eyes before the coastal breeze could dry them into cracked glass. He scrambled low against the deck, scooping up handfuls of wet harbor sludge and smearing it over his chest like a desperate layer of mud sunscreen. Every few yards he spun around, using his foot to kick harbor debris over his wet tracks — terrified that someone would trace his path back to the subterranean fissure. <!-- L0475 --> <!-- L0483 --> <!-- L0487 -->
+Panicking, he whipped out a brass syringe from his leather kit and injected a squirt of oily mineral fluid directly into the side-valves of his oversized copper goggles, pressurizing his bulbous lenses before the coastal breeze could dry them into cracked glass. He scrambled low against the deck, scooping up handfuls of wet harbor sludge and smearing it over his chest like a desperate layer of mud sunscreen. Every few yards he spun around, using his foot to kick harbor debris over his wet tracks — terrified that someone would trace his path back to the subterranean fissure. <!-- L0475 --> <!-- L0483 --> <!-- L0487 -->
 
 Sitting on a nearby bollard was an old, weather-beaten sailor with a walrus mustache, nursing a clay jug. The sailor watched the little mud-creature hiss, steam, and kick dust with the mild, unbothered curiosity of a man who had sailed forty years and seen stranger things washed up on tide-lines.
 
@@ -197,11 +205,11 @@ Ignatius stepped onto the cobblestones, his soot-stained traveler's pack slung o
 
 He stood wide-eyed, taking in the towering masts, the shrieking gulls, and the dizzying expanse of the city. He was the new kid on the block, head spinning, entirely unsure of how this bustling metropolis worked.
 
-Back home on the caldera, his elders had grown exhausted by his teenage defiance. He had been caught sneaking into off-limits volcanic vents, refusing to accept that the mountain's rekindled warmth came from foreign batteries rather than true flame. Fed up with his insubordination, the clan council had banished him across the water to take the Academy trials.
+Back home on the caldera, his elders had grown exhausted by his teenage defiance. He had been caught sneaking into off-limits volcanic vents, refusing to accept that the mountain's rekindled warmth came from foreign resonators rather than true flame. Fed up with his insubordination, the clan council had banished him across the water to take the Academy trials.
 
 *They said I was running away,* he thought, adjusting the strap of his worn bag as he looked up toward the great entrance arches. *They called it fleeing. But it isn't flight. It's a pilgrimage.* <!-- L0516 --> <!-- L0522 -->
 
-He was going to enter their trials. He was going to become an adventurer. And out on the wild edges of the uncharted world, he would find the true source of primal heat for his people — and prove to the elders that the mountain didn't need foreign sugar to burn. <!-- L0524 -->
+He was going to enter their trials. He was going to become an adventurer. And out on the wild edges of the uncharted world, he would find the true source of primal heat for his people — and prove to the elders that the mountain didn't need foreign tuning to burn. <!-- L0524 -->
 
 <!-- LEDGER: rendered=[451, 466, 468, 475, 483, 487, 494, 496, 500, 504, 514, 516, 522, 524] skipped=[453(ooc), 454(ooc), 455(ooc), 456(ooc), 457(ooc), 458(ooc), 459(ooc), 460(ooc), 461(ooc), 462(ooc), 463(ooc), 465(ooc), 467(ooc), 469(ooc), 470(ooc), 471(ooc), 472(ooc), 474(ooc), 476(ooc), 477(ooc), 478(ooc), 479(ooc), 480(ooc), 481(ooc), 482(ooc), 484(ooc), 485(ooc), 488(ooc), 489(ooc), 490(ooc), 491(ooc), 492(ooc), 493(ooc), 495(ooc), 498(ooc), 499(ooc), 501(ooc), 502(ooc), 503(ooc), 505(ooc), 506(ooc), 507(ooc), 508(ooc), 509(ooc), 510(ooc), 511(ooc), 512(ooc), 513(ooc), 517(ooc), 518(ooc), 519(ooc), 520(ooc), 521(ooc), 525(ooc), 526(ooc), 527(ooc)] -->
 
@@ -211,33 +219,33 @@ He was going to enter their trials. He was going to become an adventurer. And ou
 
 Three levels below the polished colonnades of the Academy, the steam whistle shrieked its shift-change signal. <!-- L0533 -->
 
-Lomi slammed the heavy iron valve shut with a clanking wrench, wiped a mixture of black grease and sweat from his chin, and slung his canvas toolbag over his shoulder. His shift was over. Other men might have headed for the worker washrooms to scrub the soot from their pores with coarse lye soap, but Lomi didn't bother. His Earthkin blood had absorbed the engine grime generations ago; the soot was baked into his skin, an indelible badge of honest labor. <!-- L0535 --> <!-- L0545 -->
+Loami slammed the heavy iron valve shut with a clanking wrench, wiped a mixture of black grease and sweat from his chin, and slung his canvas toolbag over his shoulder. His shift was over. Other men might have headed for the worker washrooms to scrub the soot from their pores with coarse lye soap, but Loami didn't bother. His bloodline was written in engine grime; the soot was baked into his skin, an indelible badge of honest labor. <!-- L0535 --> <!-- L0545 -->
 
-"See you on the night turn, Lomi," one of his furnace-mates grunted from the coal trench.
+"See you on the night turn, Loami," one of his furnace-mates grunted from the coal trench.
 
-"Don't let number four redline," Lomi replied, adjusting his woolen flat cap. "You know how she likes to spit." <!-- L0564 --> <!-- L0566 -->
+"Don't let number four redline," Loami replied, adjusting his woolen flat cap. "You know how she likes to spit." <!-- L0564 --> <!-- L0566 -->
 
 He climbed the iron spiral staircases, rising from the subterranean dark into the bustling lower levels of the Academy's intake hall. The contrast was jarring. Down below was noise, heat, and iron; up here was marble, brass chandeliers, and an ocean of clean-shirted candidates milling around registration kiosks.
 
-As Lomi walked past an administrative reception counter, an immaculate clerk in a gilded vest crumpled an outdated registration form and tossed it casually toward an ornamental bronze waste-urn, missing by two feet. The ball of paper rolled across the polished flagstones.
+As Loami walked past an administrative reception counter, an immaculate clerk in a gilded vest crumpled an outdated registration form and tossed it casually toward an ornamental bronze waste-urn, missing by two feet. The ball of paper rolled across the polished flagstones.
 
-Lomi stopped dead in his tracks. He walked over, picked up the paper, and dropped it square into the bin. Then he leaned across the counter, fixing the clerk with a sharp, grease-smudged glare.
+Loami stopped dead in his tracks. He walked over, picked up the paper, and dropped it square into the bin. Then he leaned across the counter, fixing the clerk with a sharp, grease-smudged glare.
 
-"Hey," Lomi said, his voice carrying the flat, unmistakable authority of a union shop steward. "You know there's folks in this city who have to sweep those up, right? Stuff doesn't just disappear into the ether. People take care of it." <!-- L0572 --> <!-- L0574 -->
+"Hey," Loami said, his voice carrying the flat, unmistakable authority of a union shop steward. "You know there's folks in this city who have to sweep those up, right? Stuff doesn't just disappear into the ether. People take care of it." <!-- L0572 --> <!-- L0574 -->
 
-The clerk blinked in bewilderment, staring at Lomi's filthy canvas jacket. "It's... just paper, sir—"
+The clerk blinked in bewilderment, staring at Loami's filthy canvas jacket. "It's... just paper, sir—"
 
-"It's public infrastructure," Lomi countered sternly. "Streets don't sweep themselves. Boilers don't stoke themselves. This whole shining university would drown in its own refuse in three days without working people. Remember that before you go tossing your trash around." <!-- L0578 --> <!-- L0580 -->
+"It's public infrastructure," Loami countered sternly. "Streets don't sweep themselves. Boilers don't stoke themselves. This whole shining university would drown in its own refuse in three days without working people. Remember that before you go tossing your trash around." <!-- L0578 --> <!-- L0580 -->
 
 He left the flustered clerk behind, hitching his pack higher as he joined the marching queue toward the central concourse.
 
-In truth, Lomi had never expected to find himself on this side of the testing floor. For as long as his family had lived in Harmony, they had been the foundation, not the facade. The very first boiler ever built for the mobile Academy had been riveted by his great-great-grandfather; a framed blueprint of that original pressure vessel still hung above the mantelpiece in his mother's front room. <!-- L0584 -->
+In truth, Loami had never expected to find himself on this side of the testing floor. For as long as his family had lived in Harmony, they had been the foundation, not the facade. The very first boiler ever built for the mobile Academy had been riveted by his great-great-grandfather; a framed blueprint of that original pressure vessel still hung above the mantelpiece in his mother's front room. <!-- L0584 -->
 
-When the new frontier opened, it was his union elders who had nudged him forward. *They're building a brand-new fleet, Lomi,* they had told him over pints at the machinists' hall. *Those high-born scholars and fancy navigators don't know a piston from a pop-valve. If an airship breaks down four hundred miles past the map, who's going to patch the manifold? You go up there. You take their trials.* <!-- L0588 --> <!-- L0590 -->
+When the new frontier opened, it was his union elders who had nudged him forward. *They're building a brand-new fleet, Loami,* they had told him over pints at the machinists' hall. *Those high-born scholars and fancy navigators don't know a piston from a pop-valve. If an airship breaks down four hundred miles past the map, who's going to patch the manifold? You go up there. You take their trials.* <!-- L0588 --> <!-- L0590 -->
 
 There had been no formal application to submit, no letters of noble recommendation required. The entrance trials were open to any citizen with the nerve to show up. You put your name on the register, and the Academy assigned you a trial slot along with a hundred thousand other hopefuls vying for ten thousand berths. <!-- L0592 --> <!-- L0596 --> <!-- L0598 -->
 
-Lomi emerged from the arched corridor onto the main registration esplanade, squinting against the harsh daylight. Ahead of him, stretching in an unbroken line along the water, stood the eight colossal zinc hangars where the entrance exams were about to begin.
+Loami emerged from the arched corridor onto the main registration esplanade, squinting against the harsh daylight. Ahead of him, stretching in an unbroken line along the water, stood the eight colossal zinc hangars where the entrance exams were about to begin.
 
 <!-- LEDGER: rendered=[533, 535, 545, 564, 566, 572, 574, 578, 580, 584, 588, 590, 592, 596, 598] skipped=[528(ooc), 529(ooc), 530(ooc), 531(ooc), 534(ooc), 536(ooc), 537(ooc), 538(ooc), 539(ooc), 540(ooc), 541(ooc), 542(ooc), 543(ooc), 544(ooc), 546(ooc), 547(ooc), 548(ooc), 549(ooc), 550(ooc), 551(ooc), 552(ooc), 554(ooc), 555(ooc), 556(ooc), 557(ooc), 558(ooc), 559(ooc), 560(ooc), 561(ooc), 562(ooc), 563(ooc), 565(ooc), 567(ooc), 568(ooc), 569(ooc), 571(ooc), 573(ooc), 575(ooc), 576(ooc), 577(ooc), 579(ooc), 581(ooc), 582(ooc), 585(ooc), 586(ooc), 587(ooc), 589(ooc), 593(ooc), 594(ooc), 595(ooc), 597(ooc), 599(ooc), 600(ooc)] -->
 
@@ -259,7 +267,7 @@ Along the crowded registration desks, candidates received their official numbers
 
 Across the concourse, Britt and Aggie stood side by side, registering their clan gifts into the imperial rosters, their complementary traits already hinting at the balance between botanical instinct and empathic perception. <!-- L0651 --> <!-- L0685 -->
 
-Lomi logged his credentials with the easy confidence of a boilermaker who knew the guts of the citadel better than the clerks, while Iggy hovered near the outskirts of the queue, muttering under his heavy sailor's coat and warily watching the open sky.
+Loami logged his credentials with the easy confidence of a boilermaker who knew the guts of the citadel better than the clerks, while Iggy hovered near the outskirts of the queue, muttering under his heavy sailor's coat and warily watching the open sky.
 
 By nightfall, the preliminary rolls were locked. None of the five had been turned away at the threshold. Their origins were wildly divergent, their cultures completely foreign to one another, but the imperial registers had logged them all into the incoming cohort. <!-- L0701 --> <!-- L0703 -->
 
@@ -268,5 +276,3 @@ The intake had begun.
 Ahead of them, across the esplanade, stood the towering zinc hangars where tomorrow's formal testing floor awaited — where Britt would soon find herself staring down at a stubborn brass flag, preparing to knock over a desk so her cousin wouldn't be left behind in the dark.
 
 <!-- LEDGER: rendered=[602, 604, 606, 610, 634, 643, 651, 685, 701, 703] skipped=[603(ooc), 605(ooc), 608(ooc), 609(ooc), 611(ooc), 612(ooc), 614(ooc), 615(ooc), 616(ooc), 617(ooc), 618(ooc), 619(ooc), 620(ooc), 621(ooc), 623(ooc), 624(ooc), 625(ooc), 626(ooc), 627(ooc), 628(ooc), 629(ooc), 630(ooc), 631(ooc), 632(ooc), 633(ooc), 635(ooc), 636(ooc), 637(ooc), 638(ooc), 639(ooc), 640(ooc), 641(ooc), 642(ooc), 645(ooc), 646(ooc), 647(ooc), 648(ooc), 649(ooc), 650(ooc), 652(ooc), 653(ooc), 654(ooc), 655(ooc), 656(ooc), 657(ooc), 658(ooc), 659(ooc), 660(ooc), 661(ooc), 662(ooc), 663(ooc), 665(ooc), 666(ooc), 667(ooc), 668(ooc), 669(ooc), 670(ooc), 671(ooc), 672(ooc), 673(ooc), 674(ooc), 675(ooc), 676(ooc), 677(ooc), 678(ooc), 679(ooc), 680(ooc), 681(ooc), 682(ooc), 683(ooc), 687(ooc), 688(ooc), 689(ooc), 690(ooc), 691(ooc), 692(ooc), 693(ooc), 694(ooc), 695(ooc), 696(ooc), 697(ooc), 698(ooc), 699(ooc), 700(ooc), 702(ooc), 704(ooc), 705(ooc), 706(ooc), 707(ooc), 709(ooc), 710(ooc), 711(ooc), 712(ooc), 713(ooc), 714(ooc), 715(ooc), 716(ooc), 717(ooc), 718(ooc), 719(ooc), 720(ooc), 721(ooc), 722(ooc), 723(ooc), 724(ooc), 725(ooc), 726(ooc), 727(ooc), 728(ooc), 729(ooc), 730(ooc)] -->
-
-<!-- RAW_RANGE: [731, 772] | SCENE_ID: 9 | OOC -->

@@ -22,6 +22,7 @@ MAP_PATH = os.path.join(ROOT_DIR, "campaign", "Harmony-Map-portrait.jpeg")
 OUTPUT_DIR = os.path.join(ROOT_DIR, "novel")
 
 SESSION_FILES = [
+    "s0-clean-story.md",
     "s1-clean-story.md",
     "s2-clean-story.md",
     "s2.5-clean-story.md",
