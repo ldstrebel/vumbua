@@ -62,9 +62,9 @@ def main():
         missing = [r for r in results if r[1] == "MISSING"]
         status = "PASS" if not missing else "INCOMPLETE"
         if missing: all_ok = False
-        print(f"\n=== {sid} [{cls}] — {status} ===")
+        print(f"\n=== {sid} [{cls}] -- {status} ===")
         for label, st, detail in results:
-            mark = {"OK": "✓", "MISSING": "✗ MISSING", "EXEMPT": "—"}[st]
+            mark = {"OK": "[OK]     ", "MISSING": "[MISSING]", "EXEMPT": "[-]      "}[st]
             print(f"  {mark}  {label}")
     sys.exit(0 if all_ok else 1)
 
