@@ -36,11 +36,25 @@ Then the Paper Man returned, carrying open registration writs stamped with the i
 
 ## CHAPTER 1: THE FLAG THAT WOULDN'T RISE
 
-The intake warehouse was an ocean of plywood cubicles stretched beneath zinc-sheet rafters, smelling of machine oil, ozone, wet parchment, and the cold, sour sweat of ten thousand anxious candidates. Every few seconds, the clatter of typewriters was punctuated by a sharp, tinny *ding* as another spring-loaded brass flag popped into the air, signaling completion. Almost instantly, an attendant in a fluorescent safety sash would materialize from the central aisle to sweep the candidate out of their seat and into the processing current. <!-- L0316 -->
+The morning sun hung low and pale behind a shroud of salt mist and drifting coal smoke when the transport flotilla bumped against the quays. All morning, a relentless line of heavy steam tenders, wooden ferries, and iron barges had churned across the open bay, carrying the first waves of an unprecedented human tide.
+
+The receiving docks were a frantic, temporary sprawl: creaking timber pilings, stone seawalls slick with sea-spray, and cavernous corrugated sheds thrown up to handle the crush. Steam whistles wailed through the damp chill. Massive recruitment posters were pasted across every blank timber hoarding in fresh black-and-teal ink, their bold block lettering shouting **MOMENTUM IS LIFE** and **VUMBUA ACADEMY FOR EXPLORERS** to anyone desperate enough to read them.
+
+There was no ceremony, no welcoming committee, and no view of the campus beyond the harbor wall. One hundred thousand applicants—root-folk from the deep southern canopies, ash-dusted islanders, union mechanics from Octoumba, and scholars from the high interior—were herded straight off the gangways like factory hands reporting for a morning shift. Proctors in teal sashes hurried them through timber turnstiles, channeling the roaring crowd directly into the dim, zinc-roofed belly of the intake terminal.
+
+Inside, the warehouse was an ocean of plywood cubicles stretched beneath iron-braced rafters, smelling of machine oil, ozone, wet parchment, and the cold, sour sweat of ten thousand anxious candidates. Every few seconds, the clatter of typewriters was punctuated by a sharp, tinny *ding* as another spring-loaded brass flag popped into the air, signaling completion. Almost instantly, an attendant in a crisp teal necktie and bright safety sash—looking somewhere between an English butler and a palace usher—would materialize from the central aisle to sweep the candidate out of their seat and into the processing current. <!-- L0316 -->
 
 Britt finished her survey first.
 
-Her cubicle was barely wider than her shell — a laminate desk, an arcanatech terminal humming with coiled galvanic charge, and the slender brass stem of the completion flag mounted to the corner. She looked over the low divider. Two cubicles away, Aggie was still bent double over her desk, stylus flying across the paper in furious concentration, completely oblivious to the room around her. If Britt stood up now, the human conveyor belt would sweep her out into the crowd alone. Britt wasn't leaving her behind. <!-- L0317 -->
+She was a slender, athletic tortoise-folk of the Mizizi clan, her skin a deep, earthy olivaceous green that matched the damp moss of the southern understory. Prominent pointed ears poked through a wild mane of living root-dreadlocks—long, twisting green vines that cascaded past her shoulders and down past her waist like weeping willow boughs. Over her shell, she wore a simple, sleeveless dark grey traveler's tunic, cut loose for movement. Her carapace was thick, lumpy, and weathered—at first pass, you would be hard-pressed to tell whether it was made from the head of an ancient shelf-mushroom or the rugged bark of an ironwood tree, mottled with earthy brown ridges and flecks of living lichen.
+
+Her cubicle was barely wider than her shell—a laminate desk, an arcanatech terminal humming with coiled galvanic charge, and the slender brass stem of the completion flag mounted to the corner.
+
+Britt peered over the low plywood divider. Two cubicles away, her cousin Aggie was still bent double over her workstation, stylus flying across the paper in furious concentration, completely oblivious to the mechanical clamor around her.
+
+Where Britt was all rough bark and deep forest green, Aggie looked as if she had been sculpted from morning mist and river quartz. She was an alabaster-white-skinned tortoise-folk with delicate, thoughtful features and expressive green eyes. Soft, wavy shoulder-length white hair framed her face, crowned by a slender circlet of woven green leaves. Over her simple white linen dress, embroidered at the hem with creeping ivy, her carapace rose like a vibrant jewel against the drab plywood booth: a smooth, domed shell of brilliant scarlet speckled with clean white spots—just like a fly agaric mushroom cap—with soft, downy mycelial threads tracing the outer rim.
+
+If Britt stood up now, the human conveyor belt would sweep her out into the crowd alone. Britt wasn't leaving her behind. <!-- L0317 -->
 
 The terminal chimed. The brass mechanism clicked, preparing to fire.
 
@@ -118,13 +132,13 @@ Now, in the crowded stone thoroughfare of Vumbua, Britt squeezed Aggie's fingers
 
 ## CHAPTER 3: THE BROKEN GANTRY
 
-Lomi fell in beside one of the proctors, his hands casually clasped behind his back, strolling with the easy confidence of a senior mechanic doing an inspection tour of a boiler works. <!-- L0378 -->
+Loami Sultano fell in beside one of the proctors, his hands casually clasped behind his back, strolling with the easy, rolling confidence of a senior mechanic doing an inspection tour of a municipal boiler works. He was a rugged, broad-shouldered man in his late twenties, built like an anchor and weathered by steam, coal smoke, and engine grease. Beneath a brown woolen flat cap—pinned proudly with a tiny red, white, and green ribbon—his cropped brown hair was damp with sweat. A short beard framed a square jaw smudged with soot, his dark eyes taking in every detail with pragmatic calm. Over his work shirt, he wore a stiff canvas collar reinforced with beaten-iron shoulder pauldrons—the unmistakable gear of an Octoumba boilermaker. <!-- L0378 -->
 
-"There's quite a lot of you here," Lomi remarked, nodding toward the endless rows of booths. "How's — you know. How's your benefits? Everybody doing well? They paying you well here?" <!-- L0379 -->
+"There's quite a lot of you here," Loami remarked, nodding toward the endless rows of booths. "How's — you know. How's your benefits? Everybody doing well? They paying you well here?" <!-- L0379 -->
 
-The attendant cast a weary, bloodshot eye over Lomi's grease-stained woolen cap and canvas collar. "You are a copper," he said, flatly diagnosing the man's trade. "It is always good to know your options. I hope you make it through the next round. Um. Do you need a job? Are you looking for employment?" <!-- L0380 -->
+The attendant cast a weary, bloodshot eye over Loami's grease-stained woolen cap and canvas collar. "You are a copper," he said, flatly diagnosing the man's trade. "It is always good to know your options. I hope you make it through the next round. Um. Do you need a job? Are you looking for employment?" <!-- L0380 -->
 
-Lomi chuckled, shaking his head. "Ah, no. I've got a life calling in the boiler room, you know? Family born and raised. Boilermaker union, going way back. And you know, this might take off." <!-- L0384 -->
+Loami chuckled, shaking his head. "Ah, no. I've got a life calling in the boiler room, you know? Family born and raised. Boilermaker union, going way back. And you know, this might take off." <!-- L0384 -->
 
 The attendant opened his mouth to reply, then froze as raised voices cut through the drone of the hall. "Sorry. One second—" he said, darting away into the crowd. <!-- L0385 -->
 
@@ -134,17 +148,17 @@ A few paces ahead, a major confrontation had stalled the queue. A hulking procto
 
 The rejected man was openly weeping, clinging desperately to the doorway. "Please! A second try, please! I need this for my family!"
 
-A scuffle broke out down the line. Someone's leather cap went spinning over the cubicle dividers. The little proctor ducked swiftly as the hat whistled past his head, then hurried back to Lomi's side, straightening his crumpled coat.
+A scuffle broke out down the line. Someone's leather cap went spinning over the cubicle dividers. The little proctor ducked swiftly as the hat whistled past his head, then hurried back to Loami's side, straightening his crumpled coat.
 
 "Oh, sorry about that," the proctor breathed, trying to reassemble his dignity. "Um. You were talking about boiling water."
 
-"Yeah, you know, you are doing great work here, keep doing your thing," Lomi said warmly, patting the man's arm. "I see you're very busy. Just want to make sure you're being taken care of." <!-- L0394 -->
+"Yeah, you know, you are doing great work here, keep doing your thing," Loami said warmly, patting the man's arm. "I see you're very busy. Just want to make sure you're being taken care of." <!-- L0394 -->
 
-The proctor exhaled a long, hollow breath, looking up at Lomi with haunted eyes. "Gosh... thank you for your concern. I — if you have a god, please pray." He nodded grimly toward an eight-foot-tall Goliath candidate who had collapsed against the wall, massive shoulders shaking with devastating sobs as guards moved in to surround him. "No, no, a second try, please!" the Goliath begged into his hands. "I need this for my family!"
+The proctor exhaled a long, hollow breath, looking up at Loami with haunted eyes. "Gosh... thank you for your concern. I — if you have a god, please pray." He nodded grimly toward an eight-foot-tall Goliath candidate who had collapsed against the wall, massive shoulders shaking with devastating sobs as guards moved in to surround him. "No, no, a second try, please!" the Goliath begged into his hands. "I need this for my family!"
 
 The little proctor watched the tragedy unfold with the numb, mechanical fatigue of someone who had watched it happen a thousand times that morning. "Yeah. So sad." <!-- L0395 -->
 
-Ignatius, walking just behind them, watched the massive giant being escorted toward the side exits in tears. His brow furrowed, the glowing flames of his hair dimming to an uneasy crimson ember. "Why'd you make it so sad?" he muttered under his breath. <!-- L0401 -->
+Walking just behind them was Ignatius Magmatoa, an Ember Islander whose very presence sent faint ripples of heat shimmering through the damp, drafty corridor. Beneath the raised cowl of his soot-dusted traveler's cloak, literal flames burned in place of hair—a dancing, crackling crown of brilliant orange and amber fire that flickered around a core of midnight-dark locks, casting warm lantern light across his youthful features and fiery amber eyes. As he watched the massive giant being escorted toward the side exits in tears, his brow furrowed, the dancing flames atop his head dimming to an uneasy, smoldering crimson ember. "Why'd you make it so sad?" he muttered under his breath. <!-- L0401 -->
 
 "I know," the proctor whispered back helplessly.
 
@@ -154,7 +168,9 @@ Nobody checked a single receipt along the concourse. Candidates clutched their p
 
 Iggy, meanwhile, had stopped walking entirely.
 
-He stood in the dead center of the corridor, heedless of the candidates bumping into his clay shoulders, staring upward with wide, round goggles at a bulky brass ticket-printer suspended from an overhead gantry. The machine was chittering furiously, extruding narrow paper strips in an unbroken rhythm like a mechanical tongue. <!-- L0416 -->
+Standing in the dead center of the thoroughfare was a creature unlike anything else in the hall: a four-foot-tall Earthkin made entirely of packed dark clay and fertile soil, his compact, rounded body shedding fine crumbs of dry earth onto the timber floor with every shuffle. From the top of his smooth, soil-packed head sprouted patches of vibrant green moss and two tiny, unfurling fern fronds, waving gently in the draft of the warehouse rafters. Strapped over his wide, blunt snout was an enormous pair of circular copper goggles, their thick glass lenses half-filled with water that sloshed with every turn of his head, protecting his subterranean eyes from the blinding surface glare. He was bundled inside a comically oversized dark heavy wool trench coat buttoned right to his chin—the hem dragging along the floorboards like a discarded blanket—and in the warm air of the concourse, his damp clay skin was gently steaming like a freshly poured kettle.
+
+He stood heedless of the stream of nervous candidates bumping into his heavy, loam-scented shoulders, staring upward through his watery goggles at a bulky brass ticket-printer suspended from an overhead gantry. The machine was chittering furiously, extruding narrow paper strips in an unbroken rhythm like a mechanical tongue. <!-- L0416 -->
 
 "I could use a tissue," Iggy announced to the room at large. <!-- L0418 -->
 

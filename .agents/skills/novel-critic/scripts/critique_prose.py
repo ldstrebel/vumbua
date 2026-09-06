@@ -261,7 +261,9 @@ def main():
     
     from pathlib import Path
     base_dir = str(Path(__file__).resolve().parents[4])
-    story_path = os.path.join(base_dir, "sessions", "transcripts", "clean", f"{args.session_id}-clean-story.md")
+    story_path = os.path.join(base_dir, "sessions", "data", "clean", f"{args.session_id}-clean-story.md")
+    if not os.path.exists(story_path):
+        story_path = os.path.join(base_dir, "sessions", "transcripts", "clean", f"{args.session_id}-clean-story.md")
     
     report = generate_critique_report(args.session_id, story_path)
     

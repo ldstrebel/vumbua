@@ -150,3 +150,20 @@ Ignatius held out a hand, sparks dancing across his knuckles. "Tomorrow after cl
 <!-- LEDGER: rendered=[166, 167, 168, 170, 171, 173, 174, 175, 176, 177, 178, 179, 190, 191, 192, 193] skipped=[169(ooc), 172(ooc), 180(ooc), 181(ooc), 182(ooc), 183(ooc), 184(ooc), 185(ooc), 186(ooc), 187(ooc), 188(ooc), 189(ooc), 194(ooc), 195(ooc)] -->
 
 <!-- RAW_RANGE: [196, 279] | SCENE_ID: 6 | OOC -->
+
+---
+
+## INTERLUDE: THE MORNING WIRE
+
+The first amber sliver of dawn was just crowning the upper spires when the street speakers along the Grand Promenade crackled awake, sending a brassy, high-frequency hum rippling across the waking districts. From an elevated broadcast booth overlooking the promenade, Valerius Sterling's crisp, Transatlantic cadence burst through the morning mist with uncontainable energy.
+
+"Good evening, Vumbua! Or should I say... good morning? The sun is threatening to breach the upper tiers, but the city that never stops humming is still wide awake! This is Valerius Sterling—your voice in the steam—broadcasting live!
+
+"And what an extraordinary night it was down at the Celestial Lounge! The amber chandeliers, the clinking crystal, the sheer audacity of youth! Rumors are already flying that certain prominent scions of House Gilded were out testing their fortunes at Crown and Ruin. Word on the street is that a certain close relative of mine got thoroughly bested at the felt by an unranked Copper-tier newcomer! Oh, the delicious scandals of high society! I am quite certain my father is positively thrilled." A sharp bark of aristocratic laughter bounced across the wire.
+
+"On a more serious note, citizens: keep your wits razor-sharp when navigating the shadowed thoroughfares between tiers. We have already received frantic dispatches of desperate, empty-handed candidates lurking in the back alleys outside the lounge. A student was ambushed in the dark just hours ago! But fortunately for the honor of our campus, our newly arrived Copper-rank heroes intervened. I am told one broad-shouldered gentleman shattered a mugger's floating ribs with a single, devastating punch! Pure justice delivered on the lower cobbles! A brutal, timely reminder that not everyone who manages to disembark at Vumbua truly belongs here.
+
+"And speaking of belonging... the sun is officially up. The Loom awaits! Today is the day, candidates. Track assignments, academic reckoning, and the thunderous preparations for the First Vumbua Circuit-Run! The racing rigs are being primed in the lower hangars, the resonance coils are singing, and the Apex Ring is preparing to roar!
+
+"This is Valerius Sterling, signing off. Keep your batteries charged, and your eyes on the spires!"
+

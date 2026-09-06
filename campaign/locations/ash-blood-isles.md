@@ -28,13 +28,13 @@ The Ash-Blood Isles are a chain of volcanic mountains with perpetual smoke and m
 
 The volcanic chain is visible on the horizon from the edge of the [[Mizizi Petrified Forest]]. During [[session-00|Session 0]], the GM described: *"You can see on the horizon the smoke of their perpetual volcano."*
 
-The Isles were discovered 24 months ago by **Captain Elara Thorne** — just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] found the [[Mizizi]]. The [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Isles were discovered 24 months ago by **Captain Elara Thorne** — at around the same time her rival [[valentine-sterling-sr|Valentine Sterling Sr.]] found the [[Mizizi]]. While Sterling traded tools and left, Thorne stayed with Matriarch [[Lady Ignis]]. She demonstrated Harmony [[The Power System|resonators]] powering a grill to cook a meal in the freezing caldera, and sent a [[lavsidian]] stone back to cook a meal in Harmony Prime. When the connection bridged the sea, the volcanic core roared back to life.
 
 ### lavsidian
 The Isles produce **lavsidian** — an obsidian-like heat stone that burns 80% hotter per gram since integration. It has a halflife oscillation (heat tapers then rises) and loses potency with distance from the Isles. Used in [[Vumbua Academy]]'s boiler room alongside crystal batteries.
 
 ### The Great Cooling
-Before Harmony's arrival, the [[Ash-Bloods]] were experiencing "The Great Cooling" — their volcanoes were slowly dying. After integration, the heat returned. This is the core reason the clan embraced Harmony.
+Before Harmony's arrival, the [[Ash-Bloods]] were experiencing "The Great Cooling" — their volcanoes were slowly dying. After integration and the reconnection of resonant nodes, the heat returned. This is the core reason the clan embraced Harmony.
 
 ### Ash-Blood Genesis Myth
 According to Ash-Blood lore shared by [[ignatious]], the islands were formed millennia ago out of tragedy and love. The Great Dragon of the Sky and the Great Dragon of the Sea respected each other but were separated by the horizon. Tricked by a demon into believing they could meet if the Sky Dragon dove from the sun, the Sky Dragon plummeted, unable to slow down, and caught fire. 

@@ -29,10 +29,15 @@ Harmony grants the newest integrated member the highest voting power to prevent 
 
 Lady Ignis holds this position because the [[Ash-Bloods]] were the most recent full integration (~24 months ago).
 
+## Integration & The Connection Ritual
+When Captain Elara Thorne breached the eastern sea mists, she met Lady Ignis during the depth of "The Great Cooling." Unlike Valentine Sterling Sr., who made a brief transactional trade with the Mizizi, Thorne stayed. She demonstrated Harmony resonators powering a grill to cook a meal in the freezing caldera, and Lady Ignis sent a dormant lavsidian stone back across the sea to cook a meal in Harmony Prime. When the mutual connection bridged, the volcano roared back to life.
+
+Lady Ignis traveled with Thorne to Harmony Prime, taking her sovereign seat under the Inverse Power Doctrine. Her very first act of state was to officially authorize the Expansion Bill, relocating [[Vumbua Academy]] to the southern frontier.
+
 ## Personality
 - **Pragmatic, Regnal:** Takes the long view. She knows the [[Ash-Bloods]] were "cooling" and dying out; Harmony offered survival.
-- **Conflict:** Viewed with suspicion by traditionalists (like [[ignatious]]?) but commands immense respect.
-- The [[Ash-Bloods]] were going through a "Great Cooling" (volcanoes dying) before Harmony found them. Integration revived the heat.
+- **Conflict:** Viewed with suspicion by traditionalists (like [[ignatious]]) but commands immense respect.
+- **Diplomatic Vision:** Uses her envoy [[Cade Ashveil]] to help the [[Mizizi]] integrate, understanding that strengthening the frontier clans solidifies the Ash-Bloods' standing in Harmony.
 
 ## Source References
 

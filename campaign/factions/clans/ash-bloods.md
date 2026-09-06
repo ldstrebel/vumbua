@@ -28,25 +28,29 @@ To the Ash-Bloods, fire is not a tool—it's a **living ancestor** that must be 
 
 ### Integration with Harmony
 
-The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when Captain Elara Thorne's expedition made contact. Thorne discovered the [[ash-blood-isles|Ash-Blood Isles]] just one week after [[valentine-sterling-sr|Valentine Sterling Sr.]] had found the [[Mizizi]]---the [[The Power System|Panda line batteries]] (which could store a connection to the land for up to 3 days outside a node) made both discoveries possible.
+The Ash-Bloods were the **first successful integration** discovered after 80 years of silence. This happened approximately 24 months ago when **Captain Elara Thorne** and her expedition breached the eastern sea mists, discovering the [[ash-blood-isles|Ash-Blood Isles]] at around the same time her fierce rival, **[[valentine-sterling-sr|Valentine Sterling Sr.]]**, made contact with the [[Mizizi]]. Two captains and rivals determined to explore the unknown.
+
+Unlike Sterling's brief, transactional trade with the forest folk, Captain Thorne stayed. She formed a close bond with Matriarch **[[Lady Ignis]]**, demonstrating how Harmony **resonators** (vibrational frequency tuners, not batteries) could power a grill to sear a meal right in the heart of the freezing caldera. In return, Thorne took a dormant piece of **lavsidian stone** and dispatched it back across the sea to Harmony Prime with instructions to use its volcanic core to cook a meal in the imperial capital.
+
+When the connection snapped shut across the ocean, the dormant magma surged: the rocks roared back to life with blinding heat, sending Elara scrambling out of the caldera with glee. Thorne returned to Harmony accompanied by an ecstatic and willing new Harmony Seat: **[[Lady Ignis]]**. Under the Inverse Power Doctrine, Lady Ignis held voting power equaling the entire Harmony government on all policies concerning the new frontier. Her very first act of state was to officially authorize and approve the grand relocation of [[Vumbua Academy]] to the southern waters.
 
 **What the Integration Brought:**
 
 **To Harmony:**
-- Raw obsidian that burns hotter than coal
+- Raw obsidian and lavsidian that burns hotter than coal
 - Volcanic heat for industrial forges
 - A new source of geothermal power
 - "Safe Lane" through the Aether storm
 
 **To the Ash-Bloods:**
-- Cooling Suits powered by crystal batteries
-- Ability to venture into cooler territories
-- Access to Harmony's knowledge and tech
+- Resonators and thermal regulators powered by Harmony resonance
+- Ability to venture into cooler territories without freezing
+- Access to Harmony's knowledge, machinery, and trade
 - Most importantly: **The volcanoes roared back to life**
 
 ### The Resurgence
 
-Since integration, the Ash-Blood youth have experienced something miraculous: their obsidian skin is **brightening** instead of fading. The elders had feared "The Cooling"—a gradual weakening of their fire—but Harmony engineers proved that proximity to other active Nodes **amplifies** Ash-Blood heat.
+Since integration, the Ash-Blood youth have experienced something miraculous: their obsidian skin is **brightening** instead of fading. The elders had feared "The Great Cooling"—a gradual, terrifying dying of their ancestral fires—but the reconnection of active Nodes proved that mutual resonance **amplifies** Ash-Blood heat.
 
 This has created a generational divide:
 - **Elders:** Remember "The Cold Times" and fear outsiders drain their warmth

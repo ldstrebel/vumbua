@@ -29,7 +29,35 @@ genre: Epic Fantasy / Sci-Fantasy
 
 <!-- RAW_RANGE: [1001, 1093] | SCENE_ID: 11 | OOC -->
 
-<!-- RAW_RANGE: [1094, 1217] | SCENE_ID: 12 -->
+## INTERLUDE: THE CAPTAINS' MANIFEST
+
+Steam valves hissed along the exterior conduits of the residential quads as the morning bells tolled across the Zephyr Academy. From the brass public-address trumpets mounted above the barracks gates, a lively fanfare of recorded brass and cello music gave way to the sharp click of a studio microphone.
+
+"Good morning, Vumbua!" Valerius Sterling’s voice echoed across the rooftops, brimming with early-morning vibrancy. "The sun is gleaming off the gold trim of the Sky-Spire, the Deep-Hull is thrumming with freshly channeled steam, and the unmistakable scent of fear—oh, pardon me, the sweet scent of *opportunity*—is thick in the air! I am Valerius Sterling, your voice in the steam, broadcasting live on the very first official day of Academy instruction!
+
+"Listen closely, candidates. Today is the day the true labor begins. You will be sweating over Cartography in the high towers, calculating Kinematics in the hull bays, and desperately praying not to singe off your own eyebrows in Advanced Steam Engineering down in the core. Whether you are mastering the rigid, flawless geometry of Harmony Magic or wrestling with the volatile, unpredictable variance of the Clans, remember this fundamental truth: Vumbua does not reward the mediocre. Only the resilient survive this curriculum.
+
+"But let us be completely honest with ourselves: you did not cross the northern seas merely to sit through lectures and inhale chalk dust. You are here for the open sky. You are here for the Proving Voyage! And to assist you in charting your future, we are inaugurating a brand new broadcast segment: *The Captains' Manifest*! Each week, I will sit down with the intrepid—and occasionally reckless—expedition commanders offering berths aboard their vessels for the month-long expedition into the unknown.
+
+"First into the studio this morning is a man whose personal furnace burns hotter than dragon fire. He is wagering his crew on a near-vertical ascent up the treacherous face of Storm-Needle Mountain... Captain Ignis 'Scorch' of the Iron-Union!"
+
+A harsh, gravelly voice, speaking with machine-gun rapidness and the breathless manic energy of an engine run without a governor, seized the microphone.
+
+"Speed is survival, Sterling!" Scorch barked. "We aren't crawling up that mountain—we are launching straight into the stratosphere! I am redlining my boiler at one hundred and twenty percent until the valves melt or until I ride the lavsidian high-stream pulsing along the peak of the Needle. Cut transit time through the core by half! The Scriveners whine that the upper atmosphere is too thin for stable resonance. I say the Scriveners simply lack the spine to push their regulators into the red! I need candidates with iron lungs, high heat-resistance, and zero fear of the drop. If you can take the heat, there is a hammock on my rig with your name on it."
+
+"Well," Valerius replied with amused horror, "that sounds... spectacularly suicidal! And speaking of surviving the mathematically impossible, our next guest is an expedition legend who literally wrote the standard handbook on field durability: *The Percussive Maintenance Guide, Volume Four*. Please welcome Captain 'Iron-Hide' Jorah of the armored cutter *Bulwark*!"
+
+A low, subterranean rumble shook the transmission, thick as cold pig-iron and slow as shifting granite.
+
+"The ship breaks before the crew does," Captain Iron-Hide growled quietly. "And the ship never breaks, Sterling. That is the rule. I am taking the *Bulwark* out on outer-perimeter patrol. We do not run from wild aetheric beasts. We tank them. Everyone in this city is chasing flash and fire, Sterling. I build foundations and scour out the rot. I need stoic Guardians who know the piston-lock maneuver in total darkness. You will take damage aboard my vessel—make no mistake. But I will bring you home in one piece."
+
+"Fascinating contrasts," Valerius purred smoothly. "Well, candidates, the choice is yours! Do you wish to risk instantaneous vaporous explosion with Captain Scorch, or endure an unyielding physical pounding with Captain Iron-Hide? Or will you hold your nerve for the other expedition commanders waiting in our wings? Choose wisely, secure your berths, and never forget the prime directive:
+
+"*Momentum is life.*
+
+"This is Valerius Sterling, signing off. Keep your batteries charged, and your eyes on the spires!"
+
+---
 
 ## Chapter 32: The Heavy Sleeper & The Morning Rush
 

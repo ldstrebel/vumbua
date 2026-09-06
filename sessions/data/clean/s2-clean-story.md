@@ -13,7 +13,29 @@ genre: Epic Fantasy / Sci-Fantasy
 
 <!-- RAW_RANGE: [201, 305] | SCENE_ID: 3 | OOC -->
 
-<!-- RAW_RANGE: [306, 440] | SCENE_ID: 4 -->
+## INTERLUDE: THE FIRST NIGHT CUT
+
+High above the barracks and the unpaved courtyards, the brass resonance horns mounted to the light poles crackled with a sudden hiss of steam-driven static. A vacuum-tube receiver warm with amber light hummed to life, sending a voice echoing through the damp midnight mist—polished, aristocratic, and thick with theatrical exhaustion.
+
+A long, resonant yawn sounded over the aetheric wire.
+
+"Good evening, Vumbua Academy," the voice began, rolling into an effortless, rhythmic purr. "This is Valerius Sterling coming to you live—and admittedly a bit sleepy—from the back room of the Celestial Lounge. The first night has come and gone, and I must say... what a night it was! Drama! New love and broken hearts! It is shaping up to be an absolute banner year.
+
+"For those of you out there daring enough... reckless enough... or simply too confident to sleep... well, good on you. *Momentum is life.*
+
+"A word of caution, however, to the uncalibrated among us. Not everyone who missed the intake cut today is thrilled about having their grand dreams dashed into the dirt. The late-night crowd in the lower quads can turn a bit... *dicey* once the sun goes down and the ale starts flowing. Keep your chin up and your head on a swivel, candidates—or you might find yourselves waking up missing your boots, your coin, or your teeth before dawn.
+
+"That said... tomorrow, the real work begins. It is time to select your class tracks and face that all-important placement test. And make no mistake about the arithmetic: after this week concludes, out of the seventy thousand souls roaming these grounds... only fifty thousand will remain.
+
+"Bring your absolute best. Because word from the upper berths is that the annual Resonance Race is scheduled right after our first week of instruction—the premier arena event to prove your mettle to the Captains before berths are awarded.
+
+"Sleep well, cadets. You are going to need every ounce of it.
+
+"Sterling out."
+
+The horn clicked shut with a sharp chime of dissipating static, leaving only the sound of distant laughter, the rhythmic hum of the basin steam generators, and the crackle of open fires burning in the dark.
+
+---
 
 ## CHAPTER 11: THE BONFIRE AT BLOCK 99
 
