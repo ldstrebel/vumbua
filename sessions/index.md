@@ -337,6 +337,27 @@ High above the petrified boughs of the Mizizi forest, Squad 907 docked their Can
 - Multiple clan members who left the forest, asked questions, or suffered shell/skin rot (like Britt's arm) were systematically forgotten by the clan.
 - Bramble communicated using *Speak to Plants* and fed false signals into the forest until recognizing Squad 907's presence.
 
+### [[Session 12|Session 12: Momentum is Life]]
+**Date:** 2026-08-14
+
+Following the slow, unyielding stride of Mwaza-Kasa through the petrified boughs and flooded basins of the Apex Ring, Squad 907 traverses the aftermath of the barrier drops. Reconnecting with survivors and faculty mentors—including Rill, Professor Ink, and Professor Kante—the squad uncovers the true nature of the Loom sorting and the forgotten history of the six founding clans. In an ancient grove, touching the living tortoise shell unlocks a profound ancestral vision: the world of Vumbua was once an interconnected network of six elemental sparks, and clan isolation was a manufactured delusion. Drinking the final ceremonial draughts, Squad 907 prepares to venture beyond the known maps.
+
+**Key Events:**
+- Squad 907 follows [[Mwaza-Kasa]]'s amnesiac march across the arena floor, discovering that the sacred tortoise walks without stopping or acknowledging terrain.
+- [[Iggy]] performs an elemental grounding ritual, burying fallen candidates beneath basalt slabs across the basin.
+- [[Pip]] distributes warm bacon biscuits to injured cadets in the makeshift triage station.
+- [[Rill]] provides Wadi medicinal salve to treat [[Britt]]'s fungal shell contamination, buying two weeks of symptom suppression.
+- [[Loami]] navigates the mechanical wreckage with [[Professor Ink]] aboard her pneumatic spider Walker, discovering a two-degree course correction guided by the tortoise.
+- In the old-growth grove, Squad 907 touches Mwaza-Kasa's shell, unlocking the **Ancestral Vision**: witnessing the six elemental sparks (Mizizi, Ash-Blood, Trench-Kin, Fulgur, Wadi, Renali) and the ancient starship history of Vumbua.
+- The squad drinks the eight ceremonial vials to anchor their physiological upgrades.
+- [[Rill]] delivers the defining campaign creed: *"Momentum is life."*
+
+**Players Discovered:**
+- The six clans were originally complementary nodes in a unified planetary engine, not isolated cultural territories.
+- The Spirit Tortoises are living hard drives storing forgotten ancestral geography and starship schematics.
+- The barrier drop and exam attrition were designed to test genuine cross-clan cooperation under existential pressure.
+- Squad 907 is officially commissioned for deep-wilderness exploration beyond the Golden Apex.
+
 ---
 
 ## Upcoming

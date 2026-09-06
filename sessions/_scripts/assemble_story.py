@@ -101,10 +101,14 @@ def main():
             print(f"  - {e}")
         sys.exit(1)
 
-    tmp_out = out_path + ".tmp"
-    with open(tmp_out, "w", encoding="utf-8") as f:
-        f.write("\n".join(parts))
-    os.replace(tmp_out, out_path)
+    try:
+        tmp_out = out_path + ".tmp"
+        with open(tmp_out, "w", encoding="utf-8") as f:
+            f.write("\n".join(parts))
+        os.replace(tmp_out, out_path)
+    except Exception:
+        with open(out_path, "w", encoding="utf-8") as f:
+            f.write("\n".join(parts))
 
     # surface the assembled story in novel/sessions/ for easy access
     import shutil

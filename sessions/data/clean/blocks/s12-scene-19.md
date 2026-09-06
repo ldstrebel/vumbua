@@ -1,6 +1,6 @@
 <!-- RAW_RANGE: [1651, 1710] | SCENE_ID: 19 -->
 
-## CHAPTER 15: THE ANCESTRAL VISION
+## CHAPTER 117: THE ANCESTRAL VISION
 
 As their palms pressed flat against the petrified wood, the clearing at Center Grove dissolved.
 
@@ -14,7 +14,7 @@ All eleven travelers experienced the revelation simultaneously: an unbroken, bre
 
 ---
 
-### ACT I: THE FIRST UNION
+
 
 *Three hundred years ago.*
 
@@ -40,7 +40,7 @@ Root woodcraft and volcanic thermal engineering combined. Smiths and wood-weaver
 
 ---
 
-### ACT II: THE SYNERGISTIC MESH OF SPARKS
+
 
 The web expanded, and with every clan that joined the Mandala, the elemental sparks did not merely coexist—they interlocked, multiplying one another's capabilities and enabling each civilization to achieve what had once been physically impossible.
 
@@ -62,7 +62,7 @@ Atop the central sky-altar, a graceful sky-scholar in flowing purple silk placed
 
 ---
 
-### ACT III: THE GOLDEN APEX & THE COMFORTABLE ROT
+
 
 For a golden age, there was unmatched, effortless prosperity.
 
@@ -88,7 +88,7 @@ The Empress looked at her fading silk robes, her voice hollow with grief. "We li
 
 ---
 
-### ACT IV: THE BREAKDOWN & THE REGRESSION OF WAR
+
 
 Because the people refused to grow or strive, the living elemental sparks began to suffocate.
 
@@ -110,7 +110,7 @@ Yet no matter how much blood was spilled, the sparks did not return. The sparks 
 
 ---
 
-### ACT V: THE SPARK-SOUL TRUTH & THE GOLDILOCKS CONDUIT
+
 
 While the surface world tore itself apart, the cross-clan council of scholars met in a secret subterranean stone vault beneath the ancient roots.
 
@@ -128,7 +128,7 @@ The spore-scholar lifted a small dual-chambered glass conduit filled with a tiny
 
 ---
 
-### ACT VI: THE WANTILA ROOT & THE MEMORY PURGE
+
 
 The decision was sealed in sorrow.
 
@@ -156,4 +156,4 @@ And as the swirling vortex of light pulled back through the river of time, the v
 
 ---
 
-<!-- LEDGER: rendered=[] skipped=[] -->
+<!-- LEDGER: rendered=[] skipped=[1651(ooc)] -->

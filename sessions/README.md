@@ -73,6 +73,7 @@ The core foundation of this framework guarantees **zero hallucination, zero narr
 ```
 
 ### Key Scripts
+* `session_status.py`: **The completion gate.** A session is not "done" until `python sessions/_scripts/session_status.py sN` reports PASS — config, indexed raw, attribution, manifest, blocks, clean-attributed, clean story, assumptions, and novel mirror must ALL exist. A story without its ledger chain is unverified prose, not a pipeline product.
 * `prep_raw.py`: Normalizes diarization and stamps immutable `L0001` line numbers.
 * `attribute_speakers.py`: Enforces strict session config declarations. Refuses undeclared identities.
 * `assemble_story.py`: Compiles scene blocks into session manuscripts with ledger validation.

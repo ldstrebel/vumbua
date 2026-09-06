@@ -92,9 +92,9 @@
     "aggy": "Aggie",
     "agie": "Aggie",
     "ignatious": "Ignatius",
-    "loami": "Lomi",
-    "lowmi": "Lomi",
-    "lumi": "Lomi",
+    "lomi": "Loami",
+    "lowmi": "Loami",
+    "lumi": "Loami",
     "iggie": "Iggy",
     "brit": "Britt",
     "professor inc": "Professor Ink",
@@ -108,7 +108,7 @@
       "Aggie",
       "Iggy",
       "Ignatius",
-      "Lomi",
+      "Loami",
       "Pip"
     ],
     "npcs": [

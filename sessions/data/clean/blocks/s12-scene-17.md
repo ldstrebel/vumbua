@@ -1,6 +1,6 @@
 <!-- RAW_RANGE: [1578, 1600] | SCENE_ID: 17 -->
 
-## CHAPTER 14: THE OLD GROWTH
+## CHAPTER 115: THE OLD GROWTH
 
 For two days, the walker *Elijah* galloped southward across the plains, maintaining a strict watch rotation at the bridge helm so that no cadet ever broke visual contact with Mwaza-Kasa's wake in the grass.
 
@@ -12,16 +12,16 @@ Encircling the base of the massive trunk was a thirty-foot ring of dense, glowin
 
 Rill gasped in pure horror, stumbling back. "They're cultivating it..." Rill breathed in terrified disbelief. "How is that even possible?!" <!-- L1581 -->
 
-Mwaza-Kasa crawled steadily to the edge of the clearing, turned back to meet the gaze of each member of the party, and then waddled straight into the ring of lethal fungus. Reaching the ancient bark, the giant Spirit Tortoise pressed its front limb against the wood—and collapsed motionless to the earth. <!-- L1581 --> <!-- L1583 -->
+Mwaza-Kasa crawled steadily to the edge of the clearing, turned back to meet the gaze of each member of the party, and then waddled straight into the ring of lethal fungus. Reaching the ancient bark, the giant Spirit Tortoise pressed its front limb against the wood—and collapsed motionless to the earth. <!-- L1583 -->
 
-Ignatius cried out in alarm, jumping forward. "Don't touch that! Did the turtle just die?!" <!-- L1583 -->
+Ignatius cried out in alarm, jumping forward. "Don't touch that! Did the turtle just die?!"
 
-Iggy didn't hesitate. Pulling his heavy trench coat tight around his dirt-kin frame, Iggy marched straight through the thirty-foot perimeter of glowing fungal spores. The toxic dust swirled harmlessly against his clay skin as he reached the fallen tortoise, kneeling beside its shell. <!-- L1583 -->
+Iggy didn't hesitate. Pulling his heavy trench coat tight around his dirt-kin frame, Iggy marched straight through the thirty-foot perimeter of glowing fungal spores. The toxic dust swirled harmlessly against his clay skin as he reached the fallen tortoise, kneeling beside its shell.
 
 Beneath Iggy's hands, the glowing teal veins across Mwaza-Kasa's carapace were rapidly fading into dull, ashen grey.
 
 Britt unslung her satchel, stepping up to the perimeter. "I have eight vials of stabilizing antidote," Britt announced firmly. "It won't cure us permanently, but it gives us time. If we are going to touch that tree and uncover what happened here... we take the draught together." <!-- L1598 -->
 
-Aggie walked to an adjacent sentinel tree on the edge of the clearing, placing her palms against its bark to commune with the roots. But the wood remained cold, silent, and petrified—as if the ancient spirit of the forest were holding its breath, waiting for the six clans to step forward. <!-- L1598 -->
+Aggie walked to an adjacent sentinel tree on the edge of the clearing, placing her palms against its bark to commune with the roots. But the wood remained cold, silent, and petrified—as if the ancient spirit of the forest were holding its breath, waiting for the six clans to step forward.
 
-<!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[] -->
+<!-- LEDGER: rendered=[1579, 1581, 1583, 1598] skipped=[1584(ooc), 1585(ooc), 1586(ooc), 1587(ooc), 1588(ooc), 1590(ooc), 1593(ooc), 1596(ooc)] -->

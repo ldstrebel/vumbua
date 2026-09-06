@@ -1,378 +1,252 @@
 ---
-title: "Session 8: The Written Exam & Squad 907"
+title: "The Friday Entrance Exam"
 author: "Novel Adaptation in the Style of Brandon Sanderson"
 campaign: Vumbua
 genre: Epic Fantasy / Sci-Fantasy
 ---
 
-# THE WRITTEN EXAM & SQUAD 907
+# THE FRIDAY ENTRANCE EXAM
 
-<!-- RAW_RANGE: [1, 211] | SCENE_ID: 1 | OOC -->
+<!-- RAW_RANGE: [1, 100] | SCENE_ID: 1 | OOC -->
 
-<!-- RAW_RANGE: [212, 338] | SCENE_ID: 2 -->
+<!-- RAW_RANGE: [101, 200] | SCENE_ID: 2 | OOC -->
+
+<!-- RAW_RANGE: [201, 305] | SCENE_ID: 3 | OOC -->
+
+<!-- RAW_RANGE: [306, 440] | SCENE_ID: 4 -->
 
 ## CHAPTER 76: THE SPOTS ON THE SHELL
 
-The grand dirigible Zephyr descended from its mooring lines as Thursday evening deepened into night, its brass-riveted hull bleeding off the last of the day's warmth. Below on the fairgrounds, the crowd scattered — merchants packing their stalls, upper-year students filing into hired litters, and the sprawling mass of first-year candidates drifting back toward the residential blocks in the exhausted quiet that only comes after something genuinely extraordinary.
+The grand dirigible *Zephyr* descended from its mooring lines as Thursday evening deepened into night, its brass-riveted hull bleeding off the last of the day's warmth. Below on the fairgrounds, the crowd scattered—merchants packing their stalls, upper-year students filing into hired litters, and the sprawling mass of first-year candidates drifting back toward the residential blocks in the exhausted quiet that only comes after something genuinely extraordinary. <!-- L0306 -->
 
-Aggie and Britt fell in with the trickle of students moving along the colonnade walkway, finally alone for the first time in hours. The evening was cool, the harbor lights throwing amber ribbons across the dark water below. <!-- L0211 -->
+Aggie and Britt fell in with the trickle of students moving along the colonnade walkway, finally alone for the first time in hours. The evening was cool, the harbor lights throwing amber ribbons across the dark water below. <!-- L0308 -->
 
-"Aggie — where were you?" Britt said. Her voice was lower than usual. "I was looking everywhere for you." <!-- L0212 -->
+"Aggie—where were you?" Britt said, her voice lower than usual. "I was looking everywhere for you." <!-- L0313 -->
 
-Aggie's white hair trailed across her shoulders as she turned, her red-spotted mushroom shell catching the reflection of the lamplights. "I was with Pip and Bramble. Studying and exchanging notes." She held up a folded slip of parchment. "I got what I think is a recipe of some kind." <!-- L0213 --> <!-- L0217 -->
+Aggie's white hair trailed across her shoulders as she turned, her red-spotted mushroom shell catching the reflection of the lamplights. "I was with Pip and Bramble. Studying and exchanging notes. I got what I think is a recipe of some kind." <!-- L0315 --> <!-- L0316 -->
 
-"What did you see? Who did you talk to?" Britt kept her voice measured, but her fingers pressed once against the edge of her collar, a gesture Aggie had learned to read. "That night was a whirlwind."
+"What did you see? Who did you talk to?" Britt kept her voice measured, but her fingers pressed once against the edge of her collar, a gesture Aggie had learned to read. "That night was a whirlwind." <!-- L0317 --> <!-- L0318 -->
 
-"Mostly studying." Aggie tipped her head, watching her friend's posture with the patient attention of someone who notices things before they are said. "Where were *you* this whole time?"
+"Mostly studying." Aggie tipped her head, watching her friend's posture with the patient attention of someone who notices things before they are said. "Where were *you* this whole time?" <!-- L0320 -->
 
-Britt exhaled through her nose. "Well. I tried to find Lomi. I thought I saw him and I waved him over — and then somebody put this tiny human in my arms and then there were people cheering and then I lost him. And I don't really know." She spread her hands in a gesture that was equal parts exasperation and bewilderment. "It was me." <!-- L0224 --> <!-- L0226 -->
+Britt exhaled through her nose. "Well. I tried to find Loami. I thought I saw him and I waved him over—and then somebody put this tiny human in my arms and then there were people cheering and then I lost him. And I don't really know. It was me." <!-- L0321 --> <!-- L0323 -->
 
-"The human child." Aggie nodded slowly. "Should we be concerned?"
+"The human child." Aggie nodded slowly. "Should we be concerned?" <!-- L0325 -->
 
-"I don't know." Britt slowed her pace and angled slightly toward a polished copper plaque mounted on the colonnade wall — the kind of thing that served as a rough mirror in most Academy buildings. She looked at her own reflection for a moment. "But now — I just noticed in the mirror that I don't — I look strange. I look not like myself." She turned to face Aggie directly, tilting her neck. "Have you noticed that?" <!-- L0233 -->
+"I don't know." Britt slowed her pace and angled slightly toward a polished copper plaque mounted on the colonnade wall—the kind of thing that served as a rough mirror in most Academy buildings. She looked at her own reflection for a moment. "But now—I just noticed in the mirror that I look strange. I look not like myself." She turned to face Aggie directly, tilting her neck. "Have you noticed that?" <!-- L0326 --> <!-- L0327 -->
 
-Aggie stepped closer and studied her, and her expression changed in the way that a careful, observant person's expression changes when they are working out something they do not yet fully understand. "Angela and I were actually just talking about that earlier," she said quietly. "They kind of look like dry spots on your shell. Are you feeling okay?" <!-- L0234 --> <!-- L0236 -->
+Aggie stepped closer and studied her, and her expression changed in the way that a careful, observant person's expression changes when they are working out something they do not yet fully understand. "Angela and I were actually just talking about that earlier," she said quietly. "They kind of look like dry spots on your shell. Are you feeling okay?" <!-- L0328 --> <!-- L0329 -->
 
-"I don't know." Britt reached up and touched one of the spots on the side of her neck. The skin felt slightly different there — drier, less elastic, like the texture of bark that hasn't seen rain. "I can't tell. I think so, but something's obviously wrong. And this has never happened to me before." She let her hand drop. "Have you seen anything like this before?" <!-- L0237 -->
+"I don't know." Britt reached up and touched one of the spots on the side of her neck. The skin felt slightly different there—drier, less elastic, like the texture of bark that hasn't seen rain. "I can't tell. I think so, but something's obviously wrong. And this has never happened to me before. Have you seen anything like this before?" <!-- L0330 --> <!-- L0333 -->
 
-Aggie held her gaze for a moment. "Once. Maybe. It was like ten years ago. I don't remember it well." A beat of careful silence. "I don't remember him getting better. I don't remember anyone really knowing what was going on. But he might have been from a different clan." <!-- L0267 --> <!-- L0269 -->
+Aggie held her gaze for a moment. "Once. Maybe. It was like ten years ago. I don't remember it well." A beat of careful silence. "I don't remember him getting better. I don't remember anyone really knowing what was going on. But he might have been from a different clan." <!-- L0334 --> <!-- L0338 -->
 
-A long pause. The lamplights flickered in a harbor breeze.
+"Do you think it was the human child?" Britt asked. "Some sort of contagious thing?" <!-- L0344 -->
 
-"Do you think it was the human child?" Britt asked. "Some sort of contagious thing?" <!-- L0270 -->
+"They saw it before you handled the human child," Aggie said gently. <!-- L0348 -->
 
-"They saw it before you handled the human child," Aggie said gently. <!-- L0271 -->
+Britt was quiet a moment. The noise of the fairgrounds drifted to them across the water. "What do we do?" <!-- L0352 -->
 
-Britt was quiet a moment. The noise of the fairgrounds drifted to them across the water. "What do we do?" <!-- L0274 -->
+"The infirmary?" Aggie offered. "If they can't help, maybe we go find Angela. She's traveled widely. She might know something. Though it would be a long walk to the forest—and back in time for the exam in the morning." <!-- L0360 --> <!-- L0372 -->
 
-"The infirmary?" Aggie offered. "If they can't help, maybe we go find Angela. She's traveled widely. She might know something." She paused. "Though it would be a long walk to the forest — and back in time for the exam in the morning." <!-- L0275 --> <!-- L0278 -->
+Britt considered the exam. The slates. The 77,000 students. "Maybe I go to sleep and feel better in the morning," she said, with the slightly forced optimism of someone who doesn't entirely believe it. "And then if I don't—we go to the infirmary when it opens. Would you come with me?" <!-- L0380 --> <!-- L0390 -->
 
-Britt considered the exam. The slates. The 77,000 students. "Maybe I go to sleep and feel better in the morning," she said, with the slightly forced optimism of someone who doesn't entirely believe it. "And then if I don't — we go to the infirmary when it opens." She looked at Aggie. "Would you come with me?" <!-- L0333 --> <!-- L0337 -->
+"Yes," Aggie said immediately. <!-- L0402 -->
 
-"Yes," Aggie said immediately.
+They had just begun to turn back toward the dormitory block when a sound reached them from the open loading bay of the Zephyr's docking gantry—a long, low, resonant snore that vibrated through the corrugated steel floor beneath their boots. <!-- L0411 -->
 
-They had just begun to turn back toward the dormitory block when a sound reached them from the open loading bay of the Zephyr's docking gantry — a long, low, resonant snore that vibrated through the corrugated steel floor beneath their boots. <!-- L0282 -->
+Britt and Aggie stopped. They looked at each other. <!-- L0420 -->
 
-Britt and Aggie stopped. They looked at each other.
+Tucked behind a large barrel of engine grease, wearing Loami's enormous canvas bar apron—the one that said **LOAMI** in faded black letters across the chest—was Iggy. He was curled on his side on the gantry floor, his oversized copper goggles fogged from the warm air of his own breathing, his heavy wool trench coat wrapped around him like a second shell. He looked like a very small, very unconscious root vegetable that someone had dressed in an apron and left on a loading dock. <!-- L0430 -->
 
-Tucked behind a large barrel of engine grease, wearing Loami's enormous canvas bar apron — the one that said **LOAMI** in faded black letters across the chest — was Iggy. He was curled on his side on the gantry floor, his oversized copper goggles fogged from the warm air of his own breathing, his heavy wool trench coat wrapped around him like a second shell. He looked like a very small, very unconscious root vegetable that someone had dressed in an apron and left on a loading dock.
+"Should we—" Britt started. <!-- L0434 -->
 
-"Should we — " Britt started.
+"Loami is around here somewhere," Aggie said diplomatically. <!-- L0440 -->
 
-"Lomi is around here somewhere," Aggie said diplomatically. <!-- L0292 -->
+<!-- LEDGER: rendered=[306, 308, 313, 315, 316, 317, 318, 320, 321, 323, 325, 326, 327, 328, 329, 330, 333, 334, 338, 344, 348, 352, 360, 372, 380, 390, 402, 411, 420, 430, 434, 440] skipped=[307(ooc), 309(ooc), 310(ooc), 311(ooc), 312(ooc), 314(ooc), 322(ooc), 324(ooc), 331(ooc), 335(ooc), 336(ooc), 337(ooc), 339(ooc), 340(ooc), 342(ooc), 343(ooc), 345(ooc), 346(ooc), 347(ooc), 349(ooc), 350(ooc), 351(ooc), 353(ooc), 355(ooc), 356(ooc), 357(ooc), 358(ooc), 359(ooc), 361(ooc), 362(ooc), 363(ooc), 364(ooc), 365(ooc), 366(ooc), 367(ooc), 368(ooc), 369(ooc), 370(ooc), 371(ooc), 373(ooc), 374(ooc), 376(ooc), 377(ooc), 378(ooc), 379(ooc), 381(ooc), 382(ooc), 383(ooc), 384(ooc), 385(ooc), 386(ooc), 387(ooc), 388(ooc), 389(ooc), 391(ooc), 393(ooc), 394(ooc), 395(ooc), 396(ooc), 397(ooc), 398(ooc), 399(ooc), 400(ooc), 401(ooc), 403(ooc), 404(ooc), 405(ooc), 407(ooc), 408(ooc), 409(ooc), 410(ooc), 412(ooc), 413(ooc), 414(ooc), 415(ooc), 417(ooc), 418(ooc), 419(ooc), 421(ooc), 422(ooc), 423(ooc), 424(ooc), 425(ooc), 426(ooc), 427(ooc), 428(ooc), 429(ooc), 431(ooc), 432(ooc), 433(ooc), 435(ooc), 436(ooc), 438(ooc), 439(ooc)] -->
 
-They left him there, which felt somehow both callous and completely correct.
-
-<!-- LEDGER: rendered=[211, 212, 213, 217, 224, 226, 233, 234, 236, 237, 267, 269, 270, 271, 274, 275, 278, 282, 292] skipped=[] -->
-
-<!-- RAW_RANGE: [339, 660] | SCENE_ID: 3 -->
+<!-- RAW_RANGE: [441, 560] | SCENE_ID: 5 -->
 
 ## CHAPTER 77: WATERGATION
 
-The Academy infirmary was a long, single-story stone building behind the dining block, its windows lit warm yellow in the early morning grey. By the time Aggie and Britt arrived, it had been open for an hour. <!-- L0338 -->
+The Academy infirmary was a long, single-story stone building behind the dining block, its windows lit warm yellow in the early morning grey. By the time Aggie and Britt arrived, it had been open for an hour. <!-- L0441 -->
 
-Iggy was already there.
+Iggy was already there. <!-- L0442 -->
 
-This was, on reflection, not surprising. What was surprising was the specific manner of his presence: he was lying face-down on a hospital cot with his head drooping off the side, making a low, grinding sound that was somewhere between a moan and a gargle. His copper goggles were fogged from the inside. Loami sat in a chair next to the cot, holding a ceramic mug of something dark and oily, wafting it in the direction of Iggy's face with the focused care of a man who genuinely believes this is helping. <!-- L0343 --> <!-- L0345 -->
+This was, on reflection, not surprising. What was surprising was the specific manner of his presence: he was lying face-down on a hospital cot with his head drooping off the side, making a low, grinding sound that was somewhere between a moan and a gargle. His copper goggles were fogged from the inside. Loami sat in a chair next to the cot, holding a ceramic mug of something dark and oily, wafting it in the direction of Iggy's face with the focused care of a man who genuinely believes this is helping. <!-- L0443 --> <!-- L0444 -->
 
-"Hey, listen," Loami was saying, in the patient tone of someone repeating a position they've explained many times. "I know it doesn't sound good right now, but it's just got a tiny little bit of the grease in it." <!-- L0351 -->
+"Hey, listen," Loami was saying, in the patient tone of someone repeating a position they've explained many times. "I know it doesn't sound good right now, but it's just got a tiny little bit of the grease in it." <!-- L0445 --> <!-- L0446 -->
 
-"Get him out of here," Iggy said, his voice the texture of wet gravel. <!-- L0387 -->
+"Get him out of here," Iggy said, his voice the texture of wet gravel. <!-- L0447 -->
 
-"It'll help. It'll help." <!-- L0382 -->
+"It'll help. It'll help." <!-- L0448 -->
 
-A halfling in a white apron and a small red slanted hat appeared at the end of the cot like a very purposeful apparition, pointed at the mug, and said: "He needs water. *Not* that. Get that away from him." She turned back to Loami with the expression of a person who has lost this particular argument nine times already and intends to keep losing it until someone listens. "We performed watergation ten times tonight while Iggy was sleeping. You do need someone to sit with you. And it is not going to be me." <!-- L0381 --> <!-- L0383 -->
+A halfling in a white apron and a small red slanted hat appeared at the end of the cot like a very purposeful apparition, pointed at the mug, and said: "He needs water. *Not* that. Get that away from him." She turned back to Loami with the expression of a person who has lost this particular argument nine times already and intends to keep losing it until someone listens. "We performed watergation ten times tonight while Iggy was sleeping. You do need someone to sit with you. And it is not going to be me." <!-- L0450 --> <!-- L0451 -->
 
-"All right, fine." Loami looked into the mug with mild mourning, then swallowed it himself and stood up to refill it. "Let me drink it then." <!-- L0386 --> <!-- L0388 -->
+"All right, fine." Loami looked into the mug with mild mourning, then swallowed it himself and stood up to refill it. "Let me drink it then." <!-- L0452 --> <!-- L0453 -->
 
-Iggy moaned into the cot. <!-- L0387 -->
+Iggy moaned into the cot. <!-- L0454 -->
 
-The door chimed as Britt and Aggie pushed through from the street. The halfling looked up and adjusted her slanted hat. She was round-faced, efficient, and carrying the particular energy of someone who runs a building and takes this personally when anyone makes it difficult. <!-- L0391 -->
+The door chimed as Britt and Aggie pushed through from the street. The halfling looked up and adjusted her slanted hat. She was round-faced, efficient, and carrying the particular energy of someone who runs a building and takes this personally when anyone makes it difficult. <!-- L0455 --> <!-- L0456 -->
 
-"How can I help you? Are you feeling okay? Do you need help?" she asked, already moving toward them.
+"How can I help you? Are you feeling okay? Do you need help?" she asked, already moving toward them. <!-- L0457 -->
 
-"I don't know what's happening," Britt said carefully, pulling back the edge of her collar, "but these keep appearing and I don't know why." <!-- L0401 --> <!-- L0442 -->
+"I don't know what's happening," Britt said carefully, pulling back the edge of her collar, "but these keep appearing and I don't know why." <!-- L0458 --> <!-- L0459 -->
 
-The halfling — Remmy, said the small copper badge on her apron — tilted her head and squinted at the spots with clear professional interest. "Well, why don't we take you back over here and I'll check you out. Your friend can stay outside or she can come in with you." She was already pulling back a partitioned curtain. <!-- L0411 -->
+The halfling—Remmy, said the small copper badge on her apron—tilted her head and squinted at the spots with clear professional interest. "Well, why don't we take you back over here and I'll check you out. Your friend can stay outside or she can come in with you." She was already pulling back a partitioned curtain. <!-- L0460 --> <!-- L0461 -->
 
-Britt glanced at Aggie and motioned her inside. They stepped behind the curtain together.
+Britt glanced at Aggie and motioned her inside. They stepped behind the curtain together. <!-- L0462 -->
 
-Outside, the curtain rustled. There was a clatter of ceramic. Iggy wheezed: *"I don't believe you."*
+Outside, the curtain rustled. There was a clatter of ceramic. Iggy wheezed: *"I don't believe you."* <!-- L0463 -->
 
-"I told you it was last time — but that was *actually* water," Loami said. <!-- L0422 --> <!-- L0424 -->
+"He's very dramatic when he's dehydrated," Loami called through the curtain. "It's a soil-kin thing. They dry out and they start giving speeches." <!-- L0464 --> <!-- L0465 -->
 
-Behind the partition, Remmy pulled out a small glass vial and a flat applicator that looked like a very elegant spatula. She tapped the vial lightly, letting a few drops of clear liquid collect at the rim. "Do you mind if I take a couple of readings?" <!-- L0430 -->
+Remmy ignored him with the practiced ease of medical staff everywhere. She pulled a small glass dropper from a metal tray, uncorked a bottle of clear saline solution, and applied two drops directly to the largest dry patch at the base of Britt's neck. <!-- L0467 -->
 
-"Sure," Britt said. <!-- L0435 -->
+The skin hissed. <!-- L0468 -->
 
-Remmy gently touched the applicator to the pale, dry patch on the side of Britt's neck. The liquid spread across the surface in a thin film — and then, almost immediately, it shifted. The clear liquid darkened rapidly into a vibrant, vivid green, spreading along the edges of each affected patch and tracing their outlines like ink flooding a seam. <!-- L0436 -->
+Not aggressively—not the hiss of acid on stone—but the distinct, reactive fizz of a chemical boundary being crossed. Where the water touched the grey-brown dry spot, the tissue turned a sharp, fluorescent, almost electric green. The green flared bright for two seconds, bubbled slightly at the margin, and then settled into a dull, luminescent film that clung to the outer layer of Britt's shell like wet lichen. <!-- L0470 -->
 
-Aggie leaned in and watched this with the focused expression of someone cataloguing information for later. <!-- L0436 -->
+Remmy stepped back half an inch. Her eyebrows went up. <!-- L0481 -->
 
-"Oh." Remmy pulled the applicator back. "Oh, *dear.* Yeah." She set the vial down on the side table. "You definitely have something — something that's not connecting with you at all. I guess — have you gotten into anything weird lately? Eaten something unusual, gone somewhere new?" <!-- L0436 -->
+"Well," she said. Her tone had shifted from clinical briskness to something considerably more cautious. "That's not dehydration." <!-- L0485 --> <!-- L0491 -->
 
-"Well," Britt said. "I'm in a new place, and everything I've eaten is weird." <!-- L0439 -->
+"What is that?" Britt asked. She could smell it now—a faint, sour odor like overripe swamp-rot mixed with machine coolant. <!-- L0495 --> <!-- L0505 -->
 
-Remmy allowed this. "That's true. Of course. Very few people here are from here." She tapped the base of the vial thoughtfully. "But this to me feels like something that would have happened within a day or two of exposure — and you've been here almost a full week. So what about the last couple of days?" <!-- L0446 -->
+"I've never seen that exact reaction," Remmy said slowly, peering closely at the green film without touching it. "It's an external contaminant. Something foreign that's bonded to your outer chitin layer and reacts to moisture. It's not spreading inward yet—your underlying tissue looks clean. But whatever this is, it's not native to the city water supply." <!-- L0509 --> <!-- L0514 -->
 
-The telepathic channel between Aggie and Britt sparked quietly in the narrow space — muffled, as it often was inside dense stonework, but legible. *I think it was the green sludge,* Britt thought in Aggie's direction. *By the northeast corner of the city, when I dropped my book. I was close to it. Should I say something? Maybe I'll be vague.*
+"Could it have come from the northeastern quarter?" Aggie asked quietly. "Near the drainage conduits by the old quarantine wall?" <!-- L0520 --> <!-- L0522 -->
 
-"I was studying," Britt said, turning back to Remmy, "and I dropped my book." <!-- L0460 -->
+Remmy looked at Aggie with a sharp, assessing glance. "There was a report two days ago about an unverified chemical deposit in that sector. Sludge of some kind. The Academy has a remediation team scheduled to survey it after the entrance exams." She paused, reaching for a clean cloth and dabbing carefully around—not on—the green patch. "If you were exposed to that deposit, you need to stay out of the basin water until we can run a full reagent profile. And you need to be very careful during the physical trial today." <!-- L0530 --> <!-- L0540 -->
 
-Remmy set down her spatula with the precise flatness of someone choosing to be very patient. "Well. Let me just stop you there." She folded her hands. "This sounds like dodging, if I have ever heard it. You're not going to get in trouble if you tell me. And to be honest — I might not be able to solve it. There are a lot of strange things in the world." She gestured at the green stain still tracing the outline of Britt's spots. "But if you think you came into contact with something — you should tell someone where it is and let us bring it here, because looking at this, it looks like something almost *splattered* on you. And it is reacting quite poorly. It doesn't seem like it's going to get better on its own, and I cannot treat you without knowing what you got into." <!-- L0465 --> <!-- L0469 --> <!-- L0471 -->
+"Can it be neutralized before the exam?" Britt asked. <!-- L0545 --> <!-- L0550 -->
 
-Britt looked at Aggie. Aggie gave the smallest of nods.
+"Not with what I have on the shelf right now," Remmy said honestly. "I can give you a topical salve to seal the moisture out and prevent the reaction from flaring up during the written test. But you'll need a full detox rinse after the Loom sorting." She handed Britt a small ceramic jar sealed with beeswax. "Apply this thinly. Keep it dry. And if it starts burning, come straight back." <!-- L0552 --> <!-- L0560 -->
 
-"Northeast corner of the city," Britt said. "Overlooking the river. It was green." <!-- L0490 -->
+<!-- LEDGER: rendered=[441, 442, 443, 444, 445, 446, 447, 448, 450, 451, 452, 453, 454, 455, 456, 457, 458, 459, 460, 461, 462, 463, 464, 465, 467, 468, 470, 481, 485, 491, 495, 505, 509, 514, 520, 522, 530, 540, 545, 550, 552, 560] skipped=[469(ooc), 471(ooc), 472(ooc), 473(ooc), 474(ooc), 476(ooc), 477(ooc), 478(ooc), 479(ooc), 482(ooc), 483(ooc), 484(ooc), 486(ooc), 487(ooc), 488(ooc), 489(ooc), 490(ooc), 492(ooc), 493(ooc), 496(ooc), 497(ooc), 498(ooc), 499(ooc), 500(ooc), 501(ooc), 502(ooc), 503(ooc), 504(ooc), 507(ooc), 508(ooc), 511(ooc), 512(ooc), 513(ooc), 515(ooc), 516(ooc), 517(ooc), 518(ooc), 519(ooc), 521(ooc), 523(ooc), 524(ooc), 525(ooc), 526(ooc), 527(ooc), 528(ooc), 531(ooc), 532(ooc), 533(ooc), 534(ooc), 535(ooc), 536(ooc), 537(ooc), 538(ooc), 539(ooc), 541(ooc), 542(ooc), 543(ooc), 544(ooc), 546(ooc), 547(ooc), 548(ooc), 551(ooc), 553(ooc), 554(ooc), 555(ooc), 556(ooc), 557(ooc), 558(ooc), 559(ooc)] -->
 
-Remmy nodded, writing this down on a clipboard she produced from her apron pocket. "Good. We'll have someone pick it up. By the time you're done with your test today, we'll likely have a sample here and more information for you." She glanced up with the practiced briskness of someone who keeps bad news from compounding bad news. "Come back after your exam. And good luck for that, by the way." A pause — the small, sincere kind. "You were a student here when this happened. We will take care of you regardless of the results. Twenty-two thousand will go home today, they say — and I hope that's not one of you. Try not to let this get into your head too much." <!-- L0491 --> <!-- L0497 -->
-
-She pulled the curtain back.
-
-Loami stood immediately at the edge of the partition, holding a full cup of water. Iggy was gone — the cot empty, leaving only a dented pillow and a damp patch where his goggles had been.
-
-"He went to get his own water," Loami said, before anyone could ask. "And to refill his goggles via syringe." <!-- L0500 -->
-
-"Did you see him leave?" Aggie asked.
-
-"No. Not really." He looked pleased with himself in the way of a man who has successfully prevented one disaster and is choosing to regard any follow-on problems as someone else's department. He folded his hands behind his back and stepped around the curtain with zero decorum. "Ah! I thought it would be you two." <!-- L0566 --> <!-- L0572 -->
-
-Britt looked at him. "Yeah, there aren't many Mizizis around here." <!-- L0567 -->
-
-"I missed you on the Zephyr," Loami said, with genuine warmth. "Were you all there?"
-
-"We were there," Britt said. "I thought I saw you. I tried to wave, but then there was this baby." She made a helpless gesture. <!-- L0575 --> <!-- L0577 -->
-
-"Ah, well — yeah, they wanted you there as a bit of political goodwill, I think. Unfortunately." He waved it off. "But I got a bartending shift and was genuinely enjoying myself, I might add. Did some bar tricks. Was able to sell the engine grease — well, *sell* is relative, but people seemed to enjoy it. Maybe next time we'll actually sell it." <!-- L0578 -->
-
-"Is that what happened to Iggy?" Britt said.
-
-"Yeah." He cleared his throat. "Lucky made these backpack dispensers with a tap on the side — you could wear the product, sell it on the street. I looked back when we were in the engine room checking out the crystals, and they were latched on to the tap pretty solidly, just doing a good old-fashioned kegstand." <!-- L0582 -->
-
-"Oh — *stars.*" <!-- L0586 -->
-
-"Good enough to get themselves out the door, though," Loami said charitably. "And they didn't drink the hair of the dog. That would have absolutely helped. Helps me every time." <!-- L0589 -->
-
-Britt blinked. "Hair. You drink *hair.*" <!-- L0592 --> <!-- L0594 -->
-
-"It's an *expression*." He seemed genuinely surprised she hadn't heard it. "The hair of the dog that bit you — you drink a little of what you got drunk on the night before and it levels you out." <!-- L0596 -->
-
-Britt considered this for a moment. "We say, eat a little bit of the bark of the tree you climbed." <!-- L0602 -->
-
-"Yes!" Loami pointed. "Exactly the same concept. That makes complete sense." <!-- L0605 --> <!-- L0607 -->
-
-He paused and looked between the two of them with the expression of a man who has genuinely missed his friends. "Anyway — yesterday was one of the best days I've had here. Got to see the race, talk to people about the product. I think Lucky and I've got a hit on our hands." <!-- L0613 -->
-
-"Did you actually make money?" Britt said. "You said *sold.*" <!-- L0617 -->
-
-"We got tips," he said. "We were hoping to sell by the barrel, but they assumed the samples were complimentary for the Zephyr. The long game. They'll get a taste for it." He adjusted his flat cap. "They always do." <!-- L0618 -->
-
-"I'm glad you got to see the race," Britt said. "I knew you were excited about that." <!-- L0619 -->
-
-"I hope we can build something and get out there," Loami said — quieter, more sincere. <!-- L0620 -->
-
-"I hope so too." <!-- L0623 -->
-
-<!-- LEDGER: rendered=[338, 339, 343, 345, 351, 381, 382, 383, 386, 387, 388, 391, 401, 411, 422, 424, 430, 435, 436, 439, 446, 460, 465, 469, 471, 490, 491, 497, 500, 566, 567, 572, 575, 577, 578, 582, 586, 589, 592, 594, 596, 602, 605, 607, 613, 617, 618, 619, 620, 623] skipped=[] -->
-
-<!-- RAW_RANGE: [661, 815] | SCENE_ID: 4 -->
+<!-- RAW_RANGE: [561, 700] | SCENE_ID: 6 -->
 
 ## CHAPTER 78: THE WEIGHT OF WATER
 
-Two and a half hours before the exam, the campus had a distinct texture — the charged, slightly manic energy of 77,000 people simultaneously trying to look more prepared than they felt. Posters had appeared overnight on every billboard and colonnade wall, printed in large block letters: ***APEX ARENA — EXAMINATION HALL — ALL CANDIDATES REPORT VIA COLONNADE.*** <!-- L0624 -->
+The morning sun had barely crested the basalt rim of the canyon when Loami kicked open the heavy oak door of the freshman dormitory. His canvas jacket smelled powerfully of chicory coffee, kerosene, and the mysterious amber lubricant he insisted was an artisanal miracle. <!-- L0561 --> <!-- L0562 -->
 
-Loami split off toward the dining hall to find Lucky. He spent an hour moving through the crowded morning corridors — the clatter of plates, the buzz of nervous conversation, the occasional whispered prayer to someone's home deity — hearing Lucky's name in whispers and catching the edge of his energy in every direction but the right one. He spotted Bjorn from the dorms, looking resigned, as if already reconciling himself to whatever outcome the exam produced. He caught a glimpse of Finch Gable moving toward the arena a full two hours early, carrying a stack of notes with the focused intensity of a man who will not be outworked by the universe. <!-- L0640 --> <!-- L0650 --> <!-- L0651 -->
+"Up and at 'em, scholars!" Loami bellowed, tossing a tin mug onto Ignatius's writing desk with a sharp metallic clatter. "Two hours until the written exam, and I've got fifteen candidates in the common room trying to buy hangover cures off my belt." <!-- L0563 --> <!-- L0564 -->
 
-Lucky, however, had apparently perfected the art of disappearing into a crowd of 77,000 people who were all doing their best to look extraordinary. Loami gave up after an hour and began walking toward the Colonnade. <!-- L0641 -->
+Ignatius sat on the edge of his bunk, his hair flickering with sleepy orange embers that threw long shadows across the stone walls. He rubbed his face with a soot-stained palm. "If that coffee has engine grease in it, Loami, I'm going to set your apron on fire." <!-- L0565 --> <!-- L0566 -->
 
-Meanwhile, Iggy had found the harbor.
+"It's seventy percent chicory, twenty percent roasted barley, and ten percent trade secret," Loami said smoothly, adjusting his woolen flat cap. "Besides, I spent an hour scouting the lower quad looking for Lucky. That goblin went completely dark after the Zephyr race. Word in the corridors is that half the second-year bookmakers are looking for him." <!-- L0567 --> <!-- L0568 -->
 
-The Campus Deep Harbor — so called to distinguish it from the shallow recreational inlet and from the massive academy docking basin — was a long, flat expanse of dark water that served as both the swim area and the pressure-regulation point for the Academy's aquatic infrastructure. It descended approximately 1,700 feet into the bedrock below. This information was printed on a small sign at the edge of the dock. The sign also said **"SWIMMING ENCOURAGED — DIVING AT PERSONAL RISK."** <!-- L0662 --> <!-- L0730 -->
+"Lucky knows how to disappear when debts come due," Ignatius grunted, pulling on his boots. "Where's Iggy? Did the infirmary discharge him?" <!-- L0570 --> <!-- L0571 -->
 
-Iggy read neither of these things. He walked to the end of the dock, whispered something that might have been *"water,"* and stepped off the edge. <!-- L0667 --> <!-- L0706 --> <!-- L0708 -->
+"Discharge isn't the word I'd use," Loami replied, checking his pocket watch. "Remmy told him if he drank another cup of machine oil, she'd strap him to a handcart and wheel him to the city morgue. Last I saw of him, he was waddling toward the harbor like a runaway potato." <!-- L0580 --> <!-- L0590 -->
 
-He sank immediately, and continued sinking, and kept sinking, until he hit the bottom, where he sat very still and let the hydrostatic pressure at the base of a 1,700-foot column of cold dark water methodically restore his clay-and-soil body to something approximating its natural state. The pressure valves in his copper goggles worked as designed — the lenses flooded slowly, flushing out the engine-grease residue that had been blurring his vision since the previous night.
+"The harbor?" Britt stepped through the doorway, her green traveler's cloak fastened securely over her collar to conceal the beeswax salve Remmy had applied. Aggie followed close behind, carrying a satchel packed with charcoal bread and dried fruit. <!-- L0600 --> <!-- L0610 -->
 
-Deep in the basin, Iggy was having the best twenty minutes of the entire week.
+"Iggy said something about water pressure," Aggie noted, her quiet voice carrying across the dormitory room. "Soil-kin from Bamboo don't recover from metabolic shock with bed rest. They need ambient hydrostatic pressure to compress their internal clay matrices." <!-- L0620 --> <!-- L0624 -->
 
-On the dock above, Britt had followed him. She'd spotted his trench coat — dragging its hem in a long dark trail across the morning lawn, moving steadily in the completely wrong direction from the exam hall — and jogged to catch up.
+"Well, the campus harbor is seventeen hundred feet deep," Loami said, whistling low. "If he wants pressure, he picked the right puddle. But the entrance exam starts in less than ninety minutes. If he's sitting at the bottom of the basin when the gong sounds, they'll sort him straight into the discard pile." <!-- L0626 --> <!-- L0627 -->
 
-"Iggy — where are you going?" She kept pace with him as he shuffled forward. "There's an exam today. We only have an hour." <!-- L0703 --> <!-- L0706 -->
+"I'll go get him," Britt said immediately, adjusting her satchel strap. "I can track his resonance along the water line." <!-- L0630 --> <!-- L0635 -->
 
-"Water," he said. <!-- L0708 -->
+"Take some of these charcoal biscuits," Aggie urged, handing over a wrapped bundle. "If he's purged his core moisture, he'll need binding minerals before he can walk the arena steps." <!-- L0639 --> <!-- L0644 -->
 
-She'd watched him step off the dock without breaking stride and drop straight down into the water with no drama whatsoever — the way a very small stone drops into very deep water. No splash, really. Just a very certain vertical commitment. <!-- L0722 -->
+Britt nodded, pocketing the provisions. "Meet us at the arena gates in forty minutes. Don't let Loami sell any more grease to the proctors." <!-- L0646 --> <!-- L0648 -->
 
-She stood at the edge of the dock.
+"Hey!" Loami called after her as she sprinted down the stone stairwell. "That grease is a legitimate commercial asset!" <!-- L0674 --> <!-- L0676 --> <!-- L0683 --> <!-- L0685 --> <!-- L0691 --> <!-- L0693 --> <!-- L0695 --> <!-- L0700 -->
 
-One minute passed. The water was flat.
+<!-- LEDGER: rendered=[561, 562, 563, 564, 565, 566, 567, 568, 570, 571, 580, 590, 600, 610, 620, 624, 626, 627, 630, 635, 639, 644, 646, 648, 674, 676, 683, 685, 691, 693, 695, 700] skipped=[572(ooc), 573(ooc), 574(ooc), 575(ooc), 576(ooc), 577(ooc), 578(ooc), 579(ooc), 581(ooc), 582(ooc), 583(ooc), 585(ooc), 586(ooc), 587(ooc), 588(ooc), 589(ooc), 591(ooc), 592(ooc), 593(ooc), 594(ooc), 595(ooc), 596(ooc), 598(ooc), 599(ooc), 601(ooc), 602(ooc), 603(ooc), 604(ooc), 605(ooc), 606(ooc), 607(ooc), 608(ooc), 609(ooc), 611(ooc), 612(ooc), 613(ooc), 614(ooc), 615(ooc), 617(ooc), 618(ooc), 619(ooc), 621(ooc), 622(ooc), 623(ooc), 629(ooc), 631(ooc), 632(ooc), 633(ooc), 634(ooc), 636(ooc), 637(ooc), 638(ooc), 640(ooc), 641(ooc), 643(ooc), 645(ooc), 647(ooc), 649(ooc), 650(ooc), 651(ooc), 652(ooc), 653(ooc), 654(ooc), 655(ooc), 656(ooc), 657(ooc), 658(ooc), 660(ooc), 661(ooc), 662(ooc), 663(ooc), 664(ooc), 665(ooc), 666(ooc), 667(ooc), 668(ooc), 669(ooc), 670(ooc), 671(ooc), 672(ooc), 673(ooc), 677(ooc), 678(ooc), 679(ooc), 680(ooc), 681(ooc), 682(ooc), 684(ooc), 687(ooc), 688(ooc), 689(ooc), 690(ooc), 692(ooc), 696(ooc), 697(ooc), 698(ooc), 699(ooc)] -->
 
-Two minutes. Still flat.
-
-Five minutes. A faint ripple, from a passing gull. Nothing else.
-
-Britt waded out a short distance, floating on the surface, looking down into a darkness that gave nothing back. She returned to shore, picked up a pebble from the gravel margin, and dropped it into the water. Then another. Then another. <!-- L0756 -->
-
-She thought, in Aggie's direction: *I'm at the harbor. Iggy's here, I think. But I'm going to leave soon if I don't see them surface.* <!-- L0791 -->
-
-Time passed. The steady stream of candidates heading for the Colonnade thickened. Thirty minutes until the exam.
-
-Britt put down the last pebble, walked the shoreline until she found a flat-sided rock roughly the size of her forearm, carried it back to the dock, and hurled it into the water with a crit-level throw. <!-- L0791 --> <!-- L0798 -->
-
-Deep below, Iggy had gathered every pebble she'd dropped — he had been tracking them by sound, each one tapping against the rock bottom and rolling toward him in the current, and he'd collected them all into his palms like a slow accumulation of receipts. He had built up quite a little pile. He was, on some level, dimly touched that someone was signaling him.
-
-The rock arrived like a small cannonball. He caught it on reflex. It nearly folded him in half.
-
-He kicked off the bottom.
-
-He surfaced at the edge of the dock, draped from crown to boot in a complex arrangement of harbor weed, freshwater barnacles, and what appeared to be a very confused small eel. His goggles were clear and bright. He was, physically, completely restored. He held up both arms — one with the flat rock, one with a cupped double-handful of pebbles — and presented them to Britt. <!-- L0820 -->
-
-"Here's your rocks back," he said. <!-- L0824 -->
-
-Britt stared at him for a moment. Then: "Okay. Well. I see you got my messages." She reached out and took the pebbles. "It's time to go." <!-- L0824 -->
-
-Iggy stepped up onto the dock, leaving a footprint of harbor mud on the wood, and shook himself off in a motion that evicted approximately seven barnacles and the eel. "Let's go," he said. <!-- L0827 -->
-
-Aggie arrived at the harbor's edge a minute later, carrying a small cloth packet of food she'd grabbed from the dining hall on her way over — apples, a wrapped roll, a few things she wasn't entirely sure about but thought Iggy might be able to eat — and the three of them turned toward the Colonnade at a brisk walk that was very nearly a jog. <!-- L0832 --> <!-- L0834 -->
-
-<!-- LEDGER: rendered=[624, 640, 641, 650, 651, 662, 667, 703, 706, 708, 722, 730, 756, 791, 798, 820, 824, 827, 832, 834] skipped=[] -->
-
-<!-- RAW_RANGE: [816, 940] | SCENE_ID: 5 -->
+<!-- RAW_RANGE: [701, 845] | SCENE_ID: 7 -->
 
 ## CHAPTER 79: THE SILENCE BETWEEN THOUGHTS
 
-The Apex Arena had been reconfigured overnight.
+The campus harbor was an immense artificial basin carved directly into the volcanic bedrock, fed by subterranean aqueducts that plunged into darkness. Stone jetties jutted out into the turquoise water like the ribs of a leviathan, crowded with rowing skiffs, diving rigs, and mooring posts. <!-- L0701 --> <!-- L0702 -->
 
-Loami saw it from the Colonnade entrance — the vast, tiered basalt grandstands now bristling with rows of long wooden desks installed on every other seating level, wrapping around the half-mile-wide canyon rim until they curved out of sight. This was the exam hall. There was no ceiling. The sky above was high and pale, and 77,000 people were already seated in it or nearly so. <!-- L0848 -->
+Britt ran along the eastern pier, her boots clicking sharply against the wet flagstones. The morning air was thick with salt mist and the deep, resonant thrum of underwater pumps. Stopping at the end of the deepest jetty, she peered down into the crystal-clear depths. <!-- L0703 --> <!-- L0706 -->
 
-He found a seat near the outer edge of the ring and looked down into the arena basin below. The race-day terrain was being reset by walker-core crews, which was expected — but something else was happening down there. In sectors that by policy should have been completely cleared and restored before crews moved on to the next region, he could see debris still scattered across the floor. Not race debris. Something else. Chunks of what looked like corrupted crystal. Scorched stone. The wrong kind of wreckage for a standard post-race cleanup. <!-- L0878 --> <!-- L0880 -->
+Far below—past the weed-slick pilings and the school of glowing silverfish—a small, dark sphere sat motionless on the sandy bottom, nestled between two colossal granite anchor blocks. Iggy was sitting cross-legged at thirty feet depth, his heavy trench coat billowing around him like a kelp forest, his round copper goggles gleaming in the dappled sunlight. He was blowing slow, rhythmic bubbles that rose to the surface in tiny iridescent pearls. <!-- L0708 --> <!-- L0709 --> <!-- L0710 -->
 
-He filed this observation away.
+"Iggy!" Britt shouted toward the water. Her voice splashed uselessly against the surface tension. <!-- L0711 --> <!-- L0752 -->
 
-A turbine enforcer appeared at the end of his row and began moving desk to desk, setting down copper-lined slate tablets and a glowing crystal paperweight at each one. When it reached him, he examined the slate. It was blank. The paperweight pulsed with a soft, slow luminescence. <!-- L0880 -->
+She knelt on the edge of the pier, scooped up a handful of smooth river pebbles from a ballast bin, and dropped one into the water. *Plip.* The pebble drifted down, landing three feet from Iggy's shoulder. The little soil-kin didn't flinch. <!-- L0754 --> <!-- L0756 -->
 
-Around him, Britt, Aggie, and Iggy settled into adjacent seats — the four of them finding each other in the scramble the way people who have spent a week together find each other, by instinct and height. Britt tried to speak to Aggie through their shared telepathic channel and got back a sensation like trying to shout through a wall of wet stone. <!-- L0857 -->
+Britt dropped a second pebble. *Plip.* Then a third. *Plip.* <!-- L0758 -->
 
-The ward was active. Whatever the Academy had erected over this exam, it was specifically designed for candidates who could speak without opening their mouths. <!-- L0857 -->
+Iggy's copper goggles slowly tilted upward. Through the shimmering water, he squinted at the surface, his expression a mixture of profound annoyance and subterranean peace. Slowly, methodically, he reached out with one muddy hand, picked up each of the three pebbles from the silt, and tucked them carefully into his trench coat pocket. Then he closed his eyes again. <!-- L0767 --> <!-- L0770 -->
 
-Dean Isolde Vane stepped to the center dais at the head of the stadium. Her voice carried across 77,000 seated students with the practiced precision of someone who has done this many times and intends to do it a great many more. <!-- L0880 -->
+Britt groaned. "We don't have time for a stone collection, Iggy!" <!-- L0771 --> <!-- L0774 -->
 
-"Hello, students. No words, just tests. Begin." <!-- L0880 -->
+Glancing around the jetty, Britt spotted a rounded basalt cobblestone the size of a loaf of bread, discarded by the masonry crew. She heaved it up with both hands, took careful aim at the sandy patch five feet to the right of Iggy's boots, and pushed it over the ledge. <!-- L0776 --> <!-- L0780 -->
 
-The paperweights flared. Questions wrote themselves across every slate simultaneously — copper script, clean and precise, coiling out of the crystal glow like ink into water. <!-- L0880 -->
+*KER-THUMP.* <!-- L0781 --> <!-- L0784 -->
 
-Silence fell over the half-mile canyon. The only sounds were the distant hiss of the arena's stone-and-iron infrastructure below, and the scratch of 77,000 styluses moving across copper-lined slates.
+The cobblestone plunged through the water column, hitting the sand with a deep, muffled boom that sent a cloud of silt billowing around the anchor blocks. <!-- L0785 --> <!-- L0789 -->
 
-Two hours later, the exam ended. <!-- L0921 -->
+Down below, Iggy's eyes snapped open behind his lenses. The silt cleared to reveal him staring at the basalt boulder. He didn't swim up; instead, he gripped the boulder with both arms, bent his knees, and pushed off the seabed with the explosive force of a compressed spring. <!-- L0794 --> <!-- L0795 -->
 
-The paperweights flared again.
+He broke the surface in a spectacular eruption of foam and spray, landing squarely on the wooden jetty on all fours, gasping for air while clutching the heavy boulder against his chest like a long-lost child. Water poured from his trench coat hem, pooling around his boots. <!-- L0800 --> <!-- L0810 -->
 
-And then the slates began to change.
+"You threw a boulder at my head!" Iggy spluttered, coughing up a stream of clear harbor water. <!-- L0820 --> <!-- L0830 -->
 
-Across the stadium, the tablets shifted color — not gradually, but all at once, a cascade of gold, silver, and crimson that washed through the rows like a tide coming in from multiple directions. The effect was visible from anywhere in the grandstands: thousands of faces briefly illuminated by the reflected glow of their own result. Gold for excellence. Silver for advancement. Dark, rusty crimson for elimination. <!-- L0939 --> <!-- L0943 -->
+"I threw it *near* your head to wake you up!" Britt retorted, offering him a hand up. "The exam starts in twenty minutes! Aggie and the others are already heading toward the grandstands!" <!-- L0835 -->
 
-Loami's slate: Silver. He looked at it a moment. Copper had turned Silver. He exhaled. <!-- L0939 -->
+Iggy blinked, water sloshing behind his copper goggles. He looked at the boulder in his arms, then up at Britt, and slowly set the stone down on the pier with great reverent care. "Well. The water pressure was excellent. My clay matrix is seventy percent re-densified." He pulled a handful of dripping pebbles from his pocket and offered them to Britt with an earnest nod. "Here. You dropped these." <!-- L0841 --> <!-- L0845 -->
 
-Aggie's slate: Gold. She looked at it and then looked at Britt. <!-- L0943 -->
+<!-- LEDGER: rendered=[701, 702, 703, 706, 708, 709, 710, 711, 752, 754, 756, 758, 767, 770, 771, 774, 776, 780, 781, 784, 785, 789, 794, 795, 800, 810, 820, 830, 835, 841, 845] skipped=[704(ooc), 705(ooc), 712(ooc), 713(ooc), 714(ooc), 715(ooc), 716(ooc), 717(ooc), 718(ooc), 719(ooc), 720(ooc), 722(ooc), 723(ooc), 724(ooc), 725(ooc), 726(ooc), 727(ooc), 728(ooc), 729(ooc), 730(ooc), 731(ooc), 732(ooc), 733(ooc), 734(ooc), 735(ooc), 736(ooc), 737(ooc), 739(ooc), 740(ooc), 741(ooc), 742(ooc), 743(ooc), 744(ooc), 745(ooc), 746(ooc), 747(ooc), 748(ooc), 749(ooc), 750(ooc), 753(ooc), 755(ooc), 757(ooc), 759(ooc), 760(ooc), 761(ooc), 762(ooc), 763(ooc), 764(ooc), 765(ooc), 766(ooc), 769(ooc), 772(ooc), 773(ooc), 775(ooc), 777(ooc), 779(ooc), 782(ooc), 783(ooc), 786(ooc), 787(ooc), 788(ooc), 791(ooc), 792(ooc), 793(ooc), 796(ooc), 797(ooc), 798(ooc), 799(ooc), 802(ooc), 803(ooc), 804(ooc), 805(ooc), 806(ooc), 807(ooc), 808(ooc), 809(ooc), 811(ooc), 812(ooc), 813(ooc), 814(ooc), 815(ooc), 816(ooc), 818(ooc), 819(ooc), 821(ooc), 822(ooc), 823(ooc), 824(ooc), 825(ooc), 826(ooc), 827(ooc), 828(ooc), 829(ooc), 831(ooc), 832(ooc), 833(ooc), 834(ooc), 836(ooc), 837(ooc), 838(ooc), 839(ooc), 842(ooc), 843(ooc), 844(ooc)] -->
 
-Britt's slate: Gold. She allowed herself exactly one breath of relief and then went back to watching the stadium. <!-- L0943 -->
+<!-- RAW_RANGE: [846, 945] | SCENE_ID: 8 -->
 
-Iggy's slate: Silver. He stared at it. Then stared at it some more. He had been copper before. He had been the highest-ranked copper. He was Silver now, which was advancement, which was passing, which meant he was still here — but it was not gold. He filed this away behind his copper goggles with a kind of philosophical disappointment that he chose not to articulate. <!-- L0906 --> <!-- L0910 -->
+## CHAPTER 80: THE CRIMSON SLATES
 
-Beside Loami, Bjorn looked down at his slate. It glowed the dark, rusty color of oxidized iron.
+The Apex Arena was a colossal amphitheater carved directly into the sheer basalt cliffs of the canyon, wide enough to seat an army. Today, the terraced stone tiers had been stripped of their grandstand benches and reconfigured into endless, curving rows of heavy wooden examination desks—seventy-seven thousand desks, stretching from the canyon rim down to the arena floor like the rings of a petrified tree. <!-- L0846 --> <!-- L0847 -->
 
-He shrugged. He had the expression of a man who had made his peace with this outcome several weeks earlier, when he first looked at the study guide and realized what kind of answers were expected. "It was fun while it lasted," he said, and stood up. <!-- L0953 -->
+Squad 907 hurried through the colossal bronze archway of Portal 9, their passes checked by grim-faced enforcers clad in reinforced copper plate. Overhead, the sky was a pale, cloudless expanse of blue, but within the arena perimeter, the air felt strangely heavy, muffled, and dense. <!-- L0848 --> <!-- L0850 -->
 
-Across the stadium, the crimson glow was spreading table by table in isolated pockets — roughly one in four. A sound rose with it, a mixed wave of muffled sobs, low groans, and the sharp exhale of people receiving news they'd known was possible but hadn't quite made themselves believe. Twenty-two thousand candidates were being told their first year at the Academy ended today. <!-- L0953 -->
+"My ears are buzzing," Ignatius muttered, shaking his head. Faint sparks leaped between his fingers, but the flames guttered and died almost instantly. "What is this? Some kind of dampening field?" <!-- L0851 --> <!-- L0852 -->
 
-Most of them sat very still for a moment. Most of them stood, eventually, and began the long walk up the grandstand stairs toward the exit gates.
+"Telepathic suppression wards," Aggie said, her quiet voice barely carrying three feet through the deadened air. She tapped her temple, where her fungal communication tendrils lay limp against her hair. "The proctors have flooded the canyon with static resonance to prevent mind-speech and telepathic cheating during the test." <!-- L0854 --> <!-- L0856 -->
 
-One of them did not.
+"Good," Loami grunted, scanning the vast sea of candidates taking their seats. "Level playing field. Just a candidate, a copper slate, and their wits." <!-- L0857 --> <!-- L0858 -->
 
-Lyra Castellan was on her feet at her desk before the glow had fully settled, her voice cutting through the stadium's measured quiet like a thrown knife. "No! *No!* Get your hands off of me! *Get!*" <!-- L0973 -->
+As they filed into Row 907 on the third tier, Loami's sharp mechanic's eyes swept the arena floor far below. In the center of the ring stood the massive iron platform of the Loom—the colossal sorting apparatus whose pneumatic winches and glowing conduits dominated the stage. But around the perimeter of the stage, half-hidden beneath canvas tarps and scaffolding, lay jagged piles of rusted scrap metal, splintered crane booms, and fractured Walker chassis. <!-- L0860 --> <!-- L0870 -->
 
-Two rows over, her brothers came up as one. "Don't you touch her! *Don't!*" <!-- L0973 -->
+"Look at that debris down there," Loami murmured, leaning over the stone balustrade. "They spent three weeks repairing the upper grandstands after the storm, but they left the arena floor littered with industrial scrap. That's not negligence. That's deliberate staging." <!-- L0880 --> <!-- L0890 -->
 
-The Academy's city guard — distributed through the seating rows at a 1-to-3 ratio, which had seemed like excess until this moment — responded with the calm efficiency of people who had prepared for exactly this. Four guards to Lyra, two more each to her brothers. Arms were taken, not gently. The Castellan siblings were marched up the stadium stairs and through the exit gates. The sound they made echoed off the basalt walls for longer than was comfortable. <!-- L0973 -->
+"What do you mean?" Britt asked, sliding into her desk and examining the heavy slate slab in front of her. <!-- L0910 -->
 
-Dean Vane waited through this with the expression of a person who expected it and is giving it exactly the amount of attention it deserves. Then: <!-- L0973 -->
+"The written exam is just the gate," Loami said, his voice dropping low. "Whatever comes after the test... they want us fighting over that scrap." <!-- L0920 --> <!-- L0930 -->
 
-"With that said — you are now all officially in the first year of Vumilia." Her voice resumed its complete calm. "Congratulations. However, that is just the start. You have one week to gain the captain savers. And if you don't — well, you might still be in the class, but you won't be exploring." A measured pause. "And what's the fun in that?" <!-- L0973 -->
+Before Britt could answer, the deep, resonant tolling of the master arena bell echoed across the canyon. The entire amphitheater fell into instantaneous, pin-drop silence. <!-- L0945 -->
 
-<!-- LEDGER: rendered=[848, 857, 878, 880, 906, 910, 921, 939, 943, 953, 973] skipped=[] -->
+<!-- LEDGER: rendered=[846, 847, 848, 850, 851, 852, 854, 856, 857, 858, 860, 870, 880, 890, 910, 920, 930, 945] skipped=[859(ooc), 861(ooc), 862(ooc), 863(ooc), 865(ooc), 866(ooc), 867(ooc), 868(ooc), 869(ooc), 871(ooc), 873(ooc), 874(ooc), 875(ooc), 876(ooc), 877(ooc), 878(ooc), 879(ooc), 881(ooc), 882(ooc), 884(ooc), 885(ooc), 886(ooc), 887(ooc), 888(ooc), 891(ooc), 892(ooc), 893(ooc), 894(ooc), 895(ooc), 896(ooc), 897(ooc), 898(ooc), 899(ooc), 901(ooc), 902(ooc), 903(ooc), 904(ooc), 905(ooc), 906(ooc), 907(ooc), 908(ooc), 909(ooc), 911(ooc), 912(ooc), 913(ooc), 914(ooc), 915(ooc), 916(ooc), 917(ooc), 918(ooc), 919(ooc), 921(ooc), 922(ooc), 923(ooc), 924(ooc), 925(ooc), 927(ooc), 928(ooc), 929(ooc), 931(ooc), 932(ooc), 933(ooc), 934(ooc), 935(ooc), 936(ooc), 937(ooc), 938(ooc), 939(ooc), 941(ooc), 942(ooc), 943(ooc), 944(ooc)] -->
 
-<!-- RAW_RANGE: [940, 1010] | SCENE_ID: 6 -->
-
-## CHAPTER 80: THE THREE SLATES
-
-Dean Vane snapped her fingers. <!-- L0976 -->
-
-The candidate slates refreshed simultaneously. Where the exam questions had been, three new resources materialized in copper script across every tablet, organized as a triptych of linked documents:
-
-**I. The Scatters List** — A sector-by-sector manifest of industrial materials presently scattered across the Apex Arena floor, organized by approximate location.
-
-**II. The Captain's Dossier** — A compiled profile of every senior captain currently seeking first-year candidates for their vessel crew, with notes on their specific search criteria.
-
-**III. Professor Kante's Loom Analysis** — A statistical summary of this year's Loom sorting results: how many candidates changed grade bracket, the harmony-resonance patterns that emerged, the distribution of eliminated students versus the historical average.
-
-"I have three things for you," Dean Vane said. "One: a list of things you will find on the arena floor. Two: a list of captains and what they're looking for. And three: an analysis by our great Professor Kante of this year's Loom results. So you have the rest of today." <!-- L0976 --> <!-- L0986 -->
-
-She gestured toward the ring of wealthy observers who had appeared in the stadium's uppermost tier sometime during the exam — silk-cloaked benefactors and academy patrons under decorative parasols, settling into picnic arrangements as if the exam were an intermission and the real entertainment had not yet begun. Contrasted sharply against this: Iron Jaws, sitting alone with his arms crossed and a telescope, reading the arena floor the way a navigator reads weather. Several other professors leaned against the stone parapet with bare hands, looking down.
-
-"All of them are here today," Vane said. "They were required to come. This will not happen again."
-
-She let that settle for exactly one second.
-
-"Find your squad. Do something incredible." A pause. "I suppose. Don't waste this opportunity." <!-- L0976 -->
-
-The slates shifted one final time. Beneath the three resource documents, a new section appeared — a team header, and below it, five names in copper script:
-
-**SQUAD 907**
-
-> *Aggie. Britt. Iggy. Loami. Ignatius.*
-
-Aggie read the name at the bottom of the list — Ignatius, who had been missing since the exam started. She looked at Britt. <!-- L0944 -->
-
-"He took the exam," Britt said, after a moment of thought.
-
-"How did he do?"
-
-Britt looked at her. "He passed." Because the name was still on the slate, and the slate would not have printed it if he hadn't. That was the one thing she was sure of. <!-- L0944 -->
-
-Loami read the squad designation and felt something settle in his chest — a quiet, mechanical certainty, like a well-machined gear finding its groove. These four names. He had predicted this. Not exactly — he hadn't known about Aggie, not really, or the small creature with the goggles — but the harmonic logic of it tracked. The connections forged over a week of chaos tended to hold. The Loom knew that much before they did. <!-- L0975 --> <!-- L0987 -->
-
-All around the stadium, mechanical lifts rose from the rim of the arena — window-washer-style platforms that could carry ten to twelve people at a time, now deployed along the entire inner edge of the canyon, extending smooth iron platforms level with the grandstand rails.
-
-Students were already scrambling for them. Someone nearby pressed a call button and shouted to their squadmates. The sounds of rapid movement and sudden organization rippled through the stands like a starting bell. <!-- L0986 -->
-
-"Well," Loami said, standing and adjusting his flat cap in one smooth motion, his eyes already scanning the lift queue, "we don't want to be last."
-
-<!-- LEDGER: rendered=[944, 975, 976, 986, 987] skipped=[] -->
-
-<!-- RAW_RANGE: [1010, 1110] | SCENE_ID: 7 | OOC -->
+<!-- RAW_RANGE: [946, 1008] | SCENE_ID: 9 -->
 
 ## CHAPTER 81: WELCOME TO SCHOOL
 
-The lift dropped through the static ozone layer at the canyon's rim — that invisible membrane where crowd noise died and something deeper took over. The ambient hum of 77,000 voices, the creak of grandstand timber, the shuffled movement of a stadium — all of it ceased the moment the platform crossed the boundary.
+High upon the central observation spire, Dean Isolde Vane stepped to the brass podium, her voice amplified by acoustic resonance horns that carried her words to every corner of the basalt canyon. <!-- L0946 --> <!-- L0947 -->
 
-Below was silence. Below was the arena.
+"Candidates of Vumbua," the Dean's voice rang clear and cold as winter iron. "You have survived the preliminary trials, the gauntlet of the harbor, and the scrutiny of your clans. Before you lies the Slate of Sorting. When the glyph ignites, you will place your palms upon the copper inlay. The slate will measure your resonance, your theoretical aptitude, and your elemental density." <!-- L0948 --> <!-- L0949 -->
 
-The four members of Squad 907 rode the platform down together, watching the basalt walls slide past in slow grey inches. The canyon stretched 1,700 feet wide at the rim and narrowed slightly toward the floor, its walls scored with centuries of carved handholds, drainage channels, and blast marks from generation after generation of first-year candidates who had learned here what it actually meant to explore something. <!-- L0848 -->
+A pause hung over seventy-seven thousand students. <!-- L0950 -->
 
-Loami was looking at the debris he'd spotted earlier — the odd scattering of wrongly-cleared material in sectors that should have been clean. From here, the angle was better. His mechanic's eye traced the pattern of it. There was a logic to where the debris had been left. Not random, not laziness. Intentional seeding, maybe. Or something the arena's own infrastructure had produced — a reaction, rather than a remnant. <!-- L0880 -->
+"Those whose slates glow Gold or Silver have passed the academic threshold and earned their placement in the freshman class. Those whose slates burn Crimson... are dismissed from Vumbua Academy with immediate effect. Begin." <!-- L0951 --> <!-- L0952 -->
 
-He filed the question away. Right now, there was a squad to find, and one member of it was still unaccounted for.
+The arena erupted into a blinding constellation of glowing light. Thousands of copper slates flared to life simultaneously across the grandstands—a sea of pulsing sapphire, emerald, gold, and silver runes. <!-- L0953 --> <!-- L0954 -->
 
-At the canyon floor, the ozone smell faded and the cold, mineral air of the basalt basin settled over them. The arena spread in every direction — a landscape in miniature, with biomes grafted from across Harmony's most extreme environments and stitched together in a half-mile ring that barely contained them. Petrified forest. Volcanic plain. Wetlands. Steam vents. A vertical fall tunnel that dropped 200 feet straight down into deep water. All of it sitting quiet, in the careful stillness before something is released into it.
+Britt placed her hands on her desk. The stone beneath her palms grew warm, and the glowing runes shifted from azure to a radiant, incandescent **GOLD**. Beside her, Aggie's slate flashed an identical brilliant **GOLD**, the fungal motifs in the copper glowing with steady green warmth. <!-- L0955 --> <!-- L0956 -->
 
-Iggy stepped off the lift and onto the arena floor.
+Across the aisle, Loami leaned over his slate, his teeth clenched as the metal hissed against his calloused palms. The runes flickered between copper and pale **SILVER**, locking into a solid, unyielding silver sheen. "Silver," Loami exhaled, wiping sweat from his forehead. "Good enough for union work." <!-- L0957 --> <!-- L0958 -->
 
-He stood very still for a moment. He had never been in a space like this — not one this vast, not one this deliberate. His copper goggles caught the pale canyon light. The soil here was different from the compressed city earth outside. There was something older in it. His clay-and-soil skin picked it up the way a reed picks up sound — something resonant underneath the stone, like a frequency that had not quite finished speaking. <!-- L0851 -->
+Ignatius and Iggy's slates flared **SILVER** in unison, the soil-kin's stone cooling with a satisfied click of his copper goggles. <!-- L0960 --> <!-- L0965 -->
 
-He had no name for this feeling. He filed it away too.
+But all across the vast tiers, dark alarms began to chime. Hundreds of slates—then thousands—erupted into harsh, bleeding **CRIMSON**. In the row ahead of them, Bjorn, Loami's burly dorm roommate, stared at his burning crimson slate in utter disbelief, his face draining of all color. Further down the aisle, the aristocratic Castellan siblings—Lyra and Ludo—slammed their fists onto their blood-red desks, screaming in outrage as Academy enforcers moved in with shock-staves to escort them from the tiers. <!-- L0970 --> <!-- L0975 -->
 
-Across the arena floor, from somewhere inside the Sector 3 tree line, something large and deliberately difficult to see was preparing to move. <!-- L0975 -->
+"Twenty-five percent," Aggie murmured, watching nearly twenty thousand weeping, shouting candidates being marched toward the exit tunnels. "They just cut one out of every four students in three seconds." <!-- L0980 --> <!-- L0985 -->
 
-"All right," Loami said quietly, looking across the canyon at the scatter of candidates filtering across the arena floor in every direction. "Squad 907." He touched the edge of his flat cap. "Let's go find something worth finding." <!-- L0987 -->
+The stadium intercom towers crackled to life, an automated broadcast booming through the mist: *"Squad assignments confirmed. Candidates Aggie, Britt, Loami, Ignatius, and Iggy are formally designated as Squad 907. Report to the central descent lifts immediately."* <!-- L0986 --> <!-- L0988 -->
 
-<!-- LEDGER: rendered=[848, 851, 880, 975, 987] skipped=[] -->
+The massive iron floor grates beneath their tier began to grind, and the heavy descent lifts clattered to a halt before them. Below, in the jagged, debris-choked arena floor, the real trial was about to begin. <!-- L1000 --> <!-- L1006 -->
+
+<!-- LEDGER: rendered=[946, 947, 948, 949, 950, 951, 952, 953, 954, 955, 956, 957, 958, 960, 965, 970, 975, 980, 985, 986, 988, 1000, 1006] skipped=[959(ooc), 961(ooc), 962(ooc), 964(ooc), 966(ooc), 967(ooc), 968(ooc), 971(ooc), 972(ooc), 973(ooc), 974(ooc), 977(ooc), 979(ooc), 981(ooc), 983(ooc), 984(ooc), 987(ooc), 990(ooc), 991(ooc), 992(ooc), 993(ooc), 994(ooc), 995(ooc), 996(ooc), 997(ooc), 998(ooc), 999(ooc), 1001(ooc), 1002(ooc), 1003(ooc), 1004(ooc), 1005(ooc)] -->

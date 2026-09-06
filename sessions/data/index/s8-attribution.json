@@ -1,8 +1,8 @@
 {
   "session_id": "s8",
-  "session_config": "config\\s8-session-config.json",
+  "session_config": "config/s8-session-config.json",
   "decisions_file": null,
-  "indexed_file": "data/\index\\s8-raw-indexed.md",
+  "indexed_file": "data/index/s8-raw-indexed.md",
   "gm": "Luke S",
   "shared_mics": [],
   "stream_counts": {

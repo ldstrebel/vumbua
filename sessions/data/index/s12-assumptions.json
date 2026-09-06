@@ -149,9 +149,13 @@
       484
     ],
     "type": "speaker_attribution",
-    "assumption": "The mourning NPC 'Val' with red eyes over Kale, mourning Finch and the blonde 'potato arena' captain, is identified as Valerius Sterling (radio host cousin who watches academy events and knows the cadets). Line 464 condolences attributed in the manifest to 'Britt' are rendered as spoken by her PC Aggie, consistent with the scene beat 'Aggie offers condolences to Valerius Sterling.'",
-    "confidence": "medium",
+    "assumption": "The line 'I don't have that answer right now' is spoken by Aggie in response to Val asking 'What is it for?'.",
+    "confidence": "high",
     "raw_text": "Val just looks up and his eyes are red / I'm sorry for your loss / what what is it for? I don't have that answer right now.",
+    "review": {
+      "status": "verified",
+      "correction": "The line 'I don't have that answer right now' is spoken by Aggie (Kristina), not Val."
+    },
     "id": "A-012"
   },
   {
@@ -698,8 +702,8 @@
       1160
     ],
     "type": "ambiguous_audio",
-    "assumption": "Ignatius's garbled 'Thanks to Brian Naggi brand trees' repaired to a reference to the branching trees/roots network that kept his people alive in the forest; treated as a non-ledger table-talk beat and folded into narration.",
-    "confidence": "low",
+    "assumption": "Speech-to-text mishearing of 'Brent and Aggie' ('Brian Naggi' -> 'Brent and Aggie'). Ignatius (played by Brent) is thanking the team effort of himself and Aggie for how they survived in the forest.",
+    "confidence": "high",
     "raw_text": "Thanks to Brian Naggi brand trees so we didn't die in the forest. Was actually very helpful.",
     "id": "A-053"
   },
